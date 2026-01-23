@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>ZEUS Feed — очищенные новости</title>
+  <link rel="stylesheet" href="./styles.css"/>
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <div class="logo">⚡</div>
+      <div>
+        <div class="title">ZEUS Feed</div>
+        <div class="subtitle">нейтрализованные новости без потери языка</div>
+      </div>
+    </div>
+
+    <div class="controls">
+      <input id="q" class="input" placeholder="поиск по заголовкам / идее / тегам…"/>
+      <select id="source" class="select">
+        <option value="">Все источники</option>
+      </select>
+      <select id="sort" class="select">
+        <option value="new">Сначала новые</option>
+        <option value="bias">Сначала самый bias</option>
+      </select>
+      <div class="rangeBox">
+        <label class="label">Bias ≤ <span id="biasMaxLabel">100</span></label>
+        <input id="biasMax" type="range" min="0" max="100" value="100"/>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div id="meta" class="meta"></div>
+    <div id="feed" class="grid"></div>
+  </main>
+
+  <footer class="footer">
+    <span>Сделано для друзей • GitHub Pages • ZEUS protocol</span>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
