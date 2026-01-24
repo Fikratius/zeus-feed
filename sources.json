@@ -7,8 +7,22 @@
     "left_right_index": 0
   },
   {
+    "url": "https://news.gallup.com/home.aspx",
+    "source": "Gallup",
+    "lang": "en",
+    "bias_score": 50,
+    "left_right_index": 0
+  },
+  {
     "url": "https://www.npr.org/rss/rss.php?id=1001",
     "source": "NPR",
+    "lang": "en",
+    "bias_score": 52,
+    "left_right_index": -6
+  },
+  {
+    "url": "https://www.npr.org/?refresh=true",
+    "source": "NPR (Homepage)",
     "lang": "en",
     "bias_score": 52,
     "left_right_index": -6
@@ -26,5 +40,12 @@
     "lang": "en",
     "bias_score": 46,
     "left_right_index": -4
+  },
+  {
+    "url": "https://www.rt.com/",
+    "source": "RT",
+    "lang": "ru",
+    "bias_score": 72,
+    "left_right_index": 60
   }
 ]
