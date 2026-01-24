@@ -10,7 +10,7 @@ from typing import Any, Dict, List, Optional
 import feedparser
 import requests
 
-BASE_FEEDS = [
+FEEDS = [
     {
         "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
         "source": "BBC World",
@@ -40,8 +40,6 @@ BASE_FEEDS = [
         "left_right_index": 12,
     },
 ]
-
-DEFAULT_SOURCES_PATH = "sources.json"
 
 TAG_KEYWORDS = {
     "politics": ["election", "president", "government", "парламент", "выбор", "президент", "правительство"],
@@ -167,46 +165,12 @@ def parse_feed(feed_cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
     return items
 
 
-def load_extra_sources(path: str) -> List[Dict[str, Any]]:
-    if not os.path.exists(path):
-        return []
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            data = json.load(f)
-        if not isinstance(data, list):
-            return []
-        extras = []
-        for entry in data:
-            if not isinstance(entry, dict):
-                continue
-            if not entry.get("url") or not entry.get("source"):
-                continue
-            extras.append({
-                "url": entry["url"],
-                "source": entry["source"],
-                "lang": entry.get("lang", "en"),
-                "bias_score": int(entry.get("bias_score", 50)),
-                "left_right_index": int(entry.get("left_right_index", 0)),
-            })
-        return extras
-    except Exception:
-        return []
-
-
 def build_items() -> List[Dict[str, Any]]:
     api_key = os.getenv("OPENROUTER_API_KEY")
     all_items: List[Dict[str, Any]] = []
     seen = set()
 
-    sources_path = os.getenv("SOURCES_JSON", DEFAULT_SOURCES_PATH)
-    feeds = BASE_FEEDS + load_extra_sources(sources_path)
-    excluded_sources = {"meduza"}
-
-    for feed in feeds:
-        source_name = str(feed.get("source", "")).strip()
-        source_url = str(feed.get("url", "")).lower()
-        if source_name.lower() in excluded_sources or "meduza" in source_url:
-            continue
+    for feed in FEEDS:
         entries = parse_feed(feed)
         for entry in entries:
             if not entry["title"]:
@@ -251,13 +215,8 @@ def build_items() -> List[Dict[str, Any]]:
                 "confidence": confidence,
             })
 
-    filtered_items = [
-        item for item in all_items
-        if str(item.get("source", "")).strip().lower() not in excluded_sources
-        and "meduza" not in str(item.get("url", "")).lower()
-    ]
-    filtered_items.sort(key=lambda x: x.get("published_at") or "", reverse=True)
-    return filtered_items
+    all_items.sort(key=lambda x: x.get("published_at") or "", reverse=True)
+    return all_items
 
 
 def main() -> None:
