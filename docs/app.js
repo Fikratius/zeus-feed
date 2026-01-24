@@ -82,11 +82,15 @@ function render(){
     const lrLabelText = lrLabel(lr, lang);
     const published = x.published_at ? fmtDate(x.published_at) : "";
     const sourceLabel = x.source || "";
+    const meduzaNotice = sourceLabel === "Meduza"
+      ? "НАСТОЯЩИЙ МАТЕРИАЛ (ИНФОРМАЦИЯ) ПРОИЗВЕДЕН И РАСПРОСТРАНЕН ИНОСТРАННЫМ АГЕНТОМ MEDUZA ЛИБО КАСАЕТСЯ ДЕЯТЕЛЬНОСТИ ИНОСТРАННОГО АГЕНТА MEDUZA. 18+"
+      : "";
 
     return `
       <article class="card">
         <h3 class="h1">${escapeHtml(title)}</h3>
         <div class="subline">${escapeHtml(sourceLabel)} • ${escapeHtml(published)} • ${escapeHtml(lang.toUpperCase())}</div>
+        ${meduzaNotice ? `<div class="agent-badge">${escapeHtml(meduzaNotice)}</div>` : ""}
         <div class="scoreline">
           <span class="k">${biasLabel}:</span>
           <div class="dotbar"><div class="dotbar-fill" style="width:${bias}%;"></div></div>
