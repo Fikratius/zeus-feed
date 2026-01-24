@@ -10,7 +10,7 @@ from typing import Any, Dict, List, Optional
 import feedparser
 import requests
 
-BASE_FEEDS = [
+FEEDS = [
     {
         "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
         "source": "BBC World",
@@ -33,6 +33,13 @@ BASE_FEEDS = [
         "left_right_index": -28,
     },
     {
+        "url": "https://meduza.io/rss/all",
+        "source": "Meduza",
+        "lang": "ru",
+        "bias_score": 58,
+        "left_right_index": -22,
+    },
+    {
         "url": "https://tass.ru/rss/v2.xml",
         "source": "ТАСС",
         "lang": "ru",
@@ -40,8 +47,6 @@ BASE_FEEDS = [
         "left_right_index": 12,
     },
 ]
-
-DEFAULT_SOURCES_PATH = "sources.json"
 
 TAG_KEYWORDS = {
     "politics": ["election", "president", "government", "парламент", "выбор", "президент", "правительство"],
@@ -167,41 +172,12 @@ def parse_feed(feed_cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
     return items
 
 
-def load_extra_sources(path: str) -> List[Dict[str, Any]]:
-    if not os.path.exists(path):
-        return []
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            data = json.load(f)
-        if not isinstance(data, list):
-            return []
-        extras = []
-        for entry in data:
-            if not isinstance(entry, dict):
-                continue
-            if not entry.get("url") or not entry.get("source"):
-                continue
-            extras.append({
-                "url": entry["url"],
-                "source": entry["source"],
-                "lang": entry.get("lang", "en"),
-                "bias_score": int(entry.get("bias_score", 50)),
-                "left_right_index": int(entry.get("left_right_index", 0)),
-            })
-        return extras
-    except Exception:
-        return []
-
-
 def build_items() -> List[Dict[str, Any]]:
     api_key = os.getenv("OPENROUTER_API_KEY")
     all_items: List[Dict[str, Any]] = []
     seen = set()
 
-    sources_path = os.getenv("SOURCES_JSON", DEFAULT_SOURCES_PATH)
-    feeds = BASE_FEEDS + load_extra_sources(sources_path)
-
-    for feed in feeds:
+    for feed in FEEDS:
         entries = parse_feed(feed)
         for entry in entries:
             if not entry["title"]:
