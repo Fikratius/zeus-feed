@@ -33,13 +33,6 @@ BASE_FEEDS = [
         "left_right_index": -28,
     },
     {
-        "url": "https://meduza.io/rss/all",
-        "source": "Meduza",
-        "lang": "ru",
-        "bias_score": 58,
-        "left_right_index": -22,
-    },
-    {
         "url": "https://tass.ru/rss/v2.xml",
         "source": "ТАСС",
         "lang": "ru",
