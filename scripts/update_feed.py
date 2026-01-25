@@ -54,6 +54,7 @@ TAG_KEYWORDS = {
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 OPENROUTER_MODEL = "openai/gpt-4o-mini"
+USER_AGENT = "zeus-feed-bot/1.0 (+https://github.com/Fikratius/zeus-feed)"
 
 
 def now_iso() -> str:
@@ -149,8 +150,24 @@ def score_bias(text: str, base_bias: int) -> int:
     return max(0, min(100, base_bias + bump))
 
 
+def fetch_feed(url: str) -> feedparser.FeedParserDict:
+    try:
+        resp = requests.get(
+            url,
+            headers={"User-Agent": USER_AGENT, "Accept": "application/rss+xml, application/atom+xml, text/xml"},
+            timeout=20,
+        )
+        resp.raise_for_status()
+        return feedparser.parse(resp.content)
+    except Exception as exc:
+        print(f"warn: failed to fetch {url}: {exc}")
+        return feedparser.parse(url)
+
+
 def parse_feed(feed_cfg: Dict[str, Any]) -> List[Dict[str, Any]]:
-    parsed = feedparser.parse(feed_cfg["url"])
+    parsed = fetch_feed(feed_cfg["url"])
+    if getattr(parsed, "bozo", False):
+        print(f"warn: feed parse issue for {feed_cfg['url']}: {parsed.bozo_exception}")
     items = []
     for entry in parsed.entries[:15]:
         title = clean_html(entry.get("title", ""))

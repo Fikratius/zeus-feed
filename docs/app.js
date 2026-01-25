@@ -82,7 +82,6 @@ function render(){
     const lrLabelText = lrLabel(lr, lang);
     const published = x.published_at ? fmtDate(x.published_at) : "";
     const sourceLabel = x.source || "";
-
     return `
       <article class="card">
         <h3 class="h1">${escapeHtml(title)}</h3>
