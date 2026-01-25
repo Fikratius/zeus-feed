@@ -87,6 +87,7 @@ function render(){
       <article class="card">
         <h3 class="h1">${escapeHtml(title)}</h3>
         <div class="subline">${escapeHtml(sourceLabel)} • ${escapeHtml(published)} • ${escapeHtml(lang.toUpperCase())}</div>
+        ${meduzaNotice ? `<div class="agent-badge">${escapeHtml(meduzaNotice)}</div>` : ""}
         <div class="scoreline">
           <span class="k">${biasLabel}:</span>
           <div class="dotbar"><div class="dotbar-fill" style="width:${bias}%;"></div></div>
