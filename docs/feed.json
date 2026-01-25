@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-01-25T20:45:28.046722+00:00",
+  "last_updated": "2026-01-25T21:03:02.338466+00:00",
   "items": [
-    {
-      "title_original": "ANN v3: 200ms p99 query latency over 100B vectors",
-      "title_neutral": "ANN v3: 200ms p99 query latency over 100B vectors",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "ANN v3: 200ms p99 query latency over 100B vectors",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 21 Jan 2026 19:58:59 +0000",
-      "url": "https://turbopuffer.com/blog/ann-v3",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
     {
       "title_original": "Head of US Africa bureau urges staff to highlight US ‘generosity’ despite aid cuts",
       "title_neutral": "Head of US Africa bureau urges staff to highlight US ‘generosity’ despite aid cuts",
@@ -82,11 +67,46 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "ТАСС: российские войска ликвидировали пять офицеров ВСУ",
-      "title_neutral": "ТАСС: российские войска ликвидировали пять офицеров ВСУ",
-      "excerpt": "Украинские военные служили в ДНР и Харьковской области, отметили в российских силовых структурах",
-      "recap_neutral": "Украинские военные служили в ДНР и Харьковской области, отметили в российских силовых структурах",
-      "main_idea": "ТАСС: российские войска ликвидировали пять офицеров ВСУ",
+      "title_original": "Армия Израиля сообщила о новых ударах по объектам \"Хезболлах\" в Ливане",
+      "title_neutral": "Армия Израиля сообщила о новых ударах по объектам \"Хезболлах\" в Ливане",
+      "excerpt": "По данным армейской пресс-службы, атака стала ответом \"на неоднократные нарушения\" соглашения о прекращении огня со стороны шиитской организации",
+      "recap_neutral": "По данным армейской пресс-службы, атака стала ответом \"на неоднократные нарушения\" соглашения о прекращении огня со стороны шиитской организации",
+      "main_idea": "Армия Израиля сообщила о новых ударах по объектам \"Хезболлах\" в Ливане",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 25 Jan 2026 23:57:40 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26246369",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "CNN: в США в зоне снежной бури погибли семь человек",
+      "title_neutral": "CNN: в США в зоне снежной бури погибли семь человек",
+      "excerpt": "По данным телекомпании, случаи гибели зафиксированы в Техасе, Миссури и Канзасе",
+      "recap_neutral": "По данным телекомпании, случаи гибели зафиксированы в Техасе, Миссури и Канзасе",
+      "main_idea": "CNN: в США в зоне снежной бури погибли семь человек",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 25 Jan 2026 23:49:14 +0300",
+      "url": "https://tass.ru/proisshestviya/26246353",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: российские войска ликвидировали офицеров спецназа \"Омега\" в ДНР",
+      "title_neutral": "ТАСС: российские войска ликвидировали офицеров спецназа \"Омега\" в ДНР",
+      "excerpt": "Среди них были командиры группы и механизированного взвода, сообщили в силовых структурах РФ",
+      "recap_neutral": "Среди них были командиры группы и механизированного взвода, сообщили в силовых структурах РФ",
+      "main_idea": "ТАСС: российские войска ликвидировали офицеров спецназа \"Омега\" в ДНР",
       "tags": [],
       "source": "ТАСС",
       "published_at": "Sun, 25 Jan 2026 23:28:39 +0300",
@@ -206,125 +226,32 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Сумской области произошел взрыв",
-      "title_neutral": "В Сумской области произошел взрыв",
-      "excerpt": "В Сумской, а также в Днепропетровской, Киевской, Полтавской, Харьковской, Черкасской и Черниговской областях действует воздушная тревога",
-      "recap_neutral": "В Сумской, а также в Днепропетровской, Киевской, Полтавской, Харьковской, Черкасской и Черниговской областях действует воздушная тревога",
-      "main_idea": "В Сумской области произошел взрыв",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 25 Jan 2026 22:58:11 +0300",
-      "url": "https://tass.ru/proisshestviya/26246275",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ВОЗ отвергла критику США по поводу своего реагирования на пандемию",
-      "title_neutral": "ВОЗ отвергла критику США по поводу своего реагирования на пандемию",
-      "excerpt": "Организация настаивает на правильности своих действий \"в ответ на этот беспрецедентный глобальный кризис в области здравоохранения\"",
-      "recap_neutral": "Организация настаивает на правильности своих действий \"в ответ на этот беспрецедентный глобальный кризис в области здравоохранения\"",
-      "main_idea": "ВОЗ отвергла критику США по поводу своего реагирования на пандемию",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 25 Jan 2026 22:55:36 +0300",
-      "url": "https://tass.ru/obschestvo/26246267",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Вучич не исключил, что Украина вступит в ЕС в 2027 году",
-      "title_neutral": "Вучич не исключил, что Украина вступит в ЕС в 2027 году",
-      "excerpt": "Президент Сербии отметил, что некоторые члены сообщества не согласятся с этим",
-      "recap_neutral": "Президент Сербии отметил, что некоторые члены сообщества не согласятся с этим",
-      "main_idea": "Вучич не исключил, что Украина вступит в ЕС в 2027 году",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 25 Jan 2026 22:54:22 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26246291",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Россия добивается консульского доступа к членам экипажа танкера \"Маринера\"",
-      "title_neutral": "Россия добивается консульского доступа к членам экипажа танкера \"Маринера\"",
-      "excerpt": "Защита интересов российских граждан остается ключевым приоритетом дипломатов, подчеркнули в генконсульстве РФ в Эдинбурге",
-      "recap_neutral": "Защита интересов российских граждан остается ключевым приоритетом дипломатов, подчеркнули в генконсульстве РФ в Эдинбурге",
-      "main_idea": "Россия добивается консульского доступа к членам экипажа танкера \"Маринера\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 25 Jan 2026 22:49:45 +0300",
-      "url": "https://tass.ru/politika/26246283",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Зеленский заявил, что отказывается от территориальных уступок",
-      "title_neutral": "Зеленский заявил, что отказывается от территориальных уступок",
-      "excerpt": "Владимир Зеленский заявил, что США пытаются найти компромисс",
-      "recap_neutral": "Владимир Зеленский заявил, что США пытаются найти компромисс",
-      "main_idea": "Зеленский заявил, что отказывается от территориальных уступок",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 25 Jan 2026 22:46:29 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26246257",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Axios: представитель Совета мира по Газе посетит Израиль 26 января",
-      "title_neutral": "Axios: представитель Совета мира по Газе посетит Израиль 26 января",
-      "excerpt": "Стороны планируют обсудить открытие КПП \"Рафах\", передает корреспондент Барак Равид",
-      "recap_neutral": "Стороны планируют обсудить открытие КПП \"Рафах\", передает корреспондент Барак Равид",
-      "main_idea": "Axios: представитель Совета мира по Газе посетит Израиль 26 января",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 25 Jan 2026 22:38:08 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26246251",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Житель Дагестана прыгнул в воду при спасении семьи из тонущего автомобиля",
-      "title_neutral": "Житель Дагестана прыгнул в воду при спасении семьи из тонущего автомобиля",
-      "excerpt": "Водителю удалось выбраться из машины самостоятельно",
-      "recap_neutral": "Водителю удалось выбраться из машины самостоятельно",
-      "main_idea": "Житель Дагестана прыгнул в воду при спасении семьи из тонущего автомобиля",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 25 Jan 2026 22:34:22 +0300",
-      "url": "https://tass.ru/proisshestviya/26246249",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Yes, It's Fascism",
-      "title_neutral": "Yes, It's Fascism",
+      "title_original": "AI Tribalism",
+      "title_neutral": "AI Tribalism",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Yes, It's Fascism",
+      "main_idea": "AI Tribalism",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 25 Jan 2026 21:01:37 +0000",
+      "url": "https://nolanlawson.com/2026/01/24/ai-tribalism/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "OnePlus update blocks downgrades and custom ROMs by blowing a fuse",
+      "title_neutral": "OnePlus update blocks downgrades and custom ROMs by blowing a fuse",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "OnePlus update blocks downgrades and custom ROMs by blowing a fuse",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Sun, 25 Jan 2026 20:28:33 +0000",
-      "url": "https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/",
+      "published_at": "Sun, 25 Jan 2026 20:39:25 +0000",
+      "url": "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -348,11 +275,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "First, Make Me Care",
-      "title_neutral": "First, Make Me Care",
+      "title_original": "First, make me care",
+      "title_neutral": "First, make me care",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "First, Make Me Care",
+      "main_idea": "First, make me care",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Sun, 25 Jan 2026 19:03:40 +0000",
@@ -381,11 +308,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "ICE Using Palantir Tool That Feeds on Medicaid Data",
-      "title_neutral": "ICE Using Palantir Tool That Feeds on Medicaid Data",
+      "title_original": "ICE using Palantir tool that feeds on Medicaid data",
+      "title_neutral": "ICE using Palantir tool that feeds on Medicaid data",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "ICE Using Palantir Tool That Feeds on Medicaid Data",
+      "main_idea": "ICE using Palantir tool that feeds on Medicaid data",
       "tags": [
         "tech"
       ],
@@ -1499,6 +1426,87 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Доступ к 200 интернет-ресурсам с информацией о запрещенных БАД ограничили",
+      "title_neutral": "Доступ к 200 интернет-ресурсам с информацией о запрещенных БАД ограничили",
+      "excerpt": "В Роспотребнадзоре сообщили, что мероприятия проводятся совместно с Роскомнадзором и направлены на снижение рисков для здоровья населения",
+      "recap_neutral": "В Роспотребнадзоре сообщили, что мероприятия проводятся совместно с Роскомнадзором и направлены на снижение рисков для здоровья населения",
+      "main_idea": "Доступ к 200 интернет-ресурсам с информацией о запрещенных БАД ограничили",
+      "tags": [
+        "health"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 26 Jan 2026 00:01:34 +0300",
+      "url": "https://tass.ru/obschestvo/26246385",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Сержант Нижников прикрыл минометный расчет от БПЛА, уничтожив его",
+      "title_neutral": "Сержант Нижников прикрыл минометный расчет от БПЛА, уничтожив его",
+      "excerpt": "Действия военного позволили сохранить жизни минометчиков",
+      "recap_neutral": "Действия военного позволили сохранить жизни минометчиков",
+      "main_idea": "Сержант Нижников прикрыл минометный расчет от БПЛА, уничтожив его",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 26 Jan 2026 00:01:22 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26246383",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Тегеране посоветовали солдатам США прощаться с семьями",
+      "title_neutral": "В Тегеране посоветовали солдатам США прощаться с семьями",
+      "excerpt": "Это следует сделать, если они, следуя указаниям президента Дональда Трампа, совершат очередную агрессию против Ирана, заявил председатель комитета национальной безопасности исламской республики Эбрахим Азизи",
+      "recap_neutral": "Это следует сделать, если они, следуя указаниям президента Дональда Трампа, совершат очередную агрессию против Ирана, заявил председатель комитета национальной безопасности исламской республики Эбрахим Азизи",
+      "main_idea": "В Тегеране посоветовали солдатам США прощаться с семьями",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 26 Jan 2026 00:01:02 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26246361",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Мишустин встретится с депутатами фракции \"Единая Россия\"",
+      "title_neutral": "Мишустин встретится с депутатами фракции \"Единая Россия\"",
+      "excerpt": "",
+      "recap_neutral": "Мишустин встретится с депутатами фракции \"Единая Россия\"",
+      "main_idea": "Мишустин встретится с депутатами фракции \"Единая Россия\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 26 Jan 2026 00:00:51 +0300",
+      "url": "https://tass.ru/politika/26246377",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Военная операция на Украине. Онлайн",
+      "title_neutral": "Военная операция на Украине. Онлайн",
+      "excerpt": "",
+      "recap_neutral": "Военная операция на Украине. Онлайн",
+      "main_idea": "Военная операция на Украине. Онлайн",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 26 Jan 2026 00:00:01 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26243927",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
