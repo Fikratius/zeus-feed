@@ -82,9 +82,6 @@ function render(){
     const lrLabelText = lrLabel(lr, lang);
     const published = x.published_at ? fmtDate(x.published_at) : "";
     const sourceLabel = x.source || "";
-    const meduzaNotice = sourceLabel === "Meduza"
-      ? "НАСТОЯЩИЙ МАТЕРИАЛ (ИНФОРМАЦИЯ) ПРОИЗВЕДЕН И РАСПРОСТРАНЕН ИНОСТРАННЫМ АГЕНТОМ MEDUZA ЛИБО КАСАЕТСЯ ДЕЯТЕЛЬНОСТИ ИНОСТРАННОГО АГЕНТА MEDUZA. 18+"
-      : "";
 
     return `
       <article class="card">
