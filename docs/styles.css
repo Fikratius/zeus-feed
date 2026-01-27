@@ -145,12 +145,13 @@ input[type="range"]{width:140px}
 .dotbar{
   width:150px;
   height:14px;
-  border:1px solid var(--ink);
+  border:1px solid #ffffff;
   border-radius:6px;
   position:relative;
   overflow:hidden;
   background:
-    radial-gradient(circle, rgba(0,0,0,0.25) 1px, transparent 1.6px) 0 0 / 6px 6px;
+    radial-gradient(circle, rgba(0,0,0,0.35) 1px, transparent 1.6px) 0 0 / 6px 6px,
+    #ffffff;
 }
 
 .dotbar-fill{
@@ -160,7 +161,7 @@ input[type="range"]{width:140px}
   width:0%;
   background:
     radial-gradient(circle, rgba(0,0,0,0.85) 1.2px, transparent 1.85px) 0 0 / 4px 4px;
-  border-right:1px solid var(--ink);
+  border-right:1px solid #ffffff;
 }
 
 .recap{
