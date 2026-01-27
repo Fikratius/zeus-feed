@@ -82,6 +82,10 @@ function render(){
     const lrLabelText = lrLabel(lr, lang);
     const published = x.published_at ? fmtDate(x.published_at) : "";
     const sourceLabel = x.source || "";
+    const meduzaNotice = sourceLabel === "Meduza"
+      ? "НАСТОЯЩИЙ МАТЕРИАЛ (ИНФОРМАЦИЯ) ПРОИЗВЕДЕН И РАСПРОСТРАНЕН ИНОСТРАННЫМ АГЕНТОМ MEDUZA ЛИБО КАСАЕТСЯ ДЕЯТЕЛЬНОСТИ ИНОСТРАННОГО АГЕНТА MEDUZA. 18+"
+      : "";
+
     return `
       <article class="card">
         <h3 class="h1">${escapeHtml(title)}</h3>
@@ -111,6 +115,9 @@ function render(){
 async function load(){
   try {
     const res = await fetch("./feed.json", { cache: "no-store" });
+    if (!res.ok){
+      throw new Error(`HTTP ${res.status}`);
+    }
     const data = await res.json();
     items = data.items || [];
     window.__last_updated = data.last_updated || "";
@@ -124,8 +131,14 @@ async function load(){
     }
 
     render();
+
+    if (!items.length){
+      elMeta.textContent = `Лента пуста • обновление: ${fmtDate(window.__last_updated || "")}. ` +
+        "Запустите workflow Update feed, чтобы наполнить новости.";
+    }
   } catch (err){
-    elMeta.textContent = "Не удалось загрузить ленту.";
+    elMeta.innerHTML = "Не удалось загрузить ленту. Проверьте " +
+      '<a href="./feed.json" target="_blank" rel="noreferrer">feed.json</a>.';
     console.error(err);
   }
 }
