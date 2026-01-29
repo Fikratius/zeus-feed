@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T19:28:06.092628+00:00",
+  "last_updated": "2026-01-29T19:52:46.888584+00:00",
   "items": [
     {
       "title_original": "Plane crashes in Colombia, killing all 15 on board",
@@ -16,6 +16,21 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
+      "title_neutral": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 28 Jan 2026 20:59:30 +0000",
+      "url": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -158,247 +173,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "title_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "excerpt": "",
-      "recap_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "main_idea": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:18:01 +0300",
-      "url": "https://tass.ru/politika/24134697",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "title_neutral": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "excerpt": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
-      "recap_neutral": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
-      "main_idea": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:17:03 +0300",
-      "url": "https://tass.ru/ekonomika/24134627",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "title_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "excerpt": "",
-      "recap_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "main_idea": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:15:43 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134665",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "title_neutral": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "excerpt": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
-      "recap_neutral": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
-      "main_idea": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "tags": [
-        "climate"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:12:58 +0300",
-      "url": "https://tass.ru/obschestvo/24134601",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "title_neutral": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "excerpt": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
-      "recap_neutral": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
-      "main_idea": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:11:16 +0300",
-      "url": "https://tass.ru/obschestvo/24134589",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "title_neutral": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "excerpt": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
-      "recap_neutral": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
-      "main_idea": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:34 +0300",
-      "url": "https://tass.ru/obschestvo/24132977",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "title_neutral": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "excerpt": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
-      "recap_neutral": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
-      "main_idea": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:31 +0300",
-      "url": "https://tass.ru/nauka/24134535",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "title_neutral": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "excerpt": "Материалы дела поступили в мировой судебный участок 184",
-      "recap_neutral": "Материалы дела поступили в мировой судебный участок 184",
-      "main_idea": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:03 +0300",
-      "url": "https://tass.ru/proisshestviya/24134595",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "title_neutral": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "excerpt": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
-      "recap_neutral": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
-      "main_idea": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:08:48 +0300",
-      "url": "https://tass.ru/obschestvo/24134521",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "title_neutral": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "excerpt": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
-      "recap_neutral": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
-      "main_idea": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:08:39 +0300",
-      "url": "https://tass.ru/nedvizhimost/24134431",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "title_neutral": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "excerpt": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
-      "recap_neutral": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
-      "main_idea": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:06:43 +0300",
-      "url": "https://tass.ru/obschestvo/24133033",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "title_neutral": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "excerpt": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
-      "recap_neutral": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
-      "main_idea": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:04:29 +0300",
-      "url": "https://tass.ru/obschestvo/24133525",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "title_neutral": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "excerpt": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
-      "recap_neutral": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
-      "main_idea": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:03:57 +0300",
-      "url": "https://tass.ru/obschestvo/24134485",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "США пока не решили, продолжать или нет помощь Украине",
-      "title_neutral": "США пока не решили, продолжать или нет помощь Украине",
-      "excerpt": "",
-      "recap_neutral": "США пока не решили, продолжать или нет помощь Украине",
-      "main_idea": "США пока не решили, продолжать или нет помощь Украине",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:03:52 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134491",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "title_neutral": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "excerpt": "Предварительно, пострадавших нет",
-      "recap_neutral": "Предварительно, пострадавших нет",
-      "main_idea": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:02:07 +0300",
-      "url": "https://tass.ru/proisshestviya/24133329",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Mexico’s president says cancellation of oil shipment to Cuba is ‘sovereign’ decision",
       "title_neutral": "Mexico’s president says cancellation of oil shipment to Cuba is ‘sovereign’ decision",
       "excerpt": "Claudia Sheinbaum denied move was response to pressure from the US, after Trump said ‘zero’ oil would go to Cuba Mexico has cancelled a shipment of oil to Cuba , the country’s president, Claudia Sheinbaum, appeared to confirm on Tuesday, but she insisted the decision was “sovereign” and not a respo…",
@@ -417,10 +191,263 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Под Костромой у 41 жителя села выявили норовирусную инфекцию",
+      "title_neutral": "Под Костромой у 41 жителя села выявили норовирусную инфекцию",
+      "excerpt": "Предположительно, это случилось после употребления воды из местного водопровода",
+      "recap_neutral": "Предположительно, это случилось после употребления воды из местного водопровода",
+      "main_idea": "Под Костромой у 41 жителя села выявили норовирусную инфекцию",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 29 Jan 2026 22:50:44 +0300",
+      "url": "https://tass.ru/proisshestviya/26291257",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Киеве жители снова митингуют из-за отсутствия отопления",
+      "title_neutral": "В Киеве жители снова митингуют из-за отсутствия отопления",
+      "excerpt": "Митингующие перекрыли дорогу в знак протеста",
+      "recap_neutral": "Митингующие перекрыли дорогу в знак протеста",
+      "main_idea": "В Киеве жители снова митингуют из-за отсутствия отопления",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 29 Jan 2026 22:48:11 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26291241",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Обладатель \"Золотого мяча\" Бензема отказался играть за \"Аль-Иттихад\"",
+      "title_neutral": "Обладатель \"Золотого мяча\" Бензема отказался играть за \"Аль-Иттихад\"",
+      "excerpt": "По информации L'Equipe, француза не устроило предложение по новому контракту",
+      "recap_neutral": "По информации L'Equipe, француза не устроило предложение по новому контракту",
+      "main_idea": "Обладатель \"Золотого мяча\" Бензема отказался играть за \"Аль-Иттихад\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 29 Jan 2026 22:46:37 +0300",
+      "url": "https://tass.ru/sport/26291233",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Жители Петербурга попросили поднять тарифы на платную парковку",
+      "title_neutral": "Жители Петербурга попросили поднять тарифы на платную парковку",
+      "excerpt": "Группа жителей Петроградского района считает, что цены на парковку нужно было поднять хотя бы до 600 рублей, сообщил вице-губернатор города Кирилл Поляков",
+      "recap_neutral": "Группа жителей Петроградского района считает, что цены на парковку нужно было поднять хотя бы до 600 рублей, сообщил вице-губернатор города Кирилл Поляков",
+      "main_idea": "Жители Петербурга попросили поднять тарифы на платную парковку",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 29 Jan 2026 22:45:10 +0300",
+      "url": "https://tass.ru/obschestvo/26291207",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Футболист \"Локомотива\" Фассон хочет остаться в клубе",
+      "title_neutral": "Футболист \"Локомотива\" Фассон хочет остаться в клубе",
+      "excerpt": "Контракт с защитником истекает летом текущего года",
+      "recap_neutral": "Контракт с защитником истекает летом текущего года",
+      "main_idea": "Футболист \"Локомотива\" Фассон хочет остаться в клубе",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 29 Jan 2026 22:43:52 +0300",
+      "url": "https://tass.ru/sport/26291239",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Захарова назвала диким вывод Гутерриша, что право на самоопределение неприменимо к Крыму",
+      "title_neutral": "Захарова назвала диким вывод Гутерриша, что право на самоопределение неприменимо к Крыму",
+      "excerpt": "",
+      "recap_neutral": "Захарова назвала диким вывод Гутерриша, что право на самоопределение неприменимо к Крыму",
+      "main_idea": "Захарова назвала диким вывод Гутерриша, что право на самоопределение неприменимо к Крыму",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 29 Jan 2026 22:40:57 +0300",
+      "url": "https://tass.ru/politika/26291225",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В столице КБР планируют построить две объездные дороги в обход Нальчика",
+      "title_neutral": "В столице КБР планируют построить две объездные дороги в обход Нальчика",
+      "excerpt": "Трассы должны разгрузить город от транзитного транспорта",
+      "recap_neutral": "Трассы должны разгрузить город от транзитного транспорта",
+      "main_idea": "В столице КБР планируют построить две объездные дороги в обход Нальчика",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 29 Jan 2026 22:40:00 +0300",
+      "url": "https://tass.ru/ekonomika/26291223",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Сенатор Кастюкевич: в ООН игнорируют нарушения международного права",
+      "title_neutral": "Сенатор Кастюкевич: в ООН игнорируют нарушения международного права",
+      "excerpt": "По словам сенатора РФ от Херсонской области, если генсек альянса Антониу Гутерриш считает, что принципы самоопределения народов неприменимы к Крыму и Донбассу, то \"к нему самому неприменима работа в ООН\"",
+      "recap_neutral": "По словам сенатора РФ от Херсонской области, если генсек альянса Антониу Гутерриш считает, что принципы самоопределения народов неприменимы к Крыму и Донбассу, то \"к нему самому неприменима работа в ООН\"",
+      "main_idea": "Сенатор Кастюкевич: в ООН игнорируют нарушения международного права",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 29 Jan 2026 22:38:01 +0300",
+      "url": "https://tass.ru/politika/26291213",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "CNN Türk: на НПЗ в Турции произошел взрыв",
+      "title_neutral": "CNN Türk: на НПЗ в Турции произошел взрыв",
+      "excerpt": "По данным телеканала, инцидент произошел на предприятии компании Tüpraş",
+      "recap_neutral": "По данным телеканала, инцидент произошел на предприятии компании Tüpraş",
+      "main_idea": "CNN Türk: на НПЗ в Турции произошел взрыв",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 29 Jan 2026 22:30:37 +0300",
+      "url": "https://tass.ru/proisshestviya/26291199",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Иранский военачальник назвал беспрецедентными меры Ирака по усилению границы",
+      "title_neutral": "Иранский военачальник назвал беспрецедентными меры Ирака по усилению границы",
+      "excerpt": "Ахмад Али Гударзи отметил, что такие меры позволяют обеспечить безопасность на самом высоком уровне",
+      "recap_neutral": "Ахмад Али Гударзи отметил, что такие меры позволяют обеспечить безопасность на самом высоком уровне",
+      "main_idea": "Иранский военачальник назвал беспрецедентными меры Ирака по усилению границы",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 29 Jan 2026 22:25:37 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26291179",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Мордовии смягчили требования для поступления на муниципальную службу для ветеранов СВО",
+      "title_neutral": "В Мордовии смягчили требования для поступления на муниципальную службу для ветеранов СВО",
+      "excerpt": "Депутаты Госсобрания также приняли законопроект, согласно которому для детей участников СВО путевки в организации отдыха и их оздоровления, а также бесплатное питание в лагерях с дневным пребыванием будут предоставляться во внеочередном порядке",
+      "recap_neutral": "Депутаты Госсобрания также приняли законопроект, согласно которому для детей участников СВО путевки в организации отдыха и их оздоровления, а также бесплатное питание в лагерях с дневным пребыванием будут предоставлятьс…",
+      "main_idea": "В Мордовии смягчили требования для поступления на муниципальную службу для ветеранов СВО",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 29 Jan 2026 22:24:45 +0300",
+      "url": "https://tass.ru/obschestvo/26291177",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Сенат США отклонил законопроекты, которые предотвратили бы шатдаун на этих выходных",
+      "title_neutral": "Сенат США отклонил законопроекты, которые предотвратили бы шатдаун на этих выходных",
+      "excerpt": "В поддержку проголосовали 45 сенаторов, 55 высказались против",
+      "recap_neutral": "В поддержку проголосовали 45 сенаторов, 55 высказались против",
+      "main_idea": "Сенат США отклонил законопроекты, которые предотвратили бы шатдаун на этих выходных",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 29 Jan 2026 22:22:53 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26291171",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Редчайший экзагий и сребреник пополнили фонды Новгородского музея-заповедника",
+      "title_neutral": "Редчайший экзагий и сребреник пополнили фонды Новгородского музея-заповедника",
+      "excerpt": "По данным музейщиков, сребреник относится к наиболее раннему, первому типу монет князя Владимира Святославича и датируется концом X века",
+      "recap_neutral": "По данным музейщиков, сребреник относится к наиболее раннему, первому типу монет князя Владимира Святославича и датируется концом X века",
+      "main_idea": "Редчайший экзагий и сребреник пополнили фонды Новгородского музея-заповедника",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 29 Jan 2026 22:14:29 +0300",
+      "url": "https://tass.ru/obschestvo/26291013",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Великом Новгороде нашли остатки крупного берегового сооружения XVI века",
+      "title_neutral": "В Великом Новгороде нашли остатки крупного берегового сооружения XVI века",
+      "excerpt": "Сооружение открыто в раскопе на Софийской стороне, на берегу Волхова, около монумента Победы",
+      "recap_neutral": "Сооружение открыто в раскопе на Софийской стороне, на берегу Волхова, около монумента Победы",
+      "main_idea": "В Великом Новгороде нашли остатки крупного берегового сооружения XVI века",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 29 Jan 2026 22:11:30 +0300",
+      "url": "https://tass.ru/nauka/26291145",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Протасевич рассказал о планах белорусской оппозиции захватить власть в 2030 году",
+      "title_neutral": "Протасевич рассказал о планах белорусской оппозиции захватить власть в 2030 году",
+      "excerpt": "Под маской \"диалога\" готовится стратегия вмешательства в этот ключевой политический процесс, отметил он",
+      "recap_neutral": "Под маской \"диалога\" готовится стратегия вмешательства в этот ключевой политический процесс, отметил он",
+      "main_idea": "Протасевич рассказал о планах белорусской оппозиции захватить власть в 2030 году",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 29 Jan 2026 22:10:28 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26291139",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Southern Africa Faces Devastating Flooding During Rainy Season",
+      "title_neutral": "Southern Africa Faces Devastating Flooding During Rainy Season",
+      "excerpt": "More than 100 deaths have been confirmed across South Africa, Zimbabwe and Mozambique, with the rains expected to continue through February.",
+      "recap_neutral": "More than 100 deaths have been confirmed across South Africa, Zimbabwe and Mozambique, with the rains expected to continue through February",
+      "main_idea": "Southern Africa Faces Devastating Flooding During Rainy Season",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 29 Jan 2026 19:26:33 +0000",
+      "url": "https://www.nytimes.com/2026/01/29/world/africa/mozambique-south-africa-flood.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Trump orders immediate reopening of commercial airspace over Venezuela",
       "title_neutral": "Trump orders immediate reopening of commercial airspace over Venezuela",
-      "excerpt": "Order allows direct flights from US to Venezuela, as major US oil companies already on ground to assess potential operations Donald Trump has ordered the immediate reopening of commercial airspace over Venezuela , weeks after US military forces toppled dictator Nicolás Maduro . Speaking at the Whit…",
-      "recap_neutral": "Order allows direct flights from US to Venezuela, as major US oil companies already on ground to assess potential operations Donald Trump has ordered the immediate reopening of commercial airspace over Venezuela , weeks…",
+      "excerpt": "Order allows direct flights from US to Venezuela, as major oil companies already on ground to assess potential operations Donald Trump has ordered the immediate reopening of commercial airspace over Venezuela , weeks after US military forces toppled the dictator Nicolás Maduro . Speaking at the Whi…",
+      "recap_neutral": "Order allows direct flights from US to Venezuela, as major oil companies already on ground to assess potential operations Donald Trump has ordered the immediate reopening of commercial airspace over Venezuela , weeks af…",
       "main_idea": "Trump orders immediate reopening of commercial airspace over Venezuela",
       "tags": [
         "tech"
@@ -449,25 +476,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "French Government To Replace Zoom and Teams With Visio, a Local Alternative",
-      "title_neutral": "French Government To Replace Zoom and Teams With Visio, a Local Alternative",
-      "excerpt": "French officials will soon be expected to use new French-made video conferencing software as part of an effort to “regain digital independence,” the government said.",
-      "recap_neutral": "French officials will soon be expected to use new French-made video conferencing software as part of an effort to “regain digital independence,” the government said",
-      "main_idea": "French Government To Replace Zoom and Teams With Visio, a Local Alternative",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 29 Jan 2026 18:57:13 +0000",
-      "url": "https://www.nytimes.com/2026/01/29/world/europe/france-zoom-alternative-visio.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -535,15 +543,17 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Tesla is committing automotive suicide",
-      "title_neutral": "Tesla is committing automotive suicide",
+      "title_original": "OpenAI's In-House Data Agent",
+      "title_neutral": "OpenAI's In-House Data Agent",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Tesla is committing automotive suicide",
-      "tags": [],
+      "main_idea": "OpenAI's In-House Data Agent",
+      "tags": [
+        "tech"
+      ],
       "source": "Hacker News",
-      "published_at": "Thu, 29 Jan 2026 18:16:45 +0000",
-      "url": "https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/",
+      "published_at": "Thu, 29 Jan 2026 18:17:54 +0000",
+      "url": "https://openai.com/index/inside-our-in-house-data-agent",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -976,6 +986,21 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Run Clawdbot/Moltbot on Cloudflare with Moltworker",
+      "title_neutral": "Run Clawdbot/Moltbot on Cloudflare with Moltworker",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Run Clawdbot/Moltbot on Cloudflare with Moltworker",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 29 Jan 2026 14:43:07 +0000",
+      "url": "https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1500,23 +1525,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "We can’t send mail farther than 500 miles (2002)",
-      "title_neutral": "We can’t send mail farther than 500 miles (2002)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "We can’t send mail farther than 500 miles (2002)",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Thu, 29 Jan 2026 03:58:33 +0000",
-      "url": "https://web.mit.edu/jemorris/humor/500-miles",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "US congressman meets five-year-old Liam Ramos and his father at ICE detention center – as it happened",
       "title_neutral": "US congressman meets five-year-old Liam Ramos and his father at ICE detention center – as it happened",
       "excerpt": "This blog has now closed. Read our latest story here Two federal officers fired their guns during the fatal shooting of Alex Pretti , according to an initial review by the Department of Homeland Security that was obtained by NBC News . Three sources told NBC News that the preliminary report, from a…",
@@ -1613,21 +1621,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Usenet personality",
-      "title_neutral": "Usenet personality",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Usenet personality",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 26 Jan 2026 01:09:14 +0000",
-      "url": "https://en.wikipedia.org/wiki/Usenet_personality",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
