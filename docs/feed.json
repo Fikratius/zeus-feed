@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T12:38:54.345191+00:00",
+  "last_updated": "2026-01-31T13:38:36.383518+00:00",
   "items": [
     {
       "title_original": "My Ridiculously Robust Photo Management System (Immich Edition)",
@@ -17,15 +17,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A novelist who took on the Italian mafia and lived",
-      "title_neutral": "A novelist who took on the Italian mafia and lived",
+      "title_original": "Quaternion Algebras",
+      "title_neutral": "Quaternion Algebras",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "A novelist who took on the Italian mafia and lived",
+      "main_idea": "Quaternion Algebras",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Wed, 28 Jan 2026 05:28:36 +0000",
-      "url": "https://www.thetimes.com/culture/books/article/sicilian-man-leonardo-sciascia-rise-mafia-struggle-italy-soul-caroline-moorehead-review-lbsbd2p5w",
+      "published_at": "Tue, 27 Jan 2026 05:06:06 +0000",
+      "url": "https://jvoight.github.io/quat.html",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -49,251 +49,297 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Марийский театр направит бойцам СВО часть средств от спектаклей",
-      "title_neutral": "Марийский театр направит бойцам СВО часть средств от спектаклей",
-      "excerpt": "Речь идет о постановках, приуроченных ко Дню Защитника Отечества",
-      "recap_neutral": "Речь идет о постановках, приуроченных ко Дню Защитника Отечества",
-      "main_idea": "Марийский театр направит бойцам СВО часть средств от спектаклей",
+      "title_original": "В Орловской области вновь объявили авиационную опасность",
+      "title_neutral": "В Орловской области вновь объявили авиационную опасность",
+      "excerpt": "Жителей региона призвали быть бдительными",
+      "recap_neutral": "Жителей региона призвали быть бдительными",
+      "main_idea": "В Орловской области вновь объявили авиационную опасность",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 31 Jan 2026 15:36:00 +0300",
-      "url": "https://tass.ru/kultura/26305655",
+      "published_at": "Sat, 31 Jan 2026 16:34:07 +0300",
+      "url": "https://tass.ru/proisshestviya/26305935",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Дмитриев прибыл в Майами",
-      "title_neutral": "Дмитриев прибыл в Майами",
-      "excerpt": "По данным источников агентства Reuters, спецпредставитель президента РФ ожидается в Майами для встречи с представителями администрации президента США Дональда Трампа",
-      "recap_neutral": "По данным источников агентства Reuters, спецпредставитель президента РФ ожидается в Майами для встречи с представителями администрации президента США Дональда Трампа",
-      "main_idea": "Дмитриев прибыл в Майами",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 31 Jan 2026 15:34:35 +0300",
-      "url": "https://tass.ru/politika/26305669",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Валиева исполнила четверной тулуп на чемпионате России по прыжкам",
-      "title_neutral": "Валиева исполнила четверной тулуп на чемпионате России по прыжкам",
-      "excerpt": "",
-      "recap_neutral": "Валиева исполнила четверной тулуп на чемпионате России по прыжкам",
-      "main_idea": "Валиева исполнила четверной тулуп на чемпионате России по прыжкам",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 31 Jan 2026 15:29:04 +0300",
-      "url": "https://tass.ru/sport/26305661",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Страна\": в Кривом Роге отключены крупные котельные и электроподстанции",
-      "title_neutral": "\"Страна\": в Кривом Роге отключены крупные котельные и электроподстанции",
-      "excerpt": "Это произошло из-за сбоя в энергосистеме, передает издание",
-      "recap_neutral": "Это произошло из-за сбоя в энергосистеме, передает издание",
-      "main_idea": "\"Страна\": в Кривом Роге отключены крупные котельные и электроподстанции",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 31 Jan 2026 15:28:34 +0300",
-      "url": "https://tass.ru/proisshestviya/26305649",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мошенники создают боты под именем Департамента ЖКХ Москвы",
-      "title_neutral": "Мошенники создают боты под именем Департамента ЖКХ Москвы",
-      "excerpt": "Москвичей просят проявить бдительность и не передавать полученные коды, паспортные данные, логины и пароли от \"Госуслуг\" или банков",
-      "recap_neutral": "Москвичей просят проявить бдительность и не передавать полученные коды, паспортные данные, логины и пароли от \"Госуслуг\" или банков",
-      "main_idea": "Мошенники создают боты под именем Департамента ЖКХ Москвы",
-      "tags": [
-        "economy"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 31 Jan 2026 15:25:38 +0300",
-      "url": "https://tass.ru/obschestvo/26305635",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Потребителям Молдавии возобновляют подачу электроэнергии после сбоя",
-      "title_neutral": "Потребителям Молдавии возобновляют подачу электроэнергии после сбоя",
-      "excerpt": "В Кишиневе частично восстановлено электроснабжение, сообщили в Минэнерго республики",
-      "recap_neutral": "В Кишиневе частично восстановлено электроснабжение, сообщили в Минэнерго республики",
-      "main_idea": "Потребителям Молдавии возобновляют подачу электроэнергии после сбоя",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 31 Jan 2026 15:25:16 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26305637",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Даниловском районе Москвы построят образовательный комплекс",
-      "title_neutral": "В Даниловском районе Москвы построят образовательный комплекс",
-      "excerpt": "Учреждение рассчитано на 975 школьников и 500 дошкольников",
-      "recap_neutral": "Учреждение рассчитано на 975 школьников и 500 дошкольников",
-      "main_idea": "В Даниловском районе Москвы построят образовательный комплекс",
+      "title_original": "Названы новые размеры выплат при травме на производстве",
+      "title_neutral": "Названы новые размеры выплат при травме на производстве",
+      "excerpt": "Максимальная сумма достигнет порядка 164 тыс. рублей, сообщил председатель комитета Госдумы по труду, соцполитике и делам ветеранов Ярослав Нилов",
+      "recap_neutral": "Максимальная сумма достигнет порядка 164 тыс",
+      "main_idea": "Названы новые размеры выплат при травме на производстве",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 31 Jan 2026 15:23:08 +0300",
-      "url": "https://tass.ru/obschestvo/26305633",
+      "published_at": "Sat, 31 Jan 2026 16:33:36 +0300",
+      "url": "https://tass.ru/obschestvo/26305921",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Армия Израиля заявила об ударе для ликвидации боевика \"Хезболлах\" на юге Ливана",
-      "title_neutral": "Армия Израиля заявила об ударе для ликвидации боевика \"Хезболлах\" на юге Ливана",
-      "excerpt": "Армейская пресс-служба отметила, что удар произошел в ответ на неоднократные нарушения со стороны шиитской организации",
-      "recap_neutral": "Армейская пресс-служба отметила, что удар произошел в ответ на неоднократные нарушения со стороны шиитской организации",
-      "main_idea": "Армия Израиля заявила об ударе для ликвидации боевика \"Хезболлах\" на юге Ливана",
+      "title_original": "Мельников: попадание на Олимпиаду стало успехом для российских горнолыжников",
+      "title_neutral": "Мельников: попадание на Олимпиаду стало успехом для российских горнолыжников",
+      "excerpt": "На Играх в Италии выступят Юлия Плешкова и Семен Ефимов",
+      "recap_neutral": "На Играх в Италии выступят Юлия Плешкова и Семен Ефимов",
+      "main_idea": "Мельников: попадание на Олимпиаду стало успехом для российских горнолыжников",
       "tags": [
-        "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 31 Jan 2026 15:22:41 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26305627",
+      "published_at": "Sat, 31 Jan 2026 16:33:01 +0300",
+      "url": "https://tass.ru/sport/26305925",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ранившего прохожую из пневматики в Петербурге отправили под домашний арест",
-      "title_neutral": "Ранившего прохожую из пневматики в Петербурге отправили под домашний арест",
-      "excerpt": "Сторона защиты просила избрать обвиняемому меру пресечения в виде залога или запрета определенных действий",
-      "recap_neutral": "Сторона защиты просила избрать обвиняемому меру пресечения в виде залога или запрета определенных действий",
-      "main_idea": "Ранившего прохожую из пневматики в Петербурге отправили под домашний арест",
+      "title_original": "Порвавшему паспорт сожительницы в Тверской области грозит до года лишения свободы",
+      "title_neutral": "Порвавшему паспорт сожительницы в Тверской области грозит до года лишения свободы",
+      "excerpt": "Теперь женщина должна будет обратиться в миграционную службу для замены документа",
+      "recap_neutral": "Теперь женщина должна будет обратиться в миграционную службу для замены документа",
+      "main_idea": "Порвавшему паспорт сожительницы в Тверской области грозит до года лишения свободы",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 31 Jan 2026 15:20:54 +0300",
-      "url": "https://tass.ru/proisshestviya/26305615",
+      "published_at": "Sat, 31 Jan 2026 16:32:23 +0300",
+      "url": "https://tass.ru/obschestvo/26305907",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Лукьянов: все риски на мировой арене в 2026 году так или иначе связаны с США",
-      "title_neutral": "Лукьянов: все риски на мировой арене в 2026 году так или иначе связаны с США",
-      "excerpt": "Председатель президиума Совета по внешней и оборонной политике России назвал Иран наиболее вероятной точкой, где может возникнуть большой конфликт",
-      "recap_neutral": "Председатель президиума Совета по внешней и оборонной политике России назвал Иран наиболее вероятной точкой, где может возникнуть большой конфликт",
-      "main_idea": "Лукьянов: все риски на мировой арене в 2026 году так или иначе связаны с США",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 31 Jan 2026 15:20:35 +0300",
-      "url": "https://tass.ru/politika/26305595",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Авиакомпаниям ФРГ рекомендовали избегать воздушного пространства Ирана",
-      "title_neutral": "Авиакомпаниям ФРГ рекомендовали избегать воздушного пространства Ирана",
-      "excerpt": "В диспетчерской службе района полетной информации \"Берлин\" сообщили, что предостережение действует до 10 февраля",
-      "recap_neutral": "В диспетчерской службе района полетной информации \"Берлин\" сообщили, что предостережение действует до 10 февраля",
-      "main_idea": "Авиакомпаниям ФРГ рекомендовали избегать воздушного пространства Ирана",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 31 Jan 2026 15:18:57 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26305577",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Подмосковье простились с пловцом Николаем Свечниковым",
-      "title_neutral": "В Подмосковье простились с пловцом Николаем Свечниковым",
-      "excerpt": "21 января его тело было обнаружено на берегу неподалеку от зоны финиша международного заплыва через Босфор",
-      "recap_neutral": "21 января его тело было обнаружено на берегу неподалеку от зоны финиша международного заплыва через Босфор",
-      "main_idea": "В Подмосковье простились с пловцом Николаем Свечниковым",
+      "title_original": "На Мадагаскар обрушился мощный тропический циклон \"Фития\"",
+      "title_neutral": "На Мадагаскар обрушился мощный тропический циклон \"Фития\"",
+      "excerpt": "Предположительно, за сутки выпадет от 50 до 150 мм осадков",
+      "recap_neutral": "Предположительно, за сутки выпадет от 50 до 150 мм осадков",
+      "main_idea": "На Мадагаскар обрушился мощный тропический циклон \"Фития\"",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 31 Jan 2026 15:18:10 +0300",
-      "url": "https://tass.ru/sport/26305587",
+      "published_at": "Sat, 31 Jan 2026 16:31:45 +0300",
+      "url": "https://tass.ru/proisshestviya/26305909",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ЦАХАЛ заявил об ответных ударах по складу оружия и оружейному цеху ХАМАС в Газе",
-      "title_neutral": "ЦАХАЛ заявил об ответных ударах по складу оружия и оружейному цеху ХАМАС в Газе",
-      "excerpt": "Армия обороны Израиля также атаковала ракетные установки",
-      "recap_neutral": "Армия обороны Израиля также атаковала ракетные установки",
-      "main_idea": "ЦАХАЛ заявил об ответных ударах по складу оружия и оружейному цеху ХАМАС в Газе",
+      "title_original": "В Рязанской области объявили беспилотную опасность",
+      "title_neutral": "В Рязанской области объявили беспилотную опасность",
+      "excerpt": "Об угрозе предупредили в МЧС",
+      "recap_neutral": "Об угрозе предупредили в МЧС",
+      "main_idea": "В Рязанской области объявили беспилотную опасность",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 31 Jan 2026 16:31:42 +0300",
+      "url": "https://tass.ru/proisshestviya/26305917",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве спасли столетнюю пациентку с пневмонией",
+      "title_neutral": "В Москве спасли столетнюю пациентку с пневмонией",
+      "excerpt": "Врачи несколько суток боролись за жизнь женщины",
+      "recap_neutral": "Врачи несколько суток боролись за жизнь женщины",
+      "main_idea": "В Москве спасли столетнюю пациентку с пневмонией",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 31 Jan 2026 16:30:09 +0300",
+      "url": "https://tass.ru/obschestvo/26305905",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Кличко призвал киевлян запасаться продуктами и лекарствами",
+      "title_neutral": "Кличко призвал киевлян запасаться продуктами и лекарствами",
+      "excerpt": "Мэр Киева считает, что масштабное отключение электроэнергии на Украине может повториться",
+      "recap_neutral": "Мэр Киева считает, что масштабное отключение электроэнергии на Украине может повториться",
+      "main_idea": "Кличко призвал киевлян запасаться продуктами и лекарствами",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 31 Jan 2026 16:29:49 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26305889",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Орбан: европейцы не хотят финансировать Украину",
+      "title_neutral": "Орбан: европейцы не хотят финансировать Украину",
+      "excerpt": "В последние дни произошло резкое обострение отношений между Венгрией и Украиной на почве разногласий по поводу украинского конфликта",
+      "recap_neutral": "В последние дни произошло резкое обострение отношений между Венгрией и Украиной на почве разногласий по поводу украинского конфликта",
+      "main_idea": "Орбан: европейцы не хотят финансировать Украину",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 31 Jan 2026 15:16:40 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26305567",
+      "published_at": "Sat, 31 Jan 2026 16:29:23 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26305897",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Чебоксарах 12 человек пострадали от мошенников при покупке билетов на концерт",
-      "title_neutral": "В Чебоксарах 12 человек пострадали от мошенников при покупке билетов на концерт",
-      "excerpt": "Полицейские принимают заявления от потерпевших, точное число которых устанавливается",
-      "recap_neutral": "Полицейские принимают заявления от потерпевших, точное число которых устанавливается",
-      "main_idea": "В Чебоксарах 12 человек пострадали от мошенников при покупке билетов на концерт",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 31 Jan 2026 15:14:30 +0300",
-      "url": "https://tass.ru/proisshestviya/26305573",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Аналитик Коротченко назвал безупречной репутацию России как экспортера оружия",
-      "title_neutral": "Аналитик Коротченко назвал безупречной репутацию России как экспортера оружия",
-      "excerpt": "Военный аналитик отметил, что Россия выполняет контрактные обязательства на протяжении всего жизненного цикла вооружения и военной техники, что занимает \"20, а иногда и 30 лет\"",
-      "recap_neutral": "Военный аналитик отметил, что Россия выполняет контрактные обязательства на протяжении всего жизненного цикла вооружения и военной техники, что занимает \"20, а иногда и 30 лет\"",
-      "main_idea": "Аналитик Коротченко назвал безупречной репутацию России как экспортера оружия",
+      "title_original": "ТАСС: на Украине убили разработчика высокотехнологичного оружия полковника ВСУ",
+      "title_neutral": "ТАСС: на Украине убили разработчика высокотехнологичного оружия полковника ВСУ",
+      "excerpt": "Алексей Филиппенков погиб при невыясненных обстоятельствах",
+      "recap_neutral": "Алексей Филиппенков погиб при невыясненных обстоятельствах",
+      "main_idea": "ТАСС: на Украине убили разработчика высокотехнологичного оружия полковника ВСУ",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 31 Jan 2026 15:13:57 +0300",
-      "url": "https://tass.ru/armiya-i-opk/26305557",
+      "published_at": "Sat, 31 Jan 2026 16:28:14 +0300",
+      "url": "https://tass.ru/proisshestviya/26305879",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: в Таиланде россиянин погиб в ДТП",
+      "title_neutral": "ТАСС: в Таиланде россиянин погиб в ДТП",
+      "excerpt": "Мужчина получил тяжелую черепно-мозговую травму, указал медицинский источник",
+      "recap_neutral": "Мужчина получил тяжелую черепно-мозговую травму, указал медицинский источник",
+      "main_idea": "ТАСС: в Таиланде россиянин погиб в ДТП",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 31 Jan 2026 16:23:59 +0300",
+      "url": "https://tass.ru/proisshestviya/26305869",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Глава МИД Швейцарии заявил, что скоро посетит Россию и Украину",
+      "title_neutral": "Глава МИД Швейцарии заявил, что скоро посетит Россию и Украину",
+      "excerpt": "Иньяцио Кассис отправится в Москву и Киев в качестве действующего председателя ОБСЕ",
+      "recap_neutral": "Иньяцио Кассис отправится в Москву и Киев в качестве действующего председателя ОБСЕ",
+      "main_idea": "Глава МИД Швейцарии заявил, что скоро посетит Россию и Украину",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 31 Jan 2026 16:19:41 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26305851",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Мурманске и Североморске возобновили подачу электричества",
+      "title_neutral": "В Мурманске и Североморске возобновили подачу электричества",
+      "excerpt": "Параллельно специалисты продолжают устанавливать постоянных опор линии электропередачи",
+      "recap_neutral": "Параллельно специалисты продолжают устанавливать постоянных опор линии электропередачи",
+      "main_idea": "В Мурманске и Североморске возобновили подачу электричества",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 31 Jan 2026 16:17:38 +0300",
+      "url": "https://tass.ru/obschestvo/26305819",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве и Санкт-Петербурге 12 февраля откроются визовые центры Японии",
+      "title_neutral": "В Москве и Санкт-Петербурге 12 февраля откроются визовые центры Японии",
+      "excerpt": "Сбор за подачу документов составит 970 рублей за каждого заявителя",
+      "recap_neutral": "Сбор за подачу документов составит 970 рублей за каждого заявителя",
+      "main_idea": "В Москве и Санкт-Петербурге 12 февраля откроются визовые центры Японии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 31 Jan 2026 16:13:17 +0300",
+      "url": "https://tass.ru/obschestvo/26305839",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Воронежской области объявили опасность атаки БПЛА",
+      "title_neutral": "В Воронежской области объявили опасность атаки БПЛА",
+      "excerpt": "Граждан попросили сохранять спокойствие",
+      "recap_neutral": "Граждан попросили сохранять спокойствие",
+      "main_idea": "В Воронежской области объявили опасность атаки БПЛА",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 31 Jan 2026 16:10:35 +0300",
+      "url": "https://tass.ru/proisshestviya/26305835",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Pierre Poilievre Is Retained as Leader of Canada’s Conservatives",
+      "title_neutral": "Pierre Poilievre Is Retained as Leader of Canada’s Conservatives",
+      "excerpt": "Pierre Poilievre, a populist who led the Conservative Party to defeat last year, was retained as its leader on Friday, despite his dismal poll numbers.",
+      "recap_neutral": "Pierre Poilievre, a populist who led the Conservative Party to defeat last year, was retained as its leader on Friday, despite his dismal poll numbers",
+      "main_idea": "Pierre Poilievre Is Retained as Leader of Canada’s Conservatives",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 31 Jan 2026 13:23:43 +0000",
+      "url": "https://www.nytimes.com/2026/01/31/world/americas/canada-pierre-poilievre-conservatives.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Deadly Israeli Strikes in Gaza, as Rafah Border Is Set to Reopen",
+      "title_neutral": "Deadly Israeli Strikes in Gaza, as Rafah Border Is Set to Reopen",
+      "excerpt": "A local health official said at least 26 people had been killed in the attacks, which the Israeli military said had targeted Hamas commanders. The opening of the border was seen as progress in the cease-fire.",
+      "recap_neutral": "A local health official said at least 26 people had been killed in the attacks, which the Israeli military said had targeted Hamas commanders",
+      "main_idea": "Deadly Israeli Strikes in Gaza, as Rafah Border Is Set to Reopen",
+      "tags": [
+        "conflict",
+        "tech",
+        "health"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 31 Jan 2026 13:22:26 +0000",
+      "url": "https://www.nytimes.com/2026/01/31/world/middleeast/israel-strikes-gaza-rafah-reopening.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "More than 200 killed in mine collapse in DR Congo",
+      "title_neutral": "More than 200 killed in mine collapse in DR Congo",
+      "excerpt": "The mine gave way after heavy rains on Wednesday, a local rebel spokesman says.",
+      "recap_neutral": "The mine gave way after heavy rains on Wednesday, a local rebel spokesman says",
+      "main_idea": "More than 200 killed in mine collapse in DR Congo",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 31 Jan 2026 13:18:00 GMT",
+      "url": "https://www.bbc.com/news/articles/cly381dvnvzo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -326,21 +372,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Good Company",
-      "title_neutral": "Good Company",
-      "excerpt": "Let’s talk about the new and old shows we’ll be watching this winter.",
-      "recap_neutral": "Let’s talk about the new and old shows we’ll be watching this winter",
-      "main_idea": "Good Company",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sat, 31 Jan 2026 11:55:38 +0000",
-      "url": "https://www.nytimes.com/2026/01/31/briefing/good-company.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -452,6 +483,21 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Opinion: Remembering Catherine O'Hara",
+      "title_neutral": "Opinion: Remembering Catherine O'Hara",
+      "excerpt": "Actor Catherine O'Hara, famed for her comedic skill, died Friday at her home in Los Angeles following a brief illness. She was 71.",
+      "recap_neutral": "Actor Catherine O'Hara, famed for her comedic skill, died Friday at her home in Los Angeles following a brief illness",
+      "main_idea": "Opinion: Remembering Catherine O'Hara",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sat, 31 Jan 2026 08:00:00 -0500",
+      "url": "https://www.npr.org/2026/01/31/nx-s1-5687210/opinion-remembering-catherine-ohara",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -639,23 +685,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "U.S. Allies Are Drawing Closer to China, but on Beijing’s Terms",
-      "title_neutral": "U.S. Allies Are Drawing Closer to China, but on Beijing’s Terms",
-      "excerpt": "As Washington unsettles its partners, Beijing is reaping diplomatic gains, without backing down on human rights, trade or security.",
-      "recap_neutral": "As Washington unsettles its partners, Beijing is reaping diplomatic gains, without backing down on human rights, trade or security",
-      "main_idea": "U.S. Allies Are Drawing Closer to China, but on Beijing’s Terms",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 31 Jan 2026 05:01:07 +0000",
-      "url": "https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "How Europe Is Moving to Reduce Dependence on Trump",
       "title_neutral": "How Europe Is Moving to Reduce Dependence on Trump",
       "excerpt": "Since President Trump made threats about Greenland, the continent’s leaders have debated the rapid deterioration of U.S. ties in policy papers and at dinner.",
@@ -667,6 +696,23 @@
       "source": "NYTimes World",
       "published_at": "Sat, 31 Jan 2026 05:01:07 +0000",
       "url": "https://www.nytimes.com/2026/01/31/world/europe/eu-trump-greenland-europe.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "U.S. Allies Are Drawing Closer to China, but on Beijing’s Terms",
+      "title_neutral": "U.S. Allies Are Drawing Closer to China, but on Beijing’s Terms",
+      "excerpt": "As Washington unsettles its partners, Beijing is reaping diplomatic gains, without backing down on human rights, trade or security.",
+      "recap_neutral": "As Washington unsettles its partners, Beijing is reaping diplomatic gains, without backing down on human rights, trade or security",
+      "main_idea": "U.S. Allies Are Drawing Closer to China, but on Beijing’s Terms",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 31 Jan 2026 05:01:07 +0000",
+      "url": "https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -1006,23 +1052,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Photos: Thousands once again protest ICE in Minneapolis and across the U.S.",
-      "title_neutral": "Photos: Thousands once again protest ICE in Minneapolis and across the U.S.",
-      "excerpt": "Demonstrators in Minneapolis and other U.S. cities participated in protests as part of a \"national shutdown\" to end immigration enforcement operations.",
-      "recap_neutral": "Demonstrators in Minneapolis and other U",
-      "main_idea": "Photos: Thousands once again protest ICE in Minneapolis and across the U.S.",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 30 Jan 2026 21:20:00 -0500",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/01/30/g-s1-108087/photos-thousands-once-again-protest-ice-in-minneapolis-and-across-the-u-s",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Peerweb: Decentralized website hosting via WebTorrent",
       "title_neutral": "Peerweb: Decentralized website hosting via WebTorrent",
       "excerpt": "Comments",
@@ -1356,26 +1385,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ukraine sees quieter night as Trump says Putin will not attack its cities",
-      "title_neutral": "Ukraine sees quieter night as Trump says Putin will not attack its cities",
-      "excerpt": "Russia said the US president requested a pause in strikes on Kyiv until 1 February, a move Trump said was prompted by the cold weather.",
-      "recap_neutral": "Russia said the US president requested a pause in strikes on Kyiv until 1 February, a move Trump said was prompted by the cold weather",
-      "main_idea": "Ukraine sees quieter night as Trump says Putin will not attack its cities",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech",
-        "climate"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 30 Jan 2026 13:46:23 GMT",
-      "url": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Xi’s Military Purge May Set Back His Taiwan Ambitions",
       "title_neutral": "Xi’s Military Purge May Set Back His Taiwan Ambitions",
       "excerpt": "By ousting his top generals, Xi Jinping has secured absolute control but also hollowed out the command structure preparing for possible war over Taiwan.",
@@ -1496,21 +1505,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trump Tells U.K. and Canada That Boosting Trade With China Is ‘Dangerous’",
-      "title_neutral": "Trump Tells U.K. and Canada That Boosting Trade With China Is ‘Dangerous’",
-      "excerpt": "The leaders of both countries have recently visited Beijing seeking to strengthen economic ties, as tensions with the United States rise.",
-      "recap_neutral": "The leaders of both countries have recently visited Beijing seeking to strengthen economic ties, as tensions with the United States rise",
-      "main_idea": "Trump Tells U.K. and Canada That Boosting Trade With China Is ‘Dangerous’",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Fri, 30 Jan 2026 10:29:21 +0000",
-      "url": "https://www.nytimes.com/2026/01/30/world/asia/trump-starmer-china-canada-trade.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
