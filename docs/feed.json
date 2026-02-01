@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-01-31T23:44:29.438502+00:00",
+  "last_updated": "2026-02-01T01:59:23.297611+00:00",
   "items": [
+    {
+      "title_original": "Scientist who helped eradicate smallpox dies at age 89",
+      "title_neutral": "Scientist who helped eradicate smallpox dies at age 89",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Scientist who helped eradicate smallpox dies at age 89",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 28 Jan 2026 10:03:11 +0000",
+      "url": "https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
     {
       "title_original": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
       "title_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
@@ -243,17 +258,30 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "CPython Internals Explained",
-      "title_neutral": "CPython Internals Explained",
+      "title_original": "Opentrees.org (2024)",
+      "title_neutral": "Opentrees.org (2024)",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "CPython Internals Explained",
-      "tags": [
-        "tech"
-      ],
+      "main_idea": "Opentrees.org (2024)",
+      "tags": [],
       "source": "Hacker News",
-      "published_at": "Tue, 27 Jan 2026 14:07:37 +0000",
-      "url": "https://github.com/zpoint/CPython-Internals",
+      "published_at": "Tue, 27 Jan 2026 21:33:28 +0000",
+      "url": "https://opentrees.org/#pos=1/-37.8/145",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Writing a .NET Garbage Collector in C# – Part 6: Mark and Sweep",
+      "title_neutral": "Writing a .NET Garbage Collector in C# – Part 6: Mark and Sweep",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Writing a .NET Garbage Collector in C# – Part 6: Mark and Sweep",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 27 Jan 2026 12:23:24 +0000",
+      "url": "https://minidump.net/writing-a-net-gc-in-c-part-6/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -274,6 +302,73 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
+      "title_neutral": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
+      "excerpt": "Israel's military confirmed the strikes, which come during a ceasefire that Israel and Hamas accuse each other of breaking.",
+      "recap_neutral": "Israel's military confirmed the strikes, which come during a ceasefire that Israel and Hamas accuse each other of breaking",
+      "main_idea": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 01 Feb 2026 01:30:24 GMT",
+      "url": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Grammy Awards 2026: How to watch and who will win",
+      "title_neutral": "Grammy Awards 2026: How to watch and who will win",
+      "excerpt": "Who's performing, who will win, and everything else you need to know about the 2026 Grammy ceremony.",
+      "recap_neutral": "Who's performing, who will win, and everything else you need to know about the 2026 Grammy ceremony",
+      "main_idea": "Grammy Awards 2026: How to watch and who will win",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 01 Feb 2026 00:31:38 GMT",
+      "url": "https://www.bbc.com/news/articles/cwy12z197q8o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Rape trial puts Norway's royal family in unwelcome glare of public",
+      "title_neutral": "Rape trial puts Norway's royal family in unwelcome glare of public",
+      "excerpt": "Marius Borg Høiby, the crown prince's blond stepson, is accused of 38 charges in a case that has attracted global interest.",
+      "recap_neutral": "Marius Borg Høiby, the crown prince's blond stepson, is accused of 38 charges in a case that has attracted global interest",
+      "main_idea": "Rape trial puts Norway's royal family in unwelcome glare of public",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sun, 01 Feb 2026 00:02:01 GMT",
+      "url": "https://www.bbc.com/news/articles/cm2xj3ykpj4o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "After ICE raids... a once bustling Chicago neighbourhood has changed",
+      "title_neutral": "After ICE raids... a once bustling Chicago neighbourhood has changed",
+      "excerpt": "Businesses in Little Village - known as the \"Mexico of the Midwest\" - are suffering after months of immigration raids.",
+      "recap_neutral": "Businesses in Little Village - known as the \"Mexico of the Midwest\" - are suffering after months of immigration raids",
+      "main_idea": "After ICE raids... a once bustling Chicago neighbourhood has changed",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 01 Feb 2026 00:01:01 GMT",
+      "url": "https://www.bbc.com/news/articles/cql4e439g4no?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -378,30 +473,32 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Outsourcing Thinking",
-      "title_neutral": "Outsourcing Thinking",
+      "title_original": "Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.",
+      "title_neutral": "Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Outsourcing Thinking",
+      "main_idea": "Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Sat, 31 Jan 2026 21:06:57 +0000",
-      "url": "https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html",
+      "published_at": "Sat, 31 Jan 2026 20:50:56 +0000",
+      "url": "https://github.com/zupat/related_post_gen",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "CollectWise (YC F24) Is Hiring",
-      "title_neutral": "CollectWise (YC F24) Is Hiring",
+      "title_original": "In Praise of –dry-run",
+      "title_neutral": "In Praise of –dry-run",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "CollectWise (YC F24) Is Hiring",
-      "tags": [],
+      "main_idea": "In Praise of –dry-run",
+      "tags": [
+        "tech"
+      ],
       "source": "Hacker News",
-      "published_at": "Sat, 31 Jan 2026 21:00:56 +0000",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer",
+      "published_at": "Sat, 31 Jan 2026 20:42:13 +0000",
+      "url": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -438,18 +535,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Noctia: A sleek and minimal desktop shell thoughtfully crafted for Wayland",
-      "title_neutral": "Noctia: A sleek and minimal desktop shell thoughtfully crafted for Wayland",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Noctia: A sleek and minimal desktop shell thoughtfully crafted for Wayland",
+      "title_original": "Don Lemon and Georgia Fort vow to continue reporting following arrests tied to anti-ICE protest",
+      "title_neutral": "Don Lemon and Georgia Fort vow to continue reporting following arrests tied to anti-ICE protest",
+      "excerpt": "The two independent journalists face federal charges related to the interruption of a church service in Minnesota earlier this month. Lemon and Fort say they were there to cover a protest.",
+      "recap_neutral": "The two independent journalists face federal charges related to the interruption of a church service in Minnesota earlier this month",
+      "main_idea": "Don Lemon and Georgia Fort vow to continue reporting following arrests tied to anti-ICE protest",
       "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 31 Jan 2026 19:58:14 +0000",
-      "url": "https://github.com/noctalia-dev/noctalia-shell",
+      "source": "NPR",
+      "published_at": "Sat, 31 Jan 2026 20:00:49 -0500",
+      "url": "https://www.npr.org/2026/01/31/nx-s1-5695230/don-lemon-georgia-fort-release",
       "lang": "en",
       "bias_score": 46,
-      "left_right_index": -4,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -533,39 +630,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
-      "title_neutral": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
-      "excerpt": "Israel's military confirmed the strikes, which come during a ceasefire that Israel and Hamas accuse each other of breaking.",
-      "recap_neutral": "Israel's military confirmed the strikes, which come during a ceasefire that Israel and Hamas accuse each other of breaking",
-      "main_idea": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 31 Jan 2026 18:06:01 GMT",
-      "url": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Genode OS is a tool kit for building highly secure special-purpose OS",
-      "title_neutral": "Genode OS is a tool kit for building highly secure special-purpose OS",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Genode OS is a tool kit for building highly secure special-purpose OS",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 31 Jan 2026 18:03:32 +0000",
-      "url": "https://genode.org/about/index",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -847,23 +911,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "More than 200 killed in mine collapse in DR Congo",
-      "title_neutral": "More than 200 killed in mine collapse in DR Congo",
-      "excerpt": "The mine gave way after heavy rains on Wednesday, a local rebel spokesman says.",
-      "recap_neutral": "The mine gave way after heavy rains on Wednesday, a local rebel spokesman says",
-      "main_idea": "More than 200 killed in mine collapse in DR Congo",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 31 Jan 2026 13:18:00 GMT",
-      "url": "https://www.bbc.com/news/articles/cly381dvnvzo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1184,23 +1231,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A red hat, inspired by a symbol of resistance to Nazi occupation, gains traction in Minnesota",
-      "title_neutral": "A red hat, inspired by a symbol of resistance to Nazi occupation, gains traction in Minnesota",
-      "excerpt": "A Minneapolis knitting shop has resurrected the design of a Norwegian cap worn to protest Nazi occupation. Its owner says the money raised from hat pattern sales will support the local immigrant community.",
-      "recap_neutral": "A Minneapolis knitting shop has resurrected the design of a Norwegian cap worn to protest Nazi occupation",
-      "main_idea": "A red hat, inspired by a symbol of resistance to Nazi occupation, gains traction in Minnesota",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 31 Jan 2026 05:00:00 -0500",
-      "url": "https://www.npr.org/2026/01/31/nx-s1-5693767/red-hat-protest-minnesota",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "The “Effects Layer” for Image-to-Video: What wan-effects Does (and When to Use It)",
       "title_neutral": "The “Effects Layer” for Image-to-Video: What wan-effects Does (and When to Use It)",
       "excerpt": "wan-effects (by fal-ai) turns a single image into a high-quality video with cinematic visual effects. Here’s what it does, best use cases, and what to test first.",
@@ -1232,24 +1262,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "This army chief threatened to castrate opposition leader and claimed descent from Jesus",
-      "title_neutral": "This army chief threatened to castrate opposition leader and claimed descent from Jesus",
-      "excerpt": "The Ugandan president’s son, notorious for explosive remarks on X, has ambitions to succeed his father.",
-      "recap_neutral": "The Ugandan president’s son, notorious for explosive remarks on X, has ambitions to succeed his father",
-      "main_idea": "This army chief threatened to castrate opposition leader and claimed descent from Jesus",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 31 Jan 2026 00:05:52 GMT",
-      "url": "https://www.bbc.com/news/articles/cdjnp9m8wvgo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1366,24 +1378,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "UN risks 'imminent financial collapse', secretary general warns",
-      "title_neutral": "UN risks 'imminent financial collapse', secretary general warns",
-      "excerpt": "António Guterres says the international body could run out of money by July due to members' unpaid fees.",
-      "recap_neutral": "António Guterres says the international body could run out of money by July due to members' unpaid fees",
-      "main_idea": "UN risks 'imminent financial collapse', secretary general warns",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 30 Jan 2026 16:24:18 GMT",
-      "url": "https://www.bbc.com/news/articles/cr579mdv4m7o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
