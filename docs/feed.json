@@ -1,261 +1,344 @@
 {
-  "last_updated": "2026-02-03T18:11:27.721330+00:00",
+  "last_updated": "2026-02-03T19:25:10.718183+00:00",
   "items": [
     {
-      "title_original": "The Everdeck: A Universal Card System (2019)",
-      "title_neutral": "The Everdeck: A Universal Card System (2019)",
+      "title_original": "Al Hadath: сын Каддафи Сейф аль-Ислам убит при покушении во дворе своего дома",
+      "title_neutral": "Al Hadath: сын Каддафи Сейф аль-Ислам убит при покушении во дворе своего дома",
+      "excerpt": "Нападавших было четверо, все они поспешили скрыться с места происшествия",
+      "recap_neutral": "Нападавших было четверо, все они поспешили скрыться с места происшествия",
+      "main_idea": "Al Hadath: сын Каддафи Сейф аль-Ислам убит при покушении во дворе своего дома",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 03 Feb 2026 22:21:16 +0300",
+      "url": "https://tass.ru/proisshestviya/26336801",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Никитин оценил первый дубль хоккеиста Костина за ЦСКА",
+      "title_neutral": "Никитин оценил первый дубль хоккеиста Костина за ЦСКА",
+      "excerpt": "Нападающий забросил две шайбы в матче против \"Сочи\"",
+      "recap_neutral": "Нападающий забросил две шайбы в матче против \"Сочи\"",
+      "main_idea": "Никитин оценил первый дубль хоккеиста Костина за ЦСКА",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 03 Feb 2026 22:20:35 +0300",
+      "url": "https://tass.ru/sport/26336799",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Небензя выразил Гутерришу озабоченность в связи с заявлениями о Крыме и Донбассе",
+      "title_neutral": "Небензя выразил Гутерришу озабоченность в связи с заявлениями о Крыме и Донбассе",
+      "excerpt": "В ходе встречи было подчеркнуто, что ни генсек, ни сотрудники Секретариата ООН \"не имеют права давать собственную трактовку принципов и норм международного права\"",
+      "recap_neutral": "В ходе встречи было подчеркнуто, что ни генсек, ни сотрудники Секретариата ООН \"не имеют права давать собственную трактовку принципов и норм международного права\"",
+      "main_idea": "Небензя выразил Гутерришу озабоченность в связи с заявлениями о Крыме и Донбассе",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 03 Feb 2026 22:16:07 +0300",
+      "url": "https://tass.ru/politika/26336791",
+      "lang": "ru",
+      "bias_score": 56,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Историк Малышева: конкурс по сохранению исторической памяти станет шире в 2026 году",
+      "title_neutral": "Историк Малышева: конкурс по сохранению исторической памяти станет шире в 2026 году",
+      "excerpt": "Важно понять общественный запрос на сохранение исторической памяти и увидеть подходы к решению важнейших государственных стратегических задач, отметила руководитель Национального центра исторической памяти при президенте России",
+      "recap_neutral": "Важно понять общественный запрос на сохранение исторической памяти и увидеть подходы к решению важнейших государственных стратегических задач, отметила руководитель Национального центра исторической памяти при президент…",
+      "main_idea": "Историк Малышева: конкурс по сохранению исторической памяти станет шире в 2026 году",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 03 Feb 2026 22:15:18 +0300",
+      "url": "https://tass.ru/obschestvo/26336783",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В храме Христа Спасителя в Москве показали фильм \"Тайна адмирала Ушакова\"",
+      "title_neutral": "В храме Христа Спасителя в Москве показали фильм \"Тайна адмирала Ушакова\"",
+      "excerpt": "В широкий прокат картина выйдет 5 февраля",
+      "recap_neutral": "В широкий прокат картина выйдет 5 февраля",
+      "main_idea": "В храме Христа Спасителя в Москве показали фильм \"Тайна адмирала Ушакова\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 03 Feb 2026 22:14:11 +0300",
+      "url": "https://tass.ru/kultura/26336777",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Чемпион Европы по велотреку россиянин Гонов надеется к ЧМ стать еще сильнее",
+      "title_neutral": "Чемпион Европы по велотреку россиянин Гонов надеется к ЧМ стать еще сильнее",
+      "excerpt": "Спортсмен стал первым в индивидуальной гонке",
+      "recap_neutral": "Спортсмен стал первым в индивидуальной гонке",
+      "main_idea": "Чемпион Европы по велотреку россиянин Гонов надеется к ЧМ стать еще сильнее",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 03 Feb 2026 22:08:15 +0300",
+      "url": "https://tass.ru/sport/26336775",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Белый дом: Трамп не удивлен ударом России в ответ на атаки Украины",
+      "title_neutral": "Белый дом: Трамп не удивлен ударом России в ответ на атаки Украины",
+      "excerpt": "Американский лидер нацелен на дипломатию, указала пресс-секретарь Белого дома Кэролайн Ливитт",
+      "recap_neutral": "Американский лидер нацелен на дипломатию, указала пресс-секретарь Белого дома Кэролайн Ливитт",
+      "main_idea": "Белый дом: Трамп не удивлен ударом России в ответ на атаки Украины",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 03 Feb 2026 22:08:02 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26336765",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ФТС предупредила о нестабильной работе сопредельной стороны на границе РФ и Эстонии",
+      "title_neutral": "ФТС предупредила о нестабильной работе сопредельной стороны на границе РФ и Эстонии",
+      "excerpt": "С 1 февраля в Эстонии приостановили прием транспортных средств, следующих через МАПП \"Шумилкино\" из России",
+      "recap_neutral": "С 1 февраля в Эстонии приостановили прием транспортных средств, следующих через МАПП \"Шумилкино\" из России",
+      "main_idea": "ФТС предупредила о нестабильной работе сопредельной стороны на границе РФ и Эстонии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 03 Feb 2026 22:04:46 +0300",
+      "url": "https://tass.ru/politika/26336741",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Запорожской области произошли взрывы",
+      "title_neutral": "В Запорожской области произошли взрывы",
+      "excerpt": "На подконтрольной Киеву части Запорожской области объявлена воздушная тревога",
+      "recap_neutral": "На подконтрольной Киеву части Запорожской области объявлена воздушная тревога",
+      "main_idea": "В Запорожской области произошли взрывы",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 03 Feb 2026 22:03:00 +0300",
+      "url": "https://tass.ru/proisshestviya/26336749",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Северной Осетии прошел единый урок, посвященный Героям России из республики",
+      "title_neutral": "В Северной Осетии прошел единый урок, посвященный Героям России из республики",
+      "excerpt": "На занятии дети узнали о земляках, проявивших мужество на СВО",
+      "recap_neutral": "На занятии дети узнали о земляках, проявивших мужество на СВО",
+      "main_idea": "В Северной Осетии прошел единый урок, посвященный Героям России из республики",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 03 Feb 2026 22:02:42 +0300",
+      "url": "https://tass.ru/obschestvo/26336759",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Велогонщик Савекин немного сожалеет, что не смог стать чемпионом Европы",
+      "title_neutral": "Велогонщик Савекин немного сожалеет, что не смог стать чемпионом Европы",
+      "excerpt": "Спортсмен занял второе место в скретче",
+      "recap_neutral": "Спортсмен занял второе место в скретче",
+      "main_idea": "Велогонщик Савекин немного сожалеет, что не смог стать чемпионом Европы",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 03 Feb 2026 22:02:27 +0300",
+      "url": "https://tass.ru/sport/26336757",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Значки с тематикой хоккея и фигурного катания распродали до старта Олимпиады",
+      "title_neutral": "Значки с тематикой хоккея и фигурного катания распродали до старта Олимпиады",
+      "excerpt": "Также большим спросом пользуется кукла талисмана Игр - горностая Тины",
+      "recap_neutral": "Также большим спросом пользуется кукла талисмана Игр - горностая Тины",
+      "main_idea": "Значки с тематикой хоккея и фигурного катания распродали до старта Олимпиады",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 03 Feb 2026 21:58:51 +0300",
+      "url": "https://tass.ru/sport/26336623",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Актриса Артамонова заявила, что во время конфликта на парковке оборонялась",
+      "title_neutral": "Актриса Артамонова заявила, что во время конфликта на парковке оборонялась",
+      "excerpt": "Артистка сообщила, что сразу подала заявление в полицию о произошедшем и намерена добиваться дальнейшего разбирательства",
+      "recap_neutral": "Артистка сообщила, что сразу подала заявление в полицию о произошедшем и намерена добиваться дальнейшего разбирательства",
+      "main_idea": "Актриса Артамонова заявила, что во время конфликта на парковке оборонялась",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 03 Feb 2026 21:56:55 +0300",
+      "url": "https://tass.ru/proisshestviya/26336711",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "СКА обыграл минское \"Динамо\" и прервал серию из семи поражений в КХЛ",
+      "title_neutral": "СКА обыграл минское \"Динамо\" и прервал серию из семи поражений в КХЛ",
+      "excerpt": "Петербургский клуб победил в гостях в серии буллитов",
+      "recap_neutral": "Петербургский клуб победил в гостях в серии буллитов",
+      "main_idea": "СКА обыграл минское \"Динамо\" и прервал серию из семи поражений в КХЛ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 03 Feb 2026 21:56:36 +0300",
+      "url": "https://tass.ru/sport/26336699",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "WSJ: иранские катера приблизились к танкеру США в Ормузском проливе",
+      "title_neutral": "WSJ: иранские катера приблизились к танкеру США в Ормузском проливе",
+      "excerpt": "Они потребовали от экипажа Stena ⁠Imperative заглушить двигатели и быть готовым к высадке на него",
+      "recap_neutral": "Они потребовали от экипажа Stena ⁠Imperative заглушить двигатели и быть готовым к высадке на него",
+      "main_idea": "WSJ: иранские катера приблизились к танкеру США в Ормузском проливе",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 03 Feb 2026 21:54:56 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26336615",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "U.S. Fighter Jet Shoots Down Iranian Drone Amid Heightened Tensions",
+      "title_neutral": "U.S. Fighter Jet Shoots Down Iranian Drone Amid Heightened Tensions",
+      "excerpt": "A U.S. fighter jet shot down the Iranian drone after it “unnecessarily maneuvered” toward the Abraham Lincoln aircraft carrier.",
+      "recap_neutral": "A U",
+      "main_idea": "U.S. Fighter Jet Shoots Down Iranian Drone Amid Heightened Tensions",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Tue, 03 Feb 2026 19:20:08 +0000",
+      "url": "https://www.nytimes.com/2026/02/03/us/politics/us-iran-drone-downing.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US says it shot down Iranian drone flying towards aircraft carrier",
+      "title_neutral": "US says it shot down Iranian drone flying towards aircraft carrier",
+      "excerpt": "A US military spokesman says the drone was shot down while approaching an American vessel in the Arabian Sea.",
+      "recap_neutral": "A US military spokesman says the drone was shot down while approaching an American vessel in the Arabian Sea",
+      "main_idea": "US says it shot down Iranian drone flying towards aircraft carrier",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Tue, 03 Feb 2026 18:45:14 GMT",
+      "url": "https://www.bbc.com/news/articles/c3dmjn7n985o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
+      "title_neutral": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "The Everdeck: A Universal Card System (2019)",
+      "main_idea": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Wed, 28 Jan 2026 14:38:21 +0000",
-      "url": "https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/",
+      "published_at": "Tue, 03 Feb 2026 18:40:18 +0000",
+      "url": "https://github.com/alibaba/AliSQL",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Виновных в гибели трех сотрудников на предприятии Ставрополья осудили на два года",
-      "title_neutral": "Виновных в гибели трех сотрудников на предприятии Ставрополья осудили на два года",
-      "excerpt": "Причиной смерти мужчин стало отравление газами",
-      "recap_neutral": "Причиной смерти мужчин стало отравление газами",
-      "main_idea": "Виновных в гибели трех сотрудников на предприятии Ставрополья осудили на два года",
+      "title_original": "Palestinians Return to Gaza for First Time in Nearly Two Years",
+      "title_neutral": "Palestinians Return to Gaza for First Time in Nearly Two Years",
+      "excerpt": "Only 12 returnees were allowed to cross the newly reopened border with Egypt on the first day, far fewer than the expected number.",
+      "recap_neutral": "Only 12 returnees were allowed to cross the newly reopened border with Egypt on the first day, far fewer than the expected number",
+      "main_idea": "Palestinians Return to Gaza for First Time in Nearly Two Years",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Tue, 03 Feb 2026 18:31:34 +0000",
+      "url": "https://www.nytimes.com/2026/02/03/world/middleeast/palestinians-gaza-return.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Police Search X’s Premises in France as Prosecutors Summon Elon Musk",
+      "title_neutral": "Police Search X’s Premises in France as Prosecutors Summon Elon Musk",
+      "excerpt": "The move followed a yearlong investigation into X and escalated a wider standoff between European officials and American tech companies over the regulation of social media.",
+      "recap_neutral": "The move followed a yearlong investigation into X and escalated a wider standoff between European officials and American tech companies over the regulation of social media",
+      "main_idea": "Police Search X’s Premises in France as Prosecutors Summon Elon Musk",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Tue, 03 Feb 2026 21:06:19 +0300",
-      "url": "https://tass.ru/proisshestviya/26336415",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Tue, 03 Feb 2026 18:28:31 +0000",
+      "url": "https://www.nytimes.com/2026/02/03/world/europe/musk-x-france-police-search.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ВОЗ назвала курение главной предотвратимой причиной возникновения рака",
-      "title_neutral": "ВОЗ назвала курение главной предотвратимой причиной возникновения рака",
-      "excerpt": "Среди причин организация также выделила инфекции и употребление алкоголя",
-      "recap_neutral": "Среди причин организация также выделила инфекции и употребление алкоголя",
-      "main_idea": "ВОЗ назвала курение главной предотвратимой причиной возникновения рака",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Tue, 03 Feb 2026 21:05:36 +0300",
-      "url": "https://tass.ru/obschestvo/26336441",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В РФ арестовали активы фигурантов дел о хищениях в бюджетной сфере на 190 млрд рублей",
-      "title_neutral": "В РФ арестовали активы фигурантов дел о хищениях в бюджетной сфере на 190 млрд рублей",
-      "excerpt": "",
-      "recap_neutral": "В РФ арестовали активы фигурантов дел о хищениях в бюджетной сфере на 190 млрд рублей",
-      "main_idea": "В РФ арестовали активы фигурантов дел о хищениях в бюджетной сфере на 190 млрд рублей",
+      "title_original": "Clintons agree to testify in House Epstein probe",
+      "title_neutral": "Clintons agree to testify in House Epstein probe",
+      "excerpt": "The couple will appear on two separate days in late February for a deposition after coming to an agreement with the House oversight committee.",
+      "recap_neutral": "The couple will appear on two separate days in late February for a deposition after coming to an agreement with the House oversight committee",
+      "main_idea": "Clintons agree to testify in House Epstein probe",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Tue, 03 Feb 2026 21:01:03 +0300",
-      "url": "https://tass.ru/proisshestviya/26336419",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В ООН заявили, что будут пристально следить за переговорами США и Ирана",
-      "title_neutral": "В ООН заявили, что будут пристально следить за переговорами США и Ирана",
-      "excerpt": "Официальный представитель генсека организации Стефан Дюжаррик отметил, что ООН заинтересована в снижении напряженности",
-      "recap_neutral": "Официальный представитель генсека организации Стефан Дюжаррик отметил, что ООН заинтересована в снижении напряженности",
-      "main_idea": "В ООН заявили, что будут пристально следить за переговорами США и Ирана",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Tue, 03 Feb 2026 20:59:24 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26336407",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Нидерландах лидер правых раскритиковал программу будущего кабмина",
-      "title_neutral": "В Нидерландах лидер правых раскритиковал программу будущего кабмина",
-      "excerpt": "Герт Вилдерс назвал документ \"актом политического вандализма\"",
-      "recap_neutral": "Герт Вилдерс назвал документ \"актом политического вандализма\"",
-      "main_idea": "В Нидерландах лидер правых раскритиковал программу будущего кабмина",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Tue, 03 Feb 2026 20:58:00 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26336393",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Херсонской области рассказали о состоянии пострадавших при ударе ВСУ по МФЦ",
-      "title_neutral": "В Херсонской области рассказали о состоянии пострадавших при ударе ВСУ по МФЦ",
-      "excerpt": "Один из них находится в крайне тяжелом состоянии, сообщил уполномоченный по правам человека в регионе Сергей Георгиев",
-      "recap_neutral": "Один из них находится в крайне тяжелом состоянии, сообщил уполномоченный по правам человека в регионе Сергей Георгиев",
-      "main_idea": "В Херсонской области рассказали о состоянии пострадавших при ударе ВСУ по МФЦ",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Tue, 03 Feb 2026 20:55:39 +0300",
-      "url": "https://tass.ru/obschestvo/26336385",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Кубе температура воздуха впервые опустилась до 0 градусов",
-      "title_neutral": "На Кубе температура воздуха впервые опустилась до 0 градусов",
-      "excerpt": "Прежний температурный рекорд был зафиксирован в феврале 1996 года, тогда столбик термометра опустился до 0,6 градуса",
-      "recap_neutral": "Прежний температурный рекорд был зафиксирован в феврале 1996 года, тогда столбик термометра опустился до 0,6 градуса",
-      "main_idea": "На Кубе температура воздуха впервые опустилась до 0 градусов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Tue, 03 Feb 2026 20:52:46 +0300",
-      "url": "https://tass.ru/obschestvo/26336379",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На награждении велогонщика Гонова на ЧЕ включили \"Оду к радости\" Бетховена",
-      "title_neutral": "На награждении велогонщика Гонова на ЧЕ включили \"Оду к радости\" Бетховена",
-      "excerpt": "Российские спортсмены выступают на турнире в нейтральном статусе",
-      "recap_neutral": "Российские спортсмены выступают на турнире в нейтральном статусе",
-      "main_idea": "На награждении велогонщика Гонова на ЧЕ включили \"Оду к радости\" Бетховена",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Tue, 03 Feb 2026 20:50:15 +0300",
-      "url": "https://tass.ru/sport/26336369",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Москве школьника доставили в полицию после угроз от него в соцсетях",
-      "title_neutral": "В Москве школьника доставили в полицию после угроз от него в соцсетях",
-      "excerpt": "Директор школы №1586 Максим Баландин сообщил, что в закрытой группе в соцсетях появилось сообщение об угрозе",
-      "recap_neutral": "Директор школы №1586 Максим Баландин сообщил, что в закрытой группе в соцсетях появилось сообщение об угрозе",
-      "main_idea": "В Москве школьника доставили в полицию после угроз от него в соцсетях",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Tue, 03 Feb 2026 20:50:12 +0300",
-      "url": "https://tass.ru/proisshestviya/26336365",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Белгородской области зафиксировали повреждения на инфраструктурном объекте",
-      "title_neutral": "В Белгородской области зафиксировали повреждения на инфраструктурном объекте",
-      "excerpt": "Вооруженные силы Украины нанесли ракетный удар по Белгороду и Белгородскому округу, отметил губернатор региона Вячеслав Гладков",
-      "recap_neutral": "Вооруженные силы Украины нанесли ракетный удар по Белгороду и Белгородскому округу, отметил губернатор региона Вячеслав Гладков",
-      "main_idea": "В Белгородской области зафиксировали повреждения на инфраструктурном объекте",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Tue, 03 Feb 2026 20:45:42 +0300",
-      "url": "https://tass.ru/proisshestviya/26336349",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Минздраве подтвердили, что Мурашко оказал помощь пострадавшему в ДТП",
-      "title_neutral": "В Минздраве подтвердили, что Мурашко оказал помощь пострадавшему в ДТП",
-      "excerpt": "Помощник министра Алексей Кузнецов напомнил, что Михаил Мурашко врач по образованию",
-      "recap_neutral": "Помощник министра Алексей Кузнецов напомнил, что Михаил Мурашко врач по образованию",
-      "main_idea": "В Минздраве подтвердили, что Мурашко оказал помощь пострадавшему в ДТП",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Tue, 03 Feb 2026 20:43:42 +0300",
-      "url": "https://tass.ru/obschestvo/26336285",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В ОП поддержали концепцию второго антифрод-пакета",
-      "title_neutral": "В ОП поддержали концепцию второго антифрод-пакета",
-      "excerpt": "Благодаря усилиям Минцифры, МВД, ФСБ, ЦБ видно, что количество преступлений, совершаемых в этой сфере идет на спад, но при этом есть лакуны и лазейки, отметил член комиссии ОП по общественной экспертизе законопроектов и иных нормативных актов Евгений Машаров",
-      "recap_neutral": "Благодаря усилиям Минцифры, МВД, ФСБ, ЦБ видно, что количество преступлений, совершаемых в этой сфере идет на спад, но при этом есть лакуны и лазейки, отметил член комиссии ОП по общественной экспертизе законопроектов и…",
-      "main_idea": "В ОП поддержали концепцию второго антифрод-пакета",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Tue, 03 Feb 2026 20:43:02 +0300",
-      "url": "https://tass.ru/ekonomika/26336317",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Жители Одессы протестуют против отключений света",
-      "title_neutral": "Жители Одессы протестуют против отключений света",
-      "excerpt": "Около 20 человек встали поперек четырехполосной дороги на пешеходном переходе, блокировав проезд автомобилей",
-      "recap_neutral": "Около 20 человек встали поперек четырехполосной дороги на пешеходном переходе, блокировав проезд автомобилей",
-      "main_idea": "Жители Одессы протестуют против отключений света",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Tue, 03 Feb 2026 20:41:18 +0300",
-      "url": "https://tass.ru/obschestvo/26336331",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Ростовской области в ДТП пострадали пять человек",
-      "title_neutral": "В Ростовской области в ДТП пострадали пять человек",
-      "excerpt": "Среди пострадавших есть дети",
-      "recap_neutral": "Среди пострадавших есть дети",
-      "main_idea": "В Ростовской области в ДТП пострадали пять человек",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Tue, 03 Feb 2026 20:38:43 +0300",
-      "url": "https://tass.ru/proisshestviya/26336321",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Актрисе Артамоновой может грозить лишение свободы после конфликта из-за парковки",
-      "title_neutral": "Актрисе Артамоновой может грозить лишение свободы после конфликта из-за парковки",
-      "excerpt": "Артистка ранила ножом одного из участников драки",
-      "recap_neutral": "Артистка ранила ножом одного из участников драки",
-      "main_idea": "Актрисе Артамоновой может грозить лишение свободы после конфликта из-за парковки",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Tue, 03 Feb 2026 20:37:41 +0300",
-      "url": "https://tass.ru/proisshestviya/26336311",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Tue, 03 Feb 2026 18:16:19 GMT",
+      "url": "https://www.bbc.com/news/articles/c14r685mne4o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -288,51 +371,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Weeks of Heavy Snowfall in Japan Kills at Least 30",
-      "title_neutral": "Weeks of Heavy Snowfall in Japan Kills at Least 30",
-      "excerpt": "Snowfall in parts of Japan has also left about 200 people injured. One city recorded 72 inches of snow, the highest in almost 40 years.",
-      "recap_neutral": "Snowfall in parts of Japan has also left about 200 people injured",
-      "main_idea": "Weeks of Heavy Snowfall in Japan Kills at Least 30",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Tue, 03 Feb 2026 17:56:33 +0000",
-      "url": "https://www.nytimes.com/2026/02/03/world/asia/japan-snow-deaths.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Clintons agree to testify on Epstein as vote looms to hold them in contempt of Congress",
-      "title_neutral": "Clintons agree to testify on Epstein as vote looms to hold them in contempt of Congress",
-      "excerpt": "The couple previously argued that a House committee's demands were invalid. It is not clear when they will testify.",
-      "recap_neutral": "The couple previously argued that a House committee's demands were invalid",
-      "main_idea": "Clintons agree to testify on Epstein as vote looms to hold them in contempt of Congress",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Tue, 03 Feb 2026 17:53:38 GMT",
-      "url": "https://www.bbc.com/news/articles/c14r685mne4o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "I made 20 GDPR deletion requests. 12 were ignored",
-      "title_neutral": "I made 20 GDPR deletion requests. 12 were ignored",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "I made 20 GDPR deletion requests. 12 were ignored",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 03 Feb 2026 17:48:22 +0000",
-      "url": "https://nikolak.com/gdpr-failure/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -418,21 +456,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran's president says it is ready to negotiate with the US",
-      "title_neutral": "Iran's president says it is ready to negotiate with the US",
-      "excerpt": "Masoud Pezeshkian said Iran would pursue \"fair and equitable\" talks, as the US builds up forces in the region.",
-      "recap_neutral": "Masoud Pezeshkian said Iran would pursue \"fair and equitable\" talks, as the US builds up forces in the region",
-      "main_idea": "Iran's president says it is ready to negotiate with the US",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Tue, 03 Feb 2026 17:05:06 GMT",
-      "url": "https://www.bbc.com/news/articles/c4gw10mkz0yo?at_medium=RSS&at_campaign=rss",
+      "title_original": "221 Cannon Road Is Not for Sale",
+      "title_neutral": "221 Cannon Road Is Not for Sale",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "221 Cannon Road Is Not for Sale",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 03 Feb 2026 16:56:06 +0000",
+      "url": "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -497,23 +532,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Police Search X’s Premises in France as Prosecutors Summon Elon Musk",
-      "title_neutral": "Police Search X’s Premises in France as Prosecutors Summon Elon Musk",
-      "excerpt": "The move followed a yearlong investigation into X and escalated a wider standoff between European officials and American tech companies over the regulation of social media.",
-      "recap_neutral": "The move followed a yearlong investigation into X and escalated a wider standoff between European officials and American tech companies over the regulation of social media",
-      "main_idea": "Police Search X’s Premises in France as Prosecutors Summon Elon Musk",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 03 Feb 2026 16:35:33 +0000",
-      "url": "https://www.nytimes.com/2026/02/03/world/europe/musk-x-france-police-search.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -659,23 +677,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Palestinians Return to Gaza for First Time in Nearly Two Years",
-      "title_neutral": "Palestinians Return to Gaza for First Time in Nearly Two Years",
-      "excerpt": "Only 12 returnees reunited with families. Some said their arrival carried larger weight, defying any notion of permanently displacing Gazans.",
-      "recap_neutral": "Only 12 returnees reunited with families",
-      "main_idea": "Palestinians Return to Gaza for First Time in Nearly Two Years",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 03 Feb 2026 15:45:06 +0000",
-      "url": "https://www.nytimes.com/2026/02/03/world/middleeast/palestinians-gaza-return.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Son of Norway’s Crown Princess Goes on Trial Over Charges Including Rape",
       "title_neutral": "Son of Norway’s Crown Princess Goes on Trial Over Charges Including Rape",
       "excerpt": "The trial of Marius Borg Hoiby, who has also been accused of assault and other crimes, began as his mother came under pressure over her ties to Jeffrey Epstein.",
@@ -773,21 +774,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Show HN: Sandboxing untrusted code using WebAssembly",
-      "title_neutral": "Show HN: Sandboxing untrusted code using WebAssembly",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Sandboxing untrusted code using WebAssembly",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 03 Feb 2026 14:28:01 +0000",
-      "url": "https://github.com/mavdol/capsule",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Restored angel fresco resembling Italian PM Meloni sparks investigation",
       "title_neutral": "Restored angel fresco resembling Italian PM Meloni sparks investigation",
       "excerpt": "The artist has denied modelling the fresco on the prime minister.",
@@ -867,6 +853,38 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "What we know about Savannah Guthrie's missing mother",
+      "title_neutral": "What we know about Savannah Guthrie's missing mother",
+      "excerpt": "Nancy Guthrie is 84 and has mobility issues, but she is mentally sharp, Pima County Sheriff Chris Nanos said. She was last seen Saturday evening.",
+      "recap_neutral": "Nancy Guthrie is 84 and has mobility issues, but she is mentally sharp, Pima County Sheriff Chris Nanos said",
+      "main_idea": "What we know about Savannah Guthrie's missing mother",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Tue, 03 Feb 2026 13:25:08 -0500",
+      "url": "https://www.npr.org/2026/02/03/nx-s1-5697950/nancy-guthrie-savannah-mother",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Back seats aren't as safe as they should be. A crash test is trying to help",
+      "title_neutral": "Back seats aren't as safe as they should be. A crash test is trying to help",
+      "excerpt": "Better engineering has made the front seat much safer in head-on collisions. But the back seat hasn't kept pace. It's a problem one vehicle safety group is trying to solve.",
+      "recap_neutral": "Better engineering has made the front seat much safer in head-on collisions",
+      "main_idea": "Back seats aren't as safe as they should be. A crash test is trying to help",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Tue, 03 Feb 2026 13:21:06 -0500",
+      "url": "https://www.npr.org/2026/02/03/nx-s1-5696544/crash-test-dummy-rear-seat",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "'I was thinking about mum': Boy, 13, swims for hours to save family swept out to sea",
       "title_neutral": "'I was thinking about mum': Boy, 13, swims for hours to save family swept out to sea",
       "excerpt": "Austin Applebee recounts his 'superhuman' swim which saved the lives of his mother and siblings in Australia.",
@@ -936,13 +954,14 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Congress is nearing a final vote to end a short-lived, partial government shutdown",
-      "title_neutral": "Congress is nearing a final vote to end a short-lived, partial government shutdown",
-      "excerpt": "The House voted to advance a spending package that would end the brief, partial government shutdown.",
-      "recap_neutral": "The House voted to advance a spending package that would end the brief, partial government shutdown",
-      "main_idea": "Congress is nearing a final vote to end a short-lived, partial government shutdown",
+      "title_original": "House votes to end partial government shutdown, setting up contentious talks on ICE",
+      "title_neutral": "House votes to end partial government shutdown, setting up contentious talks on ICE",
+      "excerpt": "The House has approved a spending bill to end a short-lived partial government shutdown. Now lawmakers will begin contentious negotiations over new guardrails for immigration enforcement.",
+      "recap_neutral": "The House has approved a spending bill to end a short-lived partial government shutdown",
+      "main_idea": "House votes to end partial government shutdown, setting up contentious talks on ICE",
       "tags": [
-        "politics"
+        "politics",
+        "tech"
       ],
       "source": "NPR",
       "published_at": "Tue, 03 Feb 2026 12:37:50 -0500",
@@ -1304,41 +1323,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Privatizing Fannie Mae is risky. Would it be a win for taxpayers or Trump's donors?",
-      "title_neutral": "Privatizing Fannie Mae is risky. Would it be a win for taxpayers or Trump's donors?",
-      "excerpt": "The idea has alarmed critics, who warn it could rattle financial markets and drive up mortgage rates, while potentially generating large profits for key Trump supporters.",
-      "recap_neutral": "The idea has alarmed critics, who warn it could rattle financial markets and drive up mortgage rates, while potentially generating large profits for key Trump supporters",
-      "main_idea": "Privatizing Fannie Mae is risky. Would it be a win for taxpayers or Trump's donors?",
-      "tags": [
-        "economy",
-        "conflict"
-      ],
-      "source": "NPR",
-      "published_at": "Tue, 03 Feb 2026 05:00:00 -0500",
-      "url": "https://www.npr.org/2026/02/03/nx-s1-5615175/fannie-freddie-housing-pulte-trump-donors",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Here's why people say they're using 'Are You Dead?' and apps like it",
-      "title_neutral": "Here's why people say they're using 'Are You Dead?' and apps like it",
-      "excerpt": "Safety check-in apps — a way for loved ones to know that you're alive — have become more popular among adults who feel that modern life has made connection and community more difficult to maintain.",
-      "recap_neutral": "Safety check-in apps — a way for loved ones to know that you're alive — have become more popular among adults who feel that modern life has made connection and community more difficult to maintain",
-      "main_idea": "Here's why people say they're using 'Are You Dead?' and apps like it",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Tue, 03 Feb 2026 05:00:00 -0500",
-      "url": "https://www.npr.org/2026/02/03/nx-s1-5694669/loneliness-isolation-app-are-you-dead-snug-alone",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Trump unveils $12bn critical minerals stockpile scheme in apparent move to counter China’s dominance",
       "title_neutral": "Trump unveils $12bn critical minerals stockpile scheme in apparent move to counter China’s dominance",
       "excerpt": "Other countries are expected to join Project Vault, which US president said would ensure that US businesses are ‘never harmed by any shortage’ Donald Trump has announced the creation of a critical mineral reserve worth nearly $12bn, a stockpile that could counter China’s ability to use its dominanc…",
@@ -1451,6 +1435,23 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Puget Systems Most Reliable Hardware of 2025",
+      "title_neutral": "Puget Systems Most Reliable Hardware of 2025",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Puget Systems Most Reliable Hardware of 2025",
+      "tags": [
+        "conflict"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sat, 31 Jan 2026 04:34:25 +0000",
+      "url": "https://www.pugetsystems.com/labs/articles/puget-systems-most-reliable-hardware-of-2025/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
