@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T21:39:32.577598+00:00",
+  "last_updated": "2026-02-06T22:19:42.521134+00:00",
   "items": [
     {
       "title_original": "Claude Composer",
@@ -97,21 +97,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Norway investigates former PM Jagland over alleged Epstein links",
-      "title_neutral": "Norway investigates former PM Jagland over alleged Epstein links",
-      "excerpt": "Police say Thorbjørn Jagland is suspected of \"aggravated corruption\", requesting for his immunity to be revoked.",
-      "recap_neutral": "Police say Thorbjørn Jagland is suspected of \"aggravated corruption\", requesting for his immunity to be revoked",
-      "main_idea": "Norway investigates former PM Jagland over alleged Epstein links",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Thu, 05 Feb 2026 23:39:48 GMT",
-      "url": "https://www.bbc.com/news/articles/cy8y6w2nl0qo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -281,13 +266,180 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Reuters: США и Киев обсуждают проведение на Украине в мае выборов и референдума",
-      "title_neutral": "Reuters: США и Киев обсуждают проведение на Украине в мае выборов и референдума",
+      "title_original": "Трамп пригрозил Индии мерами за возобновление закупок российской нефти",
+      "title_neutral": "Трамп пригрозил Индии мерами за возобновление закупок российской нефти",
       "excerpt": "",
-      "recap_neutral": "Reuters: США и Киев обсуждают проведение на Украине в мае выборов и референдума",
-      "main_idea": "Reuters: США и Киев обсуждают проведение на Украине в мае выборов и референдума",
+      "recap_neutral": "Трамп пригрозил Индии мерами за возобновление закупок российской нефти",
+      "main_idea": "Трамп пригрозил Индии мерами за возобновление закупок российской нефти",
       "tags": [
-        "politics"
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 07 Feb 2026 01:07:19 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26375501",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ОП: первые квитанции за услуги ЖКХ по новым правилам придут в марте",
+      "title_neutral": "ОП: первые квитанции за услуги ЖКХ по новым правилам придут в марте",
+      "excerpt": "",
+      "recap_neutral": "ОП: первые квитанции за услуги ЖКХ по новым правилам придут в марте",
+      "main_idea": "ОП: первые квитанции за услуги ЖКХ по новым правилам придут в марте",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 07 Feb 2026 01:06:27 +0300",
+      "url": "https://tass.ru/obschestvo/26375491",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп подписал указ о пошлинах на поставки в США товаров из торгующих с Ираном стран",
+      "title_neutral": "Трамп подписал указ о пошлинах на поставки в США товаров из торгующих с Ираном стран",
+      "excerpt": "",
+      "recap_neutral": "Трамп подписал указ о пошлинах на поставки в США товаров из торгующих с Ираном стран",
+      "main_idea": "Трамп подписал указ о пошлинах на поставки в США товаров из торгующих с Ираном стран",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 07 Feb 2026 01:06:11 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26375495",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Марочко: освобождение Поповки формирует буферную зону на стыке с Белгородчиной",
+      "title_neutral": "Марочко: освобождение Поповки формирует буферную зону на стыке с Белгородчиной",
+      "excerpt": "Военный эксперт отметил, что подразделениям украинских войск у населенного пункта \"крайне несладко\"",
+      "recap_neutral": "Военный эксперт отметил, что подразделениям украинских войск у населенного пункта \"крайне несладко\"",
+      "main_idea": "Марочко: освобождение Поповки формирует буферную зону на стыке с Белгородчиной",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 07 Feb 2026 01:02:33 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26375465",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Болельщик из РФ рассказал об идее пронести флаг на открытие Олимпиады",
+      "title_neutral": "Болельщик из РФ рассказал об идее пронести флаг на открытие Олимпиады",
+      "excerpt": "Болельщики вывесили российский флаг на трибунах стадиона \"Сан-Сиро\" в Милане",
+      "recap_neutral": "Болельщики вывесили российский флаг на трибунах стадиона \"Сан-Сиро\" в Милане",
+      "main_idea": "Болельщик из РФ рассказал об идее пронести флаг на открытие Олимпиады",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 07 Feb 2026 00:57:12 +0300",
+      "url": "https://tass.ru/sport/26375451",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Reuters: США заявили Украине, что из-за выборов уменьшат роль в урегулировании",
+      "title_neutral": "Reuters: США заявили Украине, что из-за выборов уменьшат роль в урегулировании",
+      "excerpt": "Американский лидер Дональд Трамп намерен больше внимания уделять внутренним вопросам, в связи с чем \"у ключевых должностных лиц будет меньше времени и политического капитала на обеспечение достижения мирных договоренностей\", пишет агентство",
+      "recap_neutral": "Американский лидер Дональд Трамп намерен больше внимания уделять внутренним вопросам, в связи с чем \"у ключевых должностных лиц будет меньше времени и политического капитала на обеспечение достижения мирных договореннос…",
+      "main_idea": "Reuters: США заявили Украине, что из-за выборов уменьшат роль в урегулировании",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 07 Feb 2026 00:56:44 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26375443",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Олимпийские игры 2026 года в Италии объявили открытыми",
+      "title_neutral": "Олимпийские игры 2026 года в Италии объявили открытыми",
+      "excerpt": "Соревнования завершатся 22 февраля",
+      "recap_neutral": "Соревнования завершатся 22 февраля",
+      "main_idea": "Олимпийские игры 2026 года в Италии объявили открытыми",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 07 Feb 2026 00:53:49 +0300",
+      "url": "https://tass.ru/sport/26375419",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "США с 7 февраля отменяют пошлины в размере 25% на товары из Индии",
+      "title_neutral": "США с 7 февраля отменяют пошлины в размере 25% на товары из Индии",
+      "excerpt": "Соединенные Штаты вводили тарифы на индийскую продукцию в связи с приобретением страной российской нефти",
+      "recap_neutral": "Соединенные Штаты вводили тарифы на индийскую продукцию в связи с приобретением страной российской нефти",
+      "main_idea": "США с 7 февраля отменяют пошлины в размере 25% на товары из Индии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 07 Feb 2026 00:53:26 +0300",
+      "url": "https://tass.ru/ekonomika/26375427",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ковентри надеется, что Олимпийские игры станут праздником единения людей",
+      "title_neutral": "Ковентри надеется, что Олимпийские игры станут праздником единения людей",
+      "excerpt": "Церемония открытия Олимпиады проходит в Италии",
+      "recap_neutral": "Церемония открытия Олимпиады проходит в Италии",
+      "main_idea": "Ковентри надеется, что Олимпийские игры станут праздником единения людей",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 07 Feb 2026 00:48:38 +0300",
+      "url": "https://tass.ru/sport/26375411",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Белоруссии рассказали об оказании медпомощи вернувшимся из плена бойцам ВС РФ",
+      "title_neutral": "В Белоруссии рассказали об оказании медпомощи вернувшимся из плена бойцам ВС РФ",
+      "excerpt": "У части военнослужащих выявлены множественные инородные тела с имеющимися осложнениями, нейропатиями и остеомиелитами, сообщил врач белорусской больницы",
+      "recap_neutral": "У части военнослужащих выявлены множественные инородные тела с имеющимися осложнениями, нейропатиями и остеомиелитами, сообщил врач белорусской больницы",
+      "main_idea": "В Белоруссии рассказали об оказании медпомощи вернувшимся из плена бойцам ВС РФ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 07 Feb 2026 00:39:27 +0300",
+      "url": "https://tass.ru/obschestvo/26375393",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Reuters: США и Киев обсуждают проведение на Украине выборов в мае",
+      "title_neutral": "Reuters: США и Киев обсуждают проведение на Украине выборов в мае",
+      "excerpt": "Стороны также рассматривают возможность организации референдума относительно потенциальных договоренностей об урегулировании конфликта, сообщило агентство",
+      "recap_neutral": "Стороны также рассматривают возможность организации референдума относительно потенциальных договоренностей об урегулировании конфликта, сообщило агентство",
+      "main_idea": "Reuters: США и Киев обсуждают проведение на Украине выборов в мае",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
       ],
       "source": "ТАСС",
       "published_at": "Sat, 07 Feb 2026 00:36:23 +0300",
@@ -298,13 +450,14 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "ЕР может выдвинуть рекордное число участников СВО на выборы в 2026 году",
-      "title_neutral": "ЕР может выдвинуть рекордное число участников СВО на выборы в 2026 году",
-      "excerpt": "",
-      "recap_neutral": "ЕР может выдвинуть рекордное число участников СВО на выборы в 2026 году",
-      "main_idea": "ЕР может выдвинуть рекордное число участников СВО на выборы в 2026 году",
+      "title_original": "ТАСС: ЕР может выдвинуть рекордное число участников СВО на выборы в 2026 году",
+      "title_neutral": "ТАСС: ЕР может выдвинуть рекордное число участников СВО на выборы в 2026 году",
+      "excerpt": "Как подчеркнул источник агентства, партия продолжит выполнение задачи президента по вовлечению ветеранов спецоперации в органы власти",
+      "recap_neutral": "Как подчеркнул источник агентства, партия продолжит выполнение задачи президента по вовлечению ветеранов спецоперации в органы власти",
+      "main_idea": "ТАСС: ЕР может выдвинуть рекордное число участников СВО на выборы в 2026 году",
       "tags": [
-        "politics"
+        "politics",
+        "tech"
       ],
       "source": "ТАСС",
       "published_at": "Sat, 07 Feb 2026 00:33:46 +0300",
@@ -362,179 +515,45 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Олимпиаду в Сочи упомянули в ролике на церемонии открытия Игр в Италии",
-      "title_neutral": "Олимпиаду в Сочи упомянули в ролике на церемонии открытия Игр в Италии",
-      "excerpt": "Ролик показали в части \"Путешествие во времени\"",
-      "recap_neutral": "Ролик показали в части \"Путешествие во времени\"",
-      "main_idea": "Олимпиаду в Сочи упомянули в ролике на церемонии открытия Игр в Италии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 07 Feb 2026 00:21:53 +0300",
-      "url": "https://tass.ru/sport/26375361",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Вице-спикер парламента: Словакия оспорит в суде решение ЕС по российскому газу",
-      "title_neutral": "Вице-спикер парламента: Словакия оспорит в суде решение ЕС по российскому газу",
-      "excerpt": "На аналогичный шаг готова пойти и Венгрия, отметил Тибор Гашпар",
-      "recap_neutral": "На аналогичный шаг готова пойти и Венгрия, отметил Тибор Гашпар",
-      "main_idea": "Вице-спикер парламента: Словакия оспорит в суде решение ЕС по российскому газу",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 07 Feb 2026 00:15:55 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26375321",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Москве отменили оранжевый погодный уровень",
-      "title_neutral": "В Москве отменили оранжевый погодный уровень",
-      "excerpt": "Он действовал в столице и области восемь суток",
-      "recap_neutral": "Он действовал в столице и области восемь суток",
-      "main_idea": "В Москве отменили оранжевый погодный уровень",
-      "tags": [
-        "climate"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 07 Feb 2026 00:15:46 +0300",
-      "url": "https://tass.ru/obschestvo/26375303",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Делегацию из США освистали на церемонии открытия Олимпиады",
-      "title_neutral": "Делегацию из США освистали на церемонии открытия Олимпиады",
-      "excerpt": "Ранее зрители неодобрительно встретили делегацию израильских атлетов",
-      "recap_neutral": "Ранее зрители неодобрительно встретили делегацию израильских атлетов",
-      "main_idea": "Делегацию из США освистали на церемонии открытия Олимпиады",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 07 Feb 2026 00:14:06 +0300",
-      "url": "https://tass.ru/sport/26375311",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Курской области из-за удара дрона погиб мужчина",
-      "title_neutral": "В Курской области из-за удара дрона погиб мужчина",
-      "excerpt": "Инцидент произошел в селе Верхний Любаж",
-      "recap_neutral": "Инцидент произошел в селе Верхний Любаж",
-      "main_idea": "В Курской области из-за удара дрона погиб мужчина",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 07 Feb 2026 00:13:40 +0300",
-      "url": "https://tass.ru/proisshestviya/26375313",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Керлинг для тренеров и 7-кратный Шипачев. В Екатеринбурге стартует Матч звезд",
-      "title_neutral": "Керлинг для тренеров и 7-кратный Шипачев. В Екатеринбурге стартует Матч звезд",
-      "excerpt": "По традиции, лучшие игроки КХЛ примут участие в мастер-шоу и в составе своих команд сыграют в мини-турнире",
-      "recap_neutral": "По традиции, лучшие игроки КХЛ примут участие в мастер-шоу и в составе своих команд сыграют в мини-турнире",
-      "main_idea": "Керлинг для тренеров и 7-кратный Шипачев. В Екатеринбурге стартует Матч звезд",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 07 Feb 2026 00:08:43 +0300",
-      "url": "https://tass.ru/sport/26375259",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Вблизи Полтавы произошло землетрясение магнитудой 3,1",
-      "title_neutral": "Вблизи Полтавы произошло землетрясение магнитудой 3,1",
-      "excerpt": "Толчки были зафиксированы в 20:46 мск на глубине 9 км в Полтавском районе",
-      "recap_neutral": "Толчки были зафиксированы в 20:46 мск на глубине 9 км в Полтавском районе",
-      "main_idea": "Вблизи Полтавы произошло землетрясение магнитудой 3,1",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 07 Feb 2026 00:08:05 +0300",
-      "url": "https://tass.ru/proisshestviya/26375225",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Более 16 тыс. абхазцев получили водительские права РФ в упрощенном порядке",
-      "title_neutral": "Более 16 тыс. абхазцев получили водительские права РФ в упрощенном порядке",
-      "excerpt": "Всего в 2025 году было принято 19 140 заявлений на получение российских водительских удостоверений",
-      "recap_neutral": "Всего в 2025 году было принято 19 140 заявлений на получение российских водительских удостоверений",
-      "main_idea": "Более 16 тыс. абхазцев получили водительские права РФ в упрощенном порядке",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 07 Feb 2026 00:07:11 +0300",
-      "url": "https://tass.ru/obschestvo/26375221",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лаборатории Роспотребнадзора подтвердили аккредитацию ВОЗ",
-      "title_neutral": "Лаборатории Роспотребнадзора подтвердили аккредитацию ВОЗ",
-      "excerpt": "Этот статус подтверждает, что у учреждений есть кадровые и инфраструктурные возможности по оперативному и точному выявлению полиовирусов, отметили в ведомстве",
-      "recap_neutral": "Этот статус подтверждает, что у учреждений есть кадровые и инфраструктурные возможности по оперативному и точному выявлению полиовирусов, отметили в ведомстве",
-      "main_idea": "Лаборатории Роспотребнадзора подтвердили аккредитацию ВОЗ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 07 Feb 2026 00:06:06 +0300",
-      "url": "https://tass.ru/obschestvo/26375255",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Киевляне жалуются на холод и отсутствие элементарных условий для жизни",
-      "title_neutral": "Киевляне жалуются на холод и отсутствие элементарных условий для жизни",
-      "excerpt": "По словам горожан, в квартирах температура опустилась до 8 градусов",
-      "recap_neutral": "По словам горожан, в квартирах температура опустилась до 8 градусов",
-      "main_idea": "Киевляне жалуются на холод и отсутствие элементарных условий для жизни",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 07 Feb 2026 00:05:54 +0300",
-      "url": "https://tass.ru/obschestvo/26375277",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Welcome to the Room: A lesson in leadership by Satya Nadella",
-      "title_neutral": "Welcome to the Room: A lesson in leadership by Satya Nadella",
+      "title_original": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+      "title_neutral": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Welcome to the Room: A lesson in leadership by Satya Nadella",
+      "main_idea": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Mon, 02 Feb 2026 20:17:34 +0000",
-      "url": "https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/",
+      "published_at": "Fri, 06 Feb 2026 21:51:23 +0000",
+      "url": "https://openciv3.org/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Norway's crown princess apologises after pressure over Epstein friendship",
+      "title_neutral": "Norway's crown princess apologises after pressure over Epstein friendship",
+      "excerpt": "Mette-Marit says she is sorry to Norwegians for not realising what kind of person the late sex offender was.",
+      "recap_neutral": "Mette-Marit says she is sorry to Norwegians for not realising what kind of person the late sex offender was",
+      "main_idea": "Norway's crown princess apologises after pressure over Epstein friendship",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Fri, 06 Feb 2026 21:34:24 GMT",
+      "url": "https://www.bbc.com/news/articles/c78v8wx6jjxo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+      "title_neutral": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 06 Feb 2026 21:33:11 +0000",
+      "url": "https://github.com/valdanylchuk/breezydemo",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -604,6 +623,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Gazans returning through Rafah crossing describe checks by Palestinian militia",
+      "title_neutral": "Gazans returning through Rafah crossing describe checks by Palestinian militia",
+      "excerpt": "One Palestinian woman said members of the Israel-linked militia searched them and their belongings at an Israeli checkpoint inside Gaza.",
+      "recap_neutral": "One Palestinian woman said members of the Israel-linked militia searched them and their belongings at an Israeli checkpoint inside Gaza",
+      "main_idea": "Gazans returning through Rafah crossing describe checks by Palestinian militia",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 06 Feb 2026 20:27:57 GMT",
+      "url": "https://www.bbc.com/news/articles/cy4g3rne4n7o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Iran Is at Work on Missile and Nuclear Sites, Satellite Images Show",
       "title_neutral": "Iran Is at Work on Missile and Nuclear Sites, Satellite Images Show",
       "excerpt": "Repairs at key missile sites began soon after they were hit by Israeli and U.S. strikes last year, but work at Iran’s nuclear facilities has been slower.",
@@ -661,23 +697,6 @@
       "source": "BBC World",
       "published_at": "Fri, 06 Feb 2026 19:52:23 GMT",
       "url": "https://www.bbc.com/news/articles/cg7y7gz2835o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Canada and France open Greenland consulates after Trump demands",
-      "title_neutral": "Canada and France open Greenland consulates after Trump demands",
-      "excerpt": "The moves were planned before Trump said he wanted the Arctic island but they are being seen as a show of solidarity with Greenlanders.",
-      "recap_neutral": "The moves were planned before Trump said he wanted the Arctic island but they are being seen as a show of solidarity with Greenlanders",
-      "main_idea": "Canada and France open Greenland consulates after Trump demands",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 06 Feb 2026 19:28:33 GMT",
-      "url": "https://www.bbc.com/news/articles/c0r4lrly44xo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -812,23 +831,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: BioTradingArena – Benchmark for LLMs to predict biotech stock movements",
-      "title_neutral": "Show HN: BioTradingArena – Benchmark for LLMs to predict biotech stock movements",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: BioTradingArena – Benchmark for LLMs to predict biotech stock movements",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Fri, 06 Feb 2026 17:11:52 +0000",
-      "url": "https://www.biotradingarena.com/hn",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1000,23 +1002,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "'They sent a letter asking to preach. Then they massacred us' - Nigerians on jihadist attack",
-      "title_neutral": "'They sent a letter asking to preach. Then they massacred us' - Nigerians on jihadist attack",
-      "excerpt": "Armed jihadists devastate a community that refused to convert to their hard-line interpretation of Islam.",
-      "recap_neutral": "Armed jihadists devastate a community that refused to convert to their hard-line interpretation of Islam",
-      "main_idea": "'They sent a letter asking to preach. Then they massacred us' - Nigerians on jihadist attack",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 06 Feb 2026 15:58:43 GMT",
-      "url": "https://www.bbc.com/news/articles/c1dkd3llw1lo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
