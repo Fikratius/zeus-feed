@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T21:21:32.777892+00:00",
+  "last_updated": "2026-02-07T21:48:33.619002+00:00",
   "items": [
     {
       "title_original": "Start all of your commands with a comma (2009)",
@@ -43,6 +43,21 @@
       "source": "Hacker News",
       "published_at": "Wed, 04 Feb 2026 15:34:37 +0000",
       "url": "http://muratbuffalo.blogspot.com/2026/02/friction.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Show HN: A luma dependent chroma compression algorithm (image compression)",
+      "title_neutral": "Show HN: A luma dependent chroma compression algorithm (image compression)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: A luma dependent chroma compression algorithm (image compression)",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 04 Feb 2026 11:13:33 +0000",
+      "url": "https://www.bitsnbites.eu/a-spatial-domain-variable-block-size-luma-dependent-chroma-compression-algorithm/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -118,6 +133,38 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "В Херсоне произошли взрывы",
+      "title_neutral": "В Херсоне произошли взрывы",
+      "excerpt": "Киевские власти не объявляли воздушную тревогу в контролируемых районах региона",
+      "recap_neutral": "Киевские власти не объявляли воздушную тревогу в контролируемых районах региона",
+      "main_idea": "В Херсоне произошли взрывы",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 08 Feb 2026 00:26:15 +0300",
+      "url": "https://tass.ru/proisshestviya/26379737",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Новороссийске объявили угрозу атаки БПЛА",
+      "title_neutral": "В Новороссийске объявили угрозу атаки БПЛА",
+      "excerpt": "Глава города Андрей Кравченко призвал жителей укрыться в комнатах без окон",
+      "recap_neutral": "Глава города Андрей Кравченко призвал жителей укрыться в комнатах без окон",
+      "main_idea": "В Новороссийске объявили угрозу атаки БПЛА",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 08 Feb 2026 00:22:26 +0300",
+      "url": "https://tass.ru/proisshestviya/26379733",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Российские спортсмены поборются за три медали на Олимпиаде-2026",
       "title_neutral": "Российские спортсмены поборются за три медали на Олимпиаде-2026",
       "excerpt": "На старт выйдут горнолыжница Юлия Плешкова, лыжник Савелий Коростелев и саночник Павел Репилов",
@@ -133,12 +180,14 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Депутат Картайзер: Европе необходимо восстановить хорошие отношения с РФ и Белоруссией",
-      "title_neutral": "Депутат Картайзер: Европе необходимо восстановить хорошие отношения с РФ и Белоруссией",
-      "excerpt": "",
-      "recap_neutral": "Депутат Картайзер: Европе необходимо восстановить хорошие отношения с РФ и Белоруссией",
-      "main_idea": "Депутат Картайзер: Европе необходимо восстановить хорошие отношения с РФ и Белоруссией",
-      "tags": [],
+      "title_original": "Евродепутат Картайзер выступил за восстановление хороших отношений с Россией",
+      "title_neutral": "Евродепутат Картайзер выступил за восстановление хороших отношений с Россией",
+      "excerpt": "Это необходимо для обеспечения безопасности и стабильности в Европе, заявил депутат Европарламента от Люксембурга",
+      "recap_neutral": "Это необходимо для обеспечения безопасности и стабильности в Европе, заявил депутат Европарламента от Люксембурга",
+      "main_idea": "Евродепутат Картайзер выступил за восстановление хороших отношений с Россией",
+      "tags": [
+        "politics"
+      ],
       "source": "ТАСС",
       "published_at": "Sun, 08 Feb 2026 00:06:11 +0300",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/26379699",
@@ -283,8 +332,8 @@
     {
       "title_original": "Белоусов поздравил военных полицейских с профессиональным праздником",
       "title_neutral": "Белоусов поздравил военных полицейских с профессиональным праздником",
-      "excerpt": "Министр обороны отметил, что с первых СВО они демонстрируют мужество и отвагу",
-      "recap_neutral": "Министр обороны отметил, что с первых СВО они демонстрируют мужество и отвагу",
+      "excerpt": "Министр обороны отметил, что с первых дней СВО они демонстрируют мужество и отвагу",
+      "recap_neutral": "Министр обороны отметил, что с первых дней СВО они демонстрируют мужество и отвагу",
       "main_idea": "Белоусов поздравил военных полицейских с профессиональным праздником",
       "tags": [],
       "source": "ТАСС",
@@ -326,47 +375,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Weltwoche: визит Кассиса в Москву напомнил об утрате Берном нейтральности",
-      "title_neutral": "Weltwoche: визит Кассиса в Москву напомнил об утрате Берном нейтральности",
-      "excerpt": "",
-      "recap_neutral": "Weltwoche: визит Кассиса в Москву напомнил об утрате Берном нейтральности",
-      "main_idea": "Weltwoche: визит Кассиса в Москву напомнил об утрате Берном нейтральности",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 07 Feb 2026 23:58:38 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26379603",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Карелии на фестивале \"Гиперборея\" участвовали 86 скульпторов",
-      "title_neutral": "В Карелии на фестивале \"Гиперборея\" участвовали 86 скульпторов",
-      "excerpt": "Конкурс ледовых и снежных скульптур проходил на Онежской набережной в Петрозаводске",
-      "recap_neutral": "Конкурс ледовых и снежных скульптур проходил на Онежской набережной в Петрозаводске",
-      "main_idea": "В Карелии на фестивале \"Гиперборея\" участвовали 86 скульпторов",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 07 Feb 2026 23:49:04 +0300",
-      "url": "https://tass.ru/kultura/26379559",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ilia Malinin, the ‘Quad God,’ leaves an ace in his sleeve.",
-      "title_neutral": "Ilia Malinin, the ‘Quad God,’ leaves an ace in his sleeve.",
+      "title_original": "Ilia Malinin, the ‘Quad God,’ leaves an ace up his sleeve.",
+      "title_neutral": "Ilia Malinin, the ‘Quad God,’ leaves an ace up his sleeve.",
       "excerpt": "Summary",
       "recap_neutral": "Summary",
-      "main_idea": "Ilia Malinin, the ‘Quad God,’ leaves an ace in his sleeve.",
+      "main_idea": "Ilia Malinin, the ‘Quad God,’ leaves an ace up his sleeve.",
       "tags": [],
       "source": "NYTimes World",
-      "published_at": "Sat, 07 Feb 2026 21:09:16 +0000",
-      "url": "https://www.nytimes.com/2026/02/07/world/ilia-malinin-short-program.html",
+      "published_at": "Sat, 07 Feb 2026 21:39:32 +0000",
+      "url": "https://www.nytimes.com/2026/02/07/world/olympics-ilia-malinin-short-program.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -545,6 +562,21 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "One week since Nancy Guthrie was last seen, here's what we know",
+      "title_neutral": "One week since Nancy Guthrie was last seen, here's what we know",
+      "excerpt": "Nancy Guthrie was last seen a week ago. In the days since, investigators have launched a frantic search to return the 84-year-old home.",
+      "recap_neutral": "Nancy Guthrie was last seen a week ago",
+      "main_idea": "One week since Nancy Guthrie was last seen, here's what we know",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sat, 07 Feb 2026 16:33:16 -0500",
+      "url": "https://www.npr.org/2026/02/07/nx-s1-5705280/nancy-guthrie-case-latest",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -766,21 +798,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Reinforcement Learning from Human Feedback",
-      "title_neutral": "Reinforcement Learning from Human Feedback",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Reinforcement Learning from Human Feedback",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 07 Feb 2026 12:53:39 +0000",
-      "url": "https://rlhfbook.com/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1425,21 +1442,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Mariah Carey, coffee makers and other highlights from the Olympic opening ceremony",
-      "title_neutral": "Mariah Carey, coffee makers and other highlights from the Olympic opening ceremony",
-      "excerpt": "NPR reporters at the Milan opening ceremony layered up and took notes.",
-      "recap_neutral": "NPR reporters at the Milan opening ceremony layered up and took notes",
-      "main_idea": "Mariah Carey, coffee makers and other highlights from the Olympic opening ceremony",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Fri, 06 Feb 2026 20:33:45 -0500",
-      "url": "https://www.npr.org/2026/02/06/nx-s1-5704823/winter-olympics-opening-ceremony-highlights",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
