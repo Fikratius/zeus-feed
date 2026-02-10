@@ -1,245 +1,427 @@
 {
-  "last_updated": "2026-02-10T10:01:10.969449+00:00",
+  "last_updated": "2026-02-10T11:27:19.000727+00:00",
   "items": [
     {
-      "title_original": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "title_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "title_original": "В Белгородской области из-за атаки FPV-дрона на \"Газель\" погиб мужчина",
+      "title_neutral": "В Белгородской области из-за атаки FPV-дрона на \"Газель\" погиб мужчина",
+      "excerpt": "Происшествие случилось в селе Нижнее Березово-Второе Шебекинского округа, сообщил губернатор региона Вячеслав Гладков",
+      "recap_neutral": "Происшествие случилось в селе Нижнее Березово-Второе Шебекинского округа, сообщил губернатор региона Вячеслав Гладков",
+      "main_idea": "В Белгородской области из-за атаки FPV-дрона на \"Газель\" погиб мужчина",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 10 Feb 2026 14:26:35 +0300",
+      "url": "https://tass.ru/proisshestviya/26402135",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лыжница Непряева считает, что в Европе болельщики ее любят больше, чем в РФ",
+      "title_neutral": "Лыжница Непряева считает, что в Европе болельщики ее любят больше, чем в РФ",
+      "excerpt": "По мнению спортсменки, болельщики считают, что она не заслужила права поехать на Олимпиаду",
+      "recap_neutral": "По мнению спортсменки, болельщики считают, что она не заслужила права поехать на Олимпиаду",
+      "main_idea": "Лыжница Непряева считает, что в Европе болельщики ее любят больше, чем в РФ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 10 Feb 2026 14:26:25 +0300",
+      "url": "https://tass.ru/sport/26402185",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Путин поговорил по телефону с президентом ЮАР",
+      "title_neutral": "Путин поговорил по телефону с президентом ЮАР",
       "excerpt": "",
-      "recap_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "main_idea": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:18:01 +0300",
-      "url": "https://tass.ru/politika/24134697",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "title_neutral": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "excerpt": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
-      "recap_neutral": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
-      "main_idea": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:17:03 +0300",
-      "url": "https://tass.ru/ekonomika/24134627",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "title_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "excerpt": "",
-      "recap_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "main_idea": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:15:43 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134665",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "title_neutral": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "excerpt": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
-      "recap_neutral": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
-      "main_idea": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "tags": [
-        "climate"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:12:58 +0300",
-      "url": "https://tass.ru/obschestvo/24134601",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "title_neutral": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "excerpt": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
-      "recap_neutral": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
-      "main_idea": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:11:16 +0300",
-      "url": "https://tass.ru/obschestvo/24134589",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "title_neutral": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "excerpt": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
-      "recap_neutral": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
-      "main_idea": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:34 +0300",
-      "url": "https://tass.ru/obschestvo/24132977",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "title_neutral": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "excerpt": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
-      "recap_neutral": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
-      "main_idea": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:31 +0300",
-      "url": "https://tass.ru/nauka/24134535",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "title_neutral": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "excerpt": "Материалы дела поступили в мировой судебный участок 184",
-      "recap_neutral": "Материалы дела поступили в мировой судебный участок 184",
-      "main_idea": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:03 +0300",
-      "url": "https://tass.ru/proisshestviya/24134595",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "title_neutral": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "excerpt": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
-      "recap_neutral": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
-      "main_idea": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:08:48 +0300",
-      "url": "https://tass.ru/obschestvo/24134521",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "title_neutral": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "excerpt": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
-      "recap_neutral": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
-      "main_idea": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:08:39 +0300",
-      "url": "https://tass.ru/nedvizhimost/24134431",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "title_neutral": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "excerpt": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
-      "recap_neutral": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
-      "main_idea": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:06:43 +0300",
-      "url": "https://tass.ru/obschestvo/24133033",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "title_neutral": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "excerpt": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
-      "recap_neutral": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
-      "main_idea": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:04:29 +0300",
-      "url": "https://tass.ru/obschestvo/24133525",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "title_neutral": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "excerpt": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
-      "recap_neutral": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
-      "main_idea": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
+      "recap_neutral": "Путин поговорил по телефону с президентом ЮАР",
+      "main_idea": "Путин поговорил по телефону с президентом ЮАР",
       "tags": [
         "politics"
       ],
       "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:03:57 +0300",
-      "url": "https://tass.ru/obschestvo/24134485",
+      "published_at": "Tue, 10 Feb 2026 14:25:52 +0300",
+      "url": "https://tass.ru/politika/26402197",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "США пока не решили, продолжать или нет помощь Украине",
-      "title_neutral": "США пока не решили, продолжать или нет помощь Украине",
+      "title_original": "Допинг-офицеры не беспокоили фигуриста Гуменника в день старта на Олимпиаде",
+      "title_neutral": "Допинг-офицеры не беспокоили фигуриста Гуменника в день старта на Олимпиаде",
+      "excerpt": "Во вторник мужчины покажут на Играх короткую программу",
+      "recap_neutral": "Во вторник мужчины покажут на Играх короткую программу",
+      "main_idea": "Допинг-офицеры не беспокоили фигуриста Гуменника в день старта на Олимпиаде",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 10 Feb 2026 14:25:23 +0300",
+      "url": "https://tass.ru/sport/26402169",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Эксперт Белл рассказал, чем обусловлена ситуация на Ближнем Востоке",
+      "title_neutral": "Эксперт Белл рассказал, чем обусловлена ситуация на Ближнем Востоке",
+      "excerpt": "В этом виноваты элиты Запада, которые были \"больше заняты собой, а не вопросами людей\", считает директор The Conciliators Guild",
+      "recap_neutral": "В этом виноваты элиты Запада, которые были \"больше заняты собой, а не вопросами людей\", считает директор The Conciliators Guild",
+      "main_idea": "Эксперт Белл рассказал, чем обусловлена ситуация на Ближнем Востоке",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 10 Feb 2026 14:23:58 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26402129",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Акции VK на Мосбирже росли более чем на 4,3%",
+      "title_neutral": "Акции VK на Мосбирже росли более чем на 4,3%",
+      "excerpt": "Такая динамика отмечена на фоне увеличения жалоб пользователей на работу мессенджера Telegram в России",
+      "recap_neutral": "Такая динамика отмечена на фоне увеличения жалоб пользователей на работу мессенджера Telegram в России",
+      "main_idea": "Акции VK на Мосбирже росли более чем на 4,3%",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 10 Feb 2026 14:20:07 +0300",
+      "url": "https://tass.ru/ekonomika/26402117",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AFP сообщило о стрельбе в центре столицы Гвинеи",
+      "title_neutral": "AFP сообщило о стрельбе в центре столицы Гвинеи",
+      "excerpt": "По данным агентства, применяется автоматическое оружие",
+      "recap_neutral": "По данным агентства, применяется автоматическое оружие",
+      "main_idea": "AFP сообщило о стрельбе в центре столицы Гвинеи",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 10 Feb 2026 14:19:37 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26401601",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Специалисты ФЦМК на самолете эвакуировали пациента из Вьетнама в РФ",
+      "title_neutral": "Специалисты ФЦМК на самолете эвакуировали пациента из Вьетнама в РФ",
+      "excerpt": "Мужчина попал в ДТП, рассказали в Минздраве России",
+      "recap_neutral": "Мужчина попал в ДТП, рассказали в Минздраве России",
+      "main_idea": "Специалисты ФЦМК на самолете эвакуировали пациента из Вьетнама в РФ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 10 Feb 2026 14:18:48 +0300",
+      "url": "https://tass.ru/obschestvo/26402041",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Обрушившиеся ЛЭП в Мурманской области имели дефекты",
+      "title_neutral": "Обрушившиеся ЛЭП в Мурманской области имели дефекты",
       "excerpt": "",
-      "recap_neutral": "США пока не решили, продолжать или нет помощь Украине",
-      "main_idea": "США пока не решили, продолжать или нет помощь Украине",
+      "recap_neutral": "Обрушившиеся ЛЭП в Мурманской области имели дефекты",
+      "main_idea": "Обрушившиеся ЛЭП в Мурманской области имели дефекты",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:03:52 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134491",
+      "published_at": "Tue, 10 Feb 2026 14:18:37 +0300",
+      "url": "https://tass.ru/proisshestviya/26402099",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "title_neutral": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "excerpt": "Предварительно, пострадавших нет",
-      "recap_neutral": "Предварительно, пострадавших нет",
-      "main_idea": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "tags": [],
+      "title_original": "Собянин: программа реновации в Москве завершена более чем на четверть",
+      "title_neutral": "Собянин: программа реновации в Москве завершена более чем на четверть",
+      "excerpt": "В 2025 году было построено около 2,3 млн кв. м жилья, отметил мэр столицы",
+      "recap_neutral": "В 2025 году было построено около 2,3 млн кв",
+      "main_idea": "Собянин: программа реновации в Москве завершена более чем на четверть",
+      "tags": [
+        "tech"
+      ],
       "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:02:07 +0300",
-      "url": "https://tass.ru/proisshestviya/24133329",
+      "published_at": "Tue, 10 Feb 2026 14:18:37 +0300",
+      "url": "https://tass.ru/obschestvo/26402073",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Шорт-трекист Посашков согласился с решением судей на Олимпиаде",
+      "title_neutral": "Шорт-трекист Посашков согласился с решением судей на Олимпиаде",
+      "excerpt": "Спортсмена дисквалифицировали по итогам квалификационного забега на 1 000 м за столкновение с китайским атлетом",
+      "recap_neutral": "Спортсмена дисквалифицировали по итогам квалификационного забега на 1 000 м за столкновение с китайским атлетом",
+      "main_idea": "Шорт-трекист Посашков согласился с решением судей на Олимпиаде",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 10 Feb 2026 14:17:46 +0300",
+      "url": "https://tass.ru/sport/26402097",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Кабмин запускает \"Гильотину отчетности\" в госуправлении",
+      "title_neutral": "Кабмин запускает \"Гильотину отчетности\" в госуправлении",
+      "excerpt": "Проект призван установить единые правила запроса данных у регионов и сократить избыточную административную нагрузку на них",
+      "recap_neutral": "Проект призван установить единые правила запроса данных у регионов и сократить избыточную административную нагрузку на них",
+      "main_idea": "Кабмин запускает \"Гильотину отчетности\" в госуправлении",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 10 Feb 2026 14:17:37 +0300",
+      "url": "https://tass.ru/ekonomika/26401757",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МИД Ирана заявил, что ЕС не смог сыграть конструктивную роль в переговорах с США",
+      "title_neutral": "МИД Ирана заявил, что ЕС не смог сыграть конструктивную роль в переговорах с США",
+      "excerpt": "Европейцы \"решили просто занять положение подчиненной стороны\", заявил официальный представитель ведомства Эсмаил Багаи",
+      "recap_neutral": "Европейцы \"решили просто занять положение подчиненной стороны\", заявил официальный представитель ведомства Эсмаил Багаи",
+      "main_idea": "МИД Ирана заявил, что ЕС не смог сыграть конструктивную роль в переговорах с США",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 10 Feb 2026 14:17:30 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26402075",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Путин обсудил с Голиковой вопросы здравоохранения",
+      "title_neutral": "Путин обсудил с Голиковой вопросы здравоохранения",
+      "excerpt": "В социальной политике нет второстепенных вопросов, отметил президент РФ",
+      "recap_neutral": "В социальной политике нет второстепенных вопросов, отметил президент РФ",
+      "main_idea": "Путин обсудил с Голиковой вопросы здравоохранения",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 10 Feb 2026 14:17:24 +0300",
+      "url": "https://tass.ru/politika/26402091",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве в 2025 году заменили около 4,5 тыс. лифтов в рамках программы капремонта",
+      "title_neutral": "В Москве в 2025 году заменили около 4,5 тыс. лифтов в рамках программы капремонта",
+      "excerpt": "За время реализации программы в многоквартирных домах заменили более 52,3 тыс. лифтов",
+      "recap_neutral": "За время реализации программы в многоквартирных домах заменили более 52,3 тыс",
+      "main_idea": "В Москве в 2025 году заменили около 4,5 тыс. лифтов в рамках программы капремонта",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 10 Feb 2026 14:16:48 +0300",
+      "url": "https://tass.ru/obschestvo/26402031",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Macron urges Europe to start acting like world power",
+      "title_neutral": "Macron urges Europe to start acting like world power",
+      "excerpt": "The French president warns of growing threats from China, Russia and now the US, saying Europe faces a \"wake-up call\".",
+      "recap_neutral": "The French president warns of growing threats from China, Russia and now the US, saying Europe faces a \"wake-up call\"",
+      "main_idea": "Macron urges Europe to start acting like world power",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Tue, 10 Feb 2026 11:12:08 GMT",
+      "url": "https://www.bbc.com/news/articles/ce8n1zdnpd3o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How Italy’s Police and Army Compete to Enlist Italian Olympians",
+      "title_neutral": "How Italy’s Police and Army Compete to Enlist Italian Olympians",
+      "excerpt": "Most Italian athletes at the Winter Games subsidize their training by joining the police or the military, which vie to enlist the best talent.",
+      "recap_neutral": "Most Italian athletes at the Winter Games subsidize their training by joining the police or the military, which vie to enlist the best talent",
+      "main_idea": "How Italy’s Police and Army Compete to Enlist Italian Olympians",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Tue, 10 Feb 2026 11:10:14 +0000",
+      "url": "https://www.nytimes.com/2026/02/10/world/europe/olympics-italy-police-army-athletes.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "BP steps up cost cutting as profits slide",
+      "title_neutral": "BP steps up cost cutting as profits slide",
+      "excerpt": "The oil giant also suspends its share buyback programme ahead of the arrival of its new boss.",
+      "recap_neutral": "The oil giant also suspends its share buyback programme ahead of the arrival of its new boss",
+      "main_idea": "BP steps up cost cutting as profits slide",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Tue, 10 Feb 2026 11:07:26 GMT",
+      "url": "https://www.bbc.com/news/articles/cz0g4dkm77zo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Russia Nears Capture of Key Ukrainian Towns After Year of Grinding Assaults",
+      "title_neutral": "Russia Nears Capture of Key Ukrainian Towns After Year of Grinding Assaults",
+      "excerpt": "Russian troops have advanced at a glacial pace in recent months, but gains in southern and eastern Ukraine could give Moscow an edge in U.S.-mediated peace talks.",
+      "recap_neutral": "Russian troops have advanced at a glacial pace in recent months, but gains in southern and eastern Ukraine could give Moscow an edge in U",
+      "main_idea": "Russia Nears Capture of Key Ukrainian Towns After Year of Grinding Assaults",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Tue, 10 Feb 2026 10:30:42 +0000",
+      "url": "https://www.nytimes.com/2026/02/10/world/europe/russia-ukraine-battlefield-huliaipole-pokrovsk.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Vietnam’s Leader Has New Power, and He’s in a Hurry",
+      "title_neutral": "Vietnam’s Leader Has New Power, and He’s in a Hurry",
+      "excerpt": "To Lam is a former security chief who carved his way to prominence and relishes the good life. He has promised to make Communist Vietnam rich and influential.",
+      "recap_neutral": "To Lam is a former security chief who carved his way to prominence and relishes the good life",
+      "main_idea": "Vietnam’s Leader Has New Power, and He’s in a Hurry",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Tue, 10 Feb 2026 10:30:35 +0000",
+      "url": "https://www.nytimes.com/2026/02/09/world/asia/vietnam-to-lam.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "'Mum is still out there' - Savannah Guthrie issues new plea as ransom deadline passes",
+      "title_neutral": "'Mum is still out there' - Savannah Guthrie issues new plea as ransom deadline passes",
+      "excerpt": "The video appeal came on the same day as a reported deadline to pay the people believed to be holding the TV presenter's 84-year-old mother.",
+      "recap_neutral": "The video appeal came on the same day as a reported deadline to pay the people believed to be holding the TV presenter's 84-year-old mother",
+      "main_idea": "'Mum is still out there' - Savannah Guthrie issues new plea as ransom deadline passes",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Tue, 10 Feb 2026 10:04:26 GMT",
+      "url": "https://www.bbc.com/news/articles/c4geqzqd8qeo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How the Israeli President’s Visit to Australia Created a ‘Tinder Box’",
+      "title_neutral": "How the Israeli President’s Visit to Australia Created a ‘Tinder Box’",
+      "excerpt": "Isaac Herzog’s trip led to widespread rallies and tested the restrictions on protests that Australia installed after a deadly attack on a Jewish celebration.",
+      "recap_neutral": "Isaac Herzog’s trip led to widespread rallies and tested the restrictions on protests that Australia installed after a deadly attack on a Jewish celebration",
+      "main_idea": "How the Israeli President’s Visit to Australia Created a ‘Tinder Box’",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Tue, 10 Feb 2026 10:03:00 +0000",
+      "url": "https://www.nytimes.com/2026/02/10/world/australia/australia-herzog-protest-violence.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Russia Knocked Out the Heat. So She Slept in a Tent on Her Bed.",
+      "title_neutral": "Russia Knocked Out the Heat. So She Slept in a Tent on Her Bed.",
+      "excerpt": "With defiant ingenuity, Kyiv residents are trying to find ways to stay warm in a cruel winter.",
+      "recap_neutral": "With defiant ingenuity, Kyiv residents are trying to find ways to stay warm in a cruel winter",
+      "main_idea": "Russia Knocked Out the Heat. So She Slept in a Tent on Her Bed.",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Tue, 10 Feb 2026 10:02:45 +0000",
+      "url": "https://www.nytimes.com/2026/02/10/world/europe/ukraine-war-russia-power-cold.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How Ukrainians Are Coping Without Heat",
+      "title_neutral": "How Ukrainians Are Coping Without Heat",
+      "excerpt": "Our Kyiv bureau chief, Andrew E. Kramer, describes how Kyiv residents are coping with Russia’s unrelenting assaults on their country’s heating and electrical systems and finding ways to stay warm in a cruel winter.",
+      "recap_neutral": "Our Kyiv bureau chief, Andrew E",
+      "main_idea": "How Ukrainians Are Coping Without Heat",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Tue, 10 Feb 2026 10:02:22 +0000",
+      "url": "https://www.nytimes.com/video/world/europe/100000010689521/how-ukrainians-are-coping-without-heat.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump’s Threats to Cuba’s Oil Suppliers Put Mexico in a Bind",
+      "title_neutral": "Trump’s Threats to Cuba’s Oil Suppliers Put Mexico in a Bind",
+      "excerpt": "The longstanding alliance between Cuba and Mexico is under mounting pressure from the United States, forcing President Claudia Sheinbaum into a precarious balancing act.",
+      "recap_neutral": "The longstanding alliance between Cuba and Mexico is under mounting pressure from the United States, forcing President Claudia Sheinbaum into a precarious balancing act",
+      "main_idea": "Trump’s Threats to Cuba’s Oil Suppliers Put Mexico in a Bind",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Tue, 10 Feb 2026 10:00:55 +0000",
+      "url": "https://www.nytimes.com/2026/02/10/world/americas/mexico-cuba-oil.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Eating Kosher in the Heart of Syria: Lamb-Stuffed Zucchini but Hold the Yogurt",
+      "title_neutral": "Eating Kosher in the Heart of Syria: Lamb-Stuffed Zucchini but Hold the Yogurt",
+      "excerpt": "In the post-Assad era, more Jews are visiting a country that some fled decades ago. One hotel restaurant offers a corner where religious dietary requirements are melded with the local cuisine.",
+      "recap_neutral": "In the post-Assad era, more Jews are visiting a country that some fled decades ago",
+      "main_idea": "Eating Kosher in the Heart of Syria: Lamb-Stuffed Zucchini but Hold the Yogurt",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Tue, 10 Feb 2026 10:00:45 +0000",
+      "url": "https://www.nytimes.com/2026/02/10/world/middleeast/syria-kosher-damascus.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -255,21 +437,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Olympians Love Pasta. They’re in the Right Place.",
-      "title_neutral": "Olympians Love Pasta. They’re in the Right Place.",
-      "excerpt": "The prospect of carbo-loading in Italy, the spiritual home of the dish, has many athletes’ mouths watering at the Winter Games.",
-      "recap_neutral": "The prospect of carbo-loading in Italy, the spiritual home of the dish, has many athletes’ mouths watering at the Winter Games",
-      "main_idea": "Olympians Love Pasta. They’re in the Right Place.",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Tue, 10 Feb 2026 09:38:37 +0000",
-      "url": "https://www.nytimes.com/2026/02/09/world/olympics/olympic-games-pasta-italy-athletes.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -302,21 +469,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "BP profits fall after oil prices drop",
-      "title_neutral": "BP profits fall after oil prices drop",
-      "excerpt": "The oil giant also says it is suspending its share buyback programme ahead of the arrival of its new boss.",
-      "recap_neutral": "The oil giant also says it is suspending its share buyback programme ahead of the arrival of its new boss",
-      "main_idea": "BP profits fall after oil prices drop",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Tue, 10 Feb 2026 08:45:24 GMT",
-      "url": "https://www.bbc.com/news/articles/cz0g4dkm77zo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -354,23 +506,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Brutalist Southbank Centre Listed",
-      "title_neutral": "Brutalist Southbank Centre Listed",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Brutalist Southbank Centre Listed",
-      "tags": [
-        "economy"
-      ],
-      "source": "Hacker News",
-      "published_at": "Tue, 10 Feb 2026 07:10:37 +0000",
-      "url": "https://www.architectsjournal.co.uk/news/brutalist-southbank-centre-finally-listed-after-35-years-of-refusals",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Australian author's erotic novel is child sex abuse material, judge finds",
       "title_neutral": "Australian author's erotic novel is child sex abuse material, judge finds",
       "excerpt": "The author's erotic novel featured an 18-year-old protagonist who role-played as a toddler.",
@@ -403,18 +538,73 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Nicaragua Blocks a Route from Cuba to the U.S.",
-      "title_neutral": "Nicaragua Blocks a Route from Cuba to the U.S.",
-      "excerpt": "The Trump administration has criticized Nicaragua for serving as an illegal immigration pathway to the United States.",
-      "recap_neutral": "The Trump administration has criticized Nicaragua for serving as an illegal immigration pathway to the United States",
-      "main_idea": "Nicaragua Blocks a Route from Cuba to the U.S.",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Tue, 10 Feb 2026 05:04:33 +0000",
-      "url": "https://www.nytimes.com/2026/02/10/world/americas/nicaragua-cuba-us-immigration.html",
+      "title_original": "'Please inform your friends': The quest to make weather warnings universal",
+      "title_neutral": "'Please inform your friends': The quest to make weather warnings universal",
+      "excerpt": "People in poor countries often get little or no warning about floods, storms and other deadly weather. Local efforts are changing that, and saving lives.",
+      "recap_neutral": "People in poor countries often get little or no warning about floods, storms and other deadly weather",
+      "main_idea": "'Please inform your friends': The quest to make weather warnings universal",
+      "tags": [
+        "conflict",
+        "climate"
+      ],
+      "source": "NPR",
+      "published_at": "Tue, 10 Feb 2026 06:00:00 -0500",
+      "url": "https://www.npr.org/2026/02/10/nx-s1-5544181/extreme-weather-warnings-international",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "This complex brain network may explain many of Parkinson's stranger symptoms",
+      "title_neutral": "This complex brain network may explain many of Parkinson's stranger symptoms",
+      "excerpt": "Parkinson's disease appears to disrupt a brain network involved in everything from movement to memory.",
+      "recap_neutral": "Parkinson's disease appears to disrupt a brain network involved in everything from movement to memory",
+      "main_idea": "This complex brain network may explain many of Parkinson's stranger symptoms",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "NPR",
+      "published_at": "Tue, 10 Feb 2026 06:00:00 -0500",
+      "url": "https://www.npr.org/2026/02/10/nx-s1-5702451/parkinsons-disease-symptoms-scan-network",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "In a world built for sitting, here's how to stay active — even when stuck inside",
+      "title_neutral": "In a world built for sitting, here's how to stay active — even when stuck inside",
+      "excerpt": "In the office, classroom and living room, working and relaxing mean sitting still. Our bodies evolved without chairs. Here are some tips for getting out of your seat and moving — even on cold days.",
+      "recap_neutral": "In the office, classroom and living room, working and relaxing mean sitting still",
+      "main_idea": "In a world built for sitting, here's how to stay active — even when stuck inside",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Tue, 10 Feb 2026 06:00:00 -0500",
+      "url": "https://www.npr.org/2026/02/10/g-s1-108985/in-a-world-built-for-sitting-heres-how-to-stay-active-even-when-stuck-inside",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AI doesn’t reduce work, it intensifies it",
+      "title_neutral": "AI doesn’t reduce work, it intensifies it",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "AI doesn’t reduce work, it intensifies it",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Tue, 10 Feb 2026 05:19:00 +0000",
+      "url": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -433,20 +623,69 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "How Italy’s Police and Army Compete to Enlist Italian Olympians",
-      "title_neutral": "How Italy’s Police and Army Compete to Enlist Italian Olympians",
-      "excerpt": "Most Italian athletes at the Winter Games subsidize their training by joining the police or the military, which vie to enlist the best talent.",
-      "recap_neutral": "Most Italian athletes at the Winter Games subsidize their training by joining the police or the military, which vie to enlist the best talent",
-      "main_idea": "How Italy’s Police and Army Compete to Enlist Italian Olympians",
+      "title_original": "How the use of AI and 'deepfakes' play a role in the search for Nancy Guthrie",
+      "title_neutral": "How the use of AI and 'deepfakes' play a role in the search for Nancy Guthrie",
+      "excerpt": "As artificial intelligence becomes more advanced and commonplace, it can be difficult to know what's real and what's not, which has complicated the search for Nancy Guthrie, according to law enforcement. But just how difficult is it?",
+      "recap_neutral": "As artificial intelligence becomes more advanced and commonplace, it can be difficult to know what's real and what's not, which has complicated the search for Nancy Guthrie, according to law enforcement",
+      "main_idea": "How the use of AI and 'deepfakes' play a role in the search for Nancy Guthrie",
       "tags": [
         "tech"
       ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 10 Feb 2026 05:01:11 +0000",
-      "url": "https://www.nytimes.com/2026/02/10/world/europe/olympics-italy-police-army-athletes.html",
+      "source": "NPR",
+      "published_at": "Tue, 10 Feb 2026 05:00:00 -0500",
+      "url": "https://www.npr.org/2026/02/10/nx-s1-5707578/nancy-guthrie-ai-deepfakes",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Hospitals are posting prices for patients. It's mostly industry using the data",
+      "title_neutral": "Hospitals are posting prices for patients. It's mostly industry using the data",
+      "excerpt": "The Trump administration pushed for price transparency in health care. But instead of patients shopping for services, it's mostly health systems and insurers using the information for negotiations.",
+      "recap_neutral": "The Trump administration pushed for price transparency in health care",
+      "main_idea": "Hospitals are posting prices for patients. It's mostly industry using the data",
+      "tags": [
+        "health"
+      ],
+      "source": "NPR",
+      "published_at": "Tue, 10 Feb 2026 05:00:00 -0500",
+      "url": "https://www.npr.org/2026/02/10/nx-s1-5704792/health-care-price-transparency-data",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Immigration officials to testify before House as DHS funding deadline approaches",
+      "title_neutral": "Immigration officials to testify before House as DHS funding deadline approaches",
+      "excerpt": "Congressional Democrats have a list of demands to reform Immigration and Customs Enforcement. But tensions between the two parties are high and the timeline is short – the stopgap bill funding DHS runs out Friday.",
+      "recap_neutral": "Congressional Democrats have a list of demands to reform Immigration and Customs Enforcement",
+      "main_idea": "Immigration officials to testify before House as DHS funding deadline approaches",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Tue, 10 Feb 2026 05:00:00 -0500",
+      "url": "https://www.npr.org/2026/02/10/g-s1-109330/immigration-oversight-dhs-funding",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "'E-bike for your feet': How bionic sneakers could change human mobility",
+      "title_neutral": "'E-bike for your feet': How bionic sneakers could change human mobility",
+      "excerpt": "Nike's battery-powered footwear system, which propels wearers forward, is part of a broader push to help humans move farther and faster.",
+      "recap_neutral": "Nike's battery-powered footwear system, which propels wearers forward, is part of a broader push to help humans move farther and faster",
+      "main_idea": "'E-bike for your feet': How bionic sneakers could change human mobility",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NPR",
+      "published_at": "Tue, 10 Feb 2026 05:00:00 -0500",
+      "url": "https://www.npr.org/2026/02/10/nx-s1-5698195/nike-amplify-bionic-sneakers",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -499,25 +738,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trump Is a Global ‘Wrecking Ball,’ European Security Experts Say",
-      "title_neutral": "Trump Is a Global ‘Wrecking Ball,’ European Security Experts Say",
-      "excerpt": "The organizers of the Munich Security Conference, Europe’s main defense-related forum, said in a report that President Trump is helping destroy the postwar international order.",
-      "recap_neutral": "The organizers of the Munich Security Conference, Europe’s main defense-related forum, said in a report that President Trump is helping destroy the postwar international order",
-      "main_idea": "Trump Is a Global ‘Wrecking Ball,’ European Security Experts Say",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 10 Feb 2026 03:59:27 +0000",
-      "url": "https://www.nytimes.com/2026/02/09/world/europe/trump-munich-conference-security-report.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -591,56 +811,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Buddhist monks head to DC to finish a 'Walk for Peace' that captivated millions",
-      "title_neutral": "Buddhist monks head to DC to finish a 'Walk for Peace' that captivated millions",
-      "excerpt": "The group of Buddhist monks is set to reach Washington, D.C., on foot Tuesday. The monks in their saffron robes have become fixtures on social media, along with their rescue dog Aloka.",
-      "recap_neutral": "The group of Buddhist monks is set to reach Washington, D",
-      "main_idea": "Buddhist monks head to DC to finish a 'Walk for Peace' that captivated millions",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Tue, 10 Feb 2026 01:56:01 -0500",
-      "url": "https://www.npr.org/2026/02/10/g-s1-109416/buddhist-monks-finish-walk-for-peace",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trump is threatening to block a new bridge between Detroit and Canada from opening",
-      "title_neutral": "Trump is threatening to block a new bridge between Detroit and Canada from opening",
-      "excerpt": "President Donald Trump on Monday threatened to block the opening of a new Canadian-built bridge across the Detroit River, in his latest salvo over cross-border trade issues.",
-      "recap_neutral": "President Donald Trump on Monday threatened to block the opening of a new Canadian-built bridge across the Detroit River, in his latest salvo over cross-border trade issues",
-      "main_idea": "Trump is threatening to block a new bridge between Detroit and Canada from opening",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Tue, 10 Feb 2026 01:46:09 -0500",
-      "url": "https://www.npr.org/2026/02/10/nx-s1-5708607/trump-block-bridge-detroit-canada",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ghislaine Maxwell appeals for clemency from Trump as she declines to answer questions",
-      "title_neutral": "Ghislaine Maxwell appeals for clemency from Trump as she declines to answer questions",
-      "excerpt": "Maxwell declined to answer questions from House lawmakers on Monday, but indicated that if President Trump ended her sentence, she was willing to testify that neither he nor former President Clinton had done anything wrong in their connections with Epstein.",
-      "recap_neutral": "Maxwell declined to answer questions from House lawmakers on Monday, but indicated that if President Trump ended her sentence, she was willing to testify that neither he nor former President Clinton had done anything wr…",
-      "main_idea": "Ghislaine Maxwell appeals for clemency from Trump as she declines to answer questions",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Tue, 10 Feb 2026 01:30:18 -0500",
-      "url": "https://www.npr.org/2026/02/10/g-s1-109413/maxwell-appeals-for-clemency",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
       "title_neutral": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
       "excerpt": "Comments",
@@ -667,21 +837,6 @@
       "source": "BBC World",
       "published_at": "Tue, 10 Feb 2026 01:26:32 GMT",
       "url": "https://www.bbc.com/news/articles/ckg19nql0w8o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Savannah Guthrie pleads for help finding missing mother as purported ransom deadline passes",
-      "title_neutral": "Savannah Guthrie pleads for help finding missing mother as purported ransom deadline passes",
-      "excerpt": "The video appeal came hours before a reported deadline to pay the people believed to be holding the TV hosts's mum.",
-      "recap_neutral": "The video appeal came hours before a reported deadline to pay the people believed to be holding the TV hosts's mum",
-      "main_idea": "Savannah Guthrie pleads for help finding missing mother as purported ransom deadline passes",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Tue, 10 Feb 2026 01:25:01 GMT",
-      "url": "https://www.bbc.com/news/articles/c4geqzqd8qeo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -754,15 +909,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The original vi is a product of its time (and its time has passed)",
-      "title_neutral": "The original vi is a product of its time (and its time has passed)",
+      "title_original": ".Beat Swatch Internet Time",
+      "title_neutral": ".Beat Swatch Internet Time",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "The original vi is a product of its time (and its time has passed)",
+      "main_idea": ".Beat Swatch Internet Time",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Sun, 08 Feb 2026 06:53:29 +0000",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime",
+      "published_at": "Thu, 05 Feb 2026 07:55:43 +0000",
+      "url": "https://beats.wiki/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -867,24 +1022,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Five Years After Myanmar Coup, ‘Even Hope Has Become a Risk’",
-      "title_neutral": "Five Years After Myanmar Coup, ‘Even Hope Has Become a Risk’",
-      "excerpt": "The country’s cities have been spared the violence of a hard-fought civil war. But as the economy has hollowed out, many urbanites have become desperate.",
-      "recap_neutral": "The country’s cities have been spared the violence of a hard-fought civil war",
-      "main_idea": "Five Years After Myanmar Coup, ‘Even Hope Has Become a Risk’",
-      "tags": [
-        "economy",
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 09 Feb 2026 22:35:42 +0000",
-      "url": "https://www.nytimes.com/2026/02/09/world/asia/myanmar-coup-anniversary.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "\"Our Landing Page Has 12,000 Visitors and Zero Conversions.\" A Confession and a Fix",
       "title_neutral": "\"Our Landing Page Has 12,000 Visitors and Zero Conversions.\" A Confession and a Fix",
       "excerpt": "After launching a beautiful but zero-converting landing page, the author discovered that great copy isn't about describing products—it's about speaking to visitors' internal struggles. This article shares a personal failure story, the mentorship conversation that changed everything, and a complete…",
@@ -961,21 +1098,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Norway police investigate diplomat over Epstein links",
-      "title_neutral": "Norway police investigate diplomat over Epstein links",
-      "excerpt": "Mona Juul and her husband Terje Rød-Larsen - who played a vital role in the Oslo Accords - are being investigated for \"aggravated corruption\".",
-      "recap_neutral": "Mona Juul and her husband Terje Rød-Larsen - who played a vital role in the Oslo Accords - are being investigated for \"aggravated corruption\"",
-      "main_idea": "Norway police investigate diplomat over Epstein links",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Mon, 09 Feb 2026 21:12:09 GMT",
-      "url": "https://www.bbc.com/news/articles/c5yg8yrypejo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1073,23 +1195,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Lindsey Vonn says she suffered 'complex tibia fracture' in her Olympic downhill crash",
-      "title_neutral": "Lindsey Vonn says she suffered 'complex tibia fracture' in her Olympic downhill crash",
-      "excerpt": "The 41-year-old star said her torn ACL was not a factor in her crash. \"While yesterday did not end the way I had hoped, and despite the intense physical pain it caused, I have no regrets,\" she wrote.",
-      "recap_neutral": "The 41-year-old star said her torn ACL was not a factor in her crash",
-      "main_idea": "Lindsey Vonn says she suffered 'complex tibia fracture' in her Olympic downhill crash",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Mon, 09 Feb 2026 18:00:48 -0500",
-      "url": "https://www.npr.org/2026/02/09/nx-s1-5707859/lindsey-vonn-crash-winter-olympics",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1239,21 +1344,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "53 Migrants Missing After Boat Capsizes Off Libya, U.N. Agency Says",
-      "title_neutral": "53 Migrants Missing After Boat Capsizes Off Libya, U.N. Agency Says",
-      "excerpt": "The victims are among at least 484 migrants who have died or gone missing in the central Mediterranean this year, according to the International Organization for Migration.",
-      "recap_neutral": "The victims are among at least 484 migrants who have died or gone missing in the central Mediterranean this year, according to the International Organization for Migration",
-      "main_idea": "53 Migrants Missing After Boat Capsizes Off Libya, U.N. Agency Says",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Mon, 09 Feb 2026 15:56:35 +0000",
-      "url": "https://www.nytimes.com/2026/02/09/world/europe/migrant-boat-capsize-libya-deaths.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1420,23 +1510,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Nancy Guthrie search enters its second week as a purported deadline looms",
-      "title_neutral": "Nancy Guthrie search enters its second week as a purported deadline looms",
-      "excerpt": "\"This is very valuable to us, and we will pay,\" Savannah Guthrie said in a new video message, seeking to communicate with people who say they're holding her mother.",
-      "recap_neutral": "\"This is very valuable to us, and we will pay,\" Savannah Guthrie said in a new video message, seeking to communicate with people who say they're holding her mother",
-      "main_idea": "Nancy Guthrie search enters its second week as a purported deadline looms",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Mon, 09 Feb 2026 13:09:49 -0500",
-      "url": "https://www.npr.org/2026/02/09/nx-s1-5706646/nancy-guthrie-case-update-what-we-know",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "How Japan’s Leader, Sanae Takaichi, Rescued Her Party from the Abyss",
       "title_neutral": "How Japan’s Leader, Sanae Takaichi, Rescued Her Party from the Abyss",
       "excerpt": "Sanae Takaichi, Japan’s first female prime minister, harnessed her personal popularity and a shift to the right among voters to achieve a record election win.",
@@ -1452,24 +1525,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Immigration courts fast-track hearings for Somali asylum claims",
-      "title_neutral": "Immigration courts fast-track hearings for Somali asylum claims",
-      "excerpt": "Their lawyers fear the notices are merely the first step toward the removal without due process of Somali asylum applicants in the country.",
-      "recap_neutral": "Their lawyers fear the notices are merely the first step toward the removal without due process of Somali asylum applicants in the country",
-      "main_idea": "Immigration courts fast-track hearings for Somali asylum claims",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Mon, 09 Feb 2026 12:41:01 -0500",
-      "url": "https://www.npr.org/2026/02/09/nx-s1-5707217/somali-asylum-cases-rescheduled",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1506,21 +1561,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ilia Malinin's Olympic backflip made history. But he's not the first to do it",
-      "title_neutral": "Ilia Malinin's Olympic backflip made history. But he's not the first to do it",
-      "excerpt": "U.S. figure skating phenom Ilia Malinin did a backflip in his Olympic debut, and another the next day. The controversial move was banned from competition for decades until 2024.",
-      "recap_neutral": "U",
-      "main_idea": "Ilia Malinin's Olympic backflip made history. But he's not the first to do it",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Mon, 09 Feb 2026 11:20:12 -0500",
-      "url": "https://www.npr.org/2026/02/09/nx-s1-5705380/figure-skating-backflip-malinin",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1574,21 +1614,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Vietnam’s Leader Has New Power, and He’s in a Hurry",
-      "title_neutral": "Vietnam’s Leader Has New Power, and He’s in a Hurry",
-      "excerpt": "To Lam is a former security chief who carved his way to prominence and relishes the good life. He has promised to make Communist Vietnam rich and influential.",
-      "recap_neutral": "To Lam is a former security chief who carved his way to prominence and relishes the good life",
-      "main_idea": "Vietnam’s Leader Has New Power, and He’s in a Hurry",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Mon, 09 Feb 2026 10:00:56 +0000",
-      "url": "https://www.nytimes.com/2026/02/09/world/asia/vietnam-to-lam.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Japanese shares hit record high as Sanae Takaichi wins landslide election victory",
       "title_neutral": "Japanese shares hit record high as Sanae Takaichi wins landslide election victory",
       "excerpt": "Prime minister’s Liberal Democratic party to be pressed on promised tax cuts and fiscal stimulus plans Business live – latest updates Japan’s stock market has hit a record high after Sanae Takaichi’s Liberal Democratic party (LDP) secured a comprehensive victory in Sunday’s election . The LDP won 3…",
@@ -1605,23 +1630,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "In Pakistan, a Kite Festival Returns to Troubled Skies",
-      "title_neutral": "In Pakistan, a Kite Festival Returns to Troubled Skies",
-      "excerpt": "The vibrant celebration, banned for two decades, brightened the eastern city of Lahore, where residents face alarming levels of air pollution and political restrictions.",
-      "recap_neutral": "The vibrant celebration, banned for two decades, brightened the eastern city of Lahore, where residents face alarming levels of air pollution and political restrictions",
-      "main_idea": "In Pakistan, a Kite Festival Returns to Troubled Skies",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 09 Feb 2026 05:01:38 +0000",
-      "url": "https://www.nytimes.com/2026/02/09/world/asia/pakistan-kite-lahore.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
