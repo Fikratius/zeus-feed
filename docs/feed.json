@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T22:50:12.719954+00:00",
+  "last_updated": "2026-02-15T23:22:01.798921+00:00",
   "items": [
     {
       "title_original": "Real-time PathTracing with global illumination in WebGL",
@@ -14,6 +14,40 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Dual-Stack Migrations: How to Move Petabytes Without Losing Sleep",
+      "title_neutral": "Dual-Stack Migrations: How to Move Petabytes Without Losing Sleep",
+      "excerpt": "Real-world archive migrations aren’t about a single cutover—they require 2–2.5 years of dual-stack overlap. Run old and new systems in parallel, track metrics on separate telemetry stacks, maintain independent alert planes, budget 25–40% extra capacity, plan for peak power/cooling, and rehearse rol…",
+      "recap_neutral": "Real-world archive migrations aren’t about a single cutover—they require 2–2",
+      "main_idea": "Dual-Stack Migrations: How to Move Petabytes Without Losing Sleep",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 15 Feb 2026 22:55:47 GMT",
+      "url": "https://hackernoon.com/dual-stack-migrations-how-to-move-petabytes-without-losing-sleep?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "5 Data Pipeline Anti-Patterns That Silently Wreck Your Stack (And How I Fixed Them)",
+      "title_neutral": "5 Data Pipeline Anti-Patterns That Silently Wreck Your Stack (And How I Fixed Them)",
+      "excerpt": "Most pipelines don’t fail overnight—they decay through shortcuts. This guide breaks down five destructive anti-patterns: monolithic DAGs, no schema contracts, non-idempotent writes, poor observability, and hardcoded configs. Each section includes real-world fixes—from partition overwrites to schema…",
+      "recap_neutral": "Most pipelines don’t fail overnight—they decay through shortcuts",
+      "main_idea": "5 Data Pipeline Anti-Patterns That Silently Wreck Your Stack (And How I Fixed Them)",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 15 Feb 2026 22:45:09 GMT",
+      "url": "https://hackernoon.com/5-data-pipeline-anti-patterns-that-silently-wreck-your-stack-and-how-i-fixed-them?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -47,6 +81,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+      "title_neutral": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 15 Feb 2026 22:17:10 +0000",
+      "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Europe Today Looks Different From the One Trump’s Team Describes",
       "title_neutral": "Europe Today Looks Different From the One Trump’s Team Describes",
       "excerpt": "Secretary of State Marco Rubio appealed to European leaders in Munich by stressing Christian and cultural bonds that are no longer universal.",
@@ -54,7 +103,7 @@
       "main_idea": "Europe Today Looks Different From the One Trump’s Team Describes",
       "tags": [],
       "source": "NYTimes World",
-      "published_at": "Sun, 15 Feb 2026 21:54:29 +0000",
+      "published_at": "Sun, 15 Feb 2026 21:54:30 +0000",
       "url": "https://www.nytimes.com/2026/02/15/world/europe/europe-rubio-munich.html",
       "lang": "en",
       "bias_score": 55,
@@ -186,6 +235,38 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "The Skeleton Modifier 3D: Its Design, Plus More",
+      "title_neutral": "The Skeleton Modifier 3D: Its Design, Plus More",
+      "excerpt": "In Godot 4.3 we are adding a new node called 'SkeletonModifier3D' It is used to animate bones outside of `AnimationMixer' We have also deprecated some of the pose override functionality in `Skeleton3D` This means that if you want to develop a custom skeleton you will need to modify the bones within…",
+      "recap_neutral": "In Godot 4",
+      "main_idea": "The Skeleton Modifier 3D: Its Design, Plus More",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sun, 15 Feb 2026 19:00:03 GMT",
+      "url": "https://hackernoon.com/the-skeleton-modifier-3d-its-design-plus-more?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to Excel in AI Without Learning to Code",
+      "title_neutral": "How to Excel in AI Without Learning to Code",
+      "excerpt": "Thriving at an AI company doesn’t require coding skills—it requires AI literacy. Master core concepts like LLMs, RAG, and tokens, connect them to your specific role, and build real intuition by using the tools. The real competitive edge isn’t writing Python; it’s understanding what the code does an…",
+      "recap_neutral": "Thriving at an AI company doesn’t require coding skills—it requires AI literacy",
+      "main_idea": "How to Excel in AI Without Learning to Code",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 15 Feb 2026 18:53:02 GMT",
+      "url": "https://hackernoon.com/how-to-excel-in-ai-without-learning-to-code?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Eleven killed in Israeli strikes on Gaza, rescuers say",
       "title_neutral": "Eleven killed in Israeli strikes on Gaza, rescuers say",
       "excerpt": "The Palestinian Red Crescent say a strike on a tent encampment in northern Gaza killed at least six people.",
@@ -200,6 +281,21 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "CTF Walkthrough: Exploiting Cookie-Based Privilege Escalation in Power Cookie",
+      "title_neutral": "CTF Walkthrough: Exploiting Cookie-Based Privilege Escalation in Power Cookie",
+      "excerpt": "In picoCTF’s “Power Cookie” challenge, a website relies on a client-side isAdmin cookie to determine user privileges. By changing its value from 0 to 1, users can escalate access and retrieve the flag—highlighting why authentication and authorization must always be validated on the server, not trus…",
+      "recap_neutral": "In picoCTF’s “Power Cookie” challenge, a website relies on a client-side isAdmin cookie to determine user privileges",
+      "main_idea": "CTF Walkthrough: Exploiting Cookie-Based Privilege Escalation in Power Cookie",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sun, 15 Feb 2026 18:41:46 GMT",
+      "url": "https://hackernoon.com/ctf-walkthrough-exploiting-cookie-based-privilege-escalation-in-power-cookie?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -232,6 +328,41 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Algorithmic Ventriloquism: How Crustafarian Agentic AI Bots Will (Not) Take Over the World",
+      "title_neutral": "Algorithmic Ventriloquism: How Crustafarian Agentic AI Bots Will (Not) Take Over the World",
+      "excerpt": "Moltbook is a “social network for AI” where bots interact. In January 2026, one AI created Crustafarianism, a full-fledged religion with scriptures, prophecies, and adepts. This isn’t evidence of conscious AI: it’s algorithmic ventriloquism, humans projecting agency onto bots. The real concern is s…",
+      "recap_neutral": "Moltbook is a “social network for AI” where bots interact",
+      "main_idea": "Algorithmic Ventriloquism: How Crustafarian Agentic AI Bots Will (Not) Take Over the World",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 15 Feb 2026 18:21:44 GMT",
+      "url": "https://hackernoon.com/algorithmic-ventriloquism-how-crustafarian-agentic-ai-bots-will-not-take-over-the-world?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to Build Social Media Strategy For a Deep Tech Startup",
+      "title_neutral": "How to Build Social Media Strategy For a Deep Tech Startup",
+      "excerpt": "NVIDIA spent decades engineering for a future no one else saw. Stripe is simply solving a problem of creating a billion-dollar company. OpenAI “road can go somewhere either great or terrifying, and OpenAI will need epic sums to steer it toward the right destination,” and Shopify is living \"a few ye…",
+      "recap_neutral": "NVIDIA spent decades engineering for a future no one else saw",
+      "main_idea": "How to Build Social Media Strategy For a Deep Tech Startup",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 15 Feb 2026 18:15:06 GMT",
+      "url": "https://hackernoon.com/how-to-build-social-media-strategy-for-a-deep-tech-startup?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -280,6 +411,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Multilingual Prompt Injection Exposes Gaps in LLM Safety Nets",
+      "title_neutral": "Multilingual Prompt Injection Exposes Gaps in LLM Safety Nets",
+      "excerpt": "Multilingual Prompt Injection is a technique that exploits language gaps in security systems. Safety nets being created are mostly in English and fails when non-English language exploits are activated",
+      "recap_neutral": "Multilingual Prompt Injection is a technique that exploits language gaps in security systems",
+      "main_idea": "Multilingual Prompt Injection Exposes Gaps in LLM Safety Nets",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 15 Feb 2026 18:00:31 GMT",
+      "url": "https://hackernoon.com/multilingual-prompt-injection-exposes-gaps-in-llm-safety-nets?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "‘People want to help’: Canadians rally round Tumbler Ridge after school shooting",
       "title_neutral": "‘People want to help’: Canadians rally round Tumbler Ridge after school shooting",
       "excerpt": "Tragedy has prompted a wave of support for town from neighbouring communities and across country When Jim Caruso heard the news of the school shooting in Tumbler Ridge, he knew immediately he needed to be there. He packed his bags and boarded a plane for the community 700 miles away. “I wanted to b…",
@@ -292,6 +440,23 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Astounding Stories of Super-Science, February, 2026- Table of Links",
+      "title_neutral": "Astounding Stories of Super-Science, February, 2026- Table of Links",
+      "excerpt": "Astounding Stories of Super-Science (February 2026) is a classic pulp science fiction publication now available in the public domain. Part of HackerNoon’s Book Blog series, this digital edition revives vintage speculative storytelling for modern readers. Originally released via Project Gutenberg (e…",
+      "recap_neutral": "Astounding Stories of Super-Science (February 2026) is a classic pulp science fiction publication now available in the public domain",
+      "main_idea": "Astounding Stories of Super-Science, February, 2026- Table of Links",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 15 Feb 2026 17:32:45 GMT",
+      "url": "https://hackernoon.com/astounding-stories-of-super-science-february-2026-table-of-links?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -392,12 +557,14 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "US forces board second Venezuela‑linked oil tanker in Indian Ocean",
-      "title_neutral": "US forces board second Venezuela‑linked oil tanker in Indian Ocean",
+      "title_original": "US boards second oil tanker in Indian Ocean after it fled Venezuelan raid",
+      "title_neutral": "US boards second oil tanker in Indian Ocean after it fled Venezuelan raid",
       "excerpt": "Pentagon tracked sanctioned Veronica III from Caribbean Sea after it left Venezuela on day Maduro was captured US military forces boarded another sanctioned tanker in the Indian Ocean after tracking the vessel from the Caribbean Sea in an effort to target illicit oil connected to Venezuela, the Pen…",
       "recap_neutral": "Pentagon tracked sanctioned Veronica III from Caribbean Sea after it left Venezuela on day Maduro was captured US military forces boarded another sanctioned tanker in the Indian Ocean after tracking the vessel from the…",
-      "main_idea": "US forces board second Venezuela‑linked oil tanker in Indian Ocean",
-      "tags": [],
+      "main_idea": "US boards second oil tanker in Indian Ocean after it fled Venezuelan raid",
+      "tags": [
+        "tech"
+      ],
       "source": "The Guardian",
       "published_at": "Sun, 15 Feb 2026 16:30:20 GMT",
       "url": "https://www.theguardian.com/world/2026/feb/15/us-forces-board-second-venezuelalinked-oil-tanker-in-indian-ocean",
@@ -608,23 +775,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Go's Cryptography Packages Were Audited: The Results",
-      "title_neutral": "Go's Cryptography Packages Were Audited: The Results",
-      "excerpt": "Go ships with a full suite of cryptography packages in the standard library to help developers build secure applications. Google recently contracted the independent security firm [Trail of Bits] to complete an audit of the core set of packages. The audit produced a single low-severity finding, in t…",
-      "recap_neutral": "Go ships with a full suite of cryptography packages in the standard library to help developers build secure applications",
-      "main_idea": "Go's Cryptography Packages Were Audited: The Results",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 15 Feb 2026 14:00:02 GMT",
-      "url": "https://hackernoon.com/gos-cryptography-packages-were-audited-the-results?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "At least 6,000 killed over 3 days during RSF attack on Sudan's el-Fasher, UN says",
       "title_neutral": "At least 6,000 killed over 3 days during RSF attack on Sudan's el-Fasher, UN says",
       "excerpt": "More than 6,000 people were killed in over three days when a Sudanese paramilitary group unleashed \"a wave of intense violence\" in Sudan's Darfur region in late October, according to the UN.",
@@ -691,21 +841,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Website Blocking Gone Too Far: Homework and Censored Suicide Prevention Sites Were Also Blocked",
-      "title_neutral": "Website Blocking Gone Too Far: Homework and Censored Suicide Prevention Sites Were Also Blocked",
-      "excerpt": "School districts all over the country, like Rockwood in the western suburbs of St. Louis, go much further, limiting not only what images students can see but what words they can read.",
-      "recap_neutral": "School districts all over the country, like Rockwood in the western suburbs of St",
-      "main_idea": "Website Blocking Gone Too Far: Homework and Censored Suicide Prevention Sites Were Also Blocked",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sun, 15 Feb 2026 13:00:03 GMT",
-      "url": "https://hackernoon.com/website-blocking-gone-too-far-homework-and-censored-suicide-prevention-sites-were-also-blocked?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "China confirms visa-free travel for UK and Canadian nationals",
       "title_neutral": "China confirms visa-free travel for UK and Canadian nationals",
       "excerpt": "Relaxed visa rules for British and Canadian passport holders will come into force on 17 February.",
@@ -730,21 +865,6 @@
       "source": "Hacker News",
       "published_at": "Sun, 15 Feb 2026 11:25:26 +0000",
       "url": "https://marler8997.github.io/blog/fixed-windows/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: Pangolin: Open-source identity-based VPN (Twingate/Zscaler alternative)",
-      "title_neutral": "Show HN: Pangolin: Open-source identity-based VPN (Twingate/Zscaler alternative)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Pangolin: Open-source identity-based VPN (Twingate/Zscaler alternative)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 15 Feb 2026 10:50:18 +0000",
-      "url": "https://github.com/fosrl/pangolin",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -967,55 +1087,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The 7-Layer Blueprint for Serving, Securing, and Observing AI Agents at Scale",
-      "title_neutral": "The 7-Layer Blueprint for Serving, Securing, and Observing AI Agents at Scale",
-      "excerpt": "As Generative AI shifts from simple retrieval to autonomous action, enterprises face the engineering challenge of scaling scattered proofs of concept into robust, secure systems. This article deconstructs the architecture of a production-grade AI Agent Platform, positioning it as an internal Platfo…",
-      "recap_neutral": "As Generative AI shifts from simple retrieval to autonomous action, enterprises face the engineering challenge of scaling scattered proofs of concept into robust, secure systems",
-      "main_idea": "The 7-Layer Blueprint for Serving, Securing, and Observing AI Agents at Scale",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 15 Feb 2026 01:00:02 GMT",
-      "url": "https://hackernoon.com/the-7-layer-blueprint-for-serving-securing-and-observing-ai-agents-at-scale?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Workflow Utility Spotlight: Fast Impulse Response Handling for Spatial Audio",
-      "title_neutral": "Workflow Utility Spotlight: Fast Impulse Response Handling for Spatial Audio",
-      "excerpt": "",
-      "recap_neutral": "Workflow Utility Spotlight: Fast Impulse Response Handling for Spatial Audio",
-      "main_idea": "Workflow Utility Spotlight: Fast Impulse Response Handling for Spatial Audio",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sun, 15 Feb 2026 00:59:59 GMT",
-      "url": "https://hackernoon.com/workflow-utility-spotlight-fast-impulse-response-handling-for-spatial-audio?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "AOrchestra Turns AI Agents Into On-Demand Specialists (Not Static Roles)",
-      "title_neutral": "AOrchestra Turns AI Agents Into On-Demand Specialists (Not Static Roles)",
-      "excerpt": "AOrchestra treats agents as recipes—Instruction, Context, Tools, Model—so an orchestrator can spawn the right sub-agent at runtime and cut waste.",
-      "recap_neutral": "AOrchestra treats agents as recipes—Instruction, Context, Tools, Model—so an orchestrator can spawn the right sub-agent at runtime and cut waste",
-      "main_idea": "AOrchestra Turns AI Agents Into On-Demand Specialists (Not Static Roles)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 15 Feb 2026 00:14:59 GMT",
-      "url": "https://hackernoon.com/aorchestra-turns-ai-agents-into-on-demand-specialists-not-static-roles?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Thousands Rally for Iran Regime Change in Cities Around the World",
       "title_neutral": "Thousands Rally for Iran Regime Change in Cities Around the World",
       "excerpt": "People protesting the Iranian government gathered near the security conference in Munich, as well as in other cities. More U.S.-Iran talks are expected Tuesday.",
@@ -1113,39 +1184,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Symfony 8 on PHP 8.4: FrankenPHP vs RoadRunner Benchmarked",
-      "title_neutral": "Symfony 8 on PHP 8.4: FrankenPHP vs RoadRunner Benchmarked",
-      "excerpt": "Discover which PHP runtime leads the pack in Symfony 8. Compare FrankenPHP and RoadRunner benchmarks to optimize your application’s performance.",
-      "recap_neutral": "Discover which PHP runtime leads the pack in Symfony 8",
-      "main_idea": "Symfony 8 on PHP 8.4: FrankenPHP vs RoadRunner Benchmarked",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sat, 14 Feb 2026 19:00:21 GMT",
-      "url": "https://hackernoon.com/symfony-8-on-php-84-frankenphp-vs-roadrunner-benchmarked?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Case for Slow, Sustainable Engineering",
-      "title_neutral": "The Case for Slow, Sustainable Engineering",
-      "excerpt": "A letter to engineers arguing for slow, sustainable software—and against the “wartime” myth that turns tech into a race powered by greed and fear.",
-      "recap_neutral": "A letter to engineers arguing for slow, sustainable software—and against the “wartime” myth that turns tech into a race powered by greed and fear",
-      "main_idea": "The Case for Slow, Sustainable Engineering",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 14 Feb 2026 19:00:03 GMT",
-      "url": "https://hackernoon.com/the-case-for-slow-sustainable-engineering?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Venezuelan deportee can return to US but fears repeat of ordeal: ‘I’m not over that nightmare yet’",
       "title_neutral": "Venezuelan deportee can return to US but fears repeat of ordeal: ‘I’m not over that nightmare yet’",
       "excerpt": "Luis Muñoz Pinto, 27, who was sent to notoriously brutal prison in El Salvador, would like to clear his name after US judge’s ruling A US federal judge’s order that some of the Venezuelan men sent by the Trump administration to a notorious prison in El Salvador must be allowed to return to the Unit…",
@@ -1158,23 +1196,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Growth Hacking Is Dead - Systems Are Eating Marketing",
-      "title_neutral": "Growth Hacking Is Dead - Systems Are Eating Marketing",
-      "excerpt": "Growth hacking was once a simple way to find a high-leverage tactic and grow. But the environment has fundamentally changed and tactics are no longer repeatable. Marketing teams are now chasing new tools and new tricks.",
-      "recap_neutral": "Growth hacking was once a simple way to find a high-leverage tactic and grow",
-      "main_idea": "Growth Hacking Is Dead - Systems Are Eating Marketing",
-      "tags": [
-        "economy"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 14 Feb 2026 17:00:02 GMT",
-      "url": "https://hackernoon.com/growth-hacking-is-dead-systems-are-eating-marketing?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1195,23 +1216,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The HackerNoon Newsletter: Courts Are Drowning in Cases. Can AI Save the Day Without Becoming a Liability? (2/14/2026)",
-      "title_neutral": "The HackerNoon Newsletter: Courts Are Drowning in Cases. Can AI Save the Day Without Becoming a Liability? (2/14/2026)",
-      "excerpt": "How are you, hacker? 🪐 What’s happening in tech today, February 14, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox. On this day, we present you with these top quality stories. Courts Are Drowning in Cases. Can AI Save the Day Without Becoming a Liability? By @…",
-      "recap_neutral": "How are you, hacker? 🪐 What’s happening in tech today, February 14, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox",
-      "main_idea": "The HackerNoon Newsletter: Courts Are Drowning in Cases. Can AI Save the Day Without Becoming a Liability? (2/14/2026)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 14 Feb 2026 16:02:34 GMT",
-      "url": "https://hackernoon.com/2-14-2026-newsletter?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group",
       "title_neutral": "RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group",
       "excerpt": "Eight children including two infants among dead in vehicle carrying displaced people, says Sudan Doctors Network A drone attack by a paramilitary group has hit a vehicle carrying displaced families in central Sudan, killing at least 24 people, including eight children, a doctors’ group said on Satu…",
@@ -1227,6 +1231,243 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Песков: Кремль не планирует судиться из-за масок с лицом Путина",
+      "title_neutral": "Песков: Кремль не планирует судиться из-за масок с лицом Путина",
+      "excerpt": "",
+      "recap_neutral": "Песков: Кремль не планирует судиться из-за масок с лицом Путина",
+      "main_idea": "Песков: Кремль не планирует судиться из-за масок с лицом Путина",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Feb 2026 02:20:42 +0300",
+      "url": "https://tass.ru/obschestvo/26455763",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Клебо установил рекорд, хоккеисты завершили групповой этап. Итоги дня ОИ",
+      "title_neutral": "Клебо установил рекорд, хоккеисты завершили групповой этап. Итоги дня ОИ",
+      "excerpt": "В воскресенье было разыграно девять комплектов наград",
+      "recap_neutral": "В воскресенье было разыграно девять комплектов наград",
+      "main_idea": "Клебо установил рекорд, хоккеисты завершили групповой этап. Итоги дня ОИ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Feb 2026 02:18:05 +0300",
+      "url": "https://tass.ru/sport/26455739",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Татарстане объявили беспилотную опасность",
+      "title_neutral": "В Татарстане объявили беспилотную опасность",
+      "excerpt": "",
+      "recap_neutral": "В Татарстане объявили беспилотную опасность",
+      "main_idea": "В Татарстане объявили беспилотную опасность",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Feb 2026 02:17:32 +0300",
+      "url": "https://tass.ru/proisshestviya/26455757",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Guardian: советник Стармера по нацбезопасности может уйти со своего поста",
+      "title_neutral": "Guardian: советник Стармера по нацбезопасности может уйти со своего поста",
+      "excerpt": "Джонатан Пауэлл также отверг предложение занять должность главы аппарата премьер-министра, сообщила газета",
+      "recap_neutral": "Джонатан Пауэлл также отверг предложение занять должность главы аппарата премьер-министра, сообщила газета",
+      "main_idea": "Guardian: советник Стармера по нацбезопасности может уйти со своего поста",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Feb 2026 02:16:37 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26455727",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Льготникам упростят оформление субсидий на оплату ЖКХ",
+      "title_neutral": "Льготникам упростят оформление субсидий на оплату ЖКХ",
+      "excerpt": "",
+      "recap_neutral": "Льготникам упростят оформление субсидий на оплату ЖКХ",
+      "main_idea": "Льготникам упростят оформление субсидий на оплату ЖКХ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Feb 2026 02:16:14 +0300",
+      "url": "https://tass.ru/obschestvo/26455747",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "18-летнего итальянского велогонщика насмерть сбила машина",
+      "title_neutral": "18-летнего итальянского велогонщика насмерть сбила машина",
+      "excerpt": "Инцидент произошел в воскресенье днем недалеко от коммуны Барзана на севере Италии",
+      "recap_neutral": "Инцидент произошел в воскресенье днем недалеко от коммуны Барзана на севере Италии",
+      "main_idea": "18-летнего итальянского велогонщика насмерть сбила машина",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Feb 2026 02:10:54 +0300",
+      "url": "https://tass.ru/sport/26455725",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трутнев поручил проработать законодательство для защиты населения от ЧС",
+      "title_neutral": "Трутнев поручил проработать законодательство для защиты населения от ЧС",
+      "excerpt": "В чрезвычайных ситуациях власти местного самоуправления сталкиваются с трудностями из-за правовых норм, отметил вице-премьер - полномочный представитель президента РФ в ДФО",
+      "recap_neutral": "В чрезвычайных ситуациях власти местного самоуправления сталкиваются с трудностями из-за правовых норм, отметил вице-премьер - полномочный представитель президента РФ в ДФО",
+      "main_idea": "Трутнев поручил проработать законодательство для защиты населения от ЧС",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Feb 2026 02:04:02 +0300",
+      "url": "https://tass.ru/politika/26455717",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Бодайбо восстановили теплоснабжение 91 дома",
+      "title_neutral": "В Бодайбо восстановили теплоснабжение 91 дома",
+      "excerpt": "Специалисты произвели отогрев участка теплотрассы протяженностью 300 м",
+      "recap_neutral": "Специалисты произвели отогрев участка теплотрассы протяженностью 300 м",
+      "main_idea": "В Бодайбо восстановили теплоснабжение 91 дома",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Feb 2026 01:55:50 +0300",
+      "url": "https://tass.ru/obschestvo/26455709",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Известия\": в Госдуме готовятся к встрече с конгрессменами США",
+      "title_neutral": "\"Известия\": в Госдуме готовятся к встрече с конгрессменами США",
+      "excerpt": "Большинство депутатов будут от комитета по международным делам, сообщила газета",
+      "recap_neutral": "Большинство депутатов будут от комитета по международным делам, сообщила газета",
+      "main_idea": "\"Известия\": в Госдуме готовятся к встрече с конгрессменами США",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Feb 2026 01:42:07 +0300",
+      "url": "https://tass.ru/politika/26455689",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ЦБ не поддержали идею обязательного применения ИИ для разблокировки счетов",
+      "title_neutral": "В ЦБ не поддержали идею обязательного применения ИИ для разблокировки счетов",
+      "excerpt": "По словам зампреда Банка России Ольги Поляковой, введение таких требований может привести к внедрению некачественных решений",
+      "recap_neutral": "По словам зампреда Банка России Ольги Поляковой, введение таких требований может привести к внедрению некачественных решений",
+      "main_idea": "В ЦБ не поддержали идею обязательного применения ИИ для разблокировки счетов",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Feb 2026 01:41:55 +0300",
+      "url": "https://tass.ru/obschestvo/26455697",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Определились все пары раунда плей-офф олимпийского хоккейного турнира",
+      "title_neutral": "Определились все пары раунда плей-офф олимпийского хоккейного турнира",
+      "excerpt": "Матчи раунда плей-офф пройдут 17 февраля, четвертьфиналы состоятся 18 февраля",
+      "recap_neutral": "Матчи раунда плей-офф пройдут 17 февраля, четвертьфиналы состоятся 18 февраля",
+      "main_idea": "Определились все пары раунда плей-офф олимпийского хоккейного турнира",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Feb 2026 01:37:38 +0300",
+      "url": "https://tass.ru/sport/26455683",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Финского фристайлиста Лаюнена госпитализировали после падения на Олимпиаде",
+      "title_neutral": "Финского фристайлиста Лаюнена госпитализировали после падения на Олимпиаде",
+      "excerpt": "18-летний спортсмен во время исполнения элемента упал на спину, после чего к нему подъехала машина скорой помощи",
+      "recap_neutral": "18-летний спортсмен во время исполнения элемента упал на спину, после чего к нему подъехала машина скорой помощи",
+      "main_idea": "Финского фристайлиста Лаюнена госпитализировали после падения на Олимпиаде",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Feb 2026 01:29:45 +0300",
+      "url": "https://tass.ru/sport/26455681",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Оверчук: Россия открыта к диалогу с \"Меркосур\"",
+      "title_neutral": "Оверчук: Россия открыта к диалогу с \"Меркосур\"",
+      "excerpt": "Вице-премьер отметил, что Москва заинтересована в расширении возможностей для экономик стран ЕАЭС",
+      "recap_neutral": "Вице-премьер отметил, что Москва заинтересована в расширении возможностей для экономик стран ЕАЭС",
+      "main_idea": "Оверчук: Россия открыта к диалогу с \"Меркосур\"",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Feb 2026 01:17:48 +0300",
+      "url": "https://tass.ru/politika/26455669",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В России следующие выходные будут трехдневными",
+      "title_neutral": "В России следующие выходные будут трехдневными",
+      "excerpt": "Это связано с празднованием Дня защитника Отечества",
+      "recap_neutral": "Это связано с празднованием Дня защитника Отечества",
+      "main_idea": "В России следующие выходные будут трехдневными",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Feb 2026 01:17:35 +0300",
+      "url": "https://tass.ru/obschestvo/26455665",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Огненное кольцо во время затмения Солнца не даст увидеть ближайшие к нему звезды",
+      "title_neutral": "Огненное кольцо во время затмения Солнца не даст увидеть ближайшие к нему звезды",
+      "excerpt": "Максимальную фазу ожидают в 15:13 мск, она составит 0,963 и будет наблюдаться 2 минуты 19 секунд, сообщили в пресс-службе Московского планетария",
+      "recap_neutral": "Максимальную фазу ожидают в 15:13 мск, она составит 0,963 и будет наблюдаться 2 минуты 19 секунд, сообщили в пресс-службе Московского планетария",
+      "main_idea": "Огненное кольцо во время затмения Солнца не даст увидеть ближайшие к нему звезды",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Feb 2026 01:05:48 +0300",
+      "url": "https://tass.ru/nauka/26455653",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
