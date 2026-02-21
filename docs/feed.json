@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21T20:19:51.816985+00:00",
+  "last_updated": "2026-02-21T20:47:19.508499+00:00",
   "items": [
     {
       "title_original": "Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne",
@@ -49,6 +49,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "I Don't Like Magic",
+      "title_neutral": "I Don't Like Magic",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "I Don't Like Magic",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 18 Feb 2026 09:42:40 +0000",
+      "url": "https://adactio.com/journal/22399",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "US says 11 people killed in latest strikes on alleged drug boats",
       "title_neutral": "US says 11 people killed in latest strikes on alleged drug boats",
       "excerpt": "Three boats targeted in eastern Pacific and Caribbean as Trump continues pursuit of alleged ‘narco-terrorists’ US military officials have said American forces launched assaults on three alleged drug-smuggling boats, killing 11 in one of the deadliest days of the Trump administration’s months-long c…",
@@ -64,21 +79,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Permacomputing",
-      "title_neutral": "Permacomputing",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Permacomputing",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 17 Feb 2026 12:40:37 +0000",
-      "url": "https://wiki.xxiivv.com/site/permacomputing.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -185,6 +185,122 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Петросян не испытывала давления от выступления в нейтральном статусе",
+      "title_neutral": "Петросян не испытывала давления от выступления в нейтральном статусе",
+      "excerpt": "",
+      "recap_neutral": "Петросян не испытывала давления от выступления в нейтральном статусе",
+      "main_idea": "Петросян не испытывала давления от выступления в нейтральном статусе",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Feb 2026 23:35:15 +0300",
+      "url": "https://tass.ru/sport/26521877",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Главный приз Берлинале получил фильм \"Желтые письма\" Илькера Чатака",
+      "title_neutral": "Главный приз Берлинале получил фильм \"Желтые письма\" Илькера Чатака",
+      "excerpt": "",
+      "recap_neutral": "Главный приз Берлинале получил фильм \"Желтые письма\" Илькера Чатака",
+      "main_idea": "Главный приз Берлинале получил фильм \"Желтые письма\" Илькера Чатака",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Feb 2026 23:35:14 +0300",
+      "url": "https://tass.ru/kultura/26521759",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Самарской области объявили опасность атаки БПЛА",
+      "title_neutral": "В Самарской области объявили опасность атаки БПЛА",
+      "excerpt": "Об этом сообщается в приложении МЧС России",
+      "recap_neutral": "Об этом сообщается в приложении МЧС России",
+      "main_idea": "В Самарской области объявили опасность атаки БПЛА",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Feb 2026 23:32:14 +0300",
+      "url": "https://tass.ru/proisshestviya/26521865",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Ульяновской области объявили беспилотную опасность",
+      "title_neutral": "В Ульяновской области объявили беспилотную опасность",
+      "excerpt": "В регионе возможно отключение мобильного интернета",
+      "recap_neutral": "В регионе возможно отключение мобильного интернета",
+      "main_idea": "В Ульяновской области объявили беспилотную опасность",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Feb 2026 23:30:52 +0300",
+      "url": "https://tass.ru/proisshestviya/26521859",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Петросян рассказала, что спокойнее относится к своему результату на Играх",
+      "title_neutral": "Петросян рассказала, что спокойнее относится к своему результату на Играх",
+      "excerpt": "Фигуристка на Олимпиаде в Италии заняла шестое место",
+      "recap_neutral": "Фигуристка на Олимпиаде в Италии заняла шестое место",
+      "main_idea": "Петросян рассказала, что спокойнее относится к своему результату на Играх",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Feb 2026 23:30:21 +0300",
+      "url": "https://tass.ru/sport/26521853",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Фигуристка Петросян вернется в Россию 23 февраля",
+      "title_neutral": "Фигуристка Петросян вернется в Россию 23 февраля",
+      "excerpt": "На Играх в Милане Петросян заняла шестое место в женском одиночном катании",
+      "recap_neutral": "На Играх в Милане Петросян заняла шестое место в женском одиночном катании",
+      "main_idea": "Фигуристка Петросян вернется в Россию 23 февраля",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Feb 2026 23:22:46 +0300",
+      "url": "https://tass.ru/sport/26521847",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Петросян рассказала, что не испытывала проблем с допинг-тестированием",
+      "title_neutral": "Петросян рассказала, что не испытывала проблем с допинг-тестированием",
+      "excerpt": "На Олимпийских играх в Италии фигуристка заняла шестое место",
+      "recap_neutral": "На Олимпийских играх в Италии фигуристка заняла шестое место",
+      "main_idea": "Петросян рассказала, что не испытывала проблем с допинг-тестированием",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Feb 2026 23:20:58 +0300",
+      "url": "https://tass.ru/sport/26521841",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Петросян планирует посетить церемонию закрытия Олимпиады",
       "title_neutral": "Петросян планирует посетить церемонию закрытия Олимпиады",
       "excerpt": "Церемония закрытия пройдет 22 февраля в Вероне",
@@ -217,8 +333,8 @@
     {
       "title_original": "В Абхазии по факту ранения оппозиционера Эшсоуа Какалии возбудили уголовное дело",
       "title_neutral": "В Абхазии по факту ранения оппозиционера Эшсоуа Какалии возбудили уголовное дело",
-      "excerpt": "Проводятся оперативно-розыскные мероприятия, устанавливаются все обстоятельства произошедшего, сообщили в пресс-службе МВД",
-      "recap_neutral": "Проводятся оперативно-розыскные мероприятия, устанавливаются все обстоятельства произошедшего, сообщили в пресс-службе МВД",
+      "excerpt": "Проводятся оперативно-разыскные мероприятия, устанавливаются все обстоятельства произошедшего, сообщили в пресс-службе МВД",
+      "recap_neutral": "Проводятся оперативно-разыскные мероприятия, устанавливаются все обстоятельства произошедшего, сообщили в пресс-службе МВД",
       "main_idea": "В Абхазии по факту ранения оппозиционера Эшсоуа Какалии возбудили уголовное дело",
       "tags": [
         "tech"
@@ -232,11 +348,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Ярославской области из-за остановки грузового состава задерживаются еще два поезда",
-      "title_neutral": "В Ярославской области из-за остановки грузового состава задерживаются еще два поезда",
-      "excerpt": "",
-      "recap_neutral": "В Ярославской области из-за остановки грузового состава задерживаются еще два поезда",
-      "main_idea": "В Ярославской области из-за остановки грузового состава задерживаются еще два поезда",
+      "title_original": "Число задерживающихся в Ярославской области поездов выросло до восьми",
+      "title_neutral": "Число задерживающихся в Ярославской области поездов выросло до восьми",
+      "excerpt": "Северо-Западная транспортная прокуратура организовала проверку",
+      "recap_neutral": "Северо-Западная транспортная прокуратура организовала проверку",
+      "main_idea": "Число задерживающихся в Ярославской области поездов выросло до восьми",
       "tags": [],
       "source": "ТАСС",
       "published_at": "Sat, 21 Feb 2026 23:03:13 +0300",
@@ -311,116 +427,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Кабардино-Балкарии при строительстве федеральной трассы погиб прораб",
-      "title_neutral": "В Кабардино-Балкарии при строительстве федеральной трассы погиб прораб",
-      "excerpt": "СК организовал доследственную проверку",
-      "recap_neutral": "СК организовал доследственную проверку",
-      "main_idea": "В Кабардино-Балкарии при строительстве федеральной трассы погиб прораб",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Feb 2026 22:54:20 +0300",
-      "url": "https://tass.ru/proisshestviya/26521743",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Пензенской области объявили ракетную опасность",
-      "title_neutral": "В Пензенской области объявили ракетную опасность",
-      "excerpt": "В регионе запустили звуковые сирены, речевое оповещение, СМС-оповещение, уведомления в официальных каналах и по телевидению",
-      "recap_neutral": "В регионе запустили звуковые сирены, речевое оповещение, СМС-оповещение, уведомления в официальных каналах и по телевидению",
-      "main_idea": "В Пензенской области объявили ракетную опасность",
+      "title_original": "EDuke32 – Duke Nukem 3D (Open-Source)",
+      "title_neutral": "EDuke32 – Duke Nukem 3D (Open-Source)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "EDuke32 – Duke Nukem 3D (Open-Source)",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Feb 2026 22:52:35 +0300",
-      "url": "https://tass.ru/proisshestviya/26521753",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Пенсии граждан, которым в феврале исполнилось 80, вырастут в марте",
-      "title_neutral": "Пенсии граждан, которым в феврале исполнилось 80, вырастут в марте",
-      "excerpt": "Гражданин может не подавать заявление",
-      "recap_neutral": "Гражданин может не подавать заявление",
-      "main_idea": "Пенсии граждан, которым в феврале исполнилось 80, вырастут в марте",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Feb 2026 22:52:20 +0300",
-      "url": "https://tass.ru/obschestvo/26521775",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Ярославской области задерживаются шесть пассажирских поездов",
-      "title_neutral": "В Ярославской области задерживаются шесть пассажирских поездов",
-      "excerpt": "Это связано с остановкой грузового железнодорожного состава",
-      "recap_neutral": "Это связано с остановкой грузового железнодорожного состава",
-      "main_idea": "В Ярославской области задерживаются шесть пассажирских поездов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Feb 2026 22:46:00 +0300",
-      "url": "https://tass.ru/obschestvo/26521409",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Ставрополье завели дело после нападения бездомных собак на ребенка",
-      "title_neutral": "На Ставрополье завели дело после нападения бездомных собак на ребенка",
-      "excerpt": "Пострадавшему потребовалась медицинская помощь",
-      "recap_neutral": "Пострадавшему потребовалась медицинская помощь",
-      "main_idea": "На Ставрополье завели дело после нападения бездомных собак на ребенка",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Feb 2026 22:44:35 +0300",
-      "url": "https://tass.ru/proisshestviya/26521749",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Украина назвала шантажом намерения Венгрии и Словакии остановить экспорт электроэнергии",
-      "title_neutral": "Украина назвала шантажом намерения Венгрии и Словакии остановить экспорт электроэнергии",
-      "excerpt": "Украинское министерство иностранных дел призвало Будапешт и Братиславу к \"конструктивному взаимодействию\"",
-      "recap_neutral": "Украинское министерство иностранных дел призвало Будапешт и Братиславу к \"конструктивному взаимодействию\"",
-      "main_idea": "Украина назвала шантажом намерения Венгрии и Словакии остановить экспорт электроэнергии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Feb 2026 22:44:23 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26521721",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Реал\" впервые за 15 лет проиграл \"Осасуне\"",
-      "title_neutral": "\"Реал\" впервые за 15 лет проиграл \"Осасуне\"",
-      "excerpt": "Мадридский клуб потерпел первое поражение в чемпионате Испании под руководством Альваро Арбелоа",
-      "recap_neutral": "Мадридский клуб потерпел первое поражение в чемпионате Испании под руководством Альваро Арбелоа",
-      "main_idea": "\"Реал\" впервые за 15 лет проиграл \"Осасуне\"",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Feb 2026 22:44:10 +0300",
-      "url": "https://tass.ru/sport/26521747",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Sat, 21 Feb 2026 20:10:13 +0000",
+      "url": "https://www.eduke32.com/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -867,23 +885,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-      "title_neutral": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 21 Feb 2026 12:37:52 +0000",
-      "url": "https://github.com/tnm/zclaw",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Why Attacking Iran Could Be Riskier Than Capturing Maduro",
       "title_neutral": "Why Attacking Iran Could Be Riskier Than Capturing Maduro",
       "excerpt": "Iran’s extensive military abilities and network of regional proxies could draw the United States into a prolonged conflict.",
@@ -1094,6 +1095,23 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Hungary Poses Unexpected Hurdle to Europe’s 90-Billion Euro Loan to Ukraine",
+      "title_neutral": "Hungary Poses Unexpected Hurdle to Europe’s 90-Billion Euro Loan to Ukraine",
+      "excerpt": "While the delay may prove to be procedural, Hungary signaled that it could cause problems as the European Union works to send money to Ukraine.",
+      "recap_neutral": "While the delay may prove to be procedural, Hungary signaled that it could cause problems as the European Union works to send money to Ukraine",
+      "main_idea": "Hungary Poses Unexpected Hurdle to Europe’s 90-Billion Euro Loan to Ukraine",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 21 Feb 2026 07:43:04 +0000",
+      "url": "https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1423,6 +1441,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Russia Takes the Gulag Out of the Gulag History Museum in Moscow",
+      "title_neutral": "Russia Takes the Gulag Out of the Gulag History Museum in Moscow",
+      "excerpt": "The museum had preserved the history of brutality inflicted by the Soviet Union on its people. It will now focus on Nazi war crimes.",
+      "recap_neutral": "The museum had preserved the history of brutality inflicted by the Soviet Union on its people",
+      "main_idea": "Russia Takes the Gulag Out of the Gulag History Museum in Moscow",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 20 Feb 2026 22:20:40 +0000",
+      "url": "https://www.nytimes.com/2026/02/20/world/europe/russia-gulag-history-museum-stalin.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Loon: A functional lang with invisible types, safe ownership, and alg. effects",
       "title_neutral": "Loon: A functional lang with invisible types, safe ownership, and alg. effects",
       "excerpt": "Comments",
@@ -1450,21 +1485,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Former Prince Andrew’s Arrest Upends Royal Family’s Effort to Move Past His Scandal",
-      "title_neutral": "Former Prince Andrew’s Arrest Upends Royal Family’s Effort to Move Past His Scandal",
-      "excerpt": "King Charles III’s family, long rocked by infighting and grievous losses, is facing what could be the gravest threat to its moral authority in more than a generation.",
-      "recap_neutral": "King Charles III’s family, long rocked by infighting and grievous losses, is facing what could be the gravest threat to its moral authority in more than a generation",
-      "main_idea": "Former Prince Andrew’s Arrest Upends Royal Family’s Effort to Move Past His Scandal",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Fri, 20 Feb 2026 19:56:29 +0000",
-      "url": "https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-arrest-epstein-royal-family-uk.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1581,23 +1601,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "China’s ‘King of Banned Films’ Wants to Change the Subject",
-      "title_neutral": "China’s ‘King of Banned Films’ Wants to Change the Subject",
-      "excerpt": "Acclaimed overseas for defying censors, Lou Ye is more interested in reaching Chinese audiences, as he holds up a cinematic mirror to their lives in modern China.",
-      "recap_neutral": "Acclaimed overseas for defying censors, Lou Ye is more interested in reaching Chinese audiences, as he holds up a cinematic mirror to their lives in modern China",
-      "main_idea": "China’s ‘King of Banned Films’ Wants to Change the Subject",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 20 Feb 2026 07:20:17 +0000",
-      "url": "https://www.nytimes.com/2026/02/20/world/asia/lou-ye-china-film-director.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
