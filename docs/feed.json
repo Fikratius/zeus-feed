@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22T01:50:35.732539+00:00",
+  "last_updated": "2026-02-22T04:13:32.755579+00:00",
   "items": [
     {
       "title_original": "Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne",
@@ -67,6 +67,36 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Scientists discover recent tectonic activity on the moon",
+      "title_neutral": "Scientists discover recent tectonic activity on the moon",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Scientists discover recent tectonic activity on the moon",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 17 Feb 2026 19:13:37 +0000",
+      "url": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+      "title_neutral": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 17 Feb 2026 11:01:09 +0000",
+      "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Kenyan authorities used Israeli tech to crack activist’s phone, report claims",
       "title_neutral": "Kenyan authorities used Israeli tech to crack activist’s phone, report claims",
       "excerpt": "Citizen Lab report suggests Cellebrite software was used to break into Boniface Mwangi’s phone while he was under arrest When Boniface Mwangi, the prominent Kenyan pro-democracy activist who plans to run for president in 2027 , had his phones returned to him by Kenyan authorities after his controve…",
@@ -83,21 +113,6 @@
       "lang": "en",
       "bias_score": 54,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Finding forall-exists Hyperbugs using Symbolic Execution",
-      "title_neutral": "Finding forall-exists Hyperbugs using Symbolic Execution",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Finding forall-exists Hyperbugs using Symbolic Execution",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 17 Feb 2026 01:57:40 +0000",
-      "url": "https://dl.acm.org/doi/full/10.1145/3689761",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -202,248 +217,334 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Лидер партии АдГ призвала вернуться к импорту энергоресурсов из РФ",
-      "title_neutral": "Лидер партии АдГ призвала вернуться к импорту энергоресурсов из РФ",
-      "excerpt": "Алис Вайдель также отметила, что движение всегда выступало за мирные переговоры между Россией и Украиной",
-      "recap_neutral": "Алис Вайдель также отметила, что движение всегда выступало за мирные переговоры между Россией и Украиной",
-      "main_idea": "Лидер партии АдГ призвала вернуться к импорту энергоресурсов из РФ",
+      "title_original": "Эксперты: в Армении спрос на аренду жилья для иностранцев за год вырос на 14%",
+      "title_neutral": "Эксперты: в Армении спрос на аренду жилья для иностранцев за год вырос на 14%",
+      "excerpt": "",
+      "recap_neutral": "Эксперты: в Армении спрос на аренду жилья для иностранцев за год вырос на 14%",
+      "main_idea": "Эксперты: в Армении спрос на аренду жилья для иностранцев за год вырос на 14%",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 04:44:19 +0300",
-      "url": "https://tass.ru/ekonomika/26522413",
+      "published_at": "Sun, 22 Feb 2026 07:06:33 +0300",
+      "url": "https://tass.ru/nedvizhimost/26522749",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В аэропорту Саратова сняли ограничения на прием и выпуск самолетов",
-      "title_neutral": "В аэропорту Саратова сняли ограничения на прием и выпуск самолетов",
-      "excerpt": "Об этом сообщили в пресс-службе Росавиации",
-      "recap_neutral": "Об этом сообщили в пресс-службе Росавиации",
-      "main_idea": "В аэропорту Саратова сняли ограничения на прием и выпуск самолетов",
+      "title_original": "Диетолог Стародубова: соблюдение поста не может заменить диету и лечение",
+      "title_neutral": "Диетолог Стародубова: соблюдение поста не может заменить диету и лечение",
+      "excerpt": "Ограничение питания является стрессом для организма, отметила заместитель директора по научной и лечебной работе \"ФИЦ питания и биотехнологии\"",
+      "recap_neutral": "Ограничение питания является стрессом для организма, отметила заместитель директора по научной и лечебной работе \"ФИЦ питания и биотехнологии\"",
+      "main_idea": "Диетолог Стародубова: соблюдение поста не может заменить диету и лечение",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 04:36:12 +0300",
-      "url": "https://tass.ru/ekonomika/26522401",
+      "published_at": "Sun, 22 Feb 2026 07:05:07 +0300",
+      "url": "https://tass.ru/obschestvo/26522745",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Липецкой области отменили воздушную опасность",
-      "title_neutral": "В Липецкой области отменили воздушную опасность",
-      "excerpt": "Режим действовал с 00:59 мск",
-      "recap_neutral": "Режим действовал с 00:59 мск",
-      "main_idea": "В Липецкой области отменили воздушную опасность",
+      "title_original": "Алаудинов предложил отменить мораторий на смертную казнь для трибунала по Украине",
+      "title_neutral": "Алаудинов предложил отменить мораторий на смертную казнь для трибунала по Украине",
+      "excerpt": "",
+      "recap_neutral": "Алаудинов предложил отменить мораторий на смертную казнь для трибунала по Украине",
+      "main_idea": "Алаудинов предложил отменить мораторий на смертную казнь для трибунала по Украине",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 04:29:52 +0300",
-      "url": "https://tass.ru/proisshestviya/26522397",
+      "published_at": "Sun, 22 Feb 2026 07:01:53 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26522735",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Степашин: вступление Украины стало бы самым серьезным ударом по ЕС",
-      "title_neutral": "Степашин: вступление Украины стало бы самым серьезным ударом по ЕС",
-      "excerpt": "Экс-премьер России привел в пример Германию, которую уже \"не радуют\" больше миллиона переехавших украинцев",
-      "recap_neutral": "Экс-премьер России привел в пример Германию, которую уже \"не радуют\" больше миллиона переехавших украинцев",
-      "main_idea": "Степашин: вступление Украины стало бы самым серьезным ударом по ЕС",
+      "title_original": "В Полтаве произошел взрыв",
+      "title_neutral": "В Полтаве произошел взрыв",
+      "excerpt": "На всей территории Украины действует воздушная тревога",
+      "recap_neutral": "На всей территории Украины действует воздушная тревога",
+      "main_idea": "В Полтаве произошел взрыв",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 06:52:22 +0300",
+      "url": "https://tass.ru/proisshestviya/26522721",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Уиткофф назвал \"красную линию\" в переговорах США с Ираном",
+      "title_neutral": "Уиткофф назвал \"красную линию\" в переговорах США с Ираном",
+      "excerpt": "Спецпосланник президента США отметил, что американская сторона настаивает на отказе Тегерана от обогащения урана",
+      "recap_neutral": "Спецпосланник президента США отметил, что американская сторона настаивает на отказе Тегерана от обогащения урана",
+      "main_idea": "Уиткофф назвал \"красную линию\" в переговорах США с Ираном",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 06:46:14 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26522703",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Алаудинов рассказал о жестокости наемников из Польши и Грузии",
+      "title_neutral": "Алаудинов рассказал о жестокости наемников из Польши и Грузии",
+      "excerpt": "Эти военные \"проявили себя больше всех\" во время атаки на Курскую область, отметил замначальника Главного военно-политического управления ВС РФ, командир спецназа \"Ахмат\"",
+      "recap_neutral": "Эти военные \"проявили себя больше всех\" во время атаки на Курскую область, отметил замначальника Главного военно-политического управления ВС РФ, командир спецназа \"Ахмат\"",
+      "main_idea": "Алаудинов рассказал о жестокости наемников из Польши и Грузии",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 04:20:08 +0300",
-      "url": "https://tass.ru/politika/26522375",
+      "published_at": "Sun, 22 Feb 2026 06:32:00 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26522685",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В аэропорту Калуги сняли ограничения на прием и выпуск самолетов",
-      "title_neutral": "В аэропорту Калуги сняли ограничения на прием и выпуск самолетов",
-      "excerpt": "Об этом сообщили в пресс-службе Росавиации",
-      "recap_neutral": "Об этом сообщили в пресс-службе Росавиации",
-      "main_idea": "В аэропорту Калуги сняли ограничения на прием и выпуск самолетов",
+      "title_original": "Созданный в России препарат от оспы обезьян передали Минздраву",
+      "title_neutral": "Созданный в России препарат от оспы обезьян передали Минздраву",
+      "excerpt": "Решение о применении лекарства будет принимать министерство, сообщила директор Новосибирского института органической химии СО РАН Елена Багрянская",
+      "recap_neutral": "Решение о применении лекарства будет принимать министерство, сообщила директор Новосибирского института органической химии СО РАН Елена Багрянская",
+      "main_idea": "Созданный в России препарат от оспы обезьян передали Минздраву",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 04:17:56 +0300",
-      "url": "https://tass.ru/ekonomika/26522385",
+      "published_at": "Sun, 22 Feb 2026 06:32:00 +0300",
+      "url": "https://tass.ru/obschestvo/26522675",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Хабаровском крае хартию технологической независимости поддержали 300 компаний",
-      "title_neutral": "В Хабаровском крае хартию технологической независимости поддержали 300 компаний",
-      "excerpt": "В регионе ведут работу по расширению сетей среди крупных ритейлеров, отметил губернатор Дмитрий Демешин",
-      "recap_neutral": "В регионе ведут работу по расширению сетей среди крупных ритейлеров, отметил губернатор Дмитрий Демешин",
-      "main_idea": "В Хабаровском крае хартию технологической независимости поддержали 300 компаний",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 04:15:16 +0300",
-      "url": "https://tass.ru/ekonomika/26522369",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Воронежской области отменили опасность атаки БПЛА",
-      "title_neutral": "В Воронежской области отменили опасность атаки БПЛА",
-      "excerpt": "Режим действовал с 20:50 мск 21 февраля",
-      "recap_neutral": "Режим действовал с 20:50 мск 21 февраля",
-      "main_idea": "В Воронежской области отменили опасность атаки БПЛА",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 04:12:32 +0300",
-      "url": "https://tass.ru/proisshestviya/26522371",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"ЛизаАлерт\": следы Усольцевых не нашли на вертолетной площадке рядом с Кутурчин",
-      "title_neutral": "\"ЛизаАлерт\": следы Усольцевых не нашли на вертолетной площадке рядом с Кутурчин",
-      "excerpt": "Площадку и окрестности возле нее службы и добровольцы осмотрели очень тщательно, отметила представитель отряда Серафима Чооду",
-      "recap_neutral": "Площадку и окрестности возле нее службы и добровольцы осмотрели очень тщательно, отметила представитель отряда Серафима Чооду",
-      "main_idea": "\"ЛизаАлерт\": следы Усольцевых не нашли на вертолетной площадке рядом с Кутурчин",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 04:06:53 +0300",
-      "url": "https://tass.ru/proisshestviya/26522361",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Грузия купила у России в январе рекордные 4,8 тыс. тонн сжиженного пропана",
-      "title_neutral": "Грузия купила у России в январе рекордные 4,8 тыс. тонн сжиженного пропана",
-      "excerpt": "Это в 2,2 раза больше, чем в январе 2025 года, и является самым крупным показателем в масштабах одного месяца, свидетельствуют данные Национальной службы статистики республики",
-      "recap_neutral": "Это в 2,2 раза больше, чем в январе 2025 года, и является самым крупным показателем в масштабах одного месяца, свидетельствуют данные Национальной службы статистики республики",
-      "main_idea": "Грузия купила у России в январе рекордные 4,8 тыс. тонн сжиженного пропана",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 04:04:27 +0300",
-      "url": "https://tass.ru/ekonomika/26522355",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Эксперт Стародубова рассказала, кому нельзя полноценно поститься",
-      "title_neutral": "Эксперт Стародубова рассказала, кому нельзя полноценно поститься",
-      "excerpt": "Ограничивать питание не рекомендуется детям, беременным, а также людям с хроническими заболеваниями, предупредила главный диетолог Москвы",
-      "recap_neutral": "Ограничивать питание не рекомендуется детям, беременным, а также людям с хроническими заболеваниями, предупредила главный диетолог Москвы",
-      "main_idea": "Эксперт Стародубова рассказала, кому нельзя полноценно поститься",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 04:03:17 +0300",
-      "url": "https://tass.ru/obschestvo/26522345",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Пленный из ВСУ: командиры за деньги отпускали украинских солдат с передовой",
-      "title_neutral": "Пленный из ВСУ: командиры за деньги отпускали украинских солдат с передовой",
-      "excerpt": "Игорь Костин также рассказал, что командование заставляло штурмовать позиции неопытных военных, которые нередко сбегали из-за страха",
-      "recap_neutral": "Игорь Костин также рассказал, что командование заставляло штурмовать позиции неопытных военных, которые нередко сбегали из-за страха",
-      "main_idea": "Пленный из ВСУ: командиры за деньги отпускали украинских солдат с передовой",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 04:02:38 +0300",
-      "url": "https://tass.ru/armiya-i-opk/26522359",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Марочко: ВС РФ выровняли фронт на участке Зализничное-Терноватое",
-      "title_neutral": "Марочко: ВС РФ выровняли фронт на участке Зализничное-Терноватое",
-      "excerpt": "Российские войска закрепляются на новых позициях и готовятся к дальнейшему продвижению, рассказал военный эксперт",
-      "recap_neutral": "Российские войска закрепляются на новых позициях и готовятся к дальнейшему продвижению, рассказал военный эксперт",
-      "main_idea": "Марочко: ВС РФ выровняли фронт на участке Зализничное-Терноватое",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 04:00:52 +0300",
-      "url": "https://tass.ru/armiya-i-opk/26522347",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Камчатке за сутки зафиксировали четыре афтершока",
-      "title_neutral": "На Камчатке за сутки зафиксировали четыре афтершока",
-      "excerpt": "Из них один был ощущаемым",
-      "recap_neutral": "Из них один был ощущаемым",
-      "main_idea": "На Камчатке за сутки зафиксировали четыре афтершока",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 03:59:05 +0300",
-      "url": "https://tass.ru/proisshestviya/26522341",
-      "lang": "ru",
-      "bias_score": 72,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Чукотке появятся новые торгово-логистические комплексы",
-      "title_neutral": "На Чукотке появятся новые торгово-логистические комплексы",
-      "excerpt": "Их планируют построить и реконструировать в трех населенных пунктах",
-      "recap_neutral": "Их планируют построить и реконструировать в трех населенных пунктах",
-      "main_idea": "На Чукотке появятся новые торгово-логистические комплексы",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 03:52:43 +0300",
-      "url": "https://tass.ru/ekonomika/26522339",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Трамп заявил, что США направят госпитальное судно к Гренландии",
-      "title_neutral": "Трамп заявил, что США направят госпитальное судно к Гренландии",
-      "excerpt": "Американский президент отметил, что это необходимо для оказания медицинской помощи местным жителям",
-      "recap_neutral": "Американский президент отметил, что это необходимо для оказания медицинской помощи местным жителям",
-      "main_idea": "Трамп заявил, что США направят госпитальное судно к Гренландии",
+      "title_original": "Уиткофф заявил, что Путин в разговорах с ним всегда был честным",
+      "title_neutral": "Уиткофф заявил, что Путин в разговорах с ним всегда был честным",
+      "excerpt": "Как отметил спецпосланник президента США, его критиковали за то, что он восемь раз встречался с российским лидером, однако ему было \"важно понять позицию России\"",
+      "recap_neutral": "Как отметил спецпосланник президента США, его критиковали за то, что он восемь раз встречался с российским лидером, однако ему было \"важно понять позицию России\"",
+      "main_idea": "Уиткофф заявил, что Путин в разговорах с ним всегда был честным",
       "tags": [
         "politics",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 03:48:27 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26522327",
+      "published_at": "Sun, 22 Feb 2026 06:30:25 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26522665",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Николаеве на юге Украины произошел взрыв",
+      "title_neutral": "В Николаеве на юге Украины произошел взрыв",
+      "excerpt": "На всей территории страны действует режим воздушной тревоги",
+      "recap_neutral": "На всей территории страны действует режим воздушной тревоги",
+      "main_idea": "В Николаеве на юге Украины произошел взрыв",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 06:24:42 +0300",
+      "url": "https://tass.ru/proisshestviya/26522657",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Уиткофф: новые переговоры по Украине могут пройти через три недели",
+      "title_neutral": "Уиткофф: новые переговоры по Украине могут пройти через три недели",
+      "excerpt": "Спецпосланник президента США также выразил надежду на встречу российского лидера Владимира Путина и Владимира Зеленского",
+      "recap_neutral": "Спецпосланник президента США также выразил надежду на встречу российского лидера Владимира Путина и Владимира Зеленского",
+      "main_idea": "Уиткофф: новые переговоры по Украине могут пройти через три недели",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 06:22:14 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26522647",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Самарской области сняли режим опасности атаки БПЛА",
+      "title_neutral": "В Самарской области сняли режим опасности атаки БПЛА",
+      "excerpt": "Он действовал с 01:34 мск",
+      "recap_neutral": "Он действовал с 01:34 мск",
+      "main_idea": "В Самарской области сняли режим опасности атаки БПЛА",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 06:18:05 +0300",
+      "url": "https://tass.ru/proisshestviya/26522635",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Из России в Казахстан планируют передать четырех амурских тигров",
+      "title_neutral": "Из России в Казахстан планируют передать четырех амурских тигров",
+      "excerpt": "Транспортировку животных намерены провести весной 2026 года",
+      "recap_neutral": "Транспортировку животных намерены провести весной 2026 года",
+      "main_idea": "Из России в Казахстан планируют передать четырех амурских тигров",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 06:17:50 +0300",
+      "url": "https://tass.ru/obschestvo/26522633",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Роскачество: в Таджикистане официально признали российские сертификаты халяль",
+      "title_neutral": "Роскачество: в Таджикистане официально признали российские сертификаты халяль",
+      "excerpt": "Решение означает, что продукция российских производителей, прошедшая должную процедуру сертификации, может беспрепятственно поступать на таджикский рынок, сообщили в организации",
+      "recap_neutral": "Решение означает, что продукция российских производителей, прошедшая должную процедуру сертификации, может беспрепятственно поступать на таджикский рынок, сообщили в организации",
+      "main_idea": "Роскачество: в Таджикистане официально признали российские сертификаты халяль",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 06:14:46 +0300",
+      "url": "https://tass.ru/ekonomika/26522619",
+      "lang": "ru",
+      "bias_score": 56,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Хабаровском крае спасли двух тигрят",
+      "title_neutral": "В Хабаровском крае спасли двух тигрят",
+      "excerpt": "Животные проходят реабилитацию",
+      "recap_neutral": "Животные проходят реабилитацию",
+      "main_idea": "В Хабаровском крае спасли двух тигрят",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 06:13:46 +0300",
+      "url": "https://tass.ru/obschestvo/26522631",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В РФ 52% опрошенных потратят на подарок к 23 февраля до 5 тыс. рублей",
+      "title_neutral": "В РФ 52% опрошенных потратят на подарок к 23 февраля до 5 тыс. рублей",
+      "excerpt": "Выделить на эти цели свыше 10 тыс. рублей готовы 5% респондентов, говорится в совместном исследовании сервиса \"Купер\" и компании \"ОнИн\"",
+      "recap_neutral": "Выделить на эти цели свыше 10 тыс",
+      "main_idea": "В РФ 52% опрошенных потратят на подарок к 23 февраля до 5 тыс. рублей",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 06:04:13 +0300",
+      "url": "https://tass.ru/ekonomika/26522625",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much",
+      "title_neutral": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 22 Feb 2026 03:24:22 +0000",
+      "url": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Japanese Woodblock Print Search",
+      "title_neutral": "Japanese Woodblock Print Search",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Japanese Woodblock Print Search",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 22 Feb 2026 03:18:36 +0000",
+      "url": "https://ukiyo-e.org/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive",
+      "title_neutral": "Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 22 Feb 2026 02:29:06 +0000",
+      "url": "https://github.com/Leading-AI-IO/palantir-ontology-strategy",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Willie Colón, trombonist who pioneered salsa music, dies aged 75",
+      "title_neutral": "Willie Colón, trombonist who pioneered salsa music, dies aged 75",
+      "excerpt": "His career spanned 60 years and dozens of albums and had been named among the most influential Latino artists of all time.",
+      "recap_neutral": "His career spanned 60 years and dozens of albums and had been named among the most influential Latino artists of all time",
+      "main_idea": "Willie Colón, trombonist who pioneered salsa music, dies aged 75",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sun, 22 Feb 2026 01:49:42 GMT",
+      "url": "https://www.bbc.com/news/articles/c98qjed249do?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A Botnet Accidentally Destroyed I2P",
+      "title_neutral": "A Botnet Accidentally Destroyed I2P",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "A Botnet Accidentally Destroyed I2P",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 22 Feb 2026 01:08:17 +0000",
+      "url": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -456,38 +557,6 @@
       "source": "Hacker News",
       "published_at": "Sun, 22 Feb 2026 00:29:05 +0000",
       "url": "https://boristane.com/blog/how-i-use-claude-code/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Are compilers deterministic?",
-      "title_neutral": "Are compilers deterministic?",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Are compilers deterministic?",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 22 Feb 2026 00:21:05 +0000",
-      "url": "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Who's liable when your AI agent burns down production?",
-      "title_neutral": "Who's liable when your AI agent burns down production?",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Who's liable when your AI agent burns down production?",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 21 Feb 2026 23:52:00 +0000",
-      "url": "https://reading.sh/whos-liable-when-your-ai-agent-burns-down-production-039193d82746?sk=4921ed2dbc46f0c618835ac458cf5051",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -521,7 +590,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 21 Feb 2026 22:06:52 +0000",
+      "published_at": "Sat, 21 Feb 2026 22:06:53 +0000",
       "url": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-student-protests.html",
       "lang": "en",
       "bias_score": 55,
@@ -576,6 +645,24 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Crews recover bodies of all 9 skiers killed in California avalanche",
+      "title_neutral": "Crews recover bodies of all 9 skiers killed in California avalanche",
+      "excerpt": "The bodies of all the skiers who died in Tuesday's avalanche near Lake Tahoe have been recovered, authorities said Saturday. Intense winter storm conditions delayed search and recovery efforts.",
+      "recap_neutral": "The bodies of all the skiers who died in Tuesday's avalanche near Lake Tahoe have been recovered, authorities said Saturday",
+      "main_idea": "Crews recover bodies of all 9 skiers killed in California avalanche",
+      "tags": [
+        "tech",
+        "climate"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 21 Feb 2026 21:32:30 -0500",
+      "url": "https://www.npr.org/2026/02/21/nx-s1-5722357/skiers-recovered-identified-california-avalanche-tahoe",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -663,21 +750,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "EDuke32 – Duke Nukem 3D (Open-Source)",
-      "title_neutral": "EDuke32 – Duke Nukem 3D (Open-Source)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "EDuke32 – Duke Nukem 3D (Open-Source)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 21 Feb 2026 20:10:13 +0000",
-      "url": "https://www.eduke32.com/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "How ConvNeXt Proves Classic AI Models Can Still Beat Transformers",
       "title_neutral": "How ConvNeXt Proves Classic AI Models Can Still Beat Transformers",
       "excerpt": "ConvNeXt rethinks convolutional neural networks by modernizing ResNet with Transformer-inspired design choices. The result is a pure ConvNet that matches or beats Vision Transformers like Swin on ImageNet, COCO detection, and ADE20K segmentation. Achieving up to 87.8% top-1 accuracy, ConvNeXt prove…",
@@ -758,21 +830,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Canvas_ity: A tiny, single-header -like 2D rasterizer for C++",
-      "title_neutral": "Canvas_ity: A tiny, single-header -like 2D rasterizer for C++",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Canvas_ity: A tiny, single-header -like 2D rasterizer for C++",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 21 Feb 2026 18:50:19 +0000",
-      "url": "https://github.com/a-e-k/canvas_ity",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Giant tortoises return to Galápagos island after nearly 200 years",
       "title_neutral": "Giant tortoises return to Galápagos island after nearly 200 years",
       "excerpt": "The native species was driven to extinction by sailors in the 1800s. Now, 158 juvenile giant tortoises have been reintroduced to the island.",
@@ -807,28 +864,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
-      "title_neutral": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 21 Feb 2026 18:09:24 +0000",
-      "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "FCC calls for more 'patriotic, pro-America' programming in runup to 250th anniversary",
-      "title_neutral": "FCC calls for more 'patriotic, pro-America' programming in runup to 250th anniversary",
+      "title_original": "FCC calls for more 'patriotic, pro-America' programming in run-up to 250th anniversary",
+      "title_neutral": "FCC calls for more 'patriotic, pro-America' programming in run-up to 250th anniversary",
       "excerpt": "The \"Pledge America Campaign\" urges broadcasters to focus on programming that highlights \"the historic accomplishments of this great nation from our founding through the Trump Administration today.\"",
       "recap_neutral": "The \"Pledge America Campaign\" urges broadcasters to focus on programming that highlights \"the historic accomplishments of this great nation from our founding through the Trump Administration today",
-      "main_idea": "FCC calls for more 'patriotic, pro-America' programming in runup to 250th anniversary",
+      "main_idea": "FCC calls for more 'patriotic, pro-America' programming in run-up to 250th anniversary",
       "tags": [
         "tech"
       ],
@@ -1197,21 +1237,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "How Nazgul the wolfdog made his run for Winter Olympic glory in Italy",
-      "title_neutral": "How Nazgul the wolfdog made his run for Winter Olympic glory in Italy",
-      "excerpt": "Nazgul isn't talking, but his owners come clean about how he got loose, got famous, and how they feel now",
-      "recap_neutral": "Nazgul isn't talking, but his owners come clean about how he got loose, got famous, and how they feel now",
-      "main_idea": "How Nazgul the wolfdog made his run for Winter Olympic glory in Italy",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Sat, 21 Feb 2026 10:09:00 -0500",
-      "url": "https://www.npr.org/2026/02/21/nx-s1-5721755/how-nazgul-the-wolfdog-made-his-run-for-winter-olympic-glory-in-italy",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "How $600 Drones Are Outsmarting Colombia’s Billion-Dollar Military",
       "title_neutral": "How $600 Drones Are Outsmarting Colombia’s Billion-Dollar Military",
       "excerpt": "Security officials say easy access by guerrilla groups to commercial drones, cheaply modified into deadly weapons, has put the nation’s army on its heels.",
@@ -1572,21 +1597,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Nasa targets early March to send humans back around the Moon",
-      "title_neutral": "Nasa targets early March to send humans back around the Moon",
-      "excerpt": "Nasa sets the launch date following a successful \"wet dress rehearsal\" of the Artemis II mission.",
-      "recap_neutral": "Nasa sets the launch date following a successful \"wet dress rehearsal\" of the Artemis II mission",
-      "main_idea": "Nasa targets early March to send humans back around the Moon",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 20 Feb 2026 17:00:26 GMT",
-      "url": "https://www.bbc.com/news/articles/c86y1g6wde3o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
