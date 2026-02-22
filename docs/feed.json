@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22T11:18:13.757030+00:00",
+  "last_updated": "2026-02-22T11:43:48.996783+00:00",
   "items": [
     {
       "title_original": "Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne",
@@ -67,6 +67,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Unreal Numbers",
+      "title_neutral": "Unreal Numbers",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Unreal Numbers",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 17 Feb 2026 12:40:10 +0000",
+      "url": "https://lcamtuf.substack.com/p/unreal-numbers",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
       "title_neutral": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
       "excerpt": "Comments",
@@ -98,21 +113,6 @@
       "lang": "en",
       "bias_score": 54,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: Minimalist Glitch Art Maker (100% client-side)",
-      "title_neutral": "Show HN: Minimalist Glitch Art Maker (100% client-side)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Minimalist Glitch Art Maker (100% client-side)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 17 Feb 2026 06:35:48 +0000",
-      "url": "https://yuyz0112.github.io/glitch-art-maker/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -168,13 +168,222 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Песков: Путин не позволяет себе плохих слов в адрес глав других государств",
-      "title_neutral": "Песков: Путин не позволяет себе плохих слов в адрес глав других государств",
+      "title_original": "В Германии сравнили исправившего ошибку Непряевой техника с Усэйном Болтом",
+      "title_neutral": "В Германии сравнили исправившего ошибку Непряевой техника с Усэйном Болтом",
+      "excerpt": "После преодоления отсечки 21,6 км россиянка по ошибке заехала в бокс Катарины Хенних Дотцлер и использовала ее лыжи",
+      "recap_neutral": "После преодоления отсечки 21,6 км россиянка по ошибке заехала в бокс Катарины Хенних Дотцлер и использовала ее лыжи",
+      "main_idea": "В Германии сравнили исправившего ошибку Непряевой техника с Усэйном Болтом",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 14:39:11 +0300",
+      "url": "https://tass.ru/sport/26524209",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В районе ЗАЭС зафиксировали дроны ВСУ",
+      "title_neutral": "В районе ЗАЭС зафиксировали дроны ВСУ",
+      "excerpt": "Украина ранее обстреляла и вывела из строя станцию",
+      "recap_neutral": "Украина ранее обстреляла и вывела из строя станцию",
+      "main_idea": "В районе ЗАЭС зафиксировали дроны ВСУ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 14:33:42 +0300",
+      "url": "https://tass.ru/proisshestviya/26524183",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В сборной Германии считают, что Непряеву дисквалифицируют за ошибку при смене лыж",
+      "title_neutral": "В сборной Германии считают, что Непряеву дисквалифицируют за ошибку при смене лыж",
       "excerpt": "",
-      "recap_neutral": "Песков: Путин не позволяет себе плохих слов в адрес глав других государств",
-      "main_idea": "Песков: Путин не позволяет себе плохих слов в адрес глав других государств",
+      "recap_neutral": "В сборной Германии считают, что Непряеву дисквалифицируют за ошибку при смене лыж",
+      "main_idea": "В сборной Германии считают, что Непряеву дисквалифицируют за ошибку при смене лыж",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 14:32:44 +0300",
+      "url": "https://tass.ru/sport/26524197",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Под Красноярском проверят данные об издевательствах над оленем на Масленицу",
+      "title_neutral": "Под Красноярском проверят данные об издевательствах над оленем на Масленицу",
+      "excerpt": "По данным местных СМИ, на масленичной ярмарке в Сухобузимском изможденного животного заставляли перевозить людей на тяжелых санях",
+      "recap_neutral": "По данным местных СМИ, на масленичной ярмарке в Сухобузимском изможденного животного заставляли перевозить людей на тяжелых санях",
+      "main_idea": "Под Красноярском проверят данные об издевательствах над оленем на Масленицу",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 14:32:10 +0300",
+      "url": "https://tass.ru/obschestvo/26524193",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Венгрия намерена блокировать любые санкционные решения ЕС против РФ",
+      "title_neutral": "Венгрия намерена блокировать любые санкционные решения ЕС против РФ",
+      "excerpt": "",
+      "recap_neutral": "Венгрия намерена блокировать любые санкционные решения ЕС против РФ",
+      "main_idea": "Венгрия намерена блокировать любые санкционные решения ЕС против РФ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 14:29:19 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26524175",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лыжница Непряева заняла 11-е место в марафоне на Олимпиаде",
+      "title_neutral": "Лыжница Непряева заняла 11-е место в марафоне на Олимпиаде",
+      "excerpt": "Победу одержала шведка Эбба Андерссон",
+      "recap_neutral": "Победу одержала шведка Эбба Андерссон",
+      "main_idea": "Лыжница Непряева заняла 11-е место в марафоне на Олимпиаде",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 14:27:36 +0300",
+      "url": "https://tass.ru/sport/26524151",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ВСУ ведут массированный обстрел Каменки-Днепровской",
+      "title_neutral": "ВСУ ведут массированный обстрел Каменки-Днепровской",
+      "excerpt": "Зафиксировано не менее 25 взрывов",
+      "recap_neutral": "Зафиксировано не менее 25 взрывов",
+      "main_idea": "ВСУ ведут массированный обстрел Каменки-Днепровской",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 14:26:14 +0300",
+      "url": "https://tass.ru/proisshestviya/26524141",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве объявили желтый уровень погодной опасности",
+      "title_neutral": "В Москве объявили желтый уровень погодной опасности",
+      "excerpt": "Жителям порекомендовали быть внимательными на улице в непогоду",
+      "recap_neutral": "Жителям порекомендовали быть внимательными на улице в непогоду",
+      "main_idea": "В Москве объявили желтый уровень погодной опасности",
+      "tags": [
+        "climate"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 14:25:08 +0300",
+      "url": "https://tass.ru/obschestvo/26524137",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: европейцы \"сидели в предбаннике\" в Женеве, пока шли переговоры по Украине",
+      "title_neutral": "Лавров: европейцы \"сидели в предбаннике\" в Женеве, пока шли переговоры по Украине",
+      "excerpt": "Встреча РФ, США и Украины проходила 17-18 февраля",
+      "recap_neutral": "Встреча РФ, США и Украины проходила 17-18 февраля",
+      "main_idea": "Лавров: европейцы \"сидели в предбаннике\" в Женеве, пока шли переговоры по Украине",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 14:21:42 +0300",
+      "url": "https://tass.ru/politika/26524097",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Пермском крае при пожаре в доме погибли два человека",
+      "title_neutral": "В Пермском крае при пожаре в доме погибли два человека",
+      "excerpt": "В их числе есть ребенок",
+      "recap_neutral": "В их числе есть ребенок",
+      "main_idea": "В Пермском крае при пожаре в доме погибли два человека",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 14:21:37 +0300",
+      "url": "https://tass.ru/proisshestviya/26524115",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Над регионами России сбили 73 украинских БПЛА",
+      "title_neutral": "Над регионами России сбили 73 украинских БПЛА",
+      "excerpt": "Силы ПВО уничтожили дроны в период с 08:00 до 14:00 мск",
+      "recap_neutral": "Силы ПВО уничтожили дроны в период с 08:00 до 14:00 мск",
+      "main_idea": "Над регионами России сбили 73 украинских БПЛА",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 14:17:03 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26524085",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ВСУ с помощью БПЛА атаковали коммерческий объект в Белгороде",
+      "title_neutral": "ВСУ с помощью БПЛА атаковали коммерческий объект в Белгороде",
+      "excerpt": "Никто не пострадал",
+      "recap_neutral": "Никто не пострадал",
+      "main_idea": "ВСУ с помощью БПЛА атаковали коммерческий объект в Белгороде",
       "tags": [
         "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 14:16:50 +0300",
+      "url": "https://tass.ru/proisshestviya/26524071",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Al Jazeera: Иран не обсуждал с США вопрос вывоза высокообогащенного урана",
+      "title_neutral": "Al Jazeera: Иран не обсуждал с США вопрос вывоза высокообогащенного урана",
+      "excerpt": "В ходе переговоров обсуждались обязательства республики в ядерной сфере, а также обязательство Вашингтона по снятию санкций и экономическое сотрудничество, сообщил телеканал",
+      "recap_neutral": "В ходе переговоров обсуждались обязательства республики в ядерной сфере, а также обязательство Вашингтона по снятию санкций и экономическое сотрудничество, сообщил телеканал",
+      "main_idea": "Al Jazeera: Иран не обсуждал с США вопрос вывоза высокообогащенного урана",
+      "tags": [
+        "economy"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Feb 2026 14:16:20 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26524079",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Песков: Путин не позволяет себе плохих слов в адрес глав других государств",
+      "title_neutral": "Песков: Путин не позволяет себе плохих слов в адрес глав других государств",
+      "excerpt": "Президент России всегда держится в рамках приличия, заявил его пресс-секретарь",
+      "recap_neutral": "Президент России всегда держится в рамках приличия, заявил его пресс-секретарь",
+      "main_idea": "Песков: Путин не позволяет себе плохих слов в адрес глав других государств",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
       ],
       "source": "ТАСС",
       "published_at": "Sun, 22 Feb 2026 14:07:46 +0300",
@@ -200,219 +409,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Глава Минобороны Британии заявил о желании отправить войска на Украину",
-      "title_neutral": "Глава Минобороны Британии заявил о желании отправить войска на Украину",
-      "excerpt": "",
-      "recap_neutral": "Глава Минобороны Британии заявил о желании отправить войска на Украину",
-      "main_idea": "Глава Минобороны Британии заявил о желании отправить войска на Украину",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 14:05:46 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26524023",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ДНР впервые присоединилась к международной акции \"Быть здоровым - это модно\"",
-      "title_neutral": "ДНР впервые присоединилась к международной акции \"Быть здоровым - это модно\"",
-      "excerpt": "В рамках мероприятия 45 жителей одновременно облились холодной водой на морозе",
-      "recap_neutral": "В рамках мероприятия 45 жителей одновременно облились холодной водой на морозе",
-      "main_idea": "ДНР впервые присоединилась к международной акции \"Быть здоровым - это модно\"",
-      "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 14:01:48 +0300",
-      "url": "https://tass.ru/obschestvo/26524017",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Тульской области объявили угрозу атаки БПЛА",
-      "title_neutral": "В Тульской области объявили угрозу атаки БПЛА",
-      "excerpt": "Об этом сообщил глава региона Дмитрий Миляев",
-      "recap_neutral": "Об этом сообщил глава региона Дмитрий Миляев",
-      "main_idea": "В Тульской области объявили угрозу атаки БПЛА",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 14:00:39 +0300",
-      "url": "https://tass.ru/proisshestviya/26524013",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Бортников: Россия никогда не забудет и не простит преступлений киевского режима",
-      "title_neutral": "Бортников: Россия никогда не забудет и не простит преступлений киевского режима",
-      "excerpt": "",
-      "recap_neutral": "Бортников: Россия никогда не забудет и не простит преступлений киевского режима",
-      "main_idea": "Бортников: Россия никогда не забудет и не простит преступлений киевского режима",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 13:59:16 +0300",
-      "url": "https://tass.ru/politika/26524007",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Бортников: за покушением на генерала Алексеева видится кураторство третьих стран",
-      "title_neutral": "Бортников: за покушением на генерала Алексеева видится кураторство третьих стран",
-      "excerpt": "",
-      "recap_neutral": "Бортников: за покушением на генерала Алексеева видится кураторство третьих стран",
-      "main_idea": "Бортников: за покушением на генерала Алексеева видится кураторство третьих стран",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 13:56:16 +0300",
-      "url": "https://tass.ru/politika/26524001",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В МЧС предупредили о метели и сильном ветре в Москве в ближайшее время",
-      "title_neutral": "В МЧС предупредили о метели и сильном ветре в Москве в ближайшее время",
-      "excerpt": "Пешеходам порекомендовали, находясь на улице, обходить рекламные щиты и шаткие конструкции",
-      "recap_neutral": "Пешеходам порекомендовали, находясь на улице, обходить рекламные щиты и шаткие конструкции",
-      "main_idea": "В МЧС предупредили о метели и сильном ветре в Москве в ближайшее время",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 13:54:06 +0300",
-      "url": "https://tass.ru/obschestvo/26523983",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Венгрия не будет прекращать поставки электроэнергии на Украину",
-      "title_neutral": "Венгрия не будет прекращать поставки электроэнергии на Украину",
-      "excerpt": "Министр иностранных дел и внешнеэкономических связей страны Петер Сийярто рассказал, что правительство пришло к выводу о необходимости \"проявлять крайнюю осторожность в этом вопросе, поскольку венгры также живут по другую сторону границы, и прекращение экспорта электроэнергии в первую очередь затро…",
-      "recap_neutral": "Министр иностранных дел и внешнеэкономических связей страны Петер Сийярто рассказал, что правительство пришло к выводу о необходимости \"проявлять крайнюю осторожность в этом вопросе, поскольку венгры также живут по друг…",
-      "main_idea": "Венгрия не будет прекращать поставки электроэнергии на Украину",
-      "tags": [
-        "politics",
-        "economy",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 13:49:11 +0300",
-      "url": "https://tass.ru/ekonomika/26523957",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Потребители шести регионов Украины остались без света",
-      "title_neutral": "Потребители шести регионов Украины остались без света",
-      "excerpt": "Речь идет об Одесской, Киевской, Николаевской, Днепропетровской, Запорожской и Полтавской областях",
-      "recap_neutral": "Речь идет об Одесской, Киевской, Николаевской, Днепропетровской, Запорожской и Полтавской областях",
-      "main_idea": "Потребители шести регионов Украины остались без света",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 13:48:55 +0300",
-      "url": "https://tass.ru/proisshestviya/26523949",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Бердянске прошло групповое обливание водой",
-      "title_neutral": "В Бердянске прошло групповое обливание водой",
-      "excerpt": "Мероприятие состоялось в рамках акции \"Быть здоровым - это модно\"",
-      "recap_neutral": "Мероприятие состоялось в рамках акции \"Быть здоровым - это модно\"",
-      "main_idea": "В Бердянске прошло групповое обливание водой",
-      "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 13:48:02 +0300",
-      "url": "https://tass.ru/obschestvo/26523955",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Энергодаре запустили водоснабжение",
-      "title_neutral": "В Энергодаре запустили водоснабжение",
-      "excerpt": "Специалисты занимаются подачей электроэнергии на объекты теплоснабжения",
-      "recap_neutral": "Специалисты занимаются подачей электроэнергии на объекты теплоснабжения",
-      "main_idea": "В Энергодаре запустили водоснабжение",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 13:41:02 +0300",
-      "url": "https://tass.ru/obschestvo/26523935",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Непряеву могут снять с гонки за использование чужих лыж во время марафона",
-      "title_neutral": "Непряеву могут снять с гонки за использование чужих лыж во время марафона",
-      "excerpt": "Российская спортсменка во время гонки на Олимпиаде по ошибке заехала в бокс немки Катарины Хенних Дотцлер",
-      "recap_neutral": "Российская спортсменка во время гонки на Олимпиаде по ошибке заехала в бокс немки Катарины Хенних Дотцлер",
-      "main_idea": "Непряеву могут снять с гонки за использование чужих лыж во время марафона",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 13:39:31 +0300",
-      "url": "https://tass.ru/sport/26523943",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Дания дополнительно направит $600 млн на военную помощь Украине",
-      "title_neutral": "Дания дополнительно направит $600 млн на военную помощь Украине",
-      "excerpt": "Расходы королевства на оборону составят в текущем году 3,5% ВВП",
-      "recap_neutral": "Расходы королевства на оборону составят в текущем году 3,5% ВВП",
-      "main_idea": "Дания дополнительно направит $600 млн на военную помощь Украине",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 13:38:09 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26523911",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Ярославской области в ДТП с грузовиком погибли три человека",
-      "title_neutral": "В Ярославской области в ДТП с грузовиком погибли три человека",
-      "excerpt": "В их числе был подросток",
-      "recap_neutral": "В их числе был подросток",
-      "main_idea": "В Ярославской области в ДТП с грузовиком погибли три человека",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Feb 2026 13:35:59 +0300",
-      "url": "https://tass.ru/proisshestviya/26523907",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Pakistan launches deadly strikes on Afghanistan",
       "title_neutral": "Pakistan launches deadly strikes on Afghanistan",
       "excerpt": "Pakistan says the strikes were retaliation for recent suicide bombings in the country.",
@@ -422,11 +418,43 @@
         "conflict"
       ],
       "source": "BBC World",
-      "published_at": "Sun, 22 Feb 2026 10:59:05 GMT",
+      "published_at": "Sun, 22 Feb 2026 11:33:11 GMT",
       "url": "https://www.bbc.com/news/articles/cdxgln3gnd6o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US ambassador's Israel comments condemned by Arab and Muslim nations",
+      "title_neutral": "US ambassador's Israel comments condemned by Arab and Muslim nations",
+      "excerpt": "Mike Huckabee suggested Israel would be justified in taking much of the Middle East on Biblical grounds.",
+      "recap_neutral": "Mike Huckabee suggested Israel would be justified in taking much of the Middle East on Biblical grounds",
+      "main_idea": "US ambassador's Israel comments condemned by Arab and Muslim nations",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sun, 22 Feb 2026 11:23:20 GMT",
+      "url": "https://www.bbc.com/news/articles/cn5gkkgdzkyo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How Tokenization Makes Recurring Payments Safer for Merchants and Cardholders",
+      "title_neutral": "How Tokenization Makes Recurring Payments Safer for Merchants and Cardholders",
+      "excerpt": "Recurring payments are merchant-initiated transactions that traditionally require storing card details, increasing security and PCI risks. Tokenization replaces sensitive card data with merchant-specific tokens and cryptograms, reducing fraud exposure, shrinking compliance scope, and improving auth…",
+      "recap_neutral": "Recurring payments are merchant-initiated transactions that traditionally require storing card details, increasing security and PCI risks",
+      "main_idea": "How Tokenization Makes Recurring Payments Safer for Merchants and Cardholders",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 22 Feb 2026 10:55:40 GMT",
+      "url": "https://hackernoon.com/how-tokenization-makes-recurring-payments-safer-for-merchants-and-cardholders?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -442,6 +470,23 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Slower Hiring, Higher Wages: How UK SMEs Can Rebalance Workforce Costs in 2026",
+      "title_neutral": "Slower Hiring, Higher Wages: How UK SMEs Can Rebalance Workforce Costs in 2026",
+      "excerpt": "With minimum and living wage increases arriving in April 2026 and hiring slowing across the UK, SMEs can no longer rely on workforce expansion to drive growth. Instead, sustainable cost control will depend on reducing payroll inefficiencies, improving visibility, protecting retention, and tightenin…",
+      "recap_neutral": "With minimum and living wage increases arriving in April 2026 and hiring slowing across the UK, SMEs can no longer rely on workforce expansion to drive growth",
+      "main_idea": "Slower Hiring, Higher Wages: How UK SMEs Can Rebalance Workforce Costs in 2026",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 22 Feb 2026 10:44:33 GMT",
+      "url": "https://hackernoon.com/slower-hiring-higher-wages-how-uk-smes-can-rebalance-workforce-costs-in-2026?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -706,6 +751,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Why Successful Companies Like Netflix Always Kill the Free Tier",
+      "title_neutral": "Why Successful Companies Like Netflix Always Kill the Free Tier",
+      "excerpt": "Startups give value away to build brand, then tighten paywalls to grow revenue. Here’s how to choose your spot.",
+      "recap_neutral": "Startups give value away to build brand, then tighten paywalls to grow revenue",
+      "main_idea": "Why Successful Companies Like Netflix Always Kill the Free Tier",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sun, 22 Feb 2026 00:44:59 GMT",
+      "url": "https://hackernoon.com/why-successful-companies-like-netflix-always-kill-the-free-tier?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "How I use Claude Code: Separation of planning and execution",
       "title_neutral": "How I use Claude Code: Separation of planning and execution",
       "excerpt": "Comments",
@@ -718,6 +778,53 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Most Painful Startup Failure: Loved Product, Zero Business",
+      "title_neutral": "The Most Painful Startup Failure: Loved Product, Zero Business",
+      "excerpt": "PMF can win users but still kill your startup.",
+      "recap_neutral": "PMF can win users but still kill your startup",
+      "main_idea": "The Most Painful Startup Failure: Loved Product, Zero Business",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 22 Feb 2026 00:14:59 GMT",
+      "url": "https://hackernoon.com/the-most-painful-startup-failure-loved-product-zero-business?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Ancient Secrets Hidden Inside Your LLM",
+      "title_neutral": "The Ancient Secrets Hidden Inside Your LLM",
+      "excerpt": "A quick look at how today’s large language models trace back to ancient philosophy and why they rely on probability rather than true understanding.",
+      "recap_neutral": "A quick look at how today’s large language models trace back to ancient philosophy and why they rely on probability rather than true understanding",
+      "main_idea": "The Ancient Secrets Hidden Inside Your LLM",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sat, 21 Feb 2026 23:59:59 GMT",
+      "url": "https://hackernoon.com/the-ancient-secrets-hidden-inside-your-llm?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Subscription Revenue Playbook, Part 1: Scaling from $10M to $50M ARR",
+      "title_neutral": "Subscription Revenue Playbook, Part 1: Scaling from $10M to $50M ARR",
+      "excerpt": "A former Codecademy growth lead shares hard-won lessons on monetizing freemium B2C SaaS—what they screwed up, what worked, and how to grow LTV.",
+      "recap_neutral": "A former Codecademy growth lead shares hard-won lessons on monetizing freemium B2C SaaS—what they screwed up, what worked, and how to grow LTV",
+      "main_idea": "Subscription Revenue Playbook, Part 1: Scaling from $10M to $50M ARR",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sat, 21 Feb 2026 23:44:59 GMT",
+      "url": "https://hackernoon.com/subscription-revenue-playbook-part-1-scaling-from-$10m-to-$50m-arr?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1289,23 +1396,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Educational Byte: Why Most Crypto Networks Have Fees?",
-      "title_neutral": "Educational Byte: Why Most Crypto Networks Have Fees?",
-      "excerpt": "Crypto was built to be open, fast, and available for everyone, anywhere. It’s also decentralized, with no single central party behind. There *are* fees every time you transact, even if your action isn't a payment.",
-      "recap_neutral": "Crypto was built to be open, fast, and available for everyone, anywhere",
-      "main_idea": "Educational Byte: Why Most Crypto Networks Have Fees?",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 21 Feb 2026 12:39:08 GMT",
-      "url": "https://hackernoon.com/educational-byte-why-most-crypto-networks-have-fees?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
       "title_neutral": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
       "excerpt": "Comments",
@@ -1355,25 +1445,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A 2026 Outlook: Markets, Macro Turbulence, and Crypto’s Maturation",
-      "title_neutral": "A 2026 Outlook: Markets, Macro Turbulence, and Crypto’s Maturation",
-      "excerpt": "This essay frames 2026 as a year of heightened geopolitical and macro uncertainty that forces crypto to mature: away from meme-driven speculation and toward “value” via tokenization, privacy infrastructure, stablecoin expansion, and a renewed focus on DeFi. It argues that hard assets and real-world…",
-      "recap_neutral": "This essay frames 2026 as a year of heightened geopolitical and macro uncertainty that forces crypto to mature: away from meme-driven speculation and toward “value” via tokenization, privacy infrastructure, stablecoin e…",
-      "main_idea": "A 2026 Outlook: Markets, Macro Turbulence, and Crypto’s Maturation",
-      "tags": [
-        "economy",
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 21 Feb 2026 10:00:05 GMT",
-      "url": "https://hackernoon.com/a-2026-outlook-markets-macro-turbulence-and-cryptos-maturation?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "At A.I. Summit, India Tries to Find a Way Between the U.S. and China",
       "title_neutral": "At A.I. Summit, India Tries to Find a Way Between the U.S. and China",
       "excerpt": "India is using technology as a tool of foreign policy, casting itself as a moral voice for smaller, developing countries.",
@@ -1388,21 +1459,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Avalanches kill five in Austrian Alps, officials say",
-      "title_neutral": "Avalanches kill five in Austrian Alps, officials say",
-      "excerpt": "A man skiing with his son was among the victims on Friday, bringing the region's avalanche death toll this season to at least 21.",
-      "recap_neutral": "A man skiing with his son was among the victims on Friday, bringing the region's avalanche death toll this season to at least 21",
-      "main_idea": "Avalanches kill five in Austrian Alps, officials say",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 21 Feb 2026 08:46:40 GMT",
-      "url": "https://www.bbc.com/news/articles/c5yqgz2q58lo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1438,55 +1494,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Important Lessons Every Beginner Writer Should Know",
-      "title_neutral": "Important Lessons Every Beginner Writer Should Know",
-      "excerpt": "Becoming a writer is easy, but becoming serious about your writing is a whole lot harder and more complex. Here are some important lessons every beginner writer should know.",
-      "recap_neutral": "Becoming a writer is easy, but becoming serious about your writing is a whole lot harder and more complex",
-      "main_idea": "Important Lessons Every Beginner Writer Should Know",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sat, 21 Feb 2026 02:30:44 GMT",
-      "url": "https://hackernoon.com/important-lessons-every-beginner-writer-should-know?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Turn Any Image Into a Video—Fast: Vidu Q3 Turbo on fal.ai",
-      "title_neutral": "Turn Any Image Into a Video—Fast: Vidu Q3 Turbo on fal.ai",
-      "excerpt": "Simplified guide to fal.ai’s Vidu Q3 Turbo image-to-video model—turn a single image into a coherent clip fast, with tips for motion and consistency.",
-      "recap_neutral": "Simplified guide to fal",
-      "main_idea": "Turn Any Image Into a Video—Fast: Vidu Q3 Turbo on fal.ai",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 21 Feb 2026 01:29:59 GMT",
-      "url": "https://hackernoon.com/turn-any-image-into-a-videofast-vidu-q3-turbo-on-falai?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Data Stack’s Next Form Factor: Multi-Agent Systems",
-      "title_neutral": "The Data Stack’s Next Form Factor: Multi-Agent Systems",
-      "excerpt": "Traditional data platforms rely on centralized monoliths and complex engineering pipelines that often create bottlenecks for business decision-makers. This article introduces Da2a, an open-source prototype that proposes a decentralized, agentic architecture where specialized Domain Agents (e.g., Ma…",
-      "recap_neutral": "Traditional data platforms rely on centralized monoliths and complex engineering pipelines that often create bottlenecks for business decision-makers",
-      "main_idea": "The Data Stack’s Next Form Factor: Multi-Agent Systems",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 21 Feb 2026 00:59:59 GMT",
-      "url": "https://hackernoon.com/the-data-stacks-next-form-factor-multi-agent-systems?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Claws are now a new layer on top of LLM agents",
       "title_neutral": "Claws are now a new layer on top of LLM agents",
       "excerpt": "Comments",
@@ -1499,21 +1506,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Fix for Hallucinating Medical Models Isn’t Bigger Data",
-      "title_neutral": "The Fix for Hallucinating Medical Models Isn’t Bigger Data",
-      "excerpt": "",
-      "recap_neutral": "The Fix for Hallucinating Medical Models Isn’t Bigger Data",
-      "main_idea": "The Fix for Hallucinating Medical Models Isn’t Bigger Data",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sat, 21 Feb 2026 00:45:00 GMT",
-      "url": "https://hackernoon.com/the-fix-for-hallucinating-medical-models-isnt-bigger-data?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
