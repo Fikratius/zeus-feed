@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T06:32:39.162349+00:00",
+  "last_updated": "2026-02-28T07:23:07.303935+00:00",
   "items": [
     {
       "title_original": "Show HN: I ported Manim to TypeScript (run 3b1B math animations in the browser)",
@@ -48,6 +48,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Package Managers à la Carte: a formal model of dependency resolution",
+      "title_neutral": "Package Managers à la Carte: a formal model of dependency resolution",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Package Managers à la Carte: a formal model of dependency resolution",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 24 Feb 2026 12:27:44 +0000",
+      "url": "https://arxiv.org/abs/2602.18602",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -135,258 +150,297 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Израиле прозвучали сирены воздушной тревоги",
-      "title_neutral": "В Израиле прозвучали сирены воздушной тревоги",
-      "excerpt": "Сирены прозвучали для подготовки к возможному запуску ракет по территории еврейского государства",
-      "recap_neutral": "Сирены прозвучали для подготовки к возможному запуску ракет по территории еврейского государства",
-      "main_idea": "В Израиле прозвучали сирены воздушной тревоги",
+      "title_original": "Депут Рады Гетманцев: на Украине нет человека, который может заключить мир",
+      "title_neutral": "Депут Рады Гетманцев: на Украине нет человека, который может заключить мир",
+      "excerpt": "Переговорщики должны достичь лучших для Киева условий с учетом нынешних обстоятельств и дать возможность людям голосовать \"за\" или \"против\" на референдуме, считает парламентарий",
+      "recap_neutral": "Переговорщики должны достичь лучших для Киева условий с учетом нынешних обстоятельств и дать возможность людям голосовать \"за\" или \"против\" на референдуме, считает парламентарий",
+      "main_idea": "Депут Рады Гетманцев: на Украине нет человека, который может заключить мир",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 28 Feb 2026 10:19:22 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26583977",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Хоккеист Лебедев рассказал о впечатлениях от просмотра американского футбола",
+      "title_neutral": "Хоккеист Лебедев рассказал о впечатлениях от просмотра американского футбола",
+      "excerpt": "Ему понравилась комбинационная составляющая игры",
+      "recap_neutral": "Ему понравилась комбинационная составляющая игры",
+      "main_idea": "Хоккеист Лебедев рассказал о впечатлениях от просмотра американского футбола",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 28 Feb 2026 10:17:28 +0300",
+      "url": "https://tass.ru/sport/26583997",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Торги на Тегеранской фондовой бирже остановлены",
+      "title_neutral": "Торги на Тегеранской фондовой бирже остановлены",
+      "excerpt": "Решение было принято из-за информации о нескольких взрывах, прогремевших в городе",
+      "recap_neutral": "Решение было принято из-за информации о нескольких взрывах, прогремевших в городе",
+      "main_idea": "Торги на Тегеранской фондовой бирже остановлены",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 28 Feb 2026 10:17:10 +0300",
+      "url": "https://tass.ru/ekonomika/26583959",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МЧС России определило лучшее защитное убежище в 2025 году",
+      "title_neutral": "МЧС России определило лучшее защитное убежище в 2025 году",
+      "excerpt": "Итоги конкурса объявили в ходе X Международной научно-практической конференции \"Гражданская оборона на страже мира и безопасности\", посвященной Всемирному дню гражданской обороны",
+      "recap_neutral": "Итоги конкурса объявили в ходе X Международной научно-практической конференции \"Гражданская оборона на страже мира и безопасности\", посвященной Всемирному дню гражданской обороны",
+      "main_idea": "МЧС России определило лучшее защитное убежище в 2025 году",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 28 Feb 2026 10:15:14 +0300",
+      "url": "https://tass.ru/obschestvo/26583919",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Верховного лидера Ирана вывезли из Тегерана в безопасное место",
+      "title_neutral": "Верховного лидера Ирана вывезли из Тегерана в безопасное место",
+      "excerpt": "",
+      "recap_neutral": "Верховного лидера Ирана вывезли из Тегерана в безопасное место",
+      "main_idea": "Верховного лидера Ирана вывезли из Тегерана в безопасное место",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 28 Feb 2026 10:11:50 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26583913",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Суд взыскал в пользу театра Надежды Бабкиной \"Русская песня\" 50 тыс. рублей",
+      "title_neutral": "Суд взыскал в пользу театра Надежды Бабкиной \"Русская песня\" 50 тыс. рублей",
+      "excerpt": "Также суд отменил предписание МЧС, выданное театру, о восстановлении защитного сооружения гражданской обороны в подвальных помещениях здания на Садовой-Черногрязской улице",
+      "recap_neutral": "Также суд отменил предписание МЧС, выданное театру, о восстановлении защитного сооружения гражданской обороны в подвальных помещениях здания на Садовой-Черногрязской улице",
+      "main_idea": "Суд взыскал в пользу театра Надежды Бабкиной \"Русская песня\" 50 тыс. рублей",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 28 Feb 2026 10:11:40 +0300",
+      "url": "https://tass.ru/ekonomika/26583905",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Германии создали биогибридных насекомых для разведки в труднодоступных местах",
+      "title_neutral": "В Германии создали биогибридных насекомых для разведки в труднодоступных местах",
+      "excerpt": "По данным портала Army Recognition, разработка предназначена для разведки прежде всего в городской и подземной средах",
+      "recap_neutral": "По данным портала Army Recognition, разработка предназначена для разведки прежде всего в городской и подземной средах",
+      "main_idea": "В Германии создали биогибридных насекомых для разведки в труднодоступных местах",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 28 Feb 2026 10:10:33 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26583903",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп назвал продолжение конфликта на Украине сумасшествием",
+      "title_neutral": "Трамп назвал продолжение конфликта на Украине сумасшествием",
+      "excerpt": "Американский лидер не ответил на просьбу пояснить, приближаются ли, по его оценке, стороны к достижению договоренности об урегулировании на Украине",
+      "recap_neutral": "Американский лидер не ответил на просьбу пояснить, приближаются ли, по его оценке, стороны к достижению договоренности об урегулировании на Украине",
+      "main_idea": "Трамп назвал продолжение конфликта на Украине сумасшествием",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 28 Feb 2026 09:26:17 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26583603",
+      "published_at": "Sat, 28 Feb 2026 10:07:09 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26583777",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Tasnim: в Тегеране произошел взрыв",
-      "title_neutral": "Tasnim: в Тегеране произошел взрыв",
-      "excerpt": "",
-      "recap_neutral": "Tasnim: в Тегеране произошел взрыв",
-      "main_idea": "Tasnim: в Тегеране произошел взрыв",
+      "title_original": "Британский тренер Фреклтон заявил, что хочет помочь российским легкоатлетам",
+      "title_neutral": "Британский тренер Фреклтон заявил, что хочет помочь российским легкоатлетам",
+      "excerpt": "Ранее специалиста назначили старшим тренером сборной России",
+      "recap_neutral": "Ранее специалиста назначили старшим тренером сборной России",
+      "main_idea": "Британский тренер Фреклтон заявил, что хочет помочь российским легкоатлетам",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 28 Feb 2026 10:07:03 +0300",
+      "url": "https://tass.ru/sport/26583891",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Эдгард Запашный вновь поедет в Донецк с гуманитарной миссией",
+      "title_neutral": "Эдгард Запашный вновь поедет в Донецк с гуманитарной миссией",
+      "excerpt": "По словам директора цирка, приезд любого знаменитого человека с гуманитарной или развлекательной миссией всегда несет пользу",
+      "recap_neutral": "По словам директора цирка, приезд любого знаменитого человека с гуманитарной или развлекательной миссией всегда несет пользу",
+      "main_idea": "Эдгард Запашный вновь поедет в Донецк с гуманитарной миссией",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 28 Feb 2026 09:23:09 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26583589",
+      "published_at": "Sat, 28 Feb 2026 10:06:53 +0300",
+      "url": "https://tass.ru/obschestvo/26583829",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Компания \"Коинкит\" зафиксировала кражу криптоактивов на $388 тыс.",
-      "title_neutral": "Компания \"Коинкит\" зафиксировала кражу криптоактивов на $388 тыс.",
-      "excerpt": "Атака была осуществлена с использованием фишинговой схемы",
-      "recap_neutral": "Атака была осуществлена с использованием фишинговой схемы",
-      "main_idea": "Компания \"Коинкит\" зафиксировала кражу криптоактивов на $388 тыс.",
+      "title_original": "Fars: взрывы слышны в Тегеране, Исфахане, Куме, Кередже и Керманшахе",
+      "title_neutral": "Fars: взрывы слышны в Тегеране, Исфахане, Куме, Кередже и Керманшахе",
+      "excerpt": "",
+      "recap_neutral": "Fars: взрывы слышны в Тегеране, Исфахане, Куме, Кередже и Керманшахе",
+      "main_idea": "Fars: взрывы слышны в Тегеране, Исфахане, Куме, Кередже и Керманшахе",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 28 Feb 2026 10:06:41 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26583897",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Наблюдения за белыми медведями с помощью БПЛА войдут в экомониторинг Севморпути",
+      "title_neutral": "Наблюдения за белыми медведями с помощью БПЛА войдут в экомониторинг Севморпути",
+      "excerpt": "Беспилотники могут быть использованы для оценки состояния популяции белого медведя и среды его обитания",
+      "recap_neutral": "Беспилотники могут быть использованы для оценки состояния популяции белого медведя и среды его обитания",
+      "main_idea": "Наблюдения за белыми медведями с помощью БПЛА войдут в экомониторинг Севморпути",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 28 Feb 2026 10:04:52 +0300",
+      "url": "https://tass.ru/obschestvo/26583805",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: девочку в Смоленске похитили на оформленной на несуществующего человека машине",
+      "title_neutral": "ТАСС: девочку в Смоленске похитили на оформленной на несуществующего человека машине",
+      "excerpt": "За время поисков машина не выезжала за пределы района, где был похищен ребенок",
+      "recap_neutral": "За время поисков машина не выезжала за пределы района, где был похищен ребенок",
+      "main_idea": "ТАСС: девочку в Смоленске похитили на оформленной на несуществующего человека машине",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 28 Feb 2026 10:03:51 +0300",
+      "url": "https://tass.ru/proisshestviya/26583823",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МО Афганистана сообщило о новых авиаударах по объектам в Пакистане",
+      "title_neutral": "МО Афганистана сообщило о новых авиаударах по объектам в Пакистане",
+      "excerpt": "Были поражены военные базы Мираншах и Спинвам, сообщило военное ведомство",
+      "recap_neutral": "Были поражены военные базы Мираншах и Спинвам, сообщило военное ведомство",
+      "main_idea": "МО Афганистана сообщило о новых авиаударах по объектам в Пакистане",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 28 Feb 2026 09:22:44 +0300",
-      "url": "https://tass.ru/ekonomika/26583581",
+      "published_at": "Sat, 28 Feb 2026 10:02:40 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26583837",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Олимпийскую чемпионку Ласицкене не внесли в новые пулы допинг-тестирования",
-      "title_neutral": "Олимпийскую чемпионку Ласицкене не внесли в новые пулы допинг-тестирования",
-      "excerpt": "Ранее спортсменку включили в список кандидатов в сборную России по легкой атлетике на 2026 год",
-      "recap_neutral": "Ранее спортсменку включили в список кандидатов в сборную России по легкой атлетике на 2026 год",
-      "main_idea": "Олимпийскую чемпионку Ласицкене не внесли в новые пулы допинг-тестирования",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Feb 2026 09:22:43 +0300",
-      "url": "https://tass.ru/sport/26583583",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Объявлены задержки рейсов Azur Air из Вьетнама в города РФ и обратно",
-      "title_neutral": "Объявлены задержки рейсов Azur Air из Вьетнама в города РФ и обратно",
-      "excerpt": "Задержки составляют от двух часов и до более суток",
-      "recap_neutral": "Задержки составляют от двух часов и до более суток",
-      "main_idea": "Объявлены задержки рейсов Azur Air из Вьетнама в города РФ и обратно",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Feb 2026 09:22:11 +0300",
-      "url": "https://tass.ru/obschestvo/26583573",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Володин рассказал о законах, вступающих в силу в марте",
-      "title_neutral": "Володин рассказал о законах, вступающих в силу в марте",
-      "excerpt": "Председатель ГД отметил, что начнет действовать система \"Антифрод\" для выявления мошенников",
-      "recap_neutral": "Председатель ГД отметил, что начнет действовать система \"Антифрод\" для выявления мошенников",
-      "main_idea": "Володин рассказал о законах, вступающих в силу в марте",
+      "title_original": "Гимнастка Солдатова назвала участника ОИ фигуриста Гуменника Петром Великим",
+      "title_neutral": "Гимнастка Солдатова назвала участника ОИ фигуриста Гуменника Петром Великим",
+      "excerpt": "Спортсмен занял на Играх шестое место",
+      "recap_neutral": "Спортсмен занял на Играх шестое место",
+      "main_idea": "Гимнастка Солдатова назвала участника ОИ фигуриста Гуменника Петром Великим",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 28 Feb 2026 09:21:03 +0300",
-      "url": "https://tass.ru/obschestvo/26583567",
+      "published_at": "Sat, 28 Feb 2026 10:01:19 +0300",
+      "url": "https://tass.ru/sport/26583803",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В ПКР назвали участников церемонии открытия Паралимпиады от сборной России",
-      "title_neutral": "В ПКР назвали участников церемонии открытия Паралимпиады от сборной России",
-      "excerpt": "Мероприятие пройдет 6 марта",
-      "recap_neutral": "Мероприятие пройдет 6 марта",
-      "main_idea": "В ПКР назвали участников церемонии открытия Паралимпиады от сборной России",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Feb 2026 09:19:47 +0300",
-      "url": "https://tass.ru/sport/26583561",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ТАСС: ВС РФ уничтожили операторов БПЛА элитного полка ВСУ на Днепропетровщине",
-      "title_neutral": "ТАСС: ВС РФ уничтожили операторов БПЛА элитного полка ВСУ на Днепропетровщине",
-      "excerpt": "Они прикрывали украинское наступление, сообщили в российских силовых структурах",
-      "recap_neutral": "Они прикрывали украинское наступление, сообщили в российских силовых структурах",
-      "main_idea": "ТАСС: ВС РФ уничтожили операторов БПЛА элитного полка ВСУ на Днепропетровщине",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Feb 2026 09:18:35 +0300",
-      "url": "https://tass.ru/armiya-i-opk/26583551",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В федерации разберутся с условиями тренировок чемпионки мира по велотреку",
-      "title_neutral": "В федерации разберутся с условиями тренировок чемпионки мира по велотреку",
-      "excerpt": "Ранее Яна Бурлакова пожаловалась на загруженность велотрека в Крылатском",
-      "recap_neutral": "Ранее Яна Бурлакова пожаловалась на загруженность велотрека в Крылатском",
-      "main_idea": "В федерации разберутся с условиями тренировок чемпионки мира по велотреку",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Feb 2026 09:15:43 +0300",
-      "url": "https://tass.ru/sport/26583549",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Первые представители российской делегации вылетели на Паралимпиаду в Италии",
-      "title_neutral": "Первые представители российской делегации вылетели на Паралимпиаду в Италии",
-      "excerpt": "Соревнования пройдут 6-15 марта",
-      "recap_neutral": "Соревнования пройдут 6-15 марта",
-      "main_idea": "Первые представители российской делегации вылетели на Паралимпиаду в Италии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Feb 2026 09:12:37 +0300",
-      "url": "https://tass.ru/sport/26583543",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Тульской области при пожаре погибли пять человек",
-      "title_neutral": "В Тульской области при пожаре погибли пять человек",
-      "excerpt": "Их личности устанавливаются",
-      "recap_neutral": "Их личности устанавливаются",
-      "main_idea": "В Тульской области при пожаре погибли пять человек",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Feb 2026 09:11:19 +0300",
-      "url": "https://tass.ru/proisshestviya/26583539",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Анахайм\" обыграл \"Виннипег\" в матче НХЛ благодаря голу и передаче Минтюкова",
-      "title_neutral": "\"Анахайм\" обыграл \"Виннипег\" в матче НХЛ благодаря голу и передаче Минтюкова",
-      "excerpt": "Встреча завершилась победой \"Анхайма\" в овертайме",
-      "recap_neutral": "Встреча завершилась победой \"Анхайма\" в овертайме",
-      "main_idea": "\"Анахайм\" обыграл \"Виннипег\" в матче НХЛ благодаря голу и передаче Минтюкова",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Feb 2026 09:09:32 +0300",
-      "url": "https://tass.ru/sport/26583537",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Рожков: российские паралимпийцы прошли финальную регистрацию на Игры",
-      "title_neutral": "Рожков: российские паралимпийцы прошли финальную регистрацию на Игры",
+      "title_original": "The U.S. last bombed Iran in June, striking three nuclear facilities.",
+      "title_neutral": "The U.S. last bombed Iran in June, striking three nuclear facilities.",
       "excerpt": "",
-      "recap_neutral": "Рожков: российские паралимпийцы прошли финальную регистрацию на Игры",
-      "main_idea": "Рожков: российские паралимпийцы прошли финальную регистрацию на Игры",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Feb 2026 09:06:57 +0300",
-      "url": "https://tass.ru/sport/26583529",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Аналитики: спрос на покупку коммерческой недвижимости вырос до 7% за квартал",
-      "title_neutral": "Аналитики: спрос на покупку коммерческой недвижимости вырос до 7% за квартал",
-      "excerpt": "В сегменте продажи офисов класса А за IV квартал 2025 года наибольший рост спроса отмечался на объекты площадью более 500 кв. м, говорится в материалах \"Авито Недвижимости\"",
-      "recap_neutral": "В сегменте продажи офисов класса А за IV квартал 2025 года наибольший рост спроса отмечался на объекты площадью более 500 кв",
-      "main_idea": "Аналитики: спрос на покупку коммерческой недвижимости вырос до 7% за квартал",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Feb 2026 09:06:31 +0300",
-      "url": "https://tass.ru/nedvizhimost/26583527",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Сбежавший из-под конвоя в Москве ранее был судим за серию краж жвачки",
-      "title_neutral": "Сбежавший из-под конвоя в Москве ранее был судим за серию краж жвачки",
-      "excerpt": "Шамиля Алиева задержали в одном из хостелов на Кузьминской улице",
-      "recap_neutral": "Шамиля Алиева задержали в одном из хостелов на Кузьминской улице",
-      "main_idea": "Сбежавший из-под конвоя в Москве ранее был судим за серию краж жвачки",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Feb 2026 09:04:56 +0300",
-      "url": "https://tass.ru/proisshestviya/26583497",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Here’s the latest.",
-      "title_neutral": "Here’s the latest.",
-      "excerpt": "",
-      "recap_neutral": "Here’s the latest.",
-      "main_idea": "Here’s the latest.",
+      "recap_neutral": "The U.S. last bombed Iran in June, striking three nuclear facilities.",
+      "main_idea": "The U.S. last bombed Iran in June, striking three nuclear facilities.",
       "tags": [],
       "source": "NYTimes World",
-      "published_at": "Sat, 28 Feb 2026 06:23:01 +0000",
-      "url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump/iran-strikes-us",
+      "published_at": "Sat, 28 Feb 2026 07:12:28 +0000",
+      "url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump/the-us-last-bombed-iran-in-june-striking-three-nuclear-facilities",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US and Israel carrying out strikes against Iran",
+      "title_neutral": "US and Israel carrying out strikes against Iran",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "US and Israel carrying out strikes against Iran",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sat, 28 Feb 2026 07:00:18 +0000",
+      "url": "https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "U.S. and Israel Conduct Strikes on Iran",
+      "title_neutral": "U.S. and Israel Conduct Strikes on Iran",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "U.S. and Israel Conduct Strikes on Iran",
+      "tags": [
+        "conflict"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sat, 28 Feb 2026 06:57:46 +0000",
+      "url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -416,6 +470,21 @@
       "source": "Hacker News",
       "published_at": "Sat, 28 Feb 2026 05:55:01 +0000",
       "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Rust Is Just a Tool",
+      "title_neutral": "Rust Is Just a Tool",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Rust Is Just a Tool",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 28 Feb 2026 05:47:39 +0000",
+      "url": "https://lewiscampbell.tech/blog/260204.html",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -506,23 +575,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
-      "title_neutral": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 28 Feb 2026 03:23:16 +0000",
-      "url": "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Don't use passkeys for encrypting user data",
       "title_neutral": "Don't use passkeys for encrypting user data",
       "excerpt": "Comments",
@@ -538,11 +590,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "At least 15 killed as cash-laden military cargo plane crashes in Bolivia",
-      "title_neutral": "At least 15 killed as cash-laden military cargo plane crashes in Bolivia",
-      "excerpt": "Riot police use teargas to disperse people gathering around wreckage of plane loaded with money from central bank At least 15 people have died after a military cargo plane carrying banknotes crashed on Friday near Bolivia’s capital, damaging about a dozen vehicles on a highway and scattering bills…",
-      "recap_neutral": "Riot police use teargas to disperse people gathering around wreckage of plane loaded with money from central bank At least 15 people have died after a military cargo plane carrying banknotes crashed on Friday near Boliv…",
-      "main_idea": "At least 15 killed as cash-laden military cargo plane crashes in Bolivia",
+      "title_original": "At least 20 killed as cash-laden military cargo plane crashes in Bolivia",
+      "title_neutral": "At least 20 killed as cash-laden military cargo plane crashes in Bolivia",
+      "excerpt": "Riot police use teargas to disperse people gathering around wreckage of plane loaded with money from central bank At least 20 people have died and dozens have been injured after a military cargo plane carrying banknotes crashed while landing near Bolivia’s capital on Friday, damaging about a dozen…",
+      "recap_neutral": "Riot police use teargas to disperse people gathering around wreckage of plane loaded with money from central bank At least 20 people have died and dozens have been injured after a military cargo plane carrying banknotes…",
+      "main_idea": "At least 20 killed as cash-laden military cargo plane crashes in Bolivia",
       "tags": [
         "economy"
       ],
@@ -600,6 +652,24 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Israel and the U.S. launch strikes against Iran",
+      "title_neutral": "Israel and the U.S. launch strikes against Iran",
+      "excerpt": "Israel has launched what it calls a preemptive strike against Iran, with explosions reported in Tehran and air raid sirens sounding across Israel. A nationwide state of emergency has been declared as officials warn further missile and drone attacks could be imminent.",
+      "recap_neutral": "Israel has launched what it calls a preemptive strike against Iran, with explosions reported in Tehran and air raid sirens sounding across Israel",
+      "main_idea": "Israel and the U.S. launch strikes against Iran",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 28 Feb 2026 02:16:26 -0500",
+      "url": "https://www.npr.org/2026/02/28/nx-s1-5730158/israel-iran-strikes",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -685,21 +755,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Qt45: A small polymerase ribozyme that can synthesize itself",
-      "title_neutral": "Qt45: A small polymerase ribozyme that can synthesize itself",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Qt45: A small polymerase ribozyme that can synthesize itself",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 27 Feb 2026 23:42:14 +0000",
-      "url": "https://www.science.org/doi/10.1126/science.adt2760",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1015,21 +1070,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "NASA announces overhaul of Artemis program amid safety concerns, delays",
-      "title_neutral": "NASA announces overhaul of Artemis program amid safety concerns, delays",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "NASA announces overhaul of Artemis program amid safety concerns, delays",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 27 Feb 2026 16:33:39 +0000",
-      "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Pakistan Strikes Afghanistan in ‘Open War’ Against Taliban Regime",
       "title_neutral": "Pakistan Strikes Afghanistan in ‘Open War’ Against Taliban Regime",
       "excerpt": "The airstrikes came hours after Afghan troops had attacked Pakistani border positions and follow months of worsening relations between the neighboring countries.",
@@ -1111,21 +1151,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A Chinese official’s use of ChatGPT revealed an intimidation operation",
-      "title_neutral": "A Chinese official’s use of ChatGPT revealed an intimidation operation",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "A Chinese official’s use of ChatGPT revealed an intimidation operation",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 27 Feb 2026 15:52:27 +0000",
-      "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1571,24 +1596,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "My doctor keeps focusing on my weight. What other health metrics matter more?",
-      "title_neutral": "My doctor keeps focusing on my weight. What other health metrics matter more?",
-      "excerpt": "Our Real Talk with a Doc columnist explains how to push back if your doctor's obsessed with weight loss. And what other health metrics matter more instead.",
-      "recap_neutral": "Our Real Talk with a Doc columnist explains how to push back if your doctor's obsessed with weight loss",
-      "main_idea": "My doctor keeps focusing on my weight. What other health metrics matter more?",
-      "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 27 Feb 2026 07:00:00 -0500",
-      "url": "https://www.npr.org/2026/02/27/nx-s1-5728199/bmi-doctors-weight-health-metrics",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
