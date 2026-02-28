@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T22:45:37.615356+00:00",
+  "last_updated": "2026-02-28T23:18:09.647137+00:00",
   "items": [
     {
       "title_original": "Woxi: Wolfram Mathematica Reimplementation in Rust",
@@ -382,11 +382,43 @@
         "conflict"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 28 Feb 2026 22:37:03 +0000",
+      "published_at": "Sat, 28 Feb 2026 23:15:30 +0000",
       "url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "See a Breakdown of Ayatollah Khamenei and Other Top Iranian Leaders",
+      "title_neutral": "See a Breakdown of Ayatollah Khamenei and Other Top Iranian Leaders",
+      "excerpt": "Among those killed in strikes, according to the U.S. and Israel, were Iran’s supreme leader and three of his top military commanders.",
+      "recap_neutral": "Among those killed in strikes, according to the U",
+      "main_idea": "See a Breakdown of Ayatollah Khamenei and Other Top Iranian Leaders",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 28 Feb 2026 23:15:29 +0000",
+      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Windows 95 User Interface: A Case Study in Usability Engineering",
+      "title_neutral": "The Windows 95 User Interface: A Case Study in Usability Engineering",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The Windows 95 User Interface: A Case Study in Usability Engineering",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 28 Feb 2026 22:19:36 +0000",
+      "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -414,41 +446,6 @@
       "source": "Hacker News",
       "published_at": "Sat, 28 Feb 2026 21:16:53 +0000",
       "url": "https://blog.vonng.com/en/db/minio-resurrect/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Middle East Airspace Closes as U.S.-Israeli Strikes Hit Iran",
-      "title_neutral": "Middle East Airspace Closes as U.S.-Israeli Strikes Hit Iran",
-      "excerpt": "A major hub in Dubai has suspended operations following U.S.-Israeli strikes on Iran. The sweeping closures are stranding passengers.",
-      "recap_neutral": "A major hub in Dubai has suspended operations following U",
-      "main_idea": "Middle East Airspace Closes as U.S.-Israeli Strikes Hit Iran",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 28 Feb 2026 21:09:48 +0000",
-      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/middle-east-airport-closures-emirates-qatar.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Our Agreement with the Department of War",
-      "title_neutral": "Our Agreement with the Department of War",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Our Agreement with the Department of War",
-      "tags": [
-        "conflict"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 28 Feb 2026 20:35:29 +0000",
-      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -1384,6 +1381,21 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "747s and Coding Agents",
+      "title_neutral": "747s and Coding Agents",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "747s and Coding Agents",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 27 Feb 2026 17:22:00 +0000",
+      "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
