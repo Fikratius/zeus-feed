@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T01:57:22.307155+00:00",
+  "last_updated": "2026-03-01T04:24:10.933672+00:00",
   "items": [
     {
       "title_original": "Deterministic Programming with LLMs",
@@ -11,6 +11,21 @@
       "source": "Hacker News",
       "published_at": "Wed, 25 Feb 2026 22:17:29 +0000",
       "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "SpacetimeDB ThreeJS Support",
+      "title_neutral": "SpacetimeDB ThreeJS Support",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "SpacetimeDB ThreeJS Support",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 25 Feb 2026 20:20:21 +0000",
+      "url": "https://discourse.threejs.org/t/spacetimedb-threejs-support-and-free-tier/90052",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -63,6 +78,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Microsoft announces new \"mini PCs\" for Windows 365",
+      "title_neutral": "Microsoft announces new \"mini PCs\" for Windows 365",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Microsoft announces new \"mini PCs\" for Windows 365",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 26 Feb 2026 18:19:36 +0000",
+      "url": "https://www.neowin.net/news/microsoft-announces-new-mini-pcs-for-windows-365/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -146,244 +176,253 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "МИД Кубы: агрессия против Ирана подрывает усилия дипломатии по ядерной проблемы",
-      "title_neutral": "МИД Кубы: агрессия против Ирана подрывает усилия дипломатии по ядерной проблемы",
-      "excerpt": "Карибская республика присоединяется к международным призывам немедленно прекратить эти действия",
-      "recap_neutral": "Карибская республика присоединяется к международным призывам немедленно прекратить эти действия",
-      "main_idea": "МИД Кубы: агрессия против Ирана подрывает усилия дипломатии по ядерной проблемы",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 04:52:07 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595393",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "CBS: США считают, что из-за ударов погибло порядка 40 членов руководства Ирана",
-      "title_neutral": "CBS: США считают, что из-за ударов погибло порядка 40 членов руководства Ирана",
+      "title_original": "КСИР заявил о начале \"самой мощной\" атаки на Израиль и базы США в регионе",
+      "title_neutral": "КСИР заявил о начале \"самой мощной\" атаки на Израиль и базы США в регионе",
       "excerpt": "",
-      "recap_neutral": "CBS: США считают, что из-за ударов погибло порядка 40 членов руководства Ирана",
-      "main_idea": "CBS: США считают, что из-за ударов погибло порядка 40 членов руководства Ирана",
+      "recap_neutral": "КСИР заявил о начале \"самой мощной\" атаки на Израиль и базы США в регионе",
+      "main_idea": "КСИР заявил о начале \"самой мощной\" атаки на Израиль и базы США в регионе",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 04:49:43 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595401",
+      "published_at": "Sun, 01 Mar 2026 07:19:15 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595915",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Гостелевидение Ирана: Хаменеи погиб 28 февраля утром из-за удара по его резиденции",
-      "title_neutral": "Гостелевидение Ирана: Хаменеи погиб 28 февраля утром из-за удара по его резиденции",
+      "title_original": "Газета NYT назвала безрассудным подход Трампа к Ирану",
+      "title_neutral": "Газета NYT назвала безрассудным подход Трампа к Ирану",
       "excerpt": "",
-      "recap_neutral": "Гостелевидение Ирана: Хаменеи погиб 28 февраля утром из-за удара по его резиденции",
-      "main_idea": "Гостелевидение Ирана: Хаменеи погиб 28 февраля утром из-за удара по его резиденции",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 04:46:10 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595389",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Япония будет прилагать дипломатические усилия по Ирану",
-      "title_neutral": "Япония будет прилагать дипломатические усилия по Ирану",
-      "excerpt": "Разработка ядерного оружия Ираном недопустима, заявил глава японского МИД Тосимицу Мотэги",
-      "recap_neutral": "Разработка ядерного оружия Ираном недопустима, заявил глава японского МИД Тосимицу Мотэги",
-      "main_idea": "Япония будет прилагать дипломатические усилия по Ирану",
+      "recap_neutral": "Газета NYT назвала безрассудным подход Трампа к Ирану",
+      "main_idea": "Газета NYT назвала безрассудным подход Трампа к Ирану",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 04:43:56 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595371",
+      "published_at": "Sun, 01 Mar 2026 07:17:01 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595907",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Опоздавший на самолет сможет использовать обратный билет при некоторых условиях",
-      "title_neutral": "Опоздавший на самолет сможет использовать обратный билет при некоторых условиях",
-      "excerpt": "В частности, пассажир должен в аэропорту уведомить компанию, что намерен продолжить полет на других его сегментах, в течение двух часов после вылета, при этом следующий рейс должен отправляться минимум через сутки",
-      "recap_neutral": "В частности, пассажир должен в аэропорту уведомить компанию, что намерен продолжить полет на других его сегментах, в течение двух часов после вылета, при этом следующий рейс должен отправляться минимум через сутки",
-      "main_idea": "Опоздавший на самолет сможет использовать обратный билет при некоторых условиях",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 04:41:53 +0300",
-      "url": "https://tass.ru/ekonomika/26595359",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "МИД Японии: США сообщили партнерам по G7 о \"дальнейших перспективах\" по Ирану",
-      "title_neutral": "МИД Японии: США сообщили партнерам по G7 о \"дальнейших перспективах\" по Ирану",
-      "excerpt": "Во время разговора министров G7 стороны, отмечает ведомство, подтвердили, что \"будут продолжать координировать свои действия по различным вопросам\"",
-      "recap_neutral": "Во время разговора министров G7 стороны, отмечает ведомство, подтвердили, что \"будут продолжать координировать свои действия по различным вопросам\"",
-      "main_idea": "МИД Японии: США сообщили партнерам по G7 о \"дальнейших перспективах\" по Ирану",
+      "title_original": "Эксперт Чернов рассказал о рисках, которые несут бесплатные VPN-сервисы",
+      "title_neutral": "Эксперт Чернов рассказал о рисках, которые несут бесплатные VPN-сервисы",
+      "excerpt": "Такие приложения могут красть личные данные, пароли и заражать устройства, сообщил директор по продуктовой стратегии компании UserGate",
+      "recap_neutral": "Такие приложения могут красть личные данные, пароли и заражать устройства, сообщил директор по продуктовой стратегии компании UserGate",
+      "main_idea": "Эксперт Чернов рассказал о рисках, которые несут бесплатные VPN-сервисы",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 04:40:40 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595343",
+      "published_at": "Sun, 01 Mar 2026 07:13:12 +0300",
+      "url": "https://tass.ru/ekonomika/26595895",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Иране объявили 40-дневный траур по убитому верховному лидеру Хаменеи",
-      "title_neutral": "В Иране объявили 40-дневный траур по убитому верховному лидеру Хаменеи",
-      "excerpt": "Следующие семь дней в республике будут объявлены нерабочими в знак скорби",
-      "recap_neutral": "Следующие семь дней в республике будут объявлены нерабочими в знак скорби",
-      "main_idea": "В Иране объявили 40-дневный траур по убитому верховному лидеру Хаменеи",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 04:38:13 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595353",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Подполье: на востоке Украины тревожно отреагировали на планы передать Киеву ЯО",
-      "title_neutral": "Подполье: на востоке Украины тревожно отреагировали на планы передать Киеву ЯО",
-      "excerpt": "Люди уже не доверяют украинским властям, сообщили в пророссийском подполье",
-      "recap_neutral": "Люди уже не доверяют украинским властям, сообщили в пророссийском подполье",
-      "main_idea": "Подполье: на востоке Украины тревожно отреагировали на планы передать Киеву ЯО",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 04:34:25 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595327",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Гостелевидение Ирана подтвердило гибель Хаменеи",
-      "title_neutral": "Гостелевидение Ирана подтвердило гибель Хаменеи",
-      "excerpt": "Подробности пока не приводятся",
-      "recap_neutral": "Подробности пока не приводятся",
-      "main_idea": "Гостелевидение Ирана подтвердило гибель Хаменеи",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 04:29:57 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595321",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Пензенской области отменили беспилотную опасность",
-      "title_neutral": "В Пензенской области отменили беспилотную опасность",
-      "excerpt": "Об этом сообщил глава региона Олег Мельниченко",
-      "recap_neutral": "Об этом сообщил глава региона Олег Мельниченко",
-      "main_idea": "В Пензенской области отменили беспилотную опасность",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 04:24:27 +0300",
-      "url": "https://tass.ru/proisshestviya/26595305",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "МВД: криминалисты могут распознавать высокотехнологичные механизмы преступления",
-      "title_neutral": "МВД: криминалисты могут распознавать высокотехнологичные механизмы преступления",
-      "excerpt": "Начальник Экспертно-криминалистического центра ведомства Вадим Казьмин сообщил, что очевидны активизация злоумышленников в интернете и рост числа киберпреступлений",
-      "recap_neutral": "Начальник Экспертно-криминалистического центра ведомства Вадим Казьмин сообщил, что очевидны активизация злоумышленников в интернете и рост числа киберпреступлений",
-      "main_idea": "МВД: криминалисты могут распознавать высокотехнологичные механизмы преступления",
+      "title_original": "Синоптик назвала регионы, где были аномальные температуры зимой",
+      "title_neutral": "Синоптик назвала регионы, где были аномальные температуры зимой",
+      "excerpt": "Температура выше нормы была в Якутии и на Камчатке, отметила ведущий сотрудник Гидрометцентра Марина Макарова",
+      "recap_neutral": "Температура выше нормы была в Якутии и на Камчатке, отметила ведущий сотрудник Гидрометцентра Марина Макарова",
+      "main_idea": "Синоптик назвала регионы, где были аномальные температуры зимой",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 04:19:57 +0300",
-      "url": "https://tass.ru/obschestvo/26595289",
+      "published_at": "Sun, 01 Mar 2026 07:12:34 +0300",
+      "url": "https://tass.ru/obschestvo/26595815",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Таиланд призывает стороны конфликта на Ближнем Востоке предотвратить эскалацию",
-      "title_neutral": "Таиланд призывает стороны конфликта на Ближнем Востоке предотвратить эскалацию",
-      "excerpt": "Государство подчеркивает необходимость диалога и дипломатии, говорится в заявлении таиландского МИД",
-      "recap_neutral": "Государство подчеркивает необходимость диалога и дипломатии, говорится в заявлении таиландского МИД",
-      "main_idea": "Таиланд призывает стороны конфликта на Ближнем Востоке предотвратить эскалацию",
+      "title_original": "ИКИ РАН: российские ученые проверят, есть ли жизнь на Венере",
+      "title_neutral": "ИКИ РАН: российские ученые проверят, есть ли жизнь на Венере",
+      "excerpt": "Академик Лев Зеленый отметил, что в рамках экспедиции \"Венера-Д\" будут искать биомаркеры как на высоте 50 км, так и на поверхности планеты",
+      "recap_neutral": "Академик Лев Зеленый отметил, что в рамках экспедиции \"Венера-Д\" будут искать биомаркеры как на высоте 50 км, так и на поверхности планеты",
+      "main_idea": "ИКИ РАН: российские ученые проверят, есть ли жизнь на Венере",
       "tags": [
-        "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 04:18:37 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595295",
+      "published_at": "Sun, 01 Mar 2026 07:06:02 +0300",
+      "url": "https://tass.ru/nauka/26595823",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Fars: целью атаки Ирана в Дубае была штаб-квартира ЦРУ",
-      "title_neutral": "Fars: целью атаки Ирана в Дубае была штаб-квартира ЦРУ",
-      "excerpt": "",
-      "recap_neutral": "Fars: целью атаки Ирана в Дубае была штаб-квартира ЦРУ",
-      "main_idea": "Fars: целью атаки Ирана в Дубае была штаб-квартира ЦРУ",
+      "title_original": "Сакс: США и Британия не желают слушать правду на заседаниях СБ ООН",
+      "title_neutral": "Сакс: США и Британия не желают слушать правду на заседаниях СБ ООН",
+      "excerpt": "Вашингтону и Лондону проще изгнать людей, которые стали бы выступать против власти Соединенных Штатов и их государств-вассалов, отметил профессор Колумбийского университета",
+      "recap_neutral": "Вашингтону и Лондону проще изгнать людей, которые стали бы выступать против власти Соединенных Штатов и их государств-вассалов, отметил профессор Колумбийского университета",
+      "main_idea": "Сакс: США и Британия не желают слушать правду на заседаниях СБ ООН",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 04:15:08 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595281",
+      "published_at": "Sun, 01 Mar 2026 07:03:52 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595855",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Священник Первозванский рассказал, попадают ли кошки в рай",
-      "title_neutral": "Священник Первозванский рассказал, попадают ли кошки в рай",
-      "excerpt": "После смерти с животным ничего не происходит и никуда оно не уходит, рассказал клирик храма Сорока Севастийских мучеников в Спасской слободе протоиерей",
-      "recap_neutral": "После смерти с животным ничего не происходит и никуда оно не уходит, рассказал клирик храма Сорока Севастийских мучеников в Спасской слободе протоиерей",
-      "main_idea": "Священник Первозванский рассказал, попадают ли кошки в рай",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 04:03:53 +0300",
-      "url": "https://tass.ru/obschestvo/26595267",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Al Hadath: город-порт Бушер в Иране подвергся ракетной атаке",
-      "title_neutral": "Al Hadath: город-порт Бушер в Иране подвергся ракетной атаке",
-      "excerpt": "По информации телеканала, израильские и американские силы нанесли удар с воздуха",
-      "recap_neutral": "По информации телеканала, израильские и американские силы нанесли удар с воздуха",
-      "main_idea": "Al Hadath: город-порт Бушер в Иране подвергся ракетной атаке",
+      "title_original": "Эксперт Федутинов: коммерциализация дронов противоречит вопросам безопасности РФ",
+      "title_neutral": "Эксперт Федутинов: коммерциализация дронов противоречит вопросам безопасности РФ",
+      "excerpt": "Эксперт в области беспилотной авиации отметил, что и в период до СВО применение БПЛА в гражданских целях сталкивалось с препятствиями в виде нерешенных юридических вопросов",
+      "recap_neutral": "Эксперт в области беспилотной авиации отметил, что и в период до СВО применение БПЛА в гражданских целях сталкивалось с препятствиями в виде нерешенных юридических вопросов",
+      "main_idea": "Эксперт Федутинов: коммерциализация дронов противоречит вопросам безопасности РФ",
       "tags": [
-        "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 04:03:23 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595271",
+      "published_at": "Sun, 01 Mar 2026 07:03:52 +0300",
+      "url": "https://tass.ru/obschestvo/26595841",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Над регионами России сбили 27 украинских БПЛА",
+      "title_neutral": "Над регионами России сбили 27 украинских БПЛА",
+      "excerpt": "Из них восемь аппаратов уничтожили в Брянской области",
+      "recap_neutral": "Из них восемь аппаратов уничтожили в Брянской области",
+      "main_idea": "Над регионами России сбили 27 украинских БПЛА",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 07:03:44 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26595859",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Профессор Сакс указал на зависимость от Вашингтона стран с военными базами США",
+      "title_neutral": "Профессор Сакс указал на зависимость от Вашингтона стран с военными базами США",
+      "excerpt": "Экономист выступил с критикой государств, поддержавших удары по Ирану",
+      "recap_neutral": "Экономист выступил с критикой государств, поддержавших удары по Ирану",
+      "main_idea": "Профессор Сакс указал на зависимость от Вашингтона стран с военными базами США",
+      "tags": [
+        "economy",
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 07:01:42 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595845",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Актер Чурсин назвал сериалы форматом с большей драматургической свободой",
+      "title_neutral": "Актер Чурсин назвал сериалы форматом с большей драматургической свободой",
+      "excerpt": "В сериале можно подробнее рассказать о разных персонажах, ввести тонкости смысла, создать многослойность истории, отметил российский актер театра и кино",
+      "recap_neutral": "В сериале можно подробнее рассказать о разных персонажах, ввести тонкости смысла, создать многослойность истории, отметил российский актер театра и кино",
+      "main_idea": "Актер Чурсин назвал сериалы форматом с большей драматургической свободой",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 07:01:37 +0300",
+      "url": "https://tass.ru/kultura/26595835",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Профессор Сакс назвал удары по Ирану наибольшей угрозой Уставу ООН с 1945 года",
+      "title_neutral": "Профессор Сакс назвал удары по Ирану наибольшей угрозой Уставу ООН с 1945 года",
+      "excerpt": "",
+      "recap_neutral": "Профессор Сакс назвал удары по Ирану наибольшей угрозой Уставу ООН с 1945 года",
+      "main_idea": "Профессор Сакс назвал удары по Ирану наибольшей угрозой Уставу ООН с 1945 года",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 07:00:46 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595829",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Брянской области при атаке ВСУ на автомобиль погибла мирная жительница",
+      "title_neutral": "В Брянской области при атаке ВСУ на автомобиль погибла мирная жительница",
+      "excerpt": "ЧП произошло в селе Чернооково Климовского района",
+      "recap_neutral": "ЧП произошло в селе Чернооково Климовского района",
+      "main_idea": "В Брянской области при атаке ВСУ на автомобиль погибла мирная жительница",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 06:58:35 +0300",
+      "url": "https://tass.ru/proisshestviya/26595809",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Вылетевший из Карачи рейс S7 приземлился в Новосибирске",
+      "title_neutral": "Вылетевший из Карачи рейс S7 приземлился в Новосибирске",
+      "excerpt": "Рейс, следовавший из Новосибирска в Дубай, был вынужден ранее приземлиться на аэродроме в Карачи из-за закрытия воздушного пространства Ирана и Израиля",
+      "recap_neutral": "Рейс, следовавший из Новосибирска в Дубай, был вынужден ранее приземлиться на аэродроме в Карачи из-за закрытия воздушного пространства Ирана и Израиля",
+      "main_idea": "Вылетевший из Карачи рейс S7 приземлился в Новосибирске",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 06:57:56 +0300",
+      "url": "https://tass.ru/ekonomika/26595803",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Карелии рассматривают вопрос об ограничении продажи алкоголя в кассовой зоне",
+      "title_neutral": "В Карелии рассматривают вопрос об ограничении продажи алкоголя в кассовой зоне",
+      "excerpt": "Похожие решения уже были приняты по табачным изделиям, отметил глава республики Артур Парфенчиков",
+      "recap_neutral": "Похожие решения уже были приняты по табачным изделиям, отметил глава республики Артур Парфенчиков",
+      "main_idea": "В Карелии рассматривают вопрос об ограничении продажи алкоголя в кассовой зоне",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 06:51:15 +0300",
+      "url": "https://tass.ru/obschestvo/26595791",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп: США ожидали от Ирана более серьезный ответный удар",
+      "title_neutral": "Трамп: США ожидали от Ирана более серьезный ответный удар",
+      "excerpt": "В Вашингтоне думали, что контратака Тегерана будет вдвое сильнее, отметил президент Соединенных Штатов",
+      "recap_neutral": "В Вашингтоне думали, что контратака Тегерана будет вдвое сильнее, отметил президент Соединенных Штатов",
+      "main_idea": "Трамп: США ожидали от Ирана более серьезный ответный удар",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 06:49:41 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26595773",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
@@ -392,19 +431,70 @@
     {
       "title_original": "Live Updates: Iran Says Supreme Leader Died During U.S.-Israeli Strikes",
       "title_neutral": "Live Updates: Iran Says Supreme Leader Died During U.S.-Israeli Strikes",
-      "excerpt": "The death of Ayatollah Ali Khamenei, who ruled his nation with an iron fist for nearly 37 years, raised the prospect of broader conflict across the region. It was unclear who was now in charge in Iran.",
-      "recap_neutral": "The death of Ayatollah Ali Khamenei, who ruled his nation with an iron fist for nearly 37 years, raised the prospect of broader conflict across the region",
+      "excerpt": "The death of Ayatollah Ali Khamenei, who ruled his nation with an iron fist for nearly 37 years, raised the prospect of chaos and a power vacuum in an already turbulent region.",
+      "recap_neutral": "The death of Ayatollah Ali Khamenei, who ruled his nation with an iron fist for nearly 37 years, raised the prospect of chaos and a power vacuum in an already turbulent region",
       "main_idea": "Live Updates: Iran Says Supreme Leader Died During U.S.-Israeli Strikes",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sun, 01 Mar 2026 01:52:59 +0000",
+      "published_at": "Sun, 01 Mar 2026 04:12:05 +0000",
       "url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "What we know so far: Supreme Leader Khamenei killed, as Iran launches retaliatory strikes",
+      "title_neutral": "What we know so far: Supreme Leader Khamenei killed, as Iran launches retaliatory strikes",
+      "excerpt": "Iran responds by launching missiles and drones towards Israel and four Gulf Arab countries that host US military bases.",
+      "recap_neutral": "Iran responds by launching missiles and drones towards Israel and four Gulf Arab countries that host US military bases",
+      "main_idea": "What we know so far: Supreme Leader Khamenei killed, as Iran launches retaliatory strikes",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 01 Mar 2026 03:57:42 GMT",
+      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iranians Take to Streets to Celebrate Khamenei’s Death",
+      "title_neutral": "Iranians Take to Streets to Celebrate Khamenei’s Death",
+      "excerpt": "Some Iranians said on social media that they were privately mourning the supreme leader. But displays of exuberance broke out in cities across the country.",
+      "recap_neutral": "Some Iranians said on social media that they were privately mourning the supreme leader",
+      "main_idea": "Iranians Take to Streets to Celebrate Khamenei’s Death",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 01 Mar 2026 02:47:31 +0000",
+      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-khameni-celebrations.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran says US and Israel strikes hit school killing 108",
+      "title_neutral": "Iran says US and Israel strikes hit school killing 108",
+      "excerpt": "There is no confirmation by the US or Israel of the strike on the school located near elite military troops.",
+      "recap_neutral": "There is no confirmation by the US or Israel of the strike on the school located near elite military troops",
+      "main_idea": "Iran says US and Israel strikes hit school killing 108",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 01 Mar 2026 02:34:04 GMT",
+      "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -426,18 +516,50 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ayatollah Ali Khamenei, Hard-Line Cleric Who Made Iran a Regional Power, Dies at 86",
-      "title_neutral": "Ayatollah Ali Khamenei, Hard-Line Cleric Who Made Iran a Regional Power, Dies at 86",
-      "excerpt": "As Iran’s second supreme leader, he brutally crushed dissent at home and expanded Iran’s footprint abroad, challenging Saudi Arabia for regional dominance.",
-      "recap_neutral": "As Iran’s second supreme leader, he brutally crushed dissent at home and expanded Iran’s footprint abroad, challenging Saudi Arabia for regional dominance",
-      "main_idea": "Ayatollah Ali Khamenei, Hard-Line Cleric Who Made Iran a Regional Power, Dies at 86",
+      "title_original": "Lyse Doucet: This is an extraordinary moment Iran has been preparing for",
+      "title_neutral": "Lyse Doucet: This is an extraordinary moment Iran has been preparing for",
+      "excerpt": "The killing of the supreme leader will be a huge jolt to the Islamic Republic, which will try hard to show it has a plan in place.",
+      "recap_neutral": "The killing of the supreme leader will be a huge jolt to the Islamic Republic, which will try hard to show it has a plan in place",
+      "main_idea": "Lyse Doucet: This is an extraordinary moment Iran has been preparing for",
       "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sun, 01 Mar 2026 01:46:17 +0000",
-      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html",
+      "source": "BBC World",
+      "published_at": "Sun, 01 Mar 2026 01:45:52 GMT",
+      "url": "https://www.bbc.com/news/articles/c98g91wgdd8o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Microgpt",
+      "title_neutral": "Microgpt",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Microgpt",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 01 Mar 2026 01:39:26 +0000",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Wellness peptide craze: Why people are injecting drugs 'not for human consumption'",
+      "title_neutral": "Wellness peptide craze: Why people are injecting drugs 'not for human consumption'",
+      "excerpt": "Growing numbers of people are injecting unregulated peptides for health reasons - but one expert says they are \"lab rats\".",
+      "recap_neutral": "Growing numbers of people are injecting unregulated peptides for health reasons - but one expert says they are \"lab rats\"",
+      "main_idea": "Wellness peptide craze: Why people are injecting drugs 'not for human consumption'",
+      "tags": [
+        "health"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 01 Mar 2026 00:51:29 GMT",
+      "url": "https://www.bbc.com/news/articles/cdr268m5pxro?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -503,21 +625,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Building a Minimal Transformer for 10-digit Addition",
-      "title_neutral": "Building a Minimal Transformer for 10-digit Addition",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Building a Minimal Transformer for 10-digit Addition",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 28 Feb 2026 22:10:21 +0000",
-      "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "We do not think Anthropic should be designated as a supply chain risk",
       "title_neutral": "We do not think Anthropic should be designated as a supply chain risk",
       "excerpt": "Comments",
@@ -529,21 +636,6 @@
       "source": "Hacker News",
       "published_at": "Sat, 28 Feb 2026 21:24:16 +0000",
       "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "MinIO Is Dead, Long Live MinIO",
-      "title_neutral": "MinIO Is Dead, Long Live MinIO",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "MinIO Is Dead, Long Live MinIO",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 28 Feb 2026 21:16:53 +0000",
-      "url": "https://blog.vonng.com/en/db/minio-resurrect/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -562,24 +654,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran retaliation raises questions about US air defences",
-      "title_neutral": "Iran retaliation raises questions about US air defences",
-      "excerpt": "Iran's strike on US Navy base in Bahrain will worry Washington and its allies in the region.",
-      "recap_neutral": "Iran's strike on US Navy base in Bahrain will worry Washington and its allies in the region",
-      "main_idea": "Iran retaliation raises questions about US air defences",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 28 Feb 2026 19:34:00 GMT",
-      "url": "https://www.bbc.com/news/articles/cg5nm6v2p4no?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -743,23 +817,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Inside Iran, panic as strikes hit but for some it's a moment of relief",
-      "title_neutral": "Inside Iran, panic as strikes hit but for some it's a moment of relief",
-      "excerpt": "Iranians talk about what is happening inside the country, despite an almost total internet blackout.",
-      "recap_neutral": "Iranians talk about what is happening inside the country, despite an almost total internet blackout",
-      "main_idea": "Inside Iran, panic as strikes hit but for some it's a moment of relief",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 28 Feb 2026 15:36:27 GMT",
-      "url": "https://www.bbc.com/news/articles/c05v8jzjn40o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -946,7 +1003,7 @@
         "conflict"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 28 Feb 2026 13:55:40 +0000",
+      "published_at": "Sat, 28 Feb 2026 13:55:41 +0000",
       "url": "https://www.nytimes.com/2026/02/27/world/middleeast/saudi-arabia-united-arab-emirates-feud-trump-call.html",
       "lang": "en",
       "bias_score": 55,
@@ -963,21 +1020,6 @@
       "source": "Hacker News",
       "published_at": "Sat, 28 Feb 2026 13:50:13 +0000",
       "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
-      "title_neutral": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 28 Feb 2026 13:29:36 +0000",
-      "url": "https://nowigetit.us",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -1367,23 +1409,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Drone jammed near French aircraft carrier was Russian, says Sweden",
-      "title_neutral": "Drone jammed near French aircraft carrier was Russian, says Sweden",
-      "excerpt": "Sweden's prime minister said it was a serious but not unexpected incident - and a \"Russian way of acting that we recognise from other places\".",
-      "recap_neutral": "Sweden's prime minister said it was a serious but not unexpected incident - and a \"Russian way of acting that we recognise from other places\"",
-      "main_idea": "Drone jammed near French aircraft carrier was Russian, says Sweden",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 27 Feb 2026 19:58:25 GMT",
-      "url": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Tram derails in Milan, leaving two dead and dozens injured",
       "title_neutral": "Tram derails in Milan, leaving two dead and dozens injured",
       "excerpt": "The crowded tram was travelling in the centre of Milan at rush hour when it appeared to crash into the side of a building.",
@@ -1410,7 +1435,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Fri, 27 Feb 2026 18:48:12 +0000",
+      "published_at": "Fri, 27 Feb 2026 18:48:13 +0000",
       "url": "https://www.nytimes.com/2026/02/27/world/europe/russia-blackouts-heating-breakdowns.html",
       "lang": "en",
       "bias_score": 55,
@@ -1496,7 +1521,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Fri, 27 Feb 2026 15:31:18 +0000",
+      "published_at": "Fri, 27 Feb 2026 15:31:19 +0000",
       "url": "https://www.nytimes.com/2026/02/27/world/europe/hungary-orban-europe.html",
       "lang": "en",
       "bias_score": 55,
@@ -1622,23 +1647,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
-      "title_neutral": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
-      "excerpt": "Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle.",
-      "recap_neutral": "Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle",
-      "main_idea": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 27 Feb 2026 04:32:38 GMT",
-      "url": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
