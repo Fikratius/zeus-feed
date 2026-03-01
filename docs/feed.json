@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T20:22:00.493062+00:00",
+  "last_updated": "2026-03-01T20:48:19.139312+00:00",
   "items": [
     {
       "title_original": "Python Type Checker Comparison: Empty Container Inference",
@@ -53,15 +53,271 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Interview with Øyvind Kolås, GIMP developer (2017)",
-      "title_neutral": "Interview with Øyvind Kolås, GIMP developer (2017)",
+      "title_original": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "title_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "excerpt": "",
+      "recap_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "main_idea": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:18:01 +0300",
+      "url": "https://tass.ru/politika/24134697",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
+      "title_neutral": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
+      "excerpt": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
+      "recap_neutral": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
+      "main_idea": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:17:03 +0300",
+      "url": "https://tass.ru/ekonomika/24134627",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "title_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "excerpt": "",
+      "recap_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "main_idea": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:15:43 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134665",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Магаданской области объявили чрезвычайную пожарную опасность",
+      "title_neutral": "В Магаданской области объявили чрезвычайную пожарную опасность",
+      "excerpt": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
+      "recap_neutral": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
+      "main_idea": "В Магаданской области объявили чрезвычайную пожарную опасность",
+      "tags": [
+        "climate"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:12:58 +0300",
+      "url": "https://tass.ru/obschestvo/24134601",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
+      "title_neutral": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
+      "excerpt": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
+      "recap_neutral": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
+      "main_idea": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:11:16 +0300",
+      "url": "https://tass.ru/obschestvo/24134589",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
+      "title_neutral": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
+      "excerpt": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
+      "recap_neutral": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
+      "main_idea": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:09:34 +0300",
+      "url": "https://tass.ru/obschestvo/24132977",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
+      "title_neutral": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
+      "excerpt": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
+      "recap_neutral": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
+      "main_idea": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:09:31 +0300",
+      "url": "https://tass.ru/nauka/24134535",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
+      "title_neutral": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
+      "excerpt": "Материалы дела поступили в мировой судебный участок 184",
+      "recap_neutral": "Материалы дела поступили в мировой судебный участок 184",
+      "main_idea": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:09:03 +0300",
+      "url": "https://tass.ru/proisshestviya/24134595",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
+      "title_neutral": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
+      "excerpt": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
+      "recap_neutral": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
+      "main_idea": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:08:48 +0300",
+      "url": "https://tass.ru/obschestvo/24134521",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
+      "title_neutral": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
+      "excerpt": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
+      "recap_neutral": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
+      "main_idea": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:08:39 +0300",
+      "url": "https://tass.ru/nedvizhimost/24134431",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
+      "title_neutral": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
+      "excerpt": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
+      "recap_neutral": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
+      "main_idea": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:06:43 +0300",
+      "url": "https://tass.ru/obschestvo/24133033",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
+      "title_neutral": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
+      "excerpt": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
+      "recap_neutral": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
+      "main_idea": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:04:29 +0300",
+      "url": "https://tass.ru/obschestvo/24133525",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
+      "title_neutral": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
+      "excerpt": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
+      "recap_neutral": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
+      "main_idea": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:03:57 +0300",
+      "url": "https://tass.ru/obschestvo/24134485",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "США пока не решили, продолжать или нет помощь Украине",
+      "title_neutral": "США пока не решили, продолжать или нет помощь Украине",
+      "excerpt": "",
+      "recap_neutral": "США пока не решили, продолжать или нет помощь Украине",
+      "main_idea": "США пока не решили, продолжать или нет помощь Украине",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:03:52 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134491",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+      "title_neutral": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+      "excerpt": "Предварительно, пострадавших нет",
+      "recap_neutral": "Предварительно, пострадавших нет",
+      "main_idea": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:02:07 +0300",
+      "url": "https://tass.ru/proisshestviya/24133329",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to talk to anyone, and why you should",
+      "title_neutral": "How to talk to anyone, and why you should",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Interview with Øyvind Kolås, GIMP developer (2017)",
+      "main_idea": "How to talk to anyone, and why you should",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Thu, 26 Feb 2026 16:39:07 +0000",
-      "url": "https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/",
+      "published_at": "Tue, 24 Feb 2026 20:08:38 +0000",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Setting up phones is a nightmare",
+      "title_neutral": "Setting up phones is a nightmare",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Setting up phones is a nightmare",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 26 Feb 2026 19:36:30 +0000",
+      "url": "https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -133,260 +389,27 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "ЕС призвал восстановить беспрепятственное судоходство в Ормузском проливе",
-      "title_neutral": "ЕС призвал восстановить беспрепятственное судоходство в Ормузском проливе",
-      "excerpt": "В заявлении главы дипломатии Евросоюза Каи Каллас отмечается, что происходящие в Иране события не должны привести к эскалации, которая будет угрожать другим государствам",
-      "recap_neutral": "В заявлении главы дипломатии Евросоюза Каи Каллас отмечается, что происходящие в Иране события не должны привести к эскалации, которая будет угрожать другим государствам",
-      "main_idea": "ЕС призвал восстановить беспрепятственное судоходство в Ормузском проливе",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 23:19:26 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26603591",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Туристы из РФ сообщают о резком росте цен на отели в ОАЭ",
-      "title_neutral": "Туристы из РФ сообщают о резком росте цен на отели в ОАЭ",
-      "excerpt": "Отдыхающим без путевки сложно найти жилье в курортных Дубае и Шардже, рассказала ТАСС туристка",
-      "recap_neutral": "Отдыхающим без путевки сложно найти жилье в курортных Дубае и Шардже, рассказала ТАСС туристка",
-      "main_idea": "Туристы из РФ сообщают о резком росте цен на отели в ОАЭ",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 23:19:00 +0300",
-      "url": "https://tass.ru/obschestvo/26603479",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Камчатке произошло землетрясение магнитудой 5,1",
-      "title_neutral": "На Камчатке произошло землетрясение магнитудой 5,1",
-      "excerpt": "Эпицентр залегал на глубине 72 км",
-      "recap_neutral": "Эпицентр залегал на глубине 72 км",
-      "main_idea": "На Камчатке произошло землетрясение магнитудой 5,1",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 23:18:48 +0300",
-      "url": "https://tass.ru/proisshestviya/26603599",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Венесуэле заявили, что США хотят завладеть ресурсами Ирана",
-      "title_neutral": "В Венесуэле заявили, что США хотят завладеть ресурсами Ирана",
-      "excerpt": "Вице-президент партии \"Мы можем\" Вильян Родригес подчеркнул, что действия Вашингтона \"уничтожают дипломатию и Устав ООН\"",
-      "recap_neutral": "Вице-президент партии \"Мы можем\" Вильян Родригес подчеркнул, что действия Вашингтона \"уничтожают дипломатию и Устав ООН\"",
-      "main_idea": "В Венесуэле заявили, что США хотят завладеть ресурсами Ирана",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 23:16:08 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26603583",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "NYP: стрельба в Остине могла быть спровоцирована операцией США в Иране",
-      "title_neutral": "NYP: стрельба в Остине могла быть спровоцирована операцией США в Иране",
-      "excerpt": "На стрелявшем, натурализованном гражданине США из Сенегала, была майка \"с иранским флагом или другой иранской символикой\", сообщает газета",
-      "recap_neutral": "На стрелявшем, натурализованном гражданине США из Сенегала, была майка \"с иранским флагом или другой иранской символикой\", сообщает газета",
-      "main_idea": "NYP: стрельба в Остине могла быть спровоцирована операцией США в Иране",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 23:14:48 +0300",
-      "url": "https://tass.ru/proisshestviya/26603435",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "КСИР: при ударах Ирана по Хайфе погибли минимум 40 человек",
-      "title_neutral": "КСИР: при ударах Ирана по Хайфе погибли минимум 40 человек",
-      "excerpt": "",
-      "recap_neutral": "КСИР: при ударах Ирана по Хайфе погибли минимум 40 человек",
-      "main_idea": "КСИР: при ударах Ирана по Хайфе погибли минимум 40 человек",
+      "title_original": "Nine dead in missile attack on Israel as Iran strikes region",
+      "title_neutral": "Nine dead in missile attack on Israel as Iran strikes region",
+      "excerpt": "Several deaths are reported across the Middle East as Tehran retaliates for massive strikes by the US and Israel.",
+      "recap_neutral": "Several deaths are reported across the Middle East as Tehran retaliates for massive strikes by the US and Israel",
+      "main_idea": "Nine dead in missile attack on Israel as Iran strikes region",
       "tags": [
         "conflict"
       ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 23:13:15 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26603577",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Анапе объявили тревогу из-за угрозы БПЛА",
-      "title_neutral": "В Анапе объявили тревогу из-за угрозы БПЛА",
-      "excerpt": "В городе работают системы оповещения",
-      "recap_neutral": "В городе работают системы оповещения",
-      "main_idea": "В Анапе объявили тревогу из-за угрозы БПЛА",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 23:13:01 +0300",
-      "url": "https://tass.ru/proisshestviya/26603573",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Fars: Иран заявил о праве атаковать штаб-квартиры СМИ США и Израиля в регионе",
-      "title_neutral": "Fars: Иран заявил о праве атаковать штаб-квартиры СМИ США и Израиля в регионе",
-      "excerpt": "",
-      "recap_neutral": "Fars: Иран заявил о праве атаковать штаб-квартиры СМИ США и Израиля в регионе",
-      "main_idea": "Fars: Иран заявил о праве атаковать штаб-квартиры СМИ США и Израиля в регионе",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 23:08:29 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26603537",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Tasnim: при ударах США и Израиля погибли семь иранских генералов",
-      "title_neutral": "Tasnim: при ударах США и Израиля погибли семь иранских генералов",
-      "excerpt": "Пятеро из них служили в Корпусе стражей исламской революции, сообщило агентство",
-      "recap_neutral": "Пятеро из них служили в Корпусе стражей исламской революции, сообщило агентство",
-      "main_idea": "Tasnim: при ударах США и Израиля погибли семь иранских генералов",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 23:05:44 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26603561",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ЕС призвал Иран воздержаться от ответных ударов по странам Ближнего Востока",
-      "title_neutral": "ЕС призвал Иран воздержаться от ответных ударов по странам Ближнего Востока",
-      "excerpt": "Регион понесет огромные потери в случае любой затяжной войны, говорится в заявлении руководителя дипломатии ЕС Каи Каллас от имени всех стран объединения",
-      "recap_neutral": "Регион понесет огромные потери в случае любой затяжной войны, говорится в заявлении руководителя дипломатии ЕС Каи Каллас от имени всех стран объединения",
-      "main_idea": "ЕС призвал Иран воздержаться от ответных ударов по странам Ближнего Востока",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 23:05:33 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26603529",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Три баскетболиста не могут вернуться в РФ из-за ситуации на Ближнем Востоке",
-      "title_neutral": "Три баскетболиста не могут вернуться в РФ из-за ситуации на Ближнем Востоке",
-      "excerpt": "Игроки \"Локомотива-Кубани\" Винс Хантер и Джеремайя Мартин проводили выходные с семьями в Дубае, а Ален Хаджибегович находится в Катаре, где должен был принять участие в матче квалификации чемпионата мира",
-      "recap_neutral": "Игроки \"Локомотива-Кубани\" Винс Хантер и Джеремайя Мартин проводили выходные с семьями в Дубае, а Ален Хаджибегович находится в Катаре, где должен был принять участие в матче квалификации чемпионата мира",
-      "main_idea": "Три баскетболиста не могут вернуться в РФ из-за ситуации на Ближнем Востоке",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 23:04:13 +0300",
-      "url": "https://tass.ru/sport/26603557",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ТАСС: воздушное пространство Сирии будет закрыто еще сутки",
-      "title_neutral": "ТАСС: воздушное пространство Сирии будет закрыто еще сутки",
-      "excerpt": "Небо для полетов будет закрыто, ориентировочно, до 00:00 мск 3 марта, сообщил источник",
-      "recap_neutral": "Небо для полетов будет закрыто, ориентировочно, до 00:00 мск 3 марта, сообщил источник",
-      "main_idea": "ТАСС: воздушное пространство Сирии будет закрыто еще сутки",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 22:59:58 +0300",
-      "url": "https://tass.ru/ekonomika/26603525",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Журналистам показали, как очищают фреску Микеланджело \"Страшный суд\"",
-      "title_neutral": "Журналистам показали, как очищают фреску Микеланджело \"Страшный суд\"",
-      "excerpt": "Как пояснили представители Ватиканских музеев, работы выходят за рамки штатного поддержания состояния шедевра, выполненного почти 500 лет назад",
-      "recap_neutral": "Как пояснили представители Ватиканских музеев, работы выходят за рамки штатного поддержания состояния шедевра, выполненного почти 500 лет назад",
-      "main_idea": "Журналистам показали, как очищают фреску Микеланджело \"Страшный суд\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 22:58:00 +0300",
-      "url": "https://tass.ru/obschestvo/26602287",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ЕС допускает введение новых санкций против Ирана",
-      "title_neutral": "ЕС допускает введение новых санкций против Ирана",
-      "excerpt": "При этом Евросоюз также призывает к деэскалации ситуации на Ближнем Востоке, которая обострилась с началом атак США и Израиля по Ирану",
-      "recap_neutral": "При этом Евросоюз также призывает к деэскалации ситуации на Ближнем Востоке, которая обострилась с началом атак США и Израиля по Ирану",
-      "main_idea": "ЕС допускает введение новых санкций против Ирана",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 22:57:54 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26603493",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "КСИР заявил об уничтожении радара ПВО в ОАЭ и поражении корабля ВМС США",
-      "title_neutral": "КСИР заявил об уничтожении радара ПВО в ОАЭ и поражении корабля ВМС США",
-      "excerpt": "Корпус стражей исламской революции отметил, что иранские силы \"продолжают преследовать флот США, дислоцированный в регионе\"",
-      "recap_neutral": "Корпус стражей исламской революции отметил, что иранские силы \"продолжают преследовать флот США, дислоцированный в регионе\"",
-      "main_idea": "КСИР заявил об уничтожении радара ПВО в ОАЭ и поражении корабля ВМС США",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 22:50:28 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26603509",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Sun, 01 Mar 2026 20:45:57 GMT",
+      "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
       "title_original": "Deadly Texas bar shooting is 'potentially an act of terrorism', FBI says",
       "title_neutral": "Deadly Texas bar shooting is 'potentially an act of terrorism', FBI says",
-      "excerpt": "Two people were killed and 14 injured, with the suspected gunman also shot dead on the scene.",
-      "recap_neutral": "Two people were killed and 14 injured, with the suspected gunman also shot dead on the scene",
+      "excerpt": "Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead.",
+      "recap_neutral": "Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead",
       "main_idea": "Deadly Texas bar shooting is 'potentially an act of terrorism', FBI says",
       "tags": [],
       "source": "BBC World",
@@ -412,6 +435,24 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "War photographer Paul Conroy dies as tributes paid",
+      "title_neutral": "War photographer Paul Conroy dies as tributes paid",
+      "excerpt": "Jamie Doran played the photographer, who has died aged 61, in the 2018 movie A Private War.",
+      "recap_neutral": "Jamie Doran played the photographer, who has died aged 61, in the 2018 movie A Private War",
+      "main_idea": "War photographer Paul Conroy dies as tributes paid",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 01 Mar 2026 19:47:03 GMT",
+      "url": "https://www.bbc.com/news/articles/c5y6jvlv83ro?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -478,23 +519,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Nine dead in missile attack on Israel as Iran strikes region",
-      "title_neutral": "Nine dead in missile attack on Israel as Iran strikes region",
-      "excerpt": "Several deaths are reported across the Middle East as Tehran retaliates for massive strikes by the US and Israel.",
-      "recap_neutral": "Several deaths are reported across the Middle East as Tehran retaliates for massive strikes by the US and Israel",
-      "main_idea": "Nine dead in missile attack on Israel as Iran strikes region",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 01 Mar 2026 16:55:57 GMT",
-      "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -583,21 +607,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Lil' Fun Langs' Guts",
-      "title_neutral": "Lil' Fun Langs' Guts",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Lil' Fun Langs' Guts",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 01 Mar 2026 15:23:42 +0000",
-      "url": "https://taylor.town/scrapscript-001",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Why XML tags are so fundamental to Claude",
       "title_neutral": "Why XML tags are so fundamental to Claude",
       "excerpt": "Comments",
@@ -613,11 +622,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The months of planning behind US-Israeli mission to target Iran's supreme leader",
-      "title_neutral": "The months of planning behind US-Israeli mission to target Iran's supreme leader",
+      "title_original": "Months of planning behind US-Israeli mission to target Iran's supreme leader",
+      "title_neutral": "Months of planning behind US-Israeli mission to target Iran's supreme leader",
       "excerpt": "A piece of crucial intelligence arrived just hours before the attack on a compound in central Tehran.",
       "recap_neutral": "A piece of crucial intelligence arrived just hours before the attack on a compound in central Tehran",
-      "main_idea": "The months of planning behind US-Israeli mission to target Iran's supreme leader",
+      "main_idea": "Months of planning behind US-Israeli mission to target Iran's supreme leader",
       "tags": [
         "conflict"
       ],
@@ -671,23 +680,6 @@
       "source": "Hacker News",
       "published_at": "Sun, 01 Mar 2026 12:13:03 +0000",
       "url": "https://ghostty.org/docs",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
-      "title_neutral": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sun, 01 Mar 2026 11:49:01 +0000",
-      "url": "https://99helpers.com/tools/ad-supported-chat",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -956,40 +948,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "How responsible are climbers for each other's safety? Mountaineers react to manslaughter",
-      "title_neutral": "How responsible are climbers for each other's safety? Mountaineers react to manslaughter",
-      "excerpt": "A woman's death during a climbing trip has sparked debates about personal responsibility and risk.",
-      "recap_neutral": "A woman's death during a climbing trip has sparked debates about personal responsibility and risk",
-      "main_idea": "How responsible are climbers for each other's safety? Mountaineers react to manslaughter",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 01 Mar 2026 00:57:16 GMT",
-      "url": "https://www.bbc.com/news/articles/cwy8ppn4142o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Wellness peptide craze: Why people are injecting drugs 'not for human consumption'",
-      "title_neutral": "Wellness peptide craze: Why people are injecting drugs 'not for human consumption'",
-      "excerpt": "Growing numbers of people are injecting unregulated peptides for health reasons - but one expert says they are \"lab rats\".",
-      "recap_neutral": "Growing numbers of people are injecting unregulated peptides for health reasons - but one expert says they are \"lab rats\"",
-      "main_idea": "Wellness peptide craze: Why people are injecting drugs 'not for human consumption'",
-      "tags": [
-        "health"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 01 Mar 2026 00:51:29 GMT",
-      "url": "https://www.bbc.com/news/articles/cdr268m5pxro?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Why is WhatsApp's privacy policy facing a legal challenge in India?",
       "title_neutral": "Why is WhatsApp's privacy policy facing a legal challenge in India?",
       "excerpt": "A 2021 policy update requires users to share data with Meta for ads purposes to continue using the app.",
@@ -999,6 +957,23 @@
       "source": "BBC World",
       "published_at": "Sun, 01 Mar 2026 00:21:43 GMT",
       "url": "https://www.bbc.com/news/articles/cp81wegj123o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Where have Nepal's 'nepo kids' gone as corruption takes centre stage in election?",
+      "title_neutral": "Where have Nepal's 'nepo kids' gone as corruption takes centre stage in election?",
+      "excerpt": "The excess of politicians' children was front and centre of the anger that drove protests that toppled the government last year.",
+      "recap_neutral": "The excess of politicians' children was front and centre of the anger that drove protests that toppled the government last year",
+      "main_idea": "Where have Nepal's 'nepo kids' gone as corruption takes centre stage in election?",
+      "tags": [
+        "politics"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 28 Feb 2026 23:03:48 GMT",
+      "url": "https://www.bbc.com/news/articles/cgqgl3j5nj4o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -1615,6 +1590,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Gzpeek: Tool to Parse Gzip Metadata",
+      "title_neutral": "Gzpeek: Tool to Parse Gzip Metadata",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Gzpeek: Tool to Parse Gzip Metadata",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 27 Feb 2026 07:39:09 +0000",
+      "url": "https://evanhahn.com/introducing-gzpeek/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
