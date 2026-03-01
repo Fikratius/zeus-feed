@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T13:36:30.536013+00:00",
+  "last_updated": "2026-03-01T14:21:02.696599+00:00",
   "items": [
     {
       "title_original": "US accused of ‘shameless exploitation’ over proposed Zambian health aid deal",
@@ -33,6 +33,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Interview with Øyvind Kolås, GIMP developer",
+      "title_neutral": "Interview with Øyvind Kolås, GIMP developer",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Interview with Øyvind Kolås, GIMP developer",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 26 Feb 2026 16:39:07 +0000",
+      "url": "https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -86,21 +101,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The happiest I've ever been",
-      "title_neutral": "The happiest I've ever been",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The happiest I've ever been",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 26 Feb 2026 04:13:47 +0000",
-      "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Jacinda Ardern living and working in Australia after move from US",
       "title_neutral": "Jacinda Ardern living and working in Australia after move from US",
       "excerpt": "Exclusive: Former New Zealand PM ‘based out of Australia’, according to spokesperson, after rumours she was looking for houses in Sydney The former New Zealand prime minister Jacinda Ardern is living in Australia with her family, a spokesperson has confirmed. “The family has been travelling for a f…",
@@ -116,263 +116,295 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "ТАСС: визит премьера Пакистана в РФ не отменили, а перенесли",
-      "title_neutral": "ТАСС: визит премьера Пакистана в РФ не отменили, а перенесли",
+      "title_original": "Медведев назвал убийство Хаменеи варварской силовой акцией",
+      "title_neutral": "Медведев назвал убийство Хаменеи варварской силовой акцией",
       "excerpt": "",
-      "recap_neutral": "ТАСС: визит премьера Пакистана в РФ не отменили, а перенесли",
-      "main_idea": "ТАСС: визит премьера Пакистана в РФ не отменили, а перенесли",
+      "recap_neutral": "Медведев назвал убийство Хаменеи варварской силовой акцией",
+      "main_idea": "Медведев назвал убийство Хаменеи варварской силовой акцией",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 16:30:02 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26600053",
+      "published_at": "Sun, 01 Mar 2026 17:16:58 +0300",
+      "url": "https://tass.ru/politika/26600555",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ТАСС: В КХЛ планируют доиграть матч между \"Сочи\" и \"Торпедо\" в воскресенье",
-      "title_neutral": "ТАСС: В КХЛ планируют доиграть матч между \"Сочи\" и \"Торпедо\" в воскресенье",
-      "excerpt": "Игру приостановили в третьем периоде из-за угрозы атаки БПЛА",
-      "recap_neutral": "Игру приостановили в третьем периоде из-за угрозы атаки БПЛА",
-      "main_idea": "ТАСС: В КХЛ планируют доиграть матч между \"Сочи\" и \"Торпедо\" в воскресенье",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 16:29:55 +0300",
-      "url": "https://tass.ru/sport/26600069",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Бейруте усилили меры безопасности перед митингом \"Хезболлах\" в поддержку Ирана",
-      "title_neutral": "В Бейруте усилили меры безопасности перед митингом \"Хезболлах\" в поддержку Ирана",
-      "excerpt": "Массовая акция пройдет во второй половине дня",
-      "recap_neutral": "Массовая акция пройдет во второй половине дня",
-      "main_idea": "В Бейруте усилили меры безопасности перед митингом \"Хезболлах\" в поддержку Ирана",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 16:29:26 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26600005",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "РФ одобрила проект соглашения о научно-техническом сотрудничестве с Пакистаном",
-      "title_neutral": "РФ одобрила проект соглашения о научно-техническом сотрудничестве с Пакистаном",
-      "excerpt": "Документ представлен Минобрнауки России, согласован с МИД и другими профильными ведомствами, предварительно проработан с пакистанской стороной",
-      "recap_neutral": "Документ представлен Минобрнауки России, согласован с МИД и другими профильными ведомствами, предварительно проработан с пакистанской стороной",
-      "main_idea": "РФ одобрила проект соглашения о научно-техническом сотрудничестве с Пакистаном",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 16:29:21 +0300",
-      "url": "https://tass.ru/nauka/26599933",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Сербия направит военных специалистов в ОАЭ для анализа ударов",
-      "title_neutral": "Сербия направит военных специалистов в ОАЭ для анализа ударов",
-      "excerpt": "По словам сербского лидера Александара Вучича, его страна намерена использовать этот опыт для дальнейшего укрепления собственной системы ПВО",
-      "recap_neutral": "По словам сербского лидера Александара Вучича, его страна намерена использовать этот опыт для дальнейшего укрепления собственной системы ПВО",
-      "main_idea": "Сербия направит военных специалистов в ОАЭ для анализа ударов",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 16:27:40 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26599925",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Картаполов: агрессия против Ирана показала, зачем РФ \"Орешник\"",
-      "title_neutral": "Картаполов: агрессия против Ирана показала, зачем РФ \"Орешник\"",
-      "excerpt": "Председатель комитета Госдумы по обороне отметил, что новейшее вооружение и мессенджет Max нужны России для защиты",
-      "recap_neutral": "Председатель комитета Госдумы по обороне отметил, что новейшее вооружение и мессенджет Max нужны России для защиты",
-      "main_idea": "Картаполов: агрессия против Ирана показала, зачем РФ \"Орешник\"",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 16:26:49 +0300",
-      "url": "https://tass.ru/politika/26600011",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропортах Кубани задерживаются более 70 рейсов",
-      "title_neutral": "В аэропортах Кубани задерживаются более 70 рейсов",
-      "excerpt": "На запасные аэродромы ушли 11 самолетов, летевших в Сочи",
-      "recap_neutral": "На запасные аэродромы ушли 11 самолетов, летевших в Сочи",
-      "main_idea": "В аэропортах Кубани задерживаются более 70 рейсов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 16:26:27 +0300",
-      "url": "https://tass.ru/obschestvo/26599983",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Состояние пострадавшего в Прикамье туриста оценивается как тяжелое",
-      "title_neutral": "Состояние пострадавшего в Прикамье туриста оценивается как тяжелое",
-      "excerpt": "Мужчину 67 лет доставили в больницу",
-      "recap_neutral": "Мужчину 67 лет доставили в больницу",
-      "main_idea": "Состояние пострадавшего в Прикамье туриста оценивается как тяжелое",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 16:24:25 +0300",
-      "url": "https://tass.ru/proisshestviya/26600019",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Матч \"Черноморец\" - \"Торпедо\" начнется в 16:45 мск",
-      "title_neutral": "Матч \"Черноморец\" - \"Торпедо\" начнется в 16:45 мск",
-      "excerpt": "Изначально встреча должна была начаться в 15:00 мск, однако ее старт был отложен из-за угрозы атаки БПЛА",
-      "recap_neutral": "Изначально встреча должна была начаться в 15:00 мск, однако ее старт был отложен из-за угрозы атаки БПЛА",
-      "main_idea": "Матч \"Черноморец\" - \"Торпедо\" начнется в 16:45 мск",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 16:24:02 +0300",
-      "url": "https://tass.ru/sport/26600023",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Fars: Израиль и США обстреливают границы Ирана",
-      "title_neutral": "Fars: Израиль и США обстреливают границы Ирана",
+      "title_original": "Глава МИД Ирана не исключил выборы нового верховного лидера \"через день или два\"",
+      "title_neutral": "Глава МИД Ирана не исключил выборы нового верховного лидера \"через день или два\"",
       "excerpt": "",
-      "recap_neutral": "Fars: Израиль и США обстреливают границы Ирана",
-      "main_idea": "Fars: Израиль и США обстреливают границы Ирана",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 16:23:13 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26599993",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Закарпатье пьяный начальник военкомата с автоматом пытался мобилизовать людей",
-      "title_neutral": "В Закарпатье пьяный начальник военкомата с автоматом пытался мобилизовать людей",
-      "excerpt": "После вызова полиции Алексей Травов с подчиненными покинули место происшествия на микроавтобусе",
-      "recap_neutral": "После вызова полиции Алексей Травов с подчиненными покинули место происшествия на микроавтобусе",
-      "main_idea": "В Закарпатье пьяный начальник военкомата с автоматом пытался мобилизовать людей",
+      "recap_neutral": "Глава МИД Ирана не исключил выборы нового верховного лидера \"через день или два\"",
+      "main_idea": "Глава МИД Ирана не исключил выборы нового верховного лидера \"через день или два\"",
       "tags": [
-        "tech"
+        "politics"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 16:22:43 +0300",
-      "url": "https://tass.ru/obschestvo/26599909",
+      "published_at": "Sun, 01 Mar 2026 17:16:29 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26600525",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Новороссийске падение обломков БПЛА повредило два дома и ЛЭП",
-      "title_neutral": "В Новороссийске падение обломков БПЛА повредило два дома и ЛЭП",
-      "excerpt": "По предварительным данным, пострадавших нет",
-      "recap_neutral": "По предварительным данным, пострадавших нет",
-      "main_idea": "В Новороссийске падение обломков БПЛА повредило два дома и ЛЭП",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 16:22:32 +0300",
-      "url": "https://tass.ru/proisshestviya/26599977",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Кувейте при ударах Ирана погиб человек",
-      "title_neutral": "В Кувейте при ударах Ирана погиб человек",
-      "excerpt": "Более 30 пострадали, сообщил Минздрав страны",
-      "recap_neutral": "Более 30 пострадали, сообщил Минздрав страны",
-      "main_idea": "В Кувейте при ударах Ирана погиб человек",
+      "title_original": "В Минске заинтересованы в прямом авиасообщении с Волгоградом и Красноярском",
+      "title_neutral": "В Минске заинтересованы в прямом авиасообщении с Волгоградом и Красноярском",
+      "excerpt": "Эти города важны с точки зрения развития экономических, туристических отношений, отметил глава администрации президента Белоруссии Дмитрий Крутой",
+      "recap_neutral": "Эти города важны с точки зрения развития экономических, туристических отношений, отметил глава администрации президента Белоруссии Дмитрий Крутой",
+      "main_idea": "В Минске заинтересованы в прямом авиасообщении с Волгоградом и Красноярском",
       "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 16:19:44 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26599955",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Посольство РФ в Баку: в списках на выезд из Ирана через Азербайджан числятся 500 россиян",
-      "title_neutral": "Посольство РФ в Баку: в списках на выезд из Ирана через Азербайджан числятся 500 россиян",
-      "excerpt": "",
-      "recap_neutral": "Посольство РФ в Баку: в списках на выезд из Ирана через Азербайджан числятся 500 россиян",
-      "main_idea": "Посольство РФ в Баку: в списках на выезд из Ирана через Азербайджан числятся 500 россиян",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 16:18:17 +0300",
-      "url": "https://tass.ru/obschestvo/26599917",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Матвиенко назвала атаки США и Израиля на Иран актом, способным нанести ущерб стабильности",
-      "title_neutral": "Матвиенко назвала атаки США и Израиля на Иран актом, способным нанести ущерб стабильности",
-      "excerpt": "",
-      "recap_neutral": "Матвиенко назвала атаки США и Израиля на Иран актом, способным нанести ущерб стабильности",
-      "main_idea": "Матвиенко назвала атаки США и Израиля на Иран актом, способным нанести ущерб стабильности",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Mar 2026 16:14:40 +0300",
-      "url": "https://tass.ru/politika/26599883",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "OPEC Plus to Boost Oil Production as Iran Strikes Threaten Price Spike",
-      "title_neutral": "OPEC Plus to Boost Oil Production as Iran Strikes Threaten Price Spike",
-      "excerpt": "The cartel pledged to increase output by 206,000 barrels a day from next month, and said that members would “closely monitor and assess market conditions.”",
-      "recap_neutral": "The cartel pledged to increase output by 206,000 barrels a day from next month, and said that members would “closely monitor and assess market conditions",
-      "main_idea": "OPEC Plus to Boost Oil Production as Iran Strikes Threaten Price Spike",
-      "tags": [
+        "politics",
         "economy",
-        "conflict",
         "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 17:16:13 +0300",
+      "url": "https://tass.ru/obschestvo/26600507",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Хакасии объявили режим \"черного неба\"",
+      "title_neutral": "В Хакасии объявили режим \"черного неба\"",
+      "excerpt": "Все предприятия обязаны снизить выбросы в атмосферу не менее чем на 20%",
+      "recap_neutral": "Все предприятия обязаны снизить выбросы в атмосферу не менее чем на 20%",
+      "main_idea": "В Хакасии объявили режим \"черного неба\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 17:15:30 +0300",
+      "url": "https://tass.ru/obschestvo/26600515",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Арагчи: США и Израилю не стоит рассчитывать на смену политического строя в Иране",
+      "title_neutral": "Арагчи: США и Израилю не стоит рассчитывать на смену политического строя в Иране",
+      "excerpt": "",
+      "recap_neutral": "Арагчи: США и Израилю не стоит рассчитывать на смену политического строя в Иране",
+      "main_idea": "Арагчи: США и Израилю не стоит рассчитывать на смену политического строя в Иране",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 17:11:35 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26600485",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AFP: Maersk объявила об остановке перевозок через Ормузский пролив",
+      "title_neutral": "AFP: Maersk объявила об остановке перевозок через Ормузский пролив",
+      "excerpt": "",
+      "recap_neutral": "AFP: Maersk объявила об остановке перевозок через Ормузский пролив",
+      "main_idea": "AFP: Maersk объявила об остановке перевозок через Ормузский пролив",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 17:10:27 +0300",
+      "url": "https://tass.ru/ekonomika/26600459",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Bloomberg: японский импортер СПГ JERA эвакуирует работников с Ближнего Востока",
+      "title_neutral": "Bloomberg: японский импортер СПГ JERA эвакуирует работников с Ближнего Востока",
+      "excerpt": "Указание об эвакуации касается 17 сотрудников местной дочерней компании, а также членов их семей, сообщило агентство",
+      "recap_neutral": "Указание об эвакуации касается 17 сотрудников местной дочерней компании, а также членов их семей, сообщило агентство",
+      "main_idea": "Bloomberg: японский импортер СПГ JERA эвакуирует работников с Ближнего Востока",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 17:09:52 +0300",
+      "url": "https://tass.ru/ekonomika/26600449",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Над регионами России сбили 84 украинских БПЛА",
+      "title_neutral": "Над регионами России сбили 84 украинских БПЛА",
+      "excerpt": "Работали силы ПВО",
+      "recap_neutral": "Работали силы ПВО",
+      "main_idea": "Над регионами России сбили 84 украинских БПЛА",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 17:09:17 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26600465",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Арагчи призвал страны Персидского залива с понимаем отнестись к действиям Ирана",
+      "title_neutral": "Арагчи призвал страны Персидского залива с понимаем отнестись к действиям Ирана",
+      "excerpt": "",
+      "recap_neutral": "Арагчи призвал страны Персидского залива с понимаем отнестись к действиям Ирана",
+      "main_idea": "Арагчи призвал страны Персидского залива с понимаем отнестись к действиям Ирана",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 17:07:15 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26600399",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В МИД РФ рекомендовали россиянам воздержаться от поездок в Иран и Израиль",
+      "title_neutral": "В МИД РФ рекомендовали россиянам воздержаться от поездок в Иран и Израиль",
+      "excerpt": "",
+      "recap_neutral": "В МИД РФ рекомендовали россиянам воздержаться от поездок в Иран и Израиль",
+      "main_idea": "В МИД РФ рекомендовали россиянам воздержаться от поездок в Иран и Израиль",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 17:06:54 +0300",
+      "url": "https://tass.ru/politika/26600391",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Глава комитета по разведке Сената: США не планируют масштабную наземную операцию в Иране",
+      "title_neutral": "Глава комитета по разведке Сената: США не планируют масштабную наземную операцию в Иране",
+      "excerpt": "",
+      "recap_neutral": "Глава комитета по разведке Сената: США не планируют масштабную наземную операцию в Иране",
+      "main_idea": "Глава комитета по разведке Сената: США не планируют масштабную наземную операцию в Иране",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 17:05:53 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26600385",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В посольство РФ в Иране не поступало данных о пострадавших среди россиян",
+      "title_neutral": "В посольство РФ в Иране не поступало данных о пострадавших среди россиян",
+      "excerpt": "Диппредставительство оказывает содействие гражданам России в вопросах эвакуации",
+      "recap_neutral": "Диппредставительство оказывает содействие гражданам России в вопросах эвакуации",
+      "main_idea": "В посольство РФ в Иране не поступало данных о пострадавших среди россиян",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 16:59:04 +0300",
+      "url": "https://tass.ru/obschestvo/26600319",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Израиль намерен вместе с США продолжать удары по Ирану",
+      "title_neutral": "Израиль намерен вместе с США продолжать удары по Ирану",
+      "excerpt": "Глава МИД еврейского государства Гидеон Саар отверг критику в адрес его страны по поводу атаки на исламскую республику",
+      "recap_neutral": "Глава МИД еврейского государства Гидеон Саар отверг критику в адрес его страны по поводу атаки на исламскую республику",
+      "main_idea": "Израиль намерен вместе с США продолжать удары по Ирану",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 16:57:55 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26600313",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Тегеране тысячи иранцев оплакивают погибшего верховного лидера Хаменеи",
+      "title_neutral": "В Тегеране тысячи иранцев оплакивают погибшего верховного лидера Хаменеи",
+      "excerpt": "Али Хаменеи погиб 28 февраля при атаках США и Израиля",
+      "recap_neutral": "Али Хаменеи погиб 28 февраля при атаках США и Израиля",
+      "main_idea": "В Тегеране тысячи иранцев оплакивают погибшего верховного лидера Хаменеи",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 16:56:58 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26600277",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Минтуризма Израиля сообщило о способах покинуть страну через Египет и Иорданию",
+      "title_neutral": "Минтуризма Израиля сообщило о способах покинуть страну через Египет и Иорданию",
+      "excerpt": "Ведомство рекомендовало оплачивать все сборы до прибытия на переход, поскольку \"это значительно сокращает время ожидания и предотвращает скопление людей в пунктах оплаты\", и прибывать на пограничные переходы не позднее, чем за два часа до официального времени закрытия",
+      "recap_neutral": "Ведомство рекомендовало оплачивать все сборы до прибытия на переход, поскольку \"это значительно сокращает время ожидания и предотвращает скопление людей в пунктах оплаты\", и прибывать на пограничные переходы не позднее,…",
+      "main_idea": "Минтуризма Израиля сообщило о способах покинуть страну через Египет и Иорданию",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Mar 2026 16:53:42 +0300",
+      "url": "https://tass.ru/ekonomika/26600257",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
+      "title_neutral": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 01 Mar 2026 14:09:24 +0000",
+      "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "‘It’s Surreal’: Iranians in Disbelief After Supreme Leader Assassinated",
+      "title_neutral": "‘It’s Surreal’: Iranians in Disbelief After Supreme Leader Assassinated",
+      "excerpt": "Large crowds of people celebrated the killing of Ayatollah Ali Khamenei in American and Israeli strikes, while many others gathered to mourn.",
+      "recap_neutral": "Large crowds of people celebrated the killing of Ayatollah Ali Khamenei in American and Israeli strikes, while many others gathered to mourn",
+      "main_idea": "‘It’s Surreal’: Iranians in Disbelief After Supreme Leader Assassinated",
+      "tags": [
+        "conflict"
       ],
       "source": "NYTimes World",
-      "published_at": "Sun, 01 Mar 2026 12:43:05 +0000",
-      "url": "https://www.nytimes.com/2026/03/01/world/middleeast/opec-plus-oil-production-prices.html",
+      "published_at": "Sun, 01 Mar 2026 14:05:02 +0000",
+      "url": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-disbelief-khamenei-assassination.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ghostty – Terminal Emulator",
+      "title_neutral": "Ghostty – Terminal Emulator",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Ghostty – Terminal Emulator",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 01 Mar 2026 12:13:03 +0000",
+      "url": "https://ghostty.org/docs",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -505,6 +537,39 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Mideast clashes breach Olympic truce as athletes gather for Winter Paralympic Games",
+      "title_neutral": "Mideast clashes breach Olympic truce as athletes gather for Winter Paralympic Games",
+      "excerpt": "Fighting intensified in the Middle East during the Olympic truce, in effect through March 15. Flights are being disrupted as athletes and families converge on Italy for the Winter Paralympics.",
+      "recap_neutral": "Fighting intensified in the Middle East during the Olympic truce, in effect through March 15",
+      "main_idea": "Mideast clashes breach Olympic truce as athletes gather for Winter Paralympic Games",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sun, 01 Mar 2026 08:38:15 -0500",
+      "url": "https://www.npr.org/2026/03/01/nx-s1-5731368/mideast-clashes-breach-olympic-truce-winter-paralympic-games",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A U.S. scholarship thrills a teacher in India. Then came the soul-crushing questions",
+      "title_neutral": "A U.S. scholarship thrills a teacher in India. Then came the soul-crushing questions",
+      "excerpt": "She was thrilled to become the first teacher from a government-sponsored school in India to get a Fulbright exchange award to learn from U.S. schools. People asked two questions that clouded her joy.",
+      "recap_neutral": "She was thrilled to become the first teacher from a government-sponsored school in India to get a Fulbright exchange award to learn from U",
+      "main_idea": "A U.S. scholarship thrills a teacher in India. Then came the soul-crushing questions",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "NPR",
+      "published_at": "Sun, 01 Mar 2026 08:36:43 -0500",
+      "url": "https://www.npr.org/2026/03/01/g-s1-104772/teacher-india-school-patriarchy-fulbright",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "The U.S. Released the Epstein Files. The Arrests Are Overseas.",
       "title_neutral": "The U.S. Released the Epstein Files. The Arrests Are Overseas.",
       "excerpt": "While the latest tranche of documents about the sex offender Jeffrey Epstein has exposed a deeply American scandal, it is Europe where the aggressive enforcement is taking place.",
@@ -527,7 +592,7 @@
       "main_idea": "Who Could Take Over for Ayatollah Ali Khamenei?",
       "tags": [],
       "source": "NYTimes World",
-      "published_at": "Sun, 01 Mar 2026 07:50:37 +0000",
+      "published_at": "Sun, 01 Mar 2026 07:50:38 +0000",
       "url": "https://www.nytimes.com/2026/02/28/world/middleeast/ali-khamenei-iran-leader-succession.html",
       "lang": "en",
       "bias_score": 55,
@@ -801,21 +866,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Obsidian Sync now has a headless client",
-      "title_neutral": "Obsidian Sync now has a headless client",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Obsidian Sync now has a headless client",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 28 Feb 2026 16:31:53 +0000",
-      "url": "https://help.obsidian.md/sync/headless",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1177,38 +1227,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Opinion: The Chicago Bears of Indiana",
-      "title_neutral": "Opinion: The Chicago Bears of Indiana",
-      "excerpt": "A storied football team may be moving out of Illinois. Will fans of the Chicago Bears stick with them when they become the Hammond Bears?",
-      "recap_neutral": "A storied football team may be moving out of Illinois",
-      "main_idea": "Opinion: The Chicago Bears of Indiana",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Sat, 28 Feb 2026 08:00:00 -0500",
-      "url": "https://www.npr.org/2026/02/28/nx-s1-5721775/opinion-the-chicago-bears-of-indiana",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran strikes were launched without approval from Congress, deeply dividing lawmakers",
-      "title_neutral": "Iran strikes were launched without approval from Congress, deeply dividing lawmakers",
-      "excerpt": "Top lawmakers were notified about the operation shortly before it was launched, but the White House did not seek authorization from Congress to carry out the strikes.",
-      "recap_neutral": "Top lawmakers were notified about the operation shortly before it was launched, but the White House did not seek authorization from Congress to carry out the strikes",
-      "main_idea": "Iran strikes were launched without approval from Congress, deeply dividing lawmakers",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 28 Feb 2026 07:56:10 -0500",
-      "url": "https://www.npr.org/2026/02/28/nx-s1-5730203/iran-israel-trump-congress-strikes-reaction",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Carney Visiting India, Australia and Japan to Build Canada’s ‘Middle Power’ Bonds",
       "title_neutral": "Carney Visiting India, Australia and Japan to Build Canada’s ‘Middle Power’ Bonds",
       "excerpt": "Prime Minister Mark Carney visits India, Australia and Japan seeking deals to strengthen his country’s links to Indo-Pacific powers and break Canada’s dependence on the United States.",
@@ -1420,21 +1438,6 @@
       "source": "Hacker News",
       "published_at": "Fri, 27 Feb 2026 17:58:48 +0000",
       "url": "https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Rydberg atoms detect clear signals from a handheld radio",
-      "title_neutral": "Rydberg atoms detect clear signals from a handheld radio",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Rydberg atoms detect clear signals from a handheld radio",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 27 Feb 2026 17:07:42 +0000",
-      "url": "https://phys.org/news/2026-02-rydberg-atoms-handheld-radio.html",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
