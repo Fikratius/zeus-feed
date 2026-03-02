@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T07:45:57.161416+00:00",
+  "last_updated": "2026-03-02T08:39:17.260078+00:00",
   "items": [
     {
       "title_original": "US accused of ‘shameless exploitation’ over proposed Zambian health aid deal",
@@ -301,6 +301,21 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why does C have the best file API",
+      "title_neutral": "Why does C have the best file API",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Why does C have the best file API",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 01 Mar 2026 19:25:04 +0000",
+      "url": "https://maurycyz.com/misc/c_files/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -970,253 +985,276 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Посол РФ в Израиле: ближневосточный регион находится на грани большой войны",
-      "title_neutral": "Посол РФ в Израиле: ближневосточный регион находится на грани большой войны",
+      "title_original": "Воздушное пространство Ирака останется закрытым еще двое суток",
+      "title_neutral": "Воздушное пространство Ирака останется закрытым еще двое суток",
       "excerpt": "",
-      "recap_neutral": "Посол РФ в Израиле: ближневосточный регион находится на грани большой войны",
-      "main_idea": "Посол РФ в Израиле: ближневосточный регион находится на грани большой войны",
+      "recap_neutral": "Воздушное пространство Ирака останется закрытым еще двое суток",
+      "main_idea": "Воздушное пространство Ирака останется закрытым еще двое суток",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Mar 2026 11:37:22 +0300",
+      "url": "https://tass.ru/ekonomika/26608917",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ульянов: заявления США и Израиля говорят о том, что их целью является смена власти в Иране",
+      "title_neutral": "Ульянов: заявления США и Израиля говорят о том, что их целью является смена власти в Иране",
+      "excerpt": "",
+      "recap_neutral": "Ульянов: заявления США и Израиля говорят о том, что их целью является смена власти в Иране",
+      "main_idea": "Ульянов: заявления США и Израиля говорят о том, что их целью является смена власти в Иране",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Mar 2026 11:37:21 +0300",
+      "url": "https://tass.ru/politika/26608899",
+      "lang": "ru",
+      "bias_score": 56,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Аналитик Пырьева: ситуация на Ближнем Востоке позитивно влияет на рубль",
+      "title_neutral": "Аналитик Пырьева: ситуация на Ближнем Востоке позитивно влияет на рубль",
+      "excerpt": "В \"Цифра брокере\" ожидают сохранение консолидации в диапазоне 76-80 рублей за $1",
+      "recap_neutral": "В \"Цифра брокере\" ожидают сохранение консолидации в диапазоне 76-80 рублей за $1",
+      "main_idea": "Аналитик Пырьева: ситуация на Ближнем Востоке позитивно влияет на рубль",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Mar 2026 11:37:08 +0300",
+      "url": "https://tass.ru/ekonomika/26608765",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Посол РФ в Израиле: ясного мандата Совета мира по Газе пока нет",
+      "title_neutral": "Посол РФ в Израиле: ясного мандата Совета мира по Газе пока нет",
+      "excerpt": "Анатолий Викторов отметил, что организация еще не успела себя дискредитировать, потому что ничего пока не сделала",
+      "recap_neutral": "Анатолий Викторов отметил, что организация еще не успела себя дискредитировать, потому что ничего пока не сделала",
+      "main_idea": "Посол РФ в Израиле: ясного мандата Совета мира по Газе пока нет",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Mar 2026 11:36:54 +0300",
+      "url": "https://tass.ru/politika/26608517",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Для Екатерины Шульман запросили 1 год 11 месяцев заочно",
+      "title_neutral": "Для Екатерины Шульман запросили 1 год 11 месяцев заочно",
+      "excerpt": "Политолог обвиняется в уклонении от исполнения обязанностей иноагента",
+      "recap_neutral": "Политолог обвиняется в уклонении от исполнения обязанностей иноагента",
+      "main_idea": "Для Екатерины Шульман запросили 1 год 11 месяцев заочно",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Mar 2026 11:36:07 +0300",
+      "url": "https://tass.ru/proisshestviya/26608873",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Геленджика сняли ограничения",
+      "title_neutral": "В аэропорту Геленджика сняли ограничения",
+      "excerpt": "",
+      "recap_neutral": "В аэропорту Геленджика сняли ограничения",
+      "main_idea": "В аэропорту Геленджика сняли ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Mar 2026 11:35:39 +0300",
+      "url": "https://tass.ru/ekonomika/26608867",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лариса Долина готовит премьеру и большой концертный тур",
+      "title_neutral": "Лариса Долина готовит премьеру и большой концертный тур",
+      "excerpt": "",
+      "recap_neutral": "Лариса Долина готовит премьеру и большой концертный тур",
+      "main_idea": "Лариса Долина готовит премьеру и большой концертный тур",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Mar 2026 11:34:49 +0300",
+      "url": "https://tass.ru/kultura/26608635",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Производство рыбной продукции в РФ в январе снизилось на 7%",
+      "title_neutral": "Производство рыбной продукции в РФ в январе снизилось на 7%",
+      "excerpt": "",
+      "recap_neutral": "Производство рыбной продукции в РФ в январе снизилось на 7%",
+      "main_idea": "Производство рыбной продукции в РФ в январе снизилось на 7%",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Mar 2026 11:34:32 +0300",
+      "url": "https://tass.ru/ekonomika/26608709",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В России определили лидеров ЭКГ-рейтинга за февраль",
+      "title_neutral": "В России определили лидеров ЭКГ-рейтинга за февраль",
+      "excerpt": "",
+      "recap_neutral": "В России определили лидеров ЭКГ-рейтинга за февраль",
+      "main_idea": "В России определили лидеров ЭКГ-рейтинга за февраль",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Mar 2026 11:33:59 +0300",
+      "url": "https://tass.ru/ekonomika/26608853",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Глава МО Израиля назвал генсека \"Хезболлах\" \"мишенью для уничтожения\"",
+      "title_neutral": "Глава МО Израиля назвал генсека \"Хезболлах\" \"мишенью для уничтожения\"",
+      "excerpt": "Движение заплатит высокую цену за обстрел еврейского государства, заявил Исраэль Кац",
+      "recap_neutral": "Движение заплатит высокую цену за обстрел еврейского государства, заявил Исраэль Кац",
+      "main_idea": "Глава МО Израиля назвал генсека \"Хезболлах\" \"мишенью для уничтожения\"",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 02 Mar 2026 10:45:00 +0300",
-      "url": "https://tass.ru/politika/26607919",
+      "published_at": "Mon, 02 Mar 2026 11:33:42 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26608811",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Очевидица рассказал, что в Дубае нет паники на фоне иранских ударов",
-      "title_neutral": "Очевидица рассказал, что в Дубае нет паники на фоне иранских ударов",
-      "excerpt": "Город живет в спокойном режиме, отметила местная жительница",
-      "recap_neutral": "Город живет в спокойном режиме, отметила местная жительница",
-      "main_idea": "Очевидица рассказал, что в Дубае нет паники на фоне иранских ударов",
+      "title_original": "Саратовских полицейских подозревают в фальсификации доказательств",
+      "title_neutral": "Саратовских полицейских подозревают в фальсификации доказательств",
+      "excerpt": "Сотрудники дополнили протокол допроса обвиняемого местного жителя не соответствующими действительности сведениями, указывающими на его причастность к совершению преступления",
+      "recap_neutral": "Сотрудники дополнили протокол допроса обвиняемого местного жителя не соответствующими действительности сведениями, указывающими на его причастность к совершению преступления",
+      "main_idea": "Саратовских полицейских подозревают в фальсификации доказательств",
       "tags": [
-        "conflict"
+        "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 02 Mar 2026 10:44:34 +0300",
-      "url": "https://tass.ru/obschestvo/26607861",
+      "published_at": "Mon, 02 Mar 2026 11:32:55 +0300",
+      "url": "https://tass.ru/proisshestviya/26608789",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "На Кубани обломки БПЛА повредили кровлю дома",
-      "title_neutral": "На Кубани обломки БПЛА повредили кровлю дома",
-      "excerpt": "Никто из местных жителей не пострадал",
-      "recap_neutral": "Никто из местных жителей не пострадал",
-      "main_idea": "На Кубани обломки БПЛА повредили кровлю дома",
+      "title_original": "ФАС не выявила превышения предельных внутренних цен на удобрения",
+      "title_neutral": "ФАС не выявила превышения предельных внутренних цен на удобрения",
+      "excerpt": "",
+      "recap_neutral": "ФАС не выявила превышения предельных внутренних цен на удобрения",
+      "main_idea": "ФАС не выявила превышения предельных внутренних цен на удобрения",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Mon, 02 Mar 2026 10:44:09 +0300",
-      "url": "https://tass.ru/proisshestviya/26607869",
+      "published_at": "Mon, 02 Mar 2026 11:32:53 +0300",
+      "url": "https://tass.ru/ekonomika/26608831",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "МИД КНР опроверг информацию о поставке ракет Ирану",
-      "title_neutral": "МИД КНР опроверг информацию о поставке ракет Ирану",
-      "excerpt": "Официальный представитель ведомства Мао Нин прокомментировала информацию Reuters о планах Пекина поставить Тегерану противокорабельные ракеты CM-302",
-      "recap_neutral": "Официальный представитель ведомства Мао Нин прокомментировала информацию Reuters о планах Пекина поставить Тегерану противокорабельные ракеты CM-302",
-      "main_idea": "МИД КНР опроверг информацию о поставке ракет Ирану",
+      "title_original": "Атомщик предупредил, что повреждение АЭС в Иране и ОАЭ приведет к катастрофе",
+      "title_neutral": "Атомщик предупредил, что повреждение АЭС в Иране и ОАЭ приведет к катастрофе",
+      "excerpt": "",
+      "recap_neutral": "Атомщик предупредил, что повреждение АЭС в Иране и ОАЭ приведет к катастрофе",
+      "main_idea": "Атомщик предупредил, что повреждение АЭС в Иране и ОАЭ приведет к катастрофе",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Mon, 02 Mar 2026 10:43:33 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26607851",
+      "published_at": "Mon, 02 Mar 2026 11:32:33 +0300",
+      "url": "https://tass.ru/obschestvo/26608807",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "На Украине изъяли из обращения некоторые банкноты",
-      "title_neutral": "На Украине изъяли из обращения некоторые банкноты",
-      "excerpt": "В частности, выведены банкноты номиналами 1, 2, 5 и 10 гривен образцов 2003-2007 годов",
-      "recap_neutral": "В частности, выведены банкноты номиналами 1, 2, 5 и 10 гривен образцов 2003-2007 годов",
-      "main_idea": "На Украине изъяли из обращения некоторые банкноты",
-      "tags": [
-        "economy"
-      ],
+      "title_original": "Погрузка на сети РЖД в феврале снизилась на 3,2%",
+      "title_neutral": "Погрузка на сети РЖД в феврале снизилась на 3,2%",
+      "excerpt": "Показатель составил 84,2 млн тонн",
+      "recap_neutral": "Показатель составил 84,2 млн тонн",
+      "main_idea": "Погрузка на сети РЖД в феврале снизилась на 3,2%",
+      "tags": [],
       "source": "ТАСС",
-      "published_at": "Mon, 02 Mar 2026 10:42:30 +0300",
-      "url": "https://tass.ru/ekonomika/26607841",
+      "published_at": "Mon, 02 Mar 2026 11:32:02 +0300",
+      "url": "https://tass.ru/ekonomika/26608805",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "АСИ: развитие малых городов должно учитывать их типологию",
-      "title_neutral": "АСИ: развитие малых городов должно учитывать их типологию",
-      "excerpt": "Директор дивизиона \"Городская экономика\" Агентства стратегических инициатив Ольга Захарова сообщила о работе над моделями развития динамически развивающихся малых населенных пунктов",
-      "recap_neutral": "Директор дивизиона \"Городская экономика\" Агентства стратегических инициатив Ольга Захарова сообщила о работе над моделями развития динамически развивающихся малых населенных пунктов",
-      "main_idea": "АСИ: развитие малых городов должно учитывать их типологию",
-      "tags": [
-        "economy"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 02 Mar 2026 10:41:39 +0300",
-      "url": "https://tass.ru/ekonomika/26607773",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Axios: предложение США Ирану состояло в 10-летнем запрете на обогащение урана",
-      "title_neutral": "Axios: предложение США Ирану состояло в 10-летнем запрете на обогащение урана",
-      "excerpt": "По данным портала, спецпосланник главы государства Стивен Уиткофф и зять Дональда Трампа Джаред Кушнер, изначально были скептически настроены в отношении перспектив достижения компромисса с Тегераном",
-      "recap_neutral": "По данным портала, спецпосланник главы государства Стивен Уиткофф и зять Дональда Трампа Джаред Кушнер, изначально были скептически настроены в отношении перспектив достижения компромисса с Тегераном",
-      "main_idea": "Axios: предложение США Ирану состояло в 10-летнем запрете на обогащение урана",
+      "title_original": "Силы ПВО Саудовской Аравии перехватили два БПЛА при попытке атаковать НПЗ Saudi Aramco",
+      "title_neutral": "Силы ПВО Саудовской Аравии перехватили два БПЛА при попытке атаковать НПЗ Saudi Aramco",
+      "excerpt": "",
+      "recap_neutral": "Силы ПВО Саудовской Аравии перехватили два БПЛА при попытке атаковать НПЗ Saudi Aramco",
+      "main_idea": "Силы ПВО Саудовской Аравии перехватили два БПЛА при попытке атаковать НПЗ Saudi Aramco",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 02 Mar 2026 10:41:07 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26607413",
+      "published_at": "Mon, 02 Mar 2026 11:31:49 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26608799",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Ростовской области назвали причину пожара с четырьмя погибшими",
-      "title_neutral": "В Ростовской области назвали причину пожара с четырьмя погибшими",
-      "excerpt": "Предварительно, возгорание произошло из-за неосторожного обращения с огнем",
-      "recap_neutral": "Предварительно, возгорание произошло из-за неосторожного обращения с огнем",
-      "main_idea": "В Ростовской области назвали причину пожара с четырьмя погибшими",
+      "title_original": "Here’s the latest.",
+      "title_neutral": "Here’s the latest.",
+      "excerpt": "",
+      "recap_neutral": "Here’s the latest.",
+      "main_idea": "Here’s the latest.",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 02 Mar 2026 10:40:16 +0300",
-      "url": "https://tass.ru/proisshestviya/26607813",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Mon, 02 Mar 2026 08:30:16 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump/heres-the-latest",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Эксперт Табах: эффект для РФ от конфликта на Ближнем Востоке зависит от его длительности",
-      "title_neutral": "Эксперт Табах: эффект для РФ от конфликта на Ближнем Востоке зависит от его длительности",
-      "excerpt": "В условиях высокой неопределенности можно говорить лишь об общем росте рисков, подчеркнул экономист рейтингового агентства \"Эксперт РА\"",
-      "recap_neutral": "В условиях высокой неопределенности можно говорить лишь об общем росте рисков, подчеркнул экономист рейтингового агентства \"Эксперт РА\"",
-      "main_idea": "Эксперт Табах: эффект для РФ от конфликта на Ближнем Востоке зависит от его длительности",
-      "tags": [
-        "economy",
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 02 Mar 2026 10:39:47 +0300",
-      "url": "https://tass.ru/ekonomika/26607785",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ВСУ атаковали больницу в городе Кременная ЛНР",
-      "title_neutral": "ВСУ атаковали больницу в городе Кременная ЛНР",
-      "excerpt": "",
-      "recap_neutral": "ВСУ атаковали больницу в городе Кременная ЛНР",
-      "main_idea": "ВСУ атаковали больницу в городе Кременная ЛНР",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 02 Mar 2026 10:39:44 +0300",
-      "url": "https://tass.ru/proisshestviya/26607833",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Задержанного талибскими спецслужбами россиянина освободили",
-      "title_neutral": "Задержанного талибскими спецслужбами россиянина освободили",
-      "excerpt": "",
-      "recap_neutral": "Задержанного талибскими спецслужбами россиянина освободили",
-      "main_idea": "Задержанного талибскими спецслужбами россиянина освободили",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 02 Mar 2026 10:39:18 +0300",
-      "url": "https://tass.ru/obschestvo/26607611",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Посол РФ сообщил об отсутствии информации о погибших россиянах при ударах по Израилю",
-      "title_neutral": "Посол РФ сообщил об отсутствии информации о погибших россиянах при ударах по Израилю",
-      "excerpt": "",
-      "recap_neutral": "Посол РФ сообщил об отсутствии информации о погибших россиянах при ударах по Израилю",
-      "main_idea": "Посол РФ сообщил об отсутствии информации о погибших россиянах при ударах по Израилю",
+      "title_original": "Bagram Air Base Targeted by Pakistan, Afghanistan Says",
+      "title_neutral": "Bagram Air Base Targeted by Pakistan, Afghanistan Says",
+      "excerpt": "The Afghan military said it had thwarted a Pakistani airstrike on the former U.S. base, Bagram airfield, amid an intensifying campaign that has targeted dozens of military sites across the country.",
+      "recap_neutral": "The Afghan military said it had thwarted a Pakistani airstrike on the former U",
+      "main_idea": "Bagram Air Base Targeted by Pakistan, Afghanistan Says",
       "tags": [
         "conflict",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Mon, 02 Mar 2026 10:38:49 +0300",
-      "url": "https://tass.ru/politika/26607825",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Китай не был предупрежден об ударах по Ирану",
-      "title_neutral": "Китай не был предупрежден об ударах по Ирану",
-      "excerpt": "Официальный представитель МИД КНР Мао Нин сообщила об этом на брифинге",
-      "recap_neutral": "Официальный представитель МИД КНР Мао Нин сообщила об этом на брифинге",
-      "main_idea": "Китай не был предупрежден об ударах по Ирану",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 02 Mar 2026 10:38:40 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26607755",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мошенники звонят россиянам, застрявшим в Таиланде из-за конфликта на Ближнем Востоке",
-      "title_neutral": "Мошенники звонят россиянам, застрявшим в Таиланде из-за конфликта на Ближнем Востоке",
-      "excerpt": "",
-      "recap_neutral": "Мошенники звонят россиянам, застрявшим в Таиланде из-за конфликта на Ближнем Востоке",
-      "main_idea": "Мошенники звонят россиянам, застрявшим в Таиланде из-за конфликта на Ближнем Востоке",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 02 Mar 2026 10:37:48 +0300",
-      "url": "https://tass.ru/obschestvo/26607791",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Рубрукс\" начал выпуск батарей для электромобилей и накопителей энергии на натрии",
-      "title_neutral": "\"Рубрукс\" начал выпуск батарей для электромобилей и накопителей энергии на натрии",
-      "excerpt": "Одним из ключевых отличий модуля HVBS-360-50 в компании назвали сочетание натрий-ионных элементов нового поколения и отечественной электроники",
-      "recap_neutral": "Одним из ключевых отличий модуля HVBS-360-50 в компании назвали сочетание натрий-ионных элементов нового поколения и отечественной электроники",
-      "main_idea": "\"Рубрукс\" начал выпуск батарей для электромобилей и накопителей энергии на натрии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 02 Mar 2026 10:37:47 +0300",
-      "url": "https://tass.ru/nauka/26607815",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Mon, 02 Mar 2026 07:34:50 +0000",
+      "url": "https://www.nytimes.com/2026/03/02/world/asia/pakistan-afghanistan-bagram-attack.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1247,21 +1285,6 @@
       "source": "Hacker News",
       "published_at": "Mon, 02 Mar 2026 06:48:07 +0000",
       "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "An interactive intro to Elliptic Curve Cryptography",
-      "title_neutral": "An interactive intro to Elliptic Curve Cryptography",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "An interactive intro to Elliptic Curve Cryptography",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 02 Mar 2026 05:59:03 +0000",
-      "url": "https://growingswe.com/blog/elliptic-curve-cryptography",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -1302,21 +1325,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The inner workings of TCP zero-copy",
-      "title_neutral": "The inner workings of TCP zero-copy",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The inner workings of TCP zero-copy",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 02 Mar 2026 05:01:55 +0000",
-      "url": "https://blog.tohojo.dk/2026/02/the-inner-workings-of-tcp-zero-copy.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Process-Based Concurrency: Why Beam and OTP Keep Being Right",
       "title_neutral": "Process-Based Concurrency: Why Beam and OTP Keep Being Right",
       "excerpt": "Comments",
@@ -1329,6 +1337,23 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "China’s Parents Are Outsourcing the Homework Grind to A.I.",
+      "title_neutral": "China’s Parents Are Outsourcing the Homework Grind to A.I.",
+      "excerpt": "Parents in China are turning to A.I. chatbots and other tools to help their children gain an edge and ease the fighting over homework.",
+      "recap_neutral": "Parents in China are turning to A",
+      "main_idea": "China’s Parents Are Outsourcing the Homework Grind to A.I.",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 02 Mar 2026 05:01:06 +0000",
+      "url": "https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1476,40 +1501,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Some Russians Go Without Heat or Power in Winter, as Energy System Falls Into Disrepair",
-      "title_neutral": "Some Russians Go Without Heat or Power in Winter, as Energy System Falls Into Disrepair",
-      "excerpt": "A dozen major blackouts and central heating cutoffs across the country have affected hundreds of thousands during a brutal winter.",
-      "recap_neutral": "A dozen major blackouts and central heating cutoffs across the country have affected hundreds of thousands during a brutal winter",
-      "main_idea": "Some Russians Go Without Heat or Power in Winter, as Energy System Falls Into Disrepair",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 27 Feb 2026 18:48:13 +0000",
-      "url": "https://www.nytimes.com/2026/02/27/world/europe/russia-blackouts-heating-breakdowns.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Were Duterte’s Speeches Orders to Kill or Hyperbole?",
-      "title_neutral": "Were Duterte’s Speeches Orders to Kill or Hyperbole?",
-      "excerpt": "Judges at the International Criminal Court have heard starkly different interpretations this week of the words of former President Rodrigo Duterte of the Philippines.",
-      "recap_neutral": "Judges at the International Criminal Court have heard starkly different interpretations this week of the words of former President Rodrigo Duterte of the Philippines",
-      "main_idea": "Were Duterte’s Speeches Orders to Kill or Hyperbole?",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 27 Feb 2026 16:45:41 +0000",
-      "url": "https://www.nytimes.com/2026/02/27/world/asia/rodrigo-duterte-icc-trial-hague.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Ghana says at least 55 of its people killed after Russia ‘lured’ them to fight Ukraine",
       "title_neutral": "Ghana says at least 55 of its people killed after Russia ‘lured’ them to fight Ukraine",
       "excerpt": "Foreign minister says 272 Ghanaians are thought to have been drawn into battle since 2022, after he visited Kyiv At least 55 Ghanaians have been killed in Russia’s war with Ukraine after being “lured into battle”, Ghana’s foreign minister has said after a visit to Kyiv in which officials raised the…",
@@ -1558,24 +1549,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Hungary Plays Spoiler in Europe as Orban Strains for Votes at Home",
-      "title_neutral": "Hungary Plays Spoiler in Europe as Orban Strains for Votes at Home",
-      "excerpt": "Facing a serious election challenge, Prime Minister Viktor Orban is holding up a big E.U. loan for Ukraine. Analysts say the timing is no coincidence.",
-      "recap_neutral": "Facing a serious election challenge, Prime Minister Viktor Orban is holding up a big E",
-      "main_idea": "Hungary Plays Spoiler in Europe as Orban Strains for Votes at Home",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 27 Feb 2026 15:31:19 +0000",
-      "url": "https://www.nytimes.com/2026/02/27/world/europe/hungary-orban-europe.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1646,6 +1619,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Making Video Games in 2025 (without an engine)",
+      "title_neutral": "Making Video Games in 2025 (without an engine)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Making Video Games in 2025 (without an engine)",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 27 Feb 2026 04:38:15 +0000",
+      "url": "https://www.noelberry.ca/posts/making_games_in_2025/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
