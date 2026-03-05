@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:30:13.184118+00:00",
+  "last_updated": "2026-03-05T06:09:14.875773+00:00",
   "items": [
     {
       "title_original": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
@@ -375,6 +375,23 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "You need to rewrite your CLI for AI agents",
+      "title_neutral": "You need to rewrite your CLI for AI agents",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "You need to rewrite your CLI for AI agents",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Wed, 04 Mar 2026 19:20:03 +0000",
+      "url": "https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -861,21 +878,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Moss is a pixel canvas where every brush is a tiny program",
-      "title_neutral": "Moss is a pixel canvas where every brush is a tiny program",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Moss is a pixel canvas where every brush is a tiny program",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 04 Mar 2026 10:21:13 +0000",
-      "url": "https://www.moss.town/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Greetings from Southwest Papua, which has some of the world's richest marine biodiversity",
       "title_neutral": "Greetings from Southwest Papua, which has some of the world's richest marine biodiversity",
       "excerpt": "The Raja Ampat islands in Indonesia's Southwest Papua province are a marine biodiversity hotspot and a divers' paradise.",
@@ -976,247 +978,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "title_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "excerpt": "",
-      "recap_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "main_idea": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:18:01 +0300",
-      "url": "https://tass.ru/politika/24134697",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "title_neutral": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "excerpt": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
-      "recap_neutral": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
-      "main_idea": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:17:03 +0300",
-      "url": "https://tass.ru/ekonomika/24134627",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "title_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "excerpt": "",
-      "recap_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "main_idea": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:15:43 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134665",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "title_neutral": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "excerpt": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
-      "recap_neutral": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
-      "main_idea": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "tags": [
-        "climate"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:12:58 +0300",
-      "url": "https://tass.ru/obschestvo/24134601",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "title_neutral": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "excerpt": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
-      "recap_neutral": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
-      "main_idea": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:11:16 +0300",
-      "url": "https://tass.ru/obschestvo/24134589",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "title_neutral": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "excerpt": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
-      "recap_neutral": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
-      "main_idea": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:34 +0300",
-      "url": "https://tass.ru/obschestvo/24132977",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "title_neutral": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "excerpt": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
-      "recap_neutral": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
-      "main_idea": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:31 +0300",
-      "url": "https://tass.ru/nauka/24134535",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "title_neutral": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "excerpt": "Материалы дела поступили в мировой судебный участок 184",
-      "recap_neutral": "Материалы дела поступили в мировой судебный участок 184",
-      "main_idea": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:03 +0300",
-      "url": "https://tass.ru/proisshestviya/24134595",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "title_neutral": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "excerpt": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
-      "recap_neutral": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
-      "main_idea": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:08:48 +0300",
-      "url": "https://tass.ru/obschestvo/24134521",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "title_neutral": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "excerpt": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
-      "recap_neutral": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
-      "main_idea": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:08:39 +0300",
-      "url": "https://tass.ru/nedvizhimost/24134431",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "title_neutral": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "excerpt": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
-      "recap_neutral": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
-      "main_idea": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:06:43 +0300",
-      "url": "https://tass.ru/obschestvo/24133033",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "title_neutral": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "excerpt": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
-      "recap_neutral": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
-      "main_idea": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:04:29 +0300",
-      "url": "https://tass.ru/obschestvo/24133525",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "title_neutral": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "excerpt": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
-      "recap_neutral": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
-      "main_idea": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:03:57 +0300",
-      "url": "https://tass.ru/obschestvo/24134485",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "США пока не решили, продолжать или нет помощь Украине",
-      "title_neutral": "США пока не решили, продолжать или нет помощь Украине",
-      "excerpt": "",
-      "recap_neutral": "США пока не решили, продолжать или нет помощь Украине",
-      "main_idea": "США пока не решили, продолжать или нет помощь Украине",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:03:52 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134491",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "title_neutral": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "excerpt": "Предварительно, пострадавших нет",
-      "recap_neutral": "Предварительно, пострадавших нет",
-      "main_idea": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:02:07 +0300",
-      "url": "https://tass.ru/proisshestviya/24133329",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
@@ -1344,6 +1105,257 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Нейросеть обчучили оперативно выявлять рак молочной железы на ранних стадиях",
+      "title_neutral": "Нейросеть обчучили оперативно выявлять рак молочной железы на ранних стадиях",
+      "excerpt": "Специалисты отметили, что разработка позволит сохранить тысячи жизней",
+      "recap_neutral": "Специалисты отметили, что разработка позволит сохранить тысячи жизней",
+      "main_idea": "Нейросеть обчучили оперативно выявлять рак молочной железы на ранних стадиях",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 05 Mar 2026 09:02:43 +0300",
+      "url": "https://tass.ru/nauka/26657073",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Пострадавшие в Саратовской области и 76 БПЛА. Последствия атаки на регионы РФ",
+      "title_neutral": "Пострадавшие в Саратовской области и 76 БПЛА. Последствия атаки на регионы РФ",
+      "excerpt": "Пострадали три человека",
+      "recap_neutral": "Пострадали три человека",
+      "main_idea": "Пострадавшие в Саратовской области и 76 БПЛА. Последствия атаки на регионы РФ",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 05 Mar 2026 09:02:38 +0300",
+      "url": "https://tass.ru/proisshestviya/26657017",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ФАС: рост цен на топливо в 2026 году не превышает инфляцию",
+      "title_neutral": "ФАС: рост цен на топливо в 2026 году не превышает инфляцию",
+      "excerpt": "В службе отметили, что биржевые цены на топливо находятся на уровне осени 2024 года",
+      "recap_neutral": "В службе отметили, что биржевые цены на топливо находятся на уровне осени 2024 года",
+      "main_idea": "ФАС: рост цен на топливо в 2026 году не превышает инфляцию",
+      "tags": [
+        "economy"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 05 Mar 2026 09:01:38 +0300",
+      "url": "https://tass.ru/ekonomika/26657101",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МИД Индии опроверг данные о том, что ВМС США используют индийские порты",
+      "title_neutral": "МИД Индии опроверг данные о том, что ВМС США используют индийские порты",
+      "excerpt": "Ведомство предостерегло от передачи \"подобных безосновательных и сфабрикованных комментариев\"",
+      "recap_neutral": "Ведомство предостерегло от передачи \"подобных безосновательных и сфабрикованных комментариев\"",
+      "main_idea": "МИД Индии опроверг данные о том, что ВМС США используют индийские порты",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 05 Mar 2026 09:00:48 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26657041",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Российские инновации трансформируют сферу ЖКХ",
+      "title_neutral": "Российские инновации трансформируют сферу ЖКХ",
+      "excerpt": "Одним из наиболее ярких примеров успешного экспорта технологий РФ в сфере ЖКХ и водоподготовки стал пилотный проект по внедрению системы для обеззараживания воды без использования вредных химических реагентов",
+      "recap_neutral": "Одним из наиболее ярких примеров успешного экспорта технологий РФ в сфере ЖКХ и водоподготовки стал пилотный проект по внедрению системы для обеззараживания воды без использования вредных химических реагентов",
+      "main_idea": "Российские инновации трансформируют сферу ЖКХ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 05 Mar 2026 09:00:01 +0300",
+      "url": "https://tass.ru/ekonomika/26656723",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Тренер лыжников Егор Сорин: успехом на Олимпиаде можно считать только медали",
+      "title_neutral": "Тренер лыжников Егор Сорин: успехом на Олимпиаде можно считать только медали",
+      "excerpt": "Постолимпийский чемпионат России по лыжным гонкам проходит в Южно-Сахалинске. В интервью ТАСС старший тренер сборной России Егор Сорин рассказал об адаптации спортсменов к условиям местной трассы, а также подвел итоги Олимпийских игр, где выступали тренирующиеся под его руководством Савелий Коросте…",
+      "recap_neutral": "Постолимпийский чемпионат России по лыжным гонкам проходит в Южно-Сахалинске",
+      "main_idea": "Тренер лыжников Егор Сорин: успехом на Олимпиаде можно считать только медали",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 05 Mar 2026 09:00:00 +0300",
+      "url": "https://tass.ru/interviews/26639833",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Краснодар\" в третий раз пострадал от расизма. Что грозит ЦСКА",
+      "title_neutral": "\"Краснодар\" в третий раз пострадал от расизма. Что грозит ЦСКА",
+      "excerpt": "Игроки краснодарской команды обвинили болельщиков армейцев в проявлении расизма в адрес Джона Кордобы",
+      "recap_neutral": "Игроки краснодарской команды обвинили болельщиков армейцев в проявлении расизма в адрес Джона Кордобы",
+      "main_idea": "\"Краснодар\" в третий раз пострадал от расизма. Что грозит ЦСКА",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 05 Mar 2026 08:59:18 +0300",
+      "url": "https://tass.ru/sport/26657025",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Армия Израиля начала новую волну ударов по Тегерану",
+      "title_neutral": "Армия Израиля начала новую волну ударов по Тегерану",
+      "excerpt": "Удары наносятся по инфраструктуре иранского режима, сообщили в ЦАХАЛ",
+      "recap_neutral": "Удары наносятся по инфраструктуре иранского режима, сообщили в ЦАХАЛ",
+      "main_idea": "Армия Израиля начала новую волну ударов по Тегерану",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 05 Mar 2026 08:57:49 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26657029",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Bloomberg: НАТО на саммите в Турции сосредоточится на инвестициях в технологии",
+      "title_neutral": "Bloomberg: НАТО на саммите в Турции сосредоточится на инвестициях в технологии",
+      "excerpt": "Альянс хочет организовать встречу с оборонными компаниями, отмечает агентство",
+      "recap_neutral": "Альянс хочет организовать встречу с оборонными компаниями, отмечает агентство",
+      "main_idea": "Bloomberg: НАТО на саммите в Турции сосредоточится на инвестициях в технологии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 05 Mar 2026 08:55:01 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26656975",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Тульской области завершили поисковые мероприятия на территории склада",
+      "title_neutral": "В Тульской области завершили поисковые мероприятия на территории склада",
+      "excerpt": "",
+      "recap_neutral": "В Тульской области завершили поисковые мероприятия на территории склада",
+      "main_idea": "В Тульской области завершили поисковые мероприятия на территории склада",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 05 Mar 2026 08:54:54 +0300",
+      "url": "https://tass.ru/proisshestviya/26657019",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На застрявшем в Катаре лайнере Celestyal Journey находятся 217 россиян",
+      "title_neutral": "На застрявшем в Катаре лайнере Celestyal Journey находятся 217 россиян",
+      "excerpt": "Руководитель турагентства \"Бригантина\" Надежда Лесникова отметила, что они встретятся с российским консулом 5 марта",
+      "recap_neutral": "Руководитель турагентства \"Бригантина\" Надежда Лесникова отметила, что они встретятся с российским консулом 5 марта",
+      "main_idea": "На застрявшем в Катаре лайнере Celestyal Journey находятся 217 россиян",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 05 Mar 2026 08:54:45 +0300",
+      "url": "https://tass.ru/obschestvo/26657007",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ВС Ирана опровергли информацию о запуске ракеты по Турции",
+      "title_neutral": "ВС Ирана опровергли информацию о запуске ракеты по Турции",
+      "excerpt": "",
+      "recap_neutral": "ВС Ирана опровергли информацию о запуске ракеты по Турции",
+      "main_idea": "ВС Ирана опровергли информацию о запуске ракеты по Турции",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 05 Mar 2026 08:52:29 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26656991",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Оманская нефтяная компания сообщила об аварии на одном из резервуаров",
+      "title_neutral": "Оманская нефтяная компания сообщила об аварии на одном из резервуаров",
+      "excerpt": "Работа на пострадавшем объекте была временно приостановлена",
+      "recap_neutral": "Работа на пострадавшем объекте была временно приостановлена",
+      "main_idea": "Оманская нефтяная компания сообщила об аварии на одном из резервуаров",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 05 Mar 2026 08:51:51 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26656983",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "АВС: у США в течение двух недель могут закончиться ракеты для систем THAAD",
+      "title_neutral": "АВС: у США в течение двух недель могут закончиться ракеты для систем THAAD",
+      "excerpt": "Старший научный сотрудник Центра Стимсона Келли Грико считает, что этот конфликт уже начинает превращаться \"в войну на истощение\"",
+      "recap_neutral": "Старший научный сотрудник Центра Стимсона Келли Грико считает, что этот конфликт уже начинает превращаться \"в войну на истощение\"",
+      "main_idea": "АВС: у США в течение двух недель могут закончиться ракеты для систем THAAD",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 05 Mar 2026 08:51:00 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26656967",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "NYT: военные США считают, что Иран хотел поразить базу Инджирлик в Турции",
+      "title_neutral": "NYT: военные США считают, что Иран хотел поразить базу Инджирлик в Турции",
+      "excerpt": "По данным газеты, на ней размещен значительный контингент ВВС Соединенных Штатов",
+      "recap_neutral": "По данным газеты, на ней размещен значительный контингент ВВС Соединенных Штатов",
+      "main_idea": "NYT: военные США считают, что Иран хотел поразить базу Инджирлик в Турции",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 05 Mar 2026 08:49:39 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26656955",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Live Updates: Senate Republicans Block War Powers Limits as Mideast Crisis Widens",
       "title_neutral": "Live Updates: Senate Republicans Block War Powers Limits as Mideast Crisis Widens",
       "excerpt": "The Defense Department released the name of a fifth American killed in an Iranian attack on Sunday, and released the name of another soldier believed to have died in the same incident. The State Department said a charter flight was returning to the U.S. with Americans wanting to leave the region.",
@@ -1354,11 +1366,43 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Thu, 05 Mar 2026 05:24:58 +0000",
+      "published_at": "Thu, 05 Mar 2026 06:05:02 +0000",
       "url": "https://www.nytimes.com/live/2026/03/04/world/iran-war-israel-lebanon-trump",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "On the Ground in Beirut",
+      "title_neutral": "On the Ground in Beirut",
+      "excerpt": "Our Beirut bureau chief, Christina Goldbaum, reports on the escalating conflict between Israel and the Iran-backed armed group Hezbollah, as Israel’s military seizes areas of southern Lebanon and carries out bombings.",
+      "recap_neutral": "Our Beirut bureau chief, Christina Goldbaum, reports on the escalating conflict between Israel and the Iran-backed armed group Hezbollah, as Israel’s military seizes areas of southern Lebanon and carries out bombings",
+      "main_idea": "On the Ground in Beirut",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 05 Mar 2026 05:49:38 +0000",
+      "url": "https://www.nytimes.com/video/world/middleeast/100000010747493/on-the-ground-in-beirut.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "China sets lowest GDP growth target for decades as it braces for economic slowdown",
+      "title_neutral": "China sets lowest GDP growth target for decades as it braces for economic slowdown",
+      "excerpt": "‘High-quality growth’ target of 4.5-5% outlined at Two Sessions as Chinese premier talks of complex situations at home and abroad What are China’s Two Sessions and why do they matter? China has set its target for GDP growth to a record low of 4.5-5%, the first time since 1991 that the figure has dr…",
+      "recap_neutral": "‘High-quality growth’ target of 4",
+      "main_idea": "China sets lowest GDP growth target for decades as it braces for economic slowdown",
+      "tags": [],
+      "source": "The Guardian",
+      "published_at": "Thu, 05 Mar 2026 05:47:08 GMT",
+      "url": "https://www.theguardian.com/world/2026/mar/05/china-gdp-growth-target-economic-slowdown",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
       "confidence": "heuristic"
     },
     {
@@ -1379,18 +1423,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Australia’s Sydney Jewish Museum to Memorialize Bondi Beach Massacre",
-      "title_neutral": "Australia’s Sydney Jewish Museum to Memorialize Bondi Beach Massacre",
-      "excerpt": "The country and its small Jewish community are still trying to process the mass shooting at Bondi Beach in December.",
-      "recap_neutral": "The country and its small Jewish community are still trying to process the mass shooting at Bondi Beach in December",
-      "main_idea": "Australia’s Sydney Jewish Museum to Memorialize Bondi Beach Massacre",
+      "title_original": "You Just Reveived",
+      "title_neutral": "You Just Reveived",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "You Just Reveived",
       "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Thu, 05 Mar 2026 05:01:09 +0000",
-      "url": "https://www.nytimes.com/2026/03/05/world/australia/bondi-australia-memorial.html",
+      "source": "Hacker News",
+      "published_at": "Thu, 05 Mar 2026 04:37:43 +0000",
+      "url": "https://dylan.gr/1772520728",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1406,21 +1450,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "China sets lowest GDP growth target for decades as it braces for economic slowdown",
-      "title_neutral": "China sets lowest GDP growth target for decades as it braces for economic slowdown",
-      "excerpt": "‘High-quality growth’ target of 4.5-5% outlined at Two Sessions as Chinese premier talks of complex situations at home and abroad What are China’s Two Sessions and why do they matter? China has set its target for GDP growth to a record low of 4.5-5%, the first time since 1991 that the figure has dr…",
-      "recap_neutral": "‘High-quality growth’ target of 4",
-      "main_idea": "China sets lowest GDP growth target for decades as it braces for economic slowdown",
-      "tags": [],
-      "source": "The Guardian",
-      "published_at": "Thu, 05 Mar 2026 03:18:30 GMT",
-      "url": "https://www.theguardian.com/world/2026/mar/05/china-gdp-growth-target-economic-slowdown",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
       "confidence": "heuristic"
     },
     {
@@ -1448,23 +1477,6 @@
       "source": "Hacker News",
       "published_at": "Thu, 05 Mar 2026 02:55:57 +0000",
       "url": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
-      "title_neutral": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Thu, 05 Mar 2026 02:33:58 +0000",
-      "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -1596,15 +1608,17 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Completing the formal proof of higher-dimensional sphere packing",
-      "title_neutral": "Completing the formal proof of higher-dimensional sphere packing",
+      "title_original": "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for first time",
+      "title_neutral": "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for first time",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Completing the formal proof of higher-dimensional sphere packing",
-      "tags": [],
+      "main_idea": "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for first time",
+      "tags": [
+        "tech"
+      ],
       "source": "Hacker News",
-      "published_at": "Mon, 02 Mar 2026 18:51:43 +0000",
-      "url": "https://www.math.inc/sphere-packing",
+      "published_at": "Mon, 02 Mar 2026 11:51:57 +0000",
+      "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
