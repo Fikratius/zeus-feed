@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T23:19:38.068138+00:00",
+  "last_updated": "2026-03-08T23:44:59.138148+00:00",
   "items": [
     {
       "title_original": "Why can't you tune your guitar? (2019)",
@@ -224,6 +224,23 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Country Joe McDonald, anti-war singer who electrified Woodstock, dies at 84",
+      "title_neutral": "Country Joe McDonald, anti-war singer who electrified Woodstock, dies at 84",
+      "excerpt": "Country Joe and the Fish's best-known song, \"I-Feel-Like-I'm-Fixin'-to-Die Rag,\" captured the growing anti-war sentiment of the Vietnam era.",
+      "recap_neutral": "Country Joe and the Fish's best-known song, \"I-Feel-Like-I'm-Fixin'-to-Die Rag,\" captured the growing anti-war sentiment of the Vietnam era",
+      "main_idea": "Country Joe McDonald, anti-war singer who electrified Woodstock, dies at 84",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NPR",
+      "published_at": "Sun, 08 Mar 2026 19:33:36 -0400",
+      "url": "https://www.npr.org/2026/03/08/nx-s1-5741805/country-joe-mcdonald-woodstock-vietnam-protest",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -885,21 +902,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "U.S. Judge says Kari Lake broke law in overseeing Voice of America",
-      "title_neutral": "U.S. Judge says Kari Lake broke law in overseeing Voice of America",
-      "excerpt": "He declared all of Lake's actions over the past year to be null and void, including the layoffs of more than 1,000 journalists and staffers.",
-      "recap_neutral": "He declared all of Lake's actions over the past year to be null and void, including the layoffs of more than 1,000 journalists and staffers",
-      "main_idea": "U.S. Judge says Kari Lake broke law in overseeing Voice of America",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Sun, 08 Mar 2026 03:04:06 -0500",
-      "url": "https://www.npr.org/2026/03/08/nx-s1-5741594/u-s-judge-kari-lake-broke-law-voice-of-america",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "The State of AI Translation in 2026: iFlytek Real-Time Translation Earbuds",
       "title_neutral": "The State of AI Translation in 2026: iFlytek Real-Time Translation Earbuds",
       "excerpt": "There are a lot of translation tools available today, and most of them are free. Open your phone, launch Google Translate, and you already have a perfectly functional solution in your pocket. That’s why devices like the iFlytek AI translation earbuds fall into a category I’m very familiar with revi…",
@@ -1270,6 +1272,74 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "В Пензенской области объявили беспилотную опасность",
+      "title_neutral": "В Пензенской области объявили беспилотную опасность",
+      "excerpt": "",
+      "recap_neutral": "В Пензенской области объявили беспилотную опасность",
+      "main_idea": "В Пензенской области объявили беспилотную опасность",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Mar 2026 02:35:28 +0300",
+      "url": "https://tass.ru/proisshestviya/26696303",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Израиль заявил, что его ПВО перехватывает выпущенные Ираном ракеты",
+      "title_neutral": "Израиль заявил, что его ПВО перехватывает выпущенные Ираном ракеты",
+      "excerpt": "Армия еврейского государства отметила, что обнаружила запуск снарядов с территории исламской республики",
+      "recap_neutral": "Армия еврейского государства отметила, что обнаружила запуск снарядов с территории исламской республики",
+      "main_idea": "Израиль заявил, что его ПВО перехватывает выпущенные Ираном ракеты",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Mar 2026 02:33:08 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26696297",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Би-би-си: в Глазго из-за сильного пожара обрушился купол здания",
+      "title_neutral": "Би-би-си: в Глазго из-за сильного пожара обрушился купол здания",
+      "excerpt": "По предварительной информации, пострадавших нет",
+      "recap_neutral": "По предварительной информации, пострадавших нет",
+      "main_idea": "Би-би-си: в Глазго из-за сильного пожара обрушился купол здания",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Mar 2026 02:28:37 +0300",
+      "url": "https://tass.ru/proisshestviya/26696287",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Al Hadath: Иран вновь запустил ракеты в сторону Израиля",
+      "title_neutral": "Al Hadath: Иран вновь запустил ракеты в сторону Израиля",
+      "excerpt": "По информации телеканала, снаряды выпустили в направлении Хайфы и северного региона еврейского государства",
+      "recap_neutral": "По информации телеканала, снаряды выпустили в направлении Хайфы и северного региона еврейского государства",
+      "main_idea": "Al Hadath: Иран вновь запустил ракеты в сторону Израиля",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Mar 2026 02:21:48 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26696279",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "ОП: мошенники используют фейковую рекламу в интернете для обмана россиян",
       "title_neutral": "ОП: мошенники используют фейковую рекламу в интернете для обмана россиян",
       "excerpt": "Член комиссии Общественной палаты по общественной экспертизе законопроектов и иных нормативных актов Евгений Машаров сообщил, что подобные ссылки размещаются на иностранных платформах",
@@ -1287,11 +1357,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Угроза атаки БПЛА объявлена в Сочи - мэр",
-      "title_neutral": "Угроза атаки БПЛА объявлена в Сочи - мэр",
-      "excerpt": "",
-      "recap_neutral": "Угроза атаки БПЛА объявлена в Сочи - мэр",
-      "main_idea": "Угроза атаки БПЛА объявлена в Сочи - мэр",
+      "title_original": "В Сочи объявили угрозу атаки БПЛА",
+      "title_neutral": "В Сочи объявили угрозу атаки БПЛА",
+      "excerpt": "Об этом сообщил глава города Андрей Прошунин",
+      "recap_neutral": "Об этом сообщил глава города Андрей Прошунин",
+      "main_idea": "В Сочи объявили угрозу атаки БПЛА",
       "tags": [
         "conflict"
       ],
@@ -1400,11 +1470,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Цена нефти Brent на ICE выросла на 19%",
-      "title_neutral": "Цена нефти Brent на ICE выросла на 19%",
+      "title_original": "Цена нефти Brent на ICE росла на 19%",
+      "title_neutral": "Цена нефти Brent на ICE росла на 19%",
       "excerpt": "К 01:24 мск ее стоимость находилась на уровне $108,23",
       "recap_neutral": "К 01:24 мск ее стоимость находилась на уровне $108,23",
-      "main_idea": "Цена нефти Brent на ICE выросла на 19%",
+      "main_idea": "Цена нефти Brent на ICE росла на 19%",
       "tags": [],
       "source": "ТАСС",
       "published_at": "Mon, 09 Mar 2026 01:24:53 +0300",
@@ -1441,71 +1511,6 @@
       "source": "ТАСС",
       "published_at": "Mon, 09 Mar 2026 01:18:14 +0300",
       "url": "https://tass.ru/obschestvo/26696183",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Иранская армия присягнула на верность новому верховному лидеру республики",
-      "title_neutral": "Иранская армия присягнула на верность новому верховному лидеру республики",
-      "excerpt": "ВС страны высказались в поддержку решения об избрании Моджтабы Хаменеи на пост",
-      "recap_neutral": "ВС страны высказались в поддержку решения об избрании Моджтабы Хаменеи на пост",
-      "main_idea": "Иранская армия присягнула на верность новому верховному лидеру республики",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 09 Mar 2026 01:12:20 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26696169",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Силы внутренней безопасности Ирана присягнули новому верховному лидеру",
-      "title_neutral": "Силы внутренней безопасности Ирана присягнули новому верховному лидеру",
-      "excerpt": "Командование сил нацбезопасности поклялось исполнять все приказы Моджтабы Хаменеи",
-      "recap_neutral": "Командование сил нацбезопасности поклялось исполнять все приказы Моджтабы Хаменеи",
-      "main_idea": "Силы внутренней безопасности Ирана присягнули новому верховному лидеру",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 09 Mar 2026 01:03:44 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26696157",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Цена нефти Brent на ICE превысила $102 впервые с 30 августа 2022 года",
-      "title_neutral": "Цена нефти Brent на ICE превысила $102 впервые с 30 августа 2022 года",
-      "excerpt": "По данным на 01:07 мск ее стоимость находилась на уровне $102,66 за баррель",
-      "recap_neutral": "По данным на 01:07 мск ее стоимость находилась на уровне $102,66 за баррель",
-      "main_idea": "Цена нефти Brent на ICE превысила $102 впервые с 30 августа 2022 года",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 09 Mar 2026 01:03:23 +0300",
-      "url": "https://tass.ru/ekonomika/26696151",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ливан осудил атаки БПЛА \"Хезболлах\" по острову Кипр",
-      "title_neutral": "Ливан осудил атаки БПЛА \"Хезболлах\" по острову Кипр",
-      "excerpt": "Эти действия подтверждают неприятие любых попыток превратить государство в платформу для реализации внешних планов, говорится в заявлении министра иностранных дел",
-      "recap_neutral": "Эти действия подтверждают неприятие любых попыток превратить государство в платформу для реализации внешних планов, говорится в заявлении министра иностранных дел",
-      "main_idea": "Ливан осудил атаки БПЛА \"Хезболлах\" по острову Кипр",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 09 Mar 2026 00:59:21 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26696125",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
