@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T10:20:59.864539+00:00",
+  "last_updated": "2026-03-08T10:49:37.206027+00:00",
   "items": [
     {
       "title_original": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
@@ -28,6 +28,21 @@
       "source": "Hacker News",
       "published_at": "Wed, 04 Mar 2026 09:24:13 +0000",
       "url": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Lobster Programming Language",
+      "title_neutral": "The Lobster Programming Language",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The Lobster Programming Language",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 03 Mar 2026 22:24:54 +0000",
+      "url": "https://strlen.com/lobster/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -135,251 +150,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Песков: энергетический шантаж Украины может ударить по всем европейцам",
-      "title_neutral": "Песков: энергетический шантаж Украины может ударить по всем европейцам",
-      "excerpt": "",
-      "recap_neutral": "Песков: энергетический шантаж Украины может ударить по всем европейцам",
-      "main_idea": "Песков: энергетический шантаж Украины может ударить по всем европейцам",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 13:17:41 +0300",
-      "url": "https://tass.ru/politika/26692863",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "МИД Испании: конфликт в Иране может привести к росту цен и миграционному кризису",
-      "title_neutral": "МИД Испании: конфликт в Иране может привести к росту цен и миграционному кризису",
-      "excerpt": "Испанский министр иностранных дел Хосе Мануэль Альбарес отметил, что генсек НАТО Марк Рютте не делился с союзниками по альянсу информацией, которая могла бы свидетельствовать о якобы исходящей от исламской республики ядерной угрозы",
-      "recap_neutral": "Испанский министр иностранных дел Хосе Мануэль Альбарес отметил, что генсек НАТО Марк Рютте не делился с союзниками по альянсу информацией, которая могла бы свидетельствовать о якобы исходящей от исламской республики яд…",
-      "main_idea": "МИД Испании: конфликт в Иране может привести к росту цен и миграционному кризису",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 13:17:01 +0300",
-      "url": "https://tass.ru/ekonomika/26692853",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Qatar Airways выполнила 8 марта вывозные рейсы из Дохи в пять городов Европы",
-      "title_neutral": "Qatar Airways выполнила 8 марта вывозные рейсы из Дохи в пять городов Европы",
-      "excerpt": "Самолеты отправились в Амстердам, Берлин, Лондон, Франкфурт-на-Майне и Цюрих",
-      "recap_neutral": "Самолеты отправились в Амстердам, Берлин, Лондон, Франкфурт-на-Майне и Цюрих",
-      "main_idea": "Qatar Airways выполнила 8 марта вывозные рейсы из Дохи в пять городов Европы",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 13:14:05 +0300",
-      "url": "https://tass.ru/ekonomika/26692783",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Пермском крае в ДТП погибли пять человек",
-      "title_neutral": "В Пермском крае в ДТП погибли пять человек",
-      "excerpt": "Еще один пострадал",
-      "recap_neutral": "Еще один пострадал",
-      "main_idea": "В Пермском крае в ДТП погибли пять человек",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 13:13:55 +0300",
-      "url": "https://tass.ru/proisshestviya/26692845",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Песков: Европа не может не замечать энергошантаж Украины",
-      "title_neutral": "Песков: Европа не может не замечать энергошантаж Украины",
-      "excerpt": "",
-      "recap_neutral": "Песков: Европа не может не замечать энергошантаж Украины",
-      "main_idea": "Песков: Европа не может не замечать энергошантаж Украины",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 13:12:28 +0300",
-      "url": "https://tass.ru/politika/26692833",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ЦАХАЛ заявил об атаке 400 целей в Иране за сутки",
-      "title_neutral": "ЦАХАЛ заявил об атаке 400 целей в Иране за сутки",
-      "excerpt": "",
-      "recap_neutral": "ЦАХАЛ заявил об атаке 400 целей в Иране за сутки",
-      "main_idea": "ЦАХАЛ заявил об атаке 400 целей в Иране за сутки",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 13:11:56 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26692829",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Песков: Европа почему-то не замечает энергошантаж Украины",
-      "title_neutral": "Песков: Европа почему-то не замечает энергошантаж Украины",
-      "excerpt": "",
-      "recap_neutral": "Песков: Европа почему-то не замечает энергошантаж Украины",
-      "main_idea": "Песков: Европа почему-то не замечает энергошантаж Украины",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 13:10:35 +0300",
-      "url": "https://tass.ru/politika/26692807",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Песков: Зеленский для Европы станет \"плохим мальчиком\"",
-      "title_neutral": "Песков: Зеленский для Европы станет \"плохим мальчиком\"",
-      "excerpt": "",
-      "recap_neutral": "Песков: Зеленский для Европы станет \"плохим мальчиком\"",
-      "main_idea": "Песков: Зеленский для Европы станет \"плохим мальчиком\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 13:09:52 +0300",
-      "url": "https://tass.ru/politika/26692795",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Песков: энергетический шантаж Украины может ударить по европейцам",
-      "title_neutral": "Песков: энергетический шантаж Украины может ударить по европейцам",
-      "excerpt": "",
-      "recap_neutral": "Песков: энергетический шантаж Украины может ударить по европейцам",
-      "main_idea": "Песков: энергетический шантаж Украины может ударить по европейцам",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 13:08:32 +0300",
-      "url": "https://tass.ru/ekonomika/26692773",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Семин считает, что Миранчук достойно представляет Россию в MLS",
-      "title_neutral": "Семин считает, что Миранчук достойно представляет Россию в MLS",
-      "excerpt": "Российский полузащитник забил два мяча за \"Атланту\" в матче с \"Реал Солт-Лейк\"",
-      "recap_neutral": "Российский полузащитник забил два мяча за \"Атланту\" в матче с \"Реал Солт-Лейк\"",
-      "main_idea": "Семин считает, что Миранчук достойно представляет Россию в MLS",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 13:07:33 +0300",
-      "url": "https://tass.ru/sport/26692763",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Сербии заявили о возможности смягчения последствий крупнейшего в мире кризиса",
-      "title_neutral": "В Сербии заявили о возможности смягчения последствий крупнейшего в мире кризиса",
-      "excerpt": "Министр финансов страны Синиша Мали подчеркнул, что государство уже подготовило инструменты для защиты внутреннего рынка и граждан",
-      "recap_neutral": "Министр финансов страны Синиша Мали подчеркнул, что государство уже подготовило инструменты для защиты внутреннего рынка и граждан",
-      "main_idea": "В Сербии заявили о возможности смягчения последствий крупнейшего в мире кризиса",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 13:00:44 +0300",
-      "url": "https://tass.ru/ekonomika/26692443",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Израиль призвал жителей Ливана покинуть территории к югу от реки Литани",
-      "title_neutral": "Израиль призвал жителей Ливана покинуть территории к югу от реки Литани",
-      "excerpt": "ЦАХАЛ готовится к авианалетам на эти места",
-      "recap_neutral": "ЦАХАЛ готовится к авианалетам на эти места",
-      "main_idea": "Израиль призвал жителей Ливана покинуть территории к югу от реки Литани",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 12:58:53 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26692739",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В ФРГ ожидают потерю до 150 тыс. рабочих мест в металлургии и электротехнике",
-      "title_neutral": "В ФРГ ожидают потерю до 150 тыс. рабочих мест в металлургии и электротехнике",
-      "excerpt": "В Союзе работодателей заявили, что страна находится \"в самом разгаре деиндустриализации\"",
-      "recap_neutral": "В Союзе работодателей заявили, что страна находится \"в самом разгаре деиндустриализации\"",
-      "main_idea": "В ФРГ ожидают потерю до 150 тыс. рабочих мест в металлургии и электротехнике",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 12:55:19 +0300",
-      "url": "https://tass.ru/ekonomika/26692605",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Фицо заявил о готовности Словакии заблокировать кредит ЕС для Украины в €90 млрд",
-      "title_neutral": "Фицо заявил о готовности Словакии заблокировать кредит ЕС для Украины в €90 млрд",
-      "excerpt": "Словацкий премьер отметил, что его страна готова перенять эту эстафету от Венгрии при необходимости на фоне нежелания киевских властей восстановить поставки нефти по \"Дружбе\"",
-      "recap_neutral": "Словацкий премьер отметил, что его страна готова перенять эту эстафету от Венгрии при необходимости на фоне нежелания киевских властей восстановить поставки нефти по \"Дружбе\"",
-      "main_idea": "Фицо заявил о готовности Словакии заблокировать кредит ЕС для Украины в €90 млрд",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 12:53:50 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26692727",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Арбате роботы-доставщики \"Яндекса\" \"прочитали\" стихи в честь 8 Марта",
-      "title_neutral": "На Арбате роботы-доставщики \"Яндекса\" \"прочитали\" стихи в честь 8 Марта",
-      "excerpt": "Роверы включили аудиокниги Сергея Есенина, Афанасия Фета, Федора Тютчева для прохожих",
-      "recap_neutral": "Роверы включили аудиокниги Сергея Есенина, Афанасия Фета, Федора Тютчева для прохожих",
-      "main_idea": "На Арбате роботы-доставщики \"Яндекса\" \"прочитали\" стихи в честь 8 Марта",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 12:52:12 +0300",
-      "url": "https://tass.ru/obschestvo/26692721",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
@@ -590,21 +360,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "MonoGame: A .NET framework for making cross-platform games",
-      "title_neutral": "MonoGame: A .NET framework for making cross-platform games",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "MonoGame: A .NET framework for making cross-platform games",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 08 Mar 2026 02:16:02 +0000",
-      "url": "https://github.com/MonoGame/MonoGame",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
