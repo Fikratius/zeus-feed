@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T21:19:28.259366+00:00",
+  "last_updated": "2026-03-08T21:44:39.675404+00:00",
   "items": [
     {
       "title_original": "Why can't you tune your guitar? (2019)",
@@ -199,40 +199,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Над Россией сбили 34 украинских БПЛА",
-      "title_neutral": "Над Россией сбили 34 украинских БПЛА",
-      "excerpt": "Из них восемь аппаратов уничтожили в Краснодарском крае",
-      "recap_neutral": "Из них восемь аппаратов уничтожили в Краснодарском крае",
-      "main_idea": "Над Россией сбили 34 украинских БПЛА",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 23:28:41 +0300",
-      "url": "https://tass.ru/armiya-i-opk/26695981",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "WP: операция против Ирана наносит больший экономический ущерб Европе, чем США",
-      "title_neutral": "WP: операция против Ирана наносит больший экономический ущерб Европе, чем США",
-      "excerpt": "В публикации издания отмечается, что закрытие международных аэропортов в зоне конфликта привело к перебоям поставок бытовой электроники, фармацевтической продукции и драгоценных металлов",
-      "recap_neutral": "В публикации издания отмечается, что закрытие международных аэропортов в зоне конфликта привело к перебоям поставок бытовой электроники, фармацевтической продукции и драгоценных металлов",
-      "main_idea": "WP: операция против Ирана наносит больший экономический ущерб Европе, чем США",
-      "tags": [
-        "economy",
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Mar 2026 23:26:02 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26695961",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Swiss reject right-wing plan to cut licence fee for public broadcaster",
       "title_neutral": "Swiss reject right-wing plan to cut licence fee for public broadcaster",
       "excerpt": "More than 60% voters said they wanted to keep the current licence fee levels, initial projections show.",
@@ -247,6 +213,21 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Lil Finder Guy",
+      "title_neutral": "Lil Finder Guy",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Lil Finder Guy",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 08 Mar 2026 20:43:19 +0000",
+      "url": "https://basicappleguy.com/basicappleblog/lil-finder-guy",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -364,21 +345,6 @@
       "source": "Hacker News",
       "published_at": "Sun, 08 Mar 2026 18:08:36 +0000",
       "url": "https://github.com/bostrot/wsl2-distro-manager",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The changing goalposts of AGI and timelines",
-      "title_neutral": "The changing goalposts of AGI and timelines",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The changing goalposts of AGI and timelines",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 08 Mar 2026 17:16:38 +0000",
-      "url": "https://mlumiste.com/general/openai-charter/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -1401,10 +1367,44 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Al Manar: израильские вертолеты летают над горным хребтом в Ливане",
+      "title_neutral": "Al Manar: израильские вертолеты летают над горным хребтом в Ливане",
+      "excerpt": "Техника Израиля вошла в воздушное пространство страны со стороны горы Хермон, сообщил телеканал",
+      "recap_neutral": "Техника Израиля вошла в воздушное пространство страны со стороны горы Хермон, сообщил телеканал",
+      "main_idea": "Al Manar: израильские вертолеты летают над горным хребтом в Ливане",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Mar 2026 00:37:53 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26696107",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Новороссийске объявили угрозу атаки беспилотников",
+      "title_neutral": "В Новороссийске объявили угрозу атаки беспилотников",
+      "excerpt": "",
+      "recap_neutral": "В Новороссийске объявили угрозу атаки беспилотников",
+      "main_idea": "В Новороссийске объявили угрозу атаки беспилотников",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Mar 2026 00:29:25 +0300",
+      "url": "https://tass.ru/proisshestviya/26696097",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Совет экспертов Ирана избрал Моджатабу Хаменеи верховным лидером республики",
       "title_neutral": "Совет экспертов Ирана избрал Моджатабу Хаменеи верховным лидером республики",
-      "excerpt": "",
-      "recap_neutral": "Совет экспертов Ирана избрал Моджатабу Хаменеи верховным лидером республики",
+      "excerpt": "Он является сыном погибшего верховного лидера страны Али Хаменеи",
+      "recap_neutral": "Он является сыном погибшего верховного лидера страны Али Хаменеи",
       "main_idea": "Совет экспертов Ирана избрал Моджатабу Хаменеи верховным лидером республики",
       "tags": [],
       "source": "ТАСС",
@@ -1416,11 +1416,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Бахрейне заявили об уничтожении 95 иранских ракет и 164 БПЛА с начала эскалации",
-      "title_neutral": "В Бахрейне заявили об уничтожении 95 иранских ракет и 164 БПЛА с начала эскалации",
-      "excerpt": "",
-      "recap_neutral": "В Бахрейне заявили об уничтожении 95 иранских ракет и 164 БПЛА с начала эскалации",
-      "main_idea": "В Бахрейне заявили об уничтожении 95 иранских ракет и 164 БПЛА с начала эскалации",
+      "title_original": "В Бахрейне заявили об уничтожении 95 иранских ракет и 164 БПЛА",
+      "title_neutral": "В Бахрейне заявили об уничтожении 95 иранских ракет и 164 БПЛА",
+      "excerpt": "Указанное количество боеприпасов системы ПВО сбили с начала противостояния в регионе, говорится в заявлении Минобороны королевства",
+      "recap_neutral": "Указанное количество боеприпасов системы ПВО сбили с начала противостояния в регионе, говорится в заявлении Минобороны королевства",
+      "main_idea": "В Бахрейне заявили об уничтожении 95 иранских ракет и 164 БПЛА",
       "tags": [
         "tech"
       ],
