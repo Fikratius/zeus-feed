@@ -1,245 +1,283 @@
 {
-  "last_updated": "2026-03-11T05:30:50.640231+00:00",
+  "last_updated": "2026-03-11T06:46:33.369021+00:00",
   "items": [
     {
-      "title_original": "Вуз Севастополя заключил соглашения о сотрудничестве с партнерами из 18 стран",
-      "title_neutral": "Вуз Севастополя заключил соглашения о сотрудничестве с партнерами из 18 стран",
-      "excerpt": "Уточняется, что это вузы, колледжи, общественные организации и государственные структуры",
-      "recap_neutral": "Уточняется, что это вузы, колледжи, общественные организации и государственные структуры",
-      "main_idea": "Вуз Севастополя заключил соглашения о сотрудничестве с партнерами из 18 стран",
+      "title_original": "NYT: Сенат США разрешил сотрудникам аппарата использовать ИИ в работе",
+      "title_neutral": "NYT: Сенат США разрешил сотрудникам аппарата использовать ИИ в работе",
+      "excerpt": "В законодательном органе заверили, что данные, которые вносят в Copilot, остаются \"на защищенной платформе Microsoft 365 для правительства\"",
+      "recap_neutral": "В законодательном органе заверили, что данные, которые вносят в Copilot, остаются \"на защищенной платформе Microsoft 365 для правительства\"",
+      "main_idea": "NYT: Сенат США разрешил сотрудникам аппарата использовать ИИ в работе",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 11 Mar 2026 09:44:48 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26717655",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ПВР Брянска после ракетного удара ВСУ обратились четыре человека",
+      "title_neutral": "В ПВР Брянска после ракетного удара ВСУ обратились четыре человека",
+      "excerpt": "Жители получили кров и бесплатное питание",
+      "recap_neutral": "Жители получили кров и бесплатное питание",
+      "main_idea": "В ПВР Брянска после ракетного удара ВСУ обратились четыре человека",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 11 Mar 2026 09:41:39 +0300",
+      "url": "https://tass.ru/obschestvo/26717459",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Жителя Иркутской области приговорили к 5,5 года колонии за оправдание терроризма",
+      "title_neutral": "Жителя Иркутской области приговорили к 5,5 года колонии за оправдание терроризма",
+      "excerpt": "Мужчина оставлял одобрительные комментарии под видеороликами проукраинской направленности",
+      "recap_neutral": "Мужчина оставлял одобрительные комментарии под видеороликами проукраинской направленности",
+      "main_idea": "Жителя Иркутской области приговорили к 5,5 года колонии за оправдание терроризма",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 11 Mar 2026 09:40:38 +0300",
+      "url": "https://tass.ru/proisshestviya/26717637",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "FT: конфликт в Иране вызвал перебои в мировых поставках серы",
+      "title_neutral": "FT: конфликт в Иране вызвал перебои в мировых поставках серы",
+      "excerpt": "По данным аналитиков CRU Group, страны Персидского залива обеспечивают около 45% мирового экспорта серы",
+      "recap_neutral": "По данным аналитиков CRU Group, страны Персидского залива обеспечивают около 45% мирового экспорта серы",
+      "main_idea": "FT: конфликт в Иране вызвал перебои в мировых поставках серы",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 11 Mar 2026 09:40:20 +0300",
+      "url": "https://tass.ru/ekonomika/26717619",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Тхэквондист Храмцов пока не решил, будет ли возобновлять карьеру",
+      "title_neutral": "Тхэквондист Храмцов пока не решил, будет ли возобновлять карьеру",
+      "excerpt": "По словам спортсмена, ему нужно все обсудить с тренером и семьей",
+      "recap_neutral": "По словам спортсмена, ему нужно все обсудить с тренером и семьей",
+      "main_idea": "Тхэквондист Храмцов пока не решил, будет ли возобновлять карьеру",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 11 Mar 2026 09:40:00 +0300",
+      "url": "https://tass.ru/sport/26717605",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Кравцов: более 260 тыс. детей участников СВО отдохнули в лагерях в 2025 году",
+      "title_neutral": "Кравцов: более 260 тыс. детей участников СВО отдохнули в лагерях в 2025 году",
+      "excerpt": "По сравнению с 2024-м численность этой категории увеличилась на 38%, заявил министр просвещения",
+      "recap_neutral": "По сравнению с 2024-м численность этой категории увеличилась на 38%, заявил министр просвещения",
+      "main_idea": "Кравцов: более 260 тыс. детей участников СВО отдохнули в лагерях в 2025 году",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 11 Mar 2026 09:39:30 +0300",
+      "url": "https://tass.ru/obschestvo/26717587",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве в ближайшие дни могут быть побиты тепловые рекорды",
+      "title_neutral": "В Москве в ближайшие дни могут быть побиты тепловые рекорды",
+      "excerpt": "Температура может подняться до 14,6 градуса",
+      "recap_neutral": "Температура может подняться до 14,6 градуса",
+      "main_idea": "В Москве в ближайшие дни могут быть побиты тепловые рекорды",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 11 Mar 2026 09:38:49 +0300",
+      "url": "https://tass.ru/obschestvo/26717607",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Председатель германского Бундестага прибыла с необъявленным визитом в Киев",
+      "title_neutral": "Председатель германского Бундестага прибыла с необъявленным визитом в Киев",
+      "excerpt": "Это первый визит Юлии Клёкнер в украинскую столицу",
+      "recap_neutral": "Это первый визит Юлии Клёкнер в украинскую столицу",
+      "main_idea": "Председатель германского Бундестага прибыла с необъявленным визитом в Киев",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 11 Mar 2026 09:37:03 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26717563",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Звенигороде водолазы совершили 31 погружение в поисках пропавших детей",
+      "title_neutral": "В Звенигороде водолазы совершили 31 погружение в поисках пропавших детей",
+      "excerpt": "К работам привлечены 18 водолазов",
+      "recap_neutral": "К работам привлечены 18 водолазов",
+      "main_idea": "В Звенигороде водолазы совершили 31 погружение в поисках пропавших детей",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 11 Mar 2026 09:35:10 +0300",
+      "url": "https://tass.ru/proisshestviya/26717545",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Нижнекамска отменили ограничения",
+      "title_neutral": "В аэропорту Нижнекамска отменили ограничения",
+      "excerpt": "",
+      "recap_neutral": "В аэропорту Нижнекамска отменили ограничения",
+      "main_idea": "В аэропорту Нижнекамска отменили ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 11 Mar 2026 09:31:32 +0300",
+      "url": "https://tass.ru/obschestvo/26717505",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Ижевска отменили ограничения",
+      "title_neutral": "В аэропорту Ижевска отменили ограничения",
+      "excerpt": "",
+      "recap_neutral": "В аэропорту Ижевска отменили ограничения",
+      "main_idea": "В аэропорту Ижевска отменили ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 11 Mar 2026 09:30:55 +0300",
+      "url": "https://tass.ru/obschestvo/26717487",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ЮMoney: в РФ число покупок иностранцами в китайский Новый год выросло на 70%",
+      "title_neutral": "ЮMoney: в РФ число покупок иностранцами в китайский Новый год выросло на 70%",
+      "excerpt": "Средний чек увеличился на 8% и составил 1 079 рублей, говорится в исследовании финтех-компании",
+      "recap_neutral": "Средний чек увеличился на 8% и составил 1 079 рублей, говорится в исследовании финтех-компании",
+      "main_idea": "ЮMoney: в РФ число покупок иностранцами в китайский Новый год выросло на 70%",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 11 Mar 2026 09:30:55 +0300",
+      "url": "https://tass.ru/ekonomika/26716503",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Повреждение ЛЭП в Ростовской области и 185 БПЛА. Отражение ночной атаки ВСУ",
+      "title_neutral": "Повреждение ЛЭП в Ростовской области и 185 БПЛА. Отражение ночной атаки ВСУ",
+      "excerpt": "В Таганроге и пяти районах Ростовской области отразили массированную атаку беспилотников",
+      "recap_neutral": "В Таганроге и пяти районах Ростовской области отразили массированную атаку беспилотников",
+      "main_idea": "Повреждение ЛЭП в Ростовской области и 185 БПЛА. Отражение ночной атаки ВСУ",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 11 Mar 2026 09:30:31 +0300",
+      "url": "https://tass.ru/proisshestviya/26717445",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Оренбургской области отменили опасность атаки БПЛА",
+      "title_neutral": "В Оренбургской области отменили опасность атаки БПЛА",
+      "excerpt": "Угроза перестала действовать на территории всего региона",
+      "recap_neutral": "Угроза перестала действовать на территории всего региона",
+      "main_idea": "В Оренбургской области отменили опасность атаки БПЛА",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 08:29:15 +0300",
-      "url": "https://tass.ru/obschestvo/26716887",
+      "published_at": "Wed, 11 Mar 2026 09:30:15 +0300",
+      "url": "https://tass.ru/proisshestviya/26717447",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В аэропорту Волгограда задерживаются четыре рейса",
-      "title_neutral": "В аэропорту Волгограда задерживаются четыре рейса",
-      "excerpt": "Согласно онлайн-табло, задержаны по два рейса на вылет и прилет из Москвы",
-      "recap_neutral": "Согласно онлайн-табло, задержаны по два рейса на вылет и прилет из Москвы",
-      "main_idea": "В аэропорту Волгограда задерживаются четыре рейса",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 08:27:26 +0300",
-      "url": "https://tass.ru/obschestvo/26716879",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ученые научились дистанционно определять спелость подсолнечника с точностью до 98%",
-      "title_neutral": "Ученые научились дистанционно определять спелость подсолнечника с точностью до 98%",
-      "excerpt": "Новая технология позволяет получить карту спелости на все поле, благодаря чему можно планировать очередность уборки разных участков",
-      "recap_neutral": "Новая технология позволяет получить карту спелости на все поле, благодаря чему можно планировать очередность уборки разных участков",
-      "main_idea": "Ученые научились дистанционно определять спелость подсолнечника с точностью до 98%",
+      "title_original": "Khaosod: в аэропорту Пхукета самолет Air India Express выкатился за ВПП",
+      "title_neutral": "Khaosod: в аэропорту Пхукета самолет Air India Express выкатился за ВПП",
+      "excerpt": "У самолета сломалась передняя стойка шасси, сообщила газета",
+      "recap_neutral": "У самолета сломалась передняя стойка шасси, сообщила газета",
+      "main_idea": "Khaosod: в аэропорту Пхукета самолет Air India Express выкатился за ВПП",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 08:25:51 +0300",
-      "url": "https://tass.ru/nauka/26716669",
+      "published_at": "Wed, 11 Mar 2026 09:30:14 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26717453",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Глава Суджанского района: курян удерживают в украинском плену как обменный фонд",
-      "title_neutral": "Глава Суджанского района: курян удерживают в украинском плену как обменный фонд",
-      "excerpt": "Киев ставит требования, что вернет их лишь в обмен на пленных из ВСУ, рассказал Алексей Спиридонов",
-      "recap_neutral": "Киев ставит требования, что вернет их лишь в обмен на пленных из ВСУ, рассказал Алексей Спиридонов",
-      "main_idea": "Глава Суджанского района: курян удерживают в украинском плену как обменный фонд",
+      "title_original": "At least six dead in Switzerland bus fire",
+      "title_neutral": "At least six dead in Switzerland bus fire",
+      "excerpt": "Police do not yet know the cause of the fire in the western Fribourg canton, which also injured a number of people.",
+      "recap_neutral": "Police do not yet know the cause of the fire in the western Fribourg canton, which also injured a number of people",
+      "main_idea": "At least six dead in Switzerland bus fire",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 08:24:42 +0300",
-      "url": "https://tass.ru/politika/26716697",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Wed, 11 Mar 2026 06:13:12 GMT",
+      "url": "https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В России нашли способ \"перепрограммировать\" сознание пациентов с анорексией",
-      "title_neutral": "В России нашли способ \"перепрограммировать\" сознание пациентов с анорексией",
-      "excerpt": "Специалисты обнаружили, что высокая осознанность связана с более адаптивным перфекционизмом, что способствует более здоровому индексу массы тела",
-      "recap_neutral": "Специалисты обнаружили, что высокая осознанность связана с более адаптивным перфекционизмом, что способствует более здоровому индексу массы тела",
-      "main_idea": "В России нашли способ \"перепрограммировать\" сознание пациентов с анорексией",
+      "title_original": "Prison sentences for pair who attacked gay men hailed as sign of hope for Kenya’s LGBTQ+ community",
+      "title_neutral": "Prison sentences for pair who attacked gay men hailed as sign of hope for Kenya’s LGBTQ+ community",
+      "excerpt": "The perpetrators were jailed for 15 years for robbery with violence in the east African country, where homophobic attacks are increasing The sentencing of two people who attacked and robbed two gay men in Kenya has been hailed by LGBTQ+ rights advocates as a breakthrough and a sign of hope for the…",
+      "recap_neutral": "The perpetrators were jailed for 15 years for robbery with violence in the east African country, where homophobic attacks are increasing The sentencing of two people who attacked and robbed two gay men in Kenya has been…",
+      "main_idea": "Prison sentences for pair who attacked gay men hailed as sign of hope for Kenya’s LGBTQ+ community",
       "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 08:23:11 +0300",
-      "url": "https://tass.ru/nauka/26716735",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Мордовии отменили сигнал беспилотной опасности",
-      "title_neutral": "В Мордовии отменили сигнал беспилотной опасности",
-      "excerpt": "Режим действовал в регионе с 01:51 мск",
-      "recap_neutral": "Режим действовал в регионе с 01:51 мск",
-      "main_idea": "В Мордовии отменили сигнал беспилотной опасности",
-      "tags": [
+        "conflict",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 08:23:05 +0300",
-      "url": "https://tass.ru/proisshestviya/26716875",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ТАСС: ограничения полетов над Сирией будут действовать до конца 12 марта",
-      "title_neutral": "ТАСС: ограничения полетов над Сирией будут действовать до конца 12 марта",
-      "excerpt": "",
-      "recap_neutral": "ТАСС: ограничения полетов над Сирией будут действовать до конца 12 марта",
-      "main_idea": "ТАСС: ограничения полетов над Сирией будут действовать до конца 12 марта",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 08:20:44 +0300",
-      "url": "https://tass.ru/ekonomika/26716865",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Захарова опубликует данные о посещении Бучи иностранными должностными лицами",
-      "title_neutral": "Захарова опубликует данные о посещении Бучи иностранными должностными лицами",
-      "excerpt": "",
-      "recap_neutral": "Захарова опубликует данные о посещении Бучи иностранными должностными лицами",
-      "main_idea": "Захарова опубликует данные о посещении Бучи иностранными должностными лицами",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 08:19:55 +0300",
-      "url": "https://tass.ru/politika/26716851",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "МГПУ после реформы откроет целевой набор студентов со всей страны",
-      "title_neutral": "МГПУ после реформы откроет целевой набор студентов со всей страны",
-      "excerpt": "Руководитель Департамента образования и науки города Москвы Ирина Каклюгина отметила, что университет будет полностью сфокусирован на подготовке учителей для московских школ",
-      "recap_neutral": "Руководитель Департамента образования и науки города Москвы Ирина Каклюгина отметила, что университет будет полностью сфокусирован на подготовке учителей для московских школ",
-      "main_idea": "МГПУ после реформы откроет целевой набор студентов со всей страны",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 08:18:32 +0300",
-      "url": "https://tass.ru/obschestvo/26716835",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Приморье начали рассмотрение дела сына \"крабового короля\" Кана без его участия",
-      "title_neutral": "В Приморье начали рассмотрение дела сына \"крабового короля\" Кана без его участия",
-      "excerpt": "Александру Кану предъявлены обвинения по фактам участия в преступном сообществе, уклонения от уплаты таможенных платежей и контрабанды особо ценных водных биологических ресурсов",
-      "recap_neutral": "Александру Кану предъявлены обвинения по фактам участия в преступном сообществе, уклонения от уплаты таможенных платежей и контрабанды особо ценных водных биологических ресурсов",
-      "main_idea": "В Приморье начали рассмотрение дела сына \"крабового короля\" Кана без его участия",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 08:15:44 +0300",
-      "url": "https://tass.ru/proisshestviya/26716789",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Худрук Театра на Малой Ордынке прокомментировал идею возврата денег за спектакли",
-      "title_neutral": "Худрук Театра на Малой Ордынке прокомментировал идею возврата денег за спектакли",
-      "excerpt": "Эдуард Бояков подчеркнул, что испорченная репутация уже является наказанием",
-      "recap_neutral": "Эдуард Бояков подчеркнул, что испорченная репутация уже является наказанием",
-      "main_idea": "Худрук Театра на Малой Ордынке прокомментировал идею возврата денег за спектакли",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 08:15:34 +0300",
-      "url": "https://tass.ru/kultura/26716487",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Иране попросили страны Персидского залива показать укрытия военных США",
-      "title_neutral": "В Иране попросили страны Персидского залива показать укрытия военных США",
-      "excerpt": "Тегеран мог бы с большей точностью поразить тех, кто использует людей стран региона в качестве живого щита, заявил представитель иранских вооруженных сил Абольфазль Шекарчи",
-      "recap_neutral": "Тегеран мог бы с большей точностью поразить тех, кто использует людей стран региона в качестве живого щита, заявил представитель иранских вооруженных сил Абольфазль Шекарчи",
-      "main_idea": "В Иране попросили страны Персидского залива показать укрытия военных США",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 08:14:19 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26716825",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Москвичам не советуют переходить на весенний гардероб из-за обманчивой погоды",
-      "title_neutral": "Москвичам не советуют переходить на весенний гардероб из-за обманчивой погоды",
-      "excerpt": "Есть риск возникновения простуд, обострения хронических заболеваний и мышечных болей, считает доктор медицинских наук, главный внештатный специалист по первичной медико-санитарной помощи взрослому населению Департамента здравоохранения Москвы Андрей Тяжельников",
-      "recap_neutral": "Есть риск возникновения простуд, обострения хронических заболеваний и мышечных болей, считает доктор медицинских наук, главный внештатный специалист по первичной медико-санитарной помощи взрослому населению Департамента…",
-      "main_idea": "Москвичам не советуют переходить на весенний гардероб из-за обманчивой погоды",
-      "tags": [
-        "climate"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 08:13:14 +0300",
-      "url": "https://tass.ru/obschestvo/26716615",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Вылетевший из Красноярска в Якутск самолет возвращается в аэропорт",
-      "title_neutral": "Вылетевший из Красноярска в Якутск самолет возвращается в аэропорт",
-      "excerpt": "В нем находятся 115 пассажиров",
-      "recap_neutral": "В нем находятся 115 пассажиров",
-      "main_idea": "Вылетевший из Красноярска в Якутск самолет возвращается в аэропорт",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 08:13:02 +0300",
-      "url": "https://tass.ru/proisshestviya/26716819",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "НИИ Византии и Причерноморья получил 300 млн рублей на три года работы",
-      "title_neutral": "НИИ Византии и Причерноморья получил 300 млн рублей на три года работы",
-      "excerpt": "Институт, который в перспективе будет вести исследования международного уровня, работает на базе СевГУ с 1 января 2025 года",
-      "recap_neutral": "Институт, который в перспективе будет вести исследования международного уровня, работает на базе СевГУ с 1 января 2025 года",
-      "main_idea": "НИИ Византии и Причерноморья получил 300 млн рублей на три года работы",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 08:12:08 +0300",
-      "url": "https://tass.ru/nauka/26716783",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "The Guardian",
+      "published_at": "Wed, 11 Mar 2026 06:00:12 GMT",
+      "url": "https://www.theguardian.com/global-development/2026/mar/11/prison-sentences-attacked-gay-men-hope-kenya-lgbtq-community",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
       "confidence": "heuristic"
     },
     {
@@ -253,7 +291,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Wed, 11 Mar 2026 04:42:00 +0000",
+      "published_at": "Wed, 11 Mar 2026 05:56:26 +0000",
       "url": "https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel",
       "lang": "en",
       "bias_score": 55,
@@ -261,18 +299,65 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "This is what happened on March 10.",
-      "title_neutral": "This is what happened on March 10.",
+      "title_original": "Here’s the latest.",
+      "title_neutral": "Here’s the latest.",
       "excerpt": "",
-      "recap_neutral": "This is what happened on March 10.",
-      "main_idea": "This is what happened on March 10.",
+      "recap_neutral": "Here’s the latest.",
+      "main_idea": "Here’s the latest.",
       "tags": [],
       "source": "NYTimes World",
-      "published_at": "Wed, 11 Mar 2026 04:25:07 +0000",
-      "url": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/this-is-what-happened-on-march-10",
+      "published_at": "Wed, 11 Mar 2026 05:55:50 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel/heres-the-latest",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Create value for others and don’t worry about the returns",
+      "title_neutral": "Create value for others and don’t worry about the returns",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Create value for others and don’t worry about the returns",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 11 Mar 2026 05:45:49 +0000",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Australian designer Katie Perry wins trademark appeal vs Katy Perry",
+      "title_neutral": "Australian designer Katie Perry wins trademark appeal vs Katy Perry",
+      "excerpt": "The US singer lost the case in 2023 and later won on appeal, but now judges have ruled against her.",
+      "recap_neutral": "The US singer lost the case in 2023 and later won on appeal, but now judges have ruled against her",
+      "main_idea": "Australian designer Katie Perry wins trademark appeal vs Katy Perry",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 11 Mar 2026 05:36:25 GMT",
+      "url": "https://www.bbc.com/news/articles/c9dn8l021l2o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Standardizing source maps",
+      "title_neutral": "Standardizing source maps",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Standardizing source maps",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 11 Mar 2026 04:42:23 +0000",
+      "url": "https://bloomberg.github.io/js-blog/post/standardizing-source-maps/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -308,23 +393,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Katy Perry loses trademark case against Australian designer Katie Perry",
-      "title_neutral": "Katy Perry loses trademark case against Australian designer Katie Perry",
-      "excerpt": "The US singer lost the case in 2023 and later won on appeal, but now judges have ruled against her.",
-      "recap_neutral": "The US singer lost the case in 2023 and later won on appeal, but now judges have ruled against her",
-      "main_idea": "Katy Perry loses trademark case against Australian designer Katie Perry",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Wed, 11 Mar 2026 04:13:40 GMT",
-      "url": "https://www.bbc.com/news/articles/c9dn8l021l2o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Woman charged with attempted murder after shooting at Rihanna's home",
       "title_neutral": "Woman charged with attempted murder after shooting at Rihanna's home",
       "excerpt": "The woman posted about the singer online prior to the attack, the BBC's US news partner CBS reports.",
@@ -342,6 +410,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Bam! Heat's Adebayo scores 83 points, 2nd only to Wilt Chamberlain in NBA history",
+      "title_neutral": "Bam! Heat's Adebayo scores 83 points, 2nd only to Wilt Chamberlain in NBA history",
+      "excerpt": "Bam Adebayo had a night for all time on Tuesday, with a point total second to only Wilt Chamberlain in the NBA record books.",
+      "recap_neutral": "Bam Adebayo had a night for all time on Tuesday, with a point total second to only Wilt Chamberlain in the NBA record books",
+      "main_idea": "Bam! Heat's Adebayo scores 83 points, 2nd only to Wilt Chamberlain in NBA history",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Wed, 11 Mar 2026 02:15:01 -0400",
+      "url": "https://www.npr.org/2026/03/11/g-s1-113255/bam-heats-adebayo-scores-83-points-2nd-only-to-wilt-chamberlain-in-nba-history",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Writing my own text editor, and daily-driving it",
       "title_neutral": "Writing my own text editor, and daily-driving it",
       "excerpt": "Comments",
@@ -356,6 +441,23 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Prosecutor says Rihanna, family were home when woman charged with attempted murder fired",
+      "title_neutral": "Prosecutor says Rihanna, family were home when woman charged with attempted murder fired",
+      "excerpt": "Rihanna, her partner A$AP Rocky, their three children and her mother were all at home when a woman now charged with attempted murder is alleged to have fired at the property, a prosecutor said.",
+      "recap_neutral": "Rihanna, her partner A$AP Rocky, their three children and her mother were all at home when a woman now charged with attempted murder is alleged to have fired at the property, a prosecutor said",
+      "main_idea": "Prosecutor says Rihanna, family were home when woman charged with attempted murder fired",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Wed, 11 Mar 2026 01:50:41 -0400",
+      "url": "https://www.npr.org/2026/03/11/g-s1-113252/prosecutor-says-rihanna-family-were-home-when-woman-charged-with-attempted-murder-fired",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -433,38 +535,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "At least six dead in Switzerland bus fire",
-      "title_neutral": "At least six dead in Switzerland bus fire",
-      "excerpt": "Police do not yet know the cause of the fire in the western Fribourg canton, which also injured a number of people.",
-      "recap_neutral": "Police do not yet know the cause of the fire in the western Fribourg canton, which also injured a number of people",
-      "main_idea": "At least six dead in Switzerland bus fire",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Tue, 10 Mar 2026 22:35:37 GMT",
-      "url": "https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Universal vaccine against respiratory infections and allergens",
-      "title_neutral": "Universal vaccine against respiratory infections and allergens",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Universal vaccine against respiratory infections and allergens",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Tue, 10 Mar 2026 22:33:48 +0000",
-      "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -617,6 +687,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "RISC-V Is Sloooow",
+      "title_neutral": "RISC-V Is Sloooow",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "RISC-V Is Sloooow",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 10 Mar 2026 20:11:54 +0000",
+      "url": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Acclaimed Peruvian writer Alfredo Bryce Echenique dies aged 87",
       "title_neutral": "Acclaimed Peruvian writer Alfredo Bryce Echenique dies aged 87",
       "excerpt": "The author is best known for his novel A World for Julius, which chronicles the frivolous lives of the elite.",
@@ -704,21 +789,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Mesh over Bluetooth LE, TCP, or Reticulum",
-      "title_neutral": "Mesh over Bluetooth LE, TCP, or Reticulum",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Mesh over Bluetooth LE, TCP, or Reticulum",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 10 Mar 2026 19:02:01 +0000",
-      "url": "https://github.com/torlando-tech/columba",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Mother of Tumbler Ridge Shooting Victim Sues OpenAI",
       "title_neutral": "Mother of Tumbler Ridge Shooting Victim Sues OpenAI",
       "excerpt": "The company banned the shooter’s ChatGPT account but did not alert the authorities, a move that amounted to fatal negligence, the family claims.",
@@ -766,21 +836,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
-      "title_neutral": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 10 Mar 2026 18:26:39 +0000",
-      "url": "https://github.com/steelbrain/ffmpeg-over-ip",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1292,6 +1347,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Levels of Agentic Engineering",
+      "title_neutral": "Levels of Agentic Engineering",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Levels of Agentic Engineering",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 10 Mar 2026 08:48:40 +0000",
+      "url": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Yann LeCun raises $1B to build AI that understands the physical world",
       "title_neutral": "Yann LeCun raises $1B to build AI that understands the physical world",
       "excerpt": "Comments",
@@ -1354,43 +1424,6 @@
       "source": "NPR",
       "published_at": "Tue, 10 Mar 2026 06:00:00 -0400",
       "url": "https://www.npr.org/2026/03/10/nx-s1-5739396/glp-1-ozempic-addiction-substance-use-disorders-weight-loss",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The U.S. vowed its 'most intense day of strikes inside Iran'",
-      "title_neutral": "The U.S. vowed its 'most intense day of strikes inside Iran'",
-      "excerpt": "Defense Secretary Pete Hegseth said the Pentagon was giving President Trump \"maximum options\" and that the war will not be \"endless,\" a day after the president gave mixed signals about progress.",
-      "recap_neutral": "Defense Secretary Pete Hegseth said the Pentagon was giving President Trump \"maximum options\" and that the war will not be \"endless,\" a day after the president gave mixed signals about progress",
-      "main_idea": "The U.S. vowed its 'most intense day of strikes inside Iran'",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Tue, 10 Mar 2026 05:35:21 -0400",
-      "url": "https://www.npr.org/2026/03/10/nx-s1-5742828/iran-war-us-trump",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Morning news brief",
-      "title_neutral": "Morning news brief",
-      "excerpt": "Trump hails Iran successes but offers no end date, Lebanon wants talks with Israel, and two teens are charged in NYC attack attempt.",
-      "recap_neutral": "Trump hails Iran successes but offers no end date, Lebanon wants talks with Israel, and two teens are charged in NYC attack attempt",
-      "main_idea": "Morning news brief",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Tue, 10 Mar 2026 05:08:58 -0400",
-      "url": "https://www.npr.org/2026/03/10/nx-s1-5741660/newsbrief-trump-on-war-lebanon-israel-nyc-attacks",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1465,24 +1498,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "South Africa’s president calls Trump’s policy to offer refuge to white Afrikaners ‘racist’",
-      "title_neutral": "South Africa’s president calls Trump’s policy to offer refuge to white Afrikaners ‘racist’",
-      "excerpt": "US president is ‘truly uninformed’ for spreading claims of ‘white genocide’ in South Africa, Cyril Ramaphosa tells New York Times South Africa’s president, Cyril Ramaphosa, has called Donald Trump’s policy of allowing white Afrikaners to apply for refugee status in the US “racist”, saying the US pr…",
-      "recap_neutral": "US president is ‘truly uninformed’ for spreading claims of ‘white genocide’ in South Africa, Cyril Ramaphosa tells New York Times South Africa’s president, Cyril Ramaphosa, has called Donald Trump’s policy of allowing w…",
-      "main_idea": "South Africa’s president calls Trump’s policy to offer refuge to white Afrikaners ‘racist’",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Thu, 05 Mar 2026 16:23:57 GMT",
-      "url": "https://www.theguardian.com/world/2026/mar/05/south-africa-president-cyril-ramaphosa-calls-donald-trump-policy-white-afrikaners-racist",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
       "title_neutral": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
       "excerpt": "Comments",
@@ -1494,21 +1509,6 @@
       "source": "Hacker News",
       "published_at": "Sun, 08 Mar 2026 09:27:34 +0000",
       "url": "https://github.com/gcv/julia-snail",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Invoker Commands API",
-      "title_neutral": "Invoker Commands API",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Invoker Commands API",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 08 Mar 2026 08:16:53 +0000",
-      "url": "https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
