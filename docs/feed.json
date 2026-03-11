@@ -1,264 +1,85 @@
 {
-  "last_updated": "2026-03-11T14:25:08.977828+00:00",
+  "last_updated": "2026-03-11T15:11:04.350318+00:00",
   "items": [
     {
-      "title_original": "В Петербурге из-за обвала штукатурки со старинного особняка пострадал человек",
-      "title_neutral": "В Петербурге из-за обвала штукатурки со старинного особняка пострадал человек",
-      "excerpt": "Мужчину с места происшествия забрала машина скорой помощи",
-      "recap_neutral": "Мужчину с места происшествия забрала машина скорой помощи",
-      "main_idea": "В Петербурге из-за обвала штукатурки со старинного особняка пострадал человек",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 17:23:30 +0300",
-      "url": "https://tass.ru/proisshestviya/26726195",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Agerpres: военных США разместят на двух базах Румынии на срок до 90 дней",
-      "title_neutral": "Agerpres: военных США разместят на двух базах Румынии на срок до 90 дней",
-      "excerpt": "В страну прибудут примерно 400-500 американских военнослужащих, пишет агентство",
-      "recap_neutral": "В страну прибудут примерно 400-500 американских военнослужащих, пишет агентство",
-      "main_idea": "Agerpres: военных США разместят на двух базах Румынии на срок до 90 дней",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 17:21:33 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26725945",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ямпольская: во втором сезоне \"Родной игрушки\" сделают акцент на изделиях для дошкольников",
-      "title_neutral": "Ямпольская: во втором сезоне \"Родной игрушки\" сделают акцент на изделиях для дошкольников",
-      "excerpt": "По статистике Министерства просвещения, через подготовительные группы детского сада проходят 95% детей соответствующего возраста, напомнила советник президента РФ",
-      "recap_neutral": "По статистике Министерства просвещения, через подготовительные группы детского сада проходят 95% детей соответствующего возраста, напомнила советник президента РФ",
-      "main_idea": "Ямпольская: во втором сезоне \"Родной игрушки\" сделают акцент на изделиях для дошкольников",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 17:20:32 +0300",
-      "url": "https://tass.ru/obschestvo/26725125",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Барбра Стрейзанд получит почетную \"Золотую пальмовую ветвь\" фестиваля в Канне",
-      "title_neutral": "Барбра Стрейзанд получит почетную \"Золотую пальмовую ветвь\" фестиваля в Канне",
-      "excerpt": "Певице вручат награду за вклад в кинематограф",
-      "recap_neutral": "Певице вручат награду за вклад в кинематограф",
-      "main_idea": "Барбра Стрейзанд получит почетную \"Золотую пальмовую ветвь\" фестиваля в Канне",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 17:19:36 +0300",
-      "url": "https://tass.ru/kultura/26725115",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Программу развития судоходства в Амурском бассейне направили в Минтранс",
-      "title_neutral": "Программу развития судоходства в Амурском бассейне направили в Минтранс",
-      "excerpt": "По словам вице-губернатора Хабаровского края Олега Игнатова, программа включает 22 мероприятия по модернизации портов",
-      "recap_neutral": "По словам вице-губернатора Хабаровского края Олега Игнатова, программа включает 22 мероприятия по модернизации портов",
-      "main_idea": "Программу развития судоходства в Амурском бассейне направили в Минтранс",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 17:18:29 +0300",
-      "url": "https://tass.ru/obschestvo/26725683",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Axios: США сложнее поддерживать санкции против нефти РФ из-за операции в Иране",
-      "title_neutral": "Axios: США сложнее поддерживать санкции против нефти РФ из-за операции в Иране",
-      "excerpt": "По данным портала, причиной является рост цен на энергоносители",
-      "recap_neutral": "По данным портала, причиной является рост цен на энергоносители",
-      "main_idea": "Axios: США сложнее поддерживать санкции против нефти РФ из-за операции в Иране",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 17:17:57 +0300",
-      "url": "https://tass.ru/ekonomika/26726099",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Сочи обломки БПЛА попали в многоквартирный дом",
-      "title_neutral": "В Сочи обломки БПЛА попали в многоквартирный дом",
-      "excerpt": "",
-      "recap_neutral": "В Сочи обломки БПЛА попали в многоквартирный дом",
-      "main_idea": "В Сочи обломки БПЛА попали в многоквартирный дом",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 17:17:36 +0300",
-      "url": "https://tass.ru/proisshestviya/26726143",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Трамп допустил скорое завершение военной операции против Ирана",
-      "title_neutral": "Трамп допустил скорое завершение военной операции против Ирана",
-      "excerpt": "Как утверждает американский лидер, в исламской республике \"практически не осталось ничего, по чему можно нанести удар\"",
-      "recap_neutral": "Как утверждает американский лидер, в исламской республике \"практически не осталось ничего, по чему можно нанести удар\"",
-      "main_idea": "Трамп допустил скорое завершение военной операции против Ирана",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 17:17:33 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26726109",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "По стопам Ирана. Случаи отказа сборных от выступления на ЧМ по футболу",
-      "title_neutral": "По стопам Ирана. Случаи отказа сборных от выступления на ЧМ по футболу",
-      "excerpt": "Все они произошли в 1950 году, когда четвертое по счету мировое первенство принимала Бразилия",
-      "recap_neutral": "Все они произошли в 1950 году, когда четвертое по счету мировое первенство принимала Бразилия",
-      "main_idea": "По стопам Ирана. Случаи отказа сборных от выступления на ЧМ по футболу",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 17:17:16 +0300",
-      "url": "https://tass.ru/info/26725675",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Израиле заявили, что операция против Ирана ведется без ограничений по срокам",
-      "title_neutral": "В Израиле заявили, что операция против Ирана ведется без ограничений по срокам",
-      "excerpt": "Она будет продолжаться, пока еврейское государство не достигнет всех целей и не добьется победы, отметил израильский министр обороны Исраэль Кац",
-      "recap_neutral": "Она будет продолжаться, пока еврейское государство не достигнет всех целей и не добьется победы, отметил израильский министр обороны Исраэль Кац",
-      "main_idea": "В Израиле заявили, что операция против Ирана ведется без ограничений по срокам",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 17:16:07 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26724989",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Максима Каца заочно приговорили к девяти годам колонии",
-      "title_neutral": "Максима Каца заочно приговорили к девяти годам колонии",
-      "excerpt": "",
-      "recap_neutral": "Максима Каца заочно приговорили к девяти годам колонии",
-      "main_idea": "Максима Каца заочно приговорили к девяти годам колонии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 17:16:00 +0300",
-      "url": "https://tass.ru/proisshestviya/26726117",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Запорожье произошли взрывы",
-      "title_neutral": "В Запорожье произошли взрывы",
-      "excerpt": "В районах Запорожской области объявлена воздушная тревога",
-      "recap_neutral": "В районах Запорожской области объявлена воздушная тревога",
-      "main_idea": "В Запорожье произошли взрывы",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 17:14:16 +0300",
-      "url": "https://tass.ru/proisshestviya/26726091",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В суд Коми направили 176 исков о взыскании зарплаты с Жешартского ЛПК",
-      "title_neutral": "В суд Коми направили 176 исков о взыскании зарплаты с Жешартского ЛПК",
-      "excerpt": "Сумма задолженности составила 27 млн рублей",
-      "recap_neutral": "Сумма задолженности составила 27 млн рублей",
-      "main_idea": "В суд Коми направили 176 исков о взыскании зарплаты с Жешартского ЛПК",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 17:14:10 +0300",
-      "url": "https://tass.ru/proisshestviya/26725807",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Иран на сессии Исполсовета ОЗХО предложил запретить удары по химобъектам",
-      "title_neutral": "Иран на сессии Исполсовета ОЗХО предложил запретить удары по химобъектам",
-      "excerpt": "",
-      "recap_neutral": "Иран на сессии Исполсовета ОЗХО предложил запретить удары по химобъектам",
-      "main_idea": "Иран на сессии Исполсовета ОЗХО предложил запретить удары по химобъектам",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 17:14:04 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26726081",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Чистые продажи 29 крупнейших российских экспортеров в феврале сократились на 31% к январю",
-      "title_neutral": "Чистые продажи 29 крупнейших российских экспортеров в феврале сократились на 31% к январю",
-      "excerpt": "",
-      "recap_neutral": "Чистые продажи 29 крупнейших российских экспортеров в феврале сократились на 31% к январю",
-      "main_idea": "Чистые продажи 29 крупнейших российских экспортеров в феврале сократились на 31% к январю",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 11 Mar 2026 17:13:39 +0300",
-      "url": "https://tass.ru/ekonomika/26726071",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Live Updates: Japan and Germany to Release Oil as War in Iran Threatens Global Supply",
-      "title_neutral": "Live Updates: Japan and Germany to Release Oil as War in Iran Threatens Global Supply",
+      "title_original": "Live Updates: 32 Countries to Release 400 Million Barrels of Oil to Help Shore Up Supply",
+      "title_neutral": "Live Updates: 32 Countries to Release 400 Million Barrels of Oil to Help Shore Up Supply",
       "excerpt": "The Strait of Hormuz, a conduit for a fifth of the world’s oil, is all but closed as war in the Middle East expands. A British agency said three ships were hit by unidentified projectiles in or near the strait.",
       "recap_neutral": "The Strait of Hormuz, a conduit for a fifth of the world’s oil, is all but closed as war in the Middle East expands",
-      "main_idea": "Live Updates: Japan and Germany to Release Oil as War in Iran Threatens Global Supply",
+      "main_idea": "Live Updates: 32 Countries to Release 400 Million Barrels of Oil to Help Shore Up Supply",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Wed, 11 Mar 2026 14:19:38 +0000",
+      "published_at": "Wed, 11 Mar 2026 15:07:56 +0000",
       "url": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "China’s Military Has Quietly Cut Flying Near Taiwan",
+      "title_neutral": "China’s Military Has Quietly Cut Flying Near Taiwan",
+      "excerpt": "For years, China has flown military jets near Taiwan almost daily. Then they suddenly stopped, leaving analysts to wonder why.",
+      "recap_neutral": "For years, China has flown military jets near Taiwan almost daily",
+      "main_idea": "China’s Military Has Quietly Cut Flying Near Taiwan",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Wed, 11 Mar 2026 15:07:46 +0000",
+      "url": "https://www.nytimes.com/2026/03/11/world/asia/taiwan-china-military-planes.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Live Updates: Starmer Was Warned About Risk of Appointing Friend of Epstein As Ambassador",
+      "title_neutral": "Live Updates: Starmer Was Warned About Risk of Appointing Friend of Epstein As Ambassador",
+      "excerpt": "British officials told Prime Minister Keir Starmer of Peter Mandelson’s close ties to Jeffrey Epstein before Mr. Mandelson was appointed U.S. ambassador.",
+      "recap_neutral": "British officials told Prime Minister Keir Starmer of Peter Mandelson’s close ties to Jeffrey Epstein before Mr",
+      "main_idea": "Live Updates: Starmer Was Warned About Risk of Appointing Friend of Epstein As Ambassador",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Wed, 11 Mar 2026 15:05:20 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/11/world/mandelson-files-epstein-uk",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "No evidence Swiss bus fire was terrorism, officials say",
+      "title_neutral": "No evidence Swiss bus fire was terrorism, officials say",
+      "excerpt": "Initial reports suggest a man with \"psychological problems\" set himself on fire on the bus, according to police.",
+      "recap_neutral": "Initial reports suggest a man with \"psychological problems\" set himself on fire on the bus, according to police",
+      "main_idea": "No evidence Swiss bus fire was terrorism, officials say",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Wed, 11 Mar 2026 15:04:47 GMT",
+      "url": "https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "See where U.S. installations have been damaged in the war with Iran.",
+      "title_neutral": "See where U.S. installations have been damaged in the war with Iran.",
+      "excerpt": "",
+      "recap_neutral": "See where U.S. installations have been damaged in the war with Iran.",
+      "main_idea": "See where U.S. installations have been damaged in the war with Iran.",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Wed, 11 Mar 2026 14:49:49 +0000",
+      "url": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/see-where-us-installations-have-been-damaged-in-the-war-with-iran",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -275,8 +96,75 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Wed, 11 Mar 2026 14:17:59 +0000",
+      "published_at": "Wed, 11 Mar 2026 14:40:17 +0000",
       "url": "https://www.nytimes.com/2026/03/11/world/middleeast/iran-heritage-sites-damaged.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Faster Asin() Was Hiding in Plain Sight",
+      "title_neutral": "Faster Asin() Was Hiding in Plain Sight",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Faster Asin() Was Hiding in Plain Sight",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Wed, 11 Mar 2026 14:35:53 +0000",
+      "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
+      "title_neutral": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
+      "excerpt": "Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma.",
+      "recap_neutral": "Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma",
+      "main_idea": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 11 Mar 2026 14:35:31 GMT",
+      "url": "https://www.bbc.com/news/articles/cvgj8veg0gno?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Countries agree to record release of emergency oil reserves as prices surge",
+      "title_neutral": "Countries agree to record release of emergency oil reserves as prices surge",
+      "excerpt": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
+      "recap_neutral": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
+      "main_idea": "Countries agree to record release of emergency oil reserves as prices surge",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 11 Mar 2026 14:30:40 GMT",
+      "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A Dublin Pub-Crawl, but Hold the Booze",
+      "title_neutral": "A Dublin Pub-Crawl, but Hold the Booze",
+      "excerpt": "A wander through some famed watering holes in Ireland’s capital reveals a booming alcohol-free scene and a cultural shift.",
+      "recap_neutral": "A wander through some famed watering holes in Ireland’s capital reveals a booming alcohol-free scene and a cultural shift",
+      "main_idea": "A Dublin Pub-Crawl, but Hold the Booze",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Wed, 11 Mar 2026 14:26:45 +0000",
+      "url": "https://www.nytimes.com/2026/03/11/world/europe/ireland-pubs-alcohol-free.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -301,33 +189,36 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "WA income tax clears House after 24-hour debate",
-      "title_neutral": "WA income tax clears House after 24-hour debate",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "WA income tax clears House after 24-hour debate",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 11 Mar 2026 14:08:12 +0000",
-      "url": "https://www.seattletimes.com/seattle-news/politics/wa-income-tax-passes-house-after-24-hour-debate/",
+      "title_original": "Argentina grants asylum to Brasília rioter in move that may sway Brazil vote",
+      "title_neutral": "Argentina grants asylum to Brasília rioter in move that may sway Brazil vote",
+      "excerpt": "Decision to shield pro-Bolsonaro truck driver sentenced for 8 January 2023 attack could inflame Brazil election politics Argentina has granted asylum to a Brazilian fugitive convicted for his role in 2023 pro-Bolsonaro riots – a decision that analysts say could reverberate in Brazil ’s upcoming pre…",
+      "recap_neutral": "Decision to shield pro-Bolsonaro truck driver sentenced for 8 January 2023 attack could inflame Brazil election politics Argentina has granted asylum to a Brazilian fugitive convicted for his role in 2023 pro-Bolsonaro…",
+      "main_idea": "Argentina grants asylum to Brasília rioter in move that may sway Brazil vote",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "The Guardian",
+      "published_at": "Wed, 11 Mar 2026 14:11:07 GMT",
+      "url": "https://www.theguardian.com/world/2026/mar/11/argentina-asylum-brasil-elections",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 60,
+      "left_right_index": -28,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Who is Peter Mandelson?",
-      "title_neutral": "Who is Peter Mandelson?",
-      "excerpt": "",
-      "recap_neutral": "Who is Peter Mandelson?",
-      "main_idea": "Who is Peter Mandelson?",
+      "title_original": "UK MPs give ministers powers to restrict Internet for under 18s",
+      "title_neutral": "UK MPs give ministers powers to restrict Internet for under 18s",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "UK MPs give ministers powers to restrict Internet for under 18s",
       "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Wed, 11 Mar 2026 14:05:17 +0000",
-      "url": "https://www.nytimes.com/live/2026/03/11/world/mandelson-files-epstein-uk/who-is-peter-mandelson-epstein-uk",
+      "source": "Hacker News",
+      "published_at": "Wed, 11 Mar 2026 14:08:48 +0000",
+      "url": "https://www.openrightsgroup.org/press-releases/mps-give-ministers-powers-to-restrict-entire-internet/",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -343,23 +234,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Record release of emergency oil reserves planned as prices surge",
-      "title_neutral": "Record release of emergency oil reserves planned as prices surge",
-      "excerpt": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
-      "recap_neutral": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
-      "main_idea": "Record release of emergency oil reserves planned as prices surge",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Wed, 11 Mar 2026 13:46:37 GMT",
-      "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -444,6 +318,24 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Russia Says Ukraine’s Strike on Factory City Was Deadly",
+      "title_neutral": "Russia Says Ukraine’s Strike on Factory City Was Deadly",
+      "excerpt": "Ukraine said the attack struck a key electronics plant, highlighting how it remains capable of hitting high-value targets inside Russia.",
+      "recap_neutral": "Ukraine said the attack struck a key electronics plant, highlighting how it remains capable of hitting high-value targets inside Russia",
+      "main_idea": "Russia Says Ukraine’s Strike on Factory City Was Deadly",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Wed, 11 Mar 2026 12:36:02 +0000",
+      "url": "https://www.nytimes.com/2026/03/11/world/europe/ukraine-russia-electronics-plant-missiles.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Microsoft BitNet: 100B Param 1-Bit model for local CPUs",
       "title_neutral": "Microsoft BitNet: 100B Param 1-Bit model for local CPUs",
       "excerpt": "Comments",
@@ -490,21 +382,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "At least six dead in Switzerland bus fire",
-      "title_neutral": "At least six dead in Switzerland bus fire",
-      "excerpt": "Police do not yet know the cause of the fire in the western Fribourg canton, which also injured a number of people.",
-      "recap_neutral": "Police do not yet know the cause of the fire in the western Fribourg canton, which also injured a number of people",
-      "main_idea": "At least six dead in Switzerland bus fire",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Wed, 11 Mar 2026 11:37:23 GMT",
-      "url": "https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -596,11 +473,29 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Countries agree to historic release of stockpiled oil to ease the global shortage",
-      "title_neutral": "Countries agree to historic release of stockpiled oil to ease the global shortage",
+      "title_original": "Greetings from a Shanghai temple where you can ward off bad luck in the Year of the Horse",
+      "title_neutral": "Greetings from a Shanghai temple where you can ward off bad luck in the Year of the Horse",
+      "excerpt": "According to Chinese mythology, those born in the Year of the Horse will clash with Tai Sui, a heavenly general. Luckily, there are ways to appease Tai Sui, including amulets at Shanghai's Jade Buddha Temple.",
+      "recap_neutral": "According to Chinese mythology, those born in the Year of the Horse will clash with Tai Sui, a heavenly general",
+      "main_idea": "Greetings from a Shanghai temple where you can ward off bad luck in the Year of the Horse",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Wed, 11 Mar 2026 10:27:08 -0400",
+      "url": "https://www.npr.org/2026/03/11/g-s1-113159/year-of-the-horse-shanghai-jade-buddha-temple-tai-sui",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Countries agree to historic release of stockpiled oil to ease the global disruption",
+      "title_neutral": "Countries agree to historic release of stockpiled oil to ease the global disruption",
       "excerpt": "Members of the International Energy Agency have announced a coordinated release of 400 million barrels of stockpiled oil in an attempt to counter the disruption in oil trade triggered by the Iran war.",
       "recap_neutral": "Members of the International Energy Agency have announced a coordinated release of 400 million barrels of stockpiled oil in an attempt to counter the disruption in oil trade triggered by the Iran war",
-      "main_idea": "Countries agree to historic release of stockpiled oil to ease the global shortage",
+      "main_idea": "Countries agree to historic release of stockpiled oil to ease the global disruption",
       "tags": [
         "conflict"
       ],
@@ -694,23 +589,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "China’s Military Has Quietly Cut Flying Near Taiwan. But Why?",
-      "title_neutral": "China’s Military Has Quietly Cut Flying Near Taiwan. But Why?",
-      "excerpt": "For years, China has flown military jets near Taiwan almost daily. Then they suddenly stopped, leaving analysts to wonder why.",
-      "recap_neutral": "For years, China has flown military jets near Taiwan almost daily",
-      "main_idea": "China’s Military Has Quietly Cut Flying Near Taiwan. But Why?",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Wed, 11 Mar 2026 09:03:33 +0000",
-      "url": "https://www.nytimes.com/2026/03/11/world/asia/taiwan-china-military-planes.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Orchids Under Surveillance",
       "title_neutral": "Orchids Under Surveillance",
       "excerpt": "During a refined tea at Selby Royal, Lord Henry dazzles guests with paradoxes while Dorian flirts with the Duchess of Monmouth. The light banter masks his inner dread. Suddenly, Dorian collapses in the conservatory after spotting James Vane’s face pressed against the glass. Though he recovers and i…",
@@ -725,21 +603,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A Dublin Pub-Crawl, but Hold the Booze",
-      "title_neutral": "A Dublin Pub-Crawl, but Hold the Booze",
-      "excerpt": "A wander through some famed watering holes in Ireland’s capital reveals a booming alcohol-free scene and a cultural shift.",
-      "recap_neutral": "A wander through some famed watering holes in Ireland’s capital reveals a booming alcohol-free scene and a cultural shift",
-      "main_idea": "A Dublin Pub-Crawl, but Hold the Booze",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Wed, 11 Mar 2026 09:00:32 +0000",
-      "url": "https://www.nytimes.com/2026/03/11/world/europe/ireland-pubs-alcohol-free.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1042,13 +905,14 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "U.S. attacks Iranian mine-laying vessels near Hormuz on Day 12 of war",
-      "title_neutral": "U.S. attacks Iranian mine-laying vessels near Hormuz on Day 12 of war",
+      "title_original": "The U.S. attacks Iranian mine-laying vessels near the Strait of Hormuz",
+      "title_neutral": "The U.S. attacks Iranian mine-laying vessels near the Strait of Hormuz",
       "excerpt": "Attacks and counterattacks continued throughout the Middle East Wednesday. Two cargo ships were struck in the Gulf, as some lawmakers in Washington pressed for answers on the war's rationale.",
       "recap_neutral": "Attacks and counterattacks continued throughout the Middle East Wednesday",
-      "main_idea": "U.S. attacks Iranian mine-laying vessels near Hormuz on Day 12 of war",
+      "main_idea": "The U.S. attacks Iranian mine-laying vessels near the Strait of Hormuz",
       "tags": [
-        "conflict"
+        "conflict",
+        "tech"
       ],
       "source": "NPR",
       "published_at": "Wed, 11 Mar 2026 05:45:36 -0400",
@@ -1190,23 +1054,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "China and North Korea to reopen passenger train service after pandemic halt",
-      "title_neutral": "China and North Korea to reopen passenger train service after pandemic halt",
-      "excerpt": "Tickets for the first train departing on Thursday have reportedly sold out.",
-      "recap_neutral": "Tickets for the first train departing on Thursday have reportedly sold out",
-      "main_idea": "China and North Korea to reopen passenger train service after pandemic halt",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Wed, 11 Mar 2026 03:10:29 GMT",
-      "url": "https://www.bbc.com/news/articles/cdxz8v58xvyo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Woman charged with attempted murder after shooting at Rihanna's home",
       "title_neutral": "Woman charged with attempted murder after shooting at Rihanna's home",
       "excerpt": "The woman posted about the singer online prior to the attack, the BBC's US news partner CBS reports.",
@@ -1235,23 +1082,6 @@
       "source": "NPR",
       "published_at": "Wed, 11 Mar 2026 02:15:01 -0400",
       "url": "https://www.npr.org/2026/03/11/g-s1-113255/bam-heats-adebayo-scores-83-points-2nd-only-to-wilt-chamberlain-in-nba-history",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Prosecutor says Rihanna, family were home when woman charged with attempted murder fired",
-      "title_neutral": "Prosecutor says Rihanna, family were home when woman charged with attempted murder fired",
-      "excerpt": "Rihanna, her partner A$AP Rocky, their three children and her mother were all at home when a woman now charged with attempted murder is alleged to have fired at the property, a prosecutor said.",
-      "recap_neutral": "Rihanna, her partner A$AP Rocky, their three children and her mother were all at home when a woman now charged with attempted murder is alleged to have fired at the property, a prosecutor said",
-      "main_idea": "Prosecutor says Rihanna, family were home when woman charged with attempted murder fired",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Wed, 11 Mar 2026 01:50:41 -0400",
-      "url": "https://www.npr.org/2026/03/11/g-s1-113252/prosecutor-says-rihanna-family-were-home-when-woman-charged-with-attempted-murder-fired",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1320,6 +1150,247 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "title_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "excerpt": "",
+      "recap_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "main_idea": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:18:01 +0300",
+      "url": "https://tass.ru/politika/24134697",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
+      "title_neutral": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
+      "excerpt": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
+      "recap_neutral": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
+      "main_idea": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:17:03 +0300",
+      "url": "https://tass.ru/ekonomika/24134627",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "title_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "excerpt": "",
+      "recap_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "main_idea": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:15:43 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134665",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Магаданской области объявили чрезвычайную пожарную опасность",
+      "title_neutral": "В Магаданской области объявили чрезвычайную пожарную опасность",
+      "excerpt": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
+      "recap_neutral": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
+      "main_idea": "В Магаданской области объявили чрезвычайную пожарную опасность",
+      "tags": [
+        "climate"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:12:58 +0300",
+      "url": "https://tass.ru/obschestvo/24134601",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
+      "title_neutral": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
+      "excerpt": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
+      "recap_neutral": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
+      "main_idea": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:11:16 +0300",
+      "url": "https://tass.ru/obschestvo/24134589",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
+      "title_neutral": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
+      "excerpt": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
+      "recap_neutral": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
+      "main_idea": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:09:34 +0300",
+      "url": "https://tass.ru/obschestvo/24132977",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
+      "title_neutral": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
+      "excerpt": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
+      "recap_neutral": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
+      "main_idea": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:09:31 +0300",
+      "url": "https://tass.ru/nauka/24134535",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
+      "title_neutral": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
+      "excerpt": "Материалы дела поступили в мировой судебный участок 184",
+      "recap_neutral": "Материалы дела поступили в мировой судебный участок 184",
+      "main_idea": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:09:03 +0300",
+      "url": "https://tass.ru/proisshestviya/24134595",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
+      "title_neutral": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
+      "excerpt": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
+      "recap_neutral": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
+      "main_idea": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:08:48 +0300",
+      "url": "https://tass.ru/obschestvo/24134521",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
+      "title_neutral": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
+      "excerpt": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
+      "recap_neutral": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
+      "main_idea": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:08:39 +0300",
+      "url": "https://tass.ru/nedvizhimost/24134431",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
+      "title_neutral": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
+      "excerpt": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
+      "recap_neutral": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
+      "main_idea": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:06:43 +0300",
+      "url": "https://tass.ru/obschestvo/24133033",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
+      "title_neutral": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
+      "excerpt": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
+      "recap_neutral": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
+      "main_idea": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:04:29 +0300",
+      "url": "https://tass.ru/obschestvo/24133525",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
+      "title_neutral": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
+      "excerpt": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
+      "recap_neutral": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
+      "main_idea": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:03:57 +0300",
+      "url": "https://tass.ru/obschestvo/24134485",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "США пока не решили, продолжать или нет помощь Украине",
+      "title_neutral": "США пока не решили, продолжать или нет помощь Украине",
+      "excerpt": "",
+      "recap_neutral": "США пока не решили, продолжать или нет помощь Украине",
+      "main_idea": "США пока не решили, продолжать или нет помощь Украине",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:03:52 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134491",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+      "title_neutral": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+      "excerpt": "Предварительно, пострадавших нет",
+      "recap_neutral": "Предварительно, пострадавших нет",
+      "main_idea": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:02:07 +0300",
+      "url": "https://tass.ru/proisshestviya/24133329",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "U+237C ⍼ Is Azimuth",
       "title_neutral": "U+237C ⍼ Is Azimuth",
       "excerpt": "Comments",
@@ -1365,23 +1436,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Mother of Tumbler Ridge Shooting Victim Sues OpenAI",
-      "title_neutral": "Mother of Tumbler Ridge Shooting Victim Sues OpenAI",
-      "excerpt": "The company banned the shooter’s ChatGPT account but did not alert the authorities, a move that amounted to fatal negligence, the family claims.",
-      "recap_neutral": "The company banned the shooter’s ChatGPT account but did not alert the authorities, a move that amounted to fatal negligence, the family claims",
-      "main_idea": "Mother of Tumbler Ridge Shooting Victim Sues OpenAI",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 10 Mar 2026 18:59:47 +0000",
-      "url": "https://www.nytimes.com/2026/03/10/world/canada/open-ai-british-columbia-shooting.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1438,21 +1492,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Tony Hoare has died",
-      "title_neutral": "Tony Hoare has died",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Tony Hoare has died",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 10 Mar 2026 14:50:16 +0000",
-      "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "The Killing Of Haiti’s President Heads to a U.S. Court. What to Know.",
       "title_neutral": "The Killing Of Haiti’s President Heads to a U.S. Court. What to Know.",
       "excerpt": "Four men are accused in South Florida of plotting to kill President Jovenel Moise in 2021. His death plunged Haiti into chaos that continues today.",
@@ -1502,41 +1541,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Fears for women’s rights in Chile as anti-abortion president set to take office",
-      "title_neutral": "Fears for women’s rights in Chile as anti-abortion president set to take office",
-      "excerpt": "José Antonio Kast, who voted against legalising divorce in 2004, has pushed for return to total abortion ban Women’s rights activists in Chile are bracing as the most conservative president since the Pinochet dictatorship prepares to take office on Wednesday. José Antonio Kast, a 60-year-old ultra…",
-      "recap_neutral": "José Antonio Kast, who voted against legalising divorce in 2004, has pushed for return to total abortion ban Women’s rights activists in Chile are bracing as the most conservative president since the Pinochet dictatorsh…",
-      "main_idea": "Fears for women’s rights in Chile as anti-abortion president set to take office",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Tue, 10 Mar 2026 10:00:24 GMT",
-      "url": "https://www.theguardian.com/global-development/2026/mar/10/fears-womens-rights-chile-anti-abortion-president-jose-antonio-kast",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Who Is Balendra Shah, the Rapper Set to Be Nepal’s Next Prime Minister?",
-      "title_neutral": "Who Is Balendra Shah, the Rapper Set to Be Nepal’s Next Prime Minister?",
-      "excerpt": "Balendra Shah’s party won a landslide in the election that followed Nepal’s Gen Z revolution. His style is pugnacious.",
-      "recap_neutral": "Balendra Shah’s party won a landslide in the election that followed Nepal’s Gen Z revolution",
-      "main_idea": "Who Is Balendra Shah, the Rapper Set to Be Nepal’s Next Prime Minister?",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 10 Mar 2026 08:52:26 +0000",
-      "url": "https://www.nytimes.com/2026/03/09/world/asia/balendra-shah-nepal-prime-minister.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1609,6 +1613,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Show HN: I wrote down every expensive hardware development mistake I've seen",
+      "title_neutral": "Show HN: I wrote down every expensive hardware development mistake I've seen",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: I wrote down every expensive hardware development mistake I've seen",
+      "tags": [
+        "conflict"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 08 Mar 2026 10:29:50 +0000",
+      "url": "https://thehardesthardwarelessons.com/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Building a TB-303 from Scratch",
       "title_neutral": "Building a TB-303 from Scratch",
       "excerpt": "Comments",
@@ -1618,21 +1639,6 @@
       "source": "Hacker News",
       "published_at": "Sat, 07 Mar 2026 21:18:11 +0000",
       "url": "https://loopmaster.xyz/tutorials/tb303-from-scratch",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: Custom Git-receive-pack implementation",
-      "title_neutral": "Show HN: Custom Git-receive-pack implementation",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Custom Git-receive-pack implementation",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 07 Mar 2026 20:40:37 +0000",
-      "url": "https://github.com/runxiyu/furgit/tree/master/cmd/receivepack9418",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
