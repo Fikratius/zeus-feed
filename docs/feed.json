@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T22:21:28.158145+00:00",
+  "last_updated": "2026-03-12T22:51:34.238862+00:00",
   "items": [
     {
       "title_original": "At least 17 killed after drone strikes school in Sudan",
@@ -163,33 +163,51 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Walid Khalidi, Scholar Called Father of Palestinian Studies, Dies at 100",
-      "title_neutral": "Walid Khalidi, Scholar Called Father of Palestinian Studies, Dies at 100",
-      "excerpt": "As a historian and diplomat, he gave intellectual shape to his people and made sure that they played a role in negotiating their future.",
-      "recap_neutral": "As a historian and diplomat, he gave intellectual shape to his people and made sure that they played a role in negotiating their future",
-      "main_idea": "Walid Khalidi, Scholar Called Father of Palestinian Studies, Dies at 100",
-      "tags": [],
+      "title_original": "Iran War Live Updates: U.S. Officials Say Iran Is Laying Mines in Key Oil Route",
+      "title_neutral": "Iran War Live Updates: U.S. Officials Say Iran Is Laying Mines in Key Oil Route",
+      "excerpt": "Iran is using smaller boats, not naval vessels, for the operation in the Strait of Hormuz, an American official said. Israeli airstrikes pounded the Lebanese and Iranian capitals on the 13th day of fighting.",
+      "recap_neutral": "Iran is using smaller boats, not naval vessels, for the operation in the Strait of Hormuz, an American official said",
+      "main_idea": "Iran War Live Updates: U.S. Officials Say Iran Is Laying Mines in Key Oil Route",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
       "source": "NYTimes World",
-      "published_at": "Thu, 12 Mar 2026 22:12:24 +0000",
-      "url": "https://www.nytimes.com/2026/03/12/world/middleeast/walid-khalidi-dead.html",
+      "published_at": "Thu, 12 Mar 2026 22:42:12 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran War Live Updates: Israel Bombs Central Beirut and Tehran",
-      "title_neutral": "Iran War Live Updates: Israel Bombs Central Beirut and Tehran",
-      "excerpt": "Israeli airstrikes pounded the Lebanese and Iranian capitals. In Iran, the newly appointed leader vowed his country would avenge “the blood of the martyrs.”",
-      "recap_neutral": "Israeli airstrikes pounded the Lebanese and Iranian capitals",
-      "main_idea": "Iran War Live Updates: Israel Bombs Central Beirut and Tehran",
+      "title_original": "Netanyahu issues veiled threat to new supreme leader of Iran.",
+      "title_neutral": "Netanyahu issues veiled threat to new supreme leader of Iran.",
+      "excerpt": "",
+      "recap_neutral": "Netanyahu issues veiled threat to new supreme leader of Iran.",
+      "main_idea": "Netanyahu issues veiled threat to new supreme leader of Iran.",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Thu, 12 Mar 2026 22:42:10 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel/netanyahu-issues-veiled-threat-to-new-supreme-leader-of-iran",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "With New Right-Wing President, Chile Shifts Toward Region’s Conservative, Pro-Trump Alignment",
+      "title_neutral": "With New Right-Wing President, Chile Shifts Toward Region’s Conservative, Pro-Trump Alignment",
+      "excerpt": "The inauguration of Chile’s new president, José Antonio Kast, is the latest milestone in a broader shift toward conservatism and pro-Trump alignment in the region.",
+      "recap_neutral": "The inauguration of Chile’s new president, José Antonio Kast, is the latest milestone in a broader shift toward conservatism and pro-Trump alignment in the region",
+      "main_idea": "With New Right-Wing President, Chile Shifts Toward Region’s Conservative, Pro-Trump Alignment",
       "tags": [
-        "conflict",
-        "tech"
+        "politics",
+        "conflict"
       ],
       "source": "NYTimes World",
-      "published_at": "Thu, 12 Mar 2026 22:07:48 +0000",
-      "url": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel",
+      "published_at": "Thu, 12 Mar 2026 22:24:03 +0000",
+      "url": "https://www.nytimes.com/2026/03/12/world/americas/chile-kast-conservatism-trump.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -210,6 +228,42 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Stop Talking About AI As If It's Magic: Here's Why",
+      "title_neutral": "Stop Talking About AI As If It's Magic: Here's Why",
+      "excerpt": "AI is looking like it will up-end vast swathes of the economy and society. But by treating it as something other than highly advanced software, we allow the pioneers to act with impunity.",
+      "recap_neutral": "AI is looking like it will up-end vast swathes of the economy and society",
+      "main_idea": "Stop Talking About AI As If It's Magic: Here's Why",
+      "tags": [
+        "economy",
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 12 Mar 2026 21:13:34 GMT",
+      "url": "https://hackernoon.com/stop-talking-about-ai-as-if-its-magic-heres-why?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why Observability Needs an AI On-Call Engineer",
+      "title_neutral": "Why Observability Needs an AI On-Call Engineer",
+      "excerpt": "Modern observability tools detect outages quickly but rarely explain their root causes. Engineers still spend hours correlating dashboards, logs, deployments, and commits during incidents. This article proposes an AI on-call agent that unifies signals across engineering systems to reason about fail…",
+      "recap_neutral": "Modern observability tools detect outages quickly but rarely explain their root causes",
+      "main_idea": "Why Observability Needs an AI On-Call Engineer",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 12 Mar 2026 21:07:01 GMT",
+      "url": "https://hackernoon.com/why-observability-needs-an-ai-on-call-engineer?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -245,21 +299,67 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "With New Right-Wing President, Chile Shifts Toward Region’s Conservative, Pro-Trump Alignment",
-      "title_neutral": "With New Right-Wing President, Chile Shifts Toward Region’s Conservative, Pro-Trump Alignment",
-      "excerpt": "The inauguration of Chile’s new president, José Antonio Kast, is the latest milestone in a broader shift toward conservatism and pro-Trump alignment in the region.",
-      "recap_neutral": "The inauguration of Chile’s new president, José Antonio Kast, is the latest milestone in a broader shift toward conservatism and pro-Trump alignment in the region",
-      "main_idea": "With New Right-Wing President, Chile Shifts Toward Region’s Conservative, Pro-Trump Alignment",
+      "title_original": "Supercomputers: When One Computer Just Isn’t Enough",
+      "title_neutral": "Supercomputers: When One Computer Just Isn’t Enough",
+      "excerpt": "Supercomputers, or high-performance computing systems, combine millions of CPU and GPU cores to solve massive scientific problems using parallel processing. Benchmarked by the Top500 list using the HPL Linpack test, modern systems like Frontier, Aurora, and El Capitan operate at exascale—performing…",
+      "recap_neutral": "Supercomputers, or high-performance computing systems, combine millions of CPU and GPU cores to solve massive scientific problems using parallel processing",
+      "main_idea": "Supercomputers: When One Computer Just Isn’t Enough",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Thu, 12 Mar 2026 20:53:20 GMT",
+      "url": "https://hackernoon.com/supercomputers-when-one-computer-just-isnt-enough?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How To Sort an Array of Objects in JavaScript?",
+      "title_neutral": "How To Sort an Array of Objects in JavaScript?",
+      "excerpt": "Sorting an array of objects is something you’ll run into pretty often when working with JavaScript. This usually comes up when dealing with tables, lists, or data coming from an API. In this article, we’re going to go through how to sort arrays of objects using JavaScript’s sort() method.",
+      "recap_neutral": "Sorting an array of objects is something you’ll run into pretty often when working with JavaScript",
+      "main_idea": "How To Sort an Array of Objects in JavaScript?",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Thu, 12 Mar 2026 20:47:51 GMT",
+      "url": "https://hackernoon.com/how-to-sort-an-array-of-objects-in-javascript?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Quantum BYOK: Why I Built a One-Click Gateway to IBM’s Hardware",
+      "title_neutral": "Quantum BYOK: Why I Built a One-Click Gateway to IBM’s Hardware",
+      "excerpt": "Quantum computing is powerful but often buried behind complex tools and academic workflows. This project introduces a local Quantum Utility Dashboard that lets users run optimization problems on real IBM quantum hardware using a simple BYOK model. Data stays local while abstract math runs on the qu…",
+      "recap_neutral": "Quantum computing is powerful but often buried behind complex tools and academic workflows",
+      "main_idea": "Quantum BYOK: Why I Built a One-Click Gateway to IBM’s Hardware",
       "tags": [
-        "politics",
         "conflict"
       ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 12 Mar 2026 20:39:18 +0000",
-      "url": "https://www.nytimes.com/2026/03/12/world/americas/chile-kast-conservatism-trump.html",
+      "source": "HackerNoon",
+      "published_at": "Thu, 12 Mar 2026 20:45:05 GMT",
+      "url": "https://hackernoon.com/quantum-byok-why-i-built-a-one-click-gateway-to-ibms-hardware?source=rss",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to Install OpenClaw with Ollama (Step-by-Step Tutorial)",
+      "title_neutral": "How to Install OpenClaw with Ollama (Step-by-Step Tutorial)",
+      "excerpt": "OpenClaw is an open-source AI agent framework. Unlike a normal chatbot, OpenClaw can perform real actions on your computer. It can read files, run commands, automate tasks, and remember your workflows. By the end of this tutorial, you will have OpenClaws running with a local model using Ollama.",
+      "recap_neutral": "OpenClaw is an open-source AI agent framework",
+      "main_idea": "How to Install OpenClaw with Ollama (Step-by-Step Tutorial)",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 12 Mar 2026 20:43:56 GMT",
+      "url": "https://hackernoon.com/how-to-install-openclaw-with-ollama-step-by-step-tutorial?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -280,6 +380,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Building a Vector Search System End-to-End - Part I",
+      "title_neutral": "Building a Vector Search System End-to-End - Part I",
+      "excerpt": "Vector search powers modern AI retrieval systems, but its mechanics often feel like magic. This article breaks the process down step by step—extracting text from PDFs, chunking documents, generating embeddings, and indexing them with FAISS. By also implementing brute-force similarity search from sc…",
+      "recap_neutral": "Vector search powers modern AI retrieval systems, but its mechanics often feel like magic",
+      "main_idea": "Building a Vector Search System End-to-End - Part I",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 12 Mar 2026 20:33:07 GMT",
+      "url": "https://hackernoon.com/building-a-vector-search-system-end-to-end-part-i?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
       "title_neutral": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
       "excerpt": "A message attributed to Mojtaba Khamenei also says Iran will continue targeting US bases in the region.",
@@ -294,6 +411,24 @@
       "lang": "en",
       "bias_score": 36,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The End of the Code Monkey: How to Become Indispensable in the Age of AI",
+      "title_neutral": "The End of the Code Monkey: How to Become Indispensable in the Age of AI",
+      "excerpt": "The rise of AI doesn't mean the end of software engineering - it means the end of the \"syntax-first\" developer. To stay relevant, engineers must pivot from writing boilerplate to mastering low-level complexity, product strategy, and operational reliability. The future belongs to the Architect-Opera…",
+      "recap_neutral": "The rise of AI doesn't mean the end of software engineering - it means the end of the \"syntax-first\" developer",
+      "main_idea": "The End of the Code Monkey: How to Become Indispensable in the Age of AI",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 12 Mar 2026 20:31:14 GMT",
+      "url": "https://hackernoon.com/the-end-of-the-code-monkey-how-to-become-indispensable-in-the-age-of-ai?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -314,6 +449,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Cybersecurity in the Age of Instant Payments: Balancing Speed with Safety",
+      "title_neutral": "Cybersecurity in the Age of Instant Payments: Balancing Speed with Safety",
+      "excerpt": "Fast payments come with some big advantages - real-time settlement and availability 24/7, for instance. But it’s also made it a prime target for try-hard hackers because of how instant it all is. How can top security teams get instant crypto payments without putting their customers at risk in the p…",
+      "recap_neutral": "Fast payments come with some big advantages - real-time settlement and availability 24/7, for instance",
+      "main_idea": "Cybersecurity in the Age of Instant Payments: Balancing Speed with Safety",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 12 Mar 2026 20:19:09 GMT",
+      "url": "https://hackernoon.com/cybersecurity-in-the-age-of-instant-payments-balancing-speed-with-safety?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Bringing Chrome to ARM64 Linux Devices",
       "title_neutral": "Bringing Chrome to ARM64 Linux Devices",
       "excerpt": "Comments",
@@ -326,6 +478,24 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "When Alignment Breaks, Conversion Dies: A Founder Operating System for AI-Driven Markets",
+      "title_neutral": "When Alignment Breaks, Conversion Dies: A Founder Operating System for AI-Driven Markets",
+      "excerpt": "In AI-driven markets, internal misalignment quietly erodes trust, increases decision friction, and reduces conversion. This article introduces a practical Founder Operating System to restore coherence, accelerate decisions, and scale without organizational breakdown.",
+      "recap_neutral": "In AI-driven markets, internal misalignment quietly erodes trust, increases decision friction, and reduces conversion",
+      "main_idea": "When Alignment Breaks, Conversion Dies: A Founder Operating System for AI-Driven Markets",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 12 Mar 2026 20:12:34 GMT",
+      "url": "https://hackernoon.com/when-alignment-breaks-conversion-dies-a-founder-operating-system-for-ai-driven-markets?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -346,6 +516,57 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "How to Write GRC Documentation That Non- Technical Stakeholders Actually Understand",
+      "title_neutral": "How to Write GRC Documentation That Non- Technical Stakeholders Actually Understand",
+      "excerpt": "TL;DR: GRC documentation often fails because it's written for auditors, not the people executing the controls. This guide introduces the CARE Method (Clarify, Assign, Remove, Establish) to refactor dense frameworks like NIST and ISO into actionable \"code for humans\" that stakeholders actually under…",
+      "recap_neutral": "TL;DR: GRC documentation often fails because it's written for auditors, not the people executing the controls",
+      "main_idea": "How to Write GRC Documentation That Non- Technical Stakeholders Actually Understand",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 12 Mar 2026 20:10:44 GMT",
+      "url": "https://hackernoon.com/how-to-write-grc-documentation-that-non-technical-stakeholders-actually-understand?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Front Door Problem: Breaking Into Big Tech Without a \"Top-Tier\" Degree",
+      "title_neutral": "The Front Door Problem: Breaking Into Big Tech Without a \"Top-Tier\" Degree",
+      "excerpt": "Getting into Big Tech without a prestigious degree isn't about working harder—it's about working visibly. After struggling with the \"no experience\" paradox, I realized that merit doesn't open doors; people do. By pivoting from front-end to scripting, leveraging \"low-prestige\" roles for momentum, an…",
+      "recap_neutral": "Getting into Big Tech without a prestigious degree isn't about working harder—it's about working visibly",
+      "main_idea": "The Front Door Problem: Breaking Into Big Tech Without a \"Top-Tier\" Degree",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 12 Mar 2026 20:07:15 GMT",
+      "url": "https://hackernoon.com/the-front-door-problem-breaking-into-big-tech-without-a-top-tier-degree?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why I Decided to Build 100+ AI Agents for Web3",
+      "title_neutral": "Why I Decided to Build 100+ AI Agents for Web3",
+      "excerpt": "My 100+ agent system grew the same way utility functions do - by extracting repeated patterns. The key insight: skills (structured markdown files that load domain knowledge) matter more than model choice. SkillsBench data confirms 2-3 focused skills beat expensive models without them. A well-built…",
+      "recap_neutral": "My 100+ agent system grew the same way utility functions do - by extracting repeated patterns",
+      "main_idea": "Why I Decided to Build 100+ AI Agents for Web3",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 12 Mar 2026 20:04:30 GMT",
+      "url": "https://hackernoon.com/why-i-decided-to-build-100-ai-agents-for-web3?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Pardoning Netanyahu Now Would Be Improper, Key Israeli Office Says",
       "title_neutral": "Pardoning Netanyahu Now Would Be Improper, Key Israeli Office Says",
       "excerpt": "Rebuffing pressure from President Trump, a legal office says the prime minister should be pardoned only if he resigns, confesses or is convicted.",
@@ -360,6 +581,41 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to Create a DAO in 2026: 5 Critical Factors to Consider",
+      "title_neutral": "How to Create a DAO in 2026: 5 Critical Factors to Consider",
+      "excerpt": "Creating a DAO in 2026 requires more than deploying smart contracts. You need a clear strategic vision, a proper legal wrapper (Wyoming, Marshall Islands, or EU under MiCA), modular cross-chain architecture, AI-secured governance, and ongoing AML compliance. Costs range from $5K for basic templates…",
+      "recap_neutral": "Creating a DAO in 2026 requires more than deploying smart contracts",
+      "main_idea": "How to Create a DAO in 2026: 5 Critical Factors to Consider",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 12 Mar 2026 19:58:13 GMT",
+      "url": "https://hackernoon.com/how-to-create-a-dao-in-2026-5-critical-factors-to-consider?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Designing Trust-Aware Hybrid AI Systems with Deterministic Reasoning and LLM Explanations",
+      "title_neutral": "Designing Trust-Aware Hybrid AI Systems with Deterministic Reasoning and LLM Explanations",
+      "excerpt": "Refactor was not an effort to build a rule engine. It began with a replay test that exposed a deeper problem. We did not have a clear definition of what was authoritative.",
+      "recap_neutral": "Refactor was not an effort to build a rule engine",
+      "main_idea": "Designing Trust-Aware Hybrid AI Systems with Deterministic Reasoning and LLM Explanations",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 12 Mar 2026 19:52:27 GMT",
+      "url": "https://hackernoon.com/designing-trust-aware-hybrid-ai-systems-with-deterministic-reasoning-and-llm-explanations?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -571,21 +827,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
-      "title_neutral": "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 12 Mar 2026 15:39:50 +0000",
-      "url": "https://github.com/wolfssl/wolfip",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Rapper-politician Balendra Shah's party wins Nepal election",
       "title_neutral": "Rapper-politician Balendra Shah's party wins Nepal election",
       "excerpt": "The Rastriya Swatatantra Party has won a large majority in an election dominated by issues including corruption.",
@@ -617,36 +858,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Prompt-Driven Log Analysis & Keyword Clustering",
-      "title_neutral": "Prompt-Driven Log Analysis & Keyword Clustering",
-      "excerpt": "You don’t need a bespoke log pipeline to get value from messy logs. With a disciplined prompt template + lightweight preprocessing (Elastic/ELK, OTel, or Python), you can extract errors, cluster root causes, and produce incident-grade summaries in minutes.",
-      "recap_neutral": "You don’t need a bespoke log pipeline to get value from messy logs",
-      "main_idea": "Prompt-Driven Log Analysis & Keyword Clustering",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 12 Mar 2026 15:23:57 GMT",
-      "url": "https://hackernoon.com/prompt-driven-log-analysis-and-keyword-clustering?source=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "What If We’ve Already Interacted With Higher Dimensions Without Realizing It?",
-      "title_neutral": "What If We’ve Already Interacted With Higher Dimensions Without Realizing It?",
-      "excerpt": "Human understanding and interaction with dimensions is based on the way we assume or understand dimensions. We could have been interacting with higher dimensions without realizing that they are wthin the third dimensions or they are another three-dimensional object. It is possible that lower dimens…",
-      "recap_neutral": "Human understanding and interaction with dimensions is based on the way we assume or understand dimensions",
-      "main_idea": "What If We’ve Already Interacted With Higher Dimensions Without Realizing It?",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 12 Mar 2026 15:11:12 GMT",
-      "url": "https://hackernoon.com/what-if-weve-already-interacted-with-higher-dimensions-without-realizing-it?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -699,23 +910,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The High Cost of Silence: Why You Can't Let Any Opportunity Go to Waste",
-      "title_neutral": "The High Cost of Silence: Why You Can't Let Any Opportunity Go to Waste",
-      "excerpt": "Three companies have made the most out of opportunities that have come out of nowhere. Dr. Pepper, Stanley Cup and Ocean Spray are all examples of how to capitalize on organic marketing. You have the opportunity to go viral every time you publish an article as part of HackerNoon’s Business Blogging…",
-      "recap_neutral": "Three companies have made the most out of opportunities that have come out of nowhere",
-      "main_idea": "The High Cost of Silence: Why You Can't Let Any Opportunity Go to Waste",
-      "tags": [
-        "economy"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 12 Mar 2026 13:58:42 GMT",
-      "url": "https://hackernoon.com/dont-let-any-opportunity-go-to-waste?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -779,24 +973,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "AI Between 2026 and 2030: The Next Technology Revolution Is Already Taking Shape",
-      "title_neutral": "AI Between 2026 and 2030: The Next Technology Revolution Is Already Taking Shape",
-      "excerpt": "Artificial Intelligence is rapidly evolving from a powerful tool into a foundational technology shaping the global economy. Experts believe that the period between **2026 and 2030** will mark one of the most transformative phases in AI development. By 2030, many organizations may rely on AI systems…",
-      "recap_neutral": "Artificial Intelligence is rapidly evolving from a powerful tool into a foundational technology shaping the global economy",
-      "main_idea": "AI Between 2026 and 2030: The Next Technology Revolution Is Already Taking Shape",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 12 Mar 2026 13:30:30 GMT",
-      "url": "https://hackernoon.com/ai-between-2026-and-2030-the-next-technology-revolution-is-already-taking-shape?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -917,87 +1093,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Predicting Flight Risks: How Artificial Intelligence is Helping SMBs to Combat High Turnover Rates",
-      "title_neutral": "Predicting Flight Risks: How Artificial Intelligence is Helping SMBs to Combat High Turnover Rates",
-      "excerpt": "Staff turnover can be an extremely costly occurrence for SMBs, but could artificial intelligence be the perfect solution for countering retention shortfalls?",
-      "recap_neutral": "Staff turnover can be an extremely costly occurrence for SMBs, but could artificial intelligence be the perfect solution for countering retention shortfalls?",
-      "main_idea": "Predicting Flight Risks: How Artificial Intelligence is Helping SMBs to Combat High Turnover Rates",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 12 Mar 2026 12:15:46 GMT",
-      "url": "https://hackernoon.com/predicting-flight-risks-how-artificial-intelligence-is-helping-smbs-to-combat-high-turnover-rates?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Which Crypto Exchanges Can You Actually Trust in 2026?",
-      "title_neutral": "Which Crypto Exchanges Can You Actually Trust in 2026?",
-      "excerpt": "MiCA is live. Bybit survived the biggest crypto hack in history. And trust, in 2026, is something users must verify for themselves - here is how.",
-      "recap_neutral": "MiCA is live",
-      "main_idea": "Which Crypto Exchanges Can You Actually Trust in 2026?",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 12 Mar 2026 11:58:32 GMT",
-      "url": "https://hackernoon.com/which-crypto-exchanges-can-you-actually-trust-in-2026?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Re-thinking DevOps Practices to Handle Accelerating Dev Throughput",
-      "title_neutral": "Re-thinking DevOps Practices to Handle Accelerating Dev Throughput",
-      "excerpt": "Gitflow can be a great development approach, but it can't keep up with the throughput of pull requests. \"Continvoucly morging\" breaks down quickly when each dev has migrations, rewrites, SOPS edits, renames, new CI pipelines, and agent file updates. Every open PR is another potential conflict.",
-      "recap_neutral": "Gitflow can be a great development approach, but it can't keep up with the throughput of pull requests",
-      "main_idea": "Re-thinking DevOps Practices to Handle Accelerating Dev Throughput",
-      "tags": [
-        "conflict"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 12 Mar 2026 11:43:17 GMT",
-      "url": "https://hackernoon.com/re-thinking-devops-practices-to-handle-accelerating-dev-throughput?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Building AI Sales Roleplay Systems That Actually Work",
-      "title_neutral": "Building AI Sales Roleplay Systems That Actually Work",
-      "excerpt": "Hyperbound’s Eugene Reuka explores how AI roleplay systems can scale sales coaching without replacing managers. By using constrained conversational AI, structured roleplay scenarios, and post-call analytics, teams can simulate realistic sales interactions and generate actionable feedback. The goal…",
-      "recap_neutral": "Hyperbound’s Eugene Reuka explores how AI roleplay systems can scale sales coaching without replacing managers",
-      "main_idea": "Building AI Sales Roleplay Systems That Actually Work",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 12 Mar 2026 11:30:43 GMT",
-      "url": "https://hackernoon.com/building-ai-sales-roleplay-systems-that-actually-work?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "AI-Assisted Code Review: What Actually Works in Practice",
-      "title_neutral": "AI-Assisted Code Review: What Actually Works in Practice",
-      "excerpt": "Stack Overflow's 2025 survey reports that 84% of respondents are using or planning to use AI tools in development. The first disappointment cycle occurs when teams adopt \"AI review\" as if it were a new reviewer.",
-      "recap_neutral": "Stack Overflow's 2025 survey reports that 84% of respondents are using or planning to use AI tools in development",
-      "main_idea": "AI-Assisted Code Review: What Actually Works in Practice",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 12 Mar 2026 11:29:05 GMT",
-      "url": "https://hackernoon.com/ai-assisted-code-review-what-actually-works-in-practice?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Nasa spacecraft weighing 1,300lb re-enters Earth's atmosphere",
       "title_neutral": "Nasa spacecraft weighing 1,300lb re-enters Earth's atmosphere",
       "excerpt": "Much of the Van Allen Probe was expected to burn up in the atmosphere, though Nasa said there was a \"low\" risk of people being struck by surviving components.",
@@ -1012,23 +1107,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "AI Adoption at Scale: Why Visibility Must Be the First Line of Defense",
-      "title_neutral": "AI Adoption at Scale: Why Visibility Must Be the First Line of Defense",
-      "excerpt": "The enterprises that lead the next decade won't be those that adopted AI first. They'll be the ones who saw clearly enough to govern what they built.",
-      "recap_neutral": "The enterprises that lead the next decade won't be those that adopted AI first",
-      "main_idea": "AI Adoption at Scale: Why Visibility Must Be the First Line of Defense",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 12 Mar 2026 11:20:47 GMT",
-      "url": "https://hackernoon.com/ai-adoption-at-scale-why-visibility-must-be-the-first-line-of-defense?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1047,75 +1125,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Portrait’s Final Judgment",
-      "title_neutral": "The Portrait’s Final Judgment",
-      "excerpt": "Dorian Gray reflects on his wasted life, corrupted by beauty and eternal youth, and attempts to reform by sparing innocence. Haunted by his portrait’s grotesque reflection of sin, he decides to destroy it. Stabbing the painting, he dies, and servants discover his lifeless body, while the portrait r…",
-      "recap_neutral": "Dorian Gray reflects on his wasted life, corrupted by beauty and eternal youth, and attempts to reform by sparing innocence",
-      "main_idea": "The Portrait’s Final Judgment",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 12 Mar 2026 11:00:36 GMT",
-      "url": "https://hackernoon.com/the-portraits-final-judgment?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Advertising’s Platforms Next Test: What 2025 PropellerAds Safety Report Reveals About Global Risks",
-      "title_neutral": "Advertising’s Platforms Next Test: What 2025 PropellerAds Safety Report Reveals About Global Risks",
-      "excerpt": "The 2025 PropellerAds Ads Safety Report shows how fraud in performance advertising is becoming more complex and infrastructure-driven. Over 729K campaign rejections were issued during moderation, with malware signals accounting for 26%. Cloaking now dominates account suspensions, rising to 78.2%, w…",
-      "recap_neutral": "The 2025 PropellerAds Ads Safety Report shows how fraud in performance advertising is becoming more complex and infrastructure-driven",
-      "main_idea": "Advertising’s Platforms Next Test: What 2025 PropellerAds Safety Report Reveals About Global Risks",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 12 Mar 2026 11:00:14 GMT",
-      "url": "https://hackernoon.com/advertisings-platforms-next-test-what-2025-propellerads-safety-report-reveals-about-global-risks?source=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Lessons From Designing Production AI Architectures",
-      "title_neutral": "Lessons From Designing Production AI Architectures",
-      "excerpt": "Production AI success depends more on systems engineering than model quality. Retrieval, latency, observability, guardrails, cost control, and continuous evaluation determine whether AI scales reliably in real-world environments.",
-      "recap_neutral": "Production AI success depends more on systems engineering than model quality",
-      "main_idea": "Lessons From Designing Production AI Architectures",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 12 Mar 2026 10:44:03 GMT",
-      "url": "https://hackernoon.com/lessons-from-designing-production-ai-architectures?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Attention Is Currency, AI Is the Printing Press",
-      "title_neutral": "Attention Is Currency, AI Is the Printing Press",
-      "excerpt": "When an avatar harms someone, accountability diffuses across a chain until it dissolves into ambiguity. That is not a technical problem. It is a design one.",
-      "recap_neutral": "When an avatar harms someone, accountability diffuses across a chain until it dissolves into ambiguity",
-      "main_idea": "Attention Is Currency, AI Is the Printing Press",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 12 Mar 2026 10:32:45 GMT",
-      "url": "https://hackernoon.com/attention-is-currency-ai-is-the-printing-press?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1184,21 +1193,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Epigrams from a Dying Century",
-      "title_neutral": "Epigrams from a Dying Century",
-      "excerpt": "Dorian insists he has changed after sparing Hetty Merton, hoping one good act signals redemption. Lord Henry dismisses morality as performance, mocks the idea of the soul, and debates art’s influence. They discuss Basil’s disappearance, youth, corruption, and whether life can truly change. Though D…",
-      "recap_neutral": "Dorian insists he has changed after sparing Hetty Merton, hoping one good act signals redemption",
-      "main_idea": "Epigrams from a Dying Century",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 12 Mar 2026 09:01:00 GMT",
-      "url": "https://hackernoon.com/epigrams-from-a-dying-century?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1398,6 +1392,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Show HN: Detect any object in satellite imagery using a text prompt",
+      "title_neutral": "Show HN: Detect any object in satellite imagery using a text prompt",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: Detect any object in satellite imagery using a text prompt",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 08 Mar 2026 13:51:36 +0000",
+      "url": "https://www.useful-ai-tools.com/tools/satellite-analysis-demo/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Forcing Flash Attention onto a TPU and Learning the Hard Way",
       "title_neutral": "Forcing Flash Attention onto a TPU and Learning the Hard Way",
       "excerpt": "Comments",
@@ -1410,6 +1419,157 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Саратова ввели временные ограничения",
+      "title_neutral": "В аэропорту Саратова ввели временные ограничения",
+      "excerpt": "Они необходимы для обеспечения безопасности полетов",
+      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
+      "main_idea": "В аэропорту Саратова ввели временные ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 13 Mar 2026 01:49:02 +0300",
+      "url": "https://tass.ru/ekonomika/26744377",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Песков сообщил, что в Кремле пользуются стационарными телефонами",
+      "title_neutral": "Песков сообщил, что в Кремле пользуются стационарными телефонами",
+      "excerpt": "Так пресс-секретарь президента России ответил на вопрос, сказались ли ограничения связи в центре Москвы на работе администрации",
+      "recap_neutral": "Так пресс-секретарь президента России ответил на вопрос, сказались ли ограничения связи в центре Москвы на работе администрации",
+      "main_idea": "Песков сообщил, что в Кремле пользуются стационарными телефонами",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 13 Mar 2026 01:47:37 +0300",
+      "url": "https://tass.ru/obschestvo/26744371",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Rai1: у берегов Лампедузы дрейфует танкер без экипажа на борту",
+      "title_neutral": "Rai1: у берегов Лампедузы дрейфует танкер без экипажа на борту",
+      "excerpt": "По данным телеканала, судно перевозит 900 тонн топлива и два резервуара с СПГ",
+      "recap_neutral": "По данным телеканала, судно перевозит 900 тонн топлива и два резервуара с СПГ",
+      "main_idea": "Rai1: у берегов Лампедузы дрейфует танкер без экипажа на борту",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 13 Mar 2026 01:42:34 +0300",
+      "url": "https://tass.ru/proisshestviya/26744351",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ограничения на прием и выпуск самолетов ввели в аэропорту Краснодара",
+      "title_neutral": "Ограничения на прием и выпуск самолетов ввели в аэропорту Краснодара",
+      "excerpt": "",
+      "recap_neutral": "Ограничения на прием и выпуск самолетов ввели в аэропорту Краснодара",
+      "main_idea": "Ограничения на прием и выпуск самолетов ввели в аэропорту Краснодара",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 13 Mar 2026 01:38:55 +0300",
+      "url": "https://tass.ru/ekonomika/26744359",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Мордовии объявили беспилотную опасность",
+      "title_neutral": "В Мордовии объявили беспилотную опасность",
+      "excerpt": "Об этом сообщили в правительстве",
+      "recap_neutral": "Об этом сообщили в правительстве",
+      "main_idea": "В Мордовии объявили беспилотную опасность",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 13 Mar 2026 01:36:42 +0300",
+      "url": "https://tass.ru/proisshestviya/26744337",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "БПЛА попытались ударить по нефтяному месторождению \"Меджнун\" в Ираке",
+      "title_neutral": "БПЛА попытались ударить по нефтяному месторождению \"Меджнун\" в Ираке",
+      "excerpt": "По информации новостного портала Shafaq News, дроны попытались повредить один из радаров на месторождении",
+      "recap_neutral": "По информации новостного портала Shafaq News, дроны попытались повредить один из радаров на месторождении",
+      "main_idea": "БПЛА попытались ударить по нефтяному месторождению \"Меджнун\" в Ираке",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 13 Mar 2026 01:32:39 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26744327",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Севастополе объявили воздушную тревогу",
+      "title_neutral": "В Севастополе объявили воздушную тревогу",
+      "excerpt": "Об этом сообщил губернатор региона Михаил Развожаев",
+      "recap_neutral": "Об этом сообщил губернатор региона Михаил Развожаев",
+      "main_idea": "В Севастополе объявили воздушную тревогу",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 13 Mar 2026 01:26:57 +0300",
+      "url": "https://tass.ru/proisshestviya/26744323",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "РАНХиГС: экономика РФ прошла стресс-тест санкциями и кризисной адаптацией",
+      "title_neutral": "РАНХиГС: экономика РФ прошла стресс-тест санкциями и кризисной адаптацией",
+      "excerpt": "Эксперты лаборатории структурных исследований Президентской академии назвали главной задачей на 2026 год оживление инвестиций без разгона инфляции",
+      "recap_neutral": "Эксперты лаборатории структурных исследований Президентской академии назвали главной задачей на 2026 год оживление инвестиций без разгона инфляции",
+      "main_idea": "РАНХиГС: экономика РФ прошла стресс-тест санкциями и кризисной адаптацией",
+      "tags": [
+        "politics",
+        "economy",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 13 Mar 2026 01:25:23 +0300",
+      "url": "https://tass.ru/ekonomika/26744317",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ГД предложили обучать студентов работе с ИИ",
+      "title_neutral": "В ГД предложили обучать студентов работе с ИИ",
+      "excerpt": "Учебные программы необходимо включить в разные дисциплины образовательных организаций, отметил первый заместитель председателя комитета по науке и высшему образованию Александр Мажуга",
+      "recap_neutral": "Учебные программы необходимо включить в разные дисциплины образовательных организаций, отметил первый заместитель председателя комитета по науке и высшему образованию Александр Мажуга",
+      "main_idea": "В ГД предложили обучать студентов работе с ИИ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 13 Mar 2026 01:23:39 +0300",
+      "url": "https://tass.ru/obschestvo/26744309",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
@@ -1428,11 +1588,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В деле бывшего первого замглавы Минобороны Цаликова могут появиться новые эпизоды",
-      "title_neutral": "В деле бывшего первого замглавы Минобороны Цаликова могут появиться новые эпизоды",
-      "excerpt": "",
-      "recap_neutral": "В деле бывшего первого замглавы Минобороны Цаликова могут появиться новые эпизоды",
-      "main_idea": "В деле бывшего первого замглавы Минобороны Цаликова могут появиться новые эпизоды",
+      "title_original": "ТАСС: в деле Цаликова могут появиться новые эпизоды",
+      "title_neutral": "ТАСС: в деле Цаликова могут появиться новые эпизоды",
+      "excerpt": "Проверяется причастность бывшего первого замминистра обороны к другим преступлениям",
+      "recap_neutral": "Проверяется причастность бывшего первого замминистра обороны к другим преступлениям",
+      "main_idea": "ТАСС: в деле Цаликова могут появиться новые эпизоды",
       "tags": [],
       "source": "ТАСС",
       "published_at": "Fri, 13 Mar 2026 01:16:01 +0300",
@@ -1460,11 +1620,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Режим беспилотной опасности введен в Пензенской области",
-      "title_neutral": "Режим беспилотной опасности введен в Пензенской области",
-      "excerpt": "",
-      "recap_neutral": "Режим беспилотной опасности введен в Пензенской области",
-      "main_idea": "Режим беспилотной опасности введен в Пензенской области",
+      "title_original": "В Пензенской области ввели режим беспилотной опасности",
+      "title_neutral": "В Пензенской области ввели режим беспилотной опасности",
+      "excerpt": "Об этом сообщил губернатор региона Олег Мельниченко",
+      "recap_neutral": "Об этом сообщил губернатор региона Олег Мельниченко",
+      "main_idea": "В Пензенской области ввели режим беспилотной опасности",
       "tags": [],
       "source": "ТАСС",
       "published_at": "Fri, 13 Mar 2026 01:11:56 +0300",
@@ -1501,149 +1661,6 @@
       "source": "ТАСС",
       "published_at": "Fri, 13 Mar 2026 01:04:18 +0300",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/26744253",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Посольство РФ в Катаре: новый вывозной рейс из Дохи в Москву состоится 14 марта",
-      "title_neutral": "Посольство РФ в Катаре: новый вывозной рейс из Дохи в Москву состоится 14 марта",
-      "excerpt": "Вылет запланирован на 11:40 по местному времени",
-      "recap_neutral": "Вылет запланирован на 11:40 по местному времени",
-      "main_idea": "Посольство РФ в Катаре: новый вывозной рейс из Дохи в Москву состоится 14 марта",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 13 Mar 2026 01:01:18 +0300",
-      "url": "https://tass.ru/obschestvo/26744235",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Камчатке расчеты ракетных комплексов провели учение по защите побережья",
-      "title_neutral": "На Камчатке расчеты ракетных комплексов провели учение по защите побережья",
-      "excerpt": "Особое внимание было уделено вопросам маскировки и защиты от БПЛА",
-      "recap_neutral": "Особое внимание было уделено вопросам маскировки и защиты от БПЛА",
-      "main_idea": "На Камчатке расчеты ракетных комплексов провели учение по защите побережья",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 13 Mar 2026 01:00:37 +0300",
-      "url": "https://tass.ru/armiya-i-opk/26744251",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Россия и Мьянма обсуждают соглашение о прямых рейсах из Москвы",
-      "title_neutral": "Россия и Мьянма обсуждают соглашение о прямых рейсах из Москвы",
-      "excerpt": "Точные даты их запуска пока не известны, отметили в посольстве РФ",
-      "recap_neutral": "Точные даты их запуска пока не известны, отметили в посольстве РФ",
-      "main_idea": "Россия и Мьянма обсуждают соглашение о прямых рейсах из Москвы",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 13 Mar 2026 00:59:12 +0300",
-      "url": "https://tass.ru/obschestvo/26744221",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропорту Калуги сняли ограничения",
-      "title_neutral": "В аэропорту Калуги сняли ограничения",
-      "excerpt": "Аэропорт не принимал и не отправлял рейсы",
-      "recap_neutral": "Аэропорт не принимал и не отправлял рейсы",
-      "main_idea": "В аэропорту Калуги сняли ограничения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 13 Mar 2026 00:58:07 +0300",
-      "url": "https://tass.ru/ekonomika/26744229",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мариинка посвятит показ балета \"Шурале\" 100-летию со дня рождения Брегвадзе",
-      "title_neutral": "Мариинка посвятит показ балета \"Шурале\" 100-летию со дня рождения Брегвадзе",
-      "excerpt": "Главные партии исполнят Рената Шакирова, Тимур Аскеров и Александр Сергеев",
-      "recap_neutral": "Главные партии исполнят Рената Шакирова, Тимур Аскеров и Александр Сергеев",
-      "main_idea": "Мариинка посвятит показ балета \"Шурале\" 100-летию со дня рождения Брегвадзе",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 13 Mar 2026 00:57:45 +0300",
-      "url": "https://tass.ru/kultura/26744213",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Целе\" с Иосифовым крупно проиграл АЕКу в матче 1/8 финала Лиги конференций",
-      "title_neutral": "\"Целе\" с Иосифовым крупно проиграл АЕКу в матче 1/8 финала Лиги конференций",
-      "excerpt": "Встреча завершилась со счетом 4:0 в пользу греческой команды",
-      "recap_neutral": "Встреча завершилась со счетом 4:0 в пользу греческой команды",
-      "main_idea": "\"Целе\" с Иосифовым крупно проиграл АЕКу в матче 1/8 финала Лиги конференций",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 13 Mar 2026 00:54:11 +0300",
-      "url": "https://tass.ru/sport/26744205",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "RMC Sport: сборной Ирана грозят серьезные санкции за отказ от участия в ЧМ",
-      "title_neutral": "RMC Sport: сборной Ирана грозят серьезные санкции за отказ от участия в ЧМ",
-      "excerpt": "Турнир пройдет с 11 июня по 19 июля в США, Канаде и Мексике",
-      "recap_neutral": "Турнир пройдет с 11 июня по 19 июля в США, Канаде и Мексике",
-      "main_idea": "RMC Sport: сборной Ирана грозят серьезные санкции за отказ от участия в ЧМ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 13 Mar 2026 00:52:43 +0300",
-      "url": "https://tass.ru/sport/26744191",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "CBS: в университете в Вирджинии сторонник ИГ открыл стрельбу",
-      "title_neutral": "CBS: в университете в Вирджинии сторонник ИГ открыл стрельбу",
-      "excerpt": "Один человек погиб, двое получили ранения",
-      "recap_neutral": "Один человек погиб, двое получили ранения",
-      "main_idea": "CBS: в университете в Вирджинии сторонник ИГ открыл стрельбу",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 13 Mar 2026 00:52:25 +0300",
-      "url": "https://tass.ru/proisshestviya/26744183",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Пентагон заявил о потере самолета-заправщика над Ираком",
-      "title_neutral": "Пентагон заявил о потере самолета-заправщика над Ираком",
-      "excerpt": "Инцидент не был связан ни с вражеским, ни с дружеским огнем, отметили в Центральном командовании ВС США",
-      "recap_neutral": "Инцидент не был связан ни с вражеским, ни с дружеским огнем, отметили в Центральном командовании ВС США",
-      "main_idea": "Пентагон заявил о потере самолета-заправщика над Ираком",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 13 Mar 2026 00:48:06 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26744167",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
