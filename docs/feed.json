@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T20:23:04.570001+00:00",
+  "last_updated": "2026-03-14T20:51:19.759852+00:00",
   "items": [
     {
       "title_original": "At least 17 killed after drone strikes school in Sudan",
@@ -35,15 +35,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Life as an OnlyFans 'chatter'",
-      "title_neutral": "Life as an OnlyFans 'chatter'",
+      "title_original": "Generalizing Knuth's Pseudocode Architecture From Algorithms to Knowledge",
+      "title_neutral": "Generalizing Knuth's Pseudocode Architecture From Algorithms to Knowledge",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Life as an OnlyFans 'chatter'",
+      "main_idea": "Generalizing Knuth's Pseudocode Architecture From Algorithms to Knowledge",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Wed, 11 Mar 2026 08:08:15 +0000",
-      "url": "https://www.bbc.com/news/articles/cq571g9gd4lo",
+      "published_at": "Wed, 11 Mar 2026 08:03:37 +0000",
+      "url": "https://www.researchgate.net/publication/401189185_Towards_a_Generalization_of_Knuth%27s_Pseudocode_Architecture_From_Algorithms_to_Knowledge",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -59,21 +59,6 @@
       "source": "Hacker News",
       "published_at": "Tue, 10 Mar 2026 19:22:39 +0000",
       "url": "https://cemrehancavdar.com/2026/03/10/optimization-ladder/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "CSMWrap: Legacy BIOS booting on UEFI-only systems via SeaBIOS",
-      "title_neutral": "CSMWrap: Legacy BIOS booting on UEFI-only systems via SeaBIOS",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "CSMWrap: Legacy BIOS booting on UEFI-only systems via SeaBIOS",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 10 Mar 2026 08:55:42 +0000",
-      "url": "https://github.com/CSMWrap/CSMWrap",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -184,11 +169,188 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Президент Египта: Ближний Восток стоит на распутье из-за ситуации в Персидском заливе",
-      "title_neutral": "Президент Египта: Ближний Восток стоит на распутье из-за ситуации в Персидском заливе",
-      "excerpt": "Разрушительные последствия этого конфликта в экономической и социальной сферах затронут всех, отметил Абдель Фаттах ас-Сиси",
-      "recap_neutral": "Разрушительные последствия этого конфликта в экономической и социальной сферах затронут всех, отметил Абдель Фаттах ас-Сиси",
-      "main_idea": "Президент Египта: Ближний Восток стоит на распутье из-за ситуации в Персидском заливе",
+      "title_original": "ТАСС: атака БПЛА на Москву стала самой крупной с начала года",
+      "title_neutral": "ТАСС: атака БПЛА на Москву стала самой крупной с начала года",
+      "excerpt": "",
+      "recap_neutral": "ТАСС: атака БПЛА на Москву стала самой крупной с начала года",
+      "main_idea": "ТАСС: атака БПЛА на Москву стала самой крупной с начала года",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 14 Mar 2026 23:50:53 +0300",
+      "url": "https://tass.ru/proisshestviya/26763425",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Член команды \"Урал-2\" рассказал, что защитник Секач долго не выходил на связь",
+      "title_neutral": "Член команды \"Урал-2\" рассказал, что защитник Секач долго не выходил на связь",
+      "excerpt": "Даниила Секача задержали в Москве по подозрению в убийстве",
+      "recap_neutral": "Даниила Секача задержали в Москве по подозрению в убийстве",
+      "main_idea": "Член команды \"Урал-2\" рассказал, что защитник Секач долго не выходил на связь",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 14 Mar 2026 23:44:49 +0300",
+      "url": "https://tass.ru/proisshestviya/26763403",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Стали известны причины удалений Талалаева и Челестини в матче РПЛ",
+      "title_neutral": "Стали известны причины удалений Талалаева и Челестини в матче РПЛ",
+      "excerpt": "Тренеры \"Балтики\" и ЦСКА приняли участие в массовой потасовке в концовке встречи",
+      "recap_neutral": "Тренеры \"Балтики\" и ЦСКА приняли участие в массовой потасовке в концовке встречи",
+      "main_idea": "Стали известны причины удалений Талалаева и Челестини в матче РПЛ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 14 Mar 2026 23:43:58 +0300",
+      "url": "https://tass.ru/sport/26763413",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Фидан: Турция не питает иллюзий относительно Совета мира",
+      "title_neutral": "Фидан: Турция не питает иллюзий относительно Совета мира",
+      "excerpt": "",
+      "recap_neutral": "Фидан: Турция не питает иллюзий относительно Совета мира",
+      "main_idea": "Фидан: Турция не питает иллюзий относительно Совета мира",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 14 Mar 2026 23:43:49 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26763405",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Акинфеев сообщил о серьезном разговоре в раздевалке ЦСКА",
+      "title_neutral": "Акинфеев сообщил о серьезном разговоре в раздевалке ЦСКА",
+      "excerpt": "Армейцы потерпели четыре поражения подряд",
+      "recap_neutral": "Армейцы потерпели четыре поражения подряд",
+      "main_idea": "Акинфеев сообщил о серьезном разговоре в раздевалке ЦСКА",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 14 Mar 2026 23:38:22 +0300",
+      "url": "https://tass.ru/sport/26763401",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Иран утверждает, что сбил противобункерную ракету США на юго-западе страны",
+      "title_neutral": "Иран утверждает, что сбил противобункерную ракету США на юго-западе страны",
+      "excerpt": "",
+      "recap_neutral": "Иран утверждает, что сбил противобункерную ракету США на юго-западе страны",
+      "main_idea": "Иран утверждает, что сбил противобункерную ракету США на юго-западе страны",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 14 Mar 2026 23:37:55 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26763397",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Над Саудовской Аравией сбили шесть баллистических ракет и два БПЛА",
+      "title_neutral": "Над Саудовской Аравией сбили шесть баллистических ракет и два БПЛА",
+      "excerpt": "Ракеты запустили в сторону провинции Эль-Хардж, сообщило министерство обороны страны",
+      "recap_neutral": "Ракеты запустили в сторону провинции Эль-Хардж, сообщило министерство обороны страны",
+      "main_idea": "Над Саудовской Аравией сбили шесть баллистических ракет и два БПЛА",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 14 Mar 2026 23:37:21 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26763389",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Фидан: Израиль при Нетаньяху всегда будет искать себе врага",
+      "title_neutral": "Фидан: Израиль при Нетаньяху всегда будет искать себе врага",
+      "excerpt": "Государству это необходимо для продвижения собственной повестки, отметил глава турецкого МИД",
+      "recap_neutral": "Государству это необходимо для продвижения собственной повестки, отметил глава турецкого МИД",
+      "main_idea": "Фидан: Израиль при Нетаньяху всегда будет искать себе врага",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 14 Mar 2026 23:32:55 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26763381",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ЕС опубликовал имена двух человек, исключенных из антироссийских санкций",
+      "title_neutral": "ЕС опубликовал имена двух человек, исключенных из антироссийских санкций",
+      "excerpt": "Из списка исключили дочь президента \"Транснефти\" Майю Токареву и нидерландского бизнесмена Нильса Трооста",
+      "recap_neutral": "Из списка исключили дочь президента \"Транснефти\" Майю Токареву и нидерландского бизнесмена Нильса Трооста",
+      "main_idea": "ЕС опубликовал имена двух человек, исключенных из антироссийских санкций",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 14 Mar 2026 23:29:11 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26763367",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Талалаеву может грозить дисквалификация до трех месяцев после игры с ЦСКА",
+      "title_neutral": "Талалаеву может грозить дисквалификация до трех месяцев после игры с ЦСКА",
+      "excerpt": "Главный тренер \"Балтики\" спровоцировал потасовку в концовке матча",
+      "recap_neutral": "Главный тренер \"Балтики\" спровоцировал потасовку в концовке матча",
+      "main_idea": "Талалаеву может грозить дисквалификация до трех месяцев после игры с ЦСКА",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 14 Mar 2026 23:27:38 +0300",
+      "url": "https://tass.ru/sport/26763375",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве проводят проверку после отказа скорой в госпитализации ребенка",
+      "title_neutral": "В Москве проводят проверку после отказа скорой в госпитализации ребенка",
+      "excerpt": "Росздравнадзор выясняет обстоятельства инцидента",
+      "recap_neutral": "Росздравнадзор выясняет обстоятельства инцидента",
+      "main_idea": "В Москве проводят проверку после отказа скорой в госпитализации ребенка",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 14 Mar 2026 23:21:20 +0300",
+      "url": "https://tass.ru/proisshestviya/26763329",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Президент Египта: Ближний Восток стоит на распутье из-за конфликта",
+      "title_neutral": "Президент Египта: Ближний Восток стоит на распутье из-за конфликта",
+      "excerpt": "Разрушительные последствия ситуации в Персидском заливе в экономической и социальной сферах затронут всех, отметил Абдель Фаттах ас-Сиси",
+      "recap_neutral": "Разрушительные последствия ситуации в Персидском заливе в экономической и социальной сферах затронут всех, отметил Абдель Фаттах ас-Сиси",
+      "main_idea": "Президент Египта: Ближний Восток стоит на распутье из-за конфликта",
       "tags": [
         "politics",
         "economy",
@@ -204,11 +366,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Премьер Ирака: конфликт на Ближнем Востоке угрожает всем инфраструктурным проектам",
-      "title_neutral": "Премьер Ирака: конфликт на Ближнем Востоке угрожает всем инфраструктурным проектам",
-      "excerpt": "",
-      "recap_neutral": "Премьер Ирака: конфликт на Ближнем Востоке угрожает всем инфраструктурным проектам",
-      "main_idea": "Премьер Ирака: конфликт на Ближнем Востоке угрожает всем инфраструктурным проектам",
+      "title_original": "Премьер Ирака: конфликт на Ближнем Востоке нарушает мировые цепочки поставок",
+      "title_neutral": "Премьер Ирака: конфликт на Ближнем Востоке нарушает мировые цепочки поставок",
+      "excerpt": "Мухаммед ас-Судани также указал на угрозу \"всем инфраструктурным проектам в регионе\"",
+      "recap_neutral": "Мухаммед ас-Судани также указал на угрозу \"всем инфраструктурным проектам в регионе\"",
+      "main_idea": "Премьер Ирака: конфликт на Ближнем Востоке нарушает мировые цепочки поставок",
       "tags": [
         "conflict"
       ],
@@ -223,8 +385,8 @@
     {
       "title_original": "В Петербурге и Ленобласти спасли 15 человек со льда Финского залива",
       "title_neutral": "В Петербурге и Ленобласти спасли 15 человек со льда Финского залива",
-      "excerpt": "",
-      "recap_neutral": "В Петербурге и Ленобласти спасли 15 человек со льда Финского залива",
+      "excerpt": "Выход на лед в период активного таяния и разрушения ледового покрова смертельно опасен, напомнили спасатели",
+      "recap_neutral": "Выход на лед в период активного таяния и разрушения ледового покрова смертельно опасен, напомнили спасатели",
       "main_idea": "В Петербурге и Ленобласти спасли 15 человек со льда Финского залива",
       "tags": [],
       "source": "ТАСС",
@@ -238,186 +400,15 @@
     {
       "title_original": "Ynet: Нетаньяху запросил разговор с Зеленским по вопросу иранских БПЛА",
       "title_neutral": "Ynet: Нетаньяху запросил разговор с Зеленским по вопросу иранских БПЛА",
-      "excerpt": "",
-      "recap_neutral": "Ynet: Нетаньяху запросил разговор с Зеленским по вопросу иранских БПЛА",
+      "excerpt": "Премьер-министр еврейского государства хочет углубить сотрудничество с Украиной, сообщает портал",
+      "recap_neutral": "Премьер-министр еврейского государства хочет углубить сотрудничество с Украиной, сообщает портал",
       "main_idea": "Ynet: Нетаньяху запросил разговор с Зеленским по вопросу иранских БПЛА",
-      "tags": [],
+      "tags": [
+        "conflict"
+      ],
       "source": "ТАСС",
       "published_at": "Sat, 14 Mar 2026 23:10:58 +0300",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/26763289",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лыжник Коростелев подвел итоги международного сезона",
-      "title_neutral": "Лыжник Коростелев подвел итоги международного сезона",
-      "excerpt": "Спортсмен выступил на Олимпийских играх",
-      "recap_neutral": "Спортсмен выступил на Олимпийских играх",
-      "main_idea": "Лыжник Коростелев подвел итоги международного сезона",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 14 Mar 2026 23:10:40 +0300",
-      "url": "https://tass.ru/sport/26763299",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "16-летний футболист \"Арсенала\" стал самым молодым автором гола в АПЛ",
-      "title_neutral": "16-летний футболист \"Арсенала\" стал самым молодым автором гола в АПЛ",
-      "excerpt": "Макс Доуман в матче с \"Эвертоном\" отличился в возрасте 16 лет и 73 дней",
-      "recap_neutral": "Макс Доуман в матче с \"Эвертоном\" отличился в возрасте 16 лет и 73 дней",
-      "main_idea": "16-летний футболист \"Арсенала\" стал самым молодым автором гола в АПЛ",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 14 Mar 2026 23:02:57 +0300",
-      "url": "https://tass.ru/sport/26763271",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Костромской области объявили беспилотную опасность",
-      "title_neutral": "В Костромской области объявили беспилотную опасность",
-      "excerpt": "На территории региона работают системы ПВО",
-      "recap_neutral": "На территории региона работают системы ПВО",
-      "main_idea": "В Костромской области объявили беспилотную опасность",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 14 Mar 2026 22:59:38 +0300",
-      "url": "https://tass.ru/proisshestviya/26763239",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Силы ПВО сбили еще 17 летевших на Москву БПЛА",
-      "title_neutral": "Силы ПВО сбили еще 17 летевших на Москву БПЛА",
-      "excerpt": "На месте падения обломков работают специалисты экстренных служб",
-      "recap_neutral": "На месте падения обломков работают специалисты экстренных служб",
-      "main_idea": "Силы ПВО сбили еще 17 летевших на Москву БПЛА",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 14 Mar 2026 22:58:42 +0300",
-      "url": "https://tass.ru/armiya-i-opk/26763243",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Билан и Лорак получили премию \"Виктория\" как исполнители года",
-      "title_neutral": "Билан и Лорак получили премию \"Виктория\" как исполнители года",
-      "excerpt": "Церемония вручения наград проходит на сцене \"Live Арены\"",
-      "recap_neutral": "Церемония вручения наград проходит на сцене \"Live Арены\"",
-      "main_idea": "Билан и Лорак получили премию \"Виктория\" как исполнители года",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 14 Mar 2026 22:55:32 +0300",
-      "url": "https://tass.ru/kultura/26763231",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Овечкин рассказал, что его мотивирует играть в хоккей после 20 сезонов в НХЛ",
-      "title_neutral": "Овечкин рассказал, что его мотивирует играть в хоккей после 20 сезонов в НХЛ",
-      "excerpt": "Форвард все еще получает удовольствие от игры",
-      "recap_neutral": "Форвард все еще получает удовольствие от игры",
-      "main_idea": "Овечкин рассказал, что его мотивирует играть в хоккей после 20 сезонов в НХЛ",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 14 Mar 2026 22:54:16 +0300",
-      "url": "https://tass.ru/sport/26763229",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Фидан пока не видит условий для возвращения Ирана и США к переговорам",
-      "title_neutral": "Фидан пока не видит условий для возвращения Ирана и США к переговорам",
-      "excerpt": "Но Тегеран может быть готов к контактам по закрытым каналам, предположил глава МИД Турции",
-      "recap_neutral": "Но Тегеран может быть готов к контактам по закрытым каналам, предположил глава МИД Турции",
-      "main_idea": "Фидан пока не видит условий для возвращения Ирана и США к переговорам",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 14 Mar 2026 22:53:34 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26763221",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ТАСС: дочь убитой на северо-западе Москвы женщины опрашивают в СК",
-      "title_neutral": "ТАСС: дочь убитой на северо-западе Москвы женщины опрашивают в СК",
-      "excerpt": "Предварительно установлено, что несовершеннолетняя дочь потерпевшей стала жертвой телефонных мошенников",
-      "recap_neutral": "Предварительно установлено, что несовершеннолетняя дочь потерпевшей стала жертвой телефонных мошенников",
-      "main_idea": "ТАСС: дочь убитой на северо-западе Москвы женщины опрашивают в СК",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 14 Mar 2026 22:46:11 +0300",
-      "url": "https://tass.ru/proisshestviya/26763205",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Харькове произошел взрыв",
-      "title_neutral": "В Харькове произошел взрыв",
-      "excerpt": "В Харьковской области была объявлена воздушная тревога",
-      "recap_neutral": "В Харьковской области была объявлена воздушная тревога",
-      "main_idea": "В Харькове произошел взрыв",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 14 Mar 2026 22:44:16 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26763199",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Футболист Секач не жаловался на давление со стороны мошенников членам команды",
-      "title_neutral": "Футболист Секач не жаловался на давление со стороны мошенников членам команды",
-      "excerpt": "Как ранее сообщили ТАСС в правоохранительных органах, Даниил Секач задержан в Москве по подозрению в убийстве",
-      "recap_neutral": "Как ранее сообщили ТАСС в правоохранительных органах, Даниил Секач задержан в Москве по подозрению в убийстве",
-      "main_idea": "Футболист Секач не жаловался на давление со стороны мошенников членам команды",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 14 Mar 2026 22:41:51 +0300",
-      "url": "https://tass.ru/sport/26763195",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Запорожской области около 10 тыс. абонентов остались без света из-за аварии",
-      "title_neutral": "В Запорожской области около 10 тыс. абонентов остались без света из-за аварии",
-      "excerpt": "Как только позволит оперативная обстановка, ремонтные бригады приступят к аварийно-восстановительным работам",
-      "recap_neutral": "Как только позволит оперативная обстановка, ремонтные бригады приступят к аварийно-восстановительным работам",
-      "main_idea": "В Запорожской области около 10 тыс. абонентов остались без света из-за аварии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 14 Mar 2026 22:41:35 +0300",
-      "url": "https://tass.ru/obschestvo/26763181",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
@@ -435,7 +426,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 14 Mar 2026 20:19:04 +0000",
+      "published_at": "Sat, 14 Mar 2026 20:44:08 +0000",
       "url": "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel",
       "lang": "en",
       "bias_score": 55,
@@ -492,6 +483,38 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Marketing for Founders",
+      "title_neutral": "Marketing for Founders",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Marketing for Founders",
+      "tags": [
+        "economy"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sat, 14 Mar 2026 19:35:40 +0000",
+      "url": "https://github.com/EdoStra/Marketing-for-Founders",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "MCP Is Dead; Long Live MCP",
+      "title_neutral": "MCP Is Dead; Long Live MCP",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "MCP Is Dead; Long Live MCP",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 14 Mar 2026 19:32:13 +0000",
+      "url": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "It's time to move your docs in the repo",
       "title_neutral": "It's time to move your docs in the repo",
       "excerpt": "Comments",
@@ -501,23 +524,6 @@
       "source": "Hacker News",
       "published_at": "Sat, 14 Mar 2026 19:28:47 +0000",
       "url": "https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Claudetop – htop for Claude Code sessions (see your AI spend in real-time)",
-      "title_neutral": "Claudetop – htop for Claude Code sessions (see your AI spend in real-time)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Claudetop – htop for Claude Code sessions (see your AI spend in real-time)",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 14 Mar 2026 19:26:24 +0000",
-      "url": "https://github.com/liorwn/claudetop",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -652,6 +658,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "In Praise of Stupid Questions",
+      "title_neutral": "In Praise of Stupid Questions",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "In Praise of Stupid Questions",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sat, 14 Mar 2026 17:12:18 +0000",
+      "url": "https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Five arrested in Cuba after protest at local Communist party office",
       "title_neutral": "Five arrested in Cuba after protest at local Communist party office",
       "excerpt": "Rare action began peacefully but ‘degenerated into vandalism’ according to state-run newspaper Five people have been arrested in Cuba for acts of “vandalism” after a small group of protesters broke into a provincial office of the Cuban Communist party and set fire to computers and furniture. The in…",
@@ -681,21 +704,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Nmap in the movies (2008)",
-      "title_neutral": "Nmap in the movies (2008)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Nmap in the movies (2008)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 14 Mar 2026 16:25:34 +0000",
-      "url": "https://nmap.org/movies/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
