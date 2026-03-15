@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T07:58:22.813218+00:00",
+  "last_updated": "2026-03-15T08:43:08.708893+00:00",
   "items": [
     {
       "title_original": "At least 17 killed after drone strikes school in Sudan",
@@ -35,6 +35,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "A look inside Dialector, filmmaker Chris Marker's chatbot from 1988",
+      "title_neutral": "A look inside Dialector, filmmaker Chris Marker's chatbot from 1988",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "A look inside Dialector, filmmaker Chris Marker's chatbot from 1988",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 11 Mar 2026 15:42:26 +0000",
+      "url": "https://kubicki.org/letters/the-festival-of-the-machines/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Why Mathematica does not simplify sinh(arccosh(x))",
       "title_neutral": "Why Mathematica does not simplify sinh(arccosh(x))",
       "excerpt": "Comments",
@@ -47,6 +62,247 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "title_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "excerpt": "",
+      "recap_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "main_idea": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:18:01 +0300",
+      "url": "https://tass.ru/politika/24134697",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
+      "title_neutral": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
+      "excerpt": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
+      "recap_neutral": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
+      "main_idea": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:17:03 +0300",
+      "url": "https://tass.ru/ekonomika/24134627",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "title_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "excerpt": "",
+      "recap_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "main_idea": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:15:43 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134665",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Магаданской области объявили чрезвычайную пожарную опасность",
+      "title_neutral": "В Магаданской области объявили чрезвычайную пожарную опасность",
+      "excerpt": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
+      "recap_neutral": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
+      "main_idea": "В Магаданской области объявили чрезвычайную пожарную опасность",
+      "tags": [
+        "climate"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:12:58 +0300",
+      "url": "https://tass.ru/obschestvo/24134601",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
+      "title_neutral": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
+      "excerpt": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
+      "recap_neutral": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
+      "main_idea": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:11:16 +0300",
+      "url": "https://tass.ru/obschestvo/24134589",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
+      "title_neutral": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
+      "excerpt": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
+      "recap_neutral": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
+      "main_idea": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:09:34 +0300",
+      "url": "https://tass.ru/obschestvo/24132977",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
+      "title_neutral": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
+      "excerpt": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
+      "recap_neutral": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
+      "main_idea": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:09:31 +0300",
+      "url": "https://tass.ru/nauka/24134535",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
+      "title_neutral": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
+      "excerpt": "Материалы дела поступили в мировой судебный участок 184",
+      "recap_neutral": "Материалы дела поступили в мировой судебный участок 184",
+      "main_idea": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:09:03 +0300",
+      "url": "https://tass.ru/proisshestviya/24134595",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
+      "title_neutral": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
+      "excerpt": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
+      "recap_neutral": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
+      "main_idea": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:08:48 +0300",
+      "url": "https://tass.ru/obschestvo/24134521",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
+      "title_neutral": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
+      "excerpt": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
+      "recap_neutral": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
+      "main_idea": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:08:39 +0300",
+      "url": "https://tass.ru/nedvizhimost/24134431",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
+      "title_neutral": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
+      "excerpt": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
+      "recap_neutral": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
+      "main_idea": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:06:43 +0300",
+      "url": "https://tass.ru/obschestvo/24133033",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
+      "title_neutral": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
+      "excerpt": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
+      "recap_neutral": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
+      "main_idea": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:04:29 +0300",
+      "url": "https://tass.ru/obschestvo/24133525",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
+      "title_neutral": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
+      "excerpt": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
+      "recap_neutral": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
+      "main_idea": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:03:57 +0300",
+      "url": "https://tass.ru/obschestvo/24134485",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "США пока не решили, продолжать или нет помощь Украине",
+      "title_neutral": "США пока не решили, продолжать или нет помощь Украине",
+      "excerpt": "",
+      "recap_neutral": "США пока не решили, продолжать или нет помощь Украине",
+      "main_idea": "США пока не решили, продолжать или нет помощь Украине",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:03:52 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134491",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+      "title_neutral": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+      "excerpt": "Предварительно, пострадавших нет",
+      "recap_neutral": "Предварительно, пострадавших нет",
+      "main_idea": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:02:07 +0300",
+      "url": "https://tass.ru/proisshestviya/24133329",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
@@ -154,264 +410,39 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "На запасные аэродромы ушли три летевших во Внуково самолета",
-      "title_neutral": "На запасные аэродромы ушли три летевших во Внуково самолета",
-      "excerpt": "",
-      "recap_neutral": "На запасные аэродромы ушли три летевших во Внуково самолета",
-      "main_idea": "На запасные аэродромы ушли три летевших во Внуково самолета",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Mar 2026 10:51:37 +0300",
-      "url": "https://tass.ru/ekonomika/26765307",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The National Interest: Франция может попытаться разместить свое ЯО в Финляндии",
-      "title_neutral": "The National Interest: Франция может попытаться разместить свое ЯО в Финляндии",
-      "excerpt": "Это произойдет, если инициатива финского министерства обороны получит ход, и ввоз таких вооружений в страну будет разрешен",
-      "recap_neutral": "Это произойдет, если инициатива финского министерства обороны получит ход, и ввоз таких вооружений в страну будет разрешен",
-      "main_idea": "The National Interest: Франция может попытаться разместить свое ЯО в Финляндии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Mar 2026 10:50:48 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26765283",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Москве причиной ДТП с двумя трамваями стал сход одного из них с рельсов",
-      "title_neutral": "В Москве причиной ДТП с двумя трамваями стал сход одного из них с рельсов",
-      "excerpt": "",
-      "recap_neutral": "В Москве причиной ДТП с двумя трамваями стал сход одного из них с рельсов",
-      "main_idea": "В Москве причиной ДТП с двумя трамваями стал сход одного из них с рельсов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Mar 2026 10:50:27 +0300",
-      "url": "https://tass.ru/proisshestviya/26765299",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Москве около 70 человек находились в двух трамваях, попавших в ДТП",
-      "title_neutral": "В Москве около 70 человек находились в двух трамваях, попавших в ДТП",
-      "excerpt": "Из них 13 человек госпитализировали",
-      "recap_neutral": "Из них 13 человек госпитализировали",
-      "main_idea": "В Москве около 70 человек находились в двух трамваях, попавших в ДТП",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Mar 2026 10:48:11 +0300",
-      "url": "https://tass.ru/proisshestviya/26765285",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В ЛНР заменили более 1 тыс. км сетей ЖКХ и 850 лифтов с 2022 года",
-      "title_neutral": "В ЛНР заменили более 1 тыс. км сетей ЖКХ и 850 лифтов с 2022 года",
-      "excerpt": "По словам главы республики Леонида Пасечника, с момента вхождения в состав РФ жилищно-коммунальная сфера региона активно развивается",
-      "recap_neutral": "По словам главы республики Леонида Пасечника, с момента вхождения в состав РФ жилищно-коммунальная сфера региона активно развивается",
-      "main_idea": "В ЛНР заменили более 1 тыс. км сетей ЖКХ и 850 лифтов с 2022 года",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Mar 2026 10:45:08 +0300",
-      "url": "https://tass.ru/obschestvo/26765259",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Шереметьево ввели ограничения из-за действия сигнала \"Ковер\"",
-      "title_neutral": "В Шереметьево ввели ограничения из-за действия сигнала \"Ковер\"",
-      "excerpt": "",
-      "recap_neutral": "В Шереметьево ввели ограничения из-за действия сигнала \"Ковер\"",
-      "main_idea": "В Шереметьево ввели ограничения из-за действия сигнала \"Ковер\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Mar 2026 10:44:45 +0300",
-      "url": "https://tass.ru/obschestvo/26765269",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Израиль отчитался о новой волне ударов по объектам \"Хезболлах\" в Ливане",
-      "title_neutral": "Израиль отчитался о новой волне ударов по объектам \"Хезболлах\" в Ливане",
-      "excerpt": "Атаке в том числе подверглись ракетные установки, готовые к запускам в направлении еврейского государства, и несколько штабов спецсил \"Радван\" в Бейруте",
-      "recap_neutral": "Атаке в том числе подверглись ракетные установки, готовые к запускам в направлении еврейского государства, и несколько штабов спецсил \"Радван\" в Бейруте",
-      "main_idea": "Израиль отчитался о новой волне ударов по объектам \"Хезболлах\" в Ливане",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Mar 2026 10:43:56 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26765253",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Медведчук: агрессия Британии и Франции против РФ ставит НАТО под угрозу удара ЯО",
-      "title_neutral": "Медведчук: агрессия Британии и Франции против РФ ставит НАТО под угрозу удара ЯО",
-      "excerpt": "Глава движения \"Другая Украина\" считает, что действия, подобные обстрелу \"руками\" ВСУ Брянска, рано или поздно вызовут ответ от России, о котором коллективный Запад знает",
-      "recap_neutral": "Глава движения \"Другая Украина\" считает, что действия, подобные обстрелу \"руками\" ВСУ Брянска, рано или поздно вызовут ответ от России, о котором коллективный Запад знает",
-      "main_idea": "Медведчук: агрессия Британии и Франции против РФ ставит НАТО под угрозу удара ЯО",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Mar 2026 10:41:39 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26765217",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "КСИР объявил о новых ударах по американским объектам на Ближнем Востоке",
-      "title_neutral": "КСИР объявил о новых ударах по американским объектам на Ближнем Востоке",
-      "excerpt": "Иран осуществил \"запуск десяти гиперзвуковых ракет и беспилотников\", целью стали \"американские силы, дислоцированные на базе Эд-Дафра в ОАЭ\"",
-      "recap_neutral": "Иран осуществил \"запуск десяти гиперзвуковых ракет и беспилотников\", целью стали \"американские силы, дислоцированные на базе Эд-Дафра в ОАЭ\"",
-      "main_idea": "КСИР объявил о новых ударах по американским объектам на Ближнем Востоке",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Mar 2026 10:39:39 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26765237",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Призер Олимпиады Филиппов рассматривает участие в биатлоне на Играх-2030",
-      "title_neutral": "Призер Олимпиады Филиппов рассматривает участие в биатлоне на Играх-2030",
-      "excerpt": "Ски-альпинист в детстве тренировался в биатлоне",
-      "recap_neutral": "Ски-альпинист в детстве тренировался в биатлоне",
-      "main_idea": "Призер Олимпиады Филиппов рассматривает участие в биатлоне на Играх-2030",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Mar 2026 10:39:28 +0300",
-      "url": "https://tass.ru/sport/26765227",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Узбекистане женщина более 30 лет жила с паспортом СССР",
-      "title_neutral": "В Узбекистане женщина более 30 лет жила с паспортом СССР",
-      "excerpt": "Долгое время она не обращалась в госведомства для замены документа",
-      "recap_neutral": "Долгое время она не обращалась в госведомства для замены документа",
-      "main_idea": "В Узбекистане женщина более 30 лет жила с паспортом СССР",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Mar 2026 10:37:55 +0300",
-      "url": "https://tass.ru/obschestvo/26765213",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Актер Петренко предложил создавать альтернативу фильмам со стереотипами о России",
-      "title_neutral": "Актер Петренко предложил создавать альтернативу фильмам со стереотипами о России",
-      "excerpt": "Артист считает бессмысленным запрет кинокартин, в которых формируется негативный образ РФ",
-      "recap_neutral": "Артист считает бессмысленным запрет кинокартин, в которых формируется негативный образ РФ",
-      "main_idea": "Актер Петренко предложил создавать альтернативу фильмам со стереотипами о России",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Mar 2026 10:35:13 +0300",
-      "url": "https://tass.ru/kultura/26765187",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Белоусов поздравил управление международного военного сотрудничества с 75-летием",
-      "title_neutral": "Белоусов поздравил управление международного военного сотрудничества с 75-летием",
-      "excerpt": "Военные дипломаты вносят весомый вклад в укрепление обороноспособности России, подчеркнул министр обороны РФ",
-      "recap_neutral": "Военные дипломаты вносят весомый вклад в укрепление обороноспособности России, подчеркнул министр обороны РФ",
-      "main_idea": "Белоусов поздравил управление международного военного сотрудничества с 75-летием",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Mar 2026 10:26:47 +0300",
-      "url": "https://tass.ru/obschestvo/26765123",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропортах Домодедово и Жуковский ввели ограничения",
-      "title_neutral": "В аэропортах Домодедово и Жуковский ввели ограничения",
-      "excerpt": "Они необходимы для обеспечения безопасности полетов",
-      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
-      "main_idea": "В аэропортах Домодедово и Жуковский ввели ограничения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Mar 2026 10:26:37 +0300",
-      "url": "https://tass.ru/obschestvo/26765167",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "KBS: Южная Корея рассмотрит возможность отправки кораблей в Ормузский пролив",
-      "title_neutral": "KBS: Южная Корея рассмотрит возможность отправки кораблей в Ормузский пролив",
-      "excerpt": "Сотрудник администрации южнокорейского президента отметил, что официальной просьбы к Сеулу направить корабли пока не было",
-      "recap_neutral": "Сотрудник администрации южнокорейского президента отметил, что официальной просьбы к Сеулу направить корабли пока не было",
-      "main_idea": "KBS: Южная Корея рассмотрит возможность отправки кораблей в Ормузский пролив",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Mar 2026 10:25:44 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26765139",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "U.S. Tells Citizens to Leave Iraq After Second Attack on Embassy",
-      "title_neutral": "U.S. Tells Citizens to Leave Iraq After Second Attack on Embassy",
-      "excerpt": "An Iran-backed militia took responsibility for an overnight attack on the U.S. Embassy in Baghdad. President Trump called on other nations to help escort oil tankers through the Strait of Hormuz.",
-      "recap_neutral": "An Iran-backed militia took responsibility for an overnight attack on the U",
-      "main_idea": "U.S. Tells Citizens to Leave Iraq After Second Attack on Embassy",
+      "title_original": "Live Updates: Trump Urges World to Help Protect Strait of Hormuz",
+      "title_neutral": "Live Updates: Trump Urges World to Help Protect Strait of Hormuz",
+      "excerpt": "The president said all countries that use the vital shipping route should send warships. Iran has effectively choked off traffic in the narrow waterway, through which a fifth of the world’s oil must transit.",
+      "recap_neutral": "The president said all countries that use the vital shipping route should send warships",
+      "main_idea": "Live Updates: Trump Urges World to Help Protect Strait of Hormuz",
       "tags": [
         "politics",
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sun, 15 Mar 2026 07:22:19 +0000",
-      "url": "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel",
+      "published_at": "Sun, 15 Mar 2026 08:20:43 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/15/world/iran-war-trump-oil-israel",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US names six crew killed in refuelling plane crash in Iraq",
+      "title_neutral": "US names six crew killed in refuelling plane crash in Iraq",
+      "excerpt": "The aircraft was on a combat mission as part of ongoing US operations against Iran when it crashed in western Iraq on Thursday.",
+      "recap_neutral": "The aircraft was on a combat mission as part of ongoing US operations against Iran when it crashed in western Iraq on Thursday",
+      "main_idea": "US names six crew killed in refuelling plane crash in Iraq",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 15 Mar 2026 08:08:30 GMT",
+      "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -447,21 +478,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Jeff Bezos wants Washington Post’s newsroom budget halved, productivity doubled",
-      "title_neutral": "Jeff Bezos wants Washington Post’s newsroom budget halved, productivity doubled",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Jeff Bezos wants Washington Post’s newsroom budget halved, productivity doubled",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 15 Mar 2026 05:36:00 +0000",
-      "url": "https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Rack-mount hydroponics",
       "title_neutral": "Rack-mount hydroponics",
       "excerpt": "Comments",
@@ -474,6 +490,68 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Marseille’s Tight Mayoral Race Is a Bellwether for France’s Future",
+      "title_neutral": "Marseille’s Tight Mayoral Race Is a Bellwether for France’s Future",
+      "excerpt": "Voters across France choose mayors this week. The far right is performing strongly in the country’s second city, making the contest there a test of national shifts.",
+      "recap_neutral": "Voters across France choose mayors this week",
+      "main_idea": "Marseille’s Tight Mayoral Race Is a Bellwether for France’s Future",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sun, 15 Mar 2026 04:01:19 +0000",
+      "url": "https://www.nytimes.com/2026/03/15/world/europe/france-marseille-mayor-election-far-right.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "In Scolding the New U.S. Ambassador, South Africa Signals Defiance",
+      "title_neutral": "In Scolding the New U.S. Ambassador, South Africa Signals Defiance",
+      "excerpt": "The latest clash between the two countries illustrates the depths to which relations have sunk and the struggle to forge a new path forward.",
+      "recap_neutral": "The latest clash between the two countries illustrates the depths to which relations have sunk and the struggle to forge a new path forward",
+      "main_idea": "In Scolding the New U.S. Ambassador, South Africa Signals Defiance",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 15 Mar 2026 04:01:16 +0000",
+      "url": "https://www.nytimes.com/2026/03/15/world/africa/south-africa-ambassador-bozell.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iceland’s Chief ‘Lava Cooler’ Is Bracing for the Next Volcanic Eruption",
+      "title_neutral": "Iceland’s Chief ‘Lava Cooler’ Is Bracing for the Next Volcanic Eruption",
+      "excerpt": "Helgi Hjorleifsson, a firefighter, is a leader in a national experiment to steer rivers of lava away from important sites. Some called it crazy, but it worked.",
+      "recap_neutral": "Helgi Hjorleifsson, a firefighter, is a leader in a national experiment to steer rivers of lava away from important sites",
+      "main_idea": "Iceland’s Chief ‘Lava Cooler’ Is Bracing for the Next Volcanic Eruption",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sun, 15 Mar 2026 04:01:09 +0000",
+      "url": "https://www.nytimes.com/2026/03/15/world/europe/iceland-lava-volcano-eruption-grindavik.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Some Olympic Leaders Want to See Fixed Winter Games Host Cities",
+      "title_neutral": "Some Olympic Leaders Want to See Fixed Winter Games Host Cities",
+      "excerpt": "Fewer cities are bidding for Olympics, and those that are can’t always accommodate every event. The Milan-Cortina Games were the most sprawling Olympics in history.",
+      "recap_neutral": "Fewer cities are bidding for Olympics, and those that are can’t always accommodate every event",
+      "main_idea": "Some Olympic Leaders Want to See Fixed Winter Games Host Cities",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sun, 15 Mar 2026 04:01:06 +0000",
+      "url": "https://www.nytimes.com/2026/03/15/world/europe/winter-olympics-future-sites.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -506,6 +584,23 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Three More Iranian Soccer Players Withdraw Bid for Asylum in Australia",
+      "title_neutral": "Three More Iranian Soccer Players Withdraw Bid for Asylum in Australia",
+      "excerpt": "Seven members of the national women’s team had sought refuge in the country after they were labeled ‘traitors’ at home. Four of them have since changed their minds.",
+      "recap_neutral": "Seven members of the national women’s team had sought refuge in the country after they were labeled ‘traitors’ at home",
+      "main_idea": "Three More Iranian Soccer Players Withdraw Bid for Asylum in Australia",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 15 Mar 2026 02:42:12 +0000",
+      "url": "https://www.nytimes.com/2026/03/14/world/australia/iranian-soccer-asylum-australia.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -752,21 +847,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Launching the Claude Partner Network",
-      "title_neutral": "Launching the Claude Partner Network",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Launching the Claude Partner Network",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 14 Mar 2026 21:23:42 +0000",
-      "url": "https://www.anthropic.com/news/claude-partner-network",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Bumblebee queens breathe underwater to survive drowning",
       "title_neutral": "Bumblebee queens breathe underwater to survive drowning",
       "excerpt": "Comments",
@@ -813,6 +893,21 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "MCP is dead; long live MCP",
+      "title_neutral": "MCP is dead; long live MCP",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "MCP is dead; long live MCP",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 14 Mar 2026 19:32:13 +0000",
+      "url": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -956,21 +1051,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Kennedy Center head steps down after tumultuous year",
-      "title_neutral": "Kennedy Center head steps down after tumultuous year",
-      "excerpt": "The Trump ally's departure comes as the centre prepares to shut down for a two-year renovation.",
-      "recap_neutral": "The Trump ally's departure comes as the centre prepares to shut down for a two-year renovation",
-      "main_idea": "Kennedy Center head steps down after tumultuous year",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 14 Mar 2026 15:31:01 GMT",
-      "url": "https://www.bbc.com/news/articles/cy7jlgez0ljo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1210,23 +1290,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Surge in Oil Prices Shakes Pakistan’s Already Fragile Economy",
-      "title_neutral": "Surge in Oil Prices Shakes Pakistan’s Already Fragile Economy",
-      "excerpt": "Families preparing for Eid al-Fitr and farmers ready for harvest are being squeezed in a country that gets nearly all its oil through the Persian Gulf.",
-      "recap_neutral": "Families preparing for Eid al-Fitr and farmers ready for harvest are being squeezed in a country that gets nearly all its oil through the Persian Gulf",
-      "main_idea": "Surge in Oil Prices Shakes Pakistan’s Already Fragile Economy",
-      "tags": [
-        "economy"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 14 Mar 2026 09:50:52 +0000",
-      "url": "https://www.nytimes.com/2026/03/14/world/asia/pakistan-oil-prices.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Mathematics Distillation Challenge – Equational Theories",
       "title_neutral": "Mathematics Distillation Challenge – Equational Theories",
       "excerpt": "Comments",
@@ -1440,41 +1503,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Phones ‘Ringing Off the Hook’ for Ukraine Defense Firms as Mideast Seeks Help",
-      "title_neutral": "Phones ‘Ringing Off the Hook’ for Ukraine Defense Firms as Mideast Seeks Help",
-      "excerpt": "Ukraine wants to leverage its defense expertise into security partnerships and to reap potentially vast profits for its arms industry.",
-      "recap_neutral": "Ukraine wants to leverage its defense expertise into security partnerships and to reap potentially vast profits for its arms industry",
-      "main_idea": "Phones ‘Ringing Off the Hook’ for Ukraine Defense Firms as Mideast Seeks Help",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 13 Mar 2026 22:16:36 +0000",
-      "url": "https://www.nytimes.com/2026/03/13/world/europe/ukraine-drone-interceptors-iran-middle-east.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A Visit to a Temple at the Heart of the Thailand-Cambodia Conflict",
-      "title_neutral": "A Visit to a Temple at the Heart of the Thailand-Cambodia Conflict",
-      "excerpt": "A rare visit to a Khmer temple on Thailand and Cambodia’s border showed how deadly clashes between the two countries have scarred a heritage site.",
-      "recap_neutral": "A rare visit to a Khmer temple on Thailand and Cambodia’s border showed how deadly clashes between the two countries have scarred a heritage site",
-      "main_idea": "A Visit to a Temple at the Heart of the Thailand-Cambodia Conflict",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 13 Mar 2026 20:30:01 +0000",
-      "url": "https://www.nytimes.com/2026/03/13/world/asia/thailand-cambodia-preah-vihear-temple.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "To Fight Iran’s Drones, U.S. Taps Ukraine’s Hard-Earned Knowledge",
       "title_neutral": "To Fight Iran’s Drones, U.S. Taps Ukraine’s Hard-Earned Knowledge",
       "excerpt": "As Iran has shown, warfare involves far more deadly projectiles than it once did. It’s a problem Ukraine has been dealing with for years.",
@@ -1487,24 +1515,6 @@
       "source": "NYTimes World",
       "published_at": "Fri, 13 Mar 2026 20:15:13 +0000",
       "url": "https://www.nytimes.com/2026/03/13/world/middleeast/ukraine-drone-knowledge.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Cuba Acknowledges Talks with Trump Officials For the First Time",
-      "title_neutral": "Cuba Acknowledges Talks with Trump Officials For the First Time",
-      "excerpt": "President Miguel Díaz-Canel, whose country is rapidly running out of fuel, said the talks were based on “respect for the political systems of both countries.”",
-      "recap_neutral": "President Miguel Díaz-Canel, whose country is rapidly running out of fuel, said the talks were based on “respect for the political systems of both countries",
-      "main_idea": "Cuba Acknowledges Talks with Trump Officials For the First Time",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 13 Mar 2026 19:19:14 +0000",
-      "url": "https://www.nytimes.com/2026/03/13/world/americas/cuba-us-talks-trump-oil.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -1611,24 +1621,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How the War in Iran Could Help China and Change Asia",
-      "title_neutral": "How the War in Iran Could Help China and Change Asia",
-      "excerpt": "American officials have said for years that they would prioritize the Indo-Pacific. Now they’re moving warships, missiles and air defenses out for a war in the Middle East.",
-      "recap_neutral": "American officials have said for years that they would prioritize the Indo-Pacific",
-      "main_idea": "How the War in Iran Could Help China and Change Asia",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 13 Mar 2026 04:00:37 +0000",
-      "url": "https://www.nytimes.com/2026/03/13/world/asia/iran-war-china-asia.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
