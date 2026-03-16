@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T16:01:57.887610+00:00",
+  "last_updated": "2026-03-16T17:33:02.571679+00:00",
   "items": [
     {
       "title_original": "Eswatini says it received more ‘third country’ deportees as part of deal with Trump administration",
@@ -88,56 +88,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The World Model Problem: Why Sora-Style Video Still Breaks",
-      "title_neutral": "The World Model Problem: Why Sora-Style Video Still Breaks",
-      "excerpt": "AI can generate stunning video, yet fails at stable physics and viewpoints. A new framework argues real world models require three kinds of consistency.",
-      "recap_neutral": "AI can generate stunning video, yet fails at stable physics and viewpoints",
-      "main_idea": "The World Model Problem: Why Sora-Style Video Still Breaks",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 15 Mar 2026 23:29:59 GMT",
-      "url": "https://hackernoon.com/the-world-model-problem-why-sora-style-video-still-breaks?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How I Built a Cache-First Azure Maps Integration",
-      "title_neutral": "How I Built a Cache-First Azure Maps Integration",
-      "excerpt": "We fixed wasteful Azure Maps calls with address detection, short-circuits, negative caching, and backoff that keeps geocoding reliable at scale.",
-      "recap_neutral": "We fixed wasteful Azure Maps calls with address detection, short-circuits, negative caching, and backoff that keeps geocoding reliable at scale",
-      "main_idea": "How I Built a Cache-First Azure Maps Integration",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sun, 15 Mar 2026 23:15:13 GMT",
-      "url": "https://hackernoon.com/how-i-built-a-cache-first-azure-maps-integration?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How Playnance Is Using KGeN's 53 Million Gamers to Quietly Reshape Web3 Distribution",
-      "title_neutral": "How Playnance Is Using KGeN's 53 Million Gamers to Quietly Reshape Web3 Distribution",
-      "excerpt": "The global Web3 gaming market is expected to hit $37 billion in 2025. Most platforms spend more on user acquisition than on product, chasing anonymous wallets through paid ads and influencer drops. KGeN's answer is to build a system where users are verified through real behavioral signals, gaming h…",
-      "recap_neutral": "The global Web3 gaming market is expected to hit $37 billion in 2025",
-      "main_idea": "How Playnance Is Using KGeN's 53 Million Gamers to Quietly Reshape Web3 Distribution",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 15 Mar 2026 22:56:44 GMT",
-      "url": "https://hackernoon.com/how-playnance-is-using-kgens-53-million-gamers-to-quietly-reshape-web3-distribution?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Desperation in Cuba Ignites Unusual Acts of Defiance",
       "title_neutral": "Desperation in Cuba Ignites Unusual Acts of Defiance",
       "excerpt": "A protest in the city of Morón in central Cuba culminated in fiery vandalism at the local Communist Party headquarters.",
@@ -150,6 +100,21 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Cert Authorities Check for DNSSEC from Today",
+      "title_neutral": "Cert Authorities Check for DNSSEC from Today",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Cert Authorities Check for DNSSEC from Today",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 15 Mar 2026 22:10:47 +0000",
+      "url": "https://www.grepular.com/Cert_Authorities_Check_for_DNSSEC_From_Today",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -220,41 +185,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The HackerNoon Newsletter: Its Not Kubernetes. It Never Was. (3/15/2026)",
-      "title_neutral": "The HackerNoon Newsletter: Its Not Kubernetes. It Never Was. (3/15/2026)",
-      "excerpt": "How are you, hacker? 🪐 What’s happening in tech today, March 15, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox. On this day, First Newsletter of the Homebrew Computer Club in 1975, and we present you with these top quality stories. From The OpenClaw Saga: How…",
-      "recap_neutral": "How are you, hacker? 🪐 What’s happening in tech today, March 15, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox",
-      "main_idea": "The HackerNoon Newsletter: Its Not Kubernetes. It Never Was. (3/15/2026)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 15 Mar 2026 16:03:48 GMT",
-      "url": "https://hackernoon.com/3-15-2026-newsletter?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Go 1.21: An Inside Look at Forward Compatibility and Toolchain Management",
-      "title_neutral": "Go 1.21: An Inside Look at Forward Compatibility and Toolchain Management",
-      "excerpt": "Go 1.21 introduces better forward compatibility for Go code. The `go` line in `go.mod` now specifies a minimum required Go toolchain version. Go 1.20 also introduces toolchain management so different modules can use different Go toolchains.",
-      "recap_neutral": "Go 1",
-      "main_idea": "Go 1.21: An Inside Look at Forward Compatibility and Toolchain Management",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 15 Mar 2026 16:00:39 GMT",
-      "url": "https://hackernoon.com/go-121-an-inside-look-at-forward-compatibility-and-toolchain-management?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Nordic Leaders Praise Carney as They Discuss Arctic Security",
       "title_neutral": "Nordic Leaders Praise Carney as They Discuss Arctic Security",
       "excerpt": "Canada’s prime minister got a warm welcome from leaders still smarting about President Trump’s remarks two months ago about taking over Greenland.",
@@ -289,23 +219,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Survival in the North",
-      "title_neutral": "Survival in the North",
-      "excerpt": "In this chapter of The Call of the Wild, Buck faces the brutal realities of the North. After witnessing Curly’s violent death in a husky pack attack, he learns the ruthless “law of club and fang.” Forced to pull sleds and survive harsh conditions, Buck adapts quickly—stealing food, growing stronger…",
-      "recap_neutral": "In this chapter of The Call of the Wild, Buck faces the brutal realities of the North",
-      "main_idea": "Survival in the North",
-      "tags": [
-        "conflict"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 15 Mar 2026 10:00:22 GMT",
-      "url": "https://hackernoon.com/survival-in-the-north?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -357,256 +270,270 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Силы ПВО Саудовской Аравии уничтожили 11 иранских БПЛА за несколько часов",
-      "title_neutral": "Силы ПВО Саудовской Аравии уничтожили 11 иранских БПЛА за несколько часов",
+      "title_original": "Литва внесет в фонд программы поддержки Украины €10 млн",
+      "title_neutral": "Литва внесет в фонд программы поддержки Украины €10 млн",
+      "excerpt": "Помощь, оказанная Киеву с 2022 года, в финансовом выражении превышает €1,7 млрд",
+      "recap_neutral": "Помощь, оказанная Киеву с 2022 года, в финансовом выражении превышает €1,7 млрд",
+      "main_idea": "Литва внесет в фонд программы поддержки Украины €10 млн",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 20:26:09 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26781541",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: в Эстонии решили, что безопасности страны угрожает сообщество с мемами",
+      "title_neutral": "ТАСС: в Эстонии решили, что безопасности страны угрожает сообщество с мемами",
+      "excerpt": "Речь идет о группе во \"Вконтакте\" \"Нарвская Народная Республика\" и одноименном Telegram-канале",
+      "recap_neutral": "Речь идет о группе во \"Вконтакте\" \"Нарвская Народная Республика\" и одноименном Telegram-канале",
+      "main_idea": "ТАСС: в Эстонии решили, что безопасности страны угрожает сообщество с мемами",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 20:25:50 +0300",
+      "url": "https://tass.ru/obschestvo/26781841",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп раскритиковал союзников по НАТО за нежелание помогать в ситуации с Ираном",
+      "title_neutral": "Трамп раскритиковал союзников по НАТО за нежелание помогать в ситуации с Ираном",
       "excerpt": "",
-      "recap_neutral": "Силы ПВО Саудовской Аравии уничтожили 11 иранских БПЛА за несколько часов",
-      "main_idea": "Силы ПВО Саудовской Аравии уничтожили 11 иранских БПЛА за несколько часов",
+      "recap_neutral": "Трамп раскритиковал союзников по НАТО за нежелание помогать в ситуации с Ираном",
+      "main_idea": "Трамп раскритиковал союзников по НАТО за нежелание помогать в ситуации с Ираном",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 18:59:24 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26780969",
+      "published_at": "Mon, 16 Mar 2026 20:23:26 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26781729",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Рассмотрение дела Лерчек приостановлено из-за ее болезни. Что решил суд",
-      "title_neutral": "Рассмотрение дела Лерчек приостановлено из-за ее болезни. Что решил суд",
-      "excerpt": "У Валерии Чекалиной ранее выявили рак желудка четвертой стадии",
-      "recap_neutral": "У Валерии Чекалиной ранее выявили рак желудка четвертой стадии",
-      "main_idea": "Рассмотрение дела Лерчек приостановлено из-за ее болезни. Что решил суд",
+      "title_original": "Российский рынок акций закрылся снижением основных индексов",
+      "title_neutral": "Российский рынок акций закрылся снижением основных индексов",
+      "excerpt": "Он опустился на 0,63%, до 2 853,72 пункта",
+      "recap_neutral": "Он опустился на 0,63%, до 2 853,72 пункта",
+      "main_idea": "Российский рынок акций закрылся снижением основных индексов",
       "tags": [
-        "tech",
-        "health"
+        "economy"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 18:56:32 +0300",
-      "url": "https://tass.ru/obschestvo/26780865",
+      "published_at": "Mon, 16 Mar 2026 20:22:16 +0300",
+      "url": "https://tass.ru/ekonomika/26781835",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Судебные приставы наложили арест на 32 млрд рублей на счетах ЮГК",
-      "title_neutral": "Судебные приставы наложили арест на 32 млрд рублей на счетах ЮГК",
-      "excerpt": "",
-      "recap_neutral": "Судебные приставы наложили арест на 32 млрд рублей на счетах ЮГК",
-      "main_idea": "Судебные приставы наложили арест на 32 млрд рублей на счетах ЮГК",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 18:56:16 +0300",
-      "url": "https://tass.ru/ekonomika/26780879",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Обвиняемого в убийстве женщины и разбое футболиста Секача отправили в СИЗО",
-      "title_neutral": "Обвиняемого в убийстве женщины и разбое футболиста Секача отправили в СИЗО",
-      "excerpt": "Срок ареста избран до 15 мая 2026 года",
-      "recap_neutral": "Срок ареста избран до 15 мая 2026 года",
-      "main_idea": "Обвиняемого в убийстве женщины и разбое футболиста Секача отправили в СИЗО",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 18:55:48 +0300",
-      "url": "https://tass.ru/proisshestviya/26780917",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Удмуртии мужчину арестовали за убийство девочки",
-      "title_neutral": "В Удмуртии мужчину арестовали за убийство девочки",
-      "excerpt": "Он полностью признал вину, однако объяснить мотивы не смог",
-      "recap_neutral": "Он полностью признал вину, однако объяснить мотивы не смог",
-      "main_idea": "В Удмуртии мужчину арестовали за убийство девочки",
+      "title_original": "Politico: недовольство позицией Венгрии по кредиту Киеву в ЕС \"достигло апогея\"",
+      "title_neutral": "Politico: недовольство позицией Венгрии по кредиту Киеву в ЕС \"достигло апогея\"",
+      "excerpt": "Правительства стран Евросоюза начали занимать гораздо более жесткую позицию в отношении Венгрии, пишет газета",
+      "recap_neutral": "Правительства стран Евросоюза начали занимать гораздо более жесткую позицию в отношении Венгрии, пишет газета",
+      "main_idea": "Politico: недовольство позицией Венгрии по кредиту Киеву в ЕС \"достигло апогея\"",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 18:54:57 +0300",
-      "url": "https://tass.ru/proisshestviya/26780875",
+      "published_at": "Mon, 16 Mar 2026 20:18:49 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26781589",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ТАСС: не способных заплатить взятку артиллеристов ВСУ переводят в штурмовики",
-      "title_neutral": "ТАСС: не способных заплатить взятку артиллеристов ВСУ переводят в штурмовики",
-      "excerpt": "Их отправляют в район Юнаковки, рассказали в российских силовых структурах",
-      "recap_neutral": "Их отправляют в район Юнаковки, рассказали в российских силовых структурах",
-      "main_idea": "ТАСС: не способных заплатить взятку артиллеристов ВСУ переводят в штурмовики",
+      "title_original": "Обновленный терапевтический корпус Раменской больницы откроется в конце марта",
+      "title_neutral": "Обновленный терапевтический корпус Раменской больницы откроется в конце марта",
+      "excerpt": "Весь комплекс выполнен по единому региональному стандарту",
+      "recap_neutral": "Весь комплекс выполнен по единому региональному стандарту",
+      "main_idea": "Обновленный терапевтический корпус Раменской больницы откроется в конце марта",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 18:49:58 +0300",
-      "url": "https://tass.ru/politika/26780727",
+      "published_at": "Mon, 16 Mar 2026 20:17:56 +0300",
+      "url": "https://tass.ru/obschestvo/26781813",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Липецкой области ввели режим повышенной готовности из-за обильного снеготаяния",
-      "title_neutral": "В Липецкой области ввели режим повышенной готовности из-за обильного снеготаяния",
-      "excerpt": "Главам округов рекомендовали организовать работу гидропостов для мониторинга уровня воды в реках",
-      "recap_neutral": "Главам округов рекомендовали организовать работу гидропостов для мониторинга уровня воды в реках",
-      "main_idea": "В Липецкой области ввели режим повышенной готовности из-за обильного снеготаяния",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 18:49:36 +0300",
-      "url": "https://tass.ru/obschestvo/26780857",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ТАСС: СБУ открыло дело против активистки, критикующей командира 225-й бригады",
-      "title_neutral": "ТАСС: СБУ открыло дело против активистки, критикующей командира 225-й бригады",
-      "excerpt": "Мария Барабаш также выступала с резкой главкома ВСУ Александра Сырского, отметили в российских силовых структурах",
-      "recap_neutral": "Мария Барабаш также выступала с резкой главкома ВСУ Александра Сырского, отметили в российских силовых структурах",
-      "main_idea": "ТАСС: СБУ открыло дело против активистки, критикующей командира 225-й бригады",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 18:48:21 +0300",
-      "url": "https://tass.ru/politika/26780743",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ТАСС: полк ВСУ призывает солдат других подразделений дезертировать",
-      "title_neutral": "ТАСС: полк ВСУ призывает солдат других подразделений дезертировать",
-      "excerpt": "На официальных ресурсах полка появился призыв самовольно оставлять свое подразделение для последующего \"перевода\" под патронаж командиров 33 ошп",
-      "recap_neutral": "На официальных ресурсах полка появился призыв самовольно оставлять свое подразделение для последующего \"перевода\" под патронаж командиров 33 ошп",
-      "main_idea": "ТАСС: полк ВСУ призывает солдат других подразделений дезертировать",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 18:47:04 +0300",
-      "url": "https://tass.ru/armiya-i-opk/26780783",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ТАСС: похороненный на Украине солдат ВСУ был найден живым в плену РФ",
-      "title_neutral": "ТАСС: похороненный на Украине солдат ВСУ был найден живым в плену РФ",
-      "excerpt": "Родственникам без вести пропавших солдат ВСУ важно отслеживать российские ресурсы, отметили в российских силовых структурах",
-      "recap_neutral": "Родственникам без вести пропавших солдат ВСУ важно отслеживать российские ресурсы, отметили в российских силовых структурах",
-      "main_idea": "ТАСС: похороненный на Украине солдат ВСУ был найден живым в плену РФ",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 18:46:51 +0300",
-      "url": "https://tass.ru/politika/26780735",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ТАСС: Киев занизил результаты опроса среди украинцев о желании прекратить огонь",
-      "title_neutral": "ТАСС: Киев занизил результаты опроса среди украинцев о желании прекратить огонь",
-      "excerpt": "В российских силовых структурах отметили, что социологические опросы на Украине давно являются профанацией и публикуются только для оправдания действий киевского режима",
-      "recap_neutral": "В российских силовых структурах отметили, что социологические опросы на Украине давно являются профанацией и публикуются только для оправдания действий киевского режима",
-      "main_idea": "ТАСС: Киев занизил результаты опроса среди украинцев о желании прекратить огонь",
+      "title_original": "Страны Персидского залива обсудили безопасность поставок нефтепродуктов",
+      "title_neutral": "Страны Персидского залива обсудили безопасность поставок нефтепродуктов",
+      "excerpt": "Стороны договорились разработать механизмы совместной технической координации и обновить протоколы реагирования на случай ЧС",
+      "recap_neutral": "Стороны договорились разработать механизмы совместной технической координации и обновить протоколы реагирования на случай ЧС",
+      "main_idea": "Страны Персидского залива обсудили безопасность поставок нефтепродуктов",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 18:45:58 +0300",
-      "url": "https://tass.ru/politika/26780767",
+      "published_at": "Mon, 16 Mar 2026 20:17:49 +0300",
+      "url": "https://tass.ru/ekonomika/26781801",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ворончихина назвала волнительной предстоящую возможную встречу с Путиным",
-      "title_neutral": "Ворончихина назвала волнительной предстоящую возможную встречу с Путиным",
-      "excerpt": "Ранее пресс-секретарь главы государства Дмитрий Песков заявил, что Владимир Путин может рассмотреть возможность встречи с российскими паралимпийцами в ближайшее время",
-      "recap_neutral": "Ранее пресс-секретарь главы государства Дмитрий Песков заявил, что Владимир Путин может рассмотреть возможность встречи с российскими паралимпийцами в ближайшее время",
-      "main_idea": "Ворончихина назвала волнительной предстоящую возможную встречу с Путиным",
+      "title_original": "Ворончихина навсегда запомнит день первой победы на Паралимпиаде в Италии",
+      "title_neutral": "Ворончихина навсегда запомнит день первой победы на Паралимпиаде в Италии",
+      "excerpt": "На Паралимпийских играх на церемонии награждения горнолыжницы Варвары Ворончихиной, выигравшей золотую медаль, впервые с 2014 года прозвучал национальный гимн России",
+      "recap_neutral": "На Паралимпийских играх на церемонии награждения горнолыжницы Варвары Ворончихиной, выигравшей золотую медаль, впервые с 2014 года прозвучал национальный гимн России",
+      "main_idea": "Ворончихина навсегда запомнит день первой победы на Паралимпиаде в Италии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 20:15:31 +0300",
+      "url": "https://tass.ru/sport/26781791",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Бойцы \"Востока\" уверенно удерживают инициативу в Запорожской области",
+      "title_neutral": "Бойцы \"Востока\" уверенно удерживают инициативу в Запорожской области",
+      "excerpt": "ВС РФ активно продвигаются в западном направлении",
+      "recap_neutral": "ВС РФ активно продвигаются в западном направлении",
+      "main_idea": "Бойцы \"Востока\" уверенно удерживают инициативу в Запорожской области",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 20:11:39 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26781773",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МИД РФ ожидает правовой квалификации инцидента с газовозом \"Арктик Метагаз\"",
+      "title_neutral": "МИД РФ ожидает правовой квалификации инцидента с газовозом \"Арктик Метагаз\"",
+      "excerpt": "После этого ведомство рассмотрит дополнительные шаги",
+      "recap_neutral": "После этого ведомство рассмотрит дополнительные шаги",
+      "main_idea": "МИД РФ ожидает правовой квалификации инцидента с газовозом \"Арктик Метагаз\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 20:10:28 +0300",
+      "url": "https://tass.ru/politika/26781753",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МИД Ирана прокомментировал удар США и Израиля по электроподстанциям Тегерана",
+      "title_neutral": "МИД Ирана прокомментировал удар США и Израиля по электроподстанциям Тегерана",
+      "excerpt": "Представитель внешнеполитического ведомства исламской республики Эсмаил Багаи заявил, что это было сделано для обесточивания города",
+      "recap_neutral": "Представитель внешнеполитического ведомства исламской республики Эсмаил Багаи заявил, что это было сделано для обесточивания города",
+      "main_idea": "МИД Ирана прокомментировал удар США и Израиля по электроподстанциям Тегерана",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 18:45:44 +0300",
-      "url": "https://tass.ru/sport/26780811",
+      "published_at": "Mon, 16 Mar 2026 20:09:23 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26781745",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ТАСС: Ермак вместе с СБУ до сих пор контролирует большинство украинских структур",
-      "title_neutral": "ТАСС: Ермак вместе с СБУ до сих пор контролирует большинство украинских структур",
-      "excerpt": "Депутат Верховной рады Максим Бужанский сообщил, что позицию граждан по скорейшему прекращению огня разделяют большинство \"народных избранников\"",
-      "recap_neutral": "Депутат Верховной рады Максим Бужанский сообщил, что позицию граждан по скорейшему прекращению огня разделяют большинство \"народных избранников\"",
-      "main_idea": "ТАСС: Ермак вместе с СБУ до сих пор контролирует большинство украинских структур",
+      "title_original": "В Иерусалиме у храма Гроба Господня и Эспланады мечетей упали обломки ракет",
+      "title_neutral": "В Иерусалиме у храма Гроба Господня и Эспланады мечетей упали обломки ракет",
+      "excerpt": "Фрагменты боеприпасов также нашли в разных местах в центре города и в Восточном Иерусалиме",
+      "recap_neutral": "Фрагменты боеприпасов также нашли в разных местах в центре города и в Восточном Иерусалиме",
+      "main_idea": "В Иерусалиме у храма Гроба Господня и Эспланады мечетей упали обломки ракет",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 18:45:07 +0300",
-      "url": "https://tass.ru/politika/26780775",
+      "published_at": "Mon, 16 Mar 2026 20:07:38 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26781697",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Росатом завершил испытания \"толерантного\" ядерного топлива",
-      "title_neutral": "Росатом завершил испытания \"толерантного\" ядерного топлива",
-      "excerpt": "Они проводились на энергоблоке №2 Ростовской АЭС",
-      "recap_neutral": "Они проводились на энергоблоке №2 Ростовской АЭС",
-      "main_idea": "Росатом завершил испытания \"толерантного\" ядерного топлива",
-      "tags": [],
+      "title_original": "ВСУ при атаках у Великой Михайловки и Покровского потеряли более 2,5 тыс. солдат",
+      "title_neutral": "ВСУ при атаках у Великой Михайловки и Покровского потеряли более 2,5 тыс. солдат",
+      "excerpt": "Начальник Генштаба ВС РФ генерал армии Валерий Герасимов сообщил, что также бойцами группировки войск \"Восток\" уничтожено свыше 120 единиц техники",
+      "recap_neutral": "Начальник Генштаба ВС РФ генерал армии Валерий Герасимов сообщил, что также бойцами группировки войск \"Восток\" уничтожено свыше 120 единиц техники",
+      "main_idea": "ВСУ при атаках у Великой Михайловки и Покровского потеряли более 2,5 тыс. солдат",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
       "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 18:45:04 +0300",
-      "url": "https://tass.ru/ekonomika/26780793",
+      "published_at": "Mon, 16 Mar 2026 20:06:20 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26781689",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "МИД Польши предложил Венгрии и Украине посредничество в ситуации вокруг \"Дружбы\"",
-      "title_neutral": "МИД Польши предложил Венгрии и Украине посредничество в ситуации вокруг \"Дружбы\"",
-      "excerpt": "При этом по словам министра иностранных дел Радослава Сикорского, Будапешт должен стремиться к поиску альтернативных путей доставки энергоресурсов",
-      "recap_neutral": "При этом по словам министра иностранных дел Радослава Сикорского, Будапешт должен стремиться к поиску альтернативных путей доставки энергоресурсов",
-      "main_idea": "МИД Польши предложил Венгрии и Украине посредничество в ситуации вокруг \"Дружбы\"",
+      "title_original": "Герасимов: бойцы \"Днепра\" наступают в направлении Запорожья",
+      "title_neutral": "Герасимов: бойцы \"Днепра\" наступают в направлении Запорожья",
+      "excerpt": "Освобожден населенный пункт Веселянка",
+      "recap_neutral": "Освобожден населенный пункт Веселянка",
+      "main_idea": "Герасимов: бойцы \"Днепра\" наступают в направлении Запорожья",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 18:44:16 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26780803",
+      "published_at": "Mon, 16 Mar 2026 20:04:46 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26781713",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran War Live Updates: Trump Set to Speak as Allies Rebuff His Appeal for Help in Strait of Hormuz",
-      "title_neutral": "Iran War Live Updates: Trump Set to Speak as Allies Rebuff His Appeal for Help in Strait of Hormuz",
-      "excerpt": "Germany and other nations rejected President Trump’s call for warships to reopen the vital oil route. The Israeli military escalated ground attacks against Iran-backed Hezbollah in Lebanon.",
-      "recap_neutral": "Germany and other nations rejected President Trump’s call for warships to reopen the vital oil route",
-      "main_idea": "Iran War Live Updates: Trump Set to Speak as Allies Rebuff His Appeal for Help in Strait of Hormuz",
+      "title_original": "Мерц назвал ошибкой решение Израиля начать наземную операцию в Ливане",
+      "title_neutral": "Мерц назвал ошибкой решение Израиля начать наземную операцию в Ливане",
+      "excerpt": "Такая операция \"еще больше ухудшит напряженную гуманитарную ситуацию\" в Ливане, подчеркнул канцлер Германии",
+      "recap_neutral": "Такая операция \"еще больше ухудшит напряженную гуманитарную ситуацию\" в Ливане, подчеркнул канцлер Германии",
+      "main_idea": "Мерц назвал ошибкой решение Израиля начать наземную операцию в Ливане",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 20:04:11 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26781665",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran War Live Updates: Trump Criticizes Allies for Rebuffing His Appeals for Military Assistance",
+      "title_neutral": "Iran War Live Updates: Trump Criticizes Allies for Rebuffing His Appeals for Military Assistance",
+      "excerpt": "President Trump expressed frustration with countries who have rebuffed his call to “come and help us” reopen the Strait of Hormuz. The Israeli military escalated ground attacks against Iran-backed Hezbollah in Lebanon.",
+      "recap_neutral": "President Trump expressed frustration with countries who have rebuffed his call to “come and help us” reopen the Strait of Hormuz",
+      "main_idea": "Iran War Live Updates: Trump Criticizes Allies for Rebuffing His Appeals for Military Assistance",
       "tags": [
         "politics",
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Mon, 16 Mar 2026 15:57:19 +0000",
+      "published_at": "Mon, 16 Mar 2026 17:29:05 +0000",
       "url": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon",
       "lang": "en",
       "bias_score": 55,
@@ -614,18 +541,122 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Fifth Member of Iranian Soccer Team Reverses Decision on Asylum",
-      "title_neutral": "Fifth Member of Iranian Soccer Team Reverses Decision on Asylum",
-      "excerpt": "Five of the seven members of the Iranian women’s national team who originally sought asylum in Australia after a tournament have changed their minds.",
-      "recap_neutral": "Five of the seven members of the Iranian women’s national team who originally sought asylum in Australia after a tournament have changed their minds",
-      "main_idea": "Fifth Member of Iranian Soccer Team Reverses Decision on Asylum",
-      "tags": [],
+      "title_original": "Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure",
+      "title_neutral": "Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Mon, 16 Mar 2026 17:09:34 +0000",
+      "url": "https://www.usechamber.io/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs",
+      "title_neutral": "Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Mon, 16 Mar 2026 17:00:17 +0000",
+      "url": "https://www.kaizenautomation.com/careers",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
+      "title_neutral": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Mon, 16 Mar 2026 16:21:07 +0000",
+      "url": "https://news.ycombinator.com/item?id=47401042",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "As Israel Expands Ground Assault in Lebanon, One Strategic Town Resists",
+      "title_neutral": "As Israel Expands Ground Assault in Lebanon, One Strategic Town Resists",
+      "excerpt": "The town of Khiam’s location on high ground just a few miles north of the border between Israel and Lebanon has made it coveted territory over multiple conflicts.",
+      "recap_neutral": "The town of Khiam’s location on high ground just a few miles north of the border between Israel and Lebanon has made it coveted territory over multiple conflicts",
+      "main_idea": "As Israel Expands Ground Assault in Lebanon, One Strategic Town Resists",
+      "tags": [
+        "conflict"
+      ],
       "source": "NYTimes World",
-      "published_at": "Mon, 16 Mar 2026 15:28:42 +0000",
-      "url": "https://www.nytimes.com/2026/03/16/world/middleeast/iran-soccer-team-asylum-australia.html",
+      "published_at": "Mon, 16 Mar 2026 16:17:57 +0000",
+      "url": "https://www.nytimes.com/2026/03/16/world/middleeast/lebanon-strategic-town-khiam.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Who the AI Works For",
+      "title_neutral": "Who the AI Works For",
+      "excerpt": "The sci-fi canon kept circling the same pattern across different writers, eras, and technologies: machines enter the world already attached to institutions, ownership, and interests. By the time most people meet them, neutrality is long gone. The interesting question isn't who. It's how the structu…",
+      "recap_neutral": "The sci-fi canon kept circling the same pattern across different writers, eras, and technologies: machines enter the world already attached to institutions, ownership, and interests",
+      "main_idea": "Who the AI Works For",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 16 Mar 2026 15:59:54 GMT",
+      "url": "https://hackernoon.com/who-the-ai-works-for?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Vibe Coding Is an Addiction",
+      "title_neutral": "Vibe Coding Is an Addiction",
+      "excerpt": "Vibe coding gives you the illusion of progress because shipping features feels productive. But if nobody needs what you're building and you haven't reviewed the security of AI-generated code, you're just feeding a compulsion. Learn to ask: would I build this without the AI? If no, close the laptop.",
+      "recap_neutral": "Vibe coding gives you the illusion of progress because shipping features feels productive",
+      "main_idea": "Vibe Coding Is an Addiction",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 16 Mar 2026 15:52:34 GMT",
+      "url": "https://hackernoon.com/vibe-coding-is-an-addiction?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Scientists Built a GPU Engine That Simulates Brain Cells 1,500× Faster",
+      "title_neutral": "Scientists Built a GPU Engine That Simulates Brain Cells 1,500× Faster",
+      "excerpt": "Researchers created DeepDendrite, a GPU-powered framework that dramatically speeds up simulations of biologically detailed brain neurons. Using a new algorithm called Dendritic Hierarchical Scheduling (DHS), it solves the main computational bottleneck in neuron modeling and runs up to 1,500× faster…",
+      "recap_neutral": "Researchers created DeepDendrite, a GPU-powered framework that dramatically speeds up simulations of biologically detailed brain neurons",
+      "main_idea": "Scientists Built a GPU Engine That Simulates Brain Cells 1,500× Faster",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 16 Mar 2026 15:50:33 GMT",
+      "url": "https://hackernoon.com/scientists-built-a-gpu-engine-that-simulates-brain-cells-1500-faster?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -647,18 +678,39 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "MCP Server Is Eating Your Context Window. There's a Simpler Way",
-      "title_neutral": "MCP Server Is Eating Your Context Window. There's a Simpler Way",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "MCP Server Is Eating Your Context Window. There's a Simpler Way",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 16 Mar 2026 15:25:36 +0000",
-      "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
+      "title_original": "A New Privacy-First AI Predicts COVID Severity Using X-Rays and Medical Records",
+      "title_neutral": "A New Privacy-First AI Predicts COVID Severity Using X-Rays and Medical Records",
+      "excerpt": "Researchers built EXAM, a global AI model that predicts COVID-19 patients’ oxygen needs within 24–72 hours using chest X-rays and medical records. Instead of pooling sensitive hospital data, the team used federated learning, letting 20 hospitals train the model locally while sharing only model upda…",
+      "recap_neutral": "Researchers built EXAM, a global AI model that predicts COVID-19 patients’ oxygen needs within 24–72 hours using chest X-rays and medical records",
+      "main_idea": "A New Privacy-First AI Predicts COVID Severity Using X-Rays and Medical Records",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 16 Mar 2026 15:21:43 GMT",
+      "url": "https://hackernoon.com/a-new-privacy-first-ai-predicts-covid-severity-using-x-rays-and-medical-records?source=rss",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Wary allies show there's no quick fix to Trump's Iran crisis",
+      "title_neutral": "Wary allies show there's no quick fix to Trump's Iran crisis",
+      "excerpt": "European leaders are hesitant to help Trump secure the Strait of Hormuz, but they know inaction on the Iran war isn't really an option.",
+      "recap_neutral": "European leaders are hesitant to help Trump secure the Strait of Hormuz, but they know inaction on the Iran war isn't really an option",
+      "main_idea": "Wary allies show there's no quick fix to Trump's Iran crisis",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 16 Mar 2026 15:12:25 GMT",
+      "url": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -679,6 +731,94 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "The AI Breakthrough That Lets Hospitals Train Algorithms Without Sharing Patient Data",
+      "title_neutral": "The AI Breakthrough That Lets Hospitals Train Algorithms Without Sharing Patient Data",
+      "excerpt": "Medical AI needs massive datasets, but privacy laws and data silos make sharing patient data nearly impossible. Federated learning solves this by sending the AI model to hospitals instead of moving the data. Each institution trains the model locally and shares only updates. The result: stronger med…",
+      "recap_neutral": "Medical AI needs massive datasets, but privacy laws and data silos make sharing patient data nearly impossible",
+      "main_idea": "The AI Breakthrough That Lets Hospitals Train Algorithms Without Sharing Patient Data",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 16 Mar 2026 15:00:57 GMT",
+      "url": "https://hackernoon.com/the-ai-breakthrough-that-lets-hospitals-train-algorithms-without-sharing-patient-data?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why Docker Desktop is Still the Go-To for Local Development",
+      "title_neutral": "Why Docker Desktop is Still the Go-To for Local Development",
+      "excerpt": "Many alternatives to Docker Desktop can run containers, but they often require extra setup, troubleshooting, and maintenance. Docker Desktop still wins in real teams because it reduces friction, speeds up onboarding, improves cross-platform consistency, and helps developers stay focused on building…",
+      "recap_neutral": "Many alternatives to Docker Desktop can run containers, but they often require extra setup, troubleshooting, and maintenance",
+      "main_idea": "Why Docker Desktop is Still the Go-To for Local Development",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 16 Mar 2026 14:57:48 GMT",
+      "url": "https://hackernoon.com/why-docker-desktop-is-still-the-go-to-for-local-development?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Twofold CEO: We Built a Multi-Million ARR Healthcare AI Company With Three People and Zero VC Money",
+      "title_neutral": "Twofold CEO: We Built a Multi-Million ARR Healthcare AI Company With Three People and Zero VC Money",
+      "excerpt": "Twofold is building what may become the defining AI infrastructure layer for outpatient healthcare. Twofold reached multi-million ARR from zero in eighteen months with a three-person team and no outside funding. The platform is used by over 3,000 practices across the U.S.",
+      "recap_neutral": "Twofold is building what may become the defining AI infrastructure layer for outpatient healthcare",
+      "main_idea": "Twofold CEO: We Built a Multi-Million ARR Healthcare AI Company With Three People and Zero VC Money",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 16 Mar 2026 14:56:47 GMT",
+      "url": "https://hackernoon.com/twofold-ceo-we-built-a-multi-million-arr-healthcare-ai-company-with-three-people-and-zero-vc-money?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to Properly Install JetBrains Toolbox on Linux (Kubuntu/Ubuntu)",
+      "title_neutral": "How to Properly Install JetBrains Toolbox on Linux (Kubuntu/Ubuntu)",
+      "excerpt": "JetBrains Toolbox for Linux comes as a tar archive, not a .deb package. Here's the proper way to install it: 1. Download and extract the archive 2. Move files to `/opt/jetbrains-toolbox` (standard location for third-party apps) 3. Create symbolic link: `sudo ln -s /opt/jetbrains-toolbox/jetbrains-t…",
+      "recap_neutral": "JetBrains Toolbox for Linux comes as a tar archive, not a",
+      "main_idea": "How to Properly Install JetBrains Toolbox on Linux (Kubuntu/Ubuntu)",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 16 Mar 2026 14:43:00 GMT",
+      "url": "https://hackernoon.com/how-to-properly-install-jetbrains-toolbox-on-linux-kubuntuubuntu?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Your AI Coding Assistant is Probably Writing Vulnerabilities. Here's How to Catch Them",
+      "title_neutral": "Your AI Coding Assistant is Probably Writing Vulnerabilities. Here's How to Catch Them",
+      "excerpt": "Increased vibe coding and exponentially increased security risks with no great tooling at hand. This post covers about the risks developers need to be aware of and the free MCP server that they can use to secure code even before it is generated.",
+      "recap_neutral": "Increased vibe coding and exponentially increased security risks with no great tooling at hand",
+      "main_idea": "Your AI Coding Assistant is Probably Writing Vulnerabilities. Here's How to Catch Them",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 16 Mar 2026 14:37:32 GMT",
+      "url": "https://hackernoon.com/your-ai-coding-assistant-is-probably-writing-vulnerabilities-heres-how-to-catch-them?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Russia agrees to stop using Kenyan recruits in Ukraine conflict, Kenya says",
       "title_neutral": "Russia agrees to stop using Kenyan recruits in Ukraine conflict, Kenya says",
       "excerpt": "Some 1,000 Kenyans are believed to have recruited to fight in Ukraine - many say they were lured under false pretences.",
@@ -694,6 +834,23 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Best 9 HR Management Platforms in 2026",
+      "title_neutral": "The Best 9 HR Management Platforms in 2026",
+      "excerpt": "This comprehensive guide reviews the best 9 HR Management Platforms for 2026 to help mid-market companies move beyond basic HR tools into strategic people management. HiBob takes the top slot.",
+      "recap_neutral": "This comprehensive guide reviews the best 9 HR Management Platforms for 2026 to help mid-market companies move beyond basic HR tools into strategic people management",
+      "main_idea": "The Best 9 HR Management Platforms in 2026",
+      "tags": [
+        "economy"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 16 Mar 2026 13:53:50 GMT",
+      "url": "https://hackernoon.com/the-best-9-hr-management-platforms-in-2026?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -721,23 +878,6 @@
       "source": "Hacker News",
       "published_at": "Mon, 16 Mar 2026 13:09:58 +0000",
       "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: Hackerbrief – Top posts on Hacker News summarized daily",
-      "title_neutral": "Show HN: Hackerbrief – Top posts on Hacker News summarized daily",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Hackerbrief – Top posts on Hacker News summarized daily",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Mon, 16 Mar 2026 13:01:48 +0000",
-      "url": "https://hackerbrief.vercel.app/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -838,21 +978,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Nango (YC W23, API Access for Agents and Apps) Is Hiring",
-      "title_neutral": "Nango (YC W23, API Access for Agents and Apps) Is Hiring",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Nango (YC W23, API Access for Agents and Apps) Is Hiring",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 16 Mar 2026 12:03:13 +0000",
-      "url": "https://jobs.ashbyhq.com/Nango",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts",
       "title_neutral": "Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts",
       "excerpt": "Food production in many African countries depends heavily on fertiliser imported from the Gulf through the strait of Hormuz Countries in Africa, where farmers depend heavily on imported fertiliser and a large share of household income goes on food, are particularly vulnerable to supply chain disrup…",
@@ -868,23 +993,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Polymarket gamblers threaten to kill me over Iran missile story",
-      "title_neutral": "Polymarket gamblers threaten to kill me over Iran missile story",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Polymarket gamblers threaten to kill me over Iran missile story",
-      "tags": [
-        "economy"
-      ],
-      "source": "Hacker News",
-      "published_at": "Mon, 16 Mar 2026 12:00:06 +0000",
-      "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -985,6 +1093,23 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Claude Code Security Analysis: Understanding the CVE-2026-21852 API Key Exfiltration Vulnerability",
+      "title_neutral": "Claude Code Security Analysis: Understanding the CVE-2026-21852 API Key Exfiltration Vulnerability",
+      "excerpt": "The vulnerability has already been patched by Anthropic. Claude Code communicates with Anthropic's services using an API key, transmitted with each authenticated request. By manipulating a repository-controlled configuration setting, API traffic could be redirected to an attacker-controlled server.",
+      "recap_neutral": "The vulnerability has already been patched by Anthropic",
+      "main_idea": "Claude Code Security Analysis: Understanding the CVE-2026-21852 API Key Exfiltration Vulnerability",
+      "tags": [
+        "conflict"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 16 Mar 2026 11:18:35 GMT",
+      "url": "https://hackernoon.com/claude-code-security-analysis-understanding-the-cve-2026-21852-api-key-exfiltration-vulnerability?source=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1210,23 +1335,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The TechBeat: It's Not Kubernetes. It Never Was. (3/16/2026)",
-      "title_neutral": "The TechBeat: It's Not Kubernetes. It Never Was. (3/16/2026)",
-      "excerpt": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here . ## How to Build an AI Medical Scribe With AssemblyAI By @assemblyai [ 6 Min read ] Building a medical s…",
-      "recap_neutral": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here",
-      "main_idea": "The TechBeat: It's Not Kubernetes. It Never Was. (3/16/2026)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Mon, 16 Mar 2026 06:11:30 GMT",
-      "url": "https://hackernoon.com/3-16-2026-techbeat?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Meta and TikTok let harmful content rise after evidence outrage drove engagement, say whistleblowers",
       "title_neutral": "Meta and TikTok let harmful content rise after evidence outrage drove engagement, say whistleblowers",
       "excerpt": "Companies allowed more harmful content on user’s feeds, knowing their algorithms ran on outrage, BBC hears.",
@@ -1278,74 +1386,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Momentum Has a Neuroscience",
-      "title_neutral": "Momentum Has a Neuroscience",
-      "excerpt": "Starting with \"How\" is a clever stall tactic—your brain gets busy planning contingencies while life stays unchanged, avoiding exposure and commitment. Get the order right: brutal clarity on What to change + a Why with real emotional weight → take action → RAS tightens to spotlight supporting signal…",
-      "recap_neutral": "Starting with \"How\" is a clever stall tactic—your brain gets busy planning contingencies while life stays unchanged, avoiding exposure and commitment",
-      "main_idea": "Momentum Has a Neuroscience",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Mon, 16 Mar 2026 05:30:38 GMT",
-      "url": "https://hackernoon.com/momentum-has-a-neuroscience?source=rss",
+      "title_original": "As parents clamor for a treatment touted for autism, doctors hesitate to prescribe it",
+      "title_neutral": "As parents clamor for a treatment touted for autism, doctors hesitate to prescribe it",
+      "excerpt": "After leucovorin got public attention as a potential autism treatment, families rushed to get it. Many doctors are torn about prescribing an unproven drug but don't want to lose patients' trust.",
+      "recap_neutral": "After leucovorin got public attention as a potential autism treatment, families rushed to get it",
+      "main_idea": "As parents clamor for a treatment touted for autism, doctors hesitate to prescribe it",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Mon, 16 Mar 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/03/16/nx-s1-5742676/leucovorin-autism-parents-treatment-prescribe",
       "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
-      "title_neutral": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
-      "excerpt": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue.",
-      "recap_neutral": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue",
-      "main_idea": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
-      "tags": [
-        "economy",
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Mon, 16 Mar 2026 05:14:45 GMT",
-      "url": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How I Would Modernize an Autonomous Pharmaceutical Retail Chain Operating System",
-      "title_neutral": "How I Would Modernize an Autonomous Pharmaceutical Retail Chain Operating System",
-      "excerpt": "The pharmaceutical retail chain does not have a technology problem. It has a coordination problem that technology has never properly addressed. The global pharmaceutical retail market exceeds $1.4 trillion annually. The root cause is that no system currently coordinates the chain as a single operat…",
-      "recap_neutral": "The pharmaceutical retail chain does not have a technology problem",
-      "main_idea": "How I Would Modernize an Autonomous Pharmaceutical Retail Chain Operating System",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Mon, 16 Mar 2026 05:07:00 GMT",
-      "url": "https://hackernoon.com/how-i-would-modernize-an-autonomous-pharmaceutical-retail-chain-operating-system?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "GPT in 200 Lines: The Beautiful Simplicity Behind Modern AI",
-      "title_neutral": "GPT in 200 Lines: The Beautiful Simplicity Behind Modern AI",
-      "excerpt": "A deep dive into Andrej Karpathy’s 200-line GPT implementation and the core concepts behind modern language models.",
-      "recap_neutral": "A deep dive into Andrej Karpathy’s 200-line GPT implementation and the core concepts behind modern language models",
-      "main_idea": "GPT in 200 Lines: The Beautiful Simplicity Behind Modern AI",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Mon, 16 Mar 2026 05:04:39 GMT",
-      "url": "https://hackernoon.com/gpt-in-200-lines-the-beautiful-simplicity-behind-modern-ai?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1373,21 +1425,6 @@
       "source": "NPR",
       "published_at": "Mon, 16 Mar 2026 05:00:00 -0400",
       "url": "https://www.npr.org/2026/03/16/nx-s1-5745200/parasite-cleanse-safety-science",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "As parents clamor for a treatment touted for autism, doctors hesitate to prescribe it",
-      "title_neutral": "As parents clamor for a treatment touted for autism, doctors hesitate to prescribe it",
-      "excerpt": "After leucovorin got public attention as a potential autism treatment, families rushed to get it. Many doctors are torn about prescribing an unproven drug but don't want to lose patients' trust.",
-      "recap_neutral": "After leucovorin got public attention as a potential autism treatment, families rushed to get it",
-      "main_idea": "As parents clamor for a treatment touted for autism, doctors hesitate to prescribe it",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Mon, 16 Mar 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/03/16/nx-s1-5742676/leucovorin-autism-parents-treatment-prescribe",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1541,23 +1578,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Missing Step After Scoring: Diversification",
-      "title_neutral": "The Missing Step After Scoring: Diversification",
-      "excerpt": "Composite scoring kept returning the same idea five times. Here’s how a post-score diversification pass fixed candidate selection.",
-      "recap_neutral": "Composite scoring kept returning the same idea five times",
-      "main_idea": "The Missing Step After Scoring: Diversification",
-      "tags": [
-        "politics"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Mon, 16 Mar 2026 00:00:51 GMT",
-      "url": "https://hackernoon.com/the-missing-step-after-scoring-diversification?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
