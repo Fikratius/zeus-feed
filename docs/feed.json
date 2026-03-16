@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-03-16T02:02:29.742661+00:00",
+  "last_updated": "2026-03-16T05:02:58.839768+00:00",
   "items": [
+    {
+      "title_original": "What Every Computer Scientist Should Know About FP Arithmetic (1991) [pdf]",
+      "title_neutral": "What Every Computer Scientist Should Know About FP Arithmetic (1991) [pdf]",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "What Every Computer Scientist Should Know About FP Arithmetic (1991) [pdf]",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 11 Mar 2026 23:24:22 +0000",
+      "url": "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
     {
       "title_original": "//go:fix inline and the source-level inliner",
       "title_neutral": "//go:fix inline and the source-level inliner",
@@ -34,15 +49,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
-      "title_neutral": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
+      "title_original": "Electric motor scaling laws and inertia in robot actuators",
+      "title_neutral": "Electric motor scaling laws and inertia in robot actuators",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
+      "main_idea": "Electric motor scaling laws and inertia in robot actuators",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Thu, 12 Mar 2026 14:10:56 +0000",
-      "url": "https://www.youtube.com/watch?v=HK0uAKkt0AE",
+      "published_at": "Thu, 12 Mar 2026 13:04:35 +0000",
+      "url": "https://robot-daycare.com/posts/actuation_series_1/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -185,41 +200,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A new Bigfoot documentary helps explain our conspiracy-minded era",
-      "title_neutral": "A new Bigfoot documentary helps explain our conspiracy-minded era",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "A new Bigfoot documentary helps explain our conspiracy-minded era",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sun, 15 Mar 2026 22:15:50 +0000",
-      "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Here’s What Happened in the War in the Middle East on Sunday",
-      "title_neutral": "Here’s What Happened in the War in the Middle East on Sunday",
-      "excerpt": "Five missiles struck the Baghdad International Airport and injured four people. Israeli and Iranian attacks continued as global economic concerns about the war mounted.",
-      "recap_neutral": "Five missiles struck the Baghdad International Airport and injured four people",
-      "main_idea": "Here’s What Happened in the War in the Middle East on Sunday",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 15 Mar 2026 22:07:42 +0000",
-      "url": "https://www.nytimes.com/2026/03/15/world/middleeast/baghdad-airport-missiles.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Iran captain latest footballer to drop asylum bid, Iranian state media says",
       "title_neutral": "Iran captain latest footballer to drop asylum bid, Iranian state media says",
       "excerpt": "Five of the seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home.",
@@ -239,8 +219,8 @@
     {
       "title_original": "Ugandan opposition leader tells BBC he fled abroad fearing for his life",
       "title_neutral": "Ugandan opposition leader tells BBC he fled abroad fearing for his life",
-      "excerpt": "He says from an undisclosed location: \"It was clear that the regime wanted to eliminate me.\"",
-      "recap_neutral": "He says from an undisclosed location: \"It was clear that the regime wanted to eliminate me",
+      "excerpt": "Bobi Wine says from an undisclosed location: \"It was clear that the regime wanted to eliminate me.\"",
+      "recap_neutral": "Bobi Wine says from an undisclosed location: \"It was clear that the regime wanted to eliminate me",
       "main_idea": "Ugandan opposition leader tells BBC he fled abroad fearing for his life",
       "tags": [],
       "source": "BBC World",
@@ -249,23 +229,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
-      "title_neutral": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
-      "excerpt": "Six members of a Palestinian family went out for a ride in the car. Only two made it back home.",
-      "recap_neutral": "Six members of a Palestinian family went out for a ride in the car",
-      "main_idea": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
-      "tags": [
-        "economy"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 15 Mar 2026 21:45:07 +0000",
-      "url": "https://www.nytimes.com/2026/03/15/world/middleeast/palestinian-family-killed-west-bank.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -293,6 +256,21 @@
       "source": "Hacker News",
       "published_at": "Sun, 15 Mar 2026 21:22:16 +0000",
       "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "LLMs can be exhausting",
+      "title_neutral": "LLMs can be exhausting",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "LLMs can be exhausting",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 15 Mar 2026 20:56:21 +0000",
+      "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -332,11 +310,28 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Chrome DevTools MCP",
-      "title_neutral": "Chrome DevTools MCP",
+      "title_original": "'One Battle After Another' takes best picture. Here's the full list of Oscar winners",
+      "title_neutral": "'One Battle After Another' takes best picture. Here's the full list of Oscar winners",
+      "excerpt": "Michael B. Jordan and Jessie Buckley won best actor and best actress . Paul Thomas Anderson received best director . Cassandra Kulukundis won the Academy's first ever casting award.",
+      "recap_neutral": "Michael B",
+      "main_idea": "'One Battle After Another' takes best picture. Here's the full list of Oscar winners",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NPR",
+      "published_at": "Sun, 15 Mar 2026 19:24:24 -0400",
+      "url": "https://www.npr.org/2026/03/15/nx-s1-5739287/oscars-2026-winners-list-best-picture-actor-actress",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Chrome DevTools MCP (2025)",
+      "title_neutral": "Chrome DevTools MCP (2025)",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Chrome DevTools MCP",
+      "main_idea": "Chrome DevTools MCP (2025)",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Sun, 15 Mar 2026 19:12:53 +0000",
@@ -361,6 +356,21 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Stop Sloppypasta",
+      "title_neutral": "Stop Sloppypasta",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Stop Sloppypasta",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 15 Mar 2026 17:25:00 +0000",
+      "url": "https://stopsloppypasta.ai/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -600,23 +610,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
-      "title_neutral": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
-      "tags": [
-        "conflict"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sun, 15 Mar 2026 13:08:02 +0000",
-      "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
       "title_neutral": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
       "excerpt": "Volodymyr Zelensky says restoring the flow of Russian oil via Ukraine into the EU would be like lifting sanctions on Russia.",
@@ -731,7 +724,7 @@
         "conflict"
       ],
       "source": "NYTimes World",
-      "published_at": "Sun, 15 Mar 2026 09:01:00 +0000",
+      "published_at": "Sun, 15 Mar 2026 09:01:01 +0000",
       "url": "https://www.nytimes.com/2026/03/15/world/europe/europe-iran-military.html",
       "lang": "en",
       "bias_score": 55,
@@ -788,6 +781,21 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "SpiceCrypt: A Python library for decrypting LTspice encrypted model files",
+      "title_neutral": "SpiceCrypt: A Python library for decrypting LTspice encrypted model files",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "SpiceCrypt: A Python library for decrypting LTspice encrypted model files",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 15 Mar 2026 07:11:32 +0000",
+      "url": "https://github.com/jtsylve/spice-crypt",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -980,23 +988,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "In a small Lebanese town, grief and fear follow the Michigan synagogue attack",
-      "title_neutral": "In a small Lebanese town, grief and fear follow the Michigan synagogue attack",
-      "excerpt": "The suspect who attacked a synagogue in Michigan lost family members in an Israeli strike in Lebanon on March 5. Relatives and neighbors in his hometown share their views on his actions.",
-      "recap_neutral": "The suspect who attacked a synagogue in Michigan lost family members in an Israeli strike in Lebanon on March 5",
-      "main_idea": "In a small Lebanese town, grief and fear follow the Michigan synagogue attack",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 14 Mar 2026 16:57:31 -0400",
-      "url": "https://www.npr.org/2026/03/14/nx-s1-5747965/lebanon-michigan-synagogue-attack",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Five arrested in Cuba after protest at local Communist party office",
       "title_neutral": "Five arrested in Cuba after protest at local Communist party office",
       "excerpt": "Rare action began peacefully but ‘degenerated into vandalism’ according to state-run newspaper Five people have been arrested in Cuba for acts of “vandalism” after a small group of protesters broke into a provincial office of the Cuban Communist party and set fire to computers and furniture. The in…",
@@ -1112,265 +1103,290 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Russian strike on Kyiv region kills 4 and wounds 15, with peace talks stalled",
-      "title_neutral": "Russian strike on Kyiv region kills 4 and wounds 15, with peace talks stalled",
-      "excerpt": "The strikes comes after the United States paused ceasefire talks between Russia and Ukraine due to the war with Iran.",
-      "recap_neutral": "The strikes comes after the United States paused ceasefire talks between Russia and Ukraine due to the war with Iran",
-      "main_idea": "Russian strike on Kyiv region kills 4 and wounds 15, with peace talks stalled",
+      "title_original": "Ограничения в аэропорту Нижнекамска сняли",
+      "title_neutral": "Ограничения в аэропорту Нижнекамска сняли",
+      "excerpt": "",
+      "recap_neutral": "Ограничения в аэропорту Нижнекамска сняли",
+      "main_idea": "Ограничения в аэропорту Нижнекамска сняли",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 07:59:52 +0300",
+      "url": "https://tass.ru/ekonomika/26771347",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Москвичам рекомендовали не менять резину из-за неустойчивой погоды",
+      "title_neutral": "Москвичам рекомендовали не менять резину из-за неустойчивой погоды",
+      "excerpt": "",
+      "recap_neutral": "Москвичам рекомендовали не менять резину из-за неустойчивой погоды",
+      "main_idea": "Москвичам рекомендовали не менять резину из-за неустойчивой погоды",
+      "tags": [
+        "climate"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 07:59:46 +0300",
+      "url": "https://tass.ru/obschestvo/26771309",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Известия\": Минцифры прорабатывает запрет манипулирования людьми с помощью ИИ",
+      "title_neutral": "\"Известия\": Минцифры прорабатывает запрет манипулирования людьми с помощью ИИ",
+      "excerpt": "Разработчиков систем искусственного интеллекта могут начать предупреждать о недопустимости эксплуатации уязвимостей человека",
+      "recap_neutral": "Разработчиков систем искусственного интеллекта могут начать предупреждать о недопустимости эксплуатации уязвимостей человека",
+      "main_idea": "\"Известия\": Минцифры прорабатывает запрет манипулирования людьми с помощью ИИ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 07:59:36 +0300",
+      "url": "https://tass.ru/obschestvo/26771317",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ОАЭ сообщили, что средства ПВО сбивают иранские ракеты и беспилотники",
+      "title_neutral": "В ОАЭ сообщили, что средства ПВО сбивают иранские ракеты и беспилотники",
+      "excerpt": "",
+      "recap_neutral": "В ОАЭ сообщили, что средства ПВО сбивают иранские ракеты и беспилотники",
+      "main_idea": "В ОАЭ сообщили, что средства ПВО сбивают иранские ракеты и беспилотники",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 07:58:38 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26771327",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Казани сняли ограничения",
+      "title_neutral": "В аэропорту Казани сняли ограничения",
+      "excerpt": "",
+      "recap_neutral": "В аэропорту Казани сняли ограничения",
+      "main_idea": "В аэропорту Казани сняли ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 07:57:21 +0300",
+      "url": "https://tass.ru/ekonomika/26771323",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Синнер считает, что Даниил Медведев вернулся на свой прежний уровень",
+      "title_neutral": "Синнер считает, что Даниил Медведев вернулся на свой прежний уровень",
+      "excerpt": "Российский теннисист уступил итальянцу в финале турнира серии \"Мастерс\" в Индиан-Уэллсе",
+      "recap_neutral": "Российский теннисист уступил итальянцу в финале турнира серии \"Мастерс\" в Индиан-Уэллсе",
+      "main_idea": "Синнер считает, что Даниил Медведев вернулся на свой прежний уровень",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 07:56:51 +0300",
+      "url": "https://tass.ru/sport/26771321",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве задержали двух парней, обслуживавших работу кол-центра для мошенников",
+      "title_neutral": "В Москве задержали двух парней, обслуживавших работу кол-центра для мошенников",
+      "excerpt": "Они следили за работой GSM-шлюзов и вовремя меняли сотни сим-карт, чтобы у аферистов была бесперебойная связь с жертвами",
+      "recap_neutral": "Они следили за работой GSM-шлюзов и вовремя меняли сотни сим-карт, чтобы у аферистов была бесперебойная связь с жертвами",
+      "main_idea": "В Москве задержали двух парней, обслуживавших работу кол-центра для мошенников",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 07:54:28 +0300",
+      "url": "https://tass.ru/proisshestviya/26771293",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Чувашии отменили опасность атаки БПЛА",
+      "title_neutral": "В Чувашии отменили опасность атаки БПЛА",
+      "excerpt": "",
+      "recap_neutral": "В Чувашии отменили опасность атаки БПЛА",
+      "main_idea": "В Чувашии отменили опасность атаки БПЛА",
       "tags": [
         "conflict",
         "tech"
       ],
-      "source": "NPR",
-      "published_at": "Sat, 14 Mar 2026 11:35:42 -0400",
-      "url": "https://www.npr.org/2026/03/14/nx-s1-5747959/russian-strike-kyiv-region",
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 07:54:21 +0300",
+      "url": "https://tass.ru/proisshestviya/26771311",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В СевГУ определили главные особенности при реинтеграции исторических регионов РФ",
+      "title_neutral": "В СевГУ определили главные особенности при реинтеграции исторических регионов РФ",
+      "excerpt": "",
+      "recap_neutral": "В СевГУ определили главные особенности при реинтеграции исторических регионов РФ",
+      "main_idea": "В СевГУ определили главные особенности при реинтеграции исторических регионов РФ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 07:52:54 +0300",
+      "url": "https://tass.ru/obschestvo/26771263",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Ульяновской области отменили беспилотную опасность",
+      "title_neutral": "В Ульяновской области отменили беспилотную опасность",
+      "excerpt": "",
+      "recap_neutral": "В Ульяновской области отменили беспилотную опасность",
+      "main_idea": "В Ульяновской области отменили беспилотную опасность",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 07:51:40 +0300",
+      "url": "https://tass.ru/proisshestviya/26771303",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Агроэкспорт\": Россия в 2026 году возобновила экспорт ячменя в Тунис",
+      "title_neutral": "\"Агроэкспорт\": Россия в 2026 году возобновила экспорт ячменя в Тунис",
+      "excerpt": "",
+      "recap_neutral": "\"Агроэкспорт\": Россия в 2026 году возобновила экспорт ячменя в Тунис",
+      "main_idea": "\"Агроэкспорт\": Россия в 2026 году возобновила экспорт ячменя в Тунис",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 07:49:08 +0300",
+      "url": "https://tass.ru/ekonomika/26771283",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Юта заявила о планах записать камерный альбом со струнным квартетом",
+      "title_neutral": "Юта заявила о планах записать камерный альбом со струнным квартетом",
+      "excerpt": "Певица отметила, что ей интересно попробовать новое звучание в своем творчестве",
+      "recap_neutral": "Певица отметила, что ей интересно попробовать новое звучание в своем творчестве",
+      "main_idea": "Юта заявила о планах записать камерный альбом со струнным квартетом",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 07:43:31 +0300",
+      "url": "https://tass.ru/kultura/26771237",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Самарской области отменили угрозу подлета БПЛА",
+      "title_neutral": "В Самарской области отменили угрозу подлета БПЛА",
+      "excerpt": "Об этом сообщил губернатор региона Вячеслав Федорищев",
+      "recap_neutral": "Об этом сообщил губернатор региона Вячеслав Федорищев",
+      "main_idea": "В Самарской области отменили угрозу подлета БПЛА",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 07:42:09 +0300",
+      "url": "https://tass.ru/proisshestviya/26771267",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Запорожье обесточены более 7,5 тыс. абонентов",
+      "title_neutral": "В Запорожье обесточены более 7,5 тыс. абонентов",
+      "excerpt": "В подконтрольном Киеву городе также возник пожар",
+      "recap_neutral": "В подконтрольном Киеву городе также возник пожар",
+      "main_idea": "В Запорожье обесточены более 7,5 тыс. абонентов",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 07:41:15 +0300",
+      "url": "https://tass.ru/proisshestviya/26771255",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На ферме в Новосибирской области при пожаре погибли 104 теленка",
+      "title_neutral": "На ферме в Новосибирской области при пожаре погибли 104 теленка",
+      "excerpt": "Площадь возгорания составила 1,6 тыс. кв. м",
+      "recap_neutral": "Площадь возгорания составила 1,6 тыс",
+      "main_idea": "На ферме в Новосибирской области при пожаре погибли 104 теленка",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 16 Mar 2026 07:40:41 +0300",
+      "url": "https://tass.ru/proisshestviya/26771227",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "This is what happened on March 15.",
+      "title_neutral": "This is what happened on March 15.",
+      "excerpt": "",
+      "recap_neutral": "This is what happened on March 15.",
+      "main_idea": "This is what happened on March 15.",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Mon, 16 Mar 2026 04:51:55 +0000",
+      "url": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/this-is-what-happened-on-march-15",
       "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Токаев отметил рекордно высокую явку на конституционном референдуме",
-      "title_neutral": "Токаев отметил рекордно высокую явку на конституционном референдуме",
-      "excerpt": "По словам президента Казахстана, большинство граждан выбрали \"светлый путь прогресса, справедливости, закона, порядка, природолюбия и чистоты\"",
-      "recap_neutral": "По словам президента Казахстана, большинство граждан выбрали \"светлый путь прогресса, справедливости, закона, порядка, природолюбия и чистоты\"",
-      "main_idea": "Токаев отметил рекордно высокую явку на конституционном референдуме",
+      "title_original": "Iran War Live Updates: Trump Pressures NATO Allies and China for Warships to Guard Oil Shipments",
+      "title_neutral": "Iran War Live Updates: Trump Pressures NATO Allies and China for Warships to Guard Oil Shipments",
+      "excerpt": "Iran has largely closed the Strait of Hormuz to America and its allies, but the president’s earlier call for more naval reinforcements has gained little traction. The U.S. energy secretary, Chris Wright, acknowledged energy prices could remain high.",
+      "recap_neutral": "Iran has largely closed the Strait of Hormuz to America and its allies, but the president’s earlier call for more naval reinforcements has gained little traction",
+      "main_idea": "Iran War Live Updates: Trump Pressures NATO Allies and China for Warships to Guard Oil Shipments",
       "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 04:55:11 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26770393",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Кинокритик Сычев объяснил, почему Бронзит не получил \"Оскар\"",
-      "title_neutral": "Кинокритик Сычев объяснил, почему Бронзит не получил \"Оскар\"",
-      "excerpt": "Мультфильм \"Три сестры\" российского режиссера мог показаться академикам слишком камерным",
-      "recap_neutral": "Мультфильм \"Три сестры\" российского режиссера мог показаться академикам слишком камерным",
-      "main_idea": "Кинокритик Сычев объяснил, почему Бронзит не получил \"Оскар\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 04:50:37 +0300",
-      "url": "https://tass.ru/kultura/26770369",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Украине отменили рейсы шести поездов из-за повреждений ж/д инфраструктуры",
-      "title_neutral": "На Украине отменили рейсы шести поездов из-за повреждений ж/д инфраструктуры",
-      "excerpt": "Движение на некоторых участках приостановили на несколько суток, сообщили в компании \"Укрзализныця\"",
-      "recap_neutral": "Движение на некоторых участках приостановили на несколько суток, сообщили в компании \"Укрзализныця\"",
-      "main_idea": "На Украине отменили рейсы шести поездов из-за повреждений ж/д инфраструктуры",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 04:46:51 +0300",
-      "url": "https://tass.ru/proisshestviya/26770379",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В ОАЭ сообщили о локализации огня на резервуаре топлива в районе аэропорта Дубая",
-      "title_neutral": "В ОАЭ сообщили о локализации огня на резервуаре топлива в районе аэропорта Дубая",
-      "excerpt": "Пострадавших нет, рассказали в пресс-службе правительства",
-      "recap_neutral": "Пострадавших нет, рассказали в пресс-службе правительства",
-      "main_idea": "В ОАЭ сообщили о локализации огня на резервуаре топлива в районе аэропорта Дубая",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 04:38:41 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26770339",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Токаев: выборы в новый парламент Казахстана пройдут летом",
-      "title_neutral": "Токаев: выборы в новый парламент Казахстана пройдут летом",
-      "excerpt": "По словам президента республики, высший законодательный орган должен стать молодежным",
-      "recap_neutral": "По словам президента республики, высший законодательный орган должен стать молодежным",
-      "main_idea": "Токаев: выборы в новый парламент Казахстана пройдут летом",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 04:38:38 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26770333",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Костромской области объявили беспилотную опасность",
-      "title_neutral": "В Костромской области объявили беспилотную опасность",
-      "excerpt": "Об этом сообщил глава региона Сергей Ситников",
-      "recap_neutral": "Об этом сообщил глава региона Сергей Ситников",
-      "main_idea": "В Костромской области объявили беспилотную опасность",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 04:37:22 +0300",
-      "url": "https://tass.ru/proisshestviya/26770353",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Севастополе сбили две воздушных цели",
-      "title_neutral": "В Севастополе сбили две воздушных цели",
-      "excerpt": "Пострадавших и разрушений нет, сообщил губернатор города Михаил Развожаев",
-      "recap_neutral": "Пострадавших и разрушений нет, сообщил губернатор города Михаил Развожаев",
-      "main_idea": "В Севастополе сбили две воздушных цели",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 04:37:07 +0300",
-      "url": "https://tass.ru/proisshestviya/26770357",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Власти Дубая приостановили работу аэропорта из-за инцидента с БПЛА",
-      "title_neutral": "Власти Дубая приостановили работу аэропорта из-за инцидента с БПЛА",
-      "excerpt": "",
-      "recap_neutral": "Власти Дубая приостановили работу аэропорта из-за инцидента с БПЛА",
-      "main_idea": "Власти Дубая приостановили работу аэропорта из-за инцидента с БПЛА",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 04:34:33 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26770347",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Трамп допустил, что США не следует заниматься Ормузским проливом",
-      "title_neutral": "Трамп допустил, что США не следует заниматься Ормузским проливом",
-      "excerpt": "Американский лидер отметил, что у Соединенных Штатов \"полно нефти\"",
-      "recap_neutral": "Американский лидер отметил, что у Соединенных Штатов \"полно нефти\"",
-      "main_idea": "Трамп допустил, что США не следует заниматься Ормузским проливом",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 04:30:23 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26770317",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Дмитриев предположил, что стоимость нефти скоро превысит $150 за баррель",
-      "title_neutral": "Дмитриев предположил, что стоимость нефти скоро превысит $150 за баррель",
-      "excerpt": "Это может произойти на фоне перебоев с поставкой сырья из-за конфликта на Ближнем Востоке, отметил глава РФПИ",
-      "recap_neutral": "Это может произойти на фоне перебоев с поставкой сырья из-за конфликта на Ближнем Востоке, отметил глава РФПИ",
-      "main_idea": "Дмитриев предположил, что стоимость нефти скоро превысит $150 за баррель",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 04:24:52 +0300",
-      "url": "https://tass.ru/ekonomika/26770305",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Лиге арабских государств рассматривают идею создания общих вооруженных сил",
-      "title_neutral": "В Лиге арабских государств рассматривают идею создания общих вооруженных сил",
-      "excerpt": "Вопрос готовы вынести на обсуждение на следующем заседании организации, заявил заместитель генерального секретаря ЛАГ Хусам Заки",
-      "recap_neutral": "Вопрос готовы вынести на обсуждение на следующем заседании организации, заявил заместитель генерального секретаря ЛАГ Хусам Заки",
-      "main_idea": "В Лиге арабских государств рассматривают идею создания общих вооруженных сил",
-      "tags": [
+        "politics",
         "conflict",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 04:21:25 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26770291",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Mon, 16 Mar 2026 04:26:59 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/15/world/iran-war-trump-oil-israel",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "12-й канал: удар Ирана по центральному региону Израиля не привел к жертвам",
-      "title_neutral": "12-й канал: удар Ирана по центральному региону Израиля не привел к жертвам",
-      "excerpt": "Атака произошла в 02:30 мск",
-      "recap_neutral": "Атака произошла в 02:30 мск",
-      "main_idea": "12-й канал: удар Ирана по центральному региону Израиля не привел к жертвам",
+      "title_original": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
+      "title_neutral": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
+      "excerpt": "Six members of a Palestinian family went out for a ride in the car. Only two made it back home.",
+      "recap_neutral": "Six members of a Palestinian family went out for a ride in the car",
+      "main_idea": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
       "tags": [
-        "conflict"
+        "economy"
       ],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 04:21:03 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26770299",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Корабли Австралии не будут помогать безопасности судоходства на Ближнем Востоке",
-      "title_neutral": "Корабли Австралии не будут помогать безопасности судоходства на Ближнем Востоке",
-      "excerpt": "Министр инфраструктуры и транспорта Кэтрин Кинг уточнила, что в ОАЭ направят военный самолет для оказания помощи в обороне",
-      "recap_neutral": "Министр инфраструктуры и транспорта Кэтрин Кинг уточнила, что в ОАЭ направят военный самолет для оказания помощи в обороне",
-      "main_idea": "Корабли Австралии не будут помогать безопасности судоходства на Ближнем Востоке",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 04:17:56 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26770279",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Фильм \"Грешники\" получил \"Оскар\" за лучший оригинальный сценарий",
-      "title_neutral": "Фильм \"Грешники\" получил \"Оскар\" за лучший оригинальный сценарий",
-      "excerpt": "За победу в номинации также боролись картины \"Сентиментальная ценность\", \"Марти Великолепный\", \"Голубая луна\" и \"Простая случайность\"",
-      "recap_neutral": "За победу в номинации также боролись картины \"Сентиментальная ценность\", \"Марти Великолепный\", \"Голубая луна\" и \"Простая случайность\"",
-      "main_idea": "Фильм \"Грешники\" получил \"Оскар\" за лучший оригинальный сценарий",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 04:14:12 +0300",
-      "url": "https://tass.ru/kultura/26770249",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Пушилин: ВС РФ создают условия для взятия Красного Лимана",
-      "title_neutral": "Пушилин: ВС РФ создают условия для взятия Красного Лимана",
-      "excerpt": "",
-      "recap_neutral": "Пушилин: ВС РФ создают условия для взятия Красного Лимана",
-      "main_idea": "Пушилин: ВС РФ создают условия для взятия Красного Лимана",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 16 Mar 2026 04:12:00 +0300",
-      "url": "https://tass.ru/armiya-i-opk/26770257",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Mon, 16 Mar 2026 04:26:57 +0000",
+      "url": "https://www.nytimes.com/2026/03/15/world/middleeast/palestinian-family-killed-west-bank.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1391,63 +1407,26 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran War Live Updates: Trump Pressures NATO Allies and China for Warships to Guard Oil Shipments",
-      "title_neutral": "Iran War Live Updates: Trump Pressures NATO Allies and China for Warships to Guard Oil Shipments",
-      "excerpt": "Iran has largely closed the Strait of Hormuz to America and its allies, but the president’s earlier call for more naval reinforcements has gained little traction. The U.S. energy secretary, Chris Wright, acknowledged energy prices could remain high.",
-      "recap_neutral": "Iran has largely closed the Strait of Hormuz to America and its allies, but the president’s earlier call for more naval reinforcements has gained little traction",
-      "main_idea": "Iran War Live Updates: Trump Pressures NATO Allies and China for Warships to Guard Oil Shipments",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 16 Mar 2026 01:32:24 +0000",
-      "url": "https://www.nytimes.com/live/2026/03/15/world/iran-war-trump-oil-israel",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"How I write software with LLMs\"",
-      "title_neutral": "\"How I write software with LLMs\"",
+      "title_original": "Federal Right to Privacy Act – Draft legislation",
+      "title_neutral": "Federal Right to Privacy Act – Draft legislation",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "\"How I write software with LLMs\"",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Mon, 16 Mar 2026 01:24:09 +0000",
-      "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "I built an ephemeral P2P chat with WebRTC, without servers",
-      "title_neutral": "I built an ephemeral P2P chat with WebRTC, without servers",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "I built an ephemeral P2P chat with WebRTC, without servers",
+      "main_idea": "Federal Right to Privacy Act – Draft legislation",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Mon, 16 Mar 2026 01:11:52 +0000",
-      "url": "https://ephemchat.vercel.app/",
+      "published_at": "Mon, 16 Mar 2026 01:58:56 +0000",
+      "url": "https://righttoprivacyact.github.io",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "What Is Agentic Engineering?",
-      "title_neutral": "What Is Agentic Engineering?",
+      "title_original": "What is agentic engineering?",
+      "title_neutral": "What is agentic engineering?",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "What Is Agentic Engineering?",
+      "main_idea": "What is agentic engineering?",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Mon, 16 Mar 2026 01:07:47 +0000",
@@ -1455,6 +1434,23 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "5 takeaways from an Oscars night that spread the love",
+      "title_neutral": "5 takeaways from an Oscars night that spread the love",
+      "excerpt": "It's thrilling to see the Academy recognize a weird, funny, scary performance like Amy Madigan's in Weapons . Here's what NPR critic Linda Holmes thought of the awards.",
+      "recap_neutral": "It's thrilling to see the Academy recognize a weird, funny, scary performance like Amy Madigan's in Weapons",
+      "main_idea": "5 takeaways from an Oscars night that spread the love",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 16 Mar 2026 00:34:40 -0400",
+      "url": "https://www.npr.org/2026/03/16/nx-s1-5739288/oscars-2026-takeaways-winners-best-picture-actor",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1489,23 +1485,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
-      "title_neutral": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Mon, 16 Mar 2026 00:22:48 +0000",
-      "url": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
