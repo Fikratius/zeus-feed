@@ -1,245 +1,309 @@
 {
-  "last_updated": "2026-03-17T06:59:05.151405+00:00",
+  "last_updated": "2026-03-17T07:57:19.216745+00:00",
   "items": [
     {
-      "title_original": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "title_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "title_original": "В Петербурге вынесли приговор мужчине за продажу техники для военной авиации",
+      "title_neutral": "В Петербурге вынесли приговор мужчине за продажу техники для военной авиации",
+      "excerpt": "Александра Цветкова приговорили к пяти годам лишения свободы условно и штрафу в размере 300 тыс. рублей",
+      "recap_neutral": "Александра Цветкова приговорили к пяти годам лишения свободы условно и штрафу в размере 300 тыс",
+      "main_idea": "В Петербурге вынесли приговор мужчине за продажу техники для военной авиации",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 17 Mar 2026 10:55:25 +0300",
+      "url": "https://tass.ru/proisshestviya/26786581",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Euractiv: Meta может столкнуться с ежедневными штрафами из-за нарушений норм ЕС",
+      "title_neutral": "Euractiv: Meta может столкнуться с ежедневными штрафами из-за нарушений норм ЕС",
+      "excerpt": "Портал отмечает, что модель рекламы компании \"плати или соглашайся\" по-прежнему не соответствует европейским законам",
+      "recap_neutral": "Портал отмечает, что модель рекламы компании \"плати или соглашайся\" по-прежнему не соответствует европейским законам",
+      "main_idea": "Euractiv: Meta может столкнуться с ежедневными штрафами из-за нарушений норм ЕС",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 17 Mar 2026 10:54:06 +0300",
+      "url": "https://tass.ru/ekonomika/26786995",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Анапе объявили угрозу атаки БПЛА",
+      "title_neutral": "В Анапе объявили угрозу атаки БПЛА",
+      "excerpt": "Об этом сообщили в мэрии курорта",
+      "recap_neutral": "Об этом сообщили в мэрии курорта",
+      "main_idea": "В Анапе объявили угрозу атаки БПЛА",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 17 Mar 2026 10:53:52 +0300",
+      "url": "https://tass.ru/proisshestviya/26786851",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В СФ внимательно следят за эпизоотической ситуацией в Сибири",
+      "title_neutral": "В СФ внимательно следят за эпизоотической ситуацией в Сибири",
+      "excerpt": "Председатель комитета Совета Федерации по аграрно-продовольственной политике и природопользованию Александр Двойных заявил, что в регионах принимаются все необходимые меры для купирования тех проблем и рисков, которые существуют",
+      "recap_neutral": "Председатель комитета Совета Федерации по аграрно-продовольственной политике и природопользованию Александр Двойных заявил, что в регионах принимаются все необходимые меры для купирования тех проблем и рисков, которые с…",
+      "main_idea": "В СФ внимательно следят за эпизоотической ситуацией в Сибири",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 17 Mar 2026 10:53:31 +0300",
+      "url": "https://tass.ru/obschestvo/26786987",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Reuters: разведка США предостерегала о риске ударов Ирана по арабским странам",
+      "title_neutral": "Reuters: разведка США предостерегала о риске ударов Ирана по арабским странам",
+      "excerpt": "Белый дом, видимо, проигнорировал эти сведения, пишет агентство",
+      "recap_neutral": "Белый дом, видимо, проигнорировал эти сведения, пишет агентство",
+      "main_idea": "Reuters: разведка США предостерегала о риске ударов Ирана по арабским странам",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 17 Mar 2026 10:52:09 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26786969",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Костромской области отменили беспилотную опасность",
+      "title_neutral": "В Костромской области отменили беспилотную опасность",
+      "excerpt": "Жителей попросили оставаться бдительными и сообщать о любых подозрительных объектах",
+      "recap_neutral": "Жителей попросили оставаться бдительными и сообщать о любых подозрительных объектах",
+      "main_idea": "В Костромской области отменили беспилотную опасность",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 17 Mar 2026 10:52:00 +0300",
+      "url": "https://tass.ru/proisshestviya/26786789",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "RTL: Саркози не обжалует отказ в объединении приговоров и отбудет тюремный срок",
+      "title_neutral": "RTL: Саркози не обжалует отказ в объединении приговоров и отбудет тюремный срок",
+      "excerpt": "По информации радиостанции, речь идет о шести месяцах реального лишения свободы",
+      "recap_neutral": "По информации радиостанции, речь идет о шести месяцах реального лишения свободы",
+      "main_idea": "RTL: Саркози не обжалует отказ в объединении приговоров и отбудет тюремный срок",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 17 Mar 2026 10:49:08 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26786897",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Иране заявили об отсутствии перебоев в экспорте нефти после удара США по Харку",
+      "title_neutral": "В Иране заявили об отсутствии перебоев в экспорте нефти после удара США по Харку",
       "excerpt": "",
-      "recap_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "main_idea": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "recap_neutral": "В Иране заявили об отсутствии перебоев в экспорте нефти после удара США по Харку",
+      "main_idea": "В Иране заявили об отсутствии перебоев в экспорте нефти после удара США по Харку",
       "tags": [
+        "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:18:01 +0300",
-      "url": "https://tass.ru/politika/24134697",
+      "published_at": "Tue, 17 Mar 2026 10:48:55 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26786911",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "title_neutral": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "excerpt": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
-      "recap_neutral": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
-      "main_idea": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:17:03 +0300",
-      "url": "https://tass.ru/ekonomika/24134627",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "title_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "title_original": "Иран пригрозил \"унизить\" всех, кто попытается захватить остров Харк",
+      "title_neutral": "Иран пригрозил \"унизить\" всех, кто попытается захватить остров Харк",
       "excerpt": "",
-      "recap_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "main_idea": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "recap_neutral": "Иран пригрозил \"унизить\" всех, кто попытается захватить остров Харк",
+      "main_idea": "Иран пригрозил \"унизить\" всех, кто попытается захватить остров Харк",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:15:43 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134665",
+      "published_at": "Tue, 17 Mar 2026 10:48:54 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26786933",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "title_neutral": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "excerpt": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
-      "recap_neutral": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
-      "main_idea": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "tags": [
-        "climate"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:12:58 +0300",
-      "url": "https://tass.ru/obschestvo/24134601",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "title_neutral": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "excerpt": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
-      "recap_neutral": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
-      "main_idea": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:11:16 +0300",
-      "url": "https://tass.ru/obschestvo/24134589",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "title_neutral": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "excerpt": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
-      "recap_neutral": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
-      "main_idea": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:34 +0300",
-      "url": "https://tass.ru/obschestvo/24132977",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "title_neutral": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "excerpt": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
-      "recap_neutral": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
-      "main_idea": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:31 +0300",
-      "url": "https://tass.ru/nauka/24134535",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "title_neutral": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "excerpt": "Материалы дела поступили в мировой судебный участок 184",
-      "recap_neutral": "Материалы дела поступили в мировой судебный участок 184",
-      "main_idea": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:03 +0300",
-      "url": "https://tass.ru/proisshestviya/24134595",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "title_neutral": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "excerpt": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
-      "recap_neutral": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
-      "main_idea": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:08:48 +0300",
-      "url": "https://tass.ru/obschestvo/24134521",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "title_neutral": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "excerpt": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
-      "recap_neutral": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
-      "main_idea": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:08:39 +0300",
-      "url": "https://tass.ru/nedvizhimost/24134431",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "title_neutral": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "excerpt": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
-      "recap_neutral": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
-      "main_idea": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:06:43 +0300",
-      "url": "https://tass.ru/obschestvo/24133033",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "title_neutral": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "excerpt": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
-      "recap_neutral": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
-      "main_idea": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:04:29 +0300",
-      "url": "https://tass.ru/obschestvo/24133525",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "title_neutral": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "excerpt": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
-      "recap_neutral": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
-      "main_idea": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:03:57 +0300",
-      "url": "https://tass.ru/obschestvo/24134485",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "США пока не решили, продолжать или нет помощь Украине",
-      "title_neutral": "США пока не решили, продолжать или нет помощь Украине",
+      "title_original": "Раненные в Крыму полицейские должны были изъять оружие из незаконного оборота",
+      "title_neutral": "Раненные в Крыму полицейские должны были изъять оружие из незаконного оборота",
       "excerpt": "",
-      "recap_neutral": "США пока не решили, продолжать или нет помощь Украине",
-      "main_idea": "США пока не решили, продолжать или нет помощь Украине",
+      "recap_neutral": "Раненные в Крыму полицейские должны были изъять оружие из незаконного оборота",
+      "main_idea": "Раненные в Крыму полицейские должны были изъять оружие из незаконного оборота",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:03:52 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134491",
+      "published_at": "Tue, 17 Mar 2026 10:48:31 +0300",
+      "url": "https://tass.ru/proisshestviya/26786925",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "title_neutral": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "excerpt": "Предварительно, пострадавших нет",
-      "recap_neutral": "Предварительно, пострадавших нет",
-      "main_idea": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "tags": [],
+      "title_original": "Китай призвал ЕС отменить санкции против китайских компаний",
+      "title_neutral": "Китай призвал ЕС отменить санкции против китайских компаний",
+      "excerpt": "Официальный представитель МИД КНР Линь Цзянь подчеркнул, что Брюссель должен совместно с Пекином поддерживать мир и стабильность в киберпространстве",
+      "recap_neutral": "Официальный представитель МИД КНР Линь Цзянь подчеркнул, что Брюссель должен совместно с Пекином поддерживать мир и стабильность в киберпространстве",
+      "main_idea": "Китай призвал ЕС отменить санкции против китайских компаний",
+      "tags": [
+        "tech"
+      ],
       "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:02:07 +0300",
-      "url": "https://tass.ru/proisshestviya/24133329",
+      "published_at": "Tue, 17 Mar 2026 10:47:34 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26786881",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Чемпиону Игр Бугаеву приятно, что Путин следит за выступлениями паралимпийцев",
+      "title_neutral": "Чемпиону Игр Бугаеву приятно, что Путин следит за выступлениями паралимпийцев",
+      "excerpt": "Ранее глава государства направил поздравительную телеграмму спортсмену после его победы в слаломе на Играх в Италии",
+      "recap_neutral": "Ранее глава государства направил поздравительную телеграмму спортсмену после его победы в слаломе на Играх в Италии",
+      "main_idea": "Чемпиону Игр Бугаеву приятно, что Путин следит за выступлениями паралимпийцев",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 17 Mar 2026 10:46:53 +0300",
+      "url": "https://tass.ru/sport/26786741",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Эксперт Шпаковский рассказал, почему Трамп мог перенести визит в КНР",
+      "title_neutral": "Эксперт Шпаковский рассказал, почему Трамп мог перенести визит в КНР",
+      "excerpt": "Причиной может быть отсутствие сильной позиции у США на переговорах, считает член постоянной комиссии по международным делам Палаты представителей Национального собрания Белоруссии",
+      "recap_neutral": "Причиной может быть отсутствие сильной позиции у США на переговорах, считает член постоянной комиссии по международным делам Палаты представителей Национального собрания Белоруссии",
+      "main_idea": "Эксперт Шпаковский рассказал, почему Трамп мог перенести визит в КНР",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 17 Mar 2026 10:45:59 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26786815",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Запорожской области из-за атаки ВСУ пострадал водитель скорой помощи",
+      "title_neutral": "В Запорожской области из-за атаки ВСУ пострадал водитель скорой помощи",
+      "excerpt": "",
+      "recap_neutral": "В Запорожской области из-за атаки ВСУ пострадал водитель скорой помощи",
+      "main_idea": "В Запорожской области из-за атаки ВСУ пострадал водитель скорой помощи",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 17 Mar 2026 10:45:58 +0300",
+      "url": "https://tass.ru/proisshestviya/26786873",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Суд Москвы не стал рассматривать просьбу экс-партнера Чубайса об УДО по болезни",
+      "title_neutral": "Суд Москвы не стал рассматривать просьбу экс-партнера Чубайса об УДО по болезни",
+      "excerpt": "Илья Сучков обвинялся в двух эпизодах покушения на мошенничество в особо крупном размере",
+      "recap_neutral": "Илья Сучков обвинялся в двух эпизодах покушения на мошенничество в особо крупном размере",
+      "main_idea": "Суд Москвы не стал рассматривать просьбу экс-партнера Чубайса об УДО по болезни",
+      "tags": [
+        "health"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 17 Mar 2026 10:45:22 +0300",
+      "url": "https://tass.ru/obschestvo/26786793",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump Says He Wants to Delay Visit to China Because of Middle East Conflict",
+      "title_neutral": "Trump Says He Wants to Delay Visit to China Because of Middle East Conflict",
+      "excerpt": "“I think it’s important that I be here,” President Trump said of asking China to reschedule a summit. Earlier, he disparaged allies for failing to embrace his request for help to reopen the Strait of Hormuz.",
+      "recap_neutral": "“I think it’s important that I be here,” President Trump said of asking China to reschedule a summit",
+      "main_idea": "Trump Says He Wants to Delay Visit to China Because of Middle East Conflict",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Tue, 17 Mar 2026 07:29:18 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "In Iraq, the U.S. Tried to Bring Allies on Board. Not in Iran.",
+      "title_neutral": "In Iraq, the U.S. Tried to Bring Allies on Board. Not in Iran.",
+      "excerpt": "This time, President Trump went to war without preparing the public, seeking U.N. approval or even consulting allies. But they will have to pick up the pieces.",
+      "recap_neutral": "This time, President Trump went to war without preparing the public, seeking U",
+      "main_idea": "In Iraq, the U.S. Tried to Bring Allies on Board. Not in Iran.",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Tue, 17 Mar 2026 07:24:36 +0000",
+      "url": "https://www.nytimes.com/2026/03/16/world/europe/iraq-iran-us-allies.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Here’s the latest.",
+      "title_neutral": "Here’s the latest.",
+      "excerpt": "",
+      "recap_neutral": "Here’s the latest.",
+      "main_idea": "Here’s the latest.",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Tue, 17 Mar 2026 07:24:04 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon/heres-the-latest",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -272,43 +336,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "What the Iran War Means for the U.S.-China Relationship",
-      "title_neutral": "What the Iran War Means for the U.S.-China Relationship",
-      "excerpt": "With the Xi-Trump summit almost certainly delayed, and tensions rising over the war in Iran, vital issues for both the U.S. and China are also being cast into uncertainty.",
-      "recap_neutral": "With the Xi-Trump summit almost certainly delayed, and tensions rising over the war in Iran, vital issues for both the U",
-      "main_idea": "What the Iran War Means for the U.S.-China Relationship",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 17 Mar 2026 06:18:44 +0000",
-      "url": "https://www.nytimes.com/2026/03/17/world/asia/iran-war-china-us-trump-xi.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trump Says He Wants to Delay Visit to China Because of Middle East Conflict",
-      "title_neutral": "Trump Says He Wants to Delay Visit to China Because of Middle East Conflict",
-      "excerpt": "“I think it’s important that I be here,” President Trump said of asking China to reschedule a summit. Earlier, he disparaged allies for failing to embrace his request for help to reopen the Strait of Hormuz.",
-      "recap_neutral": "“I think it’s important that I be here,” President Trump said of asking China to reschedule a summit",
-      "main_idea": "Trump Says He Wants to Delay Visit to China Because of Middle East Conflict",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 17 Mar 2026 06:16:45 +0000",
-      "url": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -402,6 +429,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Last protester in detention after Trump's campus crackdown has been released",
+      "title_neutral": "Last protester in detention after Trump's campus crackdown has been released",
+      "excerpt": "Leqaa Kordia, a 33-year-old from the West Bank who has lived in New Jersey since 2016, had been held in a U.S. immigration detention center in Texas since last March.",
+      "recap_neutral": "Leqaa Kordia, a 33-year-old from the West Bank who has lived in New Jersey since 2016, had been held in a U",
+      "main_idea": "Last protester in detention after Trump's campus crackdown has been released",
+      "tags": [
+        "economy"
+      ],
+      "source": "NPR",
+      "published_at": "Tue, 17 Mar 2026 02:56:39 -0400",
+      "url": "https://www.npr.org/2026/03/17/g-s1-114023/last-protester-campus-crackdown-released",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Utah bereavement author found guilty of fatally poisoning her husband",
       "title_neutral": "Utah bereavement author found guilty of fatally poisoning her husband",
       "excerpt": "A jury found that Kouri Richins killed her husband in March 2022 by poisoning him with a fentanyl-laced drink.",
@@ -432,24 +476,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "In Iraq, the U.S. Tried to Bring Allies on Board. Not in Iran.",
-      "title_neutral": "In Iraq, the U.S. Tried to Bring Allies on Board. Not in Iran.",
-      "excerpt": "This time, President Trump went to war without preparing the public, seeking U.N. approval or even consulting allies. But they will have to pick up the pieces.",
-      "recap_neutral": "This time, President Trump went to war without preparing the public, seeking U",
-      "main_idea": "In Iraq, the U.S. Tried to Bring Allies on Board. Not in Iran.",
-      "tags": [
-        "politics",
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 17 Mar 2026 00:51:10 +0000",
-      "url": "https://www.nytimes.com/2026/03/16/world/europe/iraq-iran-us-allies.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1398,21 +1424,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Why I love FreeBSD",
-      "title_neutral": "Why I love FreeBSD",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Why I love FreeBSD",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 16 Mar 2026 11:23:14 +0000",
-      "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
       "title_neutral": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
       "excerpt": "Six members of a Palestinian family went out for a ride in the car. Only two made it back home.",
@@ -1442,23 +1453,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Senate prepares to vote on Trump's SAVE Act. And, takeaways from last night's Oscars",
-      "title_neutral": "Senate prepares to vote on Trump's SAVE Act. And, takeaways from last night's Oscars",
-      "excerpt": "Senate Republicans are gearing up to vote on President Trump's controversial voting overhaul, the SAVE America Act. And, key takeaways from the 2026 Oscars.",
-      "recap_neutral": "Senate Republicans are gearing up to vote on President Trump's controversial voting overhaul, the SAVE America Act",
-      "main_idea": "Senate prepares to vote on Trump's SAVE Act. And, takeaways from last night's Oscars",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Mon, 16 Mar 2026 07:28:21 -0400",
-      "url": "https://www.npr.org/2026/03/16/g-s1-113909/up-first-newsletter-middle-east-war-trump-voting-act-academy-awards",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1577,6 +1571,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "The unlikely story of Teardown Multiplayer",
+      "title_neutral": "The unlikely story of Teardown Multiplayer",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The unlikely story of Teardown Multiplayer",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 13 Mar 2026 16:20:00 +0000",
+      "url": "https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Claude Tips for 3D Work",
       "title_neutral": "Claude Tips for 3D Work",
       "excerpt": "Comments",
@@ -1607,11 +1616,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Sci-Fi Short Film \"There Is No Antimemetics Division\" [video]",
-      "title_neutral": "Sci-Fi Short Film \"There Is No Antimemetics Division\" [video]",
+      "title_original": "Sci-Fi Short Film “There Is No Antimemetics Division” [video]",
+      "title_neutral": "Sci-Fi Short Film “There Is No Antimemetics Division” [video]",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Sci-Fi Short Film \"There Is No Antimemetics Division\" [video]",
+      "main_idea": "Sci-Fi Short Film “There Is No Antimemetics Division” [video]",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Fri, 13 Mar 2026 11:44:27 +0000",
