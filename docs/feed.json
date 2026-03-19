@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T08:37:18.805168+00:00",
+  "last_updated": "2026-03-19T09:38:57.132778+00:00",
   "items": [
     {
       "title_original": "Seoul raises terror alert as it prepares to host BTS comeback concert",
@@ -31,6 +31,23 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Iran war is causing a global energy crisis - can China withstand it?",
+      "title_neutral": "The Iran war is causing a global energy crisis - can China withstand it?",
+      "excerpt": "With oil supply disrupted, Beijing's oil reserves and renewable energy push are being put to the test.",
+      "recap_neutral": "With oil supply disrupted, Beijing's oil reserves and renewable energy push are being put to the test",
+      "main_idea": "The Iran war is causing a global energy crisis - can China withstand it?",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 18 Mar 2026 23:31:03 GMT",
+      "url": "https://www.bbc.com/news/articles/cyv9lzn0816o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -233,59 +250,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "US holds interest rates as Iran war triggers inflation fears",
-      "title_neutral": "US holds interest rates as Iran war triggers inflation fears",
-      "excerpt": "The US central bank is moving cautiously, despite pressure from the president to cut interest rates.",
-      "recap_neutral": "The US central bank is moving cautiously, despite pressure from the president to cut interest rates",
-      "main_idea": "US holds interest rates as Iran war triggers inflation fears",
-      "tags": [
-        "politics",
-        "economy",
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Wed, 18 Mar 2026 20:20:24 GMT",
-      "url": "https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Israel destroys river bridges in southern Lebanon",
-      "title_neutral": "Israel destroys river bridges in southern Lebanon",
-      "excerpt": "The health ministry says that 968 people, including more than 100 children, have been killed since 2 March.",
-      "recap_neutral": "The health ministry says that 968 people, including more than 100 children, have been killed since 2 March",
-      "main_idea": "Israel destroys river bridges in southern Lebanon",
-      "tags": [
-        "health"
-      ],
-      "source": "BBC World",
-      "published_at": "Wed, 18 Mar 2026 19:40:15 GMT",
-      "url": "https://www.bbc.com/news/articles/cvg8g98ezmzo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A Lebanese Cafe on the Edge of Destruction",
-      "title_neutral": "A Lebanese Cafe on the Edge of Destruction",
-      "excerpt": "Near the center of Beirut, one image captures the aftermath of an Israeli strike.",
-      "recap_neutral": "Near the center of Beirut, one image captures the aftermath of an Israeli strike",
-      "main_idea": "A Lebanese Cafe on the Edge of Destruction",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Wed, 18 Mar 2026 19:32:35 +0000",
-      "url": "https://www.nytimes.com/2026/03/18/world/middleeast/lebanon-cafe-israel-strike-image.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region",
       "title_neutral": "For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region",
       "excerpt": "Iran’s military retaliation, along with the political defiance of its new leaders, evokes a decades-old pattern of unrealized goals for American interventions in the region.",
@@ -352,11 +316,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Forty years after the last one was poached, rhinos are back in the wild in Uganda",
-      "title_neutral": "Forty years after the last one was poached, rhinos are back in the wild in Uganda",
-      "excerpt": "The return of southern white rhinos from the country comes after Ugandan poachers once wiped them out.",
-      "recap_neutral": "The return of southern white rhinos from the country comes after Ugandan poachers once wiped them out",
-      "main_idea": "Forty years after the last one was poached, rhinos are back in the wild in Uganda",
+      "title_original": "Rhinos back in the wild in Uganda for the first time in 40 years",
+      "title_neutral": "Rhinos back in the wild in Uganda for the first time in 40 years",
+      "excerpt": "The return of southern white rhinos to the country comes after Ugandan poachers once wiped them out.",
+      "recap_neutral": "The return of southern white rhinos to the country comes after Ugandan poachers once wiped them out",
+      "main_idea": "Rhinos back in the wild in Uganda for the first time in 40 years",
       "tags": [],
       "source": "BBC World",
       "published_at": "Wed, 18 Mar 2026 17:36:05 GMT",
@@ -367,19 +331,17 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran's intelligence minister Esmail Khatib killed in air strike",
-      "title_neutral": "Iran's intelligence minister Esmail Khatib killed in air strike",
-      "excerpt": "Israel said it had killed Khatib, whose death was confirmed by Iranian President Masoud Pezeshkian on Wednesday.",
-      "recap_neutral": "Israel said it had killed Khatib, whose death was confirmed by Iranian President Masoud Pezeshkian on Wednesday",
-      "main_idea": "Iran's intelligence minister Esmail Khatib killed in air strike",
+      "title_original": "Sony removes 135,000 'deepfakes' of its artists' music",
+      "title_neutral": "Sony removes 135,000 'deepfakes' of its artists' music",
+      "excerpt": "The company says the proliferation of AI has enabled people to upload fake songs to streaming sites.",
+      "recap_neutral": "The company says the proliferation of AI has enabled people to upload fake songs to streaming sites",
+      "main_idea": "Sony removes 135,000 'deepfakes' of its artists' music",
       "tags": [
-        "politics",
-        "conflict",
         "tech"
       ],
       "source": "BBC World",
-      "published_at": "Wed, 18 Mar 2026 17:05:46 GMT",
-      "url": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 18 Mar 2026 17:19:41 GMT",
+      "url": "https://www.bbc.com/news/articles/cy57593gxe0o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -416,23 +378,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Russian archaeologist can be sent to Ukraine for trial, Polish judge rules",
-      "title_neutral": "Russian archaeologist can be sent to Ukraine for trial, Polish judge rules",
-      "excerpt": "Archaeologist Alexander Butyagin is accused of conducting illegal excavations in Crimea - Ukraine's peninsula annexed by Russia.",
-      "recap_neutral": "Archaeologist Alexander Butyagin is accused of conducting illegal excavations in Crimea - Ukraine's peninsula annexed by Russia",
-      "main_idea": "Russian archaeologist can be sent to Ukraine for trial, Polish judge rules",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Wed, 18 Mar 2026 16:39:00 GMT",
-      "url": "https://www.bbc.com/news/articles/c86y65j26xno?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -609,38 +554,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Cesar Chavez abused and raped women and girls, NYT investigation says",
-      "title_neutral": "Cesar Chavez abused and raped women and girls, NYT investigation says",
-      "excerpt": "A New York Times investigation has revealed allegations that the late renowned labor leader abused girls and raped Dolores Huerta, his longtime organizing partner.",
-      "recap_neutral": "A New York Times investigation has revealed allegations that the late renowned labor leader abused girls and raped Dolores Huerta, his longtime organizing partner",
-      "main_idea": "Cesar Chavez abused and raped women and girls, NYT investigation says",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Wed, 18 Mar 2026 14:26:37 -0400",
-      "url": "https://www.npr.org/2026/03/18/nx-s1-5752253/cesar-chavez-sexual-assault-dolores-huerta-united-farm-workers",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A mom wrote a kids' book on grief. She was just convicted of her husband's murder",
-      "title_neutral": "A mom wrote a kids' book on grief. She was just convicted of her husband's murder",
-      "excerpt": "A Utah jury convicted Kouri Richins of fatally spiking her husband's drink with fentanyl in 2022. Prosecutors said she was hoping to collect millions of dollars from multiple life insurance policies.",
-      "recap_neutral": "A Utah jury convicted Kouri Richins of fatally spiking her husband's drink with fentanyl in 2022",
-      "main_idea": "A mom wrote a kids' book on grief. She was just convicted of her husband's murder",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Wed, 18 Mar 2026 14:14:28 -0400",
-      "url": "https://www.npr.org/2026/03/18/nx-s1-5751765/kouri-richins-trial-murder-husband-book",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Hybrid Observability Unifies Metrics, Logs, Traces, and Data Into a Single Pane of Glass",
       "title_neutral": "Hybrid Observability Unifies Metrics, Logs, Traces, and Data Into a Single Pane of Glass",
       "excerpt": "Too many tools, too many blind spots. Hybrid observability brings all signals into one view faster fixes, less noise, no lock-in.",
@@ -653,23 +566,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Hittler faces Zielinski as French town's election contest goes viral",
-      "title_neutral": "Hittler faces Zielinski as French town's election contest goes viral",
-      "excerpt": "Charles Hittler, mayor of Arcis-sur-Aube, has always faced jokes about his name but now he faces a rival with another unlikely name.",
-      "recap_neutral": "Charles Hittler, mayor of Arcis-sur-Aube, has always faced jokes about his name but now he faces a rival with another unlikely name",
-      "main_idea": "Hittler faces Zielinski as French town's election contest goes viral",
-      "tags": [
-        "politics"
-      ],
-      "source": "BBC World",
-      "published_at": "Wed, 18 Mar 2026 13:57:26 GMT",
-      "url": "https://www.bbc.com/news/articles/c2d1drzgxzyo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -706,40 +602,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Mamdani put Ramadan at the center of NYC's cultural life, bringing joy -- and a backlash",
-      "title_neutral": "Mamdani put Ramadan at the center of NYC's cultural life, bringing joy -- and a backlash",
-      "excerpt": "NYC Mayor Mamdani observed Ramadan publicly at a time when many politicians and activists on the right are voicing hostility and in some cases open bigotry toward American Muslims.",
-      "recap_neutral": "NYC Mayor Mamdani observed Ramadan publicly at a time when many politicians and activists on the right are voicing hostility and in some cases open bigotry toward American Muslims",
-      "main_idea": "Mamdani put Ramadan at the center of NYC's cultural life, bringing joy -- and a backlash",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NPR",
-      "published_at": "Wed, 18 Mar 2026 12:38:37 -0400",
-      "url": "https://www.npr.org/2026/03/18/nx-s1-5751787/mamdani-put-ramadan-at-the-center-of-nycs-cultural-life-bringing-joy-and-a-backlash",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "FAA tightens safety rules for helicopters and planes around major airports",
-      "title_neutral": "FAA tightens safety rules for helicopters and planes around major airports",
-      "excerpt": "Regulators at the Federal Aviation Administration are tightening safety rules in congested airspace around major airports, suspending the use of visual separation between planes and helicopters.",
-      "recap_neutral": "Regulators at the Federal Aviation Administration are tightening safety rules in congested airspace around major airports, suspending the use of visual separation between planes and helicopters",
-      "main_idea": "FAA tightens safety rules for helicopters and planes around major airports",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Wed, 18 Mar 2026 12:21:06 -0400",
-      "url": "https://www.npr.org/2026/03/18/nx-s1-5752185/faa-airport-safety-rules-helicopters",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Canada wants to build up its long-neglected Arctic. The hard question is how",
       "title_neutral": "Canada wants to build up its long-neglected Arctic. The hard question is how",
       "excerpt": "Ottawa wants to modernize a region in the north that’s about six times the size of Texas, ‘just like in the 1800s’ Picture an Arctic territory, marginalized by its own country, almost entirely lacking roads, ports and power sources, but rich in mining potential and suddenly feeling vulnerable to ou…",
@@ -752,53 +614,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trump temporarily waives the Jones Act to try to lower gasoline prices. Will it work?",
-      "title_neutral": "Trump temporarily waives the Jones Act to try to lower gasoline prices. Will it work?",
-      "excerpt": "The Jones Act restricts which ships can carry goods between U.S. ports. Experts say temporarily lifting the act will do little to affect gas prices.",
-      "recap_neutral": "The Jones Act restricts which ships can carry goods between U",
-      "main_idea": "Trump temporarily waives the Jones Act to try to lower gasoline prices. Will it work?",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Wed, 18 Mar 2026 10:49:07 -0400",
-      "url": "https://www.npr.org/2026/03/18/nx-s1-5751854/gas-prices-trump-jones-act-iran",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Greetings from Nyeri, Kenya, where grandmothers help coach the next generation",
-      "title_neutral": "Greetings from Nyeri, Kenya, where grandmothers help coach the next generation",
-      "excerpt": "A group of grandmothers in central Kenya have formed a soccer team to keep fit and to give hope to a generation of teenagers — whom they sometimes outrun on the field.",
-      "recap_neutral": "A group of grandmothers in central Kenya have formed a soccer team to keep fit and to give hope to a generation of teenagers — whom they sometimes outrun on the field",
-      "main_idea": "Greetings from Nyeri, Kenya, where grandmothers help coach the next generation",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Wed, 18 Mar 2026 10:33:18 -0400",
-      "url": "https://www.npr.org/2026/03/18/g-s1-113817/kenya-grandmothers-mentor-teenagers-soccer",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A mysterious floral artist has taken over the New York Botanical Garden",
-      "title_neutral": "A mysterious floral artist has taken over the New York Botanical Garden",
-      "excerpt": "Mr. Flower Fantastic is a graffiti artist turned floral designer who keeps his identity a secret. His new show is an ode to NYC in orchids. Oh, and did we mention he's allergic to flowers?",
-      "recap_neutral": "Mr",
-      "main_idea": "A mysterious floral artist has taken over the New York Botanical Garden",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Wed, 18 Mar 2026 10:00:00 -0400",
-      "url": "https://www.npr.org/2026/03/18/nx-s1-5745092/mr-flower-fantastic-new-york-garden",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -820,23 +635,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "These roaches form exclusive long-term relationships after eating each other's wings",
-      "title_neutral": "These roaches form exclusive long-term relationships after eating each other's wings",
-      "excerpt": "Salganea taiwanensis , a kind of wood-feeding cockroach, may engage in what's known as pair bonding, a new study finds.",
-      "recap_neutral": "Salganea taiwanensis , a kind of wood-feeding cockroach, may engage in what's known as pair bonding, a new study finds",
-      "main_idea": "These roaches form exclusive long-term relationships after eating each other's wings",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Wed, 18 Mar 2026 09:21:38 -0400",
-      "url": "https://www.npr.org/2026/03/18/nx-s1-5749488/cockroach-pair-bonding-relationships-wing-eating",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Wander – A tiny, decentralised tool to explore the small web",
       "title_neutral": "Wander – A tiny, decentralised tool to explore the small web",
       "excerpt": "Comments",
@@ -849,23 +647,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Fed to meet about interest rates. And, Sen. Mullin faces DHS confirmation hearing",
-      "title_neutral": "The Fed to meet about interest rates. And, Sen. Mullin faces DHS confirmation hearing",
-      "excerpt": "The Federal Reserve is expected to hold the benchmark interest rate steady today amid economic uncertainty. And, Sen. Mullin faces a confirmation hearing to lead the Department of Homeland Security.",
-      "recap_neutral": "The Federal Reserve is expected to hold the benchmark interest rate steady today amid economic uncertainty",
-      "main_idea": "The Fed to meet about interest rates. And, Sen. Mullin faces DHS confirmation hearing",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Wed, 18 Mar 2026 07:27:30 -0400",
-      "url": "https://www.npr.org/2026/03/18/g-s1-114267/up-first-newsletter-iran-israel-war-fed-rate-cuts-markwayne-mullin-kalshi-arizona",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -951,6 +732,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Stdwin: Standard window interface by Guido Van Rossum [pdf]",
+      "title_neutral": "Stdwin: Standard window interface by Guido Van Rossum [pdf]",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Stdwin: Standard window interface by Guido Van Rossum [pdf]",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 17 Mar 2026 14:48:01 +0000",
+      "url": "https://ir.cwi.nl/pub/5998/5998D.pdf",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
       "title_neutral": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
       "excerpt": "More than 100 others injured in bombings targeting post office, market areas and hospital in Maiduguri At least 23 people have been killed and more than 100 others injured in multiple suspected suicide bombings in the north-eastern Nigerian city of Maiduguri, shattering its reputation as a relative…",
@@ -986,240 +782,241 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Зенитчики в ЛНР оснащают установки ЗУ-23 прицелами с расчетом траектории БПЛА",
-      "title_neutral": "Зенитчики в ЛНР оснащают установки ЗУ-23 прицелами с расчетом траектории БПЛА",
-      "excerpt": "Они позволяют обнаруживать беспилотники на высоте до 1 тыс. м",
-      "recap_neutral": "Они позволяют обнаруживать беспилотники на высоте до 1 тыс",
-      "main_idea": "Зенитчики в ЛНР оснащают установки ЗУ-23 прицелами с расчетом траектории БПЛА",
+      "title_original": "Песков назвал чрезвычайно проукраинским решение суда Варшавы об экстрадиции Бутягина",
+      "title_neutral": "Песков назвал чрезвычайно проукраинским решение суда Варшавы об экстрадиции Бутягина",
+      "excerpt": "",
+      "recap_neutral": "Песков назвал чрезвычайно проукраинским решение суда Варшавы об экстрадиции Бутягина",
+      "main_idea": "Песков назвал чрезвычайно проукраинским решение суда Варшавы об экстрадиции Бутягина",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 19 Mar 2026 11:35:38 +0300",
-      "url": "https://tass.ru/armiya-i-opk/26815831",
+      "published_at": "Thu, 19 Mar 2026 12:35:52 +0300",
+      "url": "https://tass.ru/politika/26816969",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "КСИР: Иран за ночь уничтожил два израильских БПЛА и перехватил крылатую ракету",
-      "title_neutral": "КСИР: Иран за ночь уничтожил два израильских БПЛА и перехватил крылатую ракету",
+      "title_original": "Песков: Киев усилил попытки ударов БПЛА по инфраструктуре \"Турецкого\" и \"Голубого\" потоков",
+      "title_neutral": "Песков: Киев усилил попытки ударов БПЛА по инфраструктуре \"Турецкого\" и \"Голубого\" потоков",
       "excerpt": "",
-      "recap_neutral": "КСИР: Иран за ночь уничтожил два израильских БПЛА и перехватил крылатую ракету",
-      "main_idea": "КСИР: Иран за ночь уничтожил два израильских БПЛА и перехватил крылатую ракету",
-      "tags": [],
+      "recap_neutral": "Песков: Киев усилил попытки ударов БПЛА по инфраструктуре \"Турецкого\" и \"Голубого\" потоков",
+      "main_idea": "Песков: Киев усилил попытки ударов БПЛА по инфраструктуре \"Турецкого\" и \"Голубого\" потоков",
+      "tags": [
+        "conflict"
+      ],
       "source": "ТАСС",
-      "published_at": "Thu, 19 Mar 2026 11:35:01 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26815905",
+      "published_at": "Thu, 19 Mar 2026 12:35:51 +0300",
+      "url": "https://tass.ru/politika/26816953",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Файзуллин: износ коммунальных сетей в отдельных регионах РФ доходит до 80%",
-      "title_neutral": "Файзуллин: износ коммунальных сетей в отдельных регионах РФ доходит до 80%",
+      "title_original": "Песков: Путин сегодня наградит в Кремле победителей и призеров Паралимпийских игр",
+      "title_neutral": "Песков: Путин сегодня наградит в Кремле победителей и призеров Паралимпийских игр",
       "excerpt": "",
-      "recap_neutral": "Файзуллин: износ коммунальных сетей в отдельных регионах РФ доходит до 80%",
-      "main_idea": "Файзуллин: износ коммунальных сетей в отдельных регионах РФ доходит до 80%",
+      "recap_neutral": "Песков: Путин сегодня наградит в Кремле победителей и призеров Паралимпийских игр",
+      "main_idea": "Песков: Путин сегодня наградит в Кремле победителей и призеров Паралимпийских игр",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Thu, 19 Mar 2026 11:33:52 +0300",
-      "url": "https://tass.ru/obschestvo/26815875",
+      "published_at": "Thu, 19 Mar 2026 12:35:47 +0300",
+      "url": "https://tass.ru/sport/26816963",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Командир Туран: зенитчики в ЛНР прикрывают артиллерию, уничтожая дроны ВСУ",
-      "title_neutral": "Командир Туран: зенитчики в ЛНР прикрывают артиллерию, уничтожая дроны ВСУ",
-      "excerpt": "Боец отметил, что после уничтожения украинского разведывательного беспилотника расчет не может оставаться на прежней позиции",
-      "recap_neutral": "Боец отметил, что после уничтожения украинского разведывательного беспилотника расчет не может оставаться на прежней позиции",
-      "main_idea": "Командир Туран: зенитчики в ЛНР прикрывают артиллерию, уничтожая дроны ВСУ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 19 Mar 2026 11:33:38 +0300",
-      "url": "https://tass.ru/armiya-i-opk/26815663",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Трутнев: до 2027 года все инструкторы центра \"Воин\" примут участие в СВО",
-      "title_neutral": "Трутнев: до 2027 года все инструкторы центра \"Воин\" примут участие в СВО",
-      "excerpt": "Филиалы центра работают в 21 субъекте РФ, отметил зампредседателя правительства - полномочный представитель президента в Дальневосточном федеральном округе",
-      "recap_neutral": "Филиалы центра работают в 21 субъекте РФ, отметил зампредседателя правительства - полномочный представитель президента в Дальневосточном федеральном округе",
-      "main_idea": "Трутнев: до 2027 года все инструкторы центра \"Воин\" примут участие в СВО",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 19 Mar 2026 11:32:20 +0300",
-      "url": "https://tass.ru/obschestvo/26815857",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Трамп ожидает участия Токаева в саммите G20 и заседаниях Совета мира",
-      "title_neutral": "Трамп ожидает участия Токаева в саммите G20 и заседаниях Совета мира",
-      "excerpt": "Президент США \"с признательностью отозвался\" о встрече с президентом Казахстана в рамках инаугурационного заседания Совета мира",
-      "recap_neutral": "Президент США \"с признательностью отозвался\" о встрече с президентом Казахстана в рамках инаугурационного заседания Совета мира",
-      "main_idea": "Трамп ожидает участия Токаева в саммите G20 и заседаниях Совета мира",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 19 Mar 2026 11:31:56 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26814873",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В СФО сократился объем подозрительных операций со счетами подростков",
-      "title_neutral": "В СФО сократился объем подозрительных операций со счетами подростков",
-      "excerpt": "Снижение составило более 50%",
-      "recap_neutral": "Снижение составило более 50%",
-      "main_idea": "В СФО сократился объем подозрительных операций со счетами подростков",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 19 Mar 2026 11:31:49 +0300",
-      "url": "https://tass.ru/obschestvo/26815771",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Командир Туран: зенитчики ЛНР с начала СВО использовали отечественную связь",
-      "title_neutral": "Командир Туран: зенитчики ЛНР с начала СВО использовали отечественную связь",
-      "excerpt": "Подразделения не прибегали к применению спутниковой связи Starlink",
-      "recap_neutral": "Подразделения не прибегали к применению спутниковой связи Starlink",
-      "main_idea": "Командир Туран: зенитчики ЛНР с начала СВО использовали отечественную связь",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 19 Mar 2026 11:31:11 +0300",
-      "url": "https://tass.ru/armiya-i-opk/26815767",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Курс доллара на межбанковском рынке превышал 87 рублей впервые с 2024 года",
-      "title_neutral": "Курс доллара на межбанковском рынке превышал 87 рублей впервые с 2024 года",
-      "excerpt": "Курс рос на 4,25%",
-      "recap_neutral": "Курс рос на 4,25%",
-      "main_idea": "Курс доллара на межбанковском рынке превышал 87 рублей впервые с 2024 года",
-      "tags": [
-        "economy"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 19 Mar 2026 11:30:49 +0300",
-      "url": "https://tass.ru/ekonomika/26815863",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Жителя Пензенской области осудят за передачу Украине данных о российском военном",
-      "title_neutral": "Жителя Пензенской области осудят за передачу Украине данных о российском военном",
-      "excerpt": "Его также обвиняют в призывах к насильственным действиям против военнослужащих Вооруженных сил РФ",
-      "recap_neutral": "Его также обвиняют в призывах к насильственным действиям против военнослужащих Вооруженных сил РФ",
-      "main_idea": "Жителя Пензенской области осудят за передачу Украине данных о российском военном",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 19 Mar 2026 11:30:27 +0300",
-      "url": "https://tass.ru/proisshestviya/26815807",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Пивоваров: у Маринкина есть все условия для развития в \"Динамо\"",
-      "title_neutral": "Пивоваров: у Маринкина есть все условия для развития в \"Динамо\"",
-      "excerpt": "17-летний футболист провел четыре матча за основную команду в текущем сезоне",
-      "recap_neutral": "17-летний футболист провел четыре матча за основную команду в текущем сезоне",
-      "main_idea": "Пивоваров: у Маринкина есть все условия для развития в \"Динамо\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 19 Mar 2026 11:29:53 +0300",
-      "url": "https://tass.ru/sport/26815861",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Текслер: модернизация образовательных учреждений в Челябинской области будет продолжена",
-      "title_neutral": "Текслер: модернизация образовательных учреждений в Челябинской области будет продолжена",
-      "excerpt": "Губернатор осмотрел школу в селе Миасском, которую обновили после обращения родителей на Прямую линию с главой региона",
-      "recap_neutral": "Губернатор осмотрел школу в селе Миасском, которую обновили после обращения родителей на Прямую линию с главой региона",
-      "main_idea": "Текслер: модернизация образовательных учреждений в Челябинской области будет продолжена",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 19 Mar 2026 11:29:48 +0300",
-      "url": "https://tass.ru/novosti-regionov/26815847",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Посольство РФ: ограничения по бензину в Шри-Ланке касаются и дипломатов",
-      "title_neutral": "Посольство РФ: ограничения по бензину в Шри-Ланке касаются и дипломатов",
-      "excerpt": "Пресс-секретарь российского посольства в Коломбо Михаил Рогов отметил, что на заправках наблюдаются очереди",
-      "recap_neutral": "Пресс-секретарь российского посольства в Коломбо Михаил Рогов отметил, что на заправках наблюдаются очереди",
-      "main_idea": "Посольство РФ: ограничения по бензину в Шри-Ланке касаются и дипломатов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 19 Mar 2026 11:29:35 +0300",
-      "url": "https://tass.ru/ekonomika/26815839",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Премьер Бельгии признал, что Еврокомиссия ждет смещения Орбана",
-      "title_neutral": "Премьер Бельгии признал, что Еврокомиссия ждет смещения Орбана",
-      "excerpt": "Барт Де Вевер отметил, что в смещении премьер-министра Венгрии на выборах, которые пройдут 12 апреля, очень заинтересована глава ЕК Урсула фон дер Ляйен",
-      "recap_neutral": "Барт Де Вевер отметил, что в смещении премьер-министра Венгрии на выборах, которые пройдут 12 апреля, очень заинтересована глава ЕК Урсула фон дер Ляйен",
-      "main_idea": "Премьер Бельгии признал, что Еврокомиссия ждет смещения Орбана",
+      "title_original": "Лукашенко предложил делегации США прилетать в Белоруссию напрямую",
+      "title_neutral": "Лукашенко предложил делегации США прилетать в Белоруссию напрямую",
+      "excerpt": "Белорусский президент также указал на бодрый вид спецпосланника американского лидера Джона Коула",
+      "recap_neutral": "Белорусский президент также указал на бодрый вид спецпосланника американского лидера Джона Коула",
+      "main_idea": "Лукашенко предложил делегации США прилетать в Белоруссию напрямую",
       "tags": [
         "politics",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 19 Mar 2026 11:28:45 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26815759",
+      "published_at": "Thu, 19 Mar 2026 12:34:58 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26816841",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Саудовской Аравии сообщили о падении БПЛА на территории НПЗ Samref",
-      "title_neutral": "В Саудовской Аравии сообщили о падении БПЛА на территории НПЗ Samref",
+      "title_original": "Выпавший из окна квартиры в Москве ребенок умер в больнице",
+      "title_neutral": "Выпавший из окна квартиры в Москве ребенок умер в больнице",
+      "excerpt": "Ребенок остался на непродолжительное время без присмотра",
+      "recap_neutral": "Ребенок остался на непродолжительное время без присмотра",
+      "main_idea": "Выпавший из окна квартиры в Москве ребенок умер в больнице",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 19 Mar 2026 12:34:18 +0300",
+      "url": "https://tass.ru/proisshestviya/26816807",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ambrey: буксир под флагом Катара получил повреждения в ночь на 19 марта",
+      "title_neutral": "Ambrey: буксир под флагом Катара получил повреждения в ночь на 19 марта",
       "excerpt": "",
-      "recap_neutral": "В Саудовской Аравии сообщили о падении БПЛА на территории НПЗ Samref",
-      "main_idea": "В Саудовской Аравии сообщили о падении БПЛА на территории НПЗ Samref",
+      "recap_neutral": "Ambrey: буксир под флагом Катара получил повреждения в ночь на 19 марта",
+      "main_idea": "Ambrey: буксир под флагом Катара получил повреждения в ночь на 19 марта",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 19 Mar 2026 12:33:43 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26816879",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Врач Погожева: смертность от связанных с ожирением заболеваний составляет 27%",
+      "title_neutral": "Врач Погожева: смертность от связанных с ожирением заболеваний составляет 27%",
+      "excerpt": "",
+      "recap_neutral": "Врач Погожева: смертность от связанных с ожирением заболеваний составляет 27%",
+      "main_idea": "Врач Погожева: смертность от связанных с ожирением заболеваний составляет 27%",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 19 Mar 2026 12:32:53 +0300",
+      "url": "https://tass.ru/obschestvo/26816815",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Израиль заявил о ликвидации в Газе главы разведки бригады Хан-Юнис ХАМАС",
+      "title_neutral": "Израиль заявил о ликвидации в Газе главы разведки бригады Хан-Юнис ХАМАС",
+      "excerpt": "Речь идет о Мухаммеде Абу Шалехе",
+      "recap_neutral": "Речь идет о Мухаммеде Абу Шалехе",
+      "main_idea": "Израиль заявил о ликвидации в Газе главы разведки бригады Хан-Юнис ХАМАС",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 19 Mar 2026 11:27:51 +0300",
-      "url": "https://tass.ru/ekonomika/26815833",
+      "published_at": "Thu, 19 Mar 2026 12:32:47 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26816849",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Смоленской области молодым многодетным семьям выплатят по 300 тыс. рублей",
+      "title_neutral": "В Смоленской области молодым многодетным семьям выплатят по 300 тыс. рублей",
+      "excerpt": "Выплату можно получить при рождении третьего или последующего ребенка",
+      "recap_neutral": "Выплату можно получить при рождении третьего или последующего ребенка",
+      "main_idea": "В Смоленской области молодым многодетным семьям выплатят по 300 тыс. рублей",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 19 Mar 2026 12:32:30 +0300",
+      "url": "https://tass.ru/obschestvo/26816713",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Reuters: порт Янбу в Саудовской Аравии остановил погрузку нефти",
+      "title_neutral": "Reuters: порт Янбу в Саудовской Аравии остановил погрузку нефти",
+      "excerpt": "",
+      "recap_neutral": "Reuters: порт Янбу в Саудовской Аравии остановил погрузку нефти",
+      "main_idea": "Reuters: порт Янбу в Саудовской Аравии остановил погрузку нефти",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 19 Mar 2026 12:30:54 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26816833",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Иране обсуждают законопроект по взиманию пошлин с желающих использовать Ормузский пролив",
+      "title_neutral": "В Иране обсуждают законопроект по взиманию пошлин с желающих использовать Ормузский пролив",
+      "excerpt": "",
+      "recap_neutral": "В Иране обсуждают законопроект по взиманию пошлин с желающих использовать Ормузский пролив",
+      "main_idea": "В Иране обсуждают законопроект по взиманию пошлин с желающих использовать Ормузский пролив",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 19 Mar 2026 12:30:50 +0300",
+      "url": "https://tass.ru/ekonomika/26816791",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "РСТ: спрос на летний отдых в Краснодарском крае и Крыму вырос на 13-20%",
+      "title_neutral": "РСТ: спрос на летний отдых в Краснодарском крае и Крыму вырос на 13-20%",
+      "excerpt": "В стране показатель сохраняется примерно на уровне 2025 года, сообщил президент Российского союза туриндустрии (РСТ) Илья Уманский",
+      "recap_neutral": "В стране показатель сохраняется примерно на уровне 2025 года, сообщил президент Российского союза туриндустрии (РСТ) Илья Уманский",
+      "main_idea": "РСТ: спрос на летний отдых в Краснодарском крае и Крыму вырос на 13-20%",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 19 Mar 2026 12:29:42 +0300",
+      "url": "https://tass.ru/ekonomika/26816775",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: Ближний Восток 20-е сутки живет в жестких ограничениях авиасообщения",
+      "title_neutral": "ТАСС: Ближний Восток 20-е сутки живет в жестких ограничениях авиасообщения",
+      "excerpt": "",
+      "recap_neutral": "ТАСС: Ближний Восток 20-е сутки живет в жестких ограничениях авиасообщения",
+      "main_idea": "ТАСС: Ближний Восток 20-е сутки живет в жестких ограничениях авиасообщения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 19 Mar 2026 12:29:34 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26816493",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Боярский уверен в разработке третьего пакета мер по борьбе с мошенниками",
+      "title_neutral": "Боярский уверен в разработке третьего пакета мер по борьбе с мошенниками",
+      "excerpt": "Глава комитета Госдумы по информполитике сообщил, что сейчас идет подготовка ко второму чтению второго правительственного пакета \"Антифрода\"",
+      "recap_neutral": "Глава комитета Госдумы по информполитике сообщил, что сейчас идет подготовка ко второму чтению второго правительственного пакета \"Антифрода\"",
+      "main_idea": "Боярский уверен в разработке третьего пакета мер по борьбе с мошенниками",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 19 Mar 2026 12:29:09 +0300",
+      "url": "https://tass.ru/politika/26816763",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Кировского подростка отправили в колонию за убийство 10-летнего мальчика",
+      "title_neutral": "Кировского подростка отправили в колонию за убийство 10-летнего мальчика",
+      "excerpt": "Ему назначили наказание в виде шести лет лишения свободы",
+      "recap_neutral": "Ему назначили наказание в виде шести лет лишения свободы",
+      "main_idea": "Кировского подростка отправили в колонию за убийство 10-летнего мальчика",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 19 Mar 2026 12:28:28 +0300",
+      "url": "https://tass.ru/proisshestviya/26816753",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
@@ -1236,7 +1033,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Thu, 19 Mar 2026 08:19:59 +0000",
+      "published_at": "Thu, 19 Mar 2026 09:34:54 +0000",
       "url": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil",
       "lang": "en",
       "bias_score": 49,
@@ -1244,18 +1041,89 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Here’s the latest.",
-      "title_neutral": "Here’s the latest.",
-      "excerpt": "",
-      "recap_neutral": "Here’s the latest.",
-      "main_idea": "Here’s the latest.",
-      "tags": [],
+      "title_original": "A Lebanese Cafe on the Edge of Destruction",
+      "title_neutral": "A Lebanese Cafe on the Edge of Destruction",
+      "excerpt": "Near the center of Beirut, one image captures the aftermath of an Israeli strike.",
+      "recap_neutral": "Near the center of Beirut, one image captures the aftermath of an Israeli strike",
+      "main_idea": "A Lebanese Cafe on the Edge of Destruction",
+      "tags": [
+        "conflict"
+      ],
       "source": "NYTimes World",
-      "published_at": "Thu, 19 Mar 2026 07:32:58 +0000",
-      "url": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil/heres-the-latest",
+      "published_at": "Thu, 19 Mar 2026 09:19:08 +0000",
+      "url": "https://www.nytimes.com/2026/03/18/world/middleeast/lebanon-cafe-israel-strike-image.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Gas price soars nearly 25% after strikes on Qatar hub",
+      "title_neutral": "Gas price soars nearly 25% after strikes on Qatar hub",
+      "excerpt": "Energy costs jump after fresh strikes hit key infrastructure in the Middle East,",
+      "recap_neutral": "Energy costs jump after fresh strikes hit key infrastructure in the Middle East,",
+      "main_idea": "Gas price soars nearly 25% after strikes on Qatar hub",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 19 Mar 2026 09:16:00 GMT",
+      "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Three Palestinian women killed as missile debris hits West Bank beauty salon",
+      "title_neutral": "Three Palestinian women killed as missile debris hits West Bank beauty salon",
+      "excerpt": "Several other people were injured when shrapnel struck the beauty salon in Beit Awwa, in the southern West Bank.",
+      "recap_neutral": "Several other people were injured when shrapnel struck the beauty salon in Beit Awwa, in the southern West Bank",
+      "main_idea": "Three Palestinian women killed as missile debris hits West Bank beauty salon",
+      "tags": [
+        "economy"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 19 Mar 2026 09:13:11 GMT",
+      "url": "https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How Japan’s Leader Sanae Takaichi Found Her Voice in D.C. Decades Ago",
+      "title_neutral": "How Japan’s Leader Sanae Takaichi Found Her Voice in D.C. Decades Ago",
+      "excerpt": "Prime Minister Sanae Takaichi got her start in politics as an intern for a trailblazing Colorado lawmaker. She returns to Washington this week to meet with President Trump.",
+      "recap_neutral": "Prime Minister Sanae Takaichi got her start in politics as an intern for a trailblazing Colorado lawmaker",
+      "main_idea": "How Japan’s Leader Sanae Takaichi Found Her Voice in D.C. Decades Ago",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 19 Mar 2026 09:04:33 +0000",
+      "url": "https://www.nytimes.com/2026/03/19/world/asia/japan-takaichi-washington-internship.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "DR Congo and Rwanda agree to ease tensions after talks in US",
+      "title_neutral": "DR Congo and Rwanda agree to ease tensions after talks in US",
+      "excerpt": "The conflict has persisted despite a peace deal signed by DR Congo and Rwanda in December.",
+      "recap_neutral": "The conflict has persisted despite a peace deal signed by DR Congo and Rwanda in December",
+      "main_idea": "DR Congo and Rwanda agree to ease tensions after talks in US",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 19 Mar 2026 08:42:38 GMT",
+      "url": "https://www.bbc.com/news/articles/c15x5ejgyl3o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1292,6 +1160,23 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "South Africans say criminal gangs are exploiting the water crisis",
+      "title_neutral": "South Africans say criminal gangs are exploiting the water crisis",
+      "excerpt": "Residents of some areas have been without mains water for weeks.",
+      "recap_neutral": "Residents of some areas have been without mains water for weeks",
+      "main_idea": "South Africans say criminal gangs are exploiting the water crisis",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 19 Mar 2026 06:01:49 GMT",
+      "url": "https://www.bbc.com/news/articles/cvg3gjx22j0o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1341,6 +1226,154 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Cursive is back. But should students be learning the skill?",
+      "title_neutral": "Cursive is back. But should students be learning the skill?",
+      "excerpt": "A Virginia after-school cursive club went viral. More than two dozen states require cursive in their curriculums. Is it an effective learning tool or just nostalgia?",
+      "recap_neutral": "A Virginia after-school cursive club went viral",
+      "main_idea": "Cursive is back. But should students be learning the skill?",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Thu, 19 Mar 2026 05:01:00 -0400",
+      "url": "https://www.npr.org/2026/03/19/nx-s1-5669426/cursive-handwriting-school-controversy",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump started a war with no clear end in sight. They rarely end well for presidents",
+      "title_neutral": "Trump started a war with no clear end in sight. They rarely end well for presidents",
+      "excerpt": "President Trump started a war with no clear end in sight. If his predecessors' experiences are an indication, conflicts don't bode well for presidential approval ratings.",
+      "recap_neutral": "President Trump started a war with no clear end in sight",
+      "main_idea": "Trump started a war with no clear end in sight. They rarely end well for presidents",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "NPR",
+      "published_at": "Thu, 19 Mar 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/03/19/nx-s1-5751262/war-polling-trump-presidents-iran",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why Trump's attacks and threats to Iran's Kharg Island are a big deal",
+      "title_neutral": "Why Trump's attacks and threats to Iran's Kharg Island are a big deal",
+      "excerpt": "If the U.S. follows through on its threats to bomb the oil assets on Kharg Island, the war would likely escalate and oil prices would increase exponentially.",
+      "recap_neutral": "If the U",
+      "main_idea": "Why Trump's attacks and threats to Iran's Kharg Island are a big deal",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NPR",
+      "published_at": "Thu, 19 Mar 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/03/19/nx-s1-5750514/trump-iran-war-kharg-island-oil",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "This tax season, there's a new deduction for interest on car loans",
+      "title_neutral": "This tax season, there's a new deduction for interest on car loans",
+      "excerpt": "Taxpayers who purchased a new vehicle in 2025 may qualify for a new deduction on their taxes — even if they're not itemizing. But not everyone is eligible.",
+      "recap_neutral": "Taxpayers who purchased a new vehicle in 2025 may qualify for a new deduction on their taxes — even if they're not itemizing",
+      "main_idea": "This tax season, there's a new deduction for interest on car loans",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Thu, 19 Mar 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/03/19/nx-s1-5749420/auto-loan-interest-tax-deduction",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Kick your tiredness with these 7 natural energy boosters",
+      "title_neutral": "Kick your tiredness with these 7 natural energy boosters",
+      "excerpt": "A full calendar doesn't mean you have to feel exhausted all the time. Experts share natural ways to boost energy and beat the constant battle of tiredness.",
+      "recap_neutral": "A full calendar doesn't mean you have to feel exhausted all the time",
+      "main_idea": "Kick your tiredness with these 7 natural energy boosters",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Thu, 19 Mar 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/03/19/nx-s1-5751855/tired-energy-fatigue",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "As overseas terrorists regroup, is the Iran war increasing danger in the U.S.?",
+      "title_neutral": "As overseas terrorists regroup, is the Iran war increasing danger in the U.S.?",
+      "excerpt": "Investigators in the U.S. search for motives in three recent instances of targeted attacks, and whether they are related to the war in Iran.",
+      "recap_neutral": "Investigators in the U",
+      "main_idea": "As overseas terrorists regroup, is the Iran war increasing danger in the U.S.?",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NPR",
+      "published_at": "Thu, 19 Mar 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/03/19/nx-s1-5752332/iran-war-terrorism-threat-us",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "It's called 'private credit' — and it could lead to big trouble on Wall Street",
+      "title_neutral": "It's called 'private credit' — and it could lead to big trouble on Wall Street",
+      "excerpt": "The risky lending business has been booming — but now its problems are becoming increasingly visible on Wall Street and beyond.",
+      "recap_neutral": "The risky lending business has been booming — but now its problems are becoming increasingly visible on Wall Street and beyond",
+      "main_idea": "It's called 'private credit' — and it could lead to big trouble on Wall Street",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Thu, 19 Mar 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/03/19/nx-s1-5747128/private-credit-equity-jamie-dimon-wall-street",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Morning news brief",
+      "title_neutral": "Morning news brief",
+      "excerpt": "Iran attacks world's largest liquified natural gas complex, Sen. Markwayne Mullin faces lawmakers at DHS confirmation hearing, organizers reckon with abuse allegations against activist Caesar Chavez.",
+      "recap_neutral": "Iran attacks world's largest liquified natural gas complex, Sen",
+      "main_idea": "Morning news brief",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Thu, 19 Mar 2026 04:45:06 -0400",
+      "url": "https://www.npr.org/2026/03/19/nx-s1-5748547/morning-news-brief",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ICE officers are taking DNA samples from protesters they've arrested",
+      "title_neutral": "ICE officers are taking DNA samples from protesters they've arrested",
+      "excerpt": "Immigration agents took DNA samples from observers and protesters they detained during the Minnesota ICE surge, NPR has found, raising questions about how the government uses that personal data.",
+      "recap_neutral": "Immigration agents took DNA samples from observers and protesters they detained during the Minnesota ICE surge, NPR has found, raising questions about how the government uses that personal data",
+      "main_idea": "ICE officers are taking DNA samples from protesters they've arrested",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Thu, 19 Mar 2026 04:44:38 -0400",
+      "url": "https://www.npr.org/2026/03/19/nx-s1-5739257/ice-officers-are-taking-dna-samples-from-protesters-theyve-arrested",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1394,21 +1427,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "We Have Learned Nothing",
-      "title_neutral": "We Have Learned Nothing",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "We Have Learned Nothing",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 19 Mar 2026 02:53:37 +0000",
-      "url": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "A sufficiently detailed spec is code",
       "title_neutral": "A sufficiently detailed spec is code",
       "excerpt": "Comments",
@@ -1453,23 +1471,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Oil crosses $110 a barrel after gas field strike",
-      "title_neutral": "Oil crosses $110 a barrel after gas field strike",
-      "excerpt": "Iran's military warned it would take \"decisive action\" in response to the strike on its energy infrastructure.",
-      "recap_neutral": "Iran's military warned it would take \"decisive action\" in response to the strike on its energy infrastructure",
-      "main_idea": "Oil crosses $110 a barrel after gas field strike",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 19 Mar 2026 01:35:37 GMT",
-      "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
