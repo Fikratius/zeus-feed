@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T23:25:15.033903+00:00",
+  "last_updated": "2026-03-20T23:51:02.511093+00:00",
   "items": [
     {
       "title_original": "The Los Angeles Aqueduct Is Wild",
@@ -79,6 +79,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "An FAQ on Reinforcement Learning Environments",
+      "title_neutral": "An FAQ on Reinforcement Learning Environments",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "An FAQ on Reinforcement Learning Environments",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 19 Mar 2026 12:24:46 +0000",
+      "url": "https://epoch.ai/gradient-updates/state-of-rl-envs",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Woman has sentence quashed by Tanzania court after over a decade on death row",
       "title_neutral": "Woman has sentence quashed by Tanzania court after over a decade on death row",
       "excerpt": "Lemi Limbu, who has severe intellectual disabilities, remains in prison and will now face retrial for the murder of her daughter A woman with severe intellectual disabilities in Tanzania has had her conviction and death sentence quashed after spending more than a decade in prison awaiting execution…",
@@ -123,6 +138,120 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "FT: капитализация крупных авиакомпаний упала на $53 млрд из-за ситуации с Ираном",
+      "title_neutral": "FT: капитализация крупных авиакомпаний упала на $53 млрд из-за ситуации с Ираном",
+      "excerpt": "",
+      "recap_neutral": "FT: капитализация крупных авиакомпаний упала на $53 млрд из-за ситуации с Ираном",
+      "main_idea": "FT: капитализация крупных авиакомпаний упала на $53 млрд из-за ситуации с Ираном",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Mar 2026 02:45:10 +0300",
+      "url": "https://tass.ru/ekonomika/26838735",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Подмосковье из-за сильного тумана объявили желтый уровень опасности",
+      "title_neutral": "В Подмосковье из-за сильного тумана объявили желтый уровень опасности",
+      "excerpt": "",
+      "recap_neutral": "В Подмосковье из-за сильного тумана объявили желтый уровень опасности",
+      "main_idea": "В Подмосковье из-за сильного тумана объявили желтый уровень опасности",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Mar 2026 02:44:20 +0300",
+      "url": "https://tass.ru/obschestvo/26838743",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Журналист Ллойд: население Украины к 2025 году сократилось до 20 млн человек",
+      "title_neutral": "Журналист Ллойд: население Украины к 2025 году сократилось до 20 млн человек",
+      "excerpt": "В 2014 году численность оценивалась чуть более чем в 40 миллионов жителей, сообщил редактор британского журнала New Statesman",
+      "recap_neutral": "В 2014 году численность оценивалась чуть более чем в 40 миллионов жителей, сообщил редактор британского журнала New Statesman",
+      "main_idea": "Журналист Ллойд: население Украины к 2025 году сократилось до 20 млн человек",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Mar 2026 02:43:23 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26838717",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Армия Израиля зафиксировала ракетную атаку со стороны Ирана",
+      "title_neutral": "Армия Израиля зафиксировала ракетную атаку со стороны Ирана",
+      "excerpt": "Силы ПВО работают над нейтрализацией угрозы, сообщила армейская пресс-служба",
+      "recap_neutral": "Силы ПВО работают над нейтрализацией угрозы, сообщила армейская пресс-служба",
+      "main_idea": "Армия Израиля зафиксировала ракетную атаку со стороны Ирана",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Mar 2026 02:37:41 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26838711",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Тегеране произошли новые взрывы",
+      "title_neutral": "В Тегеране произошли новые взрывы",
+      "excerpt": "Информации о последствиях пока нет, сообщило государственное телевидение исламской республики",
+      "recap_neutral": "Информации о последствиях пока нет, сообщило государственное телевидение исламской республики",
+      "main_idea": "В Тегеране произошли новые взрывы",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Mar 2026 02:29:56 +0300",
+      "url": "https://tass.ru/proisshestviya/26838687",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Слуцкий предложил создать программу ГЧП для развития туризма в малых городах",
+      "title_neutral": "Слуцкий предложил создать программу ГЧП для развития туризма в малых городах",
+      "excerpt": "Лидер ЛДПР сообщил, что соответствующий законопроект партия планирует разработать в ближайшее время",
+      "recap_neutral": "Лидер ЛДПР сообщил, что соответствующий законопроект партия планирует разработать в ближайшее время",
+      "main_idea": "Слуцкий предложил создать программу ГЧП для развития туризма в малых городах",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Mar 2026 02:26:42 +0300",
+      "url": "https://tass.ru/obschestvo/26838679",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "США отменили действие санкций против двух россиян",
+      "title_neutral": "США отменили действие санкций против двух россиян",
+      "excerpt": "Действие рестрикций прекращено в отношении Юрия Коржавина и Лидии Коржавиной",
+      "recap_neutral": "Действие рестрикций прекращено в отношении Юрия Коржавина и Лидии Коржавиной",
+      "main_idea": "США отменили действие санкций против двух россиян",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Mar 2026 02:24:11 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26838665",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
@@ -195,11 +324,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "США разрешили проведение в течение месяца операций с иранской нефтью",
-      "title_neutral": "США разрешили проведение в течение месяца операций с иранской нефтью",
+      "title_original": "США временно разрешили операции с иранской нефтью",
+      "title_neutral": "США временно разрешили операции с иранской нефтью",
       "excerpt": "Такие действия возможны до 19 апреля, говорится в тексте генеральной лицензии, выпущенной Министерством финансов",
       "recap_neutral": "Такие действия возможны до 19 апреля, говорится в тексте генеральной лицензии, выпущенной Министерством финансов",
-      "main_idea": "США разрешили проведение в течение месяца операций с иранской нефтью",
+      "main_idea": "США временно разрешили операции с иранской нефтью",
       "tags": [
         "tech"
       ],
@@ -260,120 +389,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Al Hadath: в одном из восточных районов Тегерана отключилось электричество",
-      "title_neutral": "Al Hadath: в одном из восточных районов Тегерана отключилось электричество",
-      "excerpt": "Ранее в столице Ирана произошли взрывы",
-      "recap_neutral": "Ранее в столице Ирана произошли взрывы",
-      "main_idea": "Al Hadath: в одном из восточных районов Тегерана отключилось электричество",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Mar 2026 02:03:09 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26838609",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Марочко: ВС РФ закрепляются на новых позициях на юге Константиновки",
-      "title_neutral": "Марочко: ВС РФ закрепляются на новых позициях на юге Константиновки",
-      "excerpt": "Военный эксперт отметил, что в целом в населенном пункте у российских сил сохраняется положительная динамика продвижения",
-      "recap_neutral": "Военный эксперт отметил, что в целом в населенном пункте у российских сил сохраняется положительная динамика продвижения",
-      "main_idea": "Марочко: ВС РФ закрепляются на новых позициях на юге Константиновки",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Mar 2026 02:01:36 +0300",
-      "url": "https://tass.ru/armiya-i-opk/26838601",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Al Hadath: возле базы США Виктория у аэропорта Багдада возник сильный пожар",
-      "title_neutral": "Al Hadath: возле базы США Виктория у аэропорта Багдада возник сильный пожар",
-      "excerpt": "По информации телеканала, американский объект был атакован двумя беспилотниками",
-      "recap_neutral": "По информации телеканала, американский объект был атакован двумя беспилотниками",
-      "main_idea": "Al Hadath: возле базы США Виктория у аэропорта Багдада возник сильный пожар",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Mar 2026 01:50:56 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26838579",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Суд признал Маска виновным в очернении Twitter для снижения стоимости компании",
-      "title_neutral": "Суд признал Маска виновным в очернении Twitter для снижения стоимости компании",
-      "excerpt": "Суд определит сумму ущерба инвесторам, которую бизнесмен вынужден будет оплатить",
-      "recap_neutral": "Суд определит сумму ущерба инвесторам, которую бизнесмен вынужден будет оплатить",
-      "main_idea": "Суд признал Маска виновным в очернении Twitter для снижения стоимости компании",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Mar 2026 01:49:13 +0300",
-      "url": "https://tass.ru/ekonomika/26838565",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Москве прошло закрытие Фестиваля студенческих спектаклей \"Первый план\"",
-      "title_neutral": "В Москве прошло закрытие Фестиваля студенческих спектаклей \"Первый план\"",
-      "excerpt": "В рамках церемонии прозвучали видеообращения с напутствиями студентам от известных деятелей кино и театра, среди которых Екатерина Климова, Сергей Безруков, Данила Козловский, Гоша Куценко",
-      "recap_neutral": "В рамках церемонии прозвучали видеообращения с напутствиями студентам от известных деятелей кино и театра, среди которых Екатерина Климова, Сергей Безруков, Данила Козловский, Гоша Куценко",
-      "main_idea": "В Москве прошло закрытие Фестиваля студенческих спектаклей \"Первый план\"",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Mar 2026 01:46:43 +0300",
-      "url": "https://tass.ru/kultura/26838551",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Собянин: силы ПВО сбили 13 летевших на Москву БПЛА",
-      "title_neutral": "Собянин: силы ПВО сбили 13 летевших на Москву БПЛА",
-      "excerpt": "На месте падения обломков работают специалисты экстренных служб",
-      "recap_neutral": "На месте падения обломков работают специалисты экстренных служб",
-      "main_idea": "Собянин: силы ПВО сбили 13 летевших на Москву БПЛА",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Mar 2026 01:46:23 +0300",
-      "url": "https://tass.ru/proisshestviya/26838559",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Mehr: семь детей погибли при ударе по жилому дому в Тегеране",
-      "title_neutral": "Mehr: семь детей погибли при ударе по жилому дому в Тегеране",
-      "excerpt": "Среди погибших есть 10-дневный младенец, сообщило агентство",
-      "recap_neutral": "Среди погибших есть 10-дневный младенец, сообщило агентство",
-      "main_idea": "Mehr: семь детей погибли при ударе по жилому дому в Тегеране",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Mar 2026 01:39:10 +0300",
-      "url": "https://tass.ru/proisshestviya/26838545",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Iran War Live Updates: Trump Says U.S. Is Considering ‘Winding Down’ War",
       "title_neutral": "Iran War Live Updates: Trump Says U.S. Is Considering ‘Winding Down’ War",
       "excerpt": "The president made the comment on social media a short time after telling reporters on the White House lawn that he wasn’t interested in a cease-fire because the U.S. was “obliterating the other side.”",
@@ -384,8 +399,25 @@
         "conflict"
       ],
       "source": "NYTimes World",
-      "published_at": "Fri, 20 Mar 2026 23:18:33 +0000",
+      "published_at": "Fri, 20 Mar 2026 23:46:13 +0000",
       "url": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "U.S. Pauses Sanctions on Some Iranian Oil to Get More to Market",
+      "title_neutral": "U.S. Pauses Sanctions on Some Iranian Oil to Get More to Market",
+      "excerpt": "Treasury Secretary Scott Bessent estimated that the move would add about 140 million barrels of crude to the oil market.",
+      "recap_neutral": "Treasury Secretary Scott Bessent estimated that the move would add about 140 million barrels of crude to the oil market",
+      "main_idea": "U.S. Pauses Sanctions on Some Iranian Oil to Get More to Market",
+      "tags": [
+        "economy"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 20 Mar 2026 23:46:11 +0000",
+      "url": "https://www.nytimes.com/2026/03/20/world/middleeast/us-sanctions-iran-oil.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -401,7 +433,7 @@
         "tech"
       ],
       "source": "BBC World",
-      "published_at": "Fri, 20 Mar 2026 22:55:41 GMT",
+      "published_at": "Fri, 20 Mar 2026 23:44:09 GMT",
       "url": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
@@ -486,23 +518,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Here’s What Happened in the War in Iran in Its Third Week",
-      "title_neutral": "Here’s What Happened in the War in Iran in Its Third Week",
-      "excerpt": "The Persian new year and the end of the holy month of Ramadan were marked by continuing strikes in the region as the war reached the end of its third week.",
-      "recap_neutral": "The Persian new year and the end of the holy month of Ramadan were marked by continuing strikes in the region as the war reached the end of its third week",
-      "main_idea": "Here’s What Happened in the War in Iran in Its Third Week",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 20 Mar 2026 21:58:54 +0000",
-      "url": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-war-middle-east-recap.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Phineas Fisher: The Evolution of a Master Hacktivist",
       "title_neutral": "Phineas Fisher: The Evolution of a Master Hacktivist",
       "excerpt": "Explore the high-profile cyber intrusions of Phineas Fisher, from Gamma Group to Cayman Bank. Discover the techniques, political motives, and the mystery surrounding the world's most infamous hacktivist.",
@@ -536,14 +551,12 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Heart attack and stroke risk jumps when people stop taking GLP-1 drugs",
-      "title_neutral": "Heart attack and stroke risk jumps when people stop taking GLP-1 drugs",
+      "title_original": "Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists",
+      "title_neutral": "Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Heart attack and stroke risk jumps when people stop taking GLP-1 drugs",
-      "tags": [
-        "conflict"
-      ],
+      "main_idea": "Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists",
+      "tags": [],
       "source": "Hacker News",
       "published_at": "Fri, 20 Mar 2026 21:42:16 +0000",
       "url": "https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029",
@@ -601,21 +614,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A Japanese Glossary of Chopsticks Faux Pas",
-      "title_neutral": "A Japanese Glossary of Chopsticks Faux Pas",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "A Japanese Glossary of Chopsticks Faux Pas",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 20 Mar 2026 20:54:57 +0000",
-      "url": "https://www.nippon.com/en/japan-data/h01362/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
