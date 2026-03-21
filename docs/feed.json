@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T08:27:49.939251+00:00",
+  "last_updated": "2026-03-21T08:57:52.270041+00:00",
   "items": [
     {
       "title_original": "A look at content scrambling in DVDs",
@@ -26,6 +26,21 @@
       "source": "Hacker News",
       "published_at": "Tue, 17 Mar 2026 22:45:12 +0000",
       "url": "https://www.together.ai/blog/mamba-3",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Padel Chess – tactical simulator for padel",
+      "title_neutral": "Padel Chess – tactical simulator for padel",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Padel Chess – tactical simulator for padel",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 17 Mar 2026 18:49:39 +0000",
+      "url": "https://www.padelchess.me/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -141,11 +156,124 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "\"Аэрофлот\" корректирует расписание из-за введенных ограничений в Шереметьево",
-      "title_neutral": "\"Аэрофлот\" корректирует расписание из-за введенных ограничений в Шереметьево",
+      "title_original": "Ynet: в центре Израиля упали обломки ракеты после залпа из Ирана",
+      "title_neutral": "Ynet: в центре Израиля упали обломки ракеты после залпа из Ирана",
+      "excerpt": "Повреждены здание детского сада и жилой дом",
+      "recap_neutral": "Повреждены здание детского сада и жилой дом",
+      "main_idea": "Ynet: в центре Израиля упали обломки ракеты после залпа из Ирана",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Mar 2026 11:47:30 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26840727",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Кузбассе завели дело после гибели двух пенсионеров при пожаре в жилом доме",
+      "title_neutral": "В Кузбассе завели дело после гибели двух пенсионеров при пожаре в жилом доме",
+      "excerpt": "По версии следствия, огонь вспыхнул из-за непотушенной сигареты",
+      "recap_neutral": "По версии следствия, огонь вспыхнул из-за непотушенной сигареты",
+      "main_idea": "В Кузбассе завели дело после гибели двух пенсионеров при пожаре в жилом доме",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Mar 2026 11:47:28 +0300",
+      "url": "https://tass.ru/proisshestviya/26840723",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Шереметьево сняли временные ограничения",
+      "title_neutral": "В Шереметьево сняли временные ограничения",
       "excerpt": "",
-      "recap_neutral": "\"Аэрофлот\" корректирует расписание из-за введенных ограничений в Шереметьево",
-      "main_idea": "\"Аэрофлот\" корректирует расписание из-за введенных ограничений в Шереметьево",
+      "recap_neutral": "В Шереметьево сняли временные ограничения",
+      "main_idea": "В Шереметьево сняли временные ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Mar 2026 11:44:55 +0300",
+      "url": "https://tass.ru/ekonomika/26840715",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Tasnim: три человека погибли после израильского удара по Рамсару в Иране",
+      "title_neutral": "Tasnim: три человека погибли после израильского удара по Рамсару в Иране",
+      "excerpt": "По данным агентства, удар был нанесен утром по жилому дому",
+      "recap_neutral": "По данным агентства, удар был нанесен утром по жилому дому",
+      "main_idea": "Tasnim: три человека погибли после израильского удара по Рамсару в Иране",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Mar 2026 11:40:09 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26840707",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "И.о. главы Нерюнгринского района в Якутии назначили Максима Терещенко",
+      "title_neutral": "И.о. главы Нерюнгринского района в Якутии назначили Максима Терещенко",
+      "excerpt": "Прежний глава района Роман Щегельняк написал заявление об отставке по собственному желанию",
+      "recap_neutral": "Прежний глава района Роман Щегельняк написал заявление об отставке по собственному желанию",
+      "main_idea": "И.о. главы Нерюнгринского района в Якутии назначили Максима Терещенко",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Mar 2026 11:36:44 +0300",
+      "url": "https://tass.ru/politika/26840691",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Над Брянской областью за сутки уничтожили 154 украинских БПЛА",
+      "title_neutral": "Над Брянской областью за сутки уничтожили 154 украинских БПЛА",
+      "excerpt": "Об этом сообщил губернатор региона Александр Богомаз",
+      "recap_neutral": "Об этом сообщил губернатор региона Александр Богомаз",
+      "main_idea": "Над Брянской областью за сутки уничтожили 154 украинских БПЛА",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Mar 2026 11:35:55 +0300",
+      "url": "https://tass.ru/proisshestviya/26840675",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Al Jazeera: штаб иракской разведслужбы в Багдаде подвергся удару беспилотника",
+      "title_neutral": "Al Jazeera: штаб иракской разведслужбы в Багдаде подвергся удару беспилотника",
+      "excerpt": "По данным телеканала, БПЛА был нацелен на штаб, расположенный в престижном районе Мансур",
+      "recap_neutral": "По данным телеканала, БПЛА был нацелен на штаб, расположенный в престижном районе Мансур",
+      "main_idea": "Al Jazeera: штаб иракской разведслужбы в Багдаде подвергся удару беспилотника",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Mar 2026 11:35:06 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26840693",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Аэрофлот\" корректирует расписание рейсов на фоне ограничений в Шереметьево",
+      "title_neutral": "\"Аэрофлот\" корректирует расписание рейсов на фоне ограничений в Шереметьево",
+      "excerpt": "Часть рейсов, прибывающих в Москву, направлена на запасные аэродромы, отметил перевозчик",
+      "recap_neutral": "Часть рейсов, прибывающих в Москву, направлена на запасные аэродромы, отметил перевозчик",
+      "main_idea": "\"Аэрофлот\" корректирует расписание рейсов на фоне ограничений в Шереметьево",
       "tags": [],
       "source": "ТАСС",
       "published_at": "Sat, 21 Mar 2026 11:26:31 +0300",
@@ -194,8 +322,8 @@
     {
       "title_original": "В Москве не смогли приземлиться пять самолетов из-за действующих ограничений",
       "title_neutral": "В Москве не смогли приземлиться пять самолетов из-за действующих ограничений",
-      "excerpt": "",
-      "recap_neutral": "В Москве не смогли приземлиться пять самолетов из-за действующих ограничений",
+      "excerpt": "Речь идет про рейсы из Алма-Аты, Бишкека, Владивостока, Абакана и Новосибирска",
+      "recap_neutral": "Речь идет про рейсы из Алма-Аты, Бишкека, Владивостока, Абакана и Новосибирска",
       "main_idea": "В Москве не смогли приземлиться пять самолетов из-за действующих ограничений",
       "tags": [],
       "source": "ТАСС",
@@ -270,121 +398,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Воронеже из-за пожара в многоквартирном доме погиб ребенок",
-      "title_neutral": "В Воронеже из-за пожара в многоквартирном доме погиб ребенок",
-      "excerpt": "Предварительной причиной пожара называют неосторожное обращение с огнем",
-      "recap_neutral": "Предварительной причиной пожара называют неосторожное обращение с огнем",
-      "main_idea": "В Воронеже из-за пожара в многоквартирном доме погиб ребенок",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Mar 2026 11:05:22 +0300",
-      "url": "https://tass.ru/proisshestviya/26840619",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мошенники внедрили схему обмана геймеров через \"аутентификацию\"",
-      "title_neutral": "Мошенники внедрили схему обмана геймеров через \"аутентификацию\"",
-      "excerpt": "Человеку, который играет в онлайн-игры, в мессенджер Telegram пишет неизвестный и представляется администратором сервиса",
-      "recap_neutral": "Человеку, который играет в онлайн-игры, в мессенджер Telegram пишет неизвестный и представляется администратором сервиса",
-      "main_idea": "Мошенники внедрили схему обмана геймеров через \"аутентификацию\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Mar 2026 11:03:33 +0300",
-      "url": "https://tass.ru/ekonomika/26840597",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Трехтомник \"Энциклопедия Большого театра России\" выйдет летом 2026 года",
-      "title_neutral": "Трехтомник \"Энциклопедия Большого театра России\" выйдет летом 2026 года",
-      "excerpt": "Директор Музея ГАБТ Лидия Харина добавила, что энциклопедия будет содержать информацию, которая ранее в публичном пространстве не появлялась",
-      "recap_neutral": "Директор Музея ГАБТ Лидия Харина добавила, что энциклопедия будет содержать информацию, которая ранее в публичном пространстве не появлялась",
-      "main_idea": "Трехтомник \"Энциклопедия Большого театра России\" выйдет летом 2026 года",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Mar 2026 11:02:56 +0300",
-      "url": "https://tass.ru/kultura/26840603",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Биатлонист Халили выиграл масс-старт на чемпионате России",
-      "title_neutral": "Биатлонист Халили выиграл масс-старт на чемпионате России",
-      "excerpt": "Вторым стал Эдуард Латыпов, третьим финишировал Антон Смольский",
-      "recap_neutral": "Вторым стал Эдуард Латыпов, третьим финишировал Антон Смольский",
-      "main_idea": "Биатлонист Халили выиграл масс-старт на чемпионате России",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Mar 2026 11:02:08 +0300",
-      "url": "https://tass.ru/sport/26840579",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Печоре более 10 домов остались без холодной воды",
-      "title_neutral": "В Печоре более 10 домов остались без холодной воды",
-      "excerpt": "Отключения произошли из-за аварии",
-      "recap_neutral": "Отключения произошли из-за аварии",
-      "main_idea": "В Печоре более 10 домов остались без холодной воды",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Mar 2026 11:00:24 +0300",
-      "url": "https://tass.ru/obschestvo/26840593",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Автоваз\" прорабатывает возможность запуска платной подписки на автомобили",
-      "title_neutral": "\"Автоваз\" прорабатывает возможность запуска платной подписки на автомобили",
-      "excerpt": "Несколько российских СМИ ранее сообщили, что на дилерской конференции автопроизводителя была представлена презентация с описанием подписки на Lada Vesta",
-      "recap_neutral": "Несколько российских СМИ ранее сообщили, что на дилерской конференции автопроизводителя была представлена презентация с описанием подписки на Lada Vesta",
-      "main_idea": "\"Автоваз\" прорабатывает возможность запуска платной подписки на автомобили",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Mar 2026 10:59:24 +0300",
-      "url": "https://tass.ru/ekonomika/26840587",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Удмуртии отменили сигнал беспилотной опасности",
-      "title_neutral": "В Удмуртии отменили сигнал беспилотной опасности",
-      "excerpt": "Об этом сообщается в приложении МЧС России",
-      "recap_neutral": "Об этом сообщается в приложении МЧС России",
-      "main_idea": "В Удмуртии отменили сигнал беспилотной опасности",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Mar 2026 10:58:44 +0300",
-      "url": "https://tass.ru/proisshestviya/26840581",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Trump Says U.S. Is Considering ‘Winding Down’ Iran War",
       "title_neutral": "Trump Says U.S. Is Considering ‘Winding Down’ Iran War",
       "excerpt": "The president made the comment on social media a short time after telling reporters on the White House lawn that he wasn’t interested in a cease-fire because the U.S. was “obliterating the other side.” The Treasury Department lifted sanctions on some Iranian oil.",
@@ -395,7 +408,7 @@
         "conflict"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 21 Mar 2026 08:17:43 +0000",
+      "published_at": "Sat, 21 Mar 2026 08:38:46 +0000",
       "url": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump",
       "lang": "en",
       "bias_score": 55,
@@ -462,21 +475,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
-      "title_neutral": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 21 Mar 2026 05:06:11 +0000",
-      "url": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -564,8 +562,8 @@
     {
       "title_original": "Chuck Norris memes were undefeated for a generation of young fans",
       "title_neutral": "Chuck Norris memes were undefeated for a generation of young fans",
-      "excerpt": "Chuck Norris became an inadvertent source of humour for a viral online celebration of his movie tough guy persona.",
-      "recap_neutral": "Chuck Norris became an inadvertent source of humour for a viral online celebration of his movie tough guy persona",
+      "excerpt": "Chuck Norris became an inadvertent source of humour for a viral online celebration of his movie tough-guy persona.",
+      "recap_neutral": "Chuck Norris became an inadvertent source of humour for a viral online celebration of his movie tough-guy persona",
       "main_idea": "Chuck Norris memes were undefeated for a generation of young fans",
       "tags": [],
       "source": "BBC World",
