@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T22:19:54.116329+00:00",
+  "last_updated": "2026-03-21T22:49:17.922891+00:00",
   "items": [
     {
       "title_original": "ZJIT removes redundant object loads and stores",
@@ -145,11 +145,43 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ливан заявил о смерти трех человек в ходе атак Израиля",
-      "title_neutral": "Ливан заявил о смерти трех человек в ходе атак Израиля",
+      "title_original": "The Sun: бывшая жена принца Эндрю хотела клонировать корги Елизаветы II",
+      "title_neutral": "The Sun: бывшая жена принца Эндрю хотела клонировать корги Елизаветы II",
+      "excerpt": "Сара Фергюсон рассматривала возможность создания собственной фирмы, сообщила газета",
+      "recap_neutral": "Сара Фергюсон рассматривала возможность создания собственной фирмы, сообщила газета",
+      "main_idea": "The Sun: бывшая жена принца Эндрю хотела клонировать корги Елизаветы II",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Mar 2026 01:43:48 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26843965",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Tasnim: Иран будет отвечать на каждое нападение более широкой атакой",
+      "title_neutral": "Tasnim: Иран будет отвечать на каждое нападение более широкой атакой",
+      "excerpt": "Представитель ВС республики отметил, что страна изменила свою военную политику и решила \"выйти за рамки принципа \"око за око\"",
+      "recap_neutral": "Представитель ВС республики отметил, что страна изменила свою военную политику и решила \"выйти за рамки принципа \"око за око\"",
+      "main_idea": "Tasnim: Иран будет отвечать на каждое нападение более широкой атакой",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 22 Mar 2026 01:37:26 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26843959",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ливан заявил о гибели трех человек в ходе атак Израиля",
+      "title_neutral": "Ливан заявил о гибели трех человек в ходе атак Израиля",
       "excerpt": "По информации Минздрава республики, еще 99 получили ранения",
       "recap_neutral": "По информации Минздрава республики, еще 99 получили ранения",
-      "main_idea": "Ливан заявил о смерти трех человек в ходе атак Израиля",
+      "main_idea": "Ливан заявил о гибели трех человек в ходе атак Израиля",
       "tags": [
         "conflict",
         "tech"
@@ -165,8 +197,8 @@
     {
       "title_original": "В аэропорту Саратова ввели ограничения",
       "title_neutral": "В аэропорту Саратова ввели ограничения",
-      "excerpt": "",
-      "recap_neutral": "В аэропорту Саратова ввели ограничения",
+      "excerpt": "Меры необходимы для обеспечения безопасности полетов",
+      "recap_neutral": "Меры необходимы для обеспечения безопасности полетов",
       "main_idea": "В аэропорту Саратова ввели ограничения",
       "tags": [],
       "source": "ТАСС",
@@ -180,8 +212,8 @@
     {
       "title_original": "Возраст репродуктивной диспансеризации мужчин предложили поднять до 60 лет",
       "title_neutral": "Возраст репродуктивной диспансеризации мужчин предложили поднять до 60 лет",
-      "excerpt": "",
-      "recap_neutral": "Возраст репродуктивной диспансеризации мужчин предложили поднять до 60 лет",
+      "excerpt": "Председатель комиссии Общественной палаты по демографии Сергей Рыбальченко также считает, что необходимо распространить на мужчин практику консультаций с медицинским психологом",
+      "recap_neutral": "Председатель комиссии Общественной палаты по демографии Сергей Рыбальченко также считает, что необходимо распространить на мужчин практику консультаций с медицинским психологом",
       "main_idea": "Возраст репродуктивной диспансеризации мужчин предложили поднять до 60 лет",
       "tags": [
         "tech"
@@ -358,35 +390,39 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Театр имени Веры Комиссаржевской покажет новую историю о приключениях Буратино",
-      "title_neutral": "Театр имени Веры Комиссаржевской покажет новую историю о приключениях Буратино",
-      "excerpt": "Сказку-притчу поставил режиссер Иван Пачин",
-      "recap_neutral": "Сказку-притчу поставил режиссер Иван Пачин",
-      "main_idea": "Театр имени Веры Комиссаржевской покажет новую историю о приключениях Буратино",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Mar 2026 00:25:53 +0300",
-      "url": "https://tass.ru/kultura/26843799",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "title_original": "Iran War Live Updates: U.S. Bombed Thousands of Iranian Targets, but Iran Shows No Sign of Backing Down",
+      "title_neutral": "Iran War Live Updates: U.S. Bombed Thousands of Iranian Targets, but Iran Shows No Sign of Backing Down",
+      "excerpt": "A U.S. commander said allied attacks had degraded Tehran’s military. On Saturday, the United States and Britain said Iran had tried but failed to hit a distant joint base in the Indian Ocean with two missiles.",
+      "recap_neutral": "A U",
+      "main_idea": "Iran War Live Updates: U.S. Bombed Thousands of Iranian Targets, but Iran Shows No Sign of Backing Down",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 21 Mar 2026 22:36:26 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Киеве подтвердили сообщения о перебоях в электро- и водоснабжении",
-      "title_neutral": "В Киеве подтвердили сообщения о перебоях в электро- и водоснабжении",
-      "excerpt": "В городской администрации заявили, что энергетики работают над ликвидацией повреждений",
-      "recap_neutral": "В городской администрации заявили, что энергетики работают над ликвидацией повреждений",
-      "main_idea": "В Киеве подтвердили сообщения о перебоях в электро- и водоснабжении",
+      "title_original": "Iranian missile strikes Israeli city near main nuclear research facility.",
+      "title_neutral": "Iranian missile strikes Israeli city near main nuclear research facility.",
+      "excerpt": "",
+      "recap_neutral": "Iranian missile strikes Israeli city near main nuclear research facility.",
+      "main_idea": "Iranian missile strikes Israeli city near main nuclear research facility.",
       "tags": [
+        "conflict",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sun, 22 Mar 2026 00:15:50 +0300",
-      "url": "https://tass.ru/ekonomika/26843851",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sat, 21 Mar 2026 22:36:24 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump/iranian-missile-strikes-israeli-city-near-main-nuclear-research-facility",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -444,24 +480,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran War Live Updates: U.S. Bombed Thousands of Iranian Targets, but Iran Shows No Sign of Backing Down",
-      "title_neutral": "Iran War Live Updates: U.S. Bombed Thousands of Iranian Targets, but Iran Shows No Sign of Backing Down",
-      "excerpt": "A U.S. commander said allied attacks had degraded Tehran’s military. On Saturday, the United States and Britain said Iran had tried but failed to hit a distant joint base in the Indian Ocean with two missiles.",
-      "recap_neutral": "A U",
-      "main_idea": "Iran War Live Updates: U.S. Bombed Thousands of Iranian Targets, but Iran Shows No Sign of Backing Down",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 21 Mar 2026 22:00:21 +0000",
-      "url": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "With Fire and Song, Kurds in Turkey Hail the Start of Spring",
       "title_neutral": "With Fire and Song, Kurds in Turkey Hail the Start of Spring",
       "excerpt": "The Newroz holiday comes at a critical time, as Kurds in Turkey push for peace while their brethren in Syria and Iran fear further conflict.",
@@ -477,6 +495,21 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Professional video editing, right in the browser with WebGPU and WASM",
+      "title_neutral": "Professional video editing, right in the browser with WebGPU and WASM",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Professional video editing, right in the browser with WebGPU and WASM",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 21 Mar 2026 21:27:50 +0000",
+      "url": "https://tooscut.app/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -642,23 +675,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Patriarch Filaret Dies at 97, Orthodox Church of Ukraine Says",
-      "title_neutral": "Patriarch Filaret Dies at 97, Orthodox Church of Ukraine Says",
-      "excerpt": "Filaret led a movement in Ukraine that created a schism among Orthodox believers and, ultimately, a church independent of Moscow.",
-      "recap_neutral": "Filaret led a movement in Ukraine that created a schism among Orthodox believers and, ultimately, a church independent of Moscow",
-      "main_idea": "Patriarch Filaret Dies at 97, Orthodox Church of Ukraine Says",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 21 Mar 2026 17:54:04 +0000",
-      "url": "https://www.nytimes.com/2026/03/21/world/europe/patriarch-filaret-dead.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Hide macOS Tahoe's Menu Icons",
       "title_neutral": "Hide macOS Tahoe's Menu Icons",
       "excerpt": "Comments",
@@ -706,23 +722,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-      "title_neutral": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 21 Mar 2026 15:30:29 +0000",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
