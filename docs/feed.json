@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T16:53:38.576411+00:00",
+  "last_updated": "2026-03-23T17:48:51.948894+00:00",
   "items": [
     {
       "title_original": "Side-Effectful Expressions in C (2023)",
@@ -253,6 +253,24 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+      "title_neutral": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 22 Mar 2026 09:45:14 +0000",
+      "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
       "title_neutral": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
       "excerpt": "Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying displays of wealth.",
@@ -340,251 +358,343 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Захарова: Россия никогда не отказывалась от переговоров по Украине",
-      "title_neutral": "Захарова: Россия никогда не отказывалась от переговоров по Украине",
-      "excerpt": "По словам официального представителя МИД, Западная Европа идет не в русле уважения суверенитета других стран, а прильнула к американским демократам",
-      "recap_neutral": "По словам официального представителя МИД, Западная Европа идет не в русле уважения суверенитета других стран, а прильнула к американским демократам",
-      "main_idea": "Захарова: Россия никогда не отказывалась от переговоров по Украине",
-      "tags": [],
+      "title_original": "Лидер ЭКГ-рейтинга объединил сотрудников на семейном празднике во Владимире",
+      "title_neutral": "Лидер ЭКГ-рейтинга объединил сотрудников на семейном празднике во Владимире",
+      "excerpt": "В мероприятии производителя продуктов питания компании \"Аби\" приняли участие более 200 гостей",
+      "recap_neutral": "В мероприятии производителя продуктов питания компании \"Аби\" приняли участие более 200 гостей",
+      "main_idea": "Лидер ЭКГ-рейтинга объединил сотрудников на семейном празднике во Владимире",
+      "tags": [
+        "tech"
+      ],
       "source": "ТАСС",
-      "published_at": "Mon, 23 Mar 2026 19:49:20 +0300",
-      "url": "https://tass.ru/politika/26859163",
+      "published_at": "Mon, 23 Mar 2026 20:44:43 +0300",
+      "url": "https://tass.ru/obschestvo/26859589",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Армия Израиля утверждает, что нанесла удар по главному штабу КСИР в центре Тегерана",
-      "title_neutral": "Армия Израиля утверждает, что нанесла удар по главному штабу КСИР в центре Тегерана",
+      "title_original": "AFP: во Франции намерены нарастить производство нефтепродуктов",
+      "title_neutral": "AFP: во Франции намерены нарастить производство нефтепродуктов",
+      "excerpt": "Французское правительство призвало промышленников \"в кратчайшие сроки\" оценить возможности по \"быстрому временному увеличению объемов\"",
+      "recap_neutral": "Французское правительство призвало промышленников \"в кратчайшие сроки\" оценить возможности по \"быстрому временному увеличению объемов\"",
+      "main_idea": "AFP: во Франции намерены нарастить производство нефтепродуктов",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 23 Mar 2026 20:44:21 +0300",
+      "url": "https://tass.ru/ekonomika/26859581",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В селе на Кубани более 90 домов и детсад остались без воды из-за аварии",
+      "title_neutral": "В селе на Кубани более 90 домов и детсад остались без воды из-за аварии",
+      "excerpt": "Специалисты оперативно приступили к замене насоса",
+      "recap_neutral": "Специалисты оперативно приступили к замене насоса",
+      "main_idea": "В селе на Кубани более 90 домов и детсад остались без воды из-за аварии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 23 Mar 2026 20:42:43 +0300",
+      "url": "https://tass.ru/obschestvo/26859535",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Новый учебник по динамической метеорологии для вузов издадут до конца года",
+      "title_neutral": "Новый учебник по динамической метеорологии для вузов издадут до конца года",
+      "excerpt": "К выходу пособия провели конкурс студенческих сочинений на тему \"Пять главных событий в истории метеорологии\", отметила руководитель редакции наук о Земле Оксана Толстых",
+      "recap_neutral": "К выходу пособия провели конкурс студенческих сочинений на тему \"Пять главных событий в истории метеорологии\", отметила руководитель редакции наук о Земле Оксана Толстых",
+      "main_idea": "Новый учебник по динамической метеорологии для вузов издадут до конца года",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 23 Mar 2026 20:42:38 +0300",
+      "url": "https://tass.ru/obschestvo/26859575",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Россельхознадзор помог монастырю в Новосибирской области после изъятия скота",
+      "title_neutral": "Россельхознадзор помог монастырю в Новосибирской области после изъятия скота",
+      "excerpt": "Сумма пожертвования не уточняется",
+      "recap_neutral": "Сумма пожертвования не уточняется",
+      "main_idea": "Россельхознадзор помог монастырю в Новосибирской области после изъятия скота",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 23 Mar 2026 20:40:41 +0300",
+      "url": "https://tass.ru/obschestvo/26859517",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Над регионами России сбили 67 украинских БПЛА",
+      "title_neutral": "Над регионами России сбили 67 украинских БПЛА",
       "excerpt": "",
-      "recap_neutral": "Армия Израиля утверждает, что нанесла удар по главному штабу КСИР в центре Тегерана",
-      "main_idea": "Армия Израиля утверждает, что нанесла удар по главному штабу КСИР в центре Тегерана",
+      "recap_neutral": "Над регионами России сбили 67 украинских БПЛА",
+      "main_idea": "Над регионами России сбили 67 украинских БПЛА",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 23 Mar 2026 20:39:31 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26859541",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В России газифицируют не менее 1,6 млн домовладений к 2030 году",
+      "title_neutral": "В России газифицируют не менее 1,6 млн домовладений к 2030 году",
+      "excerpt": "Работы выполнять в рамках народной программы \"Единой России\"",
+      "recap_neutral": "Работы выполнять в рамках народной программы \"Единой России\"",
+      "main_idea": "В России газифицируют не менее 1,6 млн домовладений к 2030 году",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 23 Mar 2026 20:39:03 +0300",
+      "url": "https://tass.ru/obschestvo/26859537",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ynet: США хотят завершить войну в Иране 9 апреля",
+      "title_neutral": "Ynet: США хотят завершить войну в Иране 9 апреля",
+      "excerpt": "Это необходимо, чтобы американский лидер Дональд Трамп мог получить Премию Израиля",
+      "recap_neutral": "Это необходимо, чтобы американский лидер Дональд Трамп мог получить Премию Израиля",
+      "main_idea": "Ynet: США хотят завершить войну в Иране 9 апреля",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 23 Mar 2026 19:47:58 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26859215",
+      "published_at": "Mon, 23 Mar 2026 20:36:13 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26859509",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Орловской области отменили авиационную опасность",
-      "title_neutral": "В Орловской области отменили авиационную опасность",
-      "excerpt": "Об сообщается в приложении МЧС России",
-      "recap_neutral": "Об сообщается в приложении МЧС России",
-      "main_idea": "В Орловской области отменили авиационную опасность",
+      "title_original": "Reuters: при крушении самолета ВВС Колумбии спасли 57 военных",
+      "title_neutral": "Reuters: при крушении самолета ВВС Колумбии спасли 57 военных",
+      "excerpt": "Власти пока не приводили данных о количестве погибших",
+      "recap_neutral": "Власти пока не приводили данных о количестве погибших",
+      "main_idea": "Reuters: при крушении самолета ВВС Колумбии спасли 57 военных",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 23 Mar 2026 19:47:46 +0300",
-      "url": "https://tass.ru/proisshestviya/26859199",
+      "published_at": "Mon, 23 Mar 2026 20:33:55 +0300",
+      "url": "https://tass.ru/proisshestviya/26859497",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Трамп: США контактируют в Иране с ключевой фигурой, но не верховным лидером",
-      "title_neutral": "Трамп: США контактируют в Иране с ключевой фигурой, но не верховным лидером",
-      "excerpt": "Американский президент сказал, что контакты между Вашингтоном и Тегераном состоялись 22 марта",
-      "recap_neutral": "Американский президент сказал, что контакты между Вашингтоном и Тегераном состоялись 22 марта",
-      "main_idea": "Трамп: США контактируют в Иране с ключевой фигурой, но не верховным лидером",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 23 Mar 2026 19:46:58 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26859185",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Донецке при ударе вражеского беспилотника пострадала женщина",
-      "title_neutral": "В Донецке при ударе вражеского беспилотника пострадала женщина",
-      "excerpt": "",
-      "recap_neutral": "В Донецке при ударе вражеского беспилотника пострадала женщина",
-      "main_idea": "В Донецке при ударе вражеского беспилотника пострадала женщина",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 23 Mar 2026 19:43:59 +0300",
-      "url": "https://tass.ru/proisshestviya/26859193",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Индии заявили о прохождении двух танкеров с газом через Ормузский пролив",
-      "title_neutral": "В Индии заявили о прохождении двух танкеров с газом через Ормузский пролив",
-      "excerpt": "Они достигнут берегов южноазиатской республики к концу недели, сообщило Министерство портов и судоходства Индии",
-      "recap_neutral": "Они достигнут берегов южноазиатской республики к концу недели, сообщило Министерство портов и судоходства Индии",
-      "main_idea": "В Индии заявили о прохождении двух танкеров с газом через Ормузский пролив",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 23 Mar 2026 19:43:17 +0300",
-      "url": "https://tass.ru/ekonomika/26859125",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Архангельской области начали выращивать сибирского осетра",
-      "title_neutral": "В Архангельской области начали выращивать сибирского осетра",
-      "excerpt": "В 2026 году на предприятии планируют получить первые 2,5 тонны рыбы",
-      "recap_neutral": "В 2026 году на предприятии планируют получить первые 2,5 тонны рыбы",
-      "main_idea": "В Архангельской области начали выращивать сибирского осетра",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 23 Mar 2026 19:40:48 +0300",
-      "url": "https://tass.ru/ekonomika/26849037",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "N12: обсуждается встреча между представителями США и Ирана на этой неделе",
-      "title_neutral": "N12: обсуждается встреча между представителями США и Ирана на этой неделе",
-      "excerpt": "По данным телеканала, в рамках подготовки к встрече в Пакистане рассматривается возможность назначения американского вице-президента Джей Ди Вэнса старшим представителем США на этих переговорах",
-      "recap_neutral": "По данным телеканала, в рамках подготовки к встрече в Пакистане рассматривается возможность назначения американского вице-президента Джей Ди Вэнса старшим представителем США на этих переговорах",
-      "main_idea": "N12: обсуждается встреча между представителями США и Ирана на этой неделе",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 23 Mar 2026 19:39:39 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26859093",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лавров подтвердил готовность РФ содействовать урегулированию на Ближнем Востоке",
-      "title_neutral": "Лавров подтвердил готовность РФ содействовать урегулированию на Ближнем Востоке",
-      "excerpt": "",
-      "recap_neutral": "Лавров подтвердил готовность РФ содействовать урегулированию на Ближнем Востоке",
-      "main_idea": "Лавров подтвердил готовность РФ содействовать урегулированию на Ближнем Востоке",
+      "title_original": "Игорю Золотовицкому посмертно вручили \"Нику\" за вклад в кино",
+      "title_neutral": "Игорю Золотовицкому посмертно вручили \"Нику\" за вклад в кино",
+      "excerpt": "Статуэтку передали семье артиста",
+      "recap_neutral": "Статуэтку передали семье артиста",
+      "main_idea": "Игорю Золотовицкому посмертно вручили \"Нику\" за вклад в кино",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Mon, 23 Mar 2026 19:38:17 +0300",
-      "url": "https://tass.ru/politika/26859115",
+      "published_at": "Mon, 23 Mar 2026 20:33:39 +0300",
+      "url": "https://tass.ru/kultura/26859483",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "TotalEnergies реинвестирует вложения в ветроэнергетику в развитие СПГ в США",
-      "title_neutral": "TotalEnergies реинвестирует вложения в ветроэнергетику в развитие СПГ в США",
-      "excerpt": "Согласно условиям соглашения, TotalEnergies получит обратно уплаченную арендную плату и инвестирует равную сумму в развитие добычи и экспорта газа в США",
-      "recap_neutral": "Согласно условиям соглашения, TotalEnergies получит обратно уплаченную арендную плату и инвестирует равную сумму в развитие добычи и экспорта газа в США",
-      "main_idea": "TotalEnergies реинвестирует вложения в ветроэнергетику в развитие СПГ в США",
+      "title_original": "В Одессе произошли взрывы",
+      "title_neutral": "В Одессе произошли взрывы",
+      "excerpt": "В Одесской, а также Днепропетровской, Николаевской, Полтавской, Сумской, Харьковской и Черниговской областях объявлена воздушная тревога",
+      "recap_neutral": "В Одесской, а также Днепропетровской, Николаевской, Полтавской, Сумской, Харьковской и Черниговской областях объявлена воздушная тревога",
+      "main_idea": "В Одессе произошли взрывы",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Mon, 23 Mar 2026 19:37:18 +0300",
-      "url": "https://tass.ru/ekonomika/26859109",
+      "published_at": "Mon, 23 Mar 2026 20:31:23 +0300",
+      "url": "https://tass.ru/proisshestviya/26859491",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Представитель Гутерриша: генсек ООН занимается вопросом открытия Ормузского пролива",
-      "title_neutral": "Представитель Гутерриша: генсек ООН занимается вопросом открытия Ормузского пролива",
-      "excerpt": "",
-      "recap_neutral": "Представитель Гутерриша: генсек ООН занимается вопросом открытия Ормузского пролива",
-      "main_idea": "Представитель Гутерриша: генсек ООН занимается вопросом открытия Ормузского пролива",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 23 Mar 2026 19:36:46 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26859103",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Орбан рассказал, как можно спасти Европу",
-      "title_neutral": "Орбан рассказал, как можно спасти Европу",
-      "excerpt": "Это произойдет только в том случае, если сказать \"нет\" санкциям Евросоюза против России и вступлению Украины в ЕС, заявил премьер-министр Венгрии",
-      "recap_neutral": "Это произойдет только в том случае, если сказать \"нет\" санкциям Евросоюза против России и вступлению Украины в ЕС, заявил премьер-министр Венгрии",
-      "main_idea": "Орбан рассказал, как можно спасти Европу",
+      "title_original": "Полиция Сочи устанавливает личность въехавшего на лошади в магазин",
+      "title_neutral": "Полиция Сочи устанавливает личность въехавшего на лошади в магазин",
+      "excerpt": "Владелец павильона в полицию с сообщением о происшествии не обращался",
+      "recap_neutral": "Владелец павильона в полицию с сообщением о происшествии не обращался",
+      "main_idea": "Полиция Сочи устанавливает личность въехавшего на лошади в магазин",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 23 Mar 2026 19:35:30 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26859071",
+      "published_at": "Mon, 23 Mar 2026 20:30:27 +0300",
+      "url": "https://tass.ru/obschestvo/26859481",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Названа причина ДТП с маршруткой и грузовиком в Москве",
-      "title_neutral": "Названа причина ДТП с маршруткой и грузовиком в Москве",
-      "excerpt": "Ей могло стать несоблюдение дистанции",
-      "recap_neutral": "Ей могло стать несоблюдение дистанции",
-      "main_idea": "Названа причина ДТП с маршруткой и грузовиком в Москве",
+      "title_original": "Депутат Лантратова заявила о риске передела духовного пространства Молдавии",
+      "title_neutral": "Депутат Лантратова заявила о риске передела духовного пространства Молдавии",
+      "excerpt": "Происходящее в Кишиневе нельзя прятать за рассказами об \"имущественном споре\", отметила глава комитета Госдумы по развитию гражданского общества, вопросам общественных и религиозных объединений",
+      "recap_neutral": "Происходящее в Кишиневе нельзя прятать за рассказами об \"имущественном споре\", отметила глава комитета Госдумы по развитию гражданского общества, вопросам общественных и религиозных объединений",
+      "main_idea": "Депутат Лантратова заявила о риске передела духовного пространства Молдавии",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 23 Mar 2026 19:35:08 +0300",
-      "url": "https://tass.ru/proisshestviya/26859083",
+      "published_at": "Mon, 23 Mar 2026 20:29:22 +0300",
+      "url": "https://tass.ru/politika/26859461",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Сортавальском округе Карелии число иностранных туристов выросло вдвое за год",
-      "title_neutral": "В Сортавальском округе Карелии число иностранных туристов выросло вдвое за год",
-      "excerpt": "Показатель составил 77,8 тыс. человек",
-      "recap_neutral": "Показатель составил 77,8 тыс",
-      "main_idea": "В Сортавальском округе Карелии число иностранных туристов выросло вдвое за год",
+      "title_original": "Советник спикера Меджлиса: Иран не будет вести переговоры с США в прежнем формате",
+      "title_neutral": "Советник спикера Меджлиса: Иран не будет вести переговоры с США в прежнем формате",
+      "excerpt": "Эбрахим Расули указал, что Иран не хочет, чтобы страны, \"продавшиеся Америке\" и Израилю, \"получали выгоду от эксплуатации Ормузского пролива\"",
+      "recap_neutral": "Эбрахим Расули указал, что Иран не хочет, чтобы страны, \"продавшиеся Америке\" и Израилю, \"получали выгоду от эксплуатации Ормузского пролива\"",
+      "main_idea": "Советник спикера Меджлиса: Иран не будет вести переговоры с США в прежнем формате",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 23 Mar 2026 19:34:47 +0300",
-      "url": "https://tass.ru/obschestvo/26858937",
+      "published_at": "Mon, 23 Mar 2026 20:28:34 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26859473",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Представитель генсека: ООН приветствует информацию о переговорах США и Ирана",
-      "title_neutral": "Представитель генсека: ООН приветствует информацию о переговорах США и Ирана",
-      "excerpt": "По словам официального представителя главы всемирной организации Стефана Дюжаррика, важно, чтобы эти переговоры привели к немедленному прекращению конфликта",
-      "recap_neutral": "По словам официального представителя главы всемирной организации Стефана Дюжаррика, важно, чтобы эти переговоры привели к немедленному прекращению конфликта",
-      "main_idea": "Представитель генсека: ООН приветствует информацию о переговорах США и Ирана",
+      "title_original": "ЕР и ЦБСТ запустили в Петербурге проект по подготовке операторов БПЛА",
+      "title_neutral": "ЕР и ЦБСТ запустили в Петербурге проект по подготовке операторов БПЛА",
+      "excerpt": "Проект реализуется на базе Садово-архитектурного колледжа и направлен на вовлечение молодежи в сферу беспилотных технологий, а также формирование кадрового резерва для отрасли",
+      "recap_neutral": "Проект реализуется на базе Садово-архитектурного колледжа и направлен на вовлечение молодежи в сферу беспилотных технологий, а также формирование кадрового резерва для отрасли",
+      "main_idea": "ЕР и ЦБСТ запустили в Петербурге проект по подготовке операторов БПЛА",
       "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 23 Mar 2026 20:27:57 +0300",
+      "url": "https://tass.ru/obschestvo/26858349",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
+      "title_neutral": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
+      "excerpt": "Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement.",
+      "recap_neutral": "Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement",
+      "main_idea": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 23 Mar 2026 17:41:48 +0000",
+      "url": "https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran War Live Updates: Iran Disputes Trump’s Claim of ‘Very Strong Talks’",
+      "title_neutral": "Iran War Live Updates: Iran Disputes Trump’s Claim of ‘Very Strong Talks’",
+      "excerpt": "President Trump said he was postponing strikes on Iran’s power plants until at least Friday to allow for negotiations, but Iran cast the claim as a ploy to soothe markets and to buy time for more military action.",
+      "recap_neutral": "President Trump said he was postponing strikes on Iran’s power plants until at least Friday to allow for negotiations, but Iran cast the claim as a ploy to soothe markets and to buy time for more military action",
+      "main_idea": "Iran War Live Updates: Iran Disputes Trump’s Claim of ‘Very Strong Talks’",
+      "tags": [
+        "politics",
+        "economy",
         "conflict",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Mon, 23 Mar 2026 19:34:14 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26859067",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Mon, 23 Mar 2026 17:41:04 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump Delays Energy Strikes, but Iran’s Infrastructure is Already Battered",
+      "title_neutral": "Trump Delays Energy Strikes, but Iran’s Infrastructure is Already Battered",
+      "excerpt": "U.S. and Israeli attacks on power plants and other civilian infrastructure risk escalating the conflict across the region, and angering Iranians who oppose the government.",
+      "recap_neutral": "U",
+      "main_idea": "Trump Delays Energy Strikes, but Iran’s Infrastructure is Already Battered",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 23 Mar 2026 17:33:01 +0000",
+      "url": "https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Colombian Military Plane Crashes in ‘Tragic’ Accident, Officials Say",
+      "title_neutral": "Colombian Military Plane Crashes in ‘Tragic’ Accident, Officials Say",
+      "excerpt": "A military transport aircraft was involved in an accident as it took off from southern Colombia, according to the authorities. The number of victims was unclear.",
+      "recap_neutral": "A military transport aircraft was involved in an accident as it took off from southern Colombia, according to the authorities",
+      "main_idea": "Colombian Military Plane Crashes in ‘Tragic’ Accident, Officials Say",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 23 Mar 2026 17:23:30 +0000",
+      "url": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Colombian military plane crashes with scores of soldiers on board, officials say",
+      "title_neutral": "Colombian military plane crashes with scores of soldiers on board, officials say",
+      "excerpt": "Cargo plane carrying between 80 and 110 soldiers crashes shortly after takeoff in southern Amazon region Scores of Colombian soldiers are feared dead after military transport plane crashed on takeoff in the south of the country. The defense minister, Pedro Sánchez, said the accident happened as the…",
+      "recap_neutral": "Cargo plane carrying between 80 and 110 soldiers crashes shortly after takeoff in southern Amazon region Scores of Colombian soldiers are feared dead after military transport plane crashed on takeoff in the south of the…",
+      "main_idea": "Colombian military plane crashes with scores of soldiers on board, officials say",
+      "tags": [
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Mon, 23 Mar 2026 17:12:34 GMT",
+      "url": "https://www.theguardian.com/world/2026/mar/23/colombia-military-plane-crash",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
       "confidence": "heuristic"
     },
     {
@@ -621,40 +731,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran War Live Updates: Trump Postpones Strikes on Iran’s Power Plants, Citing ‘Strong Talks’",
-      "title_neutral": "Iran War Live Updates: Trump Postpones Strikes on Iran’s Power Plants, Citing ‘Strong Talks’",
-      "excerpt": "Iran disputed Trump’s claim of productive negotiations, casting it as a ploy to soothe markets and to buy time for more military action.",
-      "recap_neutral": "Iran disputed Trump’s claim of productive negotiations, casting it as a ploy to soothe markets and to buy time for more military action",
-      "main_idea": "Iran War Live Updates: Trump Postpones Strikes on Iran’s Power Plants, Citing ‘Strong Talks’",
-      "tags": [
-        "economy",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 23 Mar 2026 16:47:11 +0000",
-      "url": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Israel Says Its Own Artillery Killed a Farmer, Not a Hezbollah Rocket",
-      "title_neutral": "Israel Says Its Own Artillery Killed a Farmer, Not a Hezbollah Rocket",
-      "excerpt": "Ofer Moskovitz, 60, an avocado farmer in a kibbutz on Israel’s border with Lebanon, was killed Sunday when the car he was riding in was hit.",
-      "recap_neutral": "Ofer Moskovitz, 60, an avocado farmer in a kibbutz on Israel’s border with Lebanon, was killed Sunday when the car he was riding in was hit",
-      "main_idea": "Israel Says Its Own Artillery Killed a Farmer, Not a Hezbollah Rocket",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Mon, 23 Mar 2026 16:47:09 +0000",
-      "url": "https://www.nytimes.com/2026/03/23/world/middleeast/israel-says-its-own-artillery-killed-a-farmer-not-a-hezbollah-rocket.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -785,11 +861,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Pilot and co-pilot killed after Air Canada jet collision at LaGuardia New York",
-      "title_neutral": "Pilot and co-pilot killed after Air Canada jet collision at LaGuardia New York",
+      "title_original": "Two pilots killed after Air Canada jet collision at LaGuardia in New York",
+      "title_neutral": "Two pilots killed after Air Canada jet collision at LaGuardia in New York",
       "excerpt": "Nine people hospitalised and airport closed after landing plane hits fire truck responding to separate incident US politics live – latest updates The pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided with a fire truck while landing at New York’s LaGuardia a…",
       "recap_neutral": "Nine people hospitalised and airport closed after landing plane hits fire truck responding to separate incident US politics live – latest updates The pilot and co-pilot of an Air Canada Express regional jet have been ki…",
-      "main_idea": "Pilot and co-pilot killed after Air Canada jet collision at LaGuardia New York",
+      "main_idea": "Two pilots killed after Air Canada jet collision at LaGuardia in New York",
       "tags": [
         "tech",
         "health"
@@ -833,21 +909,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Study: 'Security Fatigue' May Weaken Digital Defenses",
-      "title_neutral": "Study: 'Security Fatigue' May Weaken Digital Defenses",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Study: 'Security Fatigue' May Weaken Digital Defenses",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 23 Mar 2026 14:36:30 +0000",
-      "url": "https://www.albany.edu/news-center/news/2026-study-security-fatigue-may-weaken-digital-defenses",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "title_neutral": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "excerpt": "Comments",
@@ -875,21 +936,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "America tells private firms to \"hack back\"",
-      "title_neutral": "America tells private firms to \"hack back\"",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "America tells private firms to \"hack back\"",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 23 Mar 2026 13:12:30 +0000",
-      "url": "https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -924,23 +970,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "GitHub appears to be struggling with measly three nines availability",
-      "title_neutral": "GitHub appears to be struggling with measly three nines availability",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "GitHub appears to be struggling with measly three nines availability",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Mon, 23 Mar 2026 10:39:39 +0000",
-      "url": "https://www.theregister.com/2026/02/10/github_outages/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1026,24 +1055,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
-      "title_neutral": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
-      "excerpt": "Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement.",
-      "recap_neutral": "Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement",
-      "main_idea": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 23 Mar 2026 09:34:28 +0000",
-      "url": "https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Australia's ABC staff to go on strike for first time in 20 years",
       "title_neutral": "Australia's ABC staff to go on strike for first time in 20 years",
       "excerpt": "The 24-hour long strike is expected to disrupt live television and radio broadcasts.",
@@ -1075,24 +1086,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "French Far Right Falls Short of Statement Win in Yardstick Local Races",
-      "title_neutral": "French Far Right Falls Short of Statement Win in Yardstick Local Races",
-      "excerpt": "France’s far right hoped for major gains in Sunday’s municipal elections, a key bellwether moment before a presidential election next year. Its results were mixed.",
-      "recap_neutral": "France’s far right hoped for major gains in Sunday’s municipal elections, a key bellwether moment before a presidential election next year",
-      "main_idea": "French Far Right Falls Short of Statement Win in Yardstick Local Races",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 23 Mar 2026 09:08:20 +0000",
-      "url": "https://www.nytimes.com/2026/03/22/world/europe/france-mayor-elections.html",
-      "lang": "en",
-      "bias_score": 49,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1177,6 +1170,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Two pilots dead after plane and ground vehicle collide at LaGuardia",
+      "title_neutral": "Two pilots dead after plane and ground vehicle collide at LaGuardia",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Two pilots dead after plane and ground vehicle collide at LaGuardia",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 23 Mar 2026 07:24:19 +0000",
+      "url": "https://www.bbc.com/news/articles/cy01g522ww4o",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Trump says Iran talks striking Iran's power plants for 5 days during 'productive conversations'",
       "title_neutral": "Trump says Iran talks striking Iran's power plants for 5 days during 'productive conversations'",
       "excerpt": "Trump said the U.S. will postpone any strikes on Iranian energy infrastructure for five days, even as Israel continued hitting Tehran and Iran warned it could retaliate across the Gulf.",
@@ -1189,6 +1197,21 @@
       "source": "NPR",
       "published_at": "Mon, 23 Mar 2026 06:37:23 -0400",
       "url": "https://www.npr.org/2026/03/23/nx-s1-5757172/iran-defiant-trump-hormuz",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "With more older drivers on the road, states try to balance safety and mobility",
+      "title_neutral": "With more older drivers on the road, states try to balance safety and mobility",
+      "excerpt": "The number of older drivers on the road is climbing. Safety advocates want tougher rules for relicensing, but many drivers say they shouldn't be forced to give up their mobility because of age alone.",
+      "recap_neutral": "The number of older drivers on the road is climbing",
+      "main_idea": "With more older drivers on the road, states try to balance safety and mobility",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Mon, 23 Mar 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/03/23/nx-s1-5672445/older-drivers-licensing-safety",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1225,15 +1248,17 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "With more older drivers on the road, states try to balance safety and mobility",
-      "title_neutral": "With more older drivers on the road, states try to balance safety and mobility",
-      "excerpt": "The number of older drivers on the road is climbing. Safety advocates want tougher rules for relicensing, but many drivers say they shouldn't be forced to give up their mobility because of age alone.",
-      "recap_neutral": "The number of older drivers on the road is climbing",
-      "main_idea": "With more older drivers on the road, states try to balance safety and mobility",
-      "tags": [],
+      "title_original": "What does a 'GLP-1 Friendly' diet look like? We asked nutritionists",
+      "title_neutral": "What does a 'GLP-1 Friendly' diet look like? We asked nutritionists",
+      "excerpt": "Big food companies are starting to market to people on the powerful new obesity meds with labels that say \"GLP-1 Friendly.\" Nutritionists help us decode that message.",
+      "recap_neutral": "Big food companies are starting to market to people on the powerful new obesity meds with labels that say \"GLP-1 Friendly",
+      "main_idea": "What does a 'GLP-1 Friendly' diet look like? We asked nutritionists",
+      "tags": [
+        "economy"
+      ],
       "source": "NPR",
       "published_at": "Mon, 23 Mar 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/03/23/nx-s1-5672445/older-drivers-licensing-safety",
+      "url": "https://www.npr.org/2026/03/23/nx-s1-5699407/glp-1-ozempic-zepbound-wegovy-nutrition",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1251,23 +1276,6 @@
       "source": "NPR",
       "published_at": "Mon, 23 Mar 2026 05:00:00 -0400",
       "url": "https://www.npr.org/2026/03/23/nx-s1-5742568/iran-war-investments-retirement-529-stock-market",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "What does a 'GLP-1 Friendly' diet look like? We asked nutritionists",
-      "title_neutral": "What does a 'GLP-1 Friendly' diet look like? We asked nutritionists",
-      "excerpt": "Big food companies are starting to market to people on the powerful new obesity meds with labels that say \"GLP-1 Friendly.\" Nutritionists help us decode that message.",
-      "recap_neutral": "Big food companies are starting to market to people on the powerful new obesity meds with labels that say \"GLP-1 Friendly",
-      "main_idea": "What does a 'GLP-1 Friendly' diet look like? We asked nutritionists",
-      "tags": [
-        "economy"
-      ],
-      "source": "NPR",
-      "published_at": "Mon, 23 Mar 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/03/23/nx-s1-5699407/glp-1-ozempic-zepbound-wegovy-nutrition",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1427,6 +1435,21 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "BIO: The Bao I/O Coprocessor",
+      "title_neutral": "BIO: The Bao I/O Coprocessor",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "BIO: The Bao I/O Coprocessor",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 20 Mar 2026 19:20:49 +0000",
+      "url": "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1597,24 +1620,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Delcy Rodríguez replaces Venezuela’s top military commanders",
-      "title_neutral": "Delcy Rodríguez replaces Venezuela’s top military commanders",
-      "excerpt": "Interim president announces changes after firing defence minister, who was close to Maduro, the leader ousted by US Venezuela’s interim president has said she has replaced all her senior military commanders, the latest in a flurry of changes since the US ousted Nicolás Maduro . Delcy Rodríguez anno…",
-      "recap_neutral": "Interim president announces changes after firing defence minister, who was close to Maduro, the leader ousted by US Venezuela’s interim president has said she has replaced all her senior military commanders, the latest…",
-      "main_idea": "Delcy Rodríguez replaces Venezuela’s top military commanders",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Fri, 20 Mar 2026 09:15:43 GMT",
-      "url": "https://www.theguardian.com/world/2026/mar/20/delcy-rodriguez-replaces-venezuelas-top-military-commanders",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
       "confidence": "heuristic"
     },
     {
