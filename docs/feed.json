@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T01:47:32.861117+00:00",
+  "last_updated": "2026-03-24T04:15:17.146954+00:00",
   "items": [
     {
       "title_original": "Abusing Customizable Selects",
@@ -17,244 +17,367 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "title_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "title_original": "Руководство Пентагона закрыло рабочую зону журналистов в своей штаб-квартире",
+      "title_neutral": "Руководство Пентагона закрыло рабочую зону журналистов в своей штаб-квартире",
+      "excerpt": "Кроме того, руководство военного министерства ограничило допуск представителей СМИ без сопровождения",
+      "recap_neutral": "Кроме того, руководство военного министерства ограничило допуск представителей СМИ без сопровождения",
+      "main_idea": "Руководство Пентагона закрыло рабочую зону журналистов в своей штаб-квартире",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 24 Mar 2026 07:11:14 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26862585",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Посол Келин: Британия создает шум вокруг Украины, чтобы вернуть к ней внимание",
+      "title_neutral": "Посол Келин: Британия создает шум вокруг Украины, чтобы вернуть к ней внимание",
+      "excerpt": "Лондон не может полностью обеспечить Киев вооружением, поэтому идет на организацию медийных поводов, заявил дипломат",
+      "recap_neutral": "Лондон не может полностью обеспечить Киев вооружением, поэтому идет на организацию медийных поводов, заявил дипломат",
+      "main_idea": "Посол Келин: Британия создает шум вокруг Украины, чтобы вернуть к ней внимание",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 24 Mar 2026 07:10:01 +0300",
+      "url": "https://tass.ru/politika/26862557",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ОКБ: количество выдач кредитных карт в феврале снизилось на 7% год к году",
+      "title_neutral": "ОКБ: количество выдач кредитных карт в феврале снизилось на 7% год к году",
+      "excerpt": "Оно составило 1,06 млн",
+      "recap_neutral": "Оно составило 1,06 млн",
+      "main_idea": "ОКБ: количество выдач кредитных карт в феврале снизилось на 7% год к году",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 24 Mar 2026 07:08:15 +0300",
+      "url": "https://tass.ru/ekonomika/26862635",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Прозоров: колумбийцы из американских ЧВК воюют на стороне Украины",
+      "title_neutral": "Прозоров: колумбийцы из американских ЧВК воюют на стороне Украины",
+      "excerpt": "Основную массу наемников составляют ветераны гражданской войны в Колумбии, отметил экс-сотрудник СБУ",
+      "recap_neutral": "Основную массу наемников составляют ветераны гражданской войны в Колумбии, отметил экс-сотрудник СБУ",
+      "main_idea": "Прозоров: колумбийцы из американских ЧВК воюют на стороне Украины",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 24 Mar 2026 07:07:07 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26862505",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Мирошник: более 84 тыс. абонентов на неделе остались без света из-за ударов ВСУ",
+      "title_neutral": "Мирошник: более 84 тыс. абонентов на неделе остались без света из-за ударов ВСУ",
+      "excerpt": "Самым масштабным стало отключение электричества в Херсонской области",
+      "recap_neutral": "Самым масштабным стало отключение электричества в Херсонской области",
+      "main_idea": "Мирошник: более 84 тыс. абонентов на неделе остались без света из-за ударов ВСУ",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 24 Mar 2026 07:07:00 +0300",
+      "url": "https://tass.ru/obschestvo/26862603",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Эксперт Кутьин рассказал, когда в России начнут снижаться ставки по ипотеке",
+      "title_neutral": "Эксперт Кутьин рассказал, когда в России начнут снижаться ставки по ипотеке",
       "excerpt": "",
-      "recap_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "main_idea": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "recap_neutral": "Эксперт Кутьин рассказал, когда в России начнут снижаться ставки по ипотеке",
+      "main_idea": "Эксперт Кутьин рассказал, когда в России начнут снижаться ставки по ипотеке",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:18:01 +0300",
-      "url": "https://tass.ru/politika/24134697",
+      "published_at": "Tue, 24 Mar 2026 07:05:46 +0300",
+      "url": "https://tass.ru/ekonomika/26862629",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "title_neutral": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "excerpt": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
-      "recap_neutral": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
-      "main_idea": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
+      "title_original": "Ростех создал новый антидрон \"ПРЕС-ВМ\" для защиты автотранспорта",
+      "title_neutral": "Ростех создал новый антидрон \"ПРЕС-ВМ\" для защиты автотранспорта",
+      "excerpt": "Устройство сочетает систему пассивной детекции и радиоподавления, сообщили в пресс-службе госкорпорации",
+      "recap_neutral": "Устройство сочетает систему пассивной детекции и радиоподавления, сообщили в пресс-службе госкорпорации",
+      "main_idea": "Ростех создал новый антидрон \"ПРЕС-ВМ\" для защиты автотранспорта",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:17:03 +0300",
-      "url": "https://tass.ru/ekonomika/24134627",
+      "published_at": "Tue, 24 Mar 2026 07:05:24 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26862525",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "title_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "title_original": "Марочко: Киев расконсервировал советские паровозы для подвоза оружия и сил",
+      "title_neutral": "Марочко: Киев расконсервировал советские паровозы для подвоза оружия и сил",
+      "excerpt": "Украинское командование для прикрытия своего имущества и подчиненных использует гражданское население, подцепляя к паровозам вагоны предприятия \"Укрзализныця\", сообщил военный эксперт",
+      "recap_neutral": "Украинское командование для прикрытия своего имущества и подчиненных использует гражданское население, подцепляя к паровозам вагоны предприятия \"Укрзализныця\", сообщил военный эксперт",
+      "main_idea": "Марочко: Киев расконсервировал советские паровозы для подвоза оружия и сил",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 24 Mar 2026 07:03:51 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26862535",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Мирошник: более 130 жителей России пострадали от ударов ВСУ за неделю",
+      "title_neutral": "Мирошник: более 130 жителей России пострадали от ударов ВСУ за неделю",
+      "excerpt": "Среди них 10 детей",
+      "recap_neutral": "Среди них 10 детей",
+      "main_idea": "Мирошник: более 130 жителей России пострадали от ударов ВСУ за неделю",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 24 Mar 2026 07:03:00 +0300",
+      "url": "https://tass.ru/obschestvo/26862593",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Мирошник: машинист тепловоза и его помощник на неделе погибли при ударе ВСУ",
+      "title_neutral": "Мирошник: машинист тепловоза и его помощник на неделе погибли при ударе ВСУ",
       "excerpt": "",
-      "recap_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "main_idea": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "recap_neutral": "Мирошник: машинист тепловоза и его помощник на неделе погибли при ударе ВСУ",
+      "main_idea": "Мирошник: машинист тепловоза и его помощник на неделе погибли при ударе ВСУ",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 24 Mar 2026 07:02:10 +0300",
+      "url": "https://tass.ru/obschestvo/26862567",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Операторы БПС РФ уничтожили более 550 солдат ВСУ в Харьковской области",
+      "title_neutral": "Операторы БПС РФ уничтожили более 550 солдат ВСУ в Харьковской области",
+      "excerpt": "Благодаря этому удалось снизить ротационный потенциал ВСУ, сообщил начальник отделения планирования и противодействия БПС группировки войск \"Север\" с позывным Карта",
+      "recap_neutral": "Благодаря этому удалось снизить ротационный потенциал ВСУ, сообщил начальник отделения планирования и противодействия БПС группировки войск \"Север\" с позывным Карта",
+      "main_idea": "Операторы БПС РФ уничтожили более 550 солдат ВСУ в Харьковской области",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:15:43 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134665",
+      "published_at": "Tue, 24 Mar 2026 07:02:05 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26862497",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "title_neutral": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "excerpt": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
-      "recap_neutral": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
-      "main_idea": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "tags": [
-        "climate"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:12:58 +0300",
-      "url": "https://tass.ru/obschestvo/24134601",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "title_neutral": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "excerpt": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
-      "recap_neutral": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
-      "main_idea": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:11:16 +0300",
-      "url": "https://tass.ru/obschestvo/24134589",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "title_neutral": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "excerpt": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
-      "recap_neutral": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
-      "main_idea": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:34 +0300",
-      "url": "https://tass.ru/obschestvo/24132977",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "title_neutral": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "excerpt": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
-      "recap_neutral": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
-      "main_idea": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:31 +0300",
-      "url": "https://tass.ru/nauka/24134535",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "title_neutral": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "excerpt": "Материалы дела поступили в мировой судебный участок 184",
-      "recap_neutral": "Материалы дела поступили в мировой судебный участок 184",
-      "main_idea": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:03 +0300",
-      "url": "https://tass.ru/proisshestviya/24134595",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "title_neutral": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "excerpt": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
-      "recap_neutral": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
-      "main_idea": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:08:48 +0300",
-      "url": "https://tass.ru/obschestvo/24134521",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "title_neutral": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "excerpt": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
-      "recap_neutral": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
-      "main_idea": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:08:39 +0300",
-      "url": "https://tass.ru/nedvizhimost/24134431",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "title_neutral": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "excerpt": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
-      "recap_neutral": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
-      "main_idea": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:06:43 +0300",
-      "url": "https://tass.ru/obschestvo/24133033",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "title_neutral": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "excerpt": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
-      "recap_neutral": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
-      "main_idea": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:04:29 +0300",
-      "url": "https://tass.ru/obschestvo/24133525",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "title_neutral": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "excerpt": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
-      "recap_neutral": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
-      "main_idea": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:03:57 +0300",
-      "url": "https://tass.ru/obschestvo/24134485",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "США пока не решили, продолжать или нет помощь Украине",
-      "title_neutral": "США пока не решили, продолжать или нет помощь Украине",
+      "title_original": "Азаров: ЕС выделяет деньги Киеву для войны, игнорируя нужды населения в газе",
+      "title_neutral": "Азаров: ЕС выделяет деньги Киеву для войны, игнорируя нужды населения в газе",
       "excerpt": "",
-      "recap_neutral": "США пока не решили, продолжать или нет помощь Украине",
-      "main_idea": "США пока не решили, продолжать или нет помощь Украине",
-      "tags": [],
+      "recap_neutral": "Азаров: ЕС выделяет деньги Киеву для войны, игнорируя нужды населения в газе",
+      "main_idea": "Азаров: ЕС выделяет деньги Киеву для войны, игнорируя нужды населения в газе",
+      "tags": [
+        "conflict"
+      ],
       "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:03:52 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134491",
+      "published_at": "Tue, 24 Mar 2026 07:01:43 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26862549",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "title_neutral": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "excerpt": "Предварительно, пострадавших нет",
-      "recap_neutral": "Предварительно, пострадавших нет",
-      "main_idea": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+      "title_original": "В Москве ожидается до плюс 17 градусов",
+      "title_neutral": "В Москве ожидается до плюс 17 градусов",
+      "excerpt": "",
+      "recap_neutral": "В Москве ожидается до плюс 17 градусов",
+      "main_idea": "В Москве ожидается до плюс 17 градусов",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:02:07 +0300",
-      "url": "https://tass.ru/proisshestviya/24133329",
+      "published_at": "Tue, 24 Mar 2026 07:01:14 +0300",
+      "url": "https://tass.ru/obschestvo/26862491",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Рейнджерс\" проиграли \"Оттаве\" в НХЛ. Шестеркин отразил 31 бросок",
+      "title_neutral": "\"Рейнджерс\" проиграли \"Оттаве\" в НХЛ. Шестеркин отразил 31 бросок",
+      "excerpt": "Российский голкипер был признан третьей звездой матча",
+      "recap_neutral": "Российский голкипер был признан третьей звездой матча",
+      "main_idea": "\"Рейнджерс\" проиграли \"Оттаве\" в НХЛ. Шестеркин отразил 31 бросок",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Tue, 24 Mar 2026 07:01:07 +0300",
+      "url": "https://tass.ru/sport/26862489",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Посол Келин: удар по Брянску повлечет \"печальные последствия\" для причастных",
+      "title_neutral": "Посол Келин: удар по Брянску повлечет \"печальные последствия\" для причастных",
+      "excerpt": "",
+      "recap_neutral": "Посол Келин: удар по Брянску повлечет \"печальные последствия\" для причастных",
+      "main_idea": "Посол Келин: удар по Брянску повлечет \"печальные последствия\" для причастных",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Tue, 24 Mar 2026 07:00:54 +0300",
+      "url": "https://tass.ru/politika/26862529",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ukraine Spent Big to Shield Energy Industry From Drones. Is the Mideast Next?",
+      "title_neutral": "Ukraine Spent Big to Shield Energy Industry From Drones. Is the Mideast Next?",
+      "excerpt": "With the use of electronic jamming systems and interceptor drones, the Ukrainian national oil and gas company may be a model for others.",
+      "recap_neutral": "With the use of electronic jamming systems and interceptor drones, the Ukrainian national oil and gas company may be a model for others",
+      "main_idea": "Ukraine Spent Big to Shield Energy Industry From Drones. Is the Mideast Next?",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Tue, 24 Mar 2026 04:01:05 +0000",
+      "url": "https://www.nytimes.com/2026/03/24/world/europe/ukraine-middle-east-oil-and-gas-drones.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
+      "title_neutral": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
+      "excerpt": "Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement.",
+      "recap_neutral": "Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement",
+      "main_idea": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Tue, 24 Mar 2026 03:59:56 +0000",
+      "url": "https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Colombian Military Plane Crash Kills 66 and Injures Dozens",
+      "title_neutral": "Colombian Military Plane Crash Kills 66 and Injures Dozens",
+      "excerpt": "A military aircraft transporting 128 people was involved in an accident as it took off from southern Colombia, according to the authorities.",
+      "recap_neutral": "A military aircraft transporting 128 people was involved in an accident as it took off from southern Colombia, according to the authorities",
+      "main_idea": "Colombian Military Plane Crash Kills 66 and Injures Dozens",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Tue, 24 Mar 2026 03:37:39 +0000",
+      "url": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "New Zealand to give cash payments to some low income families as global fuel crisis worsens",
+      "title_neutral": "New Zealand to give cash payments to some low income families as global fuel crisis worsens",
+      "excerpt": "Policy begins on 1 April and is aimed to ease financial pressure as the price of fuel surges due to conflict in the Middle East Nearly 150,000 New Zealand families will soon receive a weekly cash payment to help them afford petrol, the government has announced, in what is believed to be the world’s…",
+      "recap_neutral": "Policy begins on 1 April and is aimed to ease financial pressure as the price of fuel surges due to conflict in the Middle East Nearly 150,000 New Zealand families will soon receive a weekly cash payment to help them af…",
+      "main_idea": "New Zealand to give cash payments to some low income families as global fuel crisis worsens",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Tue, 24 Mar 2026 03:33:44 GMT",
+      "url": "https://www.theguardian.com/world/2026/mar/24/new-zealand-cash-payments-families-global-fuel-crisis",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Hong Kong police can demand phone and computer passwords under amended national security law",
+      "title_neutral": "Hong Kong police can demand phone and computer passwords under amended national security law",
+      "excerpt": "Refusing to comply could lead to year in jail and hefty fine, while providing false information carries up to three years in prison Hong Kong police can now demand that people suspected of breaching the city’s national security law provide mobile phone or computer passwords in a further crackdown o…",
+      "recap_neutral": "Refusing to comply could lead to year in jail and hefty fine, while providing false information carries up to three years in prison Hong Kong police can now demand that people suspected of breaching the city’s national…",
+      "main_idea": "Hong Kong police can demand phone and computer passwords under amended national security law",
+      "tags": [
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Tue, 24 Mar 2026 02:53:50 GMT",
+      "url": "https://www.theguardian.com/world/2026/mar/24/hong-kong-phone-passwords-national-security-law",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Colombian military plane crash kills at least 66",
+      "title_neutral": "Colombian military plane crash kills at least 66",
+      "excerpt": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear.",
+      "recap_neutral": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear",
+      "main_idea": "Colombian military plane crash kills at least 66",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Tue, 24 Mar 2026 02:52:21 GMT",
+      "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
+      "title_neutral": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
+      "excerpt": "America may be a nation at war, but the president's activities have been a mix of diplomacy and diversions - with the occasional swing toward the surreal.",
+      "recap_neutral": "America may be a nation at war, but the president's activities have been a mix of diplomacy and diversions - with the occasional swing toward the surreal",
+      "main_idea": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Tue, 24 Mar 2026 02:41:31 GMT",
+      "url": "https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -269,11 +392,41 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Tue, 24 Mar 2026 01:44:51 +0000",
+      "published_at": "Tue, 24 Mar 2026 02:05:52 +0000",
       "url": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US Senate confirms Markwayne Mullin as homeland security chief",
+      "title_neutral": "US Senate confirms Markwayne Mullin as homeland security chief",
+      "excerpt": "The US senator will now oversee the embattled department after a series of immigration enforcement blunders.",
+      "recap_neutral": "The US senator will now oversee the embattled department after a series of immigration enforcement blunders",
+      "main_idea": "US Senate confirms Markwayne Mullin as homeland security chief",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Tue, 24 Mar 2026 02:01:21 GMT",
+      "url": "https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+      "title_neutral": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 24 Mar 2026 01:53:09 +0000",
+      "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -292,20 +445,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Hasan Piker Defends Upscale Lodging During Humanitarian Mission in Cuba",
-      "title_neutral": "Hasan Piker Defends Upscale Lodging During Humanitarian Mission in Cuba",
-      "excerpt": "Hasan Piker helped bring attention to a mission delivering humanitarian aid to Cuba. The group was criticized for staying in an upscale hotel as Cubans faced another blackout.",
-      "recap_neutral": "Hasan Piker helped bring attention to a mission delivering humanitarian aid to Cuba",
-      "main_idea": "Hasan Piker Defends Upscale Lodging During Humanitarian Mission in Cuba",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 24 Mar 2026 01:28:41 +0000",
-      "url": "https://www.nytimes.com/2026/03/23/world/americas/hasan-piker-humanitarian-mission-cuba.html",
+      "title_original": "US bans new foreign-made consumer internet routers",
+      "title_neutral": "US bans new foreign-made consumer internet routers",
+      "excerpt": "There are almost no major brands of internet routers that are manufactured in the US.",
+      "recap_neutral": "There are almost no major brands of internet routers that are manufactured in the US",
+      "main_idea": "US bans new foreign-made consumer internet routers",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Tue, 24 Mar 2026 01:26:53 GMT",
+      "url": "https://www.bbc.com/news/articles/c74787w149zo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -323,21 +474,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "US Senate confirms Markwayne Mullin as homeland security chief",
-      "title_neutral": "US Senate confirms Markwayne Mullin as homeland security chief",
-      "excerpt": "The US senator will now oversee the embattled department after a series of immigration enforcement blunders.",
-      "recap_neutral": "The US senator will now oversee the embattled department after a series of immigration enforcement blunders",
-      "main_idea": "US Senate confirms Markwayne Mullin as homeland security chief",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Tue, 24 Mar 2026 00:47:09 GMT",
-      "url": "https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -392,20 +528,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Colombian Military Plane Crash Kills 34 and Injures Dozens",
-      "title_neutral": "Colombian Military Plane Crash Kills 34 and Injures Dozens",
-      "excerpt": "A military aircraft transporting 125 people was involved in an accident as it took off from southern Colombia, according to the authorities.",
-      "recap_neutral": "A military aircraft transporting 125 people was involved in an accident as it took off from southern Colombia, according to the authorities",
-      "main_idea": "Colombian Military Plane Crash Kills 34 and Injures Dozens",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 24 Mar 2026 00:05:18 +0000",
-      "url": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
+      "title_original": "Despite state bans and restrictions, the number of abortions in the U.S. holds steady",
+      "title_neutral": "Despite state bans and restrictions, the number of abortions in the U.S. holds steady",
+      "excerpt": "The Guttmacher Institute has a new analysis on how many abortions happened in 2025.",
+      "recap_neutral": "The Guttmacher Institute has a new analysis on how many abortions happened in 2025",
+      "main_idea": "Despite state bans and restrictions, the number of abortions in the U.S. holds steady",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Tue, 24 Mar 2026 00:01:00 -0400",
+      "url": "https://www.npr.org/2026/03/24/nx-s1-5757550/abortion-telemedicine-travel-mifepristone-misoprostol",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -506,24 +640,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
-      "title_neutral": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sun, 22 Mar 2026 09:45:14 +0000",
-      "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -664,21 +780,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Study: Workers who fall for 'corporate bullshit' may be worse at their jobs",
-      "title_neutral": "Study: Workers who fall for 'corporate bullshit' may be worse at their jobs",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Study: Workers who fall for 'corporate bullshit' may be worse at their jobs",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 23 Mar 2026 22:53:44 +0000",
-      "url": "https://www.theguardian.com/business/2026/mar/23/corporate-speak-study",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Windows 3.1 tiled background .bmp archive",
       "title_neutral": "Windows 3.1 tiled background .bmp archive",
       "excerpt": "Comments",
@@ -726,6 +827,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "The Resolv hack: How one compromised key printed $23M",
+      "title_neutral": "The Resolv hack: How one compromised key printed $23M",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The Resolv hack: How one compromised key printed $23M",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 23 Mar 2026 22:01:15 +0000",
+      "url": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Dealing With Rude People at Work Without Losing Your Cool: A How-to Guide",
       "title_neutral": "Dealing With Rude People at Work Without Losing Your Cool: A How-to Guide",
       "excerpt": "Rude people at work can make you feel small or irrelevant. Responding to rude people with rudeness does not make them change. Managing your reaction to rudeness can develop emotional resilience. We need to become different people in our responses to others.",
@@ -738,21 +854,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Colombian military plane with 125 people crashes",
-      "title_neutral": "Colombian military plane with 125 people crashes",
-      "excerpt": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear.",
-      "recap_neutral": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear",
-      "main_idea": "Colombian military plane with 125 people crashes",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Mon, 23 Mar 2026 21:54:15 GMT",
-      "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -788,11 +889,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
-      "title_neutral": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+      "title_original": "FCC updates covered list to include foreign-made consumer routers",
+      "title_neutral": "FCC updates covered list to include foreign-made consumer routers",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+      "main_idea": "FCC updates covered list to include foreign-made consumer routers",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Mon, 23 Mar 2026 21:28:02 +0000",
@@ -920,21 +1021,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Local Stack Archived their GitHub repo and requires an account to run",
-      "title_neutral": "Local Stack Archived their GitHub repo and requires an account to run",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Local Stack Archived their GitHub repo and requires an account to run",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 23 Mar 2026 18:57:08 +0000",
-      "url": "https://github.com/localstack/localstack",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Taiwan Debates Military Spending as Choices Over U.S. and China Loom",
       "title_neutral": "Taiwan Debates Military Spending as Choices Over U.S. and China Loom",
       "excerpt": "Tensions in the opposition Nationalist Party could surface this week as lawmakers argue over additional defense funding intended to counter Beijing’s growing might.",
@@ -1020,23 +1106,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A committed pharmacist and a homesick blogger – the Iranian civilians killed in the war",
-      "title_neutral": "A committed pharmacist and a homesick blogger – the Iranian civilians killed in the war",
-      "excerpt": "The toll on civilians is mounting fast as the US-Israeli war on Iran continues.",
-      "recap_neutral": "The toll on civilians is mounting fast as the US-Israeli war on Iran continues",
-      "main_idea": "A committed pharmacist and a homesick blogger – the Iranian civilians killed in the war",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Mon, 23 Mar 2026 18:31:26 GMT",
-      "url": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "The 7-Step ML Workflow for Imbalanced Clinical Risk Prediction",
       "title_neutral": "The 7-Step ML Workflow for Imbalanced Clinical Risk Prediction",
       "excerpt": "Skip the accuracy trap: a 7-step ML workflow for imbalanced clinical risk prediction using stacking, SMOTE Tomek & honest validation.",
@@ -1064,24 +1133,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
-      "title_neutral": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
-      "excerpt": "Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement.",
-      "recap_neutral": "Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement",
-      "main_idea": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 23 Mar 2026 17:41:49 +0000",
-      "url": "https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1428,6 +1479,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Scott Hanselman says he's working on Windows local accounts",
+      "title_neutral": "Scott Hanselman says he's working on Windows local accounts",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Scott Hanselman says he's working on Windows local accounts",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 23 Mar 2026 07:55:41 +0000",
+      "url": "https://twitter.com/shanselman/status/2035110958314745891",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Trump says the U.S. is in talks with Iran to end the war, which Iran denies",
       "title_neutral": "Trump says the U.S. is in talks with Iran to end the war, which Iran denies",
       "excerpt": "Trump said the U.S. will postpone any strikes on Iranian energy infrastructure for five days, even as Israel continued hitting Tehran and Iran warned it could retaliate across the Gulf.",
@@ -1443,39 +1509,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "As D.C.'s cherry blossom trees near peak bloom, here's a guide to their history",
-      "title_neutral": "As D.C.'s cherry blossom trees near peak bloom, here's a guide to their history",
-      "excerpt": "The renowned trees along Washington, D.C's Tidal Basin were sent as a gift from Japan in 1912. Some of the original trees are still there.",
-      "recap_neutral": "The renowned trees along Washington, D",
-      "main_idea": "As D.C.'s cherry blossom trees near peak bloom, here's a guide to their history",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Mon, 23 Mar 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/03/23/nx-s1-5756410/dc-cherry-blossoms-history-japan",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "UN warns Earth's climate being 'pushed beyond its limits' as El Niño looms",
-      "title_neutral": "UN warns Earth's climate being 'pushed beyond its limits' as El Niño looms",
-      "excerpt": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
-      "recap_neutral": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says",
-      "main_idea": "UN warns Earth's climate being 'pushed beyond its limits' as El Niño looms",
-      "tags": [
-        "conflict",
-        "climate"
-      ],
-      "source": "BBC World",
-      "published_at": "Mon, 23 Mar 2026 04:06:22 GMT",
-      "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1612,39 +1645,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "BTS release new album Arirang ahead of comeback concert",
-      "title_neutral": "BTS release new album Arirang ahead of comeback concert",
-      "excerpt": "Boyband drops album that speaks to its Korean roots ahead of Seoul comeback concert, with more than a quarter of a million fans expected to attend K-pop stars BTS released a new album on Friday billed as reflecting the maturing boy band’s Korean roots and identity, as buzz built ahead of their open…",
-      "recap_neutral": "Boyband drops album that speaks to its Korean roots ahead of Seoul comeback concert, with more than a quarter of a million fans expected to attend K-pop stars BTS released a new album on Friday billed as reflecting the…",
-      "main_idea": "BTS release new album Arirang ahead of comeback concert",
-      "tags": [],
-      "source": "The Guardian",
-      "published_at": "Fri, 20 Mar 2026 05:33:59 GMT",
-      "url": "https://www.theguardian.com/music/2026/mar/20/bts-arirang-new-album-comeback-concert-kpop",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Reliant on imported fuel, Pacific islands appeal for help as oil prices surge",
-      "title_neutral": "Reliant on imported fuel, Pacific islands appeal for help as oil prices surge",
-      "excerpt": "Samoa and Tonga raise supply concerns with foreign partners as businesses and residents in Papua New Guinea grapple with higher fuel prices amid the Iran war The leaders of some Pacific countries have appealed for help with oil supplies while others urge against “panic buying” as the import-reliant…",
-      "recap_neutral": "Samoa and Tonga raise supply concerns with foreign partners as businesses and residents in Papua New Guinea grapple with higher fuel prices amid the Iran war The leaders of some Pacific countries have appealed for help…",
-      "main_idea": "Reliant on imported fuel, Pacific islands appeal for help as oil prices surge",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Fri, 20 Mar 2026 02:52:28 GMT",
-      "url": "https://www.theguardian.com/world/2026/mar/20/reliant-on-imported-fuel-pacific-islands-appeal-for-help-as-oil-prices-surge",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
       "confidence": "heuristic"
     }
   ]
