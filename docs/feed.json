@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25T22:49:06.951797+00:00",
+  "last_updated": "2026-03-25T23:30:21.096543+00:00",
   "items": [
     {
       "title_original": "Canada’s Supreme Court Hears Case on Ability to Suspend Constitutional Rights",
@@ -9,7 +9,7 @@
       "main_idea": "Canada’s Supreme Court Hears Case on Ability to Suspend Constitutional Rights",
       "tags": [],
       "source": "NYTimes World",
-      "published_at": "Wed, 25 Mar 2026 22:32:15 +0000",
+      "published_at": "Wed, 25 Mar 2026 23:14:35 +0000",
       "url": "https://www.nytimes.com/2026/03/25/world/americas/canada-supreme-court-religion-bill-21.html",
       "lang": "en",
       "bias_score": 55,
@@ -26,11 +26,28 @@
         "conflict"
       ],
       "source": "NYTimes World",
-      "published_at": "Wed, 25 Mar 2026 22:28:13 +0000",
+      "published_at": "Wed, 25 Mar 2026 23:09:14 +0000",
       "url": "https://www.nytimes.com/live/2026/03/25/world/iran-war-trump-oil-news",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Meta and YouTube found liable in landmark social media addiction trial",
+      "title_neutral": "Meta and YouTube found liable in landmark social media addiction trial",
+      "excerpt": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
+      "recap_neutral": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US",
+      "main_idea": "Meta and YouTube found liable in landmark social media addiction trial",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 25 Mar 2026 22:59:23 GMT",
+      "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -64,23 +81,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Meta and YouTube found liable in landmark social media addiction trial",
-      "title_neutral": "Meta and YouTube found liable in landmark social media addiction trial",
-      "excerpt": "A woman has been awarded $3m in a verdict that could have implications for hundreds of other cases in the US.",
-      "recap_neutral": "A woman has been awarded $3m in a verdict that could have implications for hundreds of other cases in the US",
-      "main_idea": "Meta and YouTube found liable in landmark social media addiction trial",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Wed, 25 Mar 2026 21:06:23 GMT",
-      "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "No More Silent Analytics Bugs: All it Takes is One SDK and One Github Action",
       "title_neutral": "No More Silent Analytics Bugs: All it Takes is One SDK and One Github Action",
       "excerpt": "Avoid silent analytics bugs by using two Open Source tools. First, get free from vendor lock-in by replacing the vendor analytics SDKs with RudderStack SDK that will route your events to your vendors of choice and can replace the vendor without code change. Second, add the AI-powered Rudder GitHub…",
@@ -95,21 +95,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "China is mass-producing hypersonic missiles for $99,000",
-      "title_neutral": "China is mass-producing hypersonic missiles for $99,000",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "China is mass-producing hypersonic missiles for $99,000",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 25 Mar 2026 20:55:36 +0000",
-      "url": "https://kdwalmsley.substack.com/p/on-sale-now-china-is-mass-producing",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -163,6 +148,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range",
+      "title_neutral": "Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 25 Mar 2026 20:19:58 +0000",
+      "url": "https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "UN votes to recognise enslavement of Africans as 'gravest crime against humanity'",
       "title_neutral": "UN votes to recognise enslavement of Africans as 'gravest crime against humanity'",
       "excerpt": "The landmark resolution calls for an apology and contributions to a reparations fund, without specifying an amount.",
@@ -194,21 +194,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "FreeCAD v1.1",
-      "title_neutral": "FreeCAD v1.1",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "FreeCAD v1.1",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 25 Mar 2026 19:19:50 +0000",
-      "url": "https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -338,6 +323,23 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
+      "title_neutral": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Wed, 25 Mar 2026 17:10:21 +0000",
+      "url": "https://github.com/jonwiggins/optio",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1346,6 +1348,152 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "WSJ: США и Израиль исключили из списка целей главу МИД Ирана",
+      "title_neutral": "WSJ: США и Израиль исключили из списка целей главу МИД Ирана",
+      "excerpt": "По информации издания, этот шаг предприняли для проведения переговоров с представителями исламской республики",
+      "recap_neutral": "По информации издания, этот шаг предприняли для проведения переговоров с представителями исламской республики",
+      "main_idea": "WSJ: США и Израиль исключили из списка целей главу МИД Ирана",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 26 Mar 2026 02:26:47 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26889953",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "CNN: Иран укрепляет оборону острова Харк на случай атак США",
+      "title_neutral": "CNN: Иран укрепляет оборону острова Харк на случай атак США",
+      "excerpt": "",
+      "recap_neutral": "CNN: Иран укрепляет оборону острова Харк на случай атак США",
+      "main_idea": "CNN: Иран укрепляет оборону острова Харк на случай атак США",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 26 Mar 2026 02:26:44 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26889961",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Юрист Виноградов предупредил о штрафах за оскорбления в домовых чатах",
+      "title_neutral": "Юрист Виноградов предупредил о штрафах за оскорбления в домовых чатах",
+      "excerpt": "",
+      "recap_neutral": "Юрист Виноградов предупредил о штрафах за оскорбления в домовых чатах",
+      "main_idea": "Юрист Виноградов предупредил о штрафах за оскорбления в домовых чатах",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 26 Mar 2026 02:23:11 +0300",
+      "url": "https://tass.ru/obschestvo/26889947",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Стармер разрешил британским войскам задерживать суда \"теневого флота\"",
+      "title_neutral": "Стармер разрешил британским войскам задерживать суда \"теневого флота\"",
+      "excerpt": "",
+      "recap_neutral": "Стармер разрешил британским войскам задерживать суда \"теневого флота\"",
+      "main_idea": "Стармер разрешил британским войскам задерживать суда \"теневого флота\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 26 Mar 2026 02:20:44 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26889939",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Госдуме призвали поднять стипендии до прожиточного минимума",
+      "title_neutral": "В Госдуме призвали поднять стипендии до прожиточного минимума",
+      "excerpt": "Первый зампред комитета ГД по контролю Дмитрий Гусев подчеркнул, что из-за низкого уровня выплат более половины студентов вынуждены совмещать учебу с работой, зачастую не связанной со специальностью",
+      "recap_neutral": "Первый зампред комитета ГД по контролю Дмитрий Гусев подчеркнул, что из-за низкого уровня выплат более половины студентов вынуждены совмещать учебу с работой, зачастую не связанной со специальностью",
+      "main_idea": "В Госдуме призвали поднять стипендии до прожиточного минимума",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 26 Mar 2026 02:12:59 +0300",
+      "url": "https://tass.ru/obschestvo/26889931",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"М.Видео\" начала продавать билеты на концерты",
+      "title_neutral": "\"М.Видео\" начала продавать билеты на концерты",
+      "excerpt": "Это часть стратегии компании по развитию новых категорий, выходящих за рамки традиционного ассортимента электроники",
+      "recap_neutral": "Это часть стратегии компании по развитию новых категорий, выходящих за рамки традиционного ассортимента электроники",
+      "main_idea": "\"М.Видео\" начала продавать билеты на концерты",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 26 Mar 2026 02:03:37 +0300",
+      "url": "https://tass.ru/ekonomika/26889929",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Марочко: ВС РФ с юго-востока подошли к Рай-Александровке",
+      "title_neutral": "Марочко: ВС РФ с юго-востока подошли к Рай-Александровке",
+      "excerpt": "Военный эксперт сообщил, что российские силы начали бои за освобождение населенного пункта",
+      "recap_neutral": "Военный эксперт сообщил, что российские силы начали бои за освобождение населенного пункта",
+      "main_idea": "Марочко: ВС РФ с юго-востока подошли к Рай-Александровке",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 26 Mar 2026 02:00:50 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26889921",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Asharq al-Awsat: армия Израиля заняла восемь населенных пунктов на юге Ливана",
+      "title_neutral": "Asharq al-Awsat: армия Израиля заняла восемь населенных пунктов на юге Ливана",
+      "excerpt": "По информации газеты, ВС еврейского государства вторглись на 5 км вглубь ливанской территории",
+      "recap_neutral": "По информации газеты, ВС еврейского государства вторглись на 5 км вглубь ливанской территории",
+      "main_idea": "Asharq al-Awsat: армия Израиля заняла восемь населенных пунктов на юге Ливана",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 26 Mar 2026 01:59:53 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26889915",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Юрист Пачулия: за табачный дым от соседей можно получить компенсацию",
+      "title_neutral": "Юрист Пачулия: за табачный дым от соседей можно получить компенсацию",
+      "excerpt": "Ее размер может достигать 20 тыс. рублей, однако каждый случай суд рассматривает индивидуально с учетом всех обстоятельств, отметил преподаватель кафедры семейного и жилищного права Университета имени О. Е. Кутафина (МГЮА)",
+      "recap_neutral": "Ее размер может достигать 20 тыс",
+      "main_idea": "Юрист Пачулия: за табачный дым от соседей можно получить компенсацию",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 26 Mar 2026 01:53:12 +0300",
+      "url": "https://tass.ru/obschestvo/26889901",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Бастрыкин потребовал доклад из-за проживания людей в аварийном доме на Камчатке",
       "title_neutral": "Бастрыкин потребовал доклад из-за проживания людей в аварийном доме на Камчатке",
       "excerpt": "Как сообщили в управлении СК по региону, расселение дома запланировано лишь на 2028-2029 годы",
@@ -1439,153 +1587,6 @@
       "source": "ТАСС",
       "published_at": "Thu, 26 Mar 2026 01:19:38 +0300",
       "url": "https://tass.ru/obschestvo/26889805",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мирошник: иранский кризис может подтолкнуть Киев к прагматизму на переговорах",
-      "title_neutral": "Мирошник: иранский кризис может подтолкнуть Киев к прагматизму на переговорах",
-      "excerpt": "Посол по особым поручениям МИД РФ считает, что любое воздействие на способность Запада финансировать украинский конфликт \"меняет переговорные условия для достижения урегулирования\"",
-      "recap_neutral": "Посол по особым поручениям МИД РФ считает, что любое воздействие на способность Запада финансировать украинский конфликт \"меняет переговорные условия для достижения урегулирования\"",
-      "main_idea": "Мирошник: иранский кризис может подтолкнуть Киев к прагматизму на переговорах",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 26 Mar 2026 01:17:45 +0300",
-      "url": "https://tass.ru/politika/26889853",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В РФ каждый третий опрошенный советуется с ИИ перед крупными покупками",
-      "title_neutral": "В РФ каждый третий опрошенный советуется с ИИ перед крупными покупками",
-      "excerpt": "В частности, респонденты просят нейросеть найти наиболее выгодные цены, а также помочь выбрать между несколькими вариантами, сообщили в компании \"Альфастрахование\"",
-      "recap_neutral": "В частности, респонденты просят нейросеть найти наиболее выгодные цены, а также помочь выбрать между несколькими вариантами, сообщили в компании \"Альфастрахование\"",
-      "main_idea": "В РФ каждый третий опрошенный советуется с ИИ перед крупными покупками",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 26 Mar 2026 01:13:32 +0300",
-      "url": "https://tass.ru/ekonomika/26889811",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Аэропорт Пулково приостановил прием и отправку самолетов",
-      "title_neutral": "Аэропорт Пулково приостановил прием и отправку самолетов",
-      "excerpt": "Меры необходимы для обеспечения безопасности полетов",
-      "recap_neutral": "Меры необходимы для обеспечения безопасности полетов",
-      "main_idea": "Аэропорт Пулково приостановил прием и отправку самолетов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 26 Mar 2026 01:12:43 +0300",
-      "url": "https://tass.ru/ekonomika/26889829",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Приморье отклонили апелляцию экс-ректора ВГУЭС на изменение подсудности дела",
-      "title_neutral": "В Приморье отклонили апелляцию экс-ректора ВГУЭС на изменение подсудности дела",
-      "excerpt": "Геннадия Лазарева обвиняют в создании преступного сообщества",
-      "recap_neutral": "Геннадия Лазарева обвиняют в создании преступного сообщества",
-      "main_idea": "В Приморье отклонили апелляцию экс-ректора ВГУЭС на изменение подсудности дела",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 26 Mar 2026 01:07:13 +0300",
-      "url": "https://tass.ru/obschestvo/26889793",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Новгородской области объявили опасность БПЛА",
-      "title_neutral": "В Новгородской области объявили опасность БПЛА",
-      "excerpt": "Об этом сообщили в приложении МЧС России",
-      "recap_neutral": "Об этом сообщили в приложении МЧС России",
-      "main_idea": "В Новгородской области объявили опасность БПЛА",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 26 Mar 2026 01:03:34 +0300",
-      "url": "https://tass.ru/proisshestviya/26889799",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Марочко: ВС РФ начинают бои за Рай-Александровку после освобождения Никифоровки",
-      "title_neutral": "Марочко: ВС РФ начинают бои за Рай-Александровку после освобождения Никифоровки",
-      "excerpt": "Военный эксперт отметил, что за последнее время у российских бойцов \"сильно оживилось славянское направление\"",
-      "recap_neutral": "Военный эксперт отметил, что за последнее время у российских бойцов \"сильно оживилось славянское направление\"",
-      "main_idea": "Марочко: ВС РФ начинают бои за Рай-Александровку после освобождения Никифоровки",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 26 Mar 2026 01:01:55 +0300",
-      "url": "https://tass.ru/armiya-i-opk/26889785",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Ленобласти объявили опасность БПЛА",
-      "title_neutral": "В Ленобласти объявили опасность БПЛА",
-      "excerpt": "В регионе возможно понижение скорости мобильного интернета",
-      "recap_neutral": "В регионе возможно понижение скорости мобильного интернета",
-      "main_idea": "В Ленобласти объявили опасность БПЛА",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 26 Mar 2026 00:54:39 +0300",
-      "url": "https://tass.ru/proisshestviya/26889777",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Пулково принимает и отправляет рейсы по согласованию",
-      "title_neutral": "Пулково принимает и отправляет рейсы по согласованию",
-      "excerpt": "Возможны корректировки в расписании рейсов, сообщили в Росавиации",
-      "recap_neutral": "Возможны корректировки в расписании рейсов, сообщили в Росавиации",
-      "main_idea": "Пулково принимает и отправляет рейсы по согласованию",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 26 Mar 2026 00:48:43 +0300",
-      "url": "https://tass.ru/ekonomika/26889761",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Севастополе военные отражают атаку ВСУ",
-      "title_neutral": "В Севастополе военные отражают атаку ВСУ",
-      "excerpt": "Силы ПВО сбили одну воздушную цель",
-      "recap_neutral": "Силы ПВО сбили одну воздушную цель",
-      "main_idea": "В Севастополе военные отражают атаку ВСУ",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 26 Mar 2026 00:46:00 +0300",
-      "url": "https://tass.ru/proisshestviya/26889757",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
