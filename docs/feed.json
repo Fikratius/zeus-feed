@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T11:38:45.495253+00:00",
+  "last_updated": "2026-03-27T12:57:16.514454+00:00",
   "items": [
     {
       "title_original": "UN votes to describe slave trade as ‘gravest crime against humanity’",
@@ -220,21 +220,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Spanish woman dies by euthanasia after long legal battle with father",
-      "title_neutral": "Spanish woman dies by euthanasia after long legal battle with father",
-      "excerpt": "The European Court of Human Rights (ECHR) ruled in Noelia Castillo's favour earlier this week.",
-      "recap_neutral": "The European Court of Human Rights (ECHR) ruled in Noelia Castillo's favour earlier this week",
-      "main_idea": "Spanish woman dies by euthanasia after long legal battle with father",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Thu, 26 Mar 2026 20:33:07 GMT",
-      "url": "https://www.bbc.com/news/articles/c7vqdd23y0vo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Hungary Opens Espionage Case Against Journalist",
       "title_neutral": "Hungary Opens Espionage Case Against Journalist",
       "excerpt": "The government of Prime Minister Viktor Orban has pursued an intensifying campaign against critics in a tough race before April elections.",
@@ -335,6 +320,23 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "My minute-by-minute response to the LiteLLM malware attack",
+      "title_neutral": "My minute-by-minute response to the LiteLLM malware attack",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "My minute-by-minute response to the LiteLLM malware attack",
+      "tags": [
+        "conflict"
+      ],
+      "source": "Hacker News",
+      "published_at": "Thu, 26 Mar 2026 15:48:40 +0000",
+      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -461,21 +463,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Show HN: Minimalist library to generate SVG views of scientific data",
-      "title_neutral": "Show HN: Minimalist library to generate SVG views of scientific data",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Minimalist library to generate SVG views of scientific data",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 23 Mar 2026 17:54:51 +0000",
-      "url": "https://github.com/alefore/mini_svg/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "DOOM Over DNS",
       "title_neutral": "DOOM Over DNS",
       "excerpt": "Comments",
@@ -506,260 +493,308 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Аэропорт Пулково вернулся к штатной работе после ограничений",
-      "title_neutral": "Аэропорт Пулково вернулся к штатной работе после ограничений",
-      "excerpt": "Возможны корректировки расписания",
-      "recap_neutral": "Возможны корректировки расписания",
-      "main_idea": "Аэропорт Пулково вернулся к штатной работе после ограничений",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 27 Mar 2026 14:35:06 +0300",
-      "url": "https://tass.ru/ekonomika/26912977",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Из Одесского университета уволили профессора за занятия на русском языке",
-      "title_neutral": "Из Одесского университета уволили профессора за занятия на русском языке",
-      "excerpt": "На преподавателя пожаловался один из студентов",
-      "recap_neutral": "На преподавателя пожаловался один из студентов",
-      "main_idea": "Из Одесского университета уволили профессора за занятия на русском языке",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 27 Mar 2026 14:34:10 +0300",
-      "url": "https://tass.ru/obschestvo/26912967",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Экс-главу управления транспорта Тулы будут судить по делу о контрафактном табаке",
-      "title_neutral": "Экс-главу управления транспорта Тулы будут судить по делу о контрафактном табаке",
-      "excerpt": "Ущерб, причиненный правообладателям товарных знаков, которые использовали обвиняемые в криминальном бизнесе, превысил 1 млн рублей",
-      "recap_neutral": "Ущерб, причиненный правообладателям товарных знаков, которые использовали обвиняемые в криминальном бизнесе, превысил 1 млн рублей",
-      "main_idea": "Экс-главу управления транспорта Тулы будут судить по делу о контрафактном табаке",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 27 Mar 2026 14:34:09 +0300",
-      "url": "https://tass.ru/proisshestviya/26912945",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Алиханов призвал интегрировать в биоэкономику ИИ и обработки больших данных",
-      "title_neutral": "Алиханов призвал интегрировать в биоэкономику ИИ и обработки больших данных",
-      "excerpt": "Глава Минпромторга отметил необходимость развивать молекулярную и генную инженерию, биоинформатику и вычислительную биологию",
-      "recap_neutral": "Глава Минпромторга отметил необходимость развивать молекулярную и генную инженерию, биоинформатику и вычислительную биологию",
-      "main_idea": "Алиханов призвал интегрировать в биоэкономику ИИ и обработки больших данных",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 27 Mar 2026 14:32:35 +0300",
-      "url": "https://tass.ru/ekonomika/26912923",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин: в РФ культурная жизнь должна быть по всей стране, а не только в столицах",
-      "title_neutral": "Путин: в РФ культурная жизнь должна быть по всей стране, а не только в столицах",
-      "excerpt": "Важно, чтобы граждане имели возможность видеть уникальные работы известных режиссеров, размышлять над спектаклями, наслаждаться актерским мастерством непосредственно там, где они живут, отметил президент",
-      "recap_neutral": "Важно, чтобы граждане имели возможность видеть уникальные работы известных режиссеров, размышлять над спектаклями, наслаждаться актерским мастерством непосредственно там, где они живут, отметил президент",
-      "main_idea": "Путин: в РФ культурная жизнь должна быть по всей стране, а не только в столицах",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 27 Mar 2026 14:32:22 +0300",
-      "url": "https://tass.ru/obschestvo/26912951",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Использование шахтных вод в Горловке осложнено их химическим составом",
-      "title_neutral": "Использование шахтных вод в Горловке осложнено их химическим составом",
-      "excerpt": "По словам замглавы администрации муниципалитета Алексея Ивахненко, город, как и вся республика, испытывает дефицит воды",
-      "recap_neutral": "По словам замглавы администрации муниципалитета Алексея Ивахненко, город, как и вся республика, испытывает дефицит воды",
-      "main_idea": "Использование шахтных вод в Горловке осложнено их химическим составом",
+      "title_original": "Нарышкин отметил высочайший профессионализм бойцов Росгвардии",
+      "title_neutral": "Нарышкин отметил высочайший профессионализм бойцов Росгвардии",
+      "excerpt": "Директор Службы внешней разведки указал, что они непоколебимо стоят на страже правопорядка",
+      "recap_neutral": "Директор Службы внешней разведки указал, что они непоколебимо стоят на страже правопорядка",
+      "main_idea": "Нарышкин отметил высочайший профессионализм бойцов Росгвардии",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 27 Mar 2026 14:31:46 +0300",
-      "url": "https://tass.ru/obschestvo/26912773",
+      "published_at": "Fri, 27 Mar 2026 15:53:52 +0300",
+      "url": "https://tass.ru/obschestvo/26913989",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Дело экс-директора нижегородского филиала РАНХиГС передали в суд",
-      "title_neutral": "Дело экс-директора нижегородского филиала РАНХиГС передали в суд",
-      "excerpt": "Следствие считает, что Александр Парамонов устроил на работу специалиста, который фактически был личным водителем его жены, а также незаконно получил от подчиненных 7,9 млн рублей, начисленные им в качестве премий",
-      "recap_neutral": "Следствие считает, что Александр Парамонов устроил на работу специалиста, который фактически был личным водителем его жены, а также незаконно получил от подчиненных 7,9 млн рублей, начисленные им в качестве премий",
-      "main_idea": "Дело экс-директора нижегородского филиала РАНХиГС передали в суд",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 27 Mar 2026 14:29:52 +0300",
-      "url": "https://tass.ru/obschestvo/26912833",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин поздравил россиян с Международным днем театра",
-      "title_neutral": "Путин поздравил россиян с Международным днем театра",
-      "excerpt": "Он отмечается 27 марта",
-      "recap_neutral": "Он отмечается 27 марта",
-      "main_idea": "Путин поздравил россиян с Международным днем театра",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 27 Mar 2026 14:29:13 +0300",
-      "url": "https://tass.ru/obschestvo/26912899",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Население Белоруссии за 2025 год уменьшилось на 53,2 тыс. человек",
-      "title_neutral": "Население Белоруссии за 2025 год уменьшилось на 53,2 тыс. человек",
-      "excerpt": "В в январе 2025 года численность населения составляла 9 млн 109 тыс. 280 человек",
-      "recap_neutral": "В в январе 2025 года численность населения составляла 9 млн 109 тыс",
-      "main_idea": "Население Белоруссии за 2025 год уменьшилось на 53,2 тыс. человек",
+      "title_original": "Приговор генерал-майору запаса Кувшинову по делу о коррупции огласят 30 марта",
+      "title_neutral": "Приговор генерал-майору запаса Кувшинову по делу о коррупции огласят 30 марта",
+      "excerpt": "Гособвинение просит назначить подсудимому 7,5 года лишения свободы",
+      "recap_neutral": "Гособвинение просит назначить подсудимому 7,5 года лишения свободы",
+      "main_idea": "Приговор генерал-майору запаса Кувшинову по делу о коррупции огласят 30 марта",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 27 Mar 2026 14:29:06 +0300",
-      "url": "https://tass.ru/obschestvo/26912837",
+      "published_at": "Fri, 27 Mar 2026 15:52:19 +0300",
+      "url": "https://tass.ru/proisshestviya/26913941",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В \"Зарядье\" выступят пианистка Элисо Вирсаладзе и Российский национальный оркестр",
-      "title_neutral": "В \"Зарядье\" выступят пианистка Элисо Вирсаладзе и Российский национальный оркестр",
-      "excerpt": "Дирижером выступит руководитель РНО Александр Рудин",
-      "recap_neutral": "Дирижером выступит руководитель РНО Александр Рудин",
-      "main_idea": "В \"Зарядье\" выступят пианистка Элисо Вирсаладзе и Российский национальный оркестр",
+      "title_original": "Добыча \"Алросы\" в 2025 году упала на 10%",
+      "title_neutral": "Добыча \"Алросы\" в 2025 году упала на 10%",
+      "excerpt": "",
+      "recap_neutral": "Добыча \"Алросы\" в 2025 году упала на 10%",
+      "main_idea": "Добыча \"Алросы\" в 2025 году упала на 10%",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 27 Mar 2026 14:28:35 +0300",
-      "url": "https://tass.ru/kultura/26912709",
+      "published_at": "Fri, 27 Mar 2026 15:51:53 +0300",
+      "url": "https://tass.ru/ekonomika/26913983",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Конгрессмены подарили депутатам Госдумы носки с Трампом",
-      "title_neutral": "Конгрессмены подарили депутатам Госдумы носки с Трампом",
-      "excerpt": "Зампред комитета ГД по экономполитике Михаил Делягин отметил, что также парламентарии получили личный жетон от конгрессвумен Анны Паулины Луны",
-      "recap_neutral": "Зампред комитета ГД по экономполитике Михаил Делягин отметил, что также парламентарии получили личный жетон от конгрессвумен Анны Паулины Луны",
-      "main_idea": "Конгрессмены подарили депутатам Госдумы носки с Трампом",
+      "title_original": "Рубио: США добиваются скорейшего завершения конфликта на Украине",
+      "title_neutral": "Рубио: США добиваются скорейшего завершения конфликта на Украине",
+      "excerpt": "Американский госсекретарь отметил, что президент Соединенных Штатов Дональд Трамп привержен обеспечению прекращения огня",
+      "recap_neutral": "Американский госсекретарь отметил, что президент Соединенных Штатов Дональд Трамп привержен обеспечению прекращения огня",
+      "main_idea": "Рубио: США добиваются скорейшего завершения конфликта на Украине",
       "tags": [
         "politics",
-        "economy",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 27 Mar 2026 14:27:31 +0300",
-      "url": "https://tass.ru/politika/26912843",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Делягин: визит депутатов в США готовили в закрытом режиме",
-      "title_neutral": "Делягин: визит депутатов в США готовили в закрытом режиме",
-      "excerpt": "Это было необходимо во избежание провокаций, отметил член делегации",
-      "recap_neutral": "Это было необходимо во избежание провокаций, отметил член делегации",
-      "main_idea": "Делягин: визит депутатов в США готовили в закрытом режиме",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 27 Mar 2026 14:27:08 +0300",
-      "url": "https://tass.ru/politika/26912827",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Иране число гражданских объектов, поврежденных при авиаударах, возросло до 92 тыс.",
-      "title_neutral": "В Иране число гражданских объектов, поврежденных при авиаударах, возросло до 92 тыс.",
-      "excerpt": "",
-      "recap_neutral": "В Иране число гражданских объектов, поврежденных при авиаударах, возросло до 92 тыс.",
-      "main_idea": "В Иране число гражданских объектов, поврежденных при авиаударах, возросло до 92 тыс.",
-      "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 27 Mar 2026 14:26:16 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26912875",
+      "published_at": "Fri, 27 Mar 2026 15:51:52 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26913959",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Тель-Авиве сработали сирены воздушной тревоги",
-      "title_neutral": "В Тель-Авиве сработали сирены воздушной тревоги",
+      "title_original": "Володин отметил эффективность принятых мер по борьбе с кибермошенниками",
+      "title_neutral": "Володин отметил эффективность принятых мер по борьбе с кибермошенниками",
+      "excerpt": "Председатель Госдумы указал, что удалось переломить негативную тенденцию, когда из года в год количество киберпреступлений росло",
+      "recap_neutral": "Председатель Госдумы указал, что удалось переломить негативную тенденцию, когда из года в год количество киберпреступлений росло",
+      "main_idea": "Володин отметил эффективность принятых мер по борьбе с кибермошенниками",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 27 Mar 2026 15:50:39 +0300",
+      "url": "https://tass.ru/ekonomika/26913953",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "СК Армении завершил предварительное следствие по делу в против Карапетяна",
+      "title_neutral": "СК Армении завершил предварительное следствие по делу в против Карапетяна",
       "excerpt": "",
-      "recap_neutral": "В Тель-Авиве сработали сирены воздушной тревоги",
-      "main_idea": "В Тель-Авиве сработали сирены воздушной тревоги",
-      "tags": [],
+      "recap_neutral": "СК Армении завершил предварительное следствие по делу в против Карапетяна",
+      "main_idea": "СК Армении завершил предварительное следствие по делу в против Карапетяна",
+      "tags": [
+        "tech"
+      ],
       "source": "ТАСС",
-      "published_at": "Fri, 27 Mar 2026 14:25:50 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26912853",
+      "published_at": "Fri, 27 Mar 2026 15:50:28 +0300",
+      "url": "https://tass.ru/proisshestviya/26913977",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Херсонской области при обстрелах ВСУ с 2022 года погибли 14 детей",
-      "title_neutral": "В Херсонской области при обстрелах ВСУ с 2022 года погибли 14 детей",
-      "excerpt": "Еще 54 пострадали",
-      "recap_neutral": "Еще 54 пострадали",
-      "main_idea": "В Херсонской области при обстрелах ВСУ с 2022 года погибли 14 детей",
+      "title_original": "В Нижегородской области спасли застрявшего в ванной питона",
+      "title_neutral": "В Нижегородской области спасли застрявшего в ванной питона",
+      "excerpt": "Чтобы не навредить змее, часть санузла разобрали",
+      "recap_neutral": "Чтобы не навредить змее, часть санузла разобрали",
+      "main_idea": "В Нижегородской области спасли застрявшего в ванной питона",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 27 Mar 2026 14:25:31 +0300",
-      "url": "https://tass.ru/proisshestviya/26912595",
+      "published_at": "Fri, 27 Mar 2026 15:49:33 +0300",
+      "url": "https://tass.ru/obschestvo/26913947",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Humpback Whale Is Freed After Days Stranded Off German Beach",
-      "title_neutral": "Humpback Whale Is Freed After Days Stranded Off German Beach",
-      "excerpt": "In an unexpected breakthrough, the 40-foot mammal swam to deeper water on Friday morning through a channel that rescuers had dug for it.",
-      "recap_neutral": "In an unexpected breakthrough, the 40-foot mammal swam to deeper water on Friday morning through a channel that rescuers had dug for it",
-      "main_idea": "Humpback Whale Is Freed After Days Stranded Off German Beach",
+      "title_original": "В Баксане в Кабардино-Балкарии открыли аллею памяти участников СВО",
+      "title_neutral": "В Баксане в Кабардино-Балкарии открыли аллею памяти участников СВО",
+      "excerpt": "В парке посадили березы, на деревьях указали имена военнослужащих",
+      "recap_neutral": "В парке посадили березы, на деревьях указали имена военнослужащих",
+      "main_idea": "В Баксане в Кабардино-Балкарии открыли аллею памяти участников СВО",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 27 Mar 2026 15:48:16 +0300",
+      "url": "https://tass.ru/obschestvo/26913939",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Селигдар\" планирует произвести около 9 тонн золота в 2026 году",
+      "title_neutral": "\"Селигдар\" планирует произвести около 9 тонн золота в 2026 году",
+      "excerpt": "Запланировано также производство более 4 тыс. тонн олова, сообщил президент и председатель совета директоров компании Александр Хрущ",
+      "recap_neutral": "Запланировано также производство более 4 тыс",
+      "main_idea": "\"Селигдар\" планирует произвести около 9 тонн золота в 2026 году",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 27 Mar 2026 15:47:28 +0300",
+      "url": "https://tass.ru/ekonomika/26913893",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AFP: встреча глав МИД G7 завершится без принятия совместного итогового решения",
+      "title_neutral": "AFP: встреча глав МИД G7 завершится без принятия совместного итогового решения",
+      "excerpt": "Агентство указывает, что такой шаг не соответствует традиционному протоколу подобных встреч",
+      "recap_neutral": "Агентство указывает, что такой шаг не соответствует традиционному протоколу подобных встреч",
+      "main_idea": "AFP: встреча глав МИД G7 завершится без принятия совместного итогового решения",
       "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Fri, 27 Mar 2026 11:33:32 +0000",
-      "url": "https://www.nytimes.com/2026/03/27/world/europe/stranded-whale-germany-baltic-freed.html",
+      "source": "ТАСС",
+      "published_at": "Fri, 27 Mar 2026 15:46:43 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26913907",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Медведев напомнил Каллас, что ее родная Эстония в прошлом также была частью России",
+      "title_neutral": "Медведев напомнил Каллас, что ее родная Эстония в прошлом также была частью России",
+      "excerpt": "",
+      "recap_neutral": "Медведев напомнил Каллас, что ее родная Эстония в прошлом также была частью России",
+      "main_idea": "Медведев напомнил Каллас, что ее родная Эстония в прошлом также была частью России",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 27 Mar 2026 15:46:40 +0300",
+      "url": "https://tass.ru/politika/26913927",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Роскосмос и Президентская академия подписали договор о партнерстве",
+      "title_neutral": "Роскосмос и Президентская академия подписали договор о партнерстве",
+      "excerpt": "В мероприятии приняли участие заместитель генерального директора Роскосмоса Сергей Крикалев, глава Центра подготовки космонавтов им. Ю. А. Гагарина Олег Кононенко и заместитель начальника НИИ ЦПК Олег Новицкий",
+      "recap_neutral": "В мероприятии приняли участие заместитель генерального директора Роскосмоса Сергей Крикалев, глава Центра подготовки космонавтов им",
+      "main_idea": "Роскосмос и Президентская академия подписали договор о партнерстве",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 27 Mar 2026 15:46:29 +0300",
+      "url": "https://tass.ru/nauka/26913919",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Госсовет: развитие биоэкономики в РФ должно опираться на сильные стороны регионов",
+      "title_neutral": "Госсовет: развитие биоэкономики в РФ должно опираться на сильные стороны регионов",
+      "excerpt": "Для эффективной кооперации ресурсов регионов планируется разработать научно-технологическое ядро отрасли, заявил губернатор Самарской области Вячеслав Федорищев",
+      "recap_neutral": "Для эффективной кооперации ресурсов регионов планируется разработать научно-технологическое ядро отрасли, заявил губернатор Самарской области Вячеслав Федорищев",
+      "main_idea": "Госсовет: развитие биоэкономики в РФ должно опираться на сильные стороны регионов",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 27 Mar 2026 15:45:48 +0300",
+      "url": "https://tass.ru/ekonomika/26913883",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ЦБ Испании не исключил роста инфляции при затяжном конфликте вокруг Ирана",
+      "title_neutral": "ЦБ Испании не исключил роста инфляции при затяжном конфликте вокруг Ирана",
+      "excerpt": "Сценарии, характеризующиеся более продолжительными перебоями на энергетических рынках, могут привести к росту в 2026 и 2027 годах до 5,9% и 3,2% соответственно, отметили в банке.",
+      "recap_neutral": "Сценарии, характеризующиеся более продолжительными перебоями на энергетических рынках, могут привести к росту в 2026 и 2027 годах до 5,9% и 3,2% соответственно, отметили в банке",
+      "main_idea": "ЦБ Испании не исключил роста инфляции при затяжном конфликте вокруг Ирана",
+      "tags": [
+        "economy",
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 27 Mar 2026 15:45:07 +0300",
+      "url": "https://tass.ru/ekonomika/26913871",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Жительницу Дагестана приговорили к пяти годам колонии за истязание дочери",
+      "title_neutral": "Жительницу Дагестана приговорили к пяти годам колонии за истязание дочери",
+      "excerpt": "Следствием и судом установлено, что в период с января по март 2024 года обвиняемая систематически избивала свою малолетнюю дочь",
+      "recap_neutral": "Следствием и судом установлено, что в период с января по март 2024 года обвиняемая систематически избивала свою малолетнюю дочь",
+      "main_idea": "Жительницу Дагестана приговорили к пяти годам колонии за истязание дочери",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 27 Mar 2026 15:44:49 +0300",
+      "url": "https://tass.ru/proisshestviya/26913879",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Savannah Guthrie to return to Today show as search for mother continues",
+      "title_neutral": "Savannah Guthrie to return to Today show as search for mother continues",
+      "excerpt": "The US television presenter will return to hosting the NBC news programme in April.",
+      "recap_neutral": "The US television presenter will return to hosting the NBC news programme in April",
+      "main_idea": "Savannah Guthrie to return to Today show as search for mother continues",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Fri, 27 Mar 2026 12:45:15 GMT",
+      "url": "https://www.bbc.com/news/articles/c79jd4x572qo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Two Cuba-bound aid ships missing after leaving Mexico",
+      "title_neutral": "Two Cuba-bound aid ships missing after leaving Mexico",
+      "excerpt": "Mexico's navy launches a rescue mission for ships delivering aid to Cuba, strained by food and fuel shortages amid a US embargo.",
+      "recap_neutral": "Mexico's navy launches a rescue mission for ships delivering aid to Cuba, strained by food and fuel shortages amid a US embargo",
+      "main_idea": "Two Cuba-bound aid ships missing after leaving Mexico",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 27 Mar 2026 12:31:17 GMT",
+      "url": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Palestinian man killed as death toll from West Bank settler violence climbs",
+      "title_neutral": "Palestinian man killed as death toll from West Bank settler violence climbs",
+      "excerpt": "Mohammad al-Malhi is the seventh Palestinian killed by a settler in a surge of violence since the start of the war with Iran.",
+      "recap_neutral": "Mohammad al-Malhi is the seventh Palestinian killed by a settler in a surge of violence since the start of the war with Iran",
+      "main_idea": "Palestinian man killed as death toll from West Bank settler violence climbs",
+      "tags": [
+        "economy",
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 27 Mar 2026 12:30:10 GMT",
+      "url": "https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -774,7 +809,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Fri, 27 Mar 2026 11:10:30 +0000",
+      "published_at": "Fri, 27 Mar 2026 12:29:07 +0000",
       "url": "https://www.nytimes.com/live/2026/03/27/world/iran-war-trump-oil-israel",
       "lang": "en",
       "bias_score": 55,
@@ -782,11 +817,81 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Marco Rubio meets G7 counterparts amid Iran war",
-      "title_neutral": "Marco Rubio meets G7 counterparts amid Iran war",
+      "title_original": "Spanish woman who died through euthanasia failed by state, say critics",
+      "title_neutral": "Spanish woman who died through euthanasia failed by state, say critics",
+      "excerpt": "Noelia Castillo died on Thursday evening in a Barcelona hospital, after a protracted legal battle with her own father.",
+      "recap_neutral": "Noelia Castillo died on Thursday evening in a Barcelona hospital, after a protracted legal battle with her own father",
+      "main_idea": "Spanish woman who died through euthanasia failed by state, say critics",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 27 Mar 2026 12:09:06 GMT",
+      "url": "https://www.bbc.com/news/articles/c4g8w4xp97jo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "UN human rights chief calls on US to conclude probe into Iran school strike",
+      "title_neutral": "UN human rights chief calls on US to conclude probe into Iran school strike",
+      "excerpt": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said.",
+      "recap_neutral": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said",
+      "main_idea": "UN human rights chief calls on US to conclude probe into Iran school strike",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 27 Mar 2026 12:06:18 GMT",
+      "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Soaring Diesel Prices Set Off Transport Strike in Philippines",
+      "title_neutral": "Soaring Diesel Prices Set Off Transport Strike in Philippines",
+      "excerpt": "Transport workers in Manila walked off the job to protest the rising cost of fuel, as the war in the Middle East causes a national energy emergency.",
+      "recap_neutral": "Transport workers in Manila walked off the job to protest the rising cost of fuel, as the war in the Middle East causes a national energy emergency",
+      "main_idea": "Soaring Diesel Prices Set Off Transport Strike in Philippines",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 27 Mar 2026 12:03:43 +0000",
+      "url": "https://www.nytimes.com/2026/03/27/world/middleeast/manila-jeepney-drivers-strike-fuel.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Europeans Are Angry at Trump, but Often Forgiving of Americans",
+      "title_neutral": "Europeans Are Angry at Trump, but Often Forgiving of Americans",
+      "excerpt": "A generation ago, foreign fury over the Iraq invasion often blurred into anti-Americanism. Now, some Europeans seem ready to distinguish between the president and the American people.",
+      "recap_neutral": "A generation ago, foreign fury over the Iraq invasion often blurred into anti-Americanism",
+      "main_idea": "Europeans Are Angry at Trump, but Often Forgiving of Americans",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 27 Mar 2026 11:46:34 +0000",
+      "url": "https://www.nytimes.com/2026/03/27/world/europe/europe-trump-sentiment.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Marco Rubio joins G7 talks with focus on Iran war",
+      "title_neutral": "Marco Rubio joins G7 talks with focus on Iran war",
       "excerpt": "It is the secretary of state's first foreign trip since the conflict began last month.",
       "recap_neutral": "It is the secretary of state's first foreign trip since the conflict began last month",
-      "main_idea": "Marco Rubio meets G7 counterparts amid Iran war",
+      "main_idea": "Marco Rubio joins G7 talks with focus on Iran war",
       "tags": [
         "conflict"
       ],
@@ -919,23 +1024,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Europeans Are Angry at Trump, but Often Forgiving of Americans",
-      "title_neutral": "Europeans Are Angry at Trump, but Often Forgiving of Americans",
-      "excerpt": "A generation ago, foreign fury over the Iraq invasion often blurred into anti-Americanism. Now, some Europeans seem ready to distinguish between the president and the American people.",
-      "recap_neutral": "A generation ago, foreign fury over the Iraq invasion often blurred into anti-Americanism",
-      "main_idea": "Europeans Are Angry at Trump, but Often Forgiving of Americans",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 27 Mar 2026 09:03:47 +0000",
-      "url": "https://www.nytimes.com/2026/03/27/world/europe/europe-trump-sentiment.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "U.S. May Label Brazilian Gangs as Terror Groups, After Push by the Bolsonaros",
       "title_neutral": "U.S. May Label Brazilian Gangs as Terror Groups, After Push by the Bolsonaros",
       "excerpt": "The Trump administration is weighing declaring Brazil’s two largest drug gangs terrorist groups, after lobbying by the sons of jailed former President Jair Bolsonaro.",
@@ -966,21 +1054,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "South Africa's exclusion from G7 summit no surprise, says Ramaphosa",
-      "title_neutral": "South Africa's exclusion from G7 summit no surprise, says Ramaphosa",
-      "excerpt": "Reports say the US pressured France to rescind Ramaphosa’s invitation after Trump threatened to boycott the summit.",
-      "recap_neutral": "Reports say the US pressured France to rescind Ramaphosa’s invitation after Trump threatened to boycott the summit",
-      "main_idea": "South Africa's exclusion from G7 summit no surprise, says Ramaphosa",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 27 Mar 2026 08:16:37 GMT",
-      "url": "https://www.bbc.com/news/articles/c4g8w9d3j0xo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1306,23 +1379,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Panic buying prompts PM to reassure Australians over fuel supply",
-      "title_neutral": "Panic buying prompts PM to reassure Australians over fuel supply",
-      "excerpt": "Anthony Albanese says nation's supply remains \"secure\" amid reports of panic buying and shortages.",
-      "recap_neutral": "Anthony Albanese says nation's supply remains \"secure\" amid reports of panic buying and shortages",
-      "main_idea": "Panic buying prompts PM to reassure Australians over fuel supply",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 27 Mar 2026 06:32:59 GMT",
-      "url": "https://www.bbc.com/news/articles/cg73znr1vj7o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Scientists watch sperm whales work as a team to assist a birth",
       "title_neutral": "Scientists watch sperm whales work as a team to assist a birth",
       "excerpt": "An unprecedented look at the birth of a sperm whale found that mother and calf were supported by other whales throughout the process.",
@@ -1506,23 +1562,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Two Cuba-bound aid ships missing after leaving Mexico",
-      "title_neutral": "Two Cuba-bound aid ships missing after leaving Mexico",
-      "excerpt": "Mexico's navy launches a rescue mission for ships delivering aid to Cuba, strained by food and fuel shortages amid a US embargo.",
-      "recap_neutral": "Mexico's navy launches a rescue mission for ships delivering aid to Cuba, strained by food and fuel shortages amid a US embargo",
-      "main_idea": "Two Cuba-bound aid ships missing after leaving Mexico",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 27 Mar 2026 03:42:48 GMT",
-      "url": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Senate votes to fund much of DHS, minus immigration enforcement",
       "title_neutral": "Senate votes to fund much of DHS, minus immigration enforcement",
       "excerpt": "The Senate approved a bill to fund most of the Department of Homeland Security, early Friday. The bill does not fund Immigration and Customs Enforcement, or ICE.",
@@ -1587,21 +1626,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Sarah Ferguson's 'close Epstein ties' scrutinised in US lawmaker's letter",
-      "title_neutral": "Sarah Ferguson's 'close Epstein ties' scrutinised in US lawmaker's letter",
-      "excerpt": "The letter, seen by the BBC, also called on Ferguson to share any knowledge about Andrew Mountbatten-Windsor's links to Epstein.",
-      "recap_neutral": "The letter, seen by the BBC, also called on Ferguson to share any knowledge about Andrew Mountbatten-Windsor's links to Epstein",
-      "main_idea": "Sarah Ferguson's 'close Epstein ties' scrutinised in US lawmaker's letter",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 27 Mar 2026 00:52:51 GMT",
-      "url": "https://www.bbc.com/news/articles/c80m5y428xpo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
