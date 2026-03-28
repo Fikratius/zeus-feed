@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T21:26:46.150041+00:00",
+  "last_updated": "2026-03-28T21:52:57.145659+00:00",
   "items": [
     {
       "title_original": "Australia refuses to say how many Chinese nationals are arriving by boat, saying it may damage bilateral relations",
@@ -52,6 +52,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "1929: Inside the Greatest Crash in Wall Street History",
+      "title_neutral": "1929: Inside the Greatest Crash in Wall Street History",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "1929: Inside the Greatest Crash in Wall Street History",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 25 Mar 2026 05:01:58 +0000",
+      "url": "https://www.nybooks.com/articles/2026/03/26/tick-tick-boom-1929-andrew-ross-sorkin/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -161,6 +176,41 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Мирный житель погиб в Белгородской области из-за удара ВСУ",
+      "title_neutral": "Мирный житель погиб в Белгородской области из-за удара ВСУ",
+      "excerpt": "",
+      "recap_neutral": "Мирный житель погиб в Белгородской области из-за удара ВСУ",
+      "main_idea": "Мирный житель погиб в Белгородской области из-за удара ВСУ",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 29 Mar 2026 00:39:43 +0300",
+      "url": "https://tass.ru/proisshestviya/26924113",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Al Hadath: погиб глава исследовательского центра при Минобороны Ирана",
+      "title_neutral": "Al Hadath: погиб глава исследовательского центра при Минобороны Ирана",
+      "excerpt": "По информации телеканала, Али Фуладванд умер из-за атаки Израиля и США по городу Боруджерд",
+      "recap_neutral": "По информации телеканала, Али Фуладванд умер из-за атаки Израиля и США по городу Боруджерд",
+      "main_idea": "Al Hadath: погиб глава исследовательского центра при Минобороны Ирана",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 29 Mar 2026 00:28:10 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26924105",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "В Чечне из-за паводка на реке Гумс эвакуируют жителей поселка Кундухова",
       "title_neutral": "В Чечне из-за паводка на реке Гумс эвакуируют жителей поселка Кундухова",
       "excerpt": "Их размещают в пунктах временного размещения на базе школ и спорткомплекса",
@@ -191,11 +241,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Пензенской области действуют ограничения на прием и выпуск самолетов",
-      "title_neutral": "В Пензенской области действуют ограничения на прием и выпуск самолетов",
-      "excerpt": "",
-      "recap_neutral": "В Пензенской области действуют ограничения на прием и выпуск самолетов",
-      "main_idea": "В Пензенской области действуют ограничения на прием и выпуск самолетов",
+      "title_original": "В Пензенской области ввели план \"Ковер\"",
+      "title_neutral": "В Пензенской области ввели план \"Ковер\"",
+      "excerpt": "В регионе действуют ограничения на прием и выпуск самолетов",
+      "recap_neutral": "В регионе действуют ограничения на прием и выпуск самолетов",
+      "main_idea": "В Пензенской области ввели план \"Ковер\"",
       "tags": [],
       "source": "ТАСС",
       "published_at": "Sun, 29 Mar 2026 00:15:55 +0300",
@@ -366,52 +416,37 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "ТАСС: самолет российской делегации по пути из Вашингтона сел в Нью-Йорке",
-      "title_neutral": "ТАСС: самолет российской делегации по пути из Вашингтона сел в Нью-Йорке",
-      "excerpt": "Группа в составе пяти российских депутатов прилетала в США по приглашению члена Палаты представителей Конгресса Анны Паулины Луны",
-      "recap_neutral": "Группа в составе пяти российских депутатов прилетала в США по приглашению члена Палаты представителей Конгресса Анны Паулины Луны",
-      "main_idea": "ТАСС: самолет российской делегации по пути из Вашингтона сел в Нью-Йорке",
+      "title_original": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+      "title_neutral": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+      "excerpt": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
+      "recap_neutral": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV",
+      "main_idea": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
       "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Mar 2026 23:44:42 +0300",
-      "url": "https://tass.ru/politika/26923999",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "RMF FM: на востоке Польши в лесу упал неопознанный летающий объект с посылкой",
-      "title_neutral": "RMF FM: на востоке Польши в лесу упал неопознанный летающий объект с посылкой",
-      "excerpt": "Полиция не исключает, что это может быть воздушный шар с контрабандой",
-      "recap_neutral": "Полиция не исключает, что это может быть воздушный шар с контрабандой",
-      "main_idea": "RMF FM: на востоке Польши в лесу упал неопознанный летающий объект с посылкой",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Mar 2026 23:34:45 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26923991",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "No Kings protests across the US rally against Donald Trump",
-      "title_neutral": "No Kings protests across the US rally against Donald Trump",
-      "excerpt": "The demonstrations against the Trump administration are set to sweep cities across the US on Saturday.",
-      "recap_neutral": "The demonstrations against the Trump administration are set to sweep cities across the US on Saturday",
-      "main_idea": "No Kings protests across the US rally against Donald Trump",
-      "tags": [
-        "tech"
+        "conflict"
       ],
       "source": "BBC World",
-      "published_at": "Sat, 28 Mar 2026 21:10:08 GMT",
-      "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 28 Mar 2026 21:50:40 GMT",
+      "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer",
+      "title_neutral": "InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sat, 28 Mar 2026 21:35:22 +0000",
+      "url": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -425,11 +460,28 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 28 Mar 2026 21:07:37 +0000",
+      "published_at": "Sat, 28 Mar 2026 21:31:24 +0000",
       "url": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "No Kings protests across the US rally against Donald Trump",
+      "title_neutral": "No Kings protests across the US rally against Donald Trump",
+      "excerpt": "The demonstrations against the Trump administration are set to sweep cities across the US on Saturday.",
+      "recap_neutral": "The demonstrations against the Trump administration are set to sweep cities across the US on Saturday",
+      "main_idea": "No Kings protests across the US rally against Donald Trump",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 28 Mar 2026 21:29:57 GMT",
+      "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -445,23 +497,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
-      "title_neutral": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
-      "excerpt": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
-      "recap_neutral": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV",
-      "main_idea": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 28 Mar 2026 20:36:03 GMT",
-      "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -786,21 +821,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Circuit-level PDP-11/34 emulator",
-      "title_neutral": "Circuit-level PDP-11/34 emulator",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Circuit-level PDP-11/34 emulator",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 28 Mar 2026 16:23:31 +0000",
-      "url": "https://github.com/dbrll/ll-34",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "I decompiled the White House's new app",
       "title_neutral": "I decompiled the White House's new app",
       "excerpt": "Comments",
@@ -1095,23 +1115,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-      "title_neutral": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 28 Mar 2026 08:06:19 +0000",
-      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
