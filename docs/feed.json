@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T21:52:57.145659+00:00",
+  "last_updated": "2026-03-28T22:24:34.645344+00:00",
   "items": [
     {
       "title_original": "Australia refuses to say how many Chinese nationals are arriving by boat, saying it may damage bilateral relations",
@@ -79,6 +79,21 @@
       "source": "Hacker News",
       "published_at": "Tue, 24 Mar 2026 20:29:44 +0000",
       "url": "https://www.vegardstikbakke.com/kqueue/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Meta Partners with Arm to Develop New Class of Data Center Silicon",
+      "title_neutral": "Meta Partners with Arm to Develop New Class of Data Center Silicon",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Meta Partners with Arm to Develop New Class of Data Center Silicon",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 24 Mar 2026 18:17:19 +0000",
+      "url": "https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -176,13 +191,93 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Мирный житель погиб в Белгородской области из-за удара ВСУ",
-      "title_neutral": "Мирный житель погиб в Белгородской области из-за удара ВСУ",
-      "excerpt": "",
-      "recap_neutral": "Мирный житель погиб в Белгородской области из-за удара ВСУ",
-      "main_idea": "Мирный житель погиб в Белгородской области из-за удара ВСУ",
+      "title_original": "Экс-сотрудник Госдепа Суонсон: США попытаются провести наземную операцию в Иране",
+      "title_neutral": "Экс-сотрудник Госдепа Суонсон: США попытаются провести наземную операцию в Иране",
+      "excerpt": "Бывший сотрудник Госдепартамента подчеркнул, что Тегеран не демонстрирует настроя на капитуляцию",
+      "recap_neutral": "Бывший сотрудник Госдепартамента подчеркнул, что Тегеран не демонстрирует настроя на капитуляцию",
+      "main_idea": "Экс-сотрудник Госдепа Суонсон: США попытаются провести наземную операцию в Иране",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 29 Mar 2026 01:18:25 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26924149",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Ельце и четырех муниципалитетах Липецкой области объявили опасность атаки БПЛА",
+      "title_neutral": "В Ельце и четырех муниципалитетах Липецкой области объявили опасность атаки БПЛА",
+      "excerpt": "Об этом сообщил губернатор региона Игорь Артамонов",
+      "recap_neutral": "Об этом сообщил губернатор региона Игорь Артамонов",
+      "main_idea": "В Ельце и четырех муниципалитетах Липецкой области объявили опасность атаки БПЛА",
       "tags": [
         "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 29 Mar 2026 01:15:21 +0300",
+      "url": "https://tass.ru/proisshestviya/26924145",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ОП призвали обеспечить молочной кухней беременных по всей России",
+      "title_neutral": "В ОП призвали обеспечить молочной кухней беременных по всей России",
+      "excerpt": "Председатель комиссии Общественной палаты по демографии, защите семьи, детей и традиционных семейных ценностей Сергей Рыбальченко считает, что координаторами этой программы могут быть перинатальные центры",
+      "recap_neutral": "Председатель комиссии Общественной палаты по демографии, защите семьи, детей и традиционных семейных ценностей Сергей Рыбальченко считает, что координаторами этой программы могут быть перинатальные центры",
+      "main_idea": "В ОП призвали обеспечить молочной кухней беременных по всей России",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 29 Mar 2026 01:06:39 +0300",
+      "url": "https://tass.ru/obschestvo/26924141",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Марочко: ВСУ усердно удерживают Николаевку",
+      "title_neutral": "Марочко: ВСУ усердно удерживают Николаевку",
+      "excerpt": "Военный эксперт отметил, что у украинских сил есть серьезные фортификационные сооружения в населенном пункте",
+      "recap_neutral": "Военный эксперт отметил, что у украинских сил есть серьезные фортификационные сооружения в населенном пункте",
+      "main_idea": "Марочко: ВСУ усердно удерживают Николаевку",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 29 Mar 2026 01:01:00 +0300",
+      "url": "https://tass.ru/armiya-i-opk/26924131",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Петропавловске-Камчатском из-за пожара в квартире дома погиб человек",
+      "title_neutral": "В Петропавловске-Камчатском из-за пожара в квартире дома погиб человек",
+      "excerpt": "Он надышался угарным газом",
+      "recap_neutral": "Он надышался угарным газом",
+      "main_idea": "В Петропавловске-Камчатском из-за пожара в квартире дома погиб человек",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 29 Mar 2026 00:57:01 +0300",
+      "url": "https://tass.ru/proisshestviya/26924127",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Белгородской области из-за удара ВСУ погиб человек",
+      "title_neutral": "В Белгородской области из-за удара ВСУ погиб человек",
+      "excerpt": "Губернатор региона Вячеслав Гладков выразил соболезнования семье погибшего",
+      "recap_neutral": "Губернатор региона Вячеслав Гладков выразил соболезнования семье погибшего",
+      "main_idea": "В Белгородской области из-за удара ВСУ погиб человек",
+      "tags": [
+        "conflict",
+        "health"
       ],
       "source": "ТАСС",
       "published_at": "Sun, 29 Mar 2026 00:39:43 +0300",
@@ -193,11 +288,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Al Hadath: погиб глава исследовательского центра при Минобороны Ирана",
-      "title_neutral": "Al Hadath: погиб глава исследовательского центра при Минобороны Ирана",
+      "title_original": "Al Hadath: глава исследовательского центра при МО Ирана погиб при ударе",
+      "title_neutral": "Al Hadath: глава исследовательского центра при МО Ирана погиб при ударе",
       "excerpt": "По информации телеканала, Али Фуладванд умер из-за атаки Израиля и США по городу Боруджерд",
       "recap_neutral": "По информации телеканала, Али Фуладванд умер из-за атаки Израиля и США по городу Боруджерд",
-      "main_idea": "Al Hadath: погиб глава исследовательского центра при Минобороны Ирана",
+      "main_idea": "Al Hadath: глава исследовательского центра при МО Ирана погиб при ударе",
       "tags": [
         "conflict",
         "tech"
@@ -335,84 +430,39 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Фигуристы Фурнье-Бодри и Сизерон выиграли чемпионат мира в танцах на льду",
-      "title_neutral": "Фигуристы Фурнье-Бодри и Сизерон выиграли чемпионат мира в танцах на льду",
-      "excerpt": "Серебряными призерами стали Пайпер Гиллес и Поль Пуарье, бронзовыми - Эмилия Зингас и Вадим Колесник",
-      "recap_neutral": "Серебряными призерами стали Пайпер Гиллес и Поль Пуарье, бронзовыми - Эмилия Зингас и Вадим Колесник",
-      "main_idea": "Фигуристы Фурнье-Бодри и Сизерон выиграли чемпионат мира в танцах на льду",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Mar 2026 23:59:06 +0300",
-      "url": "https://tass.ru/sport/26924041",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Мордовии четыре вагона хозяйственного поезда сошли с рельсов",
-      "title_neutral": "В Мордовии четыре вагона хозяйственного поезда сошли с рельсов",
-      "excerpt": "Никто не пострадал",
-      "recap_neutral": "Никто не пострадал",
-      "main_idea": "В Мордовии четыре вагона хозяйственного поезда сошли с рельсов",
+      "title_original": "Iran War Live Updates: U.S. Marines Arrive in Middle East, as Houthis Enter War",
+      "title_neutral": "Iran War Live Updates: U.S. Marines Arrive in Middle East, as Houthis Enter War",
+      "excerpt": "A U.S. official said that earlier an Iranian strike at a military base in Saudi Arabia injured around two dozen U.S. troops, one of the most serious breaches of American defenses since the war began.",
+      "recap_neutral": "A U",
+      "main_idea": "Iran War Live Updates: U.S. Marines Arrive in Middle East, as Houthis Enter War",
       "tags": [
+        "conflict",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Mar 2026 23:53:29 +0300",
-      "url": "https://tass.ru/proisshestviya/26924033",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sat, 28 Mar 2026 22:22:36 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Fars: Израиль и США ударили по резервуару с питьевой водой в Иране",
-      "title_neutral": "Fars: Израиль и США ударили по резервуару с питьевой водой в Иране",
-      "excerpt": "Пострадавших нет, сообщило агентство",
-      "recap_neutral": "Пострадавших нет, сообщило агентство",
-      "main_idea": "Fars: Израиль и США ударили по резервуару с питьевой водой в Иране",
+      "title_original": "In Dubai, a famed horse race goes on, despite the war.",
+      "title_neutral": "In Dubai, a famed horse race goes on, despite the war.",
+      "excerpt": "",
+      "recap_neutral": "In Dubai, a famed horse race goes on, despite the war.",
+      "main_idea": "In Dubai, a famed horse race goes on, despite the war.",
       "tags": [
-        "conflict"
+        "conflict",
+        "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Mar 2026 23:51:29 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26924023",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Тульской области объявили опасность атаки БПЛА",
-      "title_neutral": "В Тульской области объявили опасность атаки БПЛА",
-      "excerpt": "Губернатор региона Дмитрий Миляев попросил жителей сохранять спокойствие",
-      "recap_neutral": "Губернатор региона Дмитрий Миляев попросил жителей сохранять спокойствие",
-      "main_idea": "В Тульской области объявили опасность атаки БПЛА",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Mar 2026 23:49:24 +0300",
-      "url": "https://tass.ru/proisshestviya/26924017",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В подтопленных районах Дербента проведут подомовой обход",
-      "title_neutral": "В подтопленных районах Дербента проведут подомовой обход",
-      "excerpt": "Ситуацию держит на личном контроле глава города Ханлара Пашабеков",
-      "recap_neutral": "Ситуацию держит на личном контроле глава города Ханлара Пашабеков",
-      "main_idea": "В подтопленных районах Дербента проведут подомовой обход",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 28 Mar 2026 23:48:39 +0300",
-      "url": "https://tass.ru/obschestvo/26924009",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sat, 28 Mar 2026 22:22:11 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil/in-dubai-a-famed-horse-race-goes-on-despite-the-war",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -450,24 +500,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran War Live Updates: U.S. Marines Arrive in Middle East, as Houthis Enter War",
-      "title_neutral": "Iran War Live Updates: U.S. Marines Arrive in Middle East, as Houthis Enter War",
-      "excerpt": "A U.S. official said that earlier an Iranian strike at a military base in Saudi Arabia injured around two dozen U.S. troops, one of the most serious breaches of American defenses since the war began.",
-      "recap_neutral": "A U",
-      "main_idea": "Iran War Live Updates: U.S. Marines Arrive in Middle East, as Houthis Enter War",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 28 Mar 2026 21:31:24 +0000",
-      "url": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "No Kings protests across the US rally against Donald Trump",
       "title_neutral": "No Kings protests across the US rally against Donald Trump",
       "excerpt": "The demonstrations against the Trump administration are set to sweep cities across the US on Saturday.",
@@ -482,6 +514,23 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "OpenAI-o1 & AI Consciousness: Defining Machine Sentience in 2026",
+      "title_neutral": "OpenAI-o1 & AI Consciousness: Defining Machine Sentience in 2026",
+      "excerpt": "Unpack the foundational definitions of AI consciousness, subjective experience, and functionalist theory. See how OpenAI-o1’s internal states bridge the gap between processing and sentience.",
+      "recap_neutral": "Unpack the foundational definitions of AI consciousness, subjective experience, and functionalist theory",
+      "main_idea": "OpenAI-o1 & AI Consciousness: Defining Machine Sentience in 2026",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sat, 28 Mar 2026 21:00:45 GMT",
+      "url": "https://hackernoon.com/openai-o1-and-ai-consciousness-defining-machine-sentience-in-2026?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -550,21 +599,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "In Dubai, a famed horse race goes on, despite the war.",
-      "title_neutral": "In Dubai, a famed horse race goes on, despite the war.",
-      "excerpt": "",
-      "recap_neutral": "In Dubai, a famed horse race goes on, despite the war.",
-      "main_idea": "In Dubai, a famed horse race goes on, despite the war.",
+      "title_original": "The Phenomenology of Machine: OpenAI-o1 and AI Consciousness",
+      "title_neutral": "The Phenomenology of Machine: OpenAI-o1 and AI Consciousness",
+      "excerpt": "Explore the functionalist argument for OpenAI-o1 sentience. Learn how RLHF and reasoning tokens create consciousness-like states through qualia alignment and active inference.",
+      "recap_neutral": "Explore the functionalist argument for OpenAI-o1 sentience",
+      "main_idea": "The Phenomenology of Machine: OpenAI-o1 and AI Consciousness",
       "tags": [
-        "conflict",
         "tech"
       ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 28 Mar 2026 20:05:50 +0000",
-      "url": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil/in-dubai-a-famed-horse-race-goes-on-despite-the-war",
+      "source": "HackerNoon",
+      "published_at": "Sat, 28 Mar 2026 20:00:45 GMT",
+      "url": "https://hackernoon.com/the-phenomenology-of-machine-openai-o1-and-ai-consciousness?source=rss",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -757,6 +805,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Photos: 'No Kings' Protests Across the Country",
+      "title_neutral": "Photos: 'No Kings' Protests Across the Country",
+      "excerpt": "People gathered for pro-democracy protests across the country today.",
+      "recap_neutral": "People gathered for pro-democracy protests across the country today",
+      "main_idea": "Photos: 'No Kings' Protests Across the Country",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sat, 28 Mar 2026 17:59:43 -0400",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/03/28/g-s1-115637/photos-no-kings-protests-across-the-country",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Founder of GitLab battles cancer by founding companies",
       "title_neutral": "Founder of GitLab battles cancer by founding companies",
       "excerpt": "Comments",
@@ -818,6 +881,23 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The HackerNoon Newsletter: Data, Surveillance, and the Law: What Is Policing? (3/28/2026)",
+      "title_neutral": "The HackerNoon Newsletter: Data, Surveillance, and the Law: What Is Policing? (3/28/2026)",
+      "excerpt": "How are you, hacker? 🪐 What’s happening in tech today, March 28, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox. On this day, Kodak Releases DC40 in 1995, and we present you with these top quality stories. From Real-Time Agentic RAG: Eradicating Context Rot Wi…",
+      "recap_neutral": "How are you, hacker? 🪐 What’s happening in tech today, March 28, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox",
+      "main_idea": "The HackerNoon Newsletter: Data, Surveillance, and the Law: What Is Policing? (3/28/2026)",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sat, 28 Mar 2026 16:02:11 GMT",
+      "url": "https://hackernoon.com/3-28-2026-newsletter?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1018,21 +1098,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Spanish legislation as a Git repo",
-      "title_neutral": "Spanish legislation as a Git repo",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Spanish legislation as a Git repo",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 28 Mar 2026 12:01:27 +0000",
-      "url": "https://github.com/EnriqueLop/legalize-es",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1341,24 +1406,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump wants a deadlocked Congress to move on AI. Frustrated states say they already have",
-      "title_neutral": "Trump wants a deadlocked Congress to move on AI. Frustrated states say they already have",
-      "excerpt": "State lawmakers have been stepping in to regulate artificial intelligence, clashing with the federal government's inaction as concerns about oversight and safety grow.",
-      "recap_neutral": "State lawmakers have been stepping in to regulate artificial intelligence, clashing with the federal government's inaction as concerns about oversight and safety grow",
-      "main_idea": "Trump wants a deadlocked Congress to move on AI. Frustrated states say they already have",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 28 Mar 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/03/28/nx-s1-5755062/trump-wants-a-deadlocked-congress-to-move-on-ai-frustrated-states-say-they-already-have",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "The 5 Best Suits From Marvel's Spider-Man 2: Miles Morales Version",
       "title_neutral": "The 5 Best Suits From Marvel's Spider-Man 2: Miles Morales Version",
       "excerpt": "1. Smoke and Mirrors Suit 2. Best There Is Suit 3. Agent of S.H.I.E.L.D. Suit 4. Metro Suit 5. Life Story Suit",
@@ -1374,23 +1421,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
-      "title_neutral": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
-      "excerpt": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
-      "recap_neutral": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC",
-      "main_idea": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 28 Mar 2026 00:05:47 GMT",
-      "url": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Maldives tells UK it does not recognise Chagos Islands deal with Mauritius",
       "title_neutral": "Maldives tells UK it does not recognise Chagos Islands deal with Mauritius",
       "excerpt": "The Maldives is threatening international legal action to press its claim for control of the Chagos Islands.",
@@ -1402,6 +1432,24 @@
       "source": "BBC World",
       "published_at": "Sat, 28 Mar 2026 00:01:19 GMT",
       "url": "https://www.bbc.com/news/articles/c74vedxjq8zo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
+      "title_neutral": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
+      "excerpt": "Marco Rubio said US allies were open to helping escort ships through the Strait of Hormuz, which Iran has closed and threatened to charge fees for.",
+      "recap_neutral": "Marco Rubio said US allies were open to helping escort ships through the Strait of Hormuz, which Iran has closed and threatened to charge fees for",
+      "main_idea": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 27 Mar 2026 21:16:30 GMT",
+      "url": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -1486,58 +1534,6 @@
       "source": "HackerNoon",
       "published_at": "Fri, 27 Mar 2026 18:54:31 GMT",
       "url": "https://hackernoon.com/$20-billion-to-the-moon-while-humanity-struggles-on-earth-priorities-in-question?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How GenAI Is Redefining Technical Writing",
-      "title_neutral": "How GenAI Is Redefining Technical Writing",
-      "excerpt": "GenAI-native technical writers don’t just write docs—they design scalable knowledge systems. Using AI copilots, they turn meeting recordings into accurate documentation, FAQs, release notes, and more in minutes. The focus shifts from formatting to user value, clarity, and structure. The real skill…",
-      "recap_neutral": "GenAI-native technical writers don’t just write docs—they design scalable knowledge systems",
-      "main_idea": "How GenAI Is Redefining Technical Writing",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 27 Mar 2026 18:49:08 GMT",
-      "url": "https://hackernoon.com/how-genai-is-redefining-technical-writing?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How Using AI Can Quietly Weaken Independent Thinking",
-      "title_neutral": "How Using AI Can Quietly Weaken Independent Thinking",
-      "excerpt": "Generative AI offers clear advantages, such as saving time, reducing friction, and access to relevant language. But the problem is that AI delivers answers before our own thoughts have had the chance to fully take shape, says David Wheeler. Wheeler: The problem now is not just the amount of informa…",
-      "recap_neutral": "Generative AI offers clear advantages, such as saving time, reducing friction, and access to relevant language",
-      "main_idea": "How Using AI Can Quietly Weaken Independent Thinking",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 27 Mar 2026 18:39:04 GMT",
-      "url": "https://hackernoon.com/how-using-ai-can-quietly-weaken-independent-thinking?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Multi-Factor Experiment: Understanding Market Behavior Through Data",
-      "title_neutral": "Multi-Factor Experiment: Understanding Market Behavior Through Data",
-      "excerpt": "Single trading signals often fail across market conditions. This multi-factor strategy combines momentum, volatility, and trend strength to improve stability and reduce drawdowns. By standardizing and aggregating signals, the approach adapts to both trending and sideways markets. The result is smoo…",
-      "recap_neutral": "Single trading signals often fail across market conditions",
-      "main_idea": "Multi-Factor Experiment: Understanding Market Behavior Through Data",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 27 Mar 2026 18:23:26 GMT",
-      "url": "https://hackernoon.com/multi-factor-experiment-understanding-market-behavior-through-data?source=rss",
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
