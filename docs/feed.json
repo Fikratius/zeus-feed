@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T18:11:43.779128+00:00",
+  "last_updated": "2026-03-30T19:32:52.086709+00:00",
   "items": [
     {
       "title_original": "Australia refuses to say how many Chinese nationals are arriving by boat, saying it may damage bilateral relations",
@@ -17,6 +17,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "In math, rigor is vital, but are digitized proofs taking it too far?",
+      "title_neutral": "In math, rigor is vital, but are digitized proofs taking it too far?",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "In math, rigor is vital, but are digitized proofs taking it too far?",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 26 Mar 2026 09:41:44 +0000",
+      "url": "https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -38,23 +53,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "No Kings protests draw large crowds to rally against Donald Trump",
-      "title_neutral": "No Kings protests draw large crowds to rally against Donald Trump",
-      "excerpt": "One of the flagship No Kings rallies happened in Minnesota, where singer Bruce Springsteen performed to crowds.",
-      "recap_neutral": "One of the flagship No Kings rallies happened in Minnesota, where singer Bruce Springsteen performed to crowds",
-      "main_idea": "No Kings protests draw large crowds to rally against Donald Trump",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 29 Mar 2026 23:57:25 GMT",
-      "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Build123d: A Python CAD programming library",
       "title_neutral": "Build123d: A Python CAD programming library",
       "excerpt": "Comments",
@@ -67,39 +65,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ChatGPT won't let you type until Cloudflare reads your React state",
-      "title_neutral": "ChatGPT won't let you type until Cloudflare reads your React state",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "ChatGPT won't let you type until Cloudflare reads your React state",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 29 Mar 2026 20:21:05 +0000",
-      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.",
-      "title_neutral": "A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.",
-      "excerpt": "A wave of strikes across the Middle East in recent days shows that Iran has not lost the capacity to retaliate.",
-      "recap_neutral": "A wave of strikes across the Middle East in recent days shows that Iran has not lost the capacity to retaliate",
-      "main_idea": "A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 29 Mar 2026 08:16:54 +0000",
-      "url": "https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -118,15 +83,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "From Proxmox to FreeBSD and Sylve in Our Office Lab",
-      "title_neutral": "From Proxmox to FreeBSD and Sylve in Our Office Lab",
+      "title_original": "Seeing Like a Spreadsheet",
+      "title_neutral": "Seeing Like a Spreadsheet",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "From Proxmox to FreeBSD and Sylve in Our Office Lab",
+      "main_idea": "Seeing Like a Spreadsheet",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Sat, 28 Mar 2026 12:20:28 +0000",
-      "url": "https://www.iptechnics.com/blogs/from-proxmox-to-freebsd-and-sylve-in-our-office-lab",
+      "published_at": "Sat, 28 Mar 2026 16:28:32 +0000",
+      "url": "https://davidoks.blog/p/how-the-spreadsheet-reshaped-america",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -150,246 +115,402 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Тель-Авиве впервые за два дня прозвучали сирены воздушной тревоги",
-      "title_neutral": "В Тель-Авиве впервые за два дня прозвучали сирены воздушной тревоги",
-      "excerpt": "",
-      "recap_neutral": "В Тель-Авиве впервые за два дня прозвучали сирены воздушной тревоги",
-      "main_idea": "В Тель-Авиве впервые за два дня прозвучали сирены воздушной тревоги",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 21:08:57 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26940899",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Онищенко признал, что введение рабочей шестидневки пока невозможно",
-      "title_neutral": "Онищенко признал, что введение рабочей шестидневки пока невозможно",
-      "excerpt": "При этом заместитель президента РАО считает, что шестидневка была бы полезна экономике страны, поскольку \"человек сейчас производит недостаточно\"",
-      "recap_neutral": "При этом заместитель президента РАО считает, что шестидневка была бы полезна экономике страны, поскольку \"человек сейчас производит недостаточно\"",
-      "main_idea": "Онищенко признал, что введение рабочей шестидневки пока невозможно",
-      "tags": [
-        "politics",
-        "economy"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 21:07:20 +0300",
-      "url": "https://tass.ru/obschestvo/26940817",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Посол Ирана в Ташкенте: у Тегерана проблемы не с Украиной, а только с Зеленским",
-      "title_neutral": "Посол Ирана в Ташкенте: у Тегерана проблемы не с Украиной, а только с Зеленским",
-      "excerpt": "",
-      "recap_neutral": "Посол Ирана в Ташкенте: у Тегерана проблемы не с Украиной, а только с Зеленским",
-      "main_idea": "Посол Ирана в Ташкенте: у Тегерана проблемы не с Украиной, а только с Зеленским",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 21:04:43 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26940857",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "США отвергли утверждения, что Иран избирательно пропускает танкеры через Ормуз",
-      "title_neutral": "США отвергли утверждения, что Иран избирательно пропускает танкеры через Ормуз",
-      "excerpt": "Вашингтон не поддерживает введение Тегераном платы за проход через пролив, отметила пресс-секретарь Кэролайн Ливитт",
-      "recap_neutral": "Вашингтон не поддерживает введение Тегераном платы за проход через пролив, отметила пресс-секретарь Кэролайн Ливитт",
-      "main_idea": "США отвергли утверждения, что Иран избирательно пропускает танкеры через Ормуз",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 21:03:40 +0300",
-      "url": "https://tass.ru/ekonomika/26940849",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "США заинтересованы в том, чтобы арабские страны оплатили операцию против Ирана",
-      "title_neutral": "США заинтересованы в том, чтобы арабские страны оплатили операцию против Ирана",
-      "excerpt": "Пресс-секретарь Белого дома Кэролайн Ливитт пообещала, что глава американской администрации позднее сам выскажется на этот счет",
-      "recap_neutral": "Пресс-секретарь Белого дома Кэролайн Ливитт пообещала, что глава американской администрации позднее сам выскажется на этот счет",
-      "main_idea": "США заинтересованы в том, чтобы арабские страны оплатили операцию против Ирана",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 21:03:13 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26940803",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Кабмин одобрил законопроект о нотариальном удостоверении ипотеки между физлицами",
-      "title_neutral": "Кабмин одобрил законопроект о нотариальном удостоверении ипотеки между физлицами",
-      "excerpt": "Законодательная инициатива направлена на защиту граждан от деятельности нелегальных кредиторов, которые предоставляют займы физическим лицам под залог жилой недвижимости, отмечается в сообщении",
-      "recap_neutral": "Законодательная инициатива направлена на защиту граждан от деятельности нелегальных кредиторов, которые предоставляют займы физическим лицам под залог жилой недвижимости, отмечается в сообщении",
-      "main_idea": "Кабмин одобрил законопроект о нотариальном удостоверении ипотеки между физлицами",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 21:00:45 +0300",
-      "url": "https://tass.ru/ekonomika/26940825",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Кабмин одобрил пакет законопроектов о легализации обращения цифровых валют",
-      "title_neutral": "Кабмин одобрил пакет законопроектов о легализации обращения цифровых валют",
-      "excerpt": "Неквалифицированные инвесторы смогут приобретать наиболее ликвидные цифровые валюты из перечня ЦБ после прохождения тестирования и в пределах установленного лимита",
-      "recap_neutral": "Неквалифицированные инвесторы смогут приобретать наиболее ликвидные цифровые валюты из перечня ЦБ после прохождения тестирования и в пределах установленного лимита",
-      "main_idea": "Кабмин одобрил пакет законопроектов о легализации обращения цифровых валют",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 21:00:33 +0300",
-      "url": "https://tass.ru/ekonomika/26940831",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Минсельхозпрод региона окажет помощь аграриям Дагестана, понесшим ущерб из-за паводка",
-      "title_neutral": "Минсельхозпрод региона окажет помощь аграриям Дагестана, понесшим ущерб из-за паводка",
-      "excerpt": "В Дагестане из-за обильных дождей произошли массовые отключения электро- и водоснабжения, подтопления, сбои в работе транспорта",
-      "recap_neutral": "В Дагестане из-за обильных дождей произошли массовые отключения электро- и водоснабжения, подтопления, сбои в работе транспорта",
-      "main_idea": "Минсельхозпрод региона окажет помощь аграриям Дагестана, понесшим ущерб из-за паводка",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 20:58:35 +0300",
-      "url": "https://tass.ru/obschestvo/26940773",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Россиянин пропал в Бангкоке в сентябре через несколько недель после приезда из Индонезии",
-      "title_neutral": "Россиянин пропал в Бангкоке в сентябре через несколько недель после приезда из Индонезии",
-      "excerpt": "Мать Гордея Страута обратилась в следственное управление СК РФ по Воронежской области, получив ответ от ведомства о проводимой проверке по данному делу",
-      "recap_neutral": "Мать Гордея Страута обратилась в следственное управление СК РФ по Воронежской области, получив ответ от ведомства о проводимой проверке по данному делу",
-      "main_idea": "Россиянин пропал в Бангкоке в сентябре через несколько недель после приезда из Индонезии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 20:57:49 +0300",
-      "url": "https://tass.ru/obschestvo/26939693",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Белый дом напомнил, что Пентагон отводил на операцию в Иране 4-6 недель",
-      "title_neutral": "Белый дом напомнил, что Пентагон отводил на операцию в Иране 4-6 недель",
-      "excerpt": "Пресс-секретарь Кэролайн Ливитт отметила, что сегодня 30-й день",
-      "recap_neutral": "Пресс-секретарь Кэролайн Ливитт отметила, что сегодня 30-й день",
-      "main_idea": "Белый дом напомнил, что Пентагон отводил на операцию в Иране 4-6 недель",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 20:57:46 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26940747",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Силы ПВО с 14:00 до 20:00 сбили 98 украинских беспилотников над регионами России",
-      "title_neutral": "Силы ПВО с 14:00 до 20:00 сбили 98 украинских беспилотников над регионами России",
-      "excerpt": "",
-      "recap_neutral": "Силы ПВО с 14:00 до 20:00 сбили 98 украинских беспилотников над регионами России",
-      "main_idea": "Силы ПВО с 14:00 до 20:00 сбили 98 украинских беспилотников над регионами России",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 20:56:57 +0300",
-      "url": "https://tass.ru/proisshestviya/26940781",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Конгрессмен Луна: манипуляции прежних властей США с разведданными подорвали отношения с РФ",
-      "title_neutral": "Конгрессмен Луна: манипуляции прежних властей США с разведданными подорвали отношения с РФ",
-      "excerpt": "На прошлой неделе американский портал Just The News сообщил, что власти Украины намеревались участвовать в финансировании избирательной кампании представляющего Демократическую партию американского экс-президента Джо Байдена в 2024 году",
-      "recap_neutral": "На прошлой неделе американский портал Just The News сообщил, что власти Украины намеревались участвовать в финансировании избирательной кампании представляющего Демократическую партию американского экс-президента Джо Ба…",
-      "main_idea": "Конгрессмен Луна: манипуляции прежних властей США с разведданными подорвали отношения с РФ",
+      "title_original": "Пезешкиан: власти Ирана не допустят сбоев в предоставлении услуг населению",
+      "title_neutral": "Пезешкиан: власти Ирана не допустят сбоев в предоставлении услуг населению",
+      "excerpt": "Президент исламской республики также сообщил, что на прошедшем заседании кабинета министров \"высоко оценил усилия вооруженных сил и выразил благодарность храброму и трудолюбивому народу Ирана\"",
+      "recap_neutral": "Президент исламской республики также сообщил, что на прошедшем заседании кабинета министров \"высоко оценил усилия вооруженных сил и выразил благодарность храброму и трудолюбивому народу Ирана\"",
+      "main_idea": "Пезешкиан: власти Ирана не допустят сбоев в предоставлении услуг населению",
       "tags": [
         "politics",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 20:55:16 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26940615",
+      "published_at": "Mon, 30 Mar 2026 22:25:58 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26941325",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Каллас и группа глав МИД ЕС проведут в Киеве 31 марта \"неформальное заседание Совета ЕС\"",
-      "title_neutral": "Каллас и группа глав МИД ЕС проведут в Киеве 31 марта \"неформальное заседание Совета ЕС\"",
-      "excerpt": "По сообщению EEAS, министры также посетят Бучу, где четыре года назад киевскими властями и западными СМИ была организована инсценировка \"убийства мирных граждан\", якобы совершенного российскими военными",
-      "recap_neutral": "По сообщению EEAS, министры также посетят Бучу, где четыре года назад киевскими властями и западными СМИ была организована инсценировка \"убийства мирных граждан\", якобы совершенного российскими военными",
-      "main_idea": "Каллас и группа глав МИД ЕС проведут в Киеве 31 марта \"неформальное заседание Совета ЕС\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 20:53:02 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26940735",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Пиотровский прокомментировал ущерб культурному наследию Ирана из-за обстрелов",
-      "title_neutral": "Пиотровский прокомментировал ущерб культурному наследию Ирана из-за обстрелов",
-      "excerpt": "Глава Эрмитажа заявил, что \"это больше, чем нарушение правил войны\"",
-      "recap_neutral": "Глава Эрмитажа заявил, что \"это больше, чем нарушение правил войны\"",
-      "main_idea": "Пиотровский прокомментировал ущерб культурному наследию Ирана из-за обстрелов",
+      "title_original": "Армия Израиля заявила, что провела новую масштабную волну авиаударов по Тегерану",
+      "title_neutral": "Армия Израиля заявила, что провела новую масштабную волну авиаударов по Тегерану",
+      "excerpt": "",
+      "recap_neutral": "Армия Израиля заявила, что провела новую масштабную волну авиаударов по Тегерану",
+      "main_idea": "Армия Израиля заявила, что провела новую масштабную волну авиаударов по Тегерану",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 20:51:43 +0300",
-      "url": "https://tass.ru/kultura/26940759",
+      "published_at": "Mon, 30 Mar 2026 22:19:21 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26941297",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ливитт: США будут принимать решения о пропуске танкеров с топливом на Кубу в каждом случае",
-      "title_neutral": "Ливитт: США будут принимать решения о пропуске танкеров с топливом на Кубу в каждом случае",
-      "excerpt": "",
-      "recap_neutral": "Ливитт: США будут принимать решения о пропуске танкеров с топливом на Кубу в каждом случае",
-      "main_idea": "Ливитт: США будут принимать решения о пропуске танкеров с топливом на Кубу в каждом случае",
+      "title_original": "В трех районах Ленобласти объявили воздушную опасность",
+      "title_neutral": "В трех районах Ленобласти объявили воздушную опасность",
+      "excerpt": "Возможно понижение скорости интернета",
+      "recap_neutral": "Возможно понижение скорости интернета",
+      "main_idea": "В трех районах Ленобласти объявили воздушную опасность",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 20:50:45 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26940755",
+      "published_at": "Mon, 30 Mar 2026 22:18:56 +0300",
+      "url": "https://tass.ru/proisshestviya/26941287",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Бывший судья считает верным отмену голов \"Спартака\" в игре с \"Локомотивом\"",
+      "title_neutral": "Бывший судья считает верным отмену голов \"Спартака\" в игре с \"Локомотивом\"",
+      "excerpt": "По итогам видеопросмотров судьи отменили два гола \"Спартака\", которые были забиты в каждом из первых двух периодов",
+      "recap_neutral": "По итогам видеопросмотров судьи отменили два гола \"Спартака\", которые были забиты в каждом из первых двух периодов",
+      "main_idea": "Бывший судья считает верным отмену голов \"Спартака\" в игре с \"Локомотивом\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 22:18:20 +0300",
+      "url": "https://tass.ru/sport/26941295",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Петербурге продлили налоговые льготы для экологически чистого транспорта",
+      "title_neutral": "В Петербурге продлили налоговые льготы для экологически чистого транспорта",
+      "excerpt": "Мера будет действовать до 1 января 2031 года",
+      "recap_neutral": "Мера будет действовать до 1 января 2031 года",
+      "main_idea": "В Петербурге продлили налоговые льготы для экологически чистого транспорта",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 22:17:57 +0300",
+      "url": "https://tass.ru/obschestvo/26941283",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На Эльбрусе спели гимн России на высоте 3,5 тыс. м",
+      "title_neutral": "На Эльбрусе спели гимн России на высоте 3,5 тыс. м",
+      "excerpt": "В акции поучаствовали 150 человек",
+      "recap_neutral": "В акции поучаствовали 150 человек",
+      "main_idea": "На Эльбрусе спели гимн России на высоте 3,5 тыс. м",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 22:13:23 +0300",
+      "url": "https://tass.ru/obschestvo/26941273",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Парламент Израиля принял закон о смертной казни за терроризм",
+      "title_neutral": "Парламент Израиля принял закон о смертной казни за терроризм",
+      "excerpt": "По информации радио Kan, приводить приговор в исполнение планируется через повешение",
+      "recap_neutral": "По информации радио Kan, приводить приговор в исполнение планируется через повешение",
+      "main_idea": "Парламент Израиля принял закон о смертной казни за терроризм",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 22:11:31 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26941277",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Искусствовед Лихачева назвала повреждение исторических объектов Ирана трагедией",
+      "title_neutral": "Искусствовед Лихачева назвала повреждение исторических объектов Ирана трагедией",
+      "excerpt": "Российский музейный работник напомнила, что на территории республики \"хранятся свидетельства древнейшей цивилизации на Земле\"",
+      "recap_neutral": "Российский музейный работник напомнила, что на территории республики \"хранятся свидетельства древнейшей цивилизации на Земле\"",
+      "main_idea": "Искусствовед Лихачева назвала повреждение исторических объектов Ирана трагедией",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 22:10:45 +0300",
+      "url": "https://tass.ru/kultura/26941261",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Хоккеисты \"Нефтехимика\" и \"Авангарда\" устроили драку в матче плей-офф КХЛ",
+      "title_neutral": "Хоккеисты \"Нефтехимика\" и \"Авангарда\" устроили драку в матче плей-офф КХЛ",
+      "excerpt": "Хоккеисты получили по пять минут штрафа",
+      "recap_neutral": "Хоккеисты получили по пять минут штрафа",
+      "main_idea": "Хоккеисты \"Нефтехимика\" и \"Авангарда\" устроили драку в матче плей-офф КХЛ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 22:09:02 +0300",
+      "url": "https://tass.ru/sport/26941257",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Орбан: США ударами по Ирану сорвали план ЕС по Украине",
+      "title_neutral": "Орбан: США ударами по Ирану сорвали план ЕС по Украине",
+      "excerpt": "Премьер-министр Венгрии считает, что упрочение финансового положения РФ позволит ей в случае необходимости продолжать военную операцию на Украине",
+      "recap_neutral": "Премьер-министр Венгрии считает, что упрочение финансового положения РФ позволит ей в случае необходимости продолжать военную операцию на Украине",
+      "main_idea": "Орбан: США ударами по Ирану сорвали план ЕС по Украине",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 22:05:54 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26941243",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На всей территории Украины вновь объявили воздушную тревогу",
+      "title_neutral": "На всей территории Украины вновь объявили воздушную тревогу",
+      "excerpt": "Сообщалось о взрывах в Днепропетровске, Кривом Роге, Одессе, Сумах и Харьковской области",
+      "recap_neutral": "Сообщалось о взрывах в Днепропетровске, Кривом Роге, Одессе, Сумах и Харьковской области",
+      "main_idea": "На всей территории Украины вновь объявили воздушную тревогу",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 22:04:24 +0300",
+      "url": "https://tass.ru/proisshestviya/26941237",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Одессе произошла потасовка между гражданскими и сотрудниками ТЦК",
+      "title_neutral": "В Одессе произошла потасовка между гражданскими и сотрудниками ТЦК",
+      "excerpt": "Мужчина, который нарушил правила воинского учета, ударил одного из сотрудников военкомата ножом",
+      "recap_neutral": "Мужчина, который нарушил правила воинского учета, ударил одного из сотрудников военкомата ножом",
+      "main_idea": "В Одессе произошла потасовка между гражданскими и сотрудниками ТЦК",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 22:04:22 +0300",
+      "url": "https://tass.ru/proisshestviya/26941229",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве промыли Живописный мост в рамках весенней уборки",
+      "title_neutral": "В Москве промыли Живописный мост в рамках весенней уборки",
+      "excerpt": "Движение автомобилей на время работ не ограничивали",
+      "recap_neutral": "Движение автомобилей на время работ не ограничивали",
+      "main_idea": "В Москве промыли Живописный мост в рамках весенней уборки",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 22:03:28 +0300",
+      "url": "https://tass.ru/obschestvo/26941217",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Авангард\" одержал третью победу над \"Нефтехимиком\" в серии плей-офф КХЛ",
+      "title_neutral": "\"Авангард\" одержал третью победу над \"Нефтехимиком\" в серии плей-офф КХЛ",
+      "excerpt": "\"Авангард\" ведет в серии до четырех побед со счетом 3-1",
+      "recap_neutral": "\"Авангард\" ведет в серии до четырех побед со счетом 3-1",
+      "main_idea": "\"Авангард\" одержал третью победу над \"Нефтехимиком\" в серии плей-офф КХЛ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 22:03:19 +0300",
+      "url": "https://tass.ru/sport/26941219",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Белый дом не отвергает урезание расходов на медицину для финансирования войны с Ираном",
+      "title_neutral": "Белый дом не отвергает урезание расходов на медицину для финансирования войны с Ираном",
+      "excerpt": "Пентагон ранее обратился к Конгрессу за дополнительными средствами для того, чтобы обеспечить ведение боевых действий против Ирана и пополнение своих арсеналов",
+      "recap_neutral": "Пентагон ранее обратился к Конгрессу за дополнительными средствами для того, чтобы обеспечить ведение боевых действий против Ирана и пополнение своих арсеналов",
+      "main_idea": "Белый дом не отвергает урезание расходов на медицину для финансирования войны с Ираном",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 22:02:03 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26941209",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks",
+      "title_neutral": "Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks",
+      "excerpt": "Experts say the law was written in such a way as to ensure that it was unlikely to ever apply to Jewish extremists who commit similar crimes.",
+      "recap_neutral": "Experts say the law was written in such a way as to ensure that it was unlikely to ever apply to Jewish extremists who commit similar crimes",
+      "main_idea": "Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 30 Mar 2026 19:15:18 +0000",
+      "url": "https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran War Live Updates: Trump Renews Threats Against Iranian Oil and Energy Facilities",
+      "title_neutral": "Iran War Live Updates: Trump Renews Threats Against Iranian Oil and Energy Facilities",
+      "excerpt": "President Trump claimed progress in talks to end the war but warned that lacking a deal he would order intense attacks on Iranian infrastructure targets. Oil and stock markets wavered on the news.",
+      "recap_neutral": "President Trump claimed progress in talks to end the war but warned that lacking a deal he would order intense attacks on Iranian infrastructure targets",
+      "main_idea": "Iran War Live Updates: Trump Renews Threats Against Iranian Oil and Energy Facilities",
+      "tags": [
+        "politics",
+        "economy",
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 30 Mar 2026 19:15:06 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
+      "title_neutral": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
+      "excerpt": "It is the second fatal incident in the last 24 hours, Unifil says, after Israel expanded its operation against Hezbollah.",
+      "recap_neutral": "It is the second fatal incident in the last 24 hours, Unifil says, after Israel expanded its operation against Hezbollah",
+      "main_idea": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 30 Mar 2026 19:14:12 GMT",
+      "url": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "William Blake, Remote by the Sea",
+      "title_neutral": "William Blake, Remote by the Sea",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "William Blake, Remote by the Sea",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 30 Mar 2026 19:13:05 +0000",
+      "url": "https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why Did the U.S. Allow a Russian Oil Tanker Through Its Cuba Blockade?",
+      "title_neutral": "Why Did the U.S. Allow a Russian Oil Tanker Through Its Cuba Blockade?",
+      "excerpt": "The ship’s arrival would bring Cuba some badly needed fuel. It also marks a shift from U.S. efforts to block oil shipments and pressure the Cuban government.",
+      "recap_neutral": "The ship’s arrival would bring Cuba some badly needed fuel",
+      "main_idea": "Why Did the U.S. Allow a Russian Oil Tanker Through Its Cuba Blockade?",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 30 Mar 2026 19:07:08 +0000",
+      "url": "https://www.nytimes.com/2026/03/30/world/americas/russian-oil-tanker-cuba.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A sea of sparks: Seeing radioactivity",
+      "title_neutral": "A sea of sparks: Seeing radioactivity",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "A sea of sparks: Seeing radioactivity",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 30 Mar 2026 18:34:47 +0000",
+      "url": "https://maurycyz.com/projects/spinthariscope/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "As Trump Squeezes Cuba, U.S. Military Exists in a Bubble",
+      "title_neutral": "As Trump Squeezes Cuba, U.S. Military Exists in a Bubble",
+      "excerpt": "The Navy base at Guantánamo Bay sparkles at night while neighbors across a Cuban minefield struggle in darkness driven by a Trump fuel embargo.",
+      "recap_neutral": "The Navy base at Guantánamo Bay sparkles at night while neighbors across a Cuban minefield struggle in darkness driven by a Trump fuel embargo",
+      "main_idea": "As Trump Squeezes Cuba, U.S. Military Exists in a Bubble",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Mon, 30 Mar 2026 18:25:58 +0000",
+      "url": "https://www.nytimes.com/2026/03/30/us/politics/gitmo-cuba-trump.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Fedware: Government apps that spy harder than the apps they ban",
+      "title_neutral": "Fedware: Government apps that spy harder than the apps they ban",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Fedware: Government apps that spy harder than the apps they ban",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "Hacker News",
+      "published_at": "Mon, 30 Mar 2026 18:16:00 +0000",
+      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Barbie Dream Fest in Florida to issue refunds after fan complaints",
+      "title_neutral": "Barbie Dream Fest in Florida to issue refunds after fan complaints",
+      "excerpt": "Fans, who paid up to $450 (£340), complained of a grey convention centre backdrop and a \"swag bag\" that included only a plastic pouch with a Barbie hand sanitiser.",
+      "recap_neutral": "Fans, who paid up to $450 (£340), complained of a grey convention centre backdrop and a \"swag bag\" that included only a plastic pouch with a Barbie hand sanitiser",
+      "main_idea": "Barbie Dream Fest in Florida to issue refunds after fan complaints",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 30 Mar 2026 18:13:45 GMT",
+      "url": "https://www.bbc.com/news/articles/cp3l1422d3qo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -410,6 +531,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
+      "title_neutral": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
+      "excerpt": "Merz’s government has taken a tougher line on refugees and migrants, amid surging support for the anti-immigration AfD party.",
+      "recap_neutral": "Merz’s government has taken a tougher line on refugees and migrants, amid surging support for the anti-immigration AfD party",
+      "main_idea": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
+      "tags": [
+        "politics"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 30 Mar 2026 18:08:12 GMT",
+      "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "They’ve Been Accused of Running a ‘Covert’ Operation in Greenland. It’s No Secret.",
       "title_neutral": "They’ve Been Accused of Running a ‘Covert’ Operation in Greenland. It’s No Secret.",
       "excerpt": "Members of President Trump’s circle, working in plain sight, have caught the eye of Denmark’s intelligence services for trying to make friends and cut deals on the Danish territory.",
@@ -422,43 +560,6 @@
       "source": "NYTimes World",
       "published_at": "Mon, 30 Mar 2026 18:00:43 +0000",
       "url": "https://www.nytimes.com/2026/03/30/world/europe/trump-greenland-operation-danish-media.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran War Live Updates: Trump Claims Progress in Talks to End War, Then Again Threatens Intense Attacks",
-      "title_neutral": "Iran War Live Updates: Trump Claims Progress in Talks to End War, Then Again Threatens Intense Attacks",
-      "excerpt": "President Trump warned that if a deal was not struck, he would respond by “completely obliterating” Iranian energy infrastructure targets. Oil and stock markets wavered on the news.",
-      "recap_neutral": "President Trump warned that if a deal was not struck, he would respond by “completely obliterating” Iranian energy infrastructure targets",
-      "main_idea": "Iran War Live Updates: Trump Claims Progress in Talks to End War, Then Again Threatens Intense Attacks",
-      "tags": [
-        "politics",
-        "economy",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 30 Mar 2026 18:00:23 +0000",
-      "url": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Israel Passes Law to Allow Hanging of Palestinians Convicted of Deadly Attacks",
-      "title_neutral": "Israel Passes Law to Allow Hanging of Palestinians Convicted of Deadly Attacks",
-      "excerpt": "The law could be applied to Jewish Israeli extremists, but experts say that will likely never happen.",
-      "recap_neutral": "The law could be applied to Jewish Israeli extremists, but experts say that will likely never happen",
-      "main_idea": "Israel Passes Law to Allow Hanging of Palestinians Convicted of Deadly Attacks",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 30 Mar 2026 17:57:05 +0000",
-      "url": "https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -481,23 +582,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran Condemns Attacks on Its Universities, Warns of Retaliation",
-      "title_neutral": "Iran Condemns Attacks on Its Universities, Warns of Retaliation",
-      "excerpt": "After attacks on several Iranian campuses, Iranian forces warn they could target American universities in the region.",
-      "recap_neutral": "After attacks on several Iranian campuses, Iranian forces warn they could target American universities in the region",
-      "main_idea": "Iran Condemns Attacks on Its Universities, Warns of Retaliation",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 30 Mar 2026 17:47:14 +0000",
-      "url": "https://www.nytimes.com/2026/03/30/world/middleeast/iran-universities-strikes.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -548,36 +632,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "You are falling behind because you haven't fed the insincerity machine",
-      "title_neutral": "You are falling behind because you haven't fed the insincerity machine",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "You are falling behind because you haven't fed the insincerity machine",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 30 Mar 2026 17:09:56 +0000",
-      "url": "https://christianheilmann.com/2026/03/28/you-are-falling-behind-because-you-havent-fed-the-insincerity-machine-in-the-last-5-minutes/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "New Washington state law bans noncompete agreements",
-      "title_neutral": "New Washington state law bans noncompete agreements",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "New Washington state law bans noncompete agreements",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 30 Mar 2026 17:01:35 +0000",
-      "url": "https://www.seattletimes.com/business/local-business/new-washington-law-bans-noncompete-agreements/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -683,8 +737,8 @@
     {
       "title_original": "Air Canada CEO to resign after backlash to video tribute of pilots killed in crash",
       "title_neutral": "Air Canada CEO to resign after backlash to video tribute of pilots killed in crash",
-      "excerpt": "Michael Rousseau faced mockery for speaking English and not French while addressing fatal LaGuardia airport crash The head of Canada’s largest airline is stepping down after his video tribute to pilots killed in a fatal collision became a public relations nightmare for Air Canada, prompting a wave…",
-      "recap_neutral": "Michael Rousseau faced mockery for speaking English and not French while addressing fatal LaGuardia airport crash The head of Canada’s largest airline is stepping down after his video tribute to pilots killed in a fatal…",
+      "excerpt": "Michael Rousseau faced mockery for speaking English and not French while addressing fatal LaGuardia airport crash Sign up for the Breaking News US email to get newsletter alerts in your inbox The head of Canada’s largest airline is stepping down after his video tribute to pilots killed in a fatal c…",
+      "recap_neutral": "Michael Rousseau faced mockery for speaking English and not French while addressing fatal LaGuardia airport crash Sign up for the Breaking News US email to get newsletter alerts in your inbox The head of Canada’s larges…",
       "main_idea": "Air Canada CEO to resign after backlash to video tribute of pilots killed in crash",
       "tags": [
         "tech"
@@ -747,23 +801,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "FTC action against Match and OkCupid for deceiving users, sharing personal data",
-      "title_neutral": "FTC action against Match and OkCupid for deceiving users, sharing personal data",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "FTC action against Match and OkCupid for deceiving users, sharing personal data",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Mon, 30 Mar 2026 15:32:37 +0000",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Spain closes airspace to US aircraft involved in Iran war",
       "title_neutral": "Spain closes airspace to US aircraft involved in Iran war",
       "excerpt": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia.",
@@ -795,21 +832,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How the US could try to seize Iran's Kharg Island",
-      "title_neutral": "How the US could try to seize Iran's Kharg Island",
-      "excerpt": "Donald Trump has indicated he could send troops to take control of Iran's key oil export terminal.",
-      "recap_neutral": "Donald Trump has indicated he could send troops to take control of Iran's key oil export terminal",
-      "main_idea": "How the US could try to seize Iran's Kharg Island",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Mon, 30 Mar 2026 14:54:47 GMT",
-      "url": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -895,23 +917,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Cardiff City damages claim over Emiliano Sala death dismissed",
-      "title_neutral": "Cardiff City damages claim over Emiliano Sala death dismissed",
-      "excerpt": "The club, which was claiming £104m in compensation, will now have to fork out about £400,000.",
-      "recap_neutral": "The club, which was claiming £104m in compensation, will now have to fork out about £400,000",
-      "main_idea": "Cardiff City damages claim over Emiliano Sala death dismissed",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Mon, 30 Mar 2026 14:24:02 GMT",
-      "url": "https://www.bbc.com/news/articles/c8jkeprrn00o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1043,6 +1048,21 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Do your own writing",
+      "title_neutral": "Do your own writing",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Do your own writing",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 30 Mar 2026 12:39:56 +0000",
+      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1478,21 +1498,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The curious case of retro demo scene graphics",
-      "title_neutral": "The curious case of retro demo scene graphics",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The curious case of retro demo scene graphics",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 30 Mar 2026 05:27:18 +0000",
-      "url": "https://www.datagubbe.se/aipixels/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
