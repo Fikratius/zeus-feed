@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T07:05:30.164553+00:00",
+  "last_updated": "2026-03-30T08:53:48.075540+00:00",
   "items": [
     {
       "title_original": "Douglas Lenat's Automated Mathematician Source Code",
@@ -32,38 +32,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "‘They can reach me wherever’: China using financial tactics to coerce people who flee, says report",
-      "title_neutral": "‘They can reach me wherever’: China using financial tactics to coerce people who flee, says report",
-      "excerpt": "UK urged to tackle transnational repression, as dissidents say Beijing has targeted them with tax bills and other threats “I didn’t feel safe, even though I’m not based in Hong Kong any more,” said Christopher Mung Siu-tat after getting tax bills from Hong Kong authorities. “The regime can reach me…",
-      "recap_neutral": "UK urged to tackle transnational repression, as dissidents say Beijing has targeted them with tax bills and other threats “I didn’t feel safe, even though I’m not based in Hong Kong any more,” said Christopher Mung Siu-…",
-      "main_idea": "‘They can reach me wherever’: China using financial tactics to coerce people who flee, says report",
-      "tags": [
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Wed, 25 Mar 2026 13:44:21 GMT",
-      "url": "https://www.theguardian.com/world/2026/mar/25/china-hong-kong-dissidents-transnational-repression-report",
-      "lang": "en",
-      "bias_score": 54,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Gonon: Building a Clock with No Numerals",
-      "title_neutral": "Gonon: Building a Clock with No Numerals",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Gonon: Building a Clock with No Numerals",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 26 Mar 2026 16:14:48 +0000",
-      "url": "https://tonygaeta.com/perceptor/code/gonon",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -351,6 +319,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Photos show heavily damaged US radar jet at Saudi base",
+      "title_neutral": "Photos show heavily damaged US radar jet at Saudi base",
+      "excerpt": "US Central Command has not yet publicly commented on the incident.",
+      "recap_neutral": "US Central Command has not yet publicly commented on the incident",
+      "main_idea": "Photos show heavily damaged US radar jet at Saudi base",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sun, 29 Mar 2026 18:42:19 GMT",
+      "url": "https://www.bbc.com/news/articles/cwyd07m7e1xo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Android OS Architecture, Part 8: Handlers and System Services Explained",
       "title_neutral": "Android OS Architecture, Part 8: Handlers and System Services Explained",
       "excerpt": "This article explains two core Android concepts: Handlers and System Services. Handlers manage thread communication by posting tasks to a Looper’s MessageQueue, enabling safe UI updates from background threads. System Services, on the other hand, act as secure intermediaries between apps and device…",
@@ -416,11 +399,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "C++26 is done ISO C++ standards meeting, Trip Report",
-      "title_neutral": "C++26 is done ISO C++ standards meeting, Trip Report",
+      "title_original": "C++26 is done: ISO C++ standards meeting Trip Report",
+      "title_neutral": "C++26 is done: ISO C++ standards meeting Trip Report",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "C++26 is done ISO C++ standards meeting, Trip Report",
+      "main_idea": "C++26 is done: ISO C++ standards meeting Trip Report",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Sun, 29 Mar 2026 17:46:12 +0000",
@@ -630,24 +613,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iranian attacks across Gulf continue as major industrial sites hit",
-      "title_neutral": "Iranian attacks across Gulf continue as major industrial sites hit",
-      "excerpt": "A number of people are said to have been injured after attacks on aluminium sites in the UAE and Bahrain.",
-      "recap_neutral": "A number of people are said to have been injured after attacks on aluminium sites in the UAE and Bahrain",
-      "main_idea": "Iranian attacks across Gulf continue as major industrial sites hit",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 29 Mar 2026 13:32:49 GMT",
-      "url": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Pope Leo XIV rejects claims that God justifies war in Palm Sunday Mass message",
       "title_neutral": "Pope Leo XIV rejects claims that God justifies war in Palm Sunday Mass message",
       "excerpt": "Pope Leo XIV rejected claims that God justifies war and prayed especially for Christians in the Middle East during a Palm Sunday Mass before tens of thousands of people in St. Peter's Square.",
@@ -684,23 +649,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
-      "title_neutral": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
-      "excerpt": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
-      "recap_neutral": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV",
-      "main_idea": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 29 Mar 2026 07:51:04 GMT",
-      "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "How to navigate the maze of drug discounts to get the best price",
       "title_neutral": "How to navigate the maze of drug discounts to get the best price",
       "excerpt": "In February, TrumpRx joined a growing list of websites consumers can tap for discounts on their medicines. Here's a cheat sheet for getting the best deal.",
@@ -728,23 +676,6 @@
       "source": "NPR",
       "published_at": "Sun, 29 Mar 2026 06:08:38 -0400",
       "url": "https://www.npr.org/2026/03/29/nx-s1-5765344/pakistan-diplomatic-discussions-iran-war",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Why a 98-year-old federal judge is asking the Supreme Court for her job back",
-      "title_neutral": "Why a 98-year-old federal judge is asking the Supreme Court for her job back",
-      "excerpt": "Pauline Newman's story shines a light on the aging judiciary, where judges are getting older and lifetime tenure is raising thorny questions about retirement.",
-      "recap_neutral": "Pauline Newman's story shines a light on the aging judiciary, where judges are getting older and lifetime tenure is raising thorny questions about retirement",
-      "main_idea": "Why a 98-year-old federal judge is asking the Supreme Court for her job back",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 29 Mar 2026 06:00:00 -0400",
-      "url": "https://www.npr.org/2026/03/29/nx-s1-5752172/oldest-federal-judge-us-supreme-court",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -781,17 +712,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
-      "title_neutral": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
-      "excerpt": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective, writes the BBC's international editor.",
-      "recap_neutral": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective, writes the BBC's international editor",
-      "main_idea": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
+      "title_original": "Prison phone call recordings raise questions over ex-Abercrombie boss' fitness for trial",
+      "title_neutral": "Prison phone call recordings raise questions over ex-Abercrombie boss' fitness for trial",
+      "excerpt": "Mike Jeffries' lawyers argue that he is suffering with dementia and late onset of Alzheimer's disease.",
+      "recap_neutral": "Mike Jeffries' lawyers argue that he is suffering with dementia and late onset of Alzheimer's disease",
+      "main_idea": "Prison phone call recordings raise questions over ex-Abercrombie boss' fitness for trial",
       "tags": [
-        "conflict"
+        "tech",
+        "health"
       ],
       "source": "BBC World",
-      "published_at": "Sun, 29 Mar 2026 00:02:46 GMT",
-      "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 29 Mar 2026 00:02:36 GMT",
+      "url": "https://www.bbc.com/news/articles/c2034ww6kqxo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -833,21 +765,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Castro Heirs Emerge Across Cuba’s Political Scene Amid Energy Crisis and Trump Threats",
-      "title_neutral": "Castro Heirs Emerge Across Cuba’s Political Scene Amid Energy Crisis and Trump Threats",
-      "excerpt": "As Trump officials demand changes, Castro family members are suddenly popping up across Cuba’s political scene. Some even ask: Could one be the “Cuban Delcy?”",
-      "recap_neutral": "As Trump officials demand changes, Castro family members are suddenly popping up across Cuba’s political scene",
-      "main_idea": "Castro Heirs Emerge Across Cuba’s Political Scene Amid Energy Crisis and Trump Threats",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sat, 28 Mar 2026 20:21:04 +0000",
-      "url": "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Ukraine Finalizes Air Defense Deals With Gulf Nations Amid War in Mideast",
       "title_neutral": "Ukraine Finalizes Air Defense Deals With Gulf Nations Amid War in Mideast",
       "excerpt": "The Ukrainian president visited the Middle East, where he sought to shift his country from a recipient of military aid to a supplier.",
@@ -882,24 +799,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Man in Paris Accused of Attempted Attack on Bank of America",
-      "title_neutral": "Man in Paris Accused of Attempted Attack on Bank of America",
-      "excerpt": "Prosecutors say the police thwarted an attacker as he was trying to detonate explosives. The episode is being investigated as possible terrorism.",
-      "recap_neutral": "Prosecutors say the police thwarted an attacker as he was trying to detonate explosives",
-      "main_idea": "Man in Paris Accused of Attempted Attack on Bank of America",
-      "tags": [
-        "economy",
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 28 Mar 2026 19:27:59 +0000",
-      "url": "https://www.nytimes.com/2026/03/28/world/europe/paris-attack-bank-of-america.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Hardware Image Compression",
       "title_neutral": "Hardware Image Compression",
       "excerpt": "Comments",
@@ -914,74 +813,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Pretext: TypeScript library for multiline text measurement and layout",
-      "title_neutral": "Pretext: TypeScript library for multiline text measurement and layout",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Pretext: TypeScript library for multiline text measurement and layout",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 28 Mar 2026 16:52:45 +0000",
-      "url": "https://github.com/chenglou/pretext",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Can This Russian Bakery Survive a 3,500% Tax Increase?",
-      "title_neutral": "Can This Russian Bakery Survive a 3,500% Tax Increase?",
-      "excerpt": "The challenges faced by a small-business owner near Moscow highlight how Russia’s war-drained economy is on the doorstep of a major crisis.",
-      "recap_neutral": "The challenges faced by a small-business owner near Moscow highlight how Russia’s war-drained economy is on the doorstep of a major crisis",
-      "main_idea": "Can This Russian Bakery Survive a 3,500% Tax Increase?",
-      "tags": [
-        "economy",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 28 Mar 2026 16:26:21 +0000",
-      "url": "https://www.nytimes.com/2026/03/28/world/europe/russia-economy-small-business-tax-increase.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Bank of America to pay out $72.5m over Epstein lawsuit",
-      "title_neutral": "Bank of America to pay out $72.5m over Epstein lawsuit",
-      "excerpt": "The settlement comes after a lawsuit accused the bank of facilitating Epstein's sex trafficking operation",
-      "recap_neutral": "The settlement comes after a lawsuit accused the bank of facilitating Epstein's sex trafficking operation",
-      "main_idea": "Bank of America to pay out $72.5m over Epstein lawsuit",
-      "tags": [
-        "economy"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 28 Mar 2026 15:17:35 GMT",
-      "url": "https://www.bbc.com/news/articles/cn0wjgwvp2ko?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Twenty-two migrants die off Greek coast after six days at sea",
-      "title_neutral": "Twenty-two migrants die off Greek coast after six days at sea",
-      "excerpt": "Poor weather and a lack of food and water contributed to the deaths, the Greek coastguard says.",
-      "recap_neutral": "Poor weather and a lack of food and water contributed to the deaths, the Greek coastguard says",
-      "main_idea": "Twenty-two migrants die off Greek coast after six days at sea",
-      "tags": [
-        "climate"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 28 Mar 2026 15:11:59 GMT",
-      "url": "https://www.bbc.com/news/articles/cnv8z1lvn8ro?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1002,262 +833,391 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Gaza peace doubts deepen as attention shifts to Iran",
-      "title_neutral": "Gaza peace doubts deepen as attention shifts to Iran",
-      "excerpt": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza.",
-      "recap_neutral": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza",
-      "main_idea": "Gaza peace doubts deepen as attention shifts to Iran",
+      "title_original": "В Приамурье волк напал на человека",
+      "title_neutral": "В Приамурье волк напал на человека",
+      "excerpt": "Дикое животное укусило мужчину, который пытался защитить свою собаку во дворе",
+      "recap_neutral": "Дикое животное укусило мужчину, который пытался защитить свою собаку во дворе",
+      "main_idea": "В Приамурье волк напал на человека",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 11:50:39 +0300",
+      "url": "https://tass.ru/proisshestviya/26934023",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве задержали забравшего у пенсионерки 25 млн рублей курьера",
+      "title_neutral": "В Москве задержали забравшего у пенсионерки 25 млн рублей курьера",
+      "excerpt": "Под вымышленными предлогами женщину убедили обналичить накопления и передать их якобы сотруднику правоохранительного ведомства",
+      "recap_neutral": "Под вымышленными предлогами женщину убедили обналичить накопления и передать их якобы сотруднику правоохранительного ведомства",
+      "main_idea": "В Москве задержали забравшего у пенсионерки 25 млн рублей курьера",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 11:50:31 +0300",
+      "url": "https://tass.ru/proisshestviya/26934077",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Приморье обвиняемого в смертельном ДТП заключили под стражу",
+      "title_neutral": "В Приморье обвиняемого в смертельном ДТП заключили под стражу",
+      "excerpt": "В пресс-службе УМВД по региону сообщили, что водитель вез пассажира на крыше машины Suzuki Jimny",
+      "recap_neutral": "В пресс-службе УМВД по региону сообщили, что водитель вез пассажира на крыше машины Suzuki Jimny",
+      "main_idea": "В Приморье обвиняемого в смертельном ДТП заключили под стражу",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 11:49:19 +0300",
+      "url": "https://tass.ru/proisshestviya/26934001",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Большинство опрошенных румын недовольны мерами по преодолению топливного кризиса",
+      "title_neutral": "Большинство опрошенных румын недовольны мерами по преодолению топливного кризиса",
+      "excerpt": "По данным Центра городской и региональной социологии, 44% респондентов заявили, что на них сильно повлиял рост цен на топливо",
+      "recap_neutral": "По данным Центра городской и региональной социологии, 44% респондентов заявили, что на них сильно повлиял рост цен на топливо",
+      "main_idea": "Большинство опрошенных румын недовольны мерами по преодолению топливного кризиса",
       "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 11:48:57 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26933915",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AKP: Камбоджа снизит сборы и импортные пошлины на топливо из-за роста цен",
+      "title_neutral": "AKP: Камбоджа снизит сборы и импортные пошлины на топливо из-за роста цен",
+      "excerpt": "Указ вступает в силу с 1 апреля, пишет агентство",
+      "recap_neutral": "Указ вступает в силу с 1 апреля, пишет агентство",
+      "main_idea": "AKP: Камбоджа снизит сборы и импортные пошлины на топливо из-за роста цен",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 11:48:37 +0300",
+      "url": "https://tass.ru/ekonomika/26934051",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "SNN: Иран ударил по промышленному району Хайфы",
+      "title_neutral": "SNN: Иран ударил по промышленному району Хайфы",
+      "excerpt": "",
+      "recap_neutral": "SNN: Иран ударил по промышленному району Хайфы",
+      "main_idea": "SNN: Иран ударил по промышленному району Хайфы",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 11:47:42 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26934071",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Эксперт Степанов: Финляндия могла использоваться для запуска дронов ВСУ",
+      "title_neutral": "Эксперт Степанов: Финляндия могла использоваться для запуска дронов ВСУ",
+      "excerpt": "Военный эксперт Института права и национальной безопасности РАНХиГС отметил, что в воздушном пространстве страны перемещались дроны",
+      "recap_neutral": "Военный эксперт Института права и национальной безопасности РАНХиГС отметил, что в воздушном пространстве страны перемещались дроны",
+      "main_idea": "Эксперт Степанов: Финляндия могла использоваться для запуска дронов ВСУ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 11:46:19 +0300",
+      "url": "https://tass.ru/politika/26934043",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Тюменской области мужчину осудили за угон автомобиля и наезд на полицейского",
+      "title_neutral": "В Тюменской области мужчину осудили за угон автомобиля и наезд на полицейского",
+      "excerpt": "Виновного приговорили к четырем годам колонии строгого режима",
+      "recap_neutral": "Виновного приговорили к четырем годам колонии строгого режима",
+      "main_idea": "В Тюменской области мужчину осудили за угон автомобиля и наезд на полицейского",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 11:44:52 +0300",
+      "url": "https://tass.ru/proisshestviya/26933985",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Во Владивостоке закрыли ТЦ из-за нарушений пожарной безопасности",
+      "title_neutral": "Во Владивостоке закрыли ТЦ из-за нарушений пожарной безопасности",
+      "excerpt": "Межведомственные проверки ТЦ на улице Борисенко проводили в 2025 году",
+      "recap_neutral": "Межведомственные проверки ТЦ на улице Борисенко проводили в 2025 году",
+      "main_idea": "Во Владивостоке закрыли ТЦ из-за нарушений пожарной безопасности",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 11:42:55 +0300",
+      "url": "https://tass.ru/obschestvo/26933981",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "От Рябова до Памфиловой. Кто возглавлял ЦИК",
+      "title_neutral": "От Рябова до Памфиловой. Кто возглавлял ЦИК",
+      "excerpt": "Девятый состав Центризбиркома 30 марта 2026 года проводит первое организационное заседание, на котором будет избран председатель комиссии",
+      "recap_neutral": "Девятый состав Центризбиркома 30 марта 2026 года проводит первое организационное заседание, на котором будет избран председатель комиссии",
+      "main_idea": "От Рябова до Памфиловой. Кто возглавлял ЦИК",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 11:42:24 +0300",
+      "url": "https://tass.ru/info/26933899",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В России по инициативе ЕР разработали стандарт капремонта студенческих общежитий",
+      "title_neutral": "В России по инициативе ЕР разработали стандарт капремонта студенческих общежитий",
+      "excerpt": "Программа ремонта таких общежитий является одной из составляющих действующей народной программы \"Единой России\"",
+      "recap_neutral": "Программа ремонта таких общежитий является одной из составляющих действующей народной программы \"Единой России\"",
+      "main_idea": "В России по инициативе ЕР разработали стандарт капремонта студенческих общежитий",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 11:42:15 +0300",
+      "url": "https://tass.ru/obschestvo/26933993",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Генерал Кувшинов пришел на оглашение приговора с большой черной сумкой",
+      "title_neutral": "Генерал Кувшинов пришел на оглашение приговора с большой черной сумкой",
+      "excerpt": "Его приговорили к 7,5 года колонии строгого режима по делу о коррупции,",
+      "recap_neutral": "Его приговорили к 7,5 года колонии строгого режима по делу о коррупции,",
+      "main_idea": "Генерал Кувшинов пришел на оглашение приговора с большой черной сумкой",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 11:40:32 +0300",
+      "url": "https://tass.ru/obschestvo/26933927",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Стоимость алюминия на LME росла более чем на 6,3%",
+      "title_neutral": "Стоимость алюминия на LME росла более чем на 6,3%",
+      "excerpt": "К 11:28 мск цена находилась на уровне $3 443,5 за тонну",
+      "recap_neutral": "К 11:28 мск цена находилась на уровне $3 443,5 за тонну",
+      "main_idea": "Стоимость алюминия на LME росла более чем на 6,3%",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 11:40:29 +0300",
+      "url": "https://tass.ru/ekonomika/26934011",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Раде намерены продлить налог в 50% на сверхприбыль банков",
+      "title_neutral": "В Раде намерены продлить налог в 50% на сверхприбыль банков",
+      "excerpt": "Это необходимо сделать в первой половине года, отметил председатель финансового комитета Верховной рады Даниил Гетманцев",
+      "recap_neutral": "Это необходимо сделать в первой половине года, отметил председатель финансового комитета Верховной рады Даниил Гетманцев",
+      "main_idea": "В Раде намерены продлить налог в 50% на сверхприбыль банков",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 11:39:58 +0300",
+      "url": "https://tass.ru/ekonomika/26934005",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Свердловской области с 15 апреля введут пожароопасный период",
+      "title_neutral": "В Свердловской области с 15 апреля введут пожароопасный период",
+      "excerpt": "На севере региона ограничения введут с 20 апреля",
+      "recap_neutral": "На севере региона ограничения введут с 20 апреля",
+      "main_idea": "В Свердловской области с 15 апреля введут пожароопасный период",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 30 Mar 2026 11:39:14 +0300",
+      "url": "https://tass.ru/obschestvo/26933999",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran War Live Updates: Trump Says Iran to Allow More Oil Ships Through Strait of Hormuz",
+      "title_neutral": "Iran War Live Updates: Trump Says Iran to Allow More Oil Ships Through Strait of Hormuz",
+      "excerpt": "President Trump characterized the move as a “sign of respect” even as fighting between Israel and Iran continued and the war dragged into its second month.",
+      "recap_neutral": "President Trump characterized the move as a “sign of respect” even as fighting between Israel and Iran continued and the war dragged into its second month",
+      "main_idea": "Iran War Live Updates: Trump Says Iran to Allow More Oil Ships Through Strait of Hormuz",
+      "tags": [
+        "politics",
         "conflict",
         "tech"
       ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 30 Mar 2026 08:32:32 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Brent crude hits $116 a barrel after Trump says he wants to ‘take the oil in Iran’",
+      "title_neutral": "Brent crude hits $116 a barrel after Trump says he wants to ‘take the oil in Iran’",
+      "excerpt": "Stock markets in Asia drop sharply, with investors nervous over escalation of Middle East conflict Business live – latest news The price of oil has risen sharply to $116 a barrel after Donald Trump said he wanted to “ take the oil in Iran ”, sending Asian stock markets tumbling. Brent crude, the in…",
+      "recap_neutral": "Stock markets in Asia drop sharply, with investors nervous over escalation of Middle East conflict Business live – latest news The price of oil has risen sharply to $116 a barrel after Donald Trump said he wanted to “ t…",
+      "main_idea": "Brent crude hits $116 a barrel after Trump says he wants to ‘take the oil in Iran’",
+      "tags": [
+        "economy",
+        "conflict",
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Mon, 30 Mar 2026 08:23:59 GMT",
+      "url": "https://www.theguardian.com/business/2026/mar/30/price-of-oil-trump-iran-stock-markets-middle-east",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Three killed as unfinished building collapses on church service in Ghana",
+      "title_neutral": "Three killed as unfinished building collapses on church service in Ghana",
+      "excerpt": "Locals say the structure, in a school complex, was in use despite lying unfinished for a number of years.",
+      "recap_neutral": "Locals say the structure, in a school complex, was in use despite lying unfinished for a number of years",
+      "main_idea": "Three killed as unfinished building collapses on church service in Ghana",
+      "tags": [],
       "source": "BBC World",
-      "published_at": "Sat, 28 Mar 2026 06:00:37 GMT",
-      "url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 30 Mar 2026 08:15:40 GMT",
+      "url": "https://www.bbc.com/news/articles/ckgex51zzd8o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Обесточивание Энергодара не повлияло на безопасность Запорожской АЭС",
-      "title_neutral": "Обесточивание Энергодара не повлияло на безопасность Запорожской АЭС",
+      "title_original": "Here’s the latest.",
+      "title_neutral": "Here’s the latest.",
       "excerpt": "",
-      "recap_neutral": "Обесточивание Энергодара не повлияло на безопасность Запорожской АЭС",
-      "main_idea": "Обесточивание Энергодара не повлияло на безопасность Запорожской АЭС",
+      "recap_neutral": "Here’s the latest.",
+      "main_idea": "Here’s the latest.",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 10:02:19 +0300",
-      "url": "https://tass.ru/obschestvo/26932587",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Mon, 30 Mar 2026 08:12:54 +0000",
+      "url": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news/heres-the-latest",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Индексы Мосбиржи и РТС на открытии торгов растут на 0,25%",
-      "title_neutral": "Индексы Мосбиржи и РТС на открытии торгов растут на 0,25%",
-      "excerpt": "",
-      "recap_neutral": "Индексы Мосбиржи и РТС на открытии торгов растут на 0,25%",
-      "main_idea": "Индексы Мосбиржи и РТС на открытии торгов растут на 0,25%",
+      "title_original": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+      "title_neutral": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 30 Mar 2026 07:34:04 +0000",
+      "url": "https://dani2442.github.io/posts/continuous-rl/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "In Australia, Victoria and Tasmania Waive Transit Fares as Fuel Prices Soar",
+      "title_neutral": "In Australia, Victoria and Tasmania Waive Transit Fares as Fuel Prices Soar",
+      "excerpt": "The measures in Victoria and Tasmania are temporary, but show how far and how intensely the oil shock from the war in Iran has spread.",
+      "recap_neutral": "The measures in Victoria and Tasmania are temporary, but show how far and how intensely the oil shock from the war in Iran has spread",
+      "main_idea": "In Australia, Victoria and Tasmania Waive Transit Fares as Fuel Prices Soar",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 30 Mar 2026 07:26:02 +0000",
+      "url": "https://www.nytimes.com/2026/03/30/world/australia/australia-melbourne-free-transit.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "I use excalidraw to manage my diagrams for my blog",
+      "title_neutral": "I use excalidraw to manage my diagrams for my blog",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "I use excalidraw to manage my diagrams for my blog",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 30 Mar 2026 07:17:06 +0000",
+      "url": "https://blog.lysk.tech/excalidraw-frame-export/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Fugitive Dezi Freeman shot dead by Australian police after seven months in hiding",
+      "title_neutral": "Fugitive Dezi Freeman shot dead by Australian police after seven months in hiding",
+      "excerpt": "Freeman has been wanted since the fatal shooting of two police officers in Porepunkah in August.",
+      "recap_neutral": "Freeman has been wanted since the fatal shooting of two police officers in Porepunkah in August",
+      "main_idea": "Fugitive Dezi Freeman shot dead by Australian police after seven months in hiding",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Mon, 30 Mar 2026 07:07:15 GMT",
+      "url": "https://www.bbc.com/news/articles/c93e4gxn22wo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "I am definitely missing the pre-AI writing era",
+      "title_neutral": "I am definitely missing the pre-AI writing era",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "I am definitely missing the pre-AI writing era",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 10:01:51 +0300",
-      "url": "https://tass.ru/ekonomika/26932659",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Подмосковье отрезали второй населенный пункт от сообщения из-за подъема уровня воды",
-      "title_neutral": "В Подмосковье отрезали второй населенный пункт от сообщения из-за подъема уровня воды",
-      "excerpt": "В пункте постоянно проживают семь человек, решается вопрос об их перемещении или обеспечении",
-      "recap_neutral": "В пункте постоянно проживают семь человек, решается вопрос об их перемещении или обеспечении",
-      "main_idea": "В Подмосковье отрезали второй населенный пункт от сообщения из-за подъема уровня воды",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 10:01:17 +0300",
-      "url": "https://tass.ru/proisshestviya/26932603",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Галузин: агрессия против Ирана показывает желание Запада диктовать свою политику",
-      "title_neutral": "Галузин: агрессия против Ирана показывает желание Запада диктовать свою политику",
-      "excerpt": "Западное меньшинство стремится противодействовать справедливому характеру международных отношений, заявил замглавы МИД РФ",
-      "recap_neutral": "Западное меньшинство стремится противодействовать справедливому характеру международных отношений, заявил замглавы МИД РФ",
-      "main_idea": "Галузин: агрессия против Ирана показывает желание Запада диктовать свою политику",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 10:00:16 +0300",
-      "url": "https://tass.ru/politika/26932555",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Должны забить больше трех мячей\". Булыкин — о матче сборных России и Мали",
-      "title_neutral": "\"Должны забить больше трех мячей\". Булыкин — о матче сборных России и Мали",
-      "excerpt": "Матч между сборными России и Мали пройдет 31 марта на \"Газпром Арене\" в Санкт-Петербурге, начало — 20:00 мск",
-      "recap_neutral": "Матч между сборными России и Мали пройдет 31 марта на \"Газпром Арене\" в Санкт-Петербурге, начало — 20:00 мск",
-      "main_idea": "\"Должны забить больше трех мячей\". Булыкин — о матче сборных России и Мали",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 10:00:00 +0300",
-      "url": "https://tass.ru/sport/26931801",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Режиссер и продюсер Сергей Члиянц: цензура — это не \"по-пацански\"",
-      "title_neutral": "Режиссер и продюсер Сергей Члиянц: цензура — это не \"по-пацански\"",
-      "excerpt": "23 марта стали известны лауреаты национальной кинематографической премии \"Ника\". Больше всего наград, а именно четыре, получил фильм Сергея Члиянца \"Ветер\". В первом после победы интервью ТАСС режиссер и продюсер рассказал о том, когда фильм выйдет в прокат, о планах на будущее и о том, почему ценз…",
-      "recap_neutral": "23 марта стали известны лауреаты национальной кинематографической премии \"Ника\"",
-      "main_idea": "Режиссер и продюсер Сергей Члиянц: цензура — это не \"по-пацански\"",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 10:00:00 +0300",
-      "url": "https://tass.ru/interviews/26927807",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Новосибирске директора стройфирмы осудили за хищение 90 млн рублей",
-      "title_neutral": "В Новосибирске директора стройфирмы осудили за хищение 90 млн рублей",
-      "excerpt": "Андрея Обозных приговорили к двум годам девяти месяцам лишения свободы",
-      "recap_neutral": "Андрея Обозных приговорили к двум годам девяти месяцам лишения свободы",
-      "main_idea": "В Новосибирске директора стройфирмы осудили за хищение 90 млн рублей",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 09:59:43 +0300",
-      "url": "https://tass.ru/proisshestviya/26932409",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "CBS: США частично возобновят рассмотрение прошений об убежище иностранцам",
-      "title_neutral": "CBS: США частично возобновят рассмотрение прошений об убежище иностранцам",
-      "excerpt": "В МВБ подчеркнули, что продолжат проводить полную проверку каждого приезжающего, сообщил телеканал",
-      "recap_neutral": "В МВБ подчеркнули, что продолжат проводить полную проверку каждого приезжающего, сообщил телеканал",
-      "main_idea": "CBS: США частично возобновят рассмотрение прошений об убежище иностранцам",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 09:59:13 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26932539",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ISU отказался пересматривать штраф британских фигуристов на чемпионате мира",
-      "title_neutral": "ISU отказался пересматривать штраф британских фигуристов на чемпионате мира",
-      "excerpt": "",
-      "recap_neutral": "ISU отказался пересматривать штраф британских фигуристов на чемпионате мира",
-      "main_idea": "ISU отказался пересматривать штраф британских фигуристов на чемпионате мира",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 09:57:58 +0300",
-      "url": "https://tass.ru/sport/26932553",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Приангарье осудили таксиста, наехавшего на мужчину",
-      "title_neutral": "В Приангарье осудили таксиста, наехавшего на мужчину",
-      "excerpt": "В суде установлено, что в мае 2025 года между потерпевшим и подсудимым, работающим водителем такси, возник конфликт: они не смогли договориться о цене будущей поездки",
-      "recap_neutral": "В суде установлено, что в мае 2025 года между потерпевшим и подсудимым, работающим водителем такси, возник конфликт: они не смогли договориться о цене будущей поездки",
-      "main_idea": "В Приангарье осудили таксиста, наехавшего на мужчину",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 09:56:29 +0300",
-      "url": "https://tass.ru/proisshestviya/26932227",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Бастрыкин поручил дать правовую оценку нападению на Русский дом в Праге",
-      "title_neutral": "Бастрыкин поручил дать правовую оценку нападению на Русский дом в Праге",
-      "excerpt": "Главному следственному управлению СК также необходимо установить обстоятельства произошедшего",
-      "recap_neutral": "Главному следственному управлению СК также необходимо установить обстоятельства произошедшего",
-      "main_idea": "Бастрыкин поручил дать правовую оценку нападению на Русский дом в Праге",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 09:56:07 +0300",
-      "url": "https://tass.ru/obschestvo/26932479",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Временная поверенная в делах Великобритании прибыла в МИД РФ",
-      "title_neutral": "Временная поверенная в делах Великобритании прибыла в МИД РФ",
-      "excerpt": "Дейни Долакия зашла в министерство без комментариев для журналистов",
-      "recap_neutral": "Дейни Долакия зашла в министерство без комментариев для журналистов",
-      "main_idea": "Временная поверенная в делах Великобритании прибыла в МИД РФ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 09:53:33 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26932521",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "El Pais: Испания решила передать Украине пять ракет Patriot",
-      "title_neutral": "El Pais: Испания решила передать Украине пять ракет Patriot",
-      "excerpt": "По данным газеты, речь идет о снарядах PAC-2",
-      "recap_neutral": "По данным газеты, речь идет о снарядах PAC-2",
-      "main_idea": "El Pais: Испания решила передать Украине пять ракет Patriot",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 09:53:10 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26932487",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Иране заявили, что 131 объект историко-культурного наследия получил повреждения",
-      "title_neutral": "В Иране заявили, что 131 объект историко-культурного наследия получил повреждения",
-      "excerpt": "",
-      "recap_neutral": "В Иране заявили, что 131 объект историко-культурного наследия получил повреждения",
-      "main_idea": "В Иране заявили, что 131 объект историко-культурного наследия получил повреждения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 09:53:01 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26932505",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Индии заявили о достаточных запасах топлива на АЗС",
-      "title_neutral": "В Индии заявили о достаточных запасах топлива на АЗС",
-      "excerpt": "Население призвали не поддаваться слухам о возможном дефиците",
-      "recap_neutral": "Население призвали не поддаваться слухам о возможном дефиците",
-      "main_idea": "В Индии заявили о достаточных запасах топлива на АЗС",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 30 Mar 2026 09:52:59 +0300",
-      "url": "https://tass.ru/ekonomika/26932393",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Mon, 30 Mar 2026 07:03:18 +0000",
+      "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1273,25 +1233,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trump Says Iran Agreed to Allow 20 More Ships of Oil Through Strait of Hormuz",
-      "title_neutral": "Trump Says Iran Agreed to Allow 20 More Ships of Oil Through Strait of Hormuz",
-      "excerpt": "The president characterized Iran’s permission as a “sign of respect.” Israel said it launched a wave of strikes targeting infrastructure in Tehran and other areas, and Iran retaliated.",
-      "recap_neutral": "The president characterized Iran’s permission as a “sign of respect",
-      "main_idea": "Trump Says Iran Agreed to Allow 20 More Ships of Oil Through Strait of Hormuz",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 30 Mar 2026 05:48:43 +0000",
-      "url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1312,24 +1253,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "In Australia, Victoria and Tasmania Waive Transit Fares as Fuel Prices Soar",
-      "title_neutral": "In Australia, Victoria and Tasmania Waive Transit Fares as Fuel Prices Soar",
-      "excerpt": "The measures in Victoria and Tasmania are temporary, but show how far and how intensely the oil shock from the war in Iran has spread.",
-      "recap_neutral": "The measures in Victoria and Tasmania are temporary, but show how far and how intensely the oil shock from the war in Iran has spread",
-      "main_idea": "In Australia, Victoria and Tasmania Waive Transit Fares as Fuel Prices Soar",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 30 Mar 2026 05:28:04 +0000",
-      "url": "https://www.nytimes.com/2026/03/30/world/australia/australia-melbourne-free-transit.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "The curious case of retro demo scene graphics",
       "title_neutral": "The curious case of retro demo scene graphics",
       "excerpt": "Comments",
@@ -1345,18 +1268,38 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "HD Audio Driver for Windows 98SE / Me",
-      "title_neutral": "HD Audio Driver for Windows 98SE / Me",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "HD Audio Driver for Windows 98SE / Me",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 30 Mar 2026 05:01:07 +0000",
-      "url": "https://github.com/andrew-hoffman/wdmhda",
+      "title_original": "Myanmar junta chief Min Aung Hlaing nominated as president",
+      "title_neutral": "Myanmar junta chief Min Aung Hlaing nominated as president",
+      "excerpt": "The military leader, who has been sanctioned by Western countries, is now certain to get the job.",
+      "recap_neutral": "The military leader, who has been sanctioned by Western countries, is now certain to get the job",
+      "main_idea": "Myanmar junta chief Min Aung Hlaing nominated as president",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 30 Mar 2026 05:26:09 GMT",
+      "url": "https://www.bbc.com/news/articles/clyew40w249o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Morning news brief",
+      "title_neutral": "Morning news brief",
+      "excerpt": "Over one million Lebanese displaced by Israel's invasion, thousands of U.S. troops deployed to the Middle East, with more on the way, delays continue at U.S. airports with no funding deal in sight.",
+      "recap_neutral": "Over one million Lebanese displaced by Israel's invasion, thousands of U",
+      "main_idea": "Morning news brief",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 30 Mar 2026 04:42:32 -0400",
+      "url": "https://www.npr.org/2026/03/30/nx-s1-5759074/morning-news-brief",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1372,6 +1315,21 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Gao Zhen, a Chinese Artist Accused of Mocking Mao, Goes on Trial",
+      "title_neutral": "Gao Zhen, a Chinese Artist Accused of Mocking Mao, Goes on Trial",
+      "excerpt": "Gao Zhen, who emigrated to the United States years ago, was arrested during a visit to China and now faces up to three years in prison for artwork.",
+      "recap_neutral": "Gao Zhen, who emigrated to the United States years ago, was arrested during a visit to China and now faces up to three years in prison for artwork",
+      "main_idea": "Gao Zhen, a Chinese Artist Accused of Mocking Mao, Goes on Trial",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Mon, 30 Mar 2026 04:20:07 +0000",
+      "url": "https://www.nytimes.com/2026/03/29/world/asia/china-artist-gao-trial.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1399,6 +1357,41 @@
       "source": "NYTimes World",
       "published_at": "Mon, 30 Mar 2026 04:01:23 +0000",
       "url": "https://www.nytimes.com/2026/03/30/business/lng-supply-asia-qatar-iran.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "He Led Congo for 18 Years. Now, Joseph Kabila Is a Hunted Man.",
+      "title_neutral": "He Led Congo for 18 Years. Now, Joseph Kabila Is a Hunted Man.",
+      "excerpt": "Joseph Kabila, the former president, faces the death penalty after the government convicted him of treason last year. He says the charges are bogus.",
+      "recap_neutral": "Joseph Kabila, the former president, faces the death penalty after the government convicted him of treason last year",
+      "main_idea": "He Led Congo for 18 Years. Now, Joseph Kabila Is a Hunted Man.",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 30 Mar 2026 04:01:10 +0000",
+      "url": "https://www.nytimes.com/2026/03/30/world/africa/he-led-congo-for-18-years-now-hes-a-hunted-man.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "They’ve Been Accused of Running a ‘Covert’ Operation in Greenland. It’s No Secret.",
+      "title_neutral": "They’ve Been Accused of Running a ‘Covert’ Operation in Greenland. It’s No Secret.",
+      "excerpt": "Members of President Trump’s circle, working in plain sight, have caught the eye of Denmark’s intelligence services for trying to make friends and cut deals on the Danish territory.",
+      "recap_neutral": "Members of President Trump’s circle, working in plain sight, have caught the eye of Denmark’s intelligence services for trying to make friends and cut deals on the Danish territory",
+      "main_idea": "They’ve Been Accused of Running a ‘Covert’ Operation in Greenland. It’s No Secret.",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 30 Mar 2026 04:01:10 +0000",
+      "url": "https://www.nytimes.com/2026/03/30/world/europe/trump-greenland-operation-danish-media.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -1488,11 +1481,29 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Netanyahu says Latin Patriarch will have full access to holy site",
-      "title_neutral": "Netanyahu says Latin Patriarch will have full access to holy site",
+      "title_original": "Partial government shutdown becomes the longest in US history",
+      "title_neutral": "Partial government shutdown becomes the longest in US history",
+      "excerpt": "The 44-day funding lapse for the Department of Homeland Security has led to travel chaos at US airports.",
+      "recap_neutral": "The 44-day funding lapse for the Department of Homeland Security has led to travel chaos at US airports",
+      "main_idea": "Partial government shutdown becomes the longest in US history",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 30 Mar 2026 01:13:51 GMT",
+      "url": "https://www.bbc.com/news/articles/cyv1qpzq5v7o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
+      "title_neutral": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
       "excerpt": "The Israeli PM said Cardinal Pierbattista Pizzaballa had been asked not to enter the church out of concern for his safety.",
       "recap_neutral": "The Israeli PM said Cardinal Pierbattista Pizzaballa had been asked not to enter the church out of concern for his safety",
-      "main_idea": "Netanyahu says Latin Patriarch will have full access to holy site",
+      "main_idea": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
       "tags": [
         "tech"
       ],
@@ -1586,23 +1597,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "UAE and Qatar Arrest Hundreds Over Online Videos of Iranian Attacks",
-      "title_neutral": "UAE and Qatar Arrest Hundreds Over Online Videos of Iranian Attacks",
-      "excerpt": "The authorities have made a wave of arrests to stop people posting footage of strikes, citing security risks. Experts also see a fear of damage to the countries’ image as safe havens.",
-      "recap_neutral": "The authorities have made a wave of arrests to stop people posting footage of strikes, citing security risks",
-      "main_idea": "UAE and Qatar Arrest Hundreds Over Online Videos of Iranian Attacks",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 27 Mar 2026 09:36:19 +0000",
-      "url": "https://www.nytimes.com/2026/03/27/world/middleeast/iran-war-videos-arrests-uae-gulf-states.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
