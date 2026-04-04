@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T11:51:14.524527+00:00",
+  "last_updated": "2026-04-04T12:45:50.607324+00:00",
   "items": [
     {
       "title_original": "‘System malfunction’ causes robotaxis to stall in the middle of the road in China",
@@ -14,6 +14,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Cathedral, the Bazaar, and the Winchester Mystery House",
+      "title_neutral": "The Cathedral, the Bazaar, and the Winchester Mystery House",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The Cathedral, the Bazaar, and the Winchester Mystery House",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 01 Apr 2026 14:13:34 +0000",
+      "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -62,21 +77,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "What changes when you turn a Linux box into a router",
-      "title_neutral": "What changes when you turn a Linux box into a router",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "What changes when you turn a Linux box into a router",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 31 Mar 2026 13:13:20 +0000",
-      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -142,23 +142,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "In a Muzzled Russia, He Still Speaks His Mind",
-      "title_neutral": "In a Muzzled Russia, He Still Speaks His Mind",
-      "excerpt": "While hundreds of other journalists fled into exile after Moscow’s invasion of Ukraine in 2022, the Nobel Peace Prize laureate Dmitri A. Muratov stayed. But he did not stay quiet.",
-      "recap_neutral": "While hundreds of other journalists fled into exile after Moscow’s invasion of Ukraine in 2022, the Nobel Peace Prize laureate Dmitri A",
-      "main_idea": "In a Muzzled Russia, He Still Speaks His Mind",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 02 Apr 2026 09:44:11 +0000",
-      "url": "https://www.nytimes.com/2026/04/02/world/europe/dimitri-muratov-russia-ukraine-war-nobel.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
       "title_neutral": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
       "excerpt": "Quake with epicentre west-north-west of Ternate island shakes cities and prompts regional tsunami warning One person has been killed after a 7.4 magnitude earthquake struck Indonesia’s Ternate island, damaging buildings and triggering small tsunami waves. The quake, which had a depth of 35km, occur…",
@@ -193,250 +176,247 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Сафонов назвал непростым матч с \"Тулузой\" в чемпионате Франции",
-      "title_neutral": "Сафонов назвал непростым матч с \"Тулузой\" в чемпионате Франции",
-      "excerpt": "В пятницу ПСЖ дома со счетом 3:1 обыграл \"Тулузу\"",
-      "recap_neutral": "В пятницу ПСЖ дома со счетом 3:1 обыграл \"Тулузу\"",
-      "main_idea": "Сафонов назвал непростым матч с \"Тулузой\" в чемпионате Франции",
+      "title_original": "Новак: пункт пропуска на границе РФ и Абхазии сможет обслуживать 80 тыс. человек в сутки",
+      "title_neutral": "Новак: пункт пропуска на границе РФ и Абхазии сможет обслуживать 80 тыс. человек в сутки",
+      "excerpt": "Реконструкцию пункта уже начали, отметил вице-премьер России",
+      "recap_neutral": "Реконструкцию пункта уже начали, отметил вице-премьер России",
+      "main_idea": "Новак: пункт пропуска на границе РФ и Абхазии сможет обслуживать 80 тыс. человек в сутки",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 04 Apr 2026 14:46:34 +0300",
-      "url": "https://tass.ru/sport/27001659",
+      "published_at": "Sat, 04 Apr 2026 15:40:35 +0300",
+      "url": "https://tass.ru/ekonomika/27001893",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Новак: курс Москвы и Сухума на сотрудничество носит долгосрочный характер",
-      "title_neutral": "Новак: курс Москвы и Сухума на сотрудничество носит долгосрочный характер",
-      "excerpt": "Вице-премьер заявил, что Абхазия разделяет позицию России по ключевым вопросам международной повестки",
-      "recap_neutral": "Вице-премьер заявил, что Абхазия разделяет позицию России по ключевым вопросам международной повестки",
-      "main_idea": "Новак: курс Москвы и Сухума на сотрудничество носит долгосрочный характер",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 04 Apr 2026 14:46:07 +0300",
-      "url": "https://tass.ru/politika/27001661",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Новак заявил о росте взаимной торговли между РФ и Абхазией за год",
-      "title_neutral": "Новак заявил о росте взаимной торговли между РФ и Абхазией за год",
+      "title_original": "Лихачев: события вокруг АЭС \"Бушер\" развиваются по нежелательному прогнозу",
+      "title_neutral": "Лихачев: события вокруг АЭС \"Бушер\" развиваются по нежелательному прогнозу",
       "excerpt": "",
-      "recap_neutral": "Новак заявил о росте взаимной торговли между РФ и Абхазией за год",
-      "main_idea": "Новак заявил о росте взаимной торговли между РФ и Абхазией за год",
+      "recap_neutral": "Лихачев: события вокруг АЭС \"Бушер\" развиваются по нежелательному прогнозу",
+      "main_idea": "Лихачев: события вокруг АЭС \"Бушер\" развиваются по нежелательному прогнозу",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 04 Apr 2026 14:44:59 +0300",
-      "url": "https://tass.ru/ekonomika/27001673",
+      "published_at": "Sat, 04 Apr 2026 15:39:15 +0300",
+      "url": "https://tass.ru/ekonomika/27001875",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Новак: РФ наблюдает серьезный прогресс в развитии Абхазии",
-      "title_neutral": "Новак: РФ наблюдает серьезный прогресс в развитии Абхазии",
-      "excerpt": "",
-      "recap_neutral": "Новак: РФ наблюдает серьезный прогресс в развитии Абхазии",
-      "main_idea": "Новак: РФ наблюдает серьезный прогресс в развитии Абхазии",
+      "title_original": "Депутат Горюханов призвал не вводить новые запреты для электросамокатов",
+      "title_neutral": "Депутат Горюханов призвал не вводить новые запреты для электросамокатов",
+      "excerpt": "Готовность сервисов идти навстречу властям видна на примере больших городов, в частности, Москвы, где кикшеринговые компании ограничивают скорость своих самокатов на определенных улицах, в парках, отметил член комитета Госдумы по транспорту и развитию транспортной инфраструктуры",
+      "recap_neutral": "Готовность сервисов идти навстречу властям видна на примере больших городов, в частности, Москвы, где кикшеринговые компании ограничивают скорость своих самокатов на определенных улицах, в парках, отметил член комитета…",
+      "main_idea": "Депутат Горюханов призвал не вводить новые запреты для электросамокатов",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 04 Apr 2026 14:44:11 +0300",
-      "url": "https://tass.ru/politika/27001665",
+      "published_at": "Sat, 04 Apr 2026 15:36:45 +0300",
+      "url": "https://tass.ru/obschestvo/27001861",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Более 60 человек приняли участие в турнире по нардам ко Дню космонавтики",
-      "title_neutral": "Более 60 человек приняли участие в турнире по нардам ко Дню космонавтики",
-      "excerpt": "Участниками стали сотрудники ракетно-космической промышленности и профессиональные нардисты",
-      "recap_neutral": "Участниками стали сотрудники ракетно-космической промышленности и профессиональные нардисты",
-      "main_idea": "Более 60 человек приняли участие в турнире по нардам ко Дню космонавтики",
+      "title_original": "В Дагестане из-за непогоды рекомендовали ограничить выпас скота в поймах рек",
+      "title_neutral": "В Дагестане из-за непогоды рекомендовали ограничить выпас скота в поймах рек",
+      "excerpt": "В регионе готовятся к паводкам",
+      "recap_neutral": "В регионе готовятся к паводкам",
+      "main_idea": "В Дагестане из-за непогоды рекомендовали ограничить выпас скота в поймах рек",
+      "tags": [
+        "climate"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 04 Apr 2026 15:35:57 +0300",
+      "url": "https://tass.ru/obschestvo/27001859",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ВСУ жалуются на травлю от детей из-за видео с насильственной мобилизацией",
+      "title_neutral": "В ВСУ жалуются на травлю от детей из-за видео с насильственной мобилизацией",
+      "excerpt": "На Украине сформировался негативный образ сотрудников военкоматов, многочисленные нарушения со стороны которых был вынужден признать уполномоченный по правам человека Дмитрий Лубинец",
+      "recap_neutral": "На Украине сформировался негативный образ сотрудников военкоматов, многочисленные нарушения со стороны которых был вынужден признать уполномоченный по правам человека Дмитрий Лубинец",
+      "main_idea": "В ВСУ жалуются на травлю от детей из-за видео с насильственной мобилизацией",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 04 Apr 2026 14:43:16 +0300",
-      "url": "https://tass.ru/sport/27001639",
+      "published_at": "Sat, 04 Apr 2026 15:32:14 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27001853",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Сикорский: Украина еще не провела все необходимые реформы для вступления в ЕС",
-      "title_neutral": "Сикорский: Украина еще не провела все необходимые реформы для вступления в ЕС",
-      "excerpt": "Владимир Зеленский утверждал, что Киев должен сделать все возможное, чтобы технически быть готовым к вступлению в Евросоюз к 2027 году",
-      "recap_neutral": "Владимир Зеленский утверждал, что Киев должен сделать все возможное, чтобы технически быть готовым к вступлению в Евросоюз к 2027 году",
-      "main_idea": "Сикорский: Украина еще не провела все необходимые реформы для вступления в ЕС",
+      "title_original": "Над регионами России сбили 21 украинский БПЛА",
+      "title_neutral": "Над регионами России сбили 21 украинский БПЛА",
+      "excerpt": "Силы ПВО работали в период с 09:00 до 15:00 мск",
+      "recap_neutral": "Силы ПВО работали в период с 09:00 до 15:00 мск",
+      "main_idea": "Над регионами России сбили 21 украинский БПЛА",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 04 Apr 2026 14:41:15 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27001583",
+      "published_at": "Sat, 04 Apr 2026 15:26:23 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27001843",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "КСИР заявил об ударе по связанному с Израилем судну в Ормузском проливе",
-      "title_neutral": "КСИР заявил об ударе по связанному с Израилем судну в Ормузском проливе",
-      "excerpt": "КСИР утверждает, что на корабле возник сильный пожар",
-      "recap_neutral": "КСИР утверждает, что на корабле возник сильный пожар",
-      "main_idea": "КСИР заявил об ударе по связанному с Израилем судну в Ормузском проливе",
+      "title_original": "Кириенко: летом в Абхазию впервые начинает летать широкофюзеляжный самолет на 500 мест",
+      "title_neutral": "Кириенко: летом в Абхазию впервые начинает летать широкофюзеляжный самолет на 500 мест",
+      "excerpt": "Уникальный проект реконструкции КПП \"Псоу\" на российско-абхазской границе также будет способствовать увеличению пропускной способности, отметил первый заместитель руководителя администрации президента России",
+      "recap_neutral": "Уникальный проект реконструкции КПП \"Псоу\" на российско-абхазской границе также будет способствовать увеличению пропускной способности, отметил первый заместитель руководителя администрации президента России",
+      "main_idea": "Кириенко: летом в Абхазию впервые начинает летать широкофюзеляжный самолет на 500 мест",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 04 Apr 2026 15:25:59 +0300",
+      "url": "https://tass.ru/ekonomika/27001831",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Воронежской области объявили опасность атаки БПЛА",
+      "title_neutral": "В Воронежской области объявили опасность атаки БПЛА",
+      "excerpt": "Жителей призвали сохранять спокойствие",
+      "recap_neutral": "Жителей призвали сохранять спокойствие",
+      "main_idea": "В Воронежской области объявили опасность атаки БПЛА",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 04 Apr 2026 14:41:02 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27001625",
+      "published_at": "Sat, 04 Apr 2026 15:25:34 +0300",
+      "url": "https://tass.ru/proisshestviya/27001827",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Сырский: ВСУ переносят полигоны и учебные центры в \"безопасные районы\"",
-      "title_neutral": "Сырский: ВСУ переносят полигоны и учебные центры в \"безопасные районы\"",
-      "excerpt": "Украинская армия строит укрытия, сообщил главком Вооруженных сил Украины",
-      "recap_neutral": "Украинская армия строит укрытия, сообщил главком Вооруженных сил Украины",
-      "main_idea": "Сырский: ВСУ переносят полигоны и учебные центры в \"безопасные районы\"",
+      "title_original": "Новак: аэропорт Сухума с начала возобновления работы в 2025 году обслужил 312 рейсов",
+      "title_neutral": "Новак: аэропорт Сухума с начала возобновления работы в 2025 году обслужил 312 рейсов",
+      "excerpt": "Было перевезено более 123 тыс. пассажиров, отметил вице-премьер РФ",
+      "recap_neutral": "Было перевезено более 123 тыс",
+      "main_idea": "Новак: аэропорт Сухума с начала возобновления работы в 2025 году обслужил 312 рейсов",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 04 Apr 2026 14:39:33 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27001619",
+      "published_at": "Sat, 04 Apr 2026 15:22:25 +0300",
+      "url": "https://tass.ru/ekonomika/27001821",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "The Daily Telegraph: судьба пропавшего в Иране пилота может изменить ход конфликта",
-      "title_neutral": "The Daily Telegraph: судьба пропавшего в Иране пилота может изменить ход конфликта",
-      "excerpt": "Если Иран покажет кадры со взятым в плен летчиком, Конгресс США и общественность начнут активно давить на американского лидера Дональда Трампа с целью сворачивания боевых действий",
-      "recap_neutral": "Если Иран покажет кадры со взятым в плен летчиком, Конгресс США и общественность начнут активно давить на американского лидера Дональда Трампа с целью сворачивания боевых действий",
-      "main_idea": "The Daily Telegraph: судьба пропавшего в Иране пилота может изменить ход конфликта",
+      "title_original": "Cnews: во Франции малому бизнесу предложат экспресс-кредиты на топливо из-за роста цен",
+      "title_neutral": "Cnews: во Франции малому бизнесу предложат экспресс-кредиты на топливо из-за роста цен",
+      "excerpt": "По данным телеканала, займы от €5 до €50 тыс. будут выдаваться под 3,8% через государственный инвестиционный банк BPI France",
+      "recap_neutral": "По данным телеканала, займы от €5 до €50 тыс",
+      "main_idea": "Cnews: во Франции малому бизнесу предложат экспресс-кредиты на топливо из-за роста цен",
+      "tags": [
+        "economy",
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 04 Apr 2026 15:15:47 +0300",
+      "url": "https://tass.ru/ekonomika/27001805",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Виннице мужчина ранил ножом двух сотрудников военкомата",
+      "title_neutral": "В Виннице мужчина ранил ножом двух сотрудников военкомата",
+      "excerpt": "Военкомы были доставлены в больницу, один из них находится в реанимации",
+      "recap_neutral": "Военкомы были доставлены в больницу, один из них находится в реанимации",
+      "main_idea": "В Виннице мужчина ранил ножом двух сотрудников военкомата",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 04 Apr 2026 15:11:10 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27001797",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "КСИР заявил об атаке на несколько военных объектов США в Кувейте, ОАЭ и Бахрейне",
+      "title_neutral": "КСИР заявил об атаке на несколько военных объектов США в Кувейте, ОАЭ и Бахрейне",
+      "excerpt": "Иран ударил по пунктам сбора американских военных и штаб-квартире компании Oracle",
+      "recap_neutral": "Иран ударил по пунктам сбора американских военных и штаб-квартире компании Oracle",
+      "main_idea": "КСИР заявил об атаке на несколько военных объектов США в Кувейте, ОАЭ и Бахрейне",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 04 Apr 2026 14:36:02 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27001575",
+      "published_at": "Sat, 04 Apr 2026 15:07:37 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27001781",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Москве 4 апреля промывают фасады зданий",
-      "title_neutral": "В Москве 4 апреля промывают фасады зданий",
-      "excerpt": "Это связано с установлением постоянной теплой погоды",
-      "recap_neutral": "Это связано с установлением постоянной теплой погоды",
-      "main_idea": "В Москве 4 апреля промывают фасады зданий",
-      "tags": [
-        "climate"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 04 Apr 2026 14:35:02 +0300",
-      "url": "https://tass.ru/obschestvo/27001609",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Регионы-шефы за три года вложили в Херсонскую область 6 млрд рублей",
-      "title_neutral": "Регионы-шефы за три года вложили в Херсонскую область 6 млрд рублей",
-      "excerpt": "На Херсонщине восстановили минимум 45 объектов",
-      "recap_neutral": "На Херсонщине восстановили минимум 45 объектов",
-      "main_idea": "Регионы-шефы за три года вложили в Херсонскую область 6 млрд рублей",
+      "title_original": "Глава МИД Польши выразил скептицизм по поводу идеи европейского ядерного зонтика",
+      "title_neutral": "Глава МИД Польши выразил скептицизм по поводу идеи европейского ядерного зонтика",
+      "excerpt": "Радослав Сикорский отметил, что НАТО и так по своей сути представляет собой \"ядерный альянс\"",
+      "recap_neutral": "Радослав Сикорский отметил, что НАТО и так по своей сути представляет собой \"ядерный альянс\"",
+      "main_idea": "Глава МИД Польши выразил скептицизм по поводу идеи европейского ядерного зонтика",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 04 Apr 2026 14:32:11 +0300",
-      "url": "https://tass.ru/obschestvo/27001599",
+      "published_at": "Sat, 04 Apr 2026 15:03:32 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27001741",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Индонезии произошло землетрясение магнитудой 6,0",
-      "title_neutral": "В Индонезии произошло землетрясение магнитудой 6,0",
-      "excerpt": "Информации о пострадавших и разрушениях не поступало",
-      "recap_neutral": "Информации о пострадавших и разрушениях не поступало",
-      "main_idea": "В Индонезии произошло землетрясение магнитудой 6,0",
-      "tags": [
-        "tech"
-      ],
+      "title_original": "Центр Израиля подвергся новому ракетному обстрелу",
+      "title_neutral": "Центр Израиля подвергся новому ракетному обстрелу",
+      "excerpt": "Сирены сработали в том числе в Тель-Авиве и окрестностях",
+      "recap_neutral": "Сирены сработали в том числе в Тель-Авиве и окрестностях",
+      "main_idea": "Центр Израиля подвергся новому ракетному обстрелу",
+      "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 04 Apr 2026 14:31:56 +0300",
-      "url": "https://tass.ru/proisshestviya/27001555",
+      "published_at": "Sat, 04 Apr 2026 15:03:30 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27001775",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Мурашко осмотрел строительство республиканской детской больницы в Абхазии",
-      "title_neutral": "Мурашко осмотрел строительство республиканской детской больницы в Абхазии",
-      "excerpt": "Министр здравоохранения заявил, что взаимодействие России и республики в вопросах здравоохранения является максимально тесным",
-      "recap_neutral": "Министр здравоохранения заявил, что взаимодействие России и республики в вопросах здравоохранения является максимально тесным",
-      "main_idea": "Мурашко осмотрел строительство республиканской детской больницы в Абхазии",
-      "tags": [
-        "tech"
-      ],
+      "title_original": "В ЦСИ Винзавод открылась выставка обложек к популярным книгам",
+      "title_neutral": "В ЦСИ Винзавод открылась выставка обложек к популярным книгам",
+      "excerpt": "Посетить экспозицию можно до 19 апреля",
+      "recap_neutral": "Посетить экспозицию можно до 19 апреля",
+      "main_idea": "В ЦСИ Винзавод открылась выставка обложек к популярным книгам",
+      "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 04 Apr 2026 14:29:10 +0300",
-      "url": "https://tass.ru/politika/27001571",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Арагчи: арабские страны пострадают от ударов США по АЭС в Иране",
-      "title_neutral": "Арагчи: арабские страны пострадают от ударов США по АЭС в Иране",
-      "excerpt": "Глава МИД республики отметил, что страны запада не молчали, когда боевые действия происходили в районе Запорожской АЭС",
-      "recap_neutral": "Глава МИД республики отметил, что страны запада не молчали, когда боевые действия происходили в районе Запорожской АЭС",
-      "main_idea": "Арагчи: арабские страны пострадают от ударов США по АЭС в Иране",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 04 Apr 2026 14:27:14 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27001539",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Дмитриев посоветовал ЕС искать источники энергии, а не запрещать выезд гражданам",
-      "title_neutral": "Дмитриев посоветовал ЕС искать источники энергии, а не запрещать выезд гражданам",
-      "excerpt": "Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами прокомментировал информацию о том, что мужчинам в Германии запретили покидать страну более чем на три месяца без разрешения военкомата",
-      "recap_neutral": "Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами прокомментировал информацию о том, что мужчинам в Германии запретили покидать страну более чем на три месяца без разр…",
-      "main_idea": "Дмитриев посоветовал ЕС искать источники энергии, а не запрещать выезд гражданам",
-      "tags": [
-        "politics",
-        "economy",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 04 Apr 2026 14:25:20 +0300",
-      "url": "https://tass.ru/politika/27001535",
+      "published_at": "Sat, 04 Apr 2026 14:59:55 +0300",
+      "url": "https://tass.ru/obschestvo/27001721",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
@@ -453,11 +433,28 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 04 Apr 2026 11:47:22 +0000",
+      "published_at": "Sat, 04 Apr 2026 12:37:02 +0000",
       "url": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Mbodi AI (YC P25) Is Hiring",
+      "title_neutral": "Mbodi AI (YC P25) Is Hiring",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Mbodi AI (YC P25) Is Hiring",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sat, 04 Apr 2026 12:00:38 +0000",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -476,6 +473,21 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The CMS is dead. Long live the CMS",
+      "title_neutral": "The CMS is dead. Long live the CMS",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The CMS is dead. Long live the CMS",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 04 Apr 2026 11:24:30 +0000",
+      "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -606,6 +618,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Living Space",
+      "title_neutral": "Living Space",
+      "excerpt": "We don’t have to travel to the moon to gain some of the insight that astronauts do.",
+      "recap_neutral": "We don’t have to travel to the moon to gain some of the insight that astronauts do",
+      "main_idea": "Living Space",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 04 Apr 2026 10:13:47 +0000",
+      "url": "https://www.nytimes.com/2026/04/04/briefing/living-space.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "One dead and dozens injured at Peru football stadium during pre-match event",
       "title_neutral": "One dead and dozens injured at Peru football stadium during pre-match event",
       "excerpt": "Initial reports suggested parts of arena’s wall had collapsed, but Alianza Lima says there were no structural failures One person has been killed and dozens more injured at the Alejandro Villanueva Stadium in Lima, Peru, according to the football club Alianza Lima. Hundreds of fans were attending a…",
@@ -700,6 +729,38 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "'London Falling': A teenage imposter, an aging gangster and a body in the Thames",
+      "title_neutral": "'London Falling': A teenage imposter, an aging gangster and a body in the Thames",
+      "excerpt": "In 2019, 19-year-old Zac Brettler leapt towards the River Thames from a fifth-floor luxury apartment in central London. Patrick Radden Keefe investigates the story of the teen's double life in a new book.",
+      "recap_neutral": "In 2019, 19-year-old Zac Brettler leapt towards the River Thames from a fifth-floor luxury apartment in central London",
+      "main_idea": "'London Falling': A teenage imposter, an aging gangster and a body in the Thames",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 04 Apr 2026 08:00:00 -0400",
+      "url": "https://www.npr.org/2026/04/04/nx-s1-5766048/london-falling-review-patrick-radden-keefe",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Opinion: Humanity's hopes ascended with Artemis II",
+      "title_neutral": "Opinion: Humanity's hopes ascended with Artemis II",
+      "excerpt": "NPR's Scott Simon reflects on the successful launch of NASA's Artemis II this week. The four astronauts aboard will travel around the moon.",
+      "recap_neutral": "NPR's Scott Simon reflects on the successful launch of NASA's Artemis II this week",
+      "main_idea": "Opinion: Humanity's hopes ascended with Artemis II",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sat, 04 Apr 2026 08:00:00 -0400",
+      "url": "https://www.npr.org/2026/04/04/nx-s1-5764829/opinion-humanitys-hopes-ascended-with-artemis-ii",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1052,21 +1113,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-      "title_neutral": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 03 Apr 2026 23:46:51 +0000",
-      "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "After 16 years in power, could Viktor Orban finally be unseated?",
       "title_neutral": "After 16 years in power, could Viktor Orban finally be unseated?",
       "excerpt": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?",
@@ -1143,21 +1189,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "NASA's Artemis II crew are quite the photographers. See what they've snapped so far",
-      "title_neutral": "NASA's Artemis II crew are quite the photographers. See what they've snapped so far",
-      "excerpt": "Many of the photos that have come out of the moon mission so far were taken by crew members. NASA says the crew is getting guidance from scientists on what to capture when they get closer to the moon.",
-      "recap_neutral": "Many of the photos that have come out of the moon mission so far were taken by crew members",
-      "main_idea": "NASA's Artemis II crew are quite the photographers. See what they've snapped so far",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Fri, 03 Apr 2026 20:30:30 -0400",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/04/03/nx-s1-5773282/artemis-ii-nasa-photos",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1441,21 +1472,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump's ballroom fight sheds new light on an underground White House bunker",
-      "title_neutral": "Trump's ballroom fight sheds new light on an underground White House bunker",
-      "excerpt": "The status of a decades-old bunker beneath the now-demolished East Wing is unclear, but the Trump administration has cited security concerns in its legal filings in favor of continuing construction.",
-      "recap_neutral": "The status of a decades-old bunker beneath the now-demolished East Wing is unclear, but the Trump administration has cited security concerns in its legal filings in favor of continuing construction",
-      "main_idea": "Trump's ballroom fight sheds new light on an underground White House bunker",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Fri, 03 Apr 2026 13:58:02 -0400",
-      "url": "https://www.npr.org/2026/04/03/nx-s1-5772665/trump-ballroom-underground-military-bunker",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "France's Muslim gathering ban overturned by courts",
       "title_neutral": "France's Muslim gathering ban overturned by courts",
       "excerpt": "The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism.",
@@ -1602,23 +1618,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Technocracy Movement of the 1930s",
-      "title_neutral": "The Technocracy Movement of the 1930s",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The Technocracy Movement of the 1930s",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Fri, 03 Apr 2026 02:29:22 +0000",
-      "url": "https://donotresearch.substack.com/p/welcome-to-the-technocracy",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     }
   ]
