@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T22:56:32.457227+00:00",
+  "last_updated": "2026-04-04T23:31:39.710720+00:00",
   "items": [
     {
       "title_original": "‘System malfunction’ causes robotaxis to stall in the middle of the road in China",
@@ -32,6 +32,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "OpenScreen is an open-source alternative to Screen Studio",
+      "title_neutral": "OpenScreen is an open-source alternative to Screen Studio",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "OpenScreen is an open-source alternative to Screen Studio",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 01 Apr 2026 01:31:46 +0000",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -114,6 +129,69 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Слуцкий предложил ввести ответственность за навязчивое преследование",
+      "title_neutral": "Слуцкий предложил ввести ответственность за навязчивое преследование",
+      "excerpt": "Также лидер ЛДПР предложил разработать меры превентивной защиты",
+      "recap_neutral": "Также лидер ЛДПР предложил разработать меры превентивной защиты",
+      "main_idea": "Слуцкий предложил ввести ответственность за навязчивое преследование",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Apr 2026 02:10:34 +0300",
+      "url": "https://tass.ru/obschestvo/27003735",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Ярославской области объявили беспилотную опасность",
+      "title_neutral": "В Ярославской области объявили беспилотную опасность",
+      "excerpt": "Жителей призвали укрыться в ближайших зданиях",
+      "recap_neutral": "Жителей призвали укрыться в ближайших зданиях",
+      "main_idea": "В Ярославской области объявили беспилотную опасность",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Apr 2026 02:09:55 +0300",
+      "url": "https://tass.ru/proisshestviya/27003731",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На северо-западе Ирана заявили о гибели трех мирных жителей при атаках с воздуха",
+      "title_neutral": "На северо-западе Ирана заявили о гибели трех мирных жителей при атаках с воздуха",
+      "excerpt": "Еще трое получили ранения, сообщил заместитель губернатора провинции Ардебиль",
+      "recap_neutral": "Еще трое получили ранения, сообщил заместитель губернатора провинции Ардебиль",
+      "main_idea": "На северо-западе Ирана заявили о гибели трех мирных жителей при атаках с воздуха",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Apr 2026 02:04:04 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27003725",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: истребители ВВС Израиля преодолели звуковой барьер над Бейрутом",
+      "title_neutral": "ТАСС: истребители ВВС Израиля преодолели звуковой барьер над Бейрутом",
+      "excerpt": "Самолеты несколько раз пролетели над городом, вызвав панику среди местных жителей",
+      "recap_neutral": "Самолеты несколько раз пролетели над городом, вызвав панику среди местных жителей",
+      "main_idea": "ТАСС: истребители ВВС Израиля преодолели звуковой барьер над Бейрутом",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Apr 2026 01:56:59 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27003717",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Боксер Уайлдер выиграл у Чисоры в Великобритании",
       "title_neutral": "Боксер Уайлдер выиграл у Чисоры в Великобритании",
       "excerpt": "Американец одержал победу раздельным решением судей",
@@ -151,8 +229,8 @@
     {
       "title_original": "В Дербенте практически на всех улицах упал уровень воды",
       "title_neutral": "В Дербенте практически на всех улицах упал уровень воды",
-      "excerpt": "",
-      "recap_neutral": "В Дербенте практически на всех улицах упал уровень воды",
+      "excerpt": "Вода ушла в ливневки",
+      "recap_neutral": "Вода ушла в ливневки",
       "main_idea": "В Дербенте практически на всех улицах упал уровень воды",
       "tags": [],
       "source": "ТАСС",
@@ -291,67 +369,39 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Самарской области ввели план \"Ковер\"",
-      "title_neutral": "В Самарской области ввели план \"Ковер\"",
-      "excerpt": "Причиной стала угроза подлета БПЛА",
-      "recap_neutral": "Причиной стала угроза подлета БПЛА",
-      "main_idea": "В Самарской области ввели план \"Ковер\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Apr 2026 00:39:08 +0300",
-      "url": "https://tass.ru/ekonomika/27003641",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Дербенте коммунальные службы перешли на усиленный режим работы",
-      "title_neutral": "В Дербенте коммунальные службы перешли на усиленный режим работы",
-      "excerpt": "Это связано со сходом грязевых масс",
-      "recap_neutral": "Это связано со сходом грязевых масс",
-      "main_idea": "В Дербенте коммунальные службы перешли на усиленный режим работы",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Apr 2026 00:36:56 +0300",
-      "url": "https://tass.ru/obschestvo/27003625",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Всероссийский медиафорум в НЦ \"Россия\" объединил более 120 юнкоров",
-      "title_neutral": "Всероссийский медиафорум в НЦ \"Россия\" объединил более 120 юнкоров",
-      "excerpt": "Основной темой форума стала подготовка к освещению событий, приуроченных к десятилетию \"Юнармии\"",
-      "recap_neutral": "Основной темой форума стала подготовка к освещению событий, приуроченных к десятилетию \"Юнармии\"",
-      "main_idea": "Всероссийский медиафорум в НЦ \"Россия\" объединил более 120 юнкоров",
+      "title_original": "Dozens Killed in Haiti Massacre as International Force Trickles In",
+      "title_neutral": "Dozens Killed in Haiti Massacre as International Force Trickles In",
+      "excerpt": "Gangs tore through several rural communities last weekend, underscoring the challenges that will face the new, U.N.-backed Gang Suppression Force starting to enter the country.",
+      "recap_neutral": "Gangs tore through several rural communities last weekend, underscoring the challenges that will face the new, U",
+      "main_idea": "Dozens Killed in Haiti Massacre as International Force Trickles In",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Apr 2026 00:36:27 +0300",
-      "url": "https://tass.ru/obschestvo/27003637",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sat, 04 Apr 2026 23:17:17 +0000",
+      "url": "https://www.nytimes.com/2026/04/04/world/americas/haiti-gang-massacre.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Al Hadath: в центральной части Ирана произошли многочисленные взрывы",
-      "title_neutral": "Al Hadath: в центральной части Ирана произошли многочисленные взрывы",
-      "excerpt": "Удары наносят американо-израильские силы, сообщил телеканал",
-      "recap_neutral": "Удары наносят американо-израильские силы, сообщил телеканал",
-      "main_idea": "Al Hadath: в центральной части Ирана произошли многочисленные взрывы",
+      "title_original": "Iran War Live Updates: U.S. Races to Find Missing Crew Member as Trump Repeats Threats Over Strait",
+      "title_neutral": "Iran War Live Updates: U.S. Races to Find Missing Crew Member as Trump Repeats Threats Over Strait",
+      "excerpt": "President Trump said time was “running out” on his ultimatum to reopen the Strait of Hormuz, and Israel struck a major petrochemical complex in Iran’s southwest.",
+      "recap_neutral": "President Trump said time was “running out” on his ultimatum to reopen the Strait of Hormuz, and Israel struck a major petrochemical complex in Iran’s southwest",
+      "main_idea": "Iran War Live Updates: U.S. Races to Find Missing Crew Member as Trump Repeats Threats Over Strait",
       "tags": [
-        "conflict"
+        "politics",
+        "conflict",
+        "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Apr 2026 00:35:25 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27003631",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sat, 04 Apr 2026 23:10:50 +0000",
+      "url": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -370,25 +420,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran War Live Updates: U.S. Races to Find Missing Crew Member as Trump Repeats Threats Over Strait",
-      "title_neutral": "Iran War Live Updates: U.S. Races to Find Missing Crew Member as Trump Repeats Threats Over Strait",
-      "excerpt": "President Trump said time was “running out” on his ultimatum to reopen the Strait of Hormuz, and Israel struck a major petrochemical complex in Iran’s southwest.",
-      "recap_neutral": "President Trump said time was “running out” on his ultimatum to reopen the Strait of Hormuz, and Israel struck a major petrochemical complex in Iran’s southwest",
-      "main_idea": "Iran War Live Updates: U.S. Races to Find Missing Crew Member as Trump Repeats Threats Over Strait",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 04 Apr 2026 22:32:49 +0000",
-      "url": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -535,23 +566,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Here’s how two airmen would have ejected from the F-15E.",
-      "title_neutral": "Here’s how two airmen would have ejected from the F-15E.",
-      "excerpt": "A step-by-step look at the process by which the two crew members probably ejected from the fighter jet.",
-      "recap_neutral": "A step-by-step look at the process by which the two crew members probably ejected from the fighter jet",
-      "main_idea": "Here’s how two airmen would have ejected from the F-15E.",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 04 Apr 2026 19:00:16 +0000",
-      "url": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/iran-pilot-fighter-jet-strike-war",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Russian attack on Ukraine market kills five",
       "title_neutral": "Russian attack on Ukraine market kills five",
       "excerpt": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
@@ -588,23 +602,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iranian missile blitz takes down AWS data centers in Bahrain and Dubai",
-      "title_neutral": "Iranian missile blitz takes down AWS data centers in Bahrain and Dubai",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Iranian missile blitz takes down AWS data centers in Bahrain and Dubai",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 04 Apr 2026 18:23:55 +0000",
-      "url": "https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "German researchers set right the story of a 9,000-year-old shaman's grave",
       "title_neutral": "German researchers set right the story of a 9,000-year-old shaman's grave",
       "excerpt": "When a 9,000 year-old grave of a shaman was discovered in Nazi Germany, the discovery was quickly politicized to support Nazi propaganda. But new analysis shows that initial narrative was all wrong.",
@@ -617,21 +614,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Plague Ships (2020)",
-      "title_neutral": "Plague Ships (2020)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Plague Ships (2020)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 04 Apr 2026 17:33:21 +0000",
-      "url": "https://www.afloat.com.au/feature/plague-ships/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -828,6 +810,21 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Show HN: I made open source, zero power PCB hackathon badges",
+      "title_neutral": "Show HN: I made open source, zero power PCB hackathon badges",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: I made open source, zero power PCB hackathon badges",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 04 Apr 2026 14:20:21 +0000",
+      "url": "https://github.com/KaiPereira/Overglade-Badges",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
