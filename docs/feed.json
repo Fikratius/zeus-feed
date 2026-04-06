@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-04-06T10:05:56.789115+00:00",
+  "last_updated": "2026-04-06T11:25:34.267254+00:00",
   "items": [
-    {
-      "title_original": "‘System malfunction’ causes robotaxis to stall in the middle of the road in China",
-      "title_neutral": "‘System malfunction’ causes robotaxis to stall in the middle of the road in China",
-      "excerpt": "Distressed riders who were stranded for hours say Apollo Go customer service agents offered ‘useless platitudes’ A “system malfunction” has caused several self-driving robotaxis to stall in the middle of the road in China, police have confirmed, after distressed riders were stranded for hours. Loca…",
-      "recap_neutral": "Distressed riders who were stranded for hours say Apollo Go customer service agents offered ‘useless platitudes’ A “system malfunction” has caused several self-driving robotaxis to stall in the middle of the road in Chi…",
-      "main_idea": "‘System malfunction’ causes robotaxis to stall in the middle of the road in China",
-      "tags": [],
-      "source": "The Guardian",
-      "published_at": "Wed, 01 Apr 2026 17:17:52 GMT",
-      "url": "https://www.theguardian.com/technology/2026/apr/01/system-malfunction-causes-robotaxis-to-stall-in-the-middle-of-the-road-in-china",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
     {
       "title_original": "Uganda receives first US deportation flight under third-country agreement",
       "title_neutral": "Uganda receives first US deportation flight under third-country agreement",
@@ -154,12 +139,13 @@
     {
       "title_original": "Hungary alleges plot to blow up gas pipeline ahead of election",
       "title_neutral": "Hungary alleges plot to blow up gas pipeline ahead of election",
-      "excerpt": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.",
-      "recap_neutral": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters",
+      "excerpt": "It comes a week before votes are cast and follows warnings of so-called false flag operations blamed on Ukraine.",
+      "recap_neutral": "It comes a week before votes are cast and follows warnings of so-called false flag operations blamed on Ukraine",
       "main_idea": "Hungary alleges plot to blow up gas pipeline ahead of election",
       "tags": [
         "politics",
-        "conflict"
+        "conflict",
+        "tech"
       ],
       "source": "BBC World",
       "published_at": "Sun, 05 Apr 2026 19:17:42 GMT",
@@ -196,21 +182,6 @@
       "source": "Hacker News",
       "published_at": "Sun, 05 Apr 2026 18:45:53 +0000",
       "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Why Switzerland has 25 Gbit internet and America doesn't",
-      "title_neutral": "Why Switzerland has 25 Gbit internet and America doesn't",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Why Switzerland has 25 Gbit internet and America doesn't",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 05 Apr 2026 18:29:47 +0000",
-      "url": "https://sschueller.github.io/posts/the-free-market-lie/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -266,38 +237,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
-      "title_neutral": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 05 Apr 2026 17:13:51 +0000",
-      "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Hollywood studios reach a tentative agreement with writers union",
-      "title_neutral": "Hollywood studios reach a tentative agreement with writers union",
-      "excerpt": "The Writers Guild of America went on strike for months in 2023 in a dispute with Hollywood studios. This year the union announced a new four-year contract after just a few weeks of negotiations.",
-      "recap_neutral": "The Writers Guild of America went on strike for months in 2023 in a dispute with Hollywood studios",
-      "main_idea": "Hollywood studios reach a tentative agreement with writers union",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 05 Apr 2026 17:09:10 -0400",
-      "url": "https://www.npr.org/2026/04/05/nx-s1-5774517/hollywood-studios-wga-tentative-agreement-writers-union",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "More Than 70 Migrants Missing After Boat Capsizes Off Libya",
       "title_neutral": "More Than 70 Migrants Missing After Boat Capsizes Off Libya",
       "excerpt": "Survivors said at least 100 people were on a boat that had left Libya for Europe. Only 32 of those aboard are known to have survived.",
@@ -312,21 +251,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Artemis's stunning Moon pictures - science or holiday photos?",
-      "title_neutral": "Artemis's stunning Moon pictures - science or holiday photos?",
-      "excerpt": "The story behind the beautiful pictures beamed back to Earth from the Artemis II astronauts.",
-      "recap_neutral": "The story behind the beautiful pictures beamed back to Earth from the Artemis II astronauts",
-      "main_idea": "Artemis's stunning Moon pictures - science or holiday photos?",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sun, 05 Apr 2026 15:03:19 GMT",
-      "url": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -377,23 +301,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "These rock-climbing fish can shimmy up a 50-foot waterfall",
-      "title_neutral": "These rock-climbing fish can shimmy up a 50-foot waterfall",
-      "excerpt": "New research from the Democratic Republic of Congo offers a behavioral and anatomical portrait of a species that can achieve surprising athletic feats.",
-      "recap_neutral": "New research from the Democratic Republic of Congo offers a behavioral and anatomical portrait of a species that can achieve surprising athletic feats",
-      "main_idea": "These rock-climbing fish can shimmy up a 50-foot waterfall",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 05 Apr 2026 07:00:00 -0400",
-      "url": "https://www.npr.org/2026/04/05/nx-s1-5773315/shellear-climbing-fish-congo-waterfall",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -545,40 +452,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "World's oldest leader to get a deputy for first time in 43-year rule",
-      "title_neutral": "World's oldest leader to get a deputy for first time in 43-year rule",
-      "excerpt": "Cameroon's President Paul Biya, 93, won his eighth successive term last year in a disputed election.",
-      "recap_neutral": "Cameroon's President Paul Biya, 93, won his eighth successive term last year in a disputed election",
-      "main_idea": "World's oldest leader to get a deputy for first time in 43-year rule",
-      "tags": [
-        "politics"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 04 Apr 2026 18:30:58 GMT",
-      "url": "https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Australians told to continue Easter travel plans despite fuel shortages",
-      "title_neutral": "Australians told to continue Easter travel plans despite fuel shortages",
-      "excerpt": "Hundreds of petrol stations across Australia have run out of fuel as the Iran war disrupts global oil shipments and pushes up prices.",
-      "recap_neutral": "Hundreds of petrol stations across Australia have run out of fuel as the Iran war disrupts global oil shipments and pushes up prices",
-      "main_idea": "Australians told to continue Easter travel plans despite fuel shortages",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 04 Apr 2026 12:10:10 GMT",
-      "url": "https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Fugitive mafia boss wanted for murder arrested in Amalfi Coast luxury villa",
       "title_neutral": "Fugitive mafia boss wanted for murder arrested in Amalfi Coast luxury villa",
       "excerpt": "Roberto Mazzarella has been on the run for more than a year and was living under a false name, police say.",
@@ -656,23 +529,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
-      "title_neutral": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
-      "excerpt": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
-      "recap_neutral": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon",
-      "main_idea": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 04 Apr 2026 06:42:48 GMT",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Sheets Spreadsheets in Your Terminal",
       "title_neutral": "Sheets Spreadsheets in Your Terminal",
       "excerpt": "Comments",
@@ -742,271 +598,390 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Фильмы и сериалы заняли 58% обсуждений контента в интернете",
-      "title_neutral": "Фильмы и сериалы заняли 58% обсуждений контента в интернете",
-      "excerpt": "Аналитика основана на изучении более 508 тыс. пользовательских сообщений за период с октября 2025 года по март 2026 года, говорится в исследовании \"Кион\" и \"Сидорин лаб\"",
-      "recap_neutral": "Аналитика основана на изучении более 508 тыс",
-      "main_idea": "Фильмы и сериалы заняли 58% обсуждений контента в интернете",
-      "tags": [
-        "tech"
-      ],
+      "title_original": "В Брянске расширили зону поиска провалившегося под лед мальчика",
+      "title_neutral": "В Брянске расширили зону поиска провалившегося под лед мальчика",
+      "excerpt": "Тело одного из двоих детей, провалившихся под лед в январе, было найдено 8 февраля",
+      "recap_neutral": "Тело одного из двоих детей, провалившихся под лед в январе, было найдено 8 февраля",
+      "main_idea": "В Брянске расширили зону поиска провалившегося под лед мальчика",
+      "tags": [],
       "source": "ТАСС",
-      "published_at": "Mon, 06 Apr 2026 13:02:53 +0300",
-      "url": "https://tass.ru/kultura/27015207",
+      "published_at": "Mon, 06 Apr 2026 14:21:05 +0300",
+      "url": "https://tass.ru/proisshestviya/27016251",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Горловке при атаке БПЛА повреждены пять многоквартирных домов",
-      "title_neutral": "В Горловке при атаке БПЛА повреждены пять многоквартирных домов",
-      "excerpt": "В городе также наблюдались отключения электричества",
-      "recap_neutral": "В городе также наблюдались отключения электричества",
-      "main_idea": "В Горловке при атаке БПЛА повреждены пять многоквартирных домов",
+      "title_original": "В Кировской области нарушено сообщение со 125 населенными пунктами из-за паводка",
+      "title_neutral": "В Кировской области нарушено сообщение со 125 населенными пунктами из-за паводка",
+      "excerpt": "Для жителей созданы запасы продуктов, медикаментов и предметов первой необходимости",
+      "recap_neutral": "Для жителей созданы запасы продуктов, медикаментов и предметов первой необходимости",
+      "main_idea": "В Кировской области нарушено сообщение со 125 населенными пунктами из-за паводка",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 06 Apr 2026 14:20:28 +0300",
+      "url": "https://tass.ru/obschestvo/27015601",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Кабмин снизил долговую нагрузку некоторых регионов на сумму свыше 10 млрд рублей",
+      "title_neutral": "Кабмин снизил долговую нагрузку некоторых регионов на сумму свыше 10 млрд рублей",
+      "excerpt": "Это коснется Республики Алтай, Дагестана, Ингушетии, Марий Эл, Тывы, Забайкальского края, а также Брянской, Кировской, Рязанской, Саратовской и Ульяновской областей",
+      "recap_neutral": "Это коснется Республики Алтай, Дагестана, Ингушетии, Марий Эл, Тывы, Забайкальского края, а также Брянской, Кировской, Рязанской, Саратовской и Ульяновской областей",
+      "main_idea": "Кабмин снизил долговую нагрузку некоторых регионов на сумму свыше 10 млрд рублей",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 06 Apr 2026 14:18:47 +0300",
+      "url": "https://tass.ru/ekonomika/27016301",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МИД РФ осудил нападение на посольство ОАЭ в Дамаске",
+      "title_neutral": "МИД РФ осудил нападение на посольство ОАЭ в Дамаске",
+      "excerpt": "",
+      "recap_neutral": "МИД РФ осудил нападение на посольство ОАЭ в Дамаске",
+      "main_idea": "МИД РФ осудил нападение на посольство ОАЭ в Дамаске",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 06 Apr 2026 14:17:57 +0300",
+      "url": "https://tass.ru/politika/27016289",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "NBC: охранники Маска получили статус федеральных агентов",
+      "title_neutral": "NBC: охранники Маска получили статус федеральных агентов",
+      "excerpt": "Это было сделано в обход стандартной процедуры",
+      "recap_neutral": "Это было сделано в обход стандартной процедуры",
+      "main_idea": "NBC: охранники Маска получили статус федеральных агентов",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 06 Apr 2026 14:16:23 +0300",
+      "url": "https://tass.ru/obschestvo/27016257",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Екатеринбурге двое сбежавших из СИЗО признали вину",
+      "title_neutral": "В Екатеринбурге двое сбежавших из СИЗО признали вину",
+      "excerpt": "Из показаний подсудимых следует, что предварительной договоренности о побеге у них не было",
+      "recap_neutral": "Из показаний подсудимых следует, что предварительной договоренности о побеге у них не было",
+      "main_idea": "В Екатеринбурге двое сбежавших из СИЗО признали вину",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 06 Apr 2026 14:16:19 +0300",
+      "url": "https://tass.ru/proisshestviya/27016215",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Врачи рассказали о состоянии пострадавшая на пожаре в ТЦ \"Гиант\" в Калининграде",
+      "title_neutral": "Врачи рассказали о состоянии пострадавшая на пожаре в ТЦ \"Гиант\" в Калининграде",
+      "excerpt": "Женщина проходит лечение в стационаре",
+      "recap_neutral": "Женщина проходит лечение в стационаре",
+      "main_idea": "Врачи рассказали о состоянии пострадавшая на пожаре в ТЦ \"Гиант\" в Калининграде",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 06 Apr 2026 14:11:01 +0300",
+      "url": "https://tass.ru/obschestvo/27015887",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В жилых домах Москвы в 2026 году бесплатно заменят около 200 тыс. электросчетчиков",
+      "title_neutral": "В жилых домах Москвы в 2026 году бесплатно заменят около 200 тыс. электросчетчиков",
+      "excerpt": "Срок службы новых многотарифных счетчиков составляет 30 лет",
+      "recap_neutral": "Срок службы новых многотарифных счетчиков составляет 30 лет",
+      "main_idea": "В жилых домах Москвы в 2026 году бесплатно заменят около 200 тыс. электросчетчиков",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 06 Apr 2026 14:10:22 +0300",
+      "url": "https://tass.ru/obschestvo/27016191",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Камбодже фермеры устроили гонки на воловьих упряжках в преддверии Нового года",
+      "title_neutral": "В Камбодже фермеры устроили гонки на воловьих упряжках в преддверии Нового года",
+      "excerpt": "Гонка прошла в дань уважения многовековой традиции",
+      "recap_neutral": "Гонка прошла в дань уважения многовековой традиции",
+      "main_idea": "В Камбодже фермеры устроили гонки на воловьих упряжках в преддверии Нового года",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 06 Apr 2026 14:10:05 +0300",
+      "url": "https://tass.ru/obschestvo/27016183",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Fars: ВС США и Израиля атаковали нефтехимический завод в Иране",
+      "title_neutral": "Fars: ВС США и Израиля атаковали нефтехимический завод в Иране",
+      "excerpt": "",
+      "recap_neutral": "Fars: ВС США и Израиля атаковали нефтехимический завод в Иране",
+      "main_idea": "Fars: ВС США и Израиля атаковали нефтехимический завод в Иране",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 06 Apr 2026 13:02:05 +0300",
-      "url": "https://tass.ru/proisshestviya/27014309",
+      "published_at": "Mon, 06 Apr 2026 14:09:07 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27016185",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Коростелев объяснил победу лыжника Ардашева в Кубке России",
-      "title_neutral": "Коростелев объяснил победу лыжника Ардашева в Кубке России",
-      "excerpt": "Сергей Ардашев стал победителем общего зачета Кубка России за две гонки до окончания сезона",
-      "recap_neutral": "Сергей Ардашев стал победителем общего зачета Кубка России за две гонки до окончания сезона",
-      "main_idea": "Коростелев объяснил победу лыжника Ардашева в Кубке России",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 06 Apr 2026 13:00:56 +0300",
-      "url": "https://tass.ru/sport/27015191",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Вручение XV премии \"Аванс\" состоится 17 апреля",
-      "title_neutral": "Вручение XV премии \"Аванс\" состоится 17 апреля",
-      "excerpt": "Главный редактор журнала \"Кинорепортер\" Мария Лемешева отметила, что \"Аванс\" - это не просто награда, а \"символ доверия к тем, кто экспериментирует, ищет новые формы и смыслы\"",
-      "recap_neutral": "Главный редактор журнала \"Кинорепортер\" Мария Лемешева отметила, что \"Аванс\" - это не просто награда, а \"символ доверия к тем, кто экспериментирует, ищет новые формы и смыслы\"",
-      "main_idea": "Вручение XV премии \"Аванс\" состоится 17 апреля",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 06 Apr 2026 13:00:12 +0300",
-      "url": "https://tass.ru/kultura/27015025",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Кремль надеется, что Анкара указала Киеву на недопустимость агрессии в адрес газопроводов",
-      "title_neutral": "Кремль надеется, что Анкара указала Киеву на недопустимость агрессии в адрес газопроводов",
-      "excerpt": "",
-      "recap_neutral": "Кремль надеется, что Анкара указала Киеву на недопустимость агрессии в адрес газопроводов",
-      "main_idea": "Кремль надеется, что Анкара указала Киеву на недопустимость агрессии в адрес газопроводов",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 06 Apr 2026 12:58:24 +0300",
-      "url": "https://tass.ru/politika/27015161",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Захарова: ФРГ в милитаристском угаре забыла уроки истории",
-      "title_neutral": "Захарова: ФРГ в милитаристском угаре забыла уроки истории",
-      "excerpt": "Официальный представитель МИД РФ прокомментировала новые требования Бундесвера",
-      "recap_neutral": "Официальный представитель МИД РФ прокомментировала новые требования Бундесвера",
-      "main_idea": "Захарова: ФРГ в милитаристском угаре забыла уроки истории",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 06 Apr 2026 12:58:11 +0300",
-      "url": "https://tass.ru/politika/27015143",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин поздравил Симоньян с днем рождения",
-      "title_neutral": "Путин поздравил Симоньян с днем рождения",
-      "excerpt": "Президент направил главреду RT поздравительную телеграмму по этому случаю",
-      "recap_neutral": "Президент направил главреду RT поздравительную телеграмму по этому случаю",
-      "main_idea": "Путин поздравил Симоньян с днем рождения",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 06 Apr 2026 12:57:30 +0300",
-      "url": "https://tass.ru/obschestvo/27015097",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Организаторы Менделеевской олимпиады оценят возможности ИИ в решении задач",
-      "title_neutral": "Организаторы Менделеевской олимпиады оценят возможности ИИ в решении задач",
-      "excerpt": "Председатель международного жюри ММО-60, директор Университетской гимназии МГУ Александр Гладилин допустил, что в будущем ИИ может стать участником олимпиады в рамках эксперимента",
-      "recap_neutral": "Председатель международного жюри ММО-60, директор Университетской гимназии МГУ Александр Гладилин допустил, что в будущем ИИ может стать участником олимпиады в рамках эксперимента",
-      "main_idea": "Организаторы Менделеевской олимпиады оценят возможности ИИ в решении задач",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 06 Apr 2026 12:57:09 +0300",
-      "url": "https://tass.ru/obschestvo/27014907",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Против жителя Энгельса завели дело после выстрелов в подростков из пневматики",
-      "title_neutral": "Против жителя Энгельса завели дело после выстрелов в подростков из пневматики",
-      "excerpt": "Причиной стало шумное поведение девочек",
-      "recap_neutral": "Причиной стало шумное поведение девочек",
-      "main_idea": "Против жителя Энгельса завели дело после выстрелов в подростков из пневматики",
+      "title_original": "В Дагестане сель размыл дорогу к поселку Мамедкала",
+      "title_neutral": "В Дагестане сель размыл дорогу к поселку Мамедкала",
+      "excerpt": "Часть дорожного полотна полностью разрушена водой и камням",
+      "recap_neutral": "Часть дорожного полотна полностью разрушена водой и камням",
+      "main_idea": "В Дагестане сель размыл дорогу к поселку Мамедкала",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Mon, 06 Apr 2026 12:57:00 +0300",
-      "url": "https://tass.ru/proisshestviya/27014151",
+      "published_at": "Mon, 06 Apr 2026 14:08:12 +0300",
+      "url": "https://tass.ru/proisshestviya/27015627",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В хоккейном \"Динамо\" ждут решения Овечкина о его дальнейшей карьере",
-      "title_neutral": "В хоккейном \"Динамо\" ждут решения Овечкина о его дальнейшей карьере",
-      "excerpt": "Форвард ранее допускал, что может вернуться в \"Динамо\" по завершении карьеры в НХЛ",
-      "recap_neutral": "Форвард ранее допускал, что может вернуться в \"Динамо\" по завершении карьеры в НХЛ",
-      "main_idea": "В хоккейном \"Динамо\" ждут решения Овечкина о его дальнейшей карьере",
+      "title_original": "В Москве начали готовить к открытию сезона Театральный фонтан",
+      "title_neutral": "В Москве начали готовить к открытию сезона Театральный фонтан",
+      "excerpt": "Работы проведет бригада из четырех человек, будет задействована поливомоечная техника",
+      "recap_neutral": "Работы проведет бригада из четырех человек, будет задействована поливомоечная техника",
+      "main_idea": "В Москве начали готовить к открытию сезона Театральный фонтан",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 06 Apr 2026 12:56:36 +0300",
-      "url": "https://tass.ru/sport/27015075",
+      "published_at": "Mon, 06 Apr 2026 14:07:39 +0300",
+      "url": "https://tass.ru/obschestvo/27016155",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "РФ принимает меры по обеспечению безопасности газопроводов на европейской территории",
-      "title_neutral": "РФ принимает меры по обеспечению безопасности газопроводов на европейской территории",
-      "excerpt": "",
-      "recap_neutral": "РФ принимает меры по обеспечению безопасности газопроводов на европейской территории",
-      "main_idea": "РФ принимает меры по обеспечению безопасности газопроводов на европейской территории",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 06 Apr 2026 12:56:34 +0300",
-      "url": "https://tass.ru/politika/27015067",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "РФ надеется, что Венгрия и Сербия примут меры для минимизации угрозы для газопроводов",
-      "title_neutral": "РФ надеется, что Венгрия и Сербия примут меры для минимизации угрозы для газопроводов",
-      "excerpt": "",
-      "recap_neutral": "РФ надеется, что Венгрия и Сербия примут меры для минимизации угрозы для газопроводов",
-      "main_idea": "РФ надеется, что Венгрия и Сербия примут меры для минимизации угрозы для газопроводов",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 06 Apr 2026 12:56:24 +0300",
-      "url": "https://tass.ru/politika/27015103",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Урале приостановили работу лагеря, где отравились 14 детей",
-      "title_neutral": "На Урале приостановили работу лагеря, где отравились 14 детей",
-      "excerpt": "Избранная мера будет действовать 14 суток, со 2 апреля",
-      "recap_neutral": "Избранная мера будет действовать 14 суток, со 2 апреля",
-      "main_idea": "На Урале приостановили работу лагеря, где отравились 14 детей",
+      "title_original": "Иск по имуществу вице-губернатора Кубани начнут рассматривать 7 апреля",
+      "title_neutral": "Иск по имуществу вице-губернатора Кубани начнут рассматривать 7 апреля",
+      "excerpt": "Согласно данным суда, состоялась подготовка дела к судебному разбирательству",
+      "recap_neutral": "Согласно данным суда, состоялась подготовка дела к судебному разбирательству",
+      "main_idea": "Иск по имуществу вице-губернатора Кубани начнут рассматривать 7 апреля",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Mon, 06 Apr 2026 12:56:05 +0300",
-      "url": "https://tass.ru/proisshestviya/27014631",
+      "published_at": "Mon, 06 Apr 2026 14:07:36 +0300",
+      "url": "https://tass.ru/proisshestviya/27016175",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Турецкий танкер пересек Ормузский пролив",
-      "title_neutral": "Турецкий танкер пересек Ормузский пролив",
-      "excerpt": "В заливе остается еще восемь турецких судов",
-      "recap_neutral": "В заливе остается еще восемь турецких судов",
-      "main_idea": "Турецкий танкер пересек Ормузский пролив",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 06 Apr 2026 12:55:55 +0300",
-      "url": "https://tass.ru/ekonomika/27013767",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Организаторы Менделеевской олимпиады не используют ИИ для создания заданий",
-      "title_neutral": "Организаторы Менделеевской олимпиады не используют ИИ для создания заданий",
-      "excerpt": "Состязание юных химиков состоит из трех туров: двух теоретических и одного практического",
-      "recap_neutral": "Состязание юных химиков состоит из трех туров: двух теоретических и одного практического",
-      "main_idea": "Организаторы Менделеевской олимпиады не используют ИИ для создания заданий",
+      "title_original": "Группа \"Аэрофлот\" в 2025 году нарастила перевозки детей почти на 20% благодаря скидкам",
+      "title_neutral": "Группа \"Аэрофлот\" в 2025 году нарастила перевозки детей почти на 20% благодаря скидкам",
+      "excerpt": "С 2025 года она предлагает скидку 50% от всех тарифов класса эконом для детей в возрасте от 2 до 12 лет при перелетах по России",
+      "recap_neutral": "С 2025 года она предлагает скидку 50% от всех тарифов класса эконом для детей в возрасте от 2 до 12 лет при перелетах по России",
+      "main_idea": "Группа \"Аэрофлот\" в 2025 году нарастила перевозки детей почти на 20% благодаря скидкам",
       "tags": [
+        "economy",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 06 Apr 2026 12:55:39 +0300",
-      "url": "https://tass.ru/obschestvo/27014621",
+      "published_at": "Mon, 06 Apr 2026 14:06:55 +0300",
+      "url": "https://tass.ru/ekonomika/27015477",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran War Live Updates: Israel and Iran Trade Attacks After Trump’s New Hormuz Ultimatum",
-      "title_neutral": "Iran War Live Updates: Israel and Iran Trade Attacks After Trump’s New Hormuz Ultimatum",
-      "excerpt": "The fighting on Monday morning followed President Trump’s threat to bomb power plants and bridges on Tuesday if Iran did not open the Strait of Hormuz.",
-      "recap_neutral": "The fighting on Monday morning followed President Trump’s threat to bomb power plants and bridges on Tuesday if Iran did not open the Strait of Hormuz",
-      "main_idea": "Iran War Live Updates: Israel and Iran Trade Attacks After Trump’s New Hormuz Ultimatum",
+      "title_original": "ТАСС: ВСУ занимаются мародерством в Славянске",
+      "title_neutral": "ТАСС: ВСУ занимаются мародерством в Славянске",
+      "excerpt": "Они используют жителей в качестве живого щита, сообщили в российских силовых структурах",
+      "recap_neutral": "Они используют жителей в качестве живого щита, сообщили в российских силовых структурах",
+      "main_idea": "ТАСС: ВСУ занимаются мародерством в Славянске",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 06 Apr 2026 14:05:45 +0300",
+      "url": "https://tass.ru/obschestvo/27015839",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran War Live Updates: As Trump’s New Ultimatum Looms, Tehran Vows to Step Up Attacks",
+      "title_neutral": "Iran War Live Updates: As Trump’s New Ultimatum Looms, Tehran Vows to Step Up Attacks",
+      "excerpt": "Iran said it would respond “crushingly” if President Trump carried out his threats to strike power plants and bridges unless Tehran reopens the Strait of Hormuz. An Israeli strike killed an Iranian intelligence chief overnight.",
+      "recap_neutral": "Iran said it would respond “crushingly” if President Trump carried out his threats to strike power plants and bridges unless Tehran reopens the Strait of Hormuz",
+      "main_idea": "Iran War Live Updates: As Trump’s New Ultimatum Looms, Tehran Vows to Step Up Attacks",
       "tags": [
         "politics",
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Mon, 06 Apr 2026 09:30:44 +0000",
+      "published_at": "Mon, 06 Apr 2026 11:15:59 +0000",
       "url": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Is Germany's gold safe in New York ?",
+      "title_neutral": "Is Germany's gold safe in New York ?",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Is Germany's gold safe in New York ?",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 06 Apr 2026 10:54:11 +0000",
+      "url": "https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
+      "title_neutral": "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
+      "excerpt": "Global leaders are struggling in their efforts to find a way to end the American-Israeli war on Iran, and they are spooked about what President Trump might do next.",
+      "recap_neutral": "Global leaders are struggling in their efforts to find a way to end the American-Israeli war on Iran, and they are spooked about what President Trump might do next",
+      "main_idea": "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 06 Apr 2026 10:44:55 +0000",
+      "url": "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Age Verification as Mass Surveillance Infrastructure",
+      "title_neutral": "Age Verification as Mass Surveillance Infrastructure",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Age Verification as Mass Surveillance Infrastructure",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 06 Apr 2026 10:33:02 +0000",
+      "url": "https://tboteproject.com/surveillancefindings/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Here’s the latest.",
+      "title_neutral": "Here’s the latest.",
+      "excerpt": "",
+      "recap_neutral": "Here’s the latest.",
+      "main_idea": "Here’s the latest.",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Mon, 06 Apr 2026 10:30:43 +0000",
+      "url": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel/heres-the-latest",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Savannah Guthrie returns to NBC's Today show, as search for mother goes on",
+      "title_neutral": "Savannah Guthrie returns to NBC's Today show, as search for mother goes on",
+      "excerpt": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction.",
+      "recap_neutral": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction",
+      "main_idea": "Savannah Guthrie returns to NBC's Today show, as search for mother goes on",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Mon, 06 Apr 2026 10:16:36 GMT",
+      "url": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Emergency jabs after 100 children die of suspected measles in a month in Bangladesh",
+      "title_neutral": "Emergency jabs after 100 children die of suspected measles in a month in Bangladesh",
+      "excerpt": "More than 100 people, mostly children, have been killed by measles since mid-March, officials suspect.",
+      "recap_neutral": "More than 100 people, mostly children, have been killed by measles since mid-March, officials suspect",
+      "main_idea": "Emergency jabs after 100 children die of suspected measles in a month in Bangladesh",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Mon, 06 Apr 2026 09:59:40 GMT",
+      "url": "https://www.bbc.com/news/articles/cevkz2z7dm8o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Weather tracker: Warm March in US leaves snowpack critically low",
+      "title_neutral": "Weather tracker: Warm March in US leaves snowpack critically low",
+      "excerpt": "Concerns about coming wildfire risk, and temperatures also remain high on other side of Pacific where rare tropical cyclone has formed After a historically warm winter across nine states in the US, the first month of meteorological spring again brought exceptionally high temperatures, with numerous…",
+      "recap_neutral": "Concerns about coming wildfire risk, and temperatures also remain high on other side of Pacific where rare tropical cyclone has formed After a historically warm winter across nine states in the US, the first month of me…",
+      "main_idea": "Weather tracker: Warm March in US leaves snowpack critically low",
+      "tags": [
+        "conflict",
+        "tech",
+        "climate"
+      ],
+      "source": "The Guardian",
+      "published_at": "Mon, 06 Apr 2026 09:58:55 GMT",
+      "url": "https://www.theguardian.com/environment/2026/apr/06/weather-tracker-warm-march-in-us-leaves-snowpack-critically-low",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Nigerian army rescues 31 held after Easter church attack",
+      "title_neutral": "Nigerian army rescues 31 held after Easter church attack",
+      "excerpt": "Five civilians were killed by the gunmen and their bodies were recovered at the scene, the army said.",
+      "recap_neutral": "Five civilians were killed by the gunmen and their bodies were recovered at the scene, the army said",
+      "main_idea": "Nigerian army rescues 31 held after Easter church attack",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 06 Apr 2026 09:08:45 GMT",
+      "url": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1131,21 +1106,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Here’s the latest.",
-      "title_neutral": "Here’s the latest.",
-      "excerpt": "",
-      "recap_neutral": "Here’s the latest.",
-      "main_idea": "Here’s the latest.",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Mon, 06 Apr 2026 07:44:24 +0000",
-      "url": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel/heres-the-latest",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "The OCR Speed Problem Nobody Talks About",
       "title_neutral": "The OCR Speed Problem Nobody Talks About",
       "excerpt": "MinerU-Diffusion reframes OCR as inverse rendering, using parallel diffusion decoding to cut latency and reduce sequential error propagation.",
@@ -1158,6 +1118,23 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump threatens Iran's power plants, bridges. And, Artemis II readies for lunar flyby",
+      "title_neutral": "Trump threatens Iran's power plants, bridges. And, Artemis II readies for lunar flyby",
+      "excerpt": "Trump threatened to bomb Iran's power plants and bridges unless it opens the Strait of Hormuz. And, NASA's Artemis II crew prepares to make its closest approach to the moon.",
+      "recap_neutral": "Trump threatened to bomb Iran's power plants and bridges unless it opens the Strait of Hormuz",
+      "main_idea": "Trump threatens Iran's power plants, bridges. And, Artemis II readies for lunar flyby",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 06 Apr 2026 06:55:28 -0400",
+      "url": "https://www.npr.org/2026/04/06/g-s1-116535/up-first-newsletter-trump-strait-of-hormuz-artemis-two-lunar-flyby-savannah-nancy-guthrie-ada",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1210,6 +1187,25 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Iran pushes back against Trump's deadline",
+      "title_neutral": "Iran pushes back against Trump's deadline",
+      "excerpt": "Iran's top officials pushed back against President Trump's deadline to open the Strait of Hormuz, striking a defiant tone as the warring sides traded missile attacks.",
+      "recap_neutral": "Iran's top officials pushed back against President Trump's deadline to open the Strait of Hormuz, striking a defiant tone as the warring sides traded missile attacks",
+      "main_idea": "Iran pushes back against Trump's deadline",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 06 Apr 2026 06:19:32 -0400",
+      "url": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "The TechBeat: Doginal Dogs Turned a Free Mint Into One of Crypto’s Most Unusual NFT Runs (4/6/2026)",
       "title_neutral": "The TechBeat: Doginal Dogs Turned a Free Mint Into One of Crypto’s Most Unusual NFT Runs (4/6/2026)",
       "excerpt": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here . ## Why Your “Profitable” Backtest Fails the Moment You Go Live By @grigorychikishev [ 6 Min read ] Late…",
@@ -1229,8 +1225,8 @@
     {
       "title_original": "She paid into Medicare for years. Trump's immigration policy will end her coverage",
       "title_neutral": "She paid into Medicare for years. Trump's immigration policy will end her coverage",
-      "excerpt": "Rosa María Carranza has worked and paid taxes for more than two decades, but a provision in the GOP's One Big Beautiful Bill Act will make her and an estimated 100,000 other lawfully present immigrant seniors ineligible for Medicare. Now Carranza's once secure retirement is in question.",
-      "recap_neutral": "Rosa María Carranza has worked and paid taxes for more than two decades, but a provision in the GOP's One Big Beautiful Bill Act will make her and an estimated 100,000 other lawfully present immigrant seniors ineligible…",
+      "excerpt": "A provision in the GOP's One Big Beautiful Bill Act will make Rosa María Carranza and an estimated 100,000 other lawfully present immigrant seniors ineligible. Her once secure retirement is in question.",
+      "recap_neutral": "A provision in the GOP's One Big Beautiful Bill Act will make Rosa María Carranza and an estimated 100,000 other lawfully present immigrant seniors ineligible",
       "main_idea": "She paid into Medicare for years. Trump's immigration policy will end her coverage",
       "tags": [
         "tech"
@@ -1259,6 +1255,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Savannah Guthrie returns to the 'Today' show months after her mother's disappearance",
+      "title_neutral": "Savannah Guthrie returns to the 'Today' show months after her mother's disappearance",
+      "excerpt": "Savannah Guthrie's mother, Nancy Guthrie, has not been seen since returning home from a family dinner the evening of Jan. 31.",
+      "recap_neutral": "Savannah Guthrie's mother, Nancy Guthrie, has not been seen since returning home from a family dinner the evening of Jan",
+      "main_idea": "Savannah Guthrie returns to the 'Today' show months after her mother's disappearance",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Mon, 06 Apr 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/04/06/nx-s1-5772715/savannah-guthrie-today-show-return",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Shingles can hit younger than you think. The vaccine can prevent excruciating pain",
       "title_neutral": "Shingles can hit younger than you think. The vaccine can prevent excruciating pain",
       "excerpt": "A reactivation of the virus that causes chickenpox, the illness can be miserable. Here's what to know about early warning signs, long-term symptoms and some surprising news about the vaccine.",
@@ -1271,21 +1282,6 @@
       "source": "NPR",
       "published_at": "Mon, 06 Apr 2026 05:00:00 -0400",
       "url": "https://www.npr.org/2026/04/06/nx-s1-5745209/shingles-symptoms-vaccine-treatment",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Guthrie returns to 'Today' show months after her mother's disappearance",
-      "title_neutral": "Guthrie returns to 'Today' show months after her mother's disappearance",
-      "excerpt": "Savannah Guthrie's mother, Nancy Guthrie, has not been seen since returning home from a family dinner the evening of Jan. 31.",
-      "recap_neutral": "Savannah Guthrie's mother, Nancy Guthrie, has not been seen since returning home from a family dinner the evening of Jan",
-      "main_idea": "Guthrie returns to 'Today' show months after her mother's disappearance",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Mon, 06 Apr 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/04/06/nx-s1-5772715/savannah-guthrie-today-show-return",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1446,25 +1442,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "This Is Not China’s War, but Beijing Started Preparing for It Years Ago",
-      "title_neutral": "This Is Not China’s War, but Beijing Started Preparing for It Years Ago",
-      "excerpt": "Long concerned about geopolitical crises, China redoubled efforts to secure energy security when President Trump started raising the stakes in his first term.",
-      "recap_neutral": "Long concerned about geopolitical crises, China redoubled efforts to secure energy security when President Trump started raising the stakes in his first term",
-      "main_idea": "This Is Not China’s War, but Beijing Started Preparing for It Years Ago",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 06 Apr 2026 04:01:09 +0000",
-      "url": "https://www.nytimes.com/2026/04/06/business/china-oil-shock-iran-war.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Digital Project Abandonment Crisis: Deadweight Loss in Plain Sight",
       "title_neutral": "Digital Project Abandonment Crisis: Deadweight Loss in Plain Sight",
       "excerpt": "The most cited figure in startup failure research comes from the U.S. Bureau of Labor Statistics: roughly 20% of businesses fail in their first year, and about 65% within ten years. For technology companies specifically, CB Insights' analysis of over 110 startup post-mortems found that 42% failed b…",
@@ -1524,6 +1501,23 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US Secret Service investigates reports of gunfire near White House",
+      "title_neutral": "US Secret Service investigates reports of gunfire near White House",
+      "excerpt": "Officials said \"a heightened security posture is in place\", but no injuries were reported and no suspects had been identified.",
+      "recap_neutral": "Officials said \"a heightened security posture is in place\", but no injuries were reported and no suspects had been identified",
+      "main_idea": "US Secret Service investigates reports of gunfire near White House",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 06 Apr 2026 00:40:04 GMT",
+      "url": "https://www.bbc.com/news/articles/cge0213dyj5o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 36,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
