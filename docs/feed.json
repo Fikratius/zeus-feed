@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T13:53:10.148466+00:00",
+  "last_updated": "2026-04-11T14:33:09.513140+00:00",
   "items": [
     {
       "title_original": "Optimal Strategy for Connect 4",
@@ -11,6 +11,21 @@
       "source": "Hacker News",
       "published_at": "Wed, 08 Apr 2026 19:37:50 +0000",
       "url": "https://2swap.github.io/WeakC4/explanation/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How Much Linear Memory Access Is Enough?",
+      "title_neutral": "How Much Linear Memory Access Is Enough?",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "How Much Linear Memory Access Is Enough?",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 08 Apr 2026 13:16:19 +0000",
+      "url": "https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -29,247 +44,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "title_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "excerpt": "",
-      "recap_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "main_idea": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:18:01 +0300",
-      "url": "https://tass.ru/politika/24134697",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "title_neutral": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "excerpt": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
-      "recap_neutral": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
-      "main_idea": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:17:03 +0300",
-      "url": "https://tass.ru/ekonomika/24134627",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "title_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "excerpt": "",
-      "recap_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "main_idea": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:15:43 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134665",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "title_neutral": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "excerpt": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
-      "recap_neutral": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
-      "main_idea": "В Магаданской области объявили чрезвычайную пожарную опасность",
-      "tags": [
-        "climate"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:12:58 +0300",
-      "url": "https://tass.ru/obschestvo/24134601",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "title_neutral": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "excerpt": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
-      "recap_neutral": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
-      "main_idea": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:11:16 +0300",
-      "url": "https://tass.ru/obschestvo/24134589",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "title_neutral": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "excerpt": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
-      "recap_neutral": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
-      "main_idea": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:34 +0300",
-      "url": "https://tass.ru/obschestvo/24132977",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "title_neutral": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "excerpt": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
-      "recap_neutral": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
-      "main_idea": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:31 +0300",
-      "url": "https://tass.ru/nauka/24134535",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "title_neutral": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "excerpt": "Материалы дела поступили в мировой судебный участок 184",
-      "recap_neutral": "Материалы дела поступили в мировой судебный участок 184",
-      "main_idea": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:09:03 +0300",
-      "url": "https://tass.ru/proisshestviya/24134595",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "title_neutral": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "excerpt": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
-      "recap_neutral": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
-      "main_idea": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:08:48 +0300",
-      "url": "https://tass.ru/obschestvo/24134521",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "title_neutral": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "excerpt": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
-      "recap_neutral": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
-      "main_idea": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:08:39 +0300",
-      "url": "https://tass.ru/nedvizhimost/24134431",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "title_neutral": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "excerpt": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
-      "recap_neutral": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
-      "main_idea": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:06:43 +0300",
-      "url": "https://tass.ru/obschestvo/24133033",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "title_neutral": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "excerpt": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
-      "recap_neutral": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
-      "main_idea": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:04:29 +0300",
-      "url": "https://tass.ru/obschestvo/24133525",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "title_neutral": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "excerpt": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
-      "recap_neutral": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
-      "main_idea": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:03:57 +0300",
-      "url": "https://tass.ru/obschestvo/24134485",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "США пока не решили, продолжать или нет помощь Украине",
-      "title_neutral": "США пока не решили, продолжать или нет помощь Украине",
-      "excerpt": "",
-      "recap_neutral": "США пока не решили, продолжать или нет помощь Украине",
-      "main_idea": "США пока не решили, продолжать или нет помощь Украине",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:03:52 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134491",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "title_neutral": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "excerpt": "Предварительно, пострадавших нет",
-      "recap_neutral": "Предварительно, пострадавших нет",
-      "main_idea": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Jun 2025 14:02:07 +0300",
-      "url": "https://tass.ru/proisshestviya/24133329",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
@@ -337,23 +111,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Argentina approves Milei’s glacier mining bill amid environmental protests",
-      "title_neutral": "Argentina approves Milei’s glacier mining bill amid environmental protests",
-      "excerpt": "Legislative change backed by libertarian president makes it easier to extract metals in frozen parts of the Andes Argentina’s congress has approved a bill promoted by the libertarian president, Javier Milei, that authorises mining in ecologically sensitive areas of glaciers and permafrost, outragin…",
-      "recap_neutral": "Legislative change backed by libertarian president makes it easier to extract metals in frozen parts of the Andes Argentina’s congress has approved a bill promoted by the libertarian president, Javier Milei, that author…",
-      "main_idea": "Argentina approves Milei’s glacier mining bill amid environmental protests",
-      "tags": [
-        "politics"
-      ],
-      "source": "The Guardian",
-      "published_at": "Thu, 09 Apr 2026 11:55:33 GMT",
-      "url": "https://www.theguardian.com/world/2026/apr/09/argentina-approves-glacier-mining-bill-environment-protests-andes-mountaines-javier-milei",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "A day in the life of a 19-year-old in ICE detention: ‘I feel that this nightmare is not going to end’",
       "title_neutral": "A day in the life of a 19-year-old in ICE detention: ‘I feel that this nightmare is not going to end’",
       "excerpt": "Olivia has been detained for months at the sprawling Dilley center in Texas. She has lost 20lb, and wakes up every day with a headache Each day in detention feels like 48 hours for Olivia. The 19-year-old asylum seeker from the Democratic Republic of the Congo has been at the Dilley Immigration pro…",
@@ -386,6 +143,286 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "В Пакистане рассказали об освещении журналистами переговоров США и Ирана",
+      "title_neutral": "В Пакистане рассказали об освещении журналистами переговоров США и Ирана",
+      "excerpt": "Представителям СМИ предоставлены все необходимые условия, заявил министр информации и телерадиовещания южноазиатской страны Аттаулла Тарар",
+      "recap_neutral": "Представителям СМИ предоставлены все необходимые условия, заявил министр информации и телерадиовещания южноазиатской страны Аттаулла Тарар",
+      "main_idea": "В Пакистане рассказали об освещении журналистами переговоров США и Ирана",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Apr 2026 17:32:19 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27077737",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Tasnim: иранская сторона не исключает, что переговоры с США могут быть продлены на день",
+      "title_neutral": "Tasnim: иранская сторона не исключает, что переговоры с США могут быть продлены на день",
+      "excerpt": "",
+      "recap_neutral": "Tasnim: иранская сторона не исключает, что переговоры с США могут быть продлены на день",
+      "main_idea": "Tasnim: иранская сторона не исключает, что переговоры с США могут быть продлены на день",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Apr 2026 17:27:52 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27077747",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Путин обратил внимание на снижение сельхозпроизводства на Кубани",
+      "title_neutral": "Путин обратил внимание на снижение сельхозпроизводства на Кубани",
+      "excerpt": "Руководитель региона Вениамин Кондратьев ответил, что Кубань остается в лидерах по производству сельхозпродукции, и заверил, что обязательно изучит упомянутые данные, разберется в причинах",
+      "recap_neutral": "Руководитель региона Вениамин Кондратьев ответил, что Кубань остается в лидерах по производству сельхозпродукции, и заверил, что обязательно изучит упомянутые данные, разберется в причинах",
+      "main_idea": "Путин обратил внимание на снижение сельхозпроизводства на Кубани",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Apr 2026 17:27:20 +0300",
+      "url": "https://tass.ru/ekonomika/27077731",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Будапеште накануне выборов проходят агитационные встречи",
+      "title_neutral": "В Будапеште накануне выборов проходят агитационные встречи",
+      "excerpt": "",
+      "recap_neutral": "В Будапеште накануне выборов проходят агитационные встречи",
+      "main_idea": "В Будапеште накануне выборов проходят агитационные встречи",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Apr 2026 17:25:37 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27077269",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Прилепин планирует выпустить книгу \"Чужецарствие\" о политических разногласиях в РФ",
+      "title_neutral": "Прилепин планирует выпустить книгу \"Чужецарствие\" о политических разногласиях в РФ",
+      "excerpt": "Писатель объяснил, что книга затрагивает дискуссии между сторонниками различных общественно-политических позиций, которые, по его оценке, в последнее время вновь обострились",
+      "recap_neutral": "Писатель объяснил, что книга затрагивает дискуссии между сторонниками различных общественно-политических позиций, которые, по его оценке, в последнее время вновь обострились",
+      "main_idea": "Прилепин планирует выпустить книгу \"Чужецарствие\" о политических разногласиях в РФ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Apr 2026 17:21:48 +0300",
+      "url": "https://tass.ru/kultura/27077725",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Симоньян рассказала, что причиной ее онкологического заболевания стал стресс",
+      "title_neutral": "Симоньян рассказала, что причиной ее онкологического заболевания стал стресс",
+      "excerpt": "Главный редактор телеканала RT отметила, что наследственность не относилась к факторам риска",
+      "recap_neutral": "Главный редактор телеканала RT отметила, что наследственность не относилась к факторам риска",
+      "main_idea": "Симоньян рассказала, что причиной ее онкологического заболевания стал стресс",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Apr 2026 17:19:49 +0300",
+      "url": "https://tass.ru/obschestvo/27077721",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Нижегородской области пенсионерка перевела мошенникам более 3 млн рублей",
+      "title_neutral": "В Нижегородской области пенсионерка перевела мошенникам более 3 млн рублей",
+      "excerpt": "Незнакомец в мессенджере сообщил женщине о происходящих по ее банковским счетам сомнительных операциях и под предлогом сохранности сбережений убедил перевести имеющиеся у нее денежные средства на \"безопасные\" счета",
+      "recap_neutral": "Незнакомец в мессенджере сообщил женщине о происходящих по ее банковским счетам сомнительных операциях и под предлогом сохранности сбережений убедил перевести имеющиеся у нее денежные средства на \"безопасные\" счета",
+      "main_idea": "В Нижегородской области пенсионерка перевела мошенникам более 3 млн рублей",
+      "tags": [
+        "economy"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Apr 2026 17:15:08 +0300",
+      "url": "https://tass.ru/proisshestviya/27077701",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Симоньян рассказала, что никак не может восстановиться после химиотерапии",
+      "title_neutral": "Симоньян рассказала, что никак не может восстановиться после химиотерапии",
+      "excerpt": "Главный редактор телеканала RT также отметила, что постоянно находится под контролем врачей",
+      "recap_neutral": "Главный редактор телеканала RT также отметила, что постоянно находится под контролем врачей",
+      "main_idea": "Симоньян рассказала, что никак не может восстановиться после химиотерапии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Apr 2026 17:12:47 +0300",
+      "url": "https://tass.ru/obschestvo/27077697",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Удмуртии остаются подтопленными 185 придомовых территорий",
+      "title_neutral": "В Удмуртии остаются подтопленными 185 придомовых территорий",
+      "excerpt": "Также подтоплены один низководный мост и два участка автодороги",
+      "recap_neutral": "Также подтоплены один низководный мост и два участка автодороги",
+      "main_idea": "В Удмуртии остаются подтопленными 185 придомовых территорий",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Apr 2026 17:11:46 +0300",
+      "url": "https://tass.ru/proisshestviya/27077693",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Россияне выиграли чемпионат Европы по прыжкам на батуте в командном турнире",
+      "title_neutral": "Россияне выиграли чемпионат Европы по прыжкам на батуте в командном турнире",
+      "excerpt": "В составе российской команды выступали Александр Бутько, Михаил Юрьев, Лев Бусарев и Тимофей Голубенко",
+      "recap_neutral": "В составе российской команды выступали Александр Бутько, Михаил Юрьев, Лев Бусарев и Тимофей Голубенко",
+      "main_idea": "Россияне выиграли чемпионат Европы по прыжкам на батуте в командном турнире",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Apr 2026 17:08:58 +0300",
+      "url": "https://tass.ru/sport/27077685",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ВСУ ударили по Новой Каховке, нарушив пасхальное перемирие",
+      "title_neutral": "ВСУ ударили по Новой Каховке, нарушив пасхальное перемирие",
+      "excerpt": "Пострадал один человек",
+      "recap_neutral": "Пострадал один человек",
+      "main_idea": "ВСУ ударили по Новой Каховке, нарушив пасхальное перемирие",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Apr 2026 17:07:51 +0300",
+      "url": "https://tass.ru/proisshestviya/27077675",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В РФ пройдут кино в планетарии и выставка запахов к 65-летию полета Гагарина",
+      "title_neutral": "В РФ пройдут кино в планетарии и выставка запахов к 65-летию полета Гагарина",
+      "excerpt": "Также откроются профильные классы и новый туристический маршрут, посвященный первой женщине-космонавту",
+      "recap_neutral": "Также откроются профильные классы и новый туристический маршрут, посвященный первой женщине-космонавту",
+      "main_idea": "В РФ пройдут кино в планетарии и выставка запахов к 65-летию полета Гагарина",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Apr 2026 17:05:06 +0300",
+      "url": "https://tass.ru/obschestvo/27076143",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Смоленской области стартовал третий этап кадровой программы для участников СВО",
+      "title_neutral": "В Смоленской области стартовал третий этап кадровой программы для участников СВО",
+      "excerpt": "Участники прослушают курс по информационной политике, коммуникациям в социальных сетях и обратной связи с жителями от Центра управления регионом",
+      "recap_neutral": "Участники прослушают курс по информационной политике, коммуникациям в социальных сетях и обратной связи с жителями от Центра управления регионом",
+      "main_idea": "В Смоленской области стартовал третий этап кадровой программы для участников СВО",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Apr 2026 17:01:29 +0300",
+      "url": "https://tass.ru/obschestvo/27077661",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Ереване стартует многотысячный митинг партии \"Сильная Армения\" Карапетяна",
+      "title_neutral": "В Ереване стартует многотысячный митинг партии \"Сильная Армения\" Карапетяна",
+      "excerpt": "Это первый митинг политической силы в преддверии июньских парламентских выборов в Армении",
+      "recap_neutral": "Это первый митинг политической силы в преддверии июньских парламентских выборов в Армении",
+      "main_idea": "В Ереване стартует многотысячный митинг партии \"Сильная Армения\" Карапетяна",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Apr 2026 16:59:01 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27077653",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Мирошник: \"Ближневосточные понты\" Зеленского закончились провалом",
+      "title_neutral": "Мирошник: \"Ближневосточные понты\" Зеленского закончились провалом",
+      "excerpt": "Посол по особым поручениям МИД РФ заявил, что украинских \"специалистов\" выгнали из Персидского залива",
+      "recap_neutral": "Посол по особым поручениям МИД РФ заявил, что украинских \"специалистов\" выгнали из Персидского залива",
+      "main_idea": "Мирошник: \"Ближневосточные понты\" Зеленского закончились провалом",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Apr 2026 16:57:13 +0300",
+      "url": "https://tass.ru/politika/27077645",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Frontrunner for California governor denies sexual assault allegations",
+      "title_neutral": "Frontrunner for California governor denies sexual assault allegations",
+      "excerpt": "The Democratic congressman, a leading candidate in the race, has strongly denied the accusations saying he will fight with \"facts\".",
+      "recap_neutral": "The Democratic congressman, a leading candidate in the race, has strongly denied the accusations saying he will fight with \"facts\"",
+      "main_idea": "Frontrunner for California governor denies sexual assault allegations",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sat, 11 Apr 2026 14:24:24 GMT",
+      "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran Has Been Consistent in War. Will It Be Consistent in Peace Talks?",
+      "title_neutral": "Iran Has Been Consistent in War. Will It Be Consistent in Peace Talks?",
+      "excerpt": "While President Trump’s war aims have changed by the moment, Iran has stuck to firm demands. The question is whether it will compromise in peace negotiations.",
+      "recap_neutral": "While President Trump’s war aims have changed by the moment, Iran has stuck to firm demands",
+      "main_idea": "Iran Has Been Consistent in War. Will It Be Consistent in Peace Talks?",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 11 Apr 2026 14:22:30 +0000",
+      "url": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-peace-talks-demands.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Iran War Live Updates: U.S. and Iran Begin Peace Talks, Iranian Media Says",
       "title_neutral": "Iran War Live Updates: U.S. and Iran Begin Peace Talks, Iranian Media Says",
       "excerpt": "The talks were taking place with the “mediation” of Pakistan, a state news agency reported, but the exact format was unclear. The White House declined to comment about Vice President JD Vance’s potential meetings with the Iranians.",
@@ -396,7 +433,7 @@
         "conflict"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 11 Apr 2026 13:50:09 +0000",
+      "published_at": "Sat, 11 Apr 2026 14:17:56 +0000",
       "url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan",
       "lang": "en",
       "bias_score": 55,
@@ -414,7 +451,7 @@
         "tech"
       ],
       "source": "BBC World",
-      "published_at": "Sat, 11 Apr 2026 13:44:14 GMT",
+      "published_at": "Sat, 11 Apr 2026 14:07:19 GMT",
       "url": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
@@ -422,11 +459,43 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Bitcoin miners are losing $19,000 on every BTC produced as difficulty drops 7.8%",
-      "title_neutral": "Bitcoin miners are losing $19,000 on every BTC produced as difficulty drops 7.8%",
+      "title_original": "US man in Bahamian jail after wife disappears into Atlantic waters during boat trip",
+      "title_neutral": "US man in Bahamian jail after wife disappears into Atlantic waters during boat trip",
+      "excerpt": "Lynette and Brian Hooker, from Michigan, were years into a sailing adventure when Brian said his wife fell overboard Lynette Hooker bounced around the deck of the docked Soul Mate, smiled into the camera and proclaimed, “We’re finally leaving Kemah,” referring to a Texas port town. “It’s only been…",
+      "recap_neutral": "Lynette and Brian Hooker, from Michigan, were years into a sailing adventure when Brian said his wife fell overboard Lynette Hooker bounced around the deck of the docked Soul Mate, smiled into the camera and proclaimed,…",
+      "main_idea": "US man in Bahamian jail after wife disappears into Atlantic waters during boat trip",
+      "tags": [
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Sat, 11 Apr 2026 13:53:54 GMT",
+      "url": "https://www.theguardian.com/world/2026/apr/11/lynette-brian-hooker-bahamas-jail",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "South Korea introduces universal basic mobile data access",
+      "title_neutral": "South Korea introduces universal basic mobile data access",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Bitcoin miners are losing $19,000 on every BTC produced as difficulty drops 7.8%",
+      "main_idea": "South Korea introduces universal basic mobile data access",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 11 Apr 2026 13:27:16 +0000",
+      "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Bitcoin miners are losing on every coin produced as difficulty drops",
+      "title_neutral": "Bitcoin miners are losing on every coin produced as difficulty drops",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Bitcoin miners are losing on every coin produced as difficulty drops",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Sat, 11 Apr 2026 13:22:25 +0000",
@@ -437,50 +506,17 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "How to breathe in fewer microplastics in your home",
-      "title_neutral": "How to breathe in fewer microplastics in your home",
+      "title_original": "Cirrus Labs to join OpenAI",
+      "title_neutral": "Cirrus Labs to join OpenAI",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "How to breathe in fewer microplastics in your home",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 11 Apr 2026 13:01:36 +0000",
-      "url": "https://www.bbc.com/future/article/20260410-how-to-breathe-in-fewer-microplastics-in-your-home",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Cirrus Labs to join OpenAI shut down Circus CI on Monday, June 1, 2026",
-      "title_neutral": "Cirrus Labs to join OpenAI shut down Circus CI on Monday, June 1, 2026",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Cirrus Labs to join OpenAI shut down Circus CI on Monday, June 1, 2026",
+      "main_idea": "Cirrus Labs to join OpenAI",
       "tags": [
         "tech"
       ],
       "source": "Hacker News",
       "published_at": "Sat, 11 Apr 2026 13:01:34 +0000",
       "url": "https://cirruslabs.org/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "’Abhorrent’: the inside story of the Polymarket gamblers betting millions on war",
-      "title_neutral": "’Abhorrent’: the inside story of the Polymarket gamblers betting millions on war",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "’Abhorrent’: the inside story of the Polymarket gamblers betting millions on war",
-      "tags": [
-        "economy",
-        "conflict"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 11 Apr 2026 12:28:04 +0000",
-      "url": "https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -501,23 +537,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours",
-      "title_neutral": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 11 Apr 2026 10:58:36 +0000",
-      "url": "https://www.hormuz-havoc.com/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -615,25 +634,6 @@
       "source": "NYTimes World",
       "published_at": "Sat, 11 Apr 2026 09:00:21 +0000",
       "url": "https://www.nytimes.com/2026/04/11/world/canada/iran-murder-masjoody-vancouver-canada.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran Has Been Consistent in War. Will It Be Consistent in Peace Talks?",
-      "title_neutral": "Iran Has Been Consistent in War. Will It Be Consistent in Peace Talks?",
-      "excerpt": "While President Trump’s war aims have changed by the moment, Iran has stuck to firm demands. The question is whether it will compromise in peace negotiations.",
-      "recap_neutral": "While President Trump’s war aims have changed by the moment, Iran has stuck to firm demands",
-      "main_idea": "Iran Has Been Consistent in War. Will It Be Consistent in Peace Talks?",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 11 Apr 2026 08:55:05 +0000",
-      "url": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-peace-talks-demands.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -849,23 +849,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Peru's election: A battle for the Presidency amid political chaos and crime",
-      "title_neutral": "Peru's election: A battle for the Presidency amid political chaos and crime",
-      "excerpt": "With 35 candidates in the race, Peru is set to elect its 9th president in less than a decade. Amid rising corruption and crime, voters are left asking: Can this election finally break the cycle?",
-      "recap_neutral": "With 35 candidates in the race, Peru is set to elect its 9th president in less than a decade",
-      "main_idea": "Peru's election: A battle for the Presidency amid political chaos and crime",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 11 Apr 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/04/11/nx-s1-5777736/peru-election-president-crime-corruption",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "How AI is getting better at finding security holes",
       "title_neutral": "How AI is getting better at finding security holes",
       "excerpt": "Anthropic announced this week that its new model found security flaws in \"every major operating system and web browser.\" Even before the news, AI models had gotten dramatically better at finding bugs.",
@@ -877,6 +860,23 @@
       "source": "NPR",
       "published_at": "Sat, 11 Apr 2026 05:00:00 -0400",
       "url": "https://www.npr.org/2026/04/11/nx-s1-5778508/anthropic-project-glasswing-ai-cybersecurity-mythos-preview",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Peru's election: A battle for the Presidency amid political chaos and crime",
+      "title_neutral": "Peru's election: A battle for the Presidency amid political chaos and crime",
+      "excerpt": "With 35 candidates in the race, Peru is set to elect its 9th president in less than a decade. Amid rising corruption and crime, voters are left asking: Can this election finally break the cycle?",
+      "recap_neutral": "With 35 candidates in the race, Peru is set to elect its 9th president in less than a decade",
+      "main_idea": "Peru's election: A battle for the Presidency amid political chaos and crime",
+      "tags": [
+        "politics"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 11 Apr 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/04/11/nx-s1-5777736/peru-election-president-crime-corruption",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -942,21 +942,6 @@
       "source": "BBC World",
       "published_at": "Sat, 11 Apr 2026 03:25:04 GMT",
       "url": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Frontrunner for California governor denies sexual assault allegations",
-      "title_neutral": "Frontrunner for California governor denies sexual assault allegations",
-      "excerpt": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race.",
-      "recap_neutral": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race",
-      "main_idea": "Frontrunner for California governor denies sexual assault allegations",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 11 Apr 2026 03:13:10 GMT",
-      "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -1518,6 +1503,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Cooperative Vectors Introduction",
+      "title_neutral": "Cooperative Vectors Introduction",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Cooperative Vectors Introduction",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 10 Apr 2026 13:16:12 +0000",
+      "url": "https://www.evolvebenchmark.com/blog-posts/cooperative-vectors-introduction",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
