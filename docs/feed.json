@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T13:17:56.482234+00:00",
+  "last_updated": "2026-04-13T14:59:08.625846+00:00",
   "items": [
     {
       "title_original": "Most people can't juggle one ball",
@@ -41,38 +41,6 @@
       "source": "Hacker News",
       "published_at": "Sun, 12 Apr 2026 22:38:45 +0000",
       "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
-      "title_neutral": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
-      "excerpt": "Prime Minister Viktor Orban, who has inspired populist movements globally, could not overcome the growing dissatisfaction of his own citizens.",
-      "recap_neutral": "Prime Minister Viktor Orban, who has inspired populist movements globally, could not overcome the growing dissatisfaction of his own citizens",
-      "main_idea": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 12 Apr 2026 22:24:01 +0000",
-      "url": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A perfectable programming language",
-      "title_neutral": "A perfectable programming language",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "A perfectable programming language",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 12 Apr 2026 21:11:24 +0000",
-      "url": "https://alok.github.io/lean-pages/perfectable-lean/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -143,21 +111,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ask HN: What Are You Working On? (April 2026)",
-      "title_neutral": "Ask HN: What Are You Working On? (April 2026)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Ask HN: What Are You Working On? (April 2026)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 12 Apr 2026 16:24:43 +0000",
-      "url": "https://news.ycombinator.com/item?id=47741527",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -314,265 +267,428 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Посол РФ и губернатор провинции Тегеран обсудили сотрудничество между странами",
-      "title_neutral": "Посол РФ и губернатор провинции Тегеран обсудили сотрудничество между странами",
-      "excerpt": "Алексей Дедов и Мохаммад Садег Мотамедиан обсудили вопросы двустороннего торгово-экономического взаимодействия",
-      "recap_neutral": "Алексей Дедов и Мохаммад Садег Мотамедиан обсудили вопросы двустороннего торгово-экономического взаимодействия",
-      "main_idea": "Посол РФ и губернатор провинции Тегеран обсудили сотрудничество между странами",
+      "title_original": "В ГД предложили ввести отпуск для ухаживающих за нетрудоспособными близкими",
+      "title_neutral": "В ГД предложили ввести отпуск для ухаживающих за нетрудоспособными близкими",
+      "excerpt": "Дополнительные дни отпуска без содержания можно будет присоединить к ежегодному оплачиваемому периоду отдыха или использовать отдельно, сообщил глава комитета Госдумы по труду, соцполитике и делам ветеранов Ярослав Нилов",
+      "recap_neutral": "Дополнительные дни отпуска без содержания можно будет присоединить к ежегодному оплачиваемому периоду отдыха или использовать отдельно, сообщил глава комитета Госдумы по труду, соцполитике и делам ветеранов Ярослав Нилов",
+      "main_idea": "В ГД предложили ввести отпуск для ухаживающих за нетрудоспособными близкими",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 13 Apr 2026 17:55:12 +0300",
+      "url": "https://tass.ru/obschestvo/27093257",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Суд отклонил иск Трампа о клевете к издателю The Wall Street Journal",
+      "title_neutral": "Суд отклонил иск Трампа о клевете к издателю The Wall Street Journal",
+      "excerpt": "Он связан с публикацией статьи о письме финансисту Джеффри Эпштейну",
+      "recap_neutral": "Он связан с публикацией статьи о письме финансисту Джеффри Эпштейну",
+      "main_idea": "Суд отклонил иск Трампа о клевете к издателю The Wall Street Journal",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 13 Apr 2026 17:54:33 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27093263",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Фильм о пропавшем ребенке \"Где ты?\" выйдет в прокат 25 июня",
+      "title_neutral": "Фильм о пропавшем ребенке \"Где ты?\" выйдет в прокат 25 июня",
+      "excerpt": "Премьера трейлера состоялась на платформе \"VK Видео\"",
+      "recap_neutral": "Премьера трейлера состоялась на платформе \"VK Видео\"",
+      "main_idea": "Фильм о пропавшем ребенке \"Где ты?\" выйдет в прокат 25 июня",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 13 Apr 2026 17:54:07 +0300",
+      "url": "https://tass.ru/kultura/27093231",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Готовность к прагматичному сотрудничеству с Россией. Заявления Мадьяра",
+      "title_neutral": "Готовность к прагматичному сотрудничеству с Россией. Заявления Мадьяра",
+      "excerpt": "Глава венгерской партии \"Тиса\" выразил надежду на то, что отношения между Венгрией и Россией \"изменятся в правильном направлении уже в ближайшем будущем\"",
+      "recap_neutral": "Глава венгерской партии \"Тиса\" выразил надежду на то, что отношения между Венгрией и Россией \"изменятся в правильном направлении уже в ближайшем будущем\"",
+      "main_idea": "Готовность к прагматичному сотрудничеству с Россией. Заявления Мадьяра",
       "tags": [
-        "economy",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 13 Apr 2026 16:12:02 +0300",
-      "url": "https://tass.ru/politika/27092065",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Югре в зоне затопления могут оказаться дома и участки более 300 граждан",
-      "title_neutral": "В Югре в зоне затопления могут оказаться дома и участки более 300 граждан",
-      "excerpt": "В регионе ожидают уровень затопления территорий от 9 до 85 см",
-      "recap_neutral": "В регионе ожидают уровень затопления территорий от 9 до 85 см",
-      "main_idea": "В Югре в зоне затопления могут оказаться дома и участки более 300 граждан",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 13 Apr 2026 16:11:38 +0300",
-      "url": "https://tass.ru/obschestvo/27092061",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Российский фрегат в Ла-Манше, защита торгового флота и террор Киева. Заявления Патрушева",
-      "title_neutral": "Российский фрегат в Ла-Манше, защита торгового флота и террор Киева. Заявления Патрушева",
-      "excerpt": "Россия будет политико-дипломатическими и иными способами отвечать на попытки Запада блокировать ей судоходство, сообщил помощник президента",
-      "recap_neutral": "Россия будет политико-дипломатическими и иными способами отвечать на попытки Запада блокировать ей судоходство, сообщил помощник президента",
-      "main_idea": "Российский фрегат в Ла-Манше, защита торгового флота и террор Киева. Заявления Патрушева",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 13 Apr 2026 16:10:35 +0300",
-      "url": "https://tass.ru/politika/27092011",
+      "published_at": "Mon, 13 Apr 2026 17:51:42 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27093157",
       "lang": "ru",
       "bias_score": 56,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Rolls-Royce подписала контракт на строительство в Британии ядерных реакторов",
-      "title_neutral": "Rolls-Royce подписала контракт на строительство в Британии ядерных реакторов",
-      "excerpt": "Проект, предполагающий возведение трех энергоблоков, будет генерировать не менее 1,4 ГВт электроэнергии",
-      "recap_neutral": "Проект, предполагающий возведение трех энергоблоков, будет генерировать не менее 1,4 ГВт электроэнергии",
-      "main_idea": "Rolls-Royce подписала контракт на строительство в Британии ядерных реакторов",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 13 Apr 2026 16:07:09 +0300",
-      "url": "https://tass.ru/ekonomika/27092045",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Парламент Нидерландов остановит работу 14 апреля из-за забастовки госслужащих",
-      "title_neutral": "Парламент Нидерландов остановит работу 14 апреля из-за забастовки госслужащих",
-      "excerpt": "По данным портала NU.nl, из-за нехватки персонала будут отменены пленарные заседания и работа комитетов",
-      "recap_neutral": "По данным портала NU",
-      "main_idea": "Парламент Нидерландов остановит работу 14 апреля из-за забастовки госслужащих",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 13 Apr 2026 16:03:50 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27092013",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лихачев: обстрелы ЗАЭС продолжаются",
-      "title_neutral": "Лихачев: обстрелы ЗАЭС продолжаются",
-      "excerpt": "Есть прилеты в районе Энергодара и промзоны, рассказал глава Росатома",
-      "recap_neutral": "Есть прилеты в районе Энергодара и промзоны, рассказал глава Росатома",
-      "main_idea": "Лихачев: обстрелы ЗАЭС продолжаются",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 13 Apr 2026 16:01:40 +0300",
-      "url": "https://tass.ru/ekonomika/27091913",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Тихонов рад полноценному допуску российских атлетов в водных видах спорта",
-      "title_neutral": "Тихонов рад полноценному допуску российских атлетов в водных видах спорта",
-      "excerpt": "Ранее Международная федерация плавания сняла санкции с российских и белорусских спортсменов",
-      "recap_neutral": "Ранее Международная федерация плавания сняла санкции с российских и белорусских спортсменов",
-      "main_idea": "Тихонов рад полноценному допуску российских атлетов в водных видах спорта",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 13 Apr 2026 16:01:18 +0300",
-      "url": "https://tass.ru/sport/27091999",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Объект культурного наследия регионального значения. История Рижского вокзала в Москве",
-      "title_neutral": "Объект культурного наследия регионального значения. История Рижского вокзала в Москве",
-      "excerpt": "Торги по продаже вокзала состоятся 29 апреля",
-      "recap_neutral": "Торги по продаже вокзала состоятся 29 апреля",
-      "main_idea": "Объект культурного наследия регионального значения. История Рижского вокзала в Москве",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 13 Apr 2026 16:01:07 +0300",
-      "url": "https://tass.ru/info/27091521",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Журова назвала важнейшим шагом снятие санкций World Aquatics с россиян",
-      "title_neutral": "Журова назвала важнейшим шагом снятие санкций World Aquatics с россиян",
-      "excerpt": "World Aquatics допустила россиян до соревнований под своей эгидой с флагом и гимном",
-      "recap_neutral": "World Aquatics допустила россиян до соревнований под своей эгидой с флагом и гимном",
-      "main_idea": "Журова назвала важнейшим шагом снятие санкций World Aquatics с россиян",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 13 Apr 2026 16:00:44 +0300",
-      "url": "https://tass.ru/sport/27091997",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лихачев: электроснабжение на ЗАЭС сохраняется только на одной линии",
-      "title_neutral": "Лихачев: электроснабжение на ЗАЭС сохраняется только на одной линии",
-      "excerpt": "Необходима пауза в боевых действиях для того, чтобы отремонтировать Днепровскую ЛЭП, подчеркнул глава Росатома",
-      "recap_neutral": "Необходима пауза в боевых действиях для того, чтобы отремонтировать Днепровскую ЛЭП, подчеркнул глава Росатома",
-      "main_idea": "Лихачев: электроснабжение на ЗАЭС сохраняется только на одной линии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 13 Apr 2026 16:00:32 +0300",
-      "url": "https://tass.ru/ekonomika/27091865",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Вологодской области отменили беспилотную опасность",
-      "title_neutral": "В Вологодской области отменили беспилотную опасность",
-      "excerpt": "В регионе вводили режим повышенной готовности и ограничений связи",
-      "recap_neutral": "В регионе вводили режим повышенной готовности и ограничений связи",
-      "main_idea": "В Вологодской области отменили беспилотную опасность",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 13 Apr 2026 16:00:10 +0300",
-      "url": "https://tass.ru/proisshestviya/27091971",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Исторический детектив \"Грачи\" выйдет на РЕН ТВ 26 апреля",
-      "title_neutral": "Исторический детектив \"Грачи\" выйдет на РЕН ТВ 26 апреля",
-      "excerpt": "Генеральный директор телеканала Владимир Тюлин подчеркнул, что сериал обладает \"исторической достоверностью и глубокой проработкой темы\"",
-      "recap_neutral": "Генеральный директор телеканала Владимир Тюлин подчеркнул, что сериал обладает \"исторической достоверностью и глубокой проработкой темы\"",
-      "main_idea": "Исторический детектив \"Грачи\" выйдет на РЕН ТВ 26 апреля",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 13 Apr 2026 15:58:16 +0300",
-      "url": "https://tass.ru/kultura/27085515",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лихачев: ударов в районе ЗАЭС в ходе пасхального перемирия было меньше",
-      "title_neutral": "Лихачев: ударов в районе ЗАЭС в ходе пасхального перемирия было меньше",
-      "excerpt": "Станция находится в зоне риска, подчеркнул глава Росатома",
-      "recap_neutral": "Станция находится в зоне риска, подчеркнул глава Росатома",
-      "main_idea": "Лихачев: ударов в районе ЗАЭС в ходе пасхального перемирия было меньше",
+      "title_original": "В Первомайске ЛНР после ночной атаки ВСУ уничтожены четыре дома",
+      "title_neutral": "В Первомайске ЛНР после ночной атаки ВСУ уничтожены четыре дома",
+      "excerpt": "Еще три повреждены",
+      "recap_neutral": "Еще три повреждены",
+      "main_idea": "В Первомайске ЛНР после ночной атаки ВСУ уничтожены четыре дома",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 13 Apr 2026 15:58:07 +0300",
-      "url": "https://tass.ru/ekonomika/27091641",
+      "published_at": "Mon, 13 Apr 2026 17:50:39 +0300",
+      "url": "https://tass.ru/proisshestviya/27093127",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Суд подтвердил законность взыскания с управления дорог \"Южный Урал\"",
-      "title_neutral": "Суд подтвердил законность взыскания с управления дорог \"Южный Урал\"",
-      "excerpt": "У компании изъяли свыше 489 млн рублей",
-      "recap_neutral": "У компании изъяли свыше 489 млн рублей",
-      "main_idea": "Суд подтвердил законность взыскания с управления дорог \"Южный Урал\"",
+      "title_original": "Экс-сенатору Дмитрию Савельеву вынесли приговор за организацию приготовления к убийству",
+      "title_neutral": "Экс-сенатору Дмитрию Савельеву вынесли приговор за организацию приготовления к убийству",
+      "excerpt": "",
+      "recap_neutral": "Экс-сенатору Дмитрию Савельеву вынесли приговор за организацию приготовления к убийству",
+      "main_idea": "Экс-сенатору Дмитрию Савельеву вынесли приговор за организацию приготовления к убийству",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 13 Apr 2026 17:50:29 +0300",
+      "url": "https://tass.ru/proisshestviya/27093193",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Минвостокразвития рассматривает возможность расширения МТОР на Арктику",
+      "title_neutral": "Минвостокразвития рассматривает возможность расширения МТОР на Арктику",
+      "excerpt": "Замглавы ведомства Антон Басанский отметил, что международная территория опережающего развития позволяет иностранным инвесторам проще работать на в РФ",
+      "recap_neutral": "Замглавы ведомства Антон Басанский отметил, что международная территория опережающего развития позволяет иностранным инвесторам проще работать на в РФ",
+      "main_idea": "Минвостокразвития рассматривает возможность расширения МТОР на Арктику",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 13 Apr 2026 17:50:25 +0300",
+      "url": "https://tass.ru/ekonomika/27092443",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп: США уничтожат иранские корабли, которые нарушат морскую блокаду",
+      "title_neutral": "Трамп: США уничтожат иранские корабли, которые нарушат морскую блокаду",
+      "excerpt": "По словам американского лидера, Соединенные Штаты смогли уничтожить 158 иранских кораблей",
+      "recap_neutral": "По словам американского лидера, Соединенные Штаты смогли уничтожить 158 иранских кораблей",
+      "main_idea": "Трамп: США уничтожат иранские корабли, которые нарушат морскую блокаду",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 13 Apr 2026 17:50:21 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27093149",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Двое пострадавших при атаке ВСУ на Крымский район Кубани остаются в больнице",
+      "title_neutral": "Двое пострадавших при атаке ВСУ на Крымский район Кубани остаются в больнице",
+      "excerpt": "Обломки БПЛА упали на территории нефтебазы ночью 9 апреля",
+      "recap_neutral": "Обломки БПЛА упали на территории нефтебазы ночью 9 апреля",
+      "main_idea": "Двое пострадавших при атаке ВСУ на Крымский район Кубани остаются в больнице",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 13 Apr 2026 17:49:35 +0300",
+      "url": "https://tass.ru/obschestvo/27092485",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Армия Израиля перехватила с начала дня более 10 запущенных из Ливана БПЛА",
+      "title_neutral": "Армия Израиля перехватила с начала дня более 10 запущенных из Ливана БПЛА",
+      "excerpt": "В ЦАХАЛ заверили, что ВВС страны продолжают устранять угрозы для гражданского населения еврейского государства",
+      "recap_neutral": "В ЦАХАЛ заверили, что ВВС страны продолжают устранять угрозы для гражданского населения еврейского государства",
+      "main_idea": "Армия Израиля перехватила с начала дня более 10 запущенных из Ливана БПЛА",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 13 Apr 2026 17:47:49 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27093135",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Арагчи объяснил, почему Иран и США не смогли прийти к соглашению в Исламабаде",
+      "title_neutral": "Арагчи объяснил, почему Иран и США не смогли прийти к соглашению в Исламабаде",
+      "excerpt": "",
+      "recap_neutral": "Арагчи объяснил, почему Иран и США не смогли прийти к соглашению в Исламабаде",
+      "main_idea": "Арагчи объяснил, почему Иран и США не смогли прийти к соглашению в Исламабаде",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 13 Apr 2026 17:46:44 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27093119",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Россия готова предложить Узбекистану технологии ВСМ",
+      "title_neutral": "Россия готова предложить Узбекистану технологии ВСМ",
+      "excerpt": "Министр транспорта Андрей Никитин отметил, что РФ может предоставить пакет решений, связанных с обновлением скоростного железнодорожного транспорта",
+      "recap_neutral": "Министр транспорта Андрей Никитин отметил, что РФ может предоставить пакет решений, связанных с обновлением скоростного железнодорожного транспорта",
+      "main_idea": "Россия готова предложить Узбекистану технологии ВСМ",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 13 Apr 2026 15:57:33 +0300",
-      "url": "https://tass.ru/ekonomika/27091813",
+      "published_at": "Mon, 13 Apr 2026 17:46:07 +0300",
+      "url": "https://tass.ru/ekonomika/27092087",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "RTV Noord: Нидерланды намерены возобновить добычу газа в Гронингене",
-      "title_neutral": "RTV Noord: Нидерланды намерены возобновить добычу газа в Гронингене",
-      "excerpt": "Добыча топлива на месторождении была приостановлена после истечения лицензии 1 января 2025 года",
-      "recap_neutral": "Добыча топлива на месторождении была приостановлена после истечения лицензии 1 января 2025 года",
-      "main_idea": "RTV Noord: Нидерланды намерены возобновить добычу газа в Гронингене",
+      "title_original": "В Орловской области отменили авиационную опасность",
+      "title_neutral": "В Орловской области отменили авиационную опасность",
+      "excerpt": "Эту информацию сообщили в МЧС",
+      "recap_neutral": "Эту информацию сообщили в МЧС",
+      "main_idea": "В Орловской области отменили авиационную опасность",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 13 Apr 2026 17:43:28 +0300",
+      "url": "https://tass.ru/proisshestviya/27093015",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Мадьяр: ЕС должен отменить санкции против РФ по окончании конфликта на Украине",
+      "title_neutral": "Мадьяр: ЕС должен отменить санкции против РФ по окончании конфликта на Украине",
+      "excerpt": "Лидер венгерской партии \"Тиса\" напомнил, что эти санкции вызвали рост цен на энергоносители, а \"Европа не заинтересована в приобретении сырья по завышенным ценам\"",
+      "recap_neutral": "Лидер венгерской партии \"Тиса\" напомнил, что эти санкции вызвали рост цен на энергоносители, а \"Европа не заинтересована в приобретении сырья по завышенным ценам\"",
+      "main_idea": "Мадьяр: ЕС должен отменить санкции против РФ по окончании конфликта на Украине",
       "tags": [
+        "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 13 Apr 2026 15:57:32 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27090075",
+      "published_at": "Mon, 13 Apr 2026 17:43:27 +0300",
+      "url": "https://tass.ru/ekonomika/27093075",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade",
-      "title_neutral": "Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade",
-      "excerpt": "The U.S. military said it would block ships entering or exiting Iranian ports or coastal areas starting at 10 a.m. Eastern. European leaders distanced themselves from the plan.",
+      "title_original": "В Тверской области нашли пропавшую девушку-подростка",
+      "title_neutral": "В Тверской области нашли пропавшую девушку-подростка",
+      "excerpt": "Она пропала 7 апреля",
+      "recap_neutral": "Она пропала 7 апреля",
+      "main_idea": "В Тверской области нашли пропавшую девушку-подростка",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 13 Apr 2026 17:36:31 +0300",
+      "url": "https://tass.ru/obschestvo/27093049",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Leo becomes first Pope to visit Algeria at start of major Africa tour",
+      "title_neutral": "Leo becomes first Pope to visit Algeria at start of major Africa tour",
+      "excerpt": "Leo XIV wants the world's attention on a continent vital to the Church's future, an aide says.",
+      "recap_neutral": "Leo XIV wants the world's attention on a continent vital to the Church's future, an aide says",
+      "main_idea": "Leo becomes first Pope to visit Algeria at start of major Africa tour",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 13 Apr 2026 14:55:14 GMT",
+      "url": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran War Live Updates: Deadline Passes for U.S. Blockade in Strait of Hormuz",
+      "title_neutral": "Iran War Live Updates: Deadline Passes for U.S. Blockade in Strait of Hormuz",
+      "excerpt": "The U.S. military said it would block ships entering or exiting Iranian ports or coastal areas, in an effort to cut off Iran’s oil income. There was no immediate confirmation that the blockade had begun at 10 a.m. Eastern, as scheduled.",
       "recap_neutral": "The U",
-      "main_idea": "Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade",
+      "main_idea": "Iran War Live Updates: Deadline Passes for U.S. Blockade in Strait of Hormuz",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Mon, 13 Apr 2026 13:13:11 +0000",
+      "published_at": "Mon, 13 Apr 2026 14:53:16 +0000",
       "url": "https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Many Popes Before Leo Have Been Entangled in Politics. Here Are 5 of Them.",
+      "title_neutral": "Many Popes Before Leo Have Been Entangled in Politics. Here Are 5 of Them.",
+      "excerpt": "Leo XIV, under fire from President Trump, has joined predecessors including Francis and John Paul II in confronting political issues.",
+      "recap_neutral": "Leo XIV, under fire from President Trump, has joined predecessors including Francis and John Paul II in confronting political issues",
+      "main_idea": "Many Popes Before Leo Have Been Entangled in Politics. Here Are 5 of Them.",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 13 Apr 2026 14:39:41 +0000",
+      "url": "https://www.nytimes.com/2026/04/13/world/europe/pope-leo-trump-dispute.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Aiming at China, Malaysia Puts New Restrictions on Electric Cars",
+      "title_neutral": "Aiming at China, Malaysia Puts New Restrictions on Electric Cars",
+      "excerpt": "The move was a tacit acknowledgment of China’s dominance in the global market and the power of its automakers to keep prices low.",
+      "recap_neutral": "The move was a tacit acknowledgment of China’s dominance in the global market and the power of its automakers to keep prices low",
+      "main_idea": "Aiming at China, Malaysia Puts New Restrictions on Electric Cars",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 13 Apr 2026 14:28:48 +0000",
+      "url": "https://www.nytimes.com/2026/04/13/world/asia/malaysia-electric-cars-china.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How Orban Lost His Touch, and Hungary’s Election",
+      "title_neutral": "How Orban Lost His Touch, and Hungary’s Election",
+      "excerpt": "The election defeat for Prime Minister Viktor Orban is less the result of an ideological shift in Hungary, and more the playing out of a fundamental rule of politics.",
+      "recap_neutral": "The election defeat for Prime Minister Viktor Orban is less the result of an ideological shift in Hungary, and more the playing out of a fundamental rule of politics",
+      "main_idea": "How Orban Lost His Touch, and Hungary’s Election",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 13 Apr 2026 14:22:31 +0000",
+      "url": "https://www.nytimes.com/2026/04/13/world/europe/orban-hungary-election-magyar-populism.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ghanaian footballer killed after armed attackers open fire at team bus",
+      "title_neutral": "Ghanaian footballer killed after armed attackers open fire at team bus",
+      "excerpt": "The team was returning from a match when they were attacked by \"masked men wielding guns\", officials say.",
+      "recap_neutral": "The team was returning from a match when they were attacked by \"masked men wielding guns\", officials say",
+      "main_idea": "Ghanaian footballer killed after armed attackers open fire at team bus",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 13 Apr 2026 14:19:02 GMT",
+      "url": "https://www.bbc.com/news/articles/czx97pkyy9po?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump Said Other Countries Would Help Blockade Iran. So Far, There Are No Takers.",
+      "title_neutral": "Trump Said Other Countries Would Help Blockade Iran. So Far, There Are No Takers.",
+      "excerpt": "President Trump’s announcement of a complete U.S. blockade was his latest effort to pressure Iran to negotiate after direct talks over the weekend did not yield an agreement.",
+      "recap_neutral": "President Trump’s announcement of a complete U",
+      "main_idea": "Trump Said Other Countries Would Help Blockade Iran. So Far, There Are No Takers.",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 13 Apr 2026 13:53:35 +0000",
+      "url": "https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+      "title_neutral": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 13 Apr 2026 13:48:24 +0000",
+      "url": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Pope Leo, Hours After Trump Criticism, Says He Has ‘No Fear’",
+      "title_neutral": "Pope Leo, Hours After Trump Criticism, Says He Has ‘No Fear’",
+      "excerpt": "President Trump lashed out on Sunday night at Pope Leo XIV, who responded hours later by saying he would continue to oppose war.",
+      "recap_neutral": "President Trump lashed out on Sunday night at Pope Leo XIV, who responded hours later by saying he would continue to oppose war",
+      "main_idea": "Pope Leo, Hours After Trump Criticism, Says He Has ‘No Fear’",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 13 Apr 2026 13:41:13 +0000",
+      "url": "https://www.nytimes.com/2026/04/13/us/politics/pope-leo-trump-response.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "title_neutral": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 13 Apr 2026 13:37:33 +0000",
+      "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "They See Your Photos",
+      "title_neutral": "They See Your Photos",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "They See Your Photos",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 13 Apr 2026 13:27:51 +0000",
+      "url": "https://theyseeyourphotos.com/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -608,24 +724,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trump Said Other Countries Would Help Blockade Iran. So Far, There Are No Takers.",
-      "title_neutral": "Trump Said Other Countries Would Help Blockade Iran. So Far, There Are No Takers.",
-      "excerpt": "President Trump’s announcement of a complete U.S. blockade was his latest effort to pressure Iran to negotiate after direct talks over the weekend did not yield an agreement.",
-      "recap_neutral": "President Trump’s announcement of a complete U",
-      "main_idea": "Trump Said Other Countries Would Help Blockade Iran. So Far, There Are No Takers.",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 13 Apr 2026 13:01:57 +0000",
-      "url": "https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -698,11 +796,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "‘Lula’s a gym rat’: Brazil president livestreams workouts in campaign for historic fourth term",
-      "title_neutral": "‘Lula’s a gym rat’: Brazil president livestreams workouts in campaign for historic fourth term",
-      "excerpt": "Octogenarian incumbent contrasts his health with challenger Flávio Bolsonaro, who fainted during a TV debate The Brazilian president, Luiz Inácio Lula da Silva, is seeking to lunge and leg press his way to a historic fourth term, as the octogenarian politician uses a flurry of workout videos to con…",
-      "recap_neutral": "Octogenarian incumbent contrasts his health with challenger Flávio Bolsonaro, who fainted during a TV debate The Brazilian president, Luiz Inácio Lula da Silva, is seeking to lunge and leg press his way to a historic fo…",
-      "main_idea": "‘Lula’s a gym rat’: Brazil president livestreams workouts in campaign for historic fourth term",
+      "title_original": "Brazil’s Lula, 80, livestreams workouts before election against rival half his age",
+      "title_neutral": "Brazil’s Lula, 80, livestreams workouts before election against rival half his age",
+      "excerpt": "President contrasts his health with challenger Flávio Bolsonaro, who fainted during a TV debate The Brazilian president, Luiz Inácio Lula da Silva, is seeking to lunge and leg press his way to a historic fourth term, as the octogenarian politician uses a flurry of workout videos to convince voters…",
+      "recap_neutral": "President contrasts his health with challenger Flávio Bolsonaro, who fainted during a TV debate The Brazilian president, Luiz Inácio Lula da Silva, is seeking to lunge and leg press his way to a historic fourth term, as…",
+      "main_idea": "Brazil’s Lula, 80, livestreams workouts before election against rival half his age",
       "tags": [
         "politics",
         "tech",
@@ -749,24 +847,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ghanaian footballer killed after armed attackers open fire at team bus",
-      "title_neutral": "Ghanaian footballer killed after armed attackers open fire at team bus",
-      "excerpt": "The team was returning from a match when they were attacked by \"masked men wielding guns\", officials say.",
-      "recap_neutral": "The team was returning from a match when they were attacked by \"masked men wielding guns\", officials say",
-      "main_idea": "Ghanaian footballer killed after armed attackers open fire at team bus",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Mon, 13 Apr 2026 12:23:55 GMT",
-      "url": "https://www.bbc.com/news/articles/czx97pkyy9po?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Defeat of Orban Removes Ukraine’s Biggest Nemesis in Europe",
       "title_neutral": "Defeat of Orban Removes Ukraine’s Biggest Nemesis in Europe",
       "excerpt": "The Hungarian leader’s pro-Moscow tilt cemented his reputation in Kyiv as a spoiler. Now, Ukraine hopes a 90-billion-euro loan he blocked will be disbursed.",
@@ -786,8 +866,8 @@
     {
       "title_original": "Ghanaian winger Dominic Frimpong killed at age of 20 in attack on team bus",
       "title_neutral": "Ghanaian winger Dominic Frimpong killed at age of 20 in attack on team bus",
-      "excerpt": "Armed men fired at Berekum Chelsea bus on Sunday Frimpong dies of wounds at hospital Berekum Chelsea winger Dominic Frimpong has been killed in an armed robbery on his team’s bus as they returned from a match on Sunday, the Ghana Football Association said. Berekum Chelsea said six “masked men wield…",
-      "recap_neutral": "Armed men fired at Berekum Chelsea bus on Sunday Frimpong dies of wounds at hospital Berekum Chelsea winger Dominic Frimpong has been killed in an armed robbery on his team’s bus as they returned from a match on Sunday,…",
+      "excerpt": "Armed men fired at Berekum Chelsea bus on Sunday Frimpong dies of wounds at hospital Berekum Chelsea winger Dominic Frimpong was killed in an armed robbery on his team’s bus as they returned from a match on Sunday, the Ghana Football Association said. Berekum Chelsea said six “masked men wielding g…",
+      "recap_neutral": "Armed men fired at Berekum Chelsea bus on Sunday Frimpong dies of wounds at hospital Berekum Chelsea winger Dominic Frimpong was killed in an armed robbery on his team’s bus as they returned from a match on Sunday, the…",
       "main_idea": "Ghanaian winger Dominic Frimpong killed at age of 20 in attack on team bus",
       "tags": [
         "conflict",
@@ -800,6 +880,23 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Servo is now available on crates.io",
+      "title_neutral": "Servo is now available on crates.io",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Servo is now available on crates.io",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Mon, 13 Apr 2026 12:12:22 +0000",
+      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -829,23 +926,6 @@
       "source": "BBC World",
       "published_at": "Mon, 13 Apr 2026 12:02:45 GMT",
       "url": "https://www.bbc.com/news/articles/ce8jw46p2x4o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Leo becomes first Pope to visit Algeria at start of major Africa tour",
-      "title_neutral": "Leo becomes first Pope to visit Algeria at start of major Africa tour",
-      "excerpt": "Leo XIV wants the world's attention on a continent vital to the Church's future, an aide says.",
-      "recap_neutral": "Leo XIV wants the world's attention on a continent vital to the Church's future, an aide says",
-      "main_idea": "Leo becomes first Pope to visit Algeria at start of major Africa tour",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Mon, 13 Apr 2026 11:56:58 GMT",
-      "url": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -884,42 +964,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Pope Leo, Hours After Trump Criticism, Says He Has ‘No Fear’",
-      "title_neutral": "Pope Leo, Hours After Trump Criticism, Says He Has ‘No Fear’",
-      "excerpt": "President Trump lashed out on Sunday night at Pope Leo XIV, who responded hours later by saying he would continue to oppose war.",
-      "recap_neutral": "President Trump lashed out on Sunday night at Pope Leo XIV, who responded hours later by saying he would continue to oppose war",
-      "main_idea": "Pope Leo, Hours After Trump Criticism, Says He Has ‘No Fear’",
-      "tags": [
-        "politics",
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 13 Apr 2026 11:32:01 +0000",
-      "url": "https://www.nytimes.com/2026/04/13/us/politics/pope-leo-trump-response.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Aiming at China, Malaysia Puts New Restrictions on Electric Cars",
-      "title_neutral": "Aiming at China, Malaysia Puts New Restrictions on Electric Cars",
-      "excerpt": "A policy move by Malaysia was a tacit acknowledgment of China’s dominance in the global market and the power of its automakers to keep prices low.",
-      "recap_neutral": "A policy move by Malaysia was a tacit acknowledgment of China’s dominance in the global market and the power of its automakers to keep prices low",
-      "main_idea": "Aiming at China, Malaysia Puts New Restrictions on Electric Cars",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 13 Apr 2026 11:16:26 +0000",
-      "url": "https://www.nytimes.com/2026/04/13/world/asia/malaysia-electric-cars-china.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Orbán era swept away by Péter Magyar's Hungary election landslide",
       "title_neutral": "Orbán era swept away by Péter Magyar's Hungary election landslide",
       "excerpt": "Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
@@ -955,21 +999,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Point Cloud Allemansrätten",
-      "title_neutral": "Point Cloud Allemansrätten",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Point Cloud Allemansrätten",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 13 Apr 2026 10:55:10 +0000",
-      "url": "https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Nigeria Air Force orders investigation after dozens killed in airstrike",
       "title_neutral": "Nigeria Air Force orders investigation after dozens killed in airstrike",
       "excerpt": "There are reports that more than 100 people were killed, although the authorities have not commented.",
@@ -985,23 +1014,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "UK Will Not Join U.S. Blockade of Strait of Hormuz, Starmer Says",
-      "title_neutral": "UK Will Not Join U.S. Blockade of Strait of Hormuz, Starmer Says",
-      "excerpt": "Prime Minister Keir Starmer said the U.K.’s diplomatic efforts are directed at keeping the vital waterway “open, not shut.”",
-      "recap_neutral": "Prime Minister Keir Starmer said the U",
-      "main_idea": "UK Will Not Join U.S. Blockade of Strait of Hormuz, Starmer Says",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 13 Apr 2026 10:28:08 +0000",
-      "url": "https://www.nytimes.com/2026/04/13/world/europe/iran-blockade-strait-hormuz-uk-starmer-trump.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1054,21 +1066,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
-      "title_neutral": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 13 Apr 2026 09:26:56 +0000",
-      "url": "https://github.com/brightbeanxyz/brightbean-studio",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1138,11 +1135,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Elections and Defections Are Likely to Unshackle Canada’s Liberals",
-      "title_neutral": "Elections and Defections Are Likely to Unshackle Canada’s Liberals",
+      "title_original": "In Canada, Elections and Defections Likely to Help Carney’s Liberals Gain Majority",
+      "title_neutral": "In Canada, Elections and Defections Likely to Help Carney’s Liberals Gain Majority",
       "excerpt": "Prime Minister Mark Carney, who heads a minority government, is expected to gain a majority in the House of Commons after three special elections on Monday.",
       "recap_neutral": "Prime Minister Mark Carney, who heads a minority government, is expected to gain a majority in the House of Commons after three special elections on Monday",
-      "main_idea": "Elections and Defections Are Likely to Unshackle Canada’s Liberals",
+      "main_idea": "In Canada, Elections and Defections Likely to Help Carney’s Liberals Gain Majority",
       "tags": [
         "politics",
         "tech"
@@ -1340,6 +1337,24 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Pope Leo stands firm with Trump as Vatican–Washington rift deepens over Iran war",
+      "title_neutral": "Pope Leo stands firm with Trump as Vatican–Washington rift deepens over Iran war",
+      "excerpt": "Pope Leo XIV says he will not be deterred by criticism from President Trump, vowing to continue his calls for peace as tensions escalate between the Vatican and Washington over the Iran conflict.",
+      "recap_neutral": "Pope Leo XIV says he will not be deterred by criticism from President Trump, vowing to continue his calls for peace as tensions escalate between the Vatican and Washington over the Iran conflict",
+      "main_idea": "Pope Leo stands firm with Trump as Vatican–Washington rift deepens over Iran war",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 13 Apr 2026 06:43:31 -0400",
+      "url": "https://www.npr.org/2026/04/13/nx-s1-5780996/pope-leo-begins-tour-across-africa-as-row-with-trump-over-iran-war-intensifies",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Azuma-zi’s Machine Cult",
       "title_neutral": "Azuma-zi’s Machine Cult",
       "excerpt": "In a Camberwell dynamo shed, Holroyd, a violent electrician, and Azuma-zi, an immigrant stoker, work amid roaring machines. Azuma-zi worships the largest dynamo as a living god, reading its noises as divine will. After abuse by Holroyd, he believes sacrifice is demanded. The machine kills Holroyd i…",
@@ -1498,24 +1513,6 @@
       "source": "NPR",
       "published_at": "Mon, 13 Apr 2026 05:00:00 -0400",
       "url": "https://www.npr.org/2026/04/13/g-s1-117050/us-trump-immigration-2025-naturalizations-citizenship-drop",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Can red light therapy really deliver a beauty and health glow-up? Here's the science",
-      "title_neutral": "Can red light therapy really deliver a beauty and health glow-up? Here's the science",
-      "excerpt": "Wellness influencers tout the therapy's power for everything from rejuvenating skin and hair to boosting longevity. Devices sold for at-home use abound. We look at the evidence behind the hype.",
-      "recap_neutral": "Wellness influencers tout the therapy's power for everything from rejuvenating skin and hair to boosting longevity",
-      "main_idea": "Can red light therapy really deliver a beauty and health glow-up? Here's the science",
-      "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "NPR",
-      "published_at": "Mon, 13 Apr 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/04/13/nx-s1-5759287/red-light-therapy-science-skin-hair",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
