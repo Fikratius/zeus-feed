@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T11:31:27.551315+00:00",
+  "last_updated": "2026-04-18T12:54:18.770885+00:00",
   "items": [
     {
       "title_original": "Michael Rabin Has Died",
@@ -134,6 +134,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "A Dumb Introduction to Z3",
+      "title_neutral": "A Dumb Introduction to Z3",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "A Dumb Introduction to Z3",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 14 Apr 2026 02:45:27 +0000",
+      "url": "https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Rewriting Every Syscall in a Linux Binary at Load Time",
       "title_neutral": "Rewriting Every Syscall in a Linux Binary at Load Time",
       "excerpt": "Comments",
@@ -201,21 +216,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The simple geometry behind any road",
-      "title_neutral": "The simple geometry behind any road",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The simple geometry behind any road",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 16 Apr 2026 03:09:50 +0000",
-      "url": "https://sandboxspirit.com/blog/simple-geometry-of-roads/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "How South Korea plans to use the Iran crisis to spur a renewables revolution",
       "title_neutral": "How South Korea plans to use the Iran crisis to spur a renewables revolution",
       "excerpt": "Energy crisis unfolding in Middle East has added political urgency, and more funding, to transform South Korea’s solar industry In Guyang-ri, a farming village of 70 households about 90 minutes south-east of Seoul, people gather for communal free lunches six days a week. The meals are funded by the…",
@@ -231,242 +231,244 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Итальянская ассоциация, помогающая Донбассу, отмечает 25-летие",
-      "title_neutral": "Итальянская ассоциация, помогающая Донбассу, отмечает 25-летие",
-      "excerpt": "Ее основал итальянец Эннио Бордато",
-      "recap_neutral": "Ее основал итальянец Эннио Бордато",
-      "main_idea": "Итальянская ассоциация, помогающая Донбассу, отмечает 25-летие",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Apr 2026 14:29:22 +0300",
-      "url": "https://tass.ru/obschestvo/27149349",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Забайкалье троих пострадавших в ДТП с автобусом санавиацией доставят в Читу",
-      "title_neutral": "В Забайкалье троих пострадавших в ДТП с автобусом санавиацией доставят в Читу",
-      "excerpt": "Еще восемь пациентов переведут в краевую больницу №4 в городе Краснокаменске",
-      "recap_neutral": "Еще восемь пациентов переведут в краевую больницу №4 в городе Краснокаменске",
-      "main_idea": "В Забайкалье троих пострадавших в ДТП с автобусом санавиацией доставят в Читу",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Apr 2026 14:28:54 +0300",
-      "url": "https://tass.ru/obschestvo/27150471",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Москалькова: для расследования преступлений ВСУ нужен международный трибунал",
-      "title_neutral": "Москалькова: для расследования преступлений ВСУ нужен международный трибунал",
-      "excerpt": "Уполномоченный по правам человека в РФ поблагодарила те общественные организации и государственные структуры, которые \"по крупицам собирают факты, связанные с неонацизмом, с нарушением прав человека, с пытками, зверствами, с расправами над людьми\"",
-      "recap_neutral": "Уполномоченный по правам человека в РФ поблагодарила те общественные организации и государственные структуры, которые \"по крупицам собирают факты, связанные с неонацизмом, с нарушением прав человека, с пытками, зверства…",
-      "main_idea": "Москалькова: для расследования преступлений ВСУ нужен международный трибунал",
+      "title_original": "Хабачиров уверен, что Арбузов выиграл чемпионат Европы за счет концентрации",
+      "title_neutral": "Хабачиров уверен, что Арбузов выиграл чемпионат Европы за счет концентрации",
+      "excerpt": "Российский дзюдоист в финальной схватке в весовой категории до 81 кг победил грузина Тато Григалашвили",
+      "recap_neutral": "Российский дзюдоист в финальной схватке в весовой категории до 81 кг победил грузина Тато Григалашвили",
+      "main_idea": "Хабачиров уверен, что Арбузов выиграл чемпионат Европы за счет концентрации",
       "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Apr 2026 15:48:08 +0300",
+      "url": "https://tass.ru/sport/27150753",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "У побережья Омана неизвестный снаряд атаковал контейнеровоз",
+      "title_neutral": "У побережья Омана неизвестный снаряд атаковал контейнеровоз",
+      "excerpt": "",
+      "recap_neutral": "У побережья Омана неизвестный снаряд атаковал контейнеровоз",
+      "main_idea": "У побережья Омана неизвестный снаряд атаковал контейнеровоз",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Apr 2026 15:47:59 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27150755",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Младший сын Лукашенко помог отцу посадить дерево",
+      "title_neutral": "Младший сын Лукашенко помог отцу посадить дерево",
+      "excerpt": "Президент Белоруссии работал на площадке Национального исторического музея и парка Народного единства",
+      "recap_neutral": "Президент Белоруссии работал на площадке Национального исторического музея и парка Народного единства",
+      "main_idea": "Младший сын Лукашенко помог отцу посадить дерево",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Apr 2026 15:45:35 +0300",
+      "url": "https://tass.ru/obschestvo/27150739",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Макрон сообщил о гибели французского военного при ударе по миротворцам в Ливане",
+      "title_neutral": "Макрон сообщил о гибели французского военного при ударе по миротворцам в Ливане",
+      "excerpt": "Президент Франции уточнил, что еще трое военнослужащих получили ранения и были эвакуированы",
+      "recap_neutral": "Президент Франции уточнил, что еще трое военнослужащих получили ранения и были эвакуированы",
+      "main_idea": "Макрон сообщил о гибели французского военного при ударе по миротворцам в Ливане",
+      "tags": [
+        "politics",
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 18 Apr 2026 14:26:10 +0300",
-      "url": "https://tass.ru/obschestvo/27150451",
+      "published_at": "Sat, 18 Apr 2026 15:44:33 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27150745",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Забайкалье после ДТП с автобусом четыре человека находятся в тяжелом состоянии",
-      "title_neutral": "В Забайкалье после ДТП с автобусом четыре человека находятся в тяжелом состоянии",
-      "excerpt": "Еще семь получили травмы средней степени тяжести",
-      "recap_neutral": "Еще семь получили травмы средней степени тяжести",
-      "main_idea": "В Забайкалье после ДТП с автобусом четыре человека находятся в тяжелом состоянии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Apr 2026 14:25:16 +0300",
-      "url": "https://tass.ru/obschestvo/27150441",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Эксперт Боюк назвала преимущества Московской области в сфере туризма",
-      "title_neutral": "Эксперт Боюк назвала преимущества Московской области в сфере туризма",
-      "excerpt": "Речь идет об уникальных усадьбах, музеях, паломнических и экологических объектах",
-      "recap_neutral": "Речь идет об уникальных усадьбах, музеях, паломнических и экологических объектах",
-      "main_idea": "Эксперт Боюк назвала преимущества Московской области в сфере туризма",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Apr 2026 14:22:23 +0300",
-      "url": "https://tass.ru/obschestvo/27150117",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Умер бывший тренер баскетболиста Кириленко Виктор Семенов",
-      "title_neutral": "Умер бывший тренер баскетболиста Кириленко Виктор Семенов",
-      "excerpt": "Ему было 73 года",
-      "recap_neutral": "Ему было 73 года",
-      "main_idea": "Умер бывший тренер баскетболиста Кириленко Виктор Семенов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Apr 2026 14:22:21 +0300",
-      "url": "https://tass.ru/sport/27150439",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Аэропорт Оренбурга работает в штатном режиме",
-      "title_neutral": "Аэропорт Оренбурга работает в штатном режиме",
+      "title_original": "В аэропорту Ярославля сняли ограничения",
+      "title_neutral": "В аэропорту Ярославля сняли ограничения",
       "excerpt": "",
-      "recap_neutral": "Аэропорт Оренбурга работает в штатном режиме",
-      "main_idea": "Аэропорт Оренбурга работает в штатном режиме",
+      "recap_neutral": "В аэропорту Ярославля сняли ограничения",
+      "main_idea": "В аэропорту Ярославля сняли ограничения",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 18 Apr 2026 14:19:36 +0300",
-      "url": "https://tass.ru/ekonomika/27150421",
+      "published_at": "Sat, 18 Apr 2026 15:42:01 +0300",
+      "url": "https://tass.ru/ekonomika/27150727",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Лавров: Европа полна лицемерия в поддержке Зеленского и разговорах о защите прав людей",
-      "title_neutral": "Лавров: Европа полна лицемерия в поддержке Зеленского и разговорах о защите прав людей",
-      "excerpt": "Некоторые европейские коллеги проявляют интерес к проблематике притеснения русского языка и религии на Украине, но не отвечают на вопрос о каких-либо конкретных шагах, заявил министр иностранных дел России",
-      "recap_neutral": "Некоторые европейские коллеги проявляют интерес к проблематике притеснения русского языка и религии на Украине, но не отвечают на вопрос о каких-либо конкретных шагах, заявил министр иностранных дел России",
-      "main_idea": "Лавров: Европа полна лицемерия в поддержке Зеленского и разговорах о защите прав людей",
+      "title_original": "Опубликованы кадры с места ДТП с автобусом в Забайкалье",
+      "title_neutral": "Опубликованы кадры с места ДТП с автобусом в Забайкалье",
+      "excerpt": "Погибли два человека",
+      "recap_neutral": "Погибли два человека",
+      "main_idea": "Опубликованы кадры с места ДТП с автобусом в Забайкалье",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Apr 2026 15:38:47 +0300",
+      "url": "https://tass.ru/proisshestviya/27150675",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МИД Ирана: республика без колебаний ответит на бомбардировки США",
+      "title_neutral": "МИД Ирана: республика без колебаний ответит на бомбардировки США",
+      "excerpt": "Замглавы ведомства Саид Хатибзаде заявил, что война не приведет к позитивному исходу",
+      "recap_neutral": "Замглавы ведомства Саид Хатибзаде заявил, что война не приведет к позитивному исходу",
+      "main_idea": "МИД Ирана: республика без колебаний ответит на бомбардировки США",
       "tags": [
-        "tech"
+        "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 18 Apr 2026 14:18:07 +0300",
-      "url": "https://tass.ru/politika/27150409",
+      "published_at": "Sat, 18 Apr 2026 15:37:25 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27150707",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Армия Израиля заявила, что обстреляла несколько районов на юге Ливана",
-      "title_neutral": "Армия Израиля заявила, что обстреляла несколько районов на юге Ливана",
+      "title_original": "В аэропортах Вологды и Череповца сняли ограничения",
+      "title_neutral": "В аэропортах Вологды и Череповца сняли ограничения",
       "excerpt": "",
-      "recap_neutral": "Армия Израиля заявила, что обстреляла несколько районов на юге Ливана",
-      "main_idea": "Армия Израиля заявила, что обстреляла несколько районов на юге Ливана",
+      "recap_neutral": "В аэропортах Вологды и Череповца сняли ограничения",
+      "main_idea": "В аэропортах Вологды и Череповца сняли ограничения",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 18 Apr 2026 14:16:44 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27150405",
+      "published_at": "Sat, 18 Apr 2026 15:36:47 +0300",
+      "url": "https://tass.ru/ekonomika/27150715",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Коми отменили беспилотную опасность",
-      "title_neutral": "В Коми отменили беспилотную опасность",
-      "excerpt": "Эту информацию сообщили в антитеррористической комиссии региона",
-      "recap_neutral": "Эту информацию сообщили в антитеррористической комиссии региона",
-      "main_idea": "В Коми отменили беспилотную опасность",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Apr 2026 14:15:44 +0300",
-      "url": "https://tass.ru/proisshestviya/27150391",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лавров рассказал, что новое поколение глав МИД может не ответить на поздравления",
-      "title_neutral": "Лавров рассказал, что новое поколение глав МИД может не ответить на поздравления",
-      "excerpt": "Министр иностранных дел России подчеркнул, что всегда с уважением относился ко всем своим коллегам",
-      "recap_neutral": "Министр иностранных дел России подчеркнул, что всегда с уважением относился ко всем своим коллегам",
-      "main_idea": "Лавров рассказал, что новое поколение глав МИД может не ответить на поздравления",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Apr 2026 14:13:13 +0300",
-      "url": "https://tass.ru/politika/27150331",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Москве объявили желтый уровень погодной опасности из-за гололедицы",
-      "title_neutral": "В Москве объявили желтый уровень погодной опасности из-за гололедицы",
-      "excerpt": "Режим будет действовать с 00:00 19 апреля по до 09:00 мск 20 апреля",
-      "recap_neutral": "Режим будет действовать с 00:00 19 апреля по до 09:00 мск 20 апреля",
-      "main_idea": "В Москве объявили желтый уровень погодной опасности из-за гололедицы",
-      "tags": [
-        "climate"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Apr 2026 14:11:50 +0300",
-      "url": "https://tass.ru/obschestvo/27150339",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ВМС Ирана \"готовы вновь нанести поражение\" противникам",
-      "title_neutral": "ВМС Ирана \"готовы вновь нанести поражение\" противникам",
-      "excerpt": "Иранская армия по-прежнему защищает землю и территориальные воды страны",
-      "recap_neutral": "Иранская армия по-прежнему защищает землю и территориальные воды страны",
-      "main_idea": "ВМС Ирана \"готовы вновь нанести поражение\" противникам",
+      "title_original": "Футболиста ЦСКА Глебова заменили в матче с \"Крыльями Советов\" из-за травмы",
+      "title_neutral": "Футболиста ЦСКА Глебова заменили в матче с \"Крыльями Советов\" из-за травмы",
+      "excerpt": "Уходя с поля, игрок держался за заднюю поверхность бедра",
+      "recap_neutral": "Уходя с поля, игрок держался за заднюю поверхность бедра",
+      "main_idea": "Футболиста ЦСКА Глебова заменили в матче с \"Крыльями Советов\" из-за травмы",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 18 Apr 2026 14:11:36 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27150373",
+      "published_at": "Sat, 18 Apr 2026 15:34:26 +0300",
+      "url": "https://tass.ru/sport/27150705",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Каменке-Днепровской при обстреле ВСУ произошло не менее 12 взрывов",
-      "title_neutral": "В Каменке-Днепровской при обстреле ВСУ произошло не менее 12 взрывов",
-      "excerpt": "Информации о пострадавших не поступало",
-      "recap_neutral": "Информации о пострадавших не поступало",
-      "main_idea": "В Каменке-Днепровской при обстреле ВСУ произошло не менее 12 взрывов",
+      "title_original": "Захарова: Россия при Путине победила коррозию исторических фактов",
+      "title_neutral": "Захарова: Россия при Путине победила коррозию исторических фактов",
+      "excerpt": "Официальный представитель МИД РФ отметила, что страна вернула себе правду о Второй мировой войне",
+      "recap_neutral": "Официальный представитель МИД РФ отметила, что страна вернула себе правду о Второй мировой войне",
+      "main_idea": "Захарова: Россия при Путине победила коррозию исторических фактов",
       "tags": [
-        "tech"
+        "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 18 Apr 2026 14:08:44 +0300",
-      "url": "https://tass.ru/proisshestviya/27150111",
+      "published_at": "Sat, 18 Apr 2026 15:33:18 +0300",
+      "url": "https://tass.ru/politika/27150687",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Лавров рассказал, что с теплотой вспоминает работу с Олбрайт и Керри",
-      "title_neutral": "Лавров рассказал, что с теплотой вспоминает работу с Олбрайт и Керри",
-      "excerpt": "Глава МИД РФ вспомнил случай во время его работы на должности постоянного представителя России в ООН, когда произошел инцидент, связанный с незаконным полетом небольшого самолета из Флориды на Кубу, который был сбит кубинцами",
-      "recap_neutral": "Глава МИД РФ вспомнил случай во время его работы на должности постоянного представителя России в ООН, когда произошел инцидент, связанный с незаконным полетом небольшого самолета из Флориды на Кубу, который был сбит куб…",
-      "main_idea": "Лавров рассказал, что с теплотой вспоминает работу с Олбрайт и Керри",
+      "title_original": "Лавров и премьер-министр ПНЕ Ливии обсудили нормализацию обстановки в этой стране",
+      "title_neutral": "Лавров и премьер-министр ПНЕ Ливии обсудили нормализацию обстановки в этой стране",
+      "excerpt": "Стороны обсудили также приоритетные задачи развития традиционно дружественных российско-ливийских отношений",
+      "recap_neutral": "Стороны обсудили также приоритетные задачи развития традиционно дружественных российско-ливийских отношений",
+      "main_idea": "Лавров и премьер-министр ПНЕ Ливии обсудили нормализацию обстановки в этой стране",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 18 Apr 2026 14:07:59 +0300",
-      "url": "https://tass.ru/politika/27150345",
+      "published_at": "Sat, 18 Apr 2026 15:33:06 +0300",
+      "url": "https://tass.ru/politika/27150695",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Матч курского \"Авангарда\" прервали из-за воздушной угрозы",
+      "title_neutral": "Матч курского \"Авангарда\" прервали из-за воздушной угрозы",
+      "excerpt": "Встреча с \"Арсеналом-2\" была остановлена на 37-й минуте при счете 1:0 в пользу курской команды",
+      "recap_neutral": "Встреча с \"Арсеналом-2\" была остановлена на 37-й минуте при счете 1:0 в пользу курской команды",
+      "main_idea": "Матч курского \"Авангарда\" прервали из-за воздушной угрозы",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Apr 2026 15:31:41 +0300",
+      "url": "https://tass.ru/sport/27150677",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Дагестане в поселке Мамедкала определили участки для строительства новых домов",
+      "title_neutral": "В Дагестане в поселке Мамедкала определили участки для строительства новых домов",
+      "excerpt": "",
+      "recap_neutral": "В Дагестане в поселке Мамедкала определили участки для строительства новых домов",
+      "main_idea": "В Дагестане в поселке Мамедкала определили участки для строительства новых домов",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Apr 2026 15:30:56 +0300",
+      "url": "https://tass.ru/obschestvo/27150663",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Московском регионе ожидаются заморозки и мокрый снег",
+      "title_neutral": "В Московском регионе ожидаются заморозки и мокрый снег",
+      "excerpt": "Температура воздуха в Москве составит от 0 до плюс 2 градусов, в Подмосковье - от минус 2 до плюс 3 градусов",
+      "recap_neutral": "Температура воздуха в Москве составит от 0 до плюс 2 градусов, в Подмосковье - от минус 2 до плюс 3 градусов",
+      "main_idea": "В Московском регионе ожидаются заморозки и мокрый снег",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Apr 2026 15:27:06 +0300",
+      "url": "https://tass.ru/obschestvo/27150659",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Российский дзюдоист Арбузов выиграл чемпионат Европы",
+      "title_neutral": "Российский дзюдоист Арбузов выиграл чемпионат Европы",
+      "excerpt": "Он первенствовал в весовой категории до 81 кг",
+      "recap_neutral": "Он первенствовал в весовой категории до 81 кг",
+      "main_idea": "Российский дзюдоист Арбузов выиграл чемпионат Европы",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Apr 2026 15:26:36 +0300",
+      "url": "https://tass.ru/sport/27150667",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
@@ -475,19 +477,53 @@
     {
       "title_original": "Iran War Live Updates: Iran’s Military Says It Has Reimposed ‘Strict Control’ of Strait of Hormuz",
       "title_neutral": "Iran War Live Updates: Iran’s Military Says It Has Reimposed ‘Strict Control’ of Strait of Hormuz",
-      "excerpt": "The military said it would keep the vital waterway under its control until the U.S. ended its blockade of Iranian ports. The statement added to the uncertainty over access to the strait.",
-      "recap_neutral": "The military said it would keep the vital waterway under its control until the U",
+      "excerpt": "The military said it would tighten its grip on the vital waterway until the U.S. ended its blockade of Iranian ports. The statement added to the uncertainty over access to the strait.",
+      "recap_neutral": "The military said it would tighten its grip on the vital waterway until the U",
       "main_idea": "Iran War Live Updates: Iran’s Military Says It Has Reimposed ‘Strict Control’ of Strait of Hormuz",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 18 Apr 2026 11:25:33 +0000",
+      "published_at": "Sat, 18 Apr 2026 12:49:19 +0000",
       "url": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "French film star Nathalie Baye dies aged 77, media report",
+      "title_neutral": "French film star Nathalie Baye dies aged 77, media report",
+      "excerpt": "President Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema.",
+      "recap_neutral": "President Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema",
+      "main_idea": "French film star Nathalie Baye dies aged 77, media report",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 18 Apr 2026 12:31:16 GMT",
+      "url": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 36,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "State of Kdenlive",
+      "title_neutral": "State of Kdenlive",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "State of Kdenlive",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 18 Apr 2026 11:42:37 +0000",
+      "url": "https://kdenlive.org/news/2026/state-2026/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -620,6 +656,40 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Opinion: Remembering Kevin Klose, former NPR president and broadcasting icon",
+      "title_neutral": "Opinion: Remembering Kevin Klose, former NPR president and broadcasting icon",
+      "excerpt": "We remember Kevin Klose, former NPR president, who helped secure financial stability for the network while supporting and encouraging its journalism.",
+      "recap_neutral": "We remember Kevin Klose, former NPR president, who helped secure financial stability for the network while supporting and encouraging its journalism",
+      "main_idea": "Opinion: Remembering Kevin Klose, former NPR president and broadcasting icon",
+      "tags": [
+        "politics"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 18 Apr 2026 08:00:00 -0400",
+      "url": "https://www.npr.org/2026/04/18/nx-s1-5781293/opinion-remembering-kevin-klose-former-npr-president-and-broadcasting-icon",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Tired of waiting for your EV to charge up? One Chinese company has a novel solution",
+      "title_neutral": "Tired of waiting for your EV to charge up? One Chinese company has a novel solution",
+      "excerpt": "Chinese car company NIO is putting up EV battery swapping stations all around the world. NPR took a ride in one car for the experience.",
+      "recap_neutral": "Chinese car company NIO is putting up EV battery swapping stations all around the world",
+      "main_idea": "Tired of waiting for your EV to charge up? One Chinese company has a novel solution",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 18 Apr 2026 07:31:50 -0400",
+      "url": "https://www.npr.org/2026/04/18/nx-s1-5788990/ev-battery-charge-long-china-nio",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Category Theory Illustrated – Orders",
       "title_neutral": "Category Theory Illustrated – Orders",
       "excerpt": "Comments",
@@ -664,23 +734,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Oil prices plunge as Iran says Strait 'open'",
-      "title_neutral": "Oil prices plunge as Iran says Strait 'open'",
-      "excerpt": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire.",
-      "recap_neutral": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire",
-      "main_idea": "Oil prices plunge as Iran says Strait 'open'",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 18 Apr 2026 06:06:38 GMT",
-      "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -729,26 +782,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "It is incorrect to \"normalize\" // in HTTP URL paths",
-      "title_neutral": "It is incorrect to \"normalize\" // in HTTP URL paths",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "It is incorrect to \"normalize\" // in HTTP URL paths",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 18 Apr 2026 05:47:10 +0000",
-      "url": "https://runxiyu.org/comp/doubleslash/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Uncertainty over the Strait of Hormuz remains, as ceasefire nears its end",
-      "title_neutral": "Uncertainty over the Strait of Hormuz remains, as ceasefire nears its end",
+      "title_original": "Iran says it has closed the Strait of Hormuz again, as ceasefire nears its end",
+      "title_neutral": "Iran says it has closed the Strait of Hormuz again, as ceasefire nears its end",
       "excerpt": "Iran's military said on Saturday the Strait of Hormuz has \"returned to its previous state.\" The announcement came after President Trump had said the blockade on Iranian ports would remain in place.",
       "recap_neutral": "Iran's military said on Saturday the Strait of Hormuz has \"returned to its previous state",
-      "main_idea": "Uncertainty over the Strait of Hormuz remains, as ceasefire nears its end",
+      "main_idea": "Iran says it has closed the Strait of Hormuz again, as ceasefire nears its end",
       "tags": [
         "politics",
         "tech"
@@ -970,6 +1008,39 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
+      "title_neutral": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
+      "excerpt": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.",
+      "recap_neutral": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without",
+      "main_idea": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 18 Apr 2026 00:37:06 GMT",
+      "url": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Brunost: The Nynorsk Programming Language",
+      "title_neutral": "Brunost: The Nynorsk Programming Language",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Brunost: The Nynorsk Programming Language",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 13 Apr 2026 18:49:55 +0000",
+      "url": "https://lindbakk.com/blog/introducing-brunost",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Baidu’s ERNIE-Image Turns Short Prompts Into Detailed Visuals",
       "title_neutral": "Baidu’s ERNIE-Image Turns Short Prompts Into Detailed Visuals",
       "excerpt": "ERNIE-Image turns English and Chinese prompts into detailed visuals, excelling at posters, comics, storyboards, and UI mockups.",
@@ -1053,21 +1124,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A simplified model of Fil-C",
-      "title_neutral": "A simplified model of Fil-C",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "A simplified model of Fil-C",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 17 Apr 2026 21:38:20 +0000",
-      "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "How World ID's Biggest Upgrade Replaces Device Trust With Human Continuity",
       "title_neutral": "How World ID's Biggest Upgrade Replaces Device Trust With Human Continuity",
       "excerpt": "What happens when you can no longer tell, at a glance, whether the person on the other end is real? \\ That is the premise World built its Lift Off, pushing its biggest World ID protocol upgrade since launch, a dedicated World ID app in public beta, and more than a dozen partnerships spanning Zoom,…",
@@ -1119,23 +1175,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Deaths of migrants in ICE custody hit record high under Trump",
-      "title_neutral": "Deaths of migrants in ICE custody hit record high under Trump",
-      "excerpt": "Twenty-nine people have died in ICE custody since October, the start of the federal government's fiscal year, already surpassing 2004's toll of 28, the previous record, according to government data.",
-      "recap_neutral": "Twenty-nine people have died in ICE custody since October, the start of the federal government's fiscal year, already surpassing 2004's toll of 28, the previous record, according to government data",
-      "main_idea": "Deaths of migrants in ICE custody hit record high under Trump",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 17 Apr 2026 20:39:50 -0400",
-      "url": "https://www.npr.org/2026/04/17/nx-s1-5789092/deaths-of-migrants-in-ice-custody-hit-record-high-under-trump",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "How Pharos Network Is Betting USDC Can Crack the $26 Billion RWA Market",
       "title_neutral": "How Pharos Network Is Betting USDC Can Crack the $26 Billion RWA Market",
       "excerpt": "Pharos Network names USDC the core stablecoin for its $10M incubator, betting regulated dollars will pull RWA builders onchain before mainnet.",
@@ -1166,21 +1205,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Animal activists celebrate their first global 'Sanctuary Day'",
-      "title_neutral": "Animal activists celebrate their first global 'Sanctuary Day'",
-      "excerpt": "It's been 40 years since animal advocates founded a sanctuary for farm animals in New York and California, and they say April 17 is their first global sanctuary day.",
-      "recap_neutral": "It's been 40 years since animal advocates founded a sanctuary for farm animals in New York and California, and they say April 17 is their first global sanctuary day",
-      "main_idea": "Animal activists celebrate their first global 'Sanctuary Day'",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Fri, 17 Apr 2026 18:26:45 -0400",
-      "url": "https://www.npr.org/2026/04/17/nx-s1-5775921/animal-activists-are-celebrating-their-first-global-sanctuary-day",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1492,24 +1516,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-      "title_neutral": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-      "excerpt": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses.",
-      "recap_neutral": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses",
-      "main_idea": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 17 Apr 2026 10:22:46 GMT",
-      "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
