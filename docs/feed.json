@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T08:30:36.475915+00:00",
+  "last_updated": "2026-04-19T09:42:56.114546+00:00",
   "items": [
     {
       "title_original": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
@@ -35,21 +35,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Modern Common Lisp with FSet",
-      "title_neutral": "Modern Common Lisp with FSet",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Modern Common Lisp with FSet",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 15 Apr 2026 14:38:38 +0000",
-      "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Sheinbaum vows to ‘defend Mexicans at every level’ amid anger at Trump over migrant deaths",
       "title_neutral": "Sheinbaum vows to ‘defend Mexicans at every level’ amid anger at Trump over migrant deaths",
       "excerpt": "Sheinbaum has recently been taking a firmer stance with the US, defying pressures where other countries have caved The Mexican government has voiced concern about the deaths of its citizens in US custody, with Mexican president Claudia Sheinbaum also pushing back against the Trump administration’s…",
@@ -65,6 +50,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Binary Dependencies: Identifying the Hidden Packages We All Depend On",
+      "title_neutral": "Binary Dependencies: Identifying the Hidden Packages We All Depend On",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Binary Dependencies: Identifying the Hidden Packages We All Depend On",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 16 Apr 2026 19:05:20 +0000",
+      "url": "https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -182,266 +182,347 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Кировской области количество подтопленных придомовых территорий возросло до 31",
-      "title_neutral": "В Кировской области количество подтопленных придомовых территорий возросло до 31",
-      "excerpt": "В регионе организовали адресную помощь",
-      "recap_neutral": "В регионе организовали адресную помощь",
-      "main_idea": "В Кировской области количество подтопленных придомовых территорий возросло до 31",
+      "title_original": "Кличко: после стрельбы в Киеве восемь раненых находятся в больницах",
+      "title_neutral": "Кличко: после стрельбы в Киеве восемь раненых находятся в больницах",
+      "excerpt": "",
+      "recap_neutral": "Кличко: после стрельбы в Киеве восемь раненых находятся в больницах",
+      "main_idea": "Кличко: после стрельбы в Киеве восемь раненых находятся в больницах",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 11:24:02 +0300",
-      "url": "https://tass.ru/proisshestviya/27154159",
+      "published_at": "Sun, 19 Apr 2026 12:41:18 +0300",
+      "url": "https://tass.ru/proisshestviya/27154459",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В стратегию развития Дальнего Востока войдут вопросы климатической адаптации",
-      "title_neutral": "В стратегию развития Дальнего Востока войдут вопросы климатической адаптации",
-      "excerpt": "По словам главы Минвостокразвития Алексея Чекункова, серьезные риски для Севера несут повышение среднегодовых температур и таяние многолетней мерзлоты",
-      "recap_neutral": "По словам главы Минвостокразвития Алексея Чекункова, серьезные риски для Севера несут повышение среднегодовых температур и таяние многолетней мерзлоты",
-      "main_idea": "В стратегию развития Дальнего Востока войдут вопросы климатической адаптации",
-      "tags": [
-        "tech",
-        "climate"
-      ],
+      "title_original": "Слуцкий: РФ будет добиваться признания ООН геноцида советского народа",
+      "title_neutral": "Слуцкий: РФ будет добиваться признания ООН геноцида советского народа",
+      "excerpt": "Это долг перед предками, спасшими Европу от коричневой чумы, и перед будущими поколениями, заявил глава комитета Госдумы по международным делам",
+      "recap_neutral": "Это долг перед предками, спасшими Европу от коричневой чумы, и перед будущими поколениями, заявил глава комитета Госдумы по международным делам",
+      "main_idea": "Слуцкий: РФ будет добиваться признания ООН геноцида советского народа",
+      "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 11:21:09 +0300",
-      "url": "https://tass.ru/obschestvo/27154143",
+      "published_at": "Sun, 19 Apr 2026 12:36:46 +0300",
+      "url": "https://tass.ru/politika/27154419",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Премьер Малайзии заявил, что страна может договориться с РФ о закупках нефти",
-      "title_neutral": "Премьер Малайзии заявил, что страна может договориться с РФ о закупках нефти",
-      "excerpt": "Отношения с Россией по-прежнему хорошие, подчеркнул Анвар Ибрагим",
-      "recap_neutral": "Отношения с Россией по-прежнему хорошие, подчеркнул Анвар Ибрагим",
-      "main_idea": "Премьер Малайзии заявил, что страна может договориться с РФ о закупках нефти",
+      "title_original": "Захарова: реакция \"Яд Вашем\" на День памяти жертв геноцида непродуманна",
+      "title_neutral": "Захарова: реакция \"Яд Вашем\" на День памяти жертв геноцида непродуманна",
+      "excerpt": "Официальный представитель МИД РФ надеется, что это была случайная реакция",
+      "recap_neutral": "Официальный представитель МИД РФ надеется, что это была случайная реакция",
+      "main_idea": "Захарова: реакция \"Яд Вашем\" на День памяти жертв геноцида непродуманна",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 12:35:52 +0300",
+      "url": "https://tass.ru/politika/27154409",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Мишустин отметил вклад директора \"Михайловского\" в сохранение наследия Пушкина",
+      "title_neutral": "Мишустин отметил вклад директора \"Михайловского\" в сохранение наследия Пушкина",
+      "excerpt": "Под руководством Георгия Василевича внедряются интерактивные форматы, реализуются образовательные проекты, проводятся мероприятия, отметил премьер-министр РФ",
+      "recap_neutral": "Под руководством Георгия Василевича внедряются интерактивные форматы, реализуются образовательные проекты, проводятся мероприятия, отметил премьер-министр РФ",
+      "main_idea": "Мишустин отметил вклад директора \"Михайловского\" в сохранение наследия Пушкина",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 12:32:42 +0300",
+      "url": "https://tass.ru/kultura/27154401",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Чемпион ОИ Шалимов рассказал, что Старостин ставил его в пример футболистам",
+      "title_neutral": "Чемпион ОИ Шалимов рассказал, что Старостин ставил его в пример футболистам",
+      "excerpt": "Виктору Шалимову предлагали перейти в футбол после удачной игры за дубль красно-белых",
+      "recap_neutral": "Виктору Шалимову предлагали перейти в футбол после удачной игры за дубль красно-белых",
+      "main_idea": "Чемпион ОИ Шалимов рассказал, что Старостин ставил его в пример футболистам",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 12:31:51 +0300",
+      "url": "https://tass.ru/sport/27154405",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: полет в Москву в обход Латвии и Литвы Фицо может совершить тремя маршрутами",
+      "title_neutral": "ТАСС: полет в Москву в обход Латвии и Литвы Фицо может совершить тремя маршрутами",
+      "excerpt": "Премьер-министр Словакии ранее сообщил, что эти страны не позволят его самолету пролететь над своей территорией при перелете в РФ для участия в торжествах по случаю Дня Победы",
+      "recap_neutral": "Премьер-министр Словакии ранее сообщил, что эти страны не позволят его самолету пролететь над своей территорией при перелете в РФ для участия в торжествах по случаю Дня Победы",
+      "main_idea": "ТАСС: полет в Москву в обход Латвии и Литвы Фицо может совершить тремя маршрутами",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 11:18:11 +0300",
-      "url": "https://tass.ru/ekonomika/27154113",
+      "published_at": "Sun, 19 Apr 2026 12:27:45 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27154357",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Программу Дальневосточной ипотеки расширили на бойцов приграничных территорий",
-      "title_neutral": "Программу Дальневосточной ипотеки расширили на бойцов приграничных территорий",
-      "excerpt": "Она распространялась только на участников спецоперации",
-      "recap_neutral": "Она распространялась только на участников спецоперации",
-      "main_idea": "Программу Дальневосточной ипотеки расширили на бойцов приграничных территорий",
+      "title_original": "Эксперт Пипил рассказала, как продление снятия санкций США на нефть РФ влияет на Индию",
+      "title_neutral": "Эксперт Пипил рассказала, как продление снятия санкций США на нефть РФ влияет на Индию",
+      "excerpt": "Это играет ключевую роль в обеспечении краткосрочной энергетической безопасности южноазиатской республики, заявила индийский эксперт в области международной торговли",
+      "recap_neutral": "Это играет ключевую роль в обеспечении краткосрочной энергетической безопасности южноазиатской республики, заявила индийский эксперт в области международной торговли",
+      "main_idea": "Эксперт Пипил рассказала, как продление снятия санкций США на нефть РФ влияет на Индию",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 11:17:50 +0300",
-      "url": "https://tass.ru/obschestvo/27154081",
+      "published_at": "Sun, 19 Apr 2026 12:27:40 +0300",
+      "url": "https://tass.ru/ekonomika/27154377",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Армия Израиля заявила о гибели еще одного военного в Ливане",
-      "title_neutral": "Армия Израиля заявила о гибели еще одного военного в Ливане",
-      "excerpt": "Еще девять ранены",
-      "recap_neutral": "Еще девять ранены",
-      "main_idea": "Армия Израиля заявила о гибели еще одного военного в Ливане",
+      "title_original": "Чекунков: вопросы технологического развития ДФО обсудят на ВЭФ-2026",
+      "title_neutral": "Чекунков: вопросы технологического развития ДФО обсудят на ВЭФ-2026",
+      "excerpt": "Глава Минвостокразвития отметил, что форум должен собирать лучшие практики со всего мира и внедрять их на Дальнем Востоке и в Арктике",
+      "recap_neutral": "Глава Минвостокразвития отметил, что форум должен собирать лучшие практики со всего мира и внедрять их на Дальнем Востоке и в Арктике",
+      "main_idea": "Чекунков: вопросы технологического развития ДФО обсудят на ВЭФ-2026",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 12:15:55 +0300",
+      "url": "https://tass.ru/ekonomika/27154245",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Стрелок в Киеве уже привлекался к уголовной ответственности, но дело закрыли",
+      "title_neutral": "Стрелок в Киеве уже привлекался к уголовной ответственности, но дело закрыли",
+      "excerpt": "Дело по статье о нанесении легких телесных повреждений рассматривалось в Голосеевском районном суде Киева",
+      "recap_neutral": "Дело по статье о нанесении легких телесных повреждений рассматривалось в Голосеевском районном суде Киева",
+      "main_idea": "Стрелок в Киеве уже привлекался к уголовной ответственности, но дело закрыли",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 12:15:41 +0300",
+      "url": "https://tass.ru/proisshestviya/27154349",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Николаеве вновь произошел взрыв",
+      "title_neutral": "В Николаеве вновь произошел взрыв",
+      "excerpt": "В части Николаевской области звучат сирены воздушной тревоги",
+      "recap_neutral": "В части Николаевской области звучат сирены воздушной тревоги",
+      "main_idea": "В Николаеве вновь произошел взрыв",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 11:17:42 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27154175",
+      "published_at": "Sun, 19 Apr 2026 12:15:11 +0300",
+      "url": "https://tass.ru/proisshestviya/27154369",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Полтаве произошел взрыв",
-      "title_neutral": "В Полтаве произошел взрыв",
-      "excerpt": "В некоторых районах Полтавской области объявлена воздушная тревога",
-      "recap_neutral": "В некоторых районах Полтавской области объявлена воздушная тревога",
-      "main_idea": "В Полтаве произошел взрыв",
+      "title_original": "Лут: рост мировых цен на газ не затронет российских производителей удобрений",
+      "title_neutral": "Лут: рост мировых цен на газ не затронет российских производителей удобрений",
+      "excerpt": "Объемы сырья, и производственные мощности находятся на достаточном уровне, заявила министр сельского хозяйства России",
+      "recap_neutral": "Объемы сырья, и производственные мощности находятся на достаточном уровне, заявила министр сельского хозяйства России",
+      "main_idea": "Лут: рост мировых цен на газ не затронет российских производителей удобрений",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 12:14:05 +0300",
+      "url": "https://tass.ru/ekonomika/27154273",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ВСУ потеряли за сутки в зоне СВО порядка 1 170 военных",
+      "title_neutral": "ВСУ потеряли за сутки в зоне СВО порядка 1 170 военных",
+      "excerpt": "В зоне ответственности группировки войск \"Север\" потери составили более 165 украинских военнослужащих",
+      "recap_neutral": "В зоне ответственности группировки войск \"Север\" потери составили более 165 украинских военнослужащих",
+      "main_idea": "ВСУ потеряли за сутки в зоне СВО порядка 1 170 военных",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 11:15:15 +0300",
-      "url": "https://tass.ru/proisshestviya/27154167",
+      "published_at": "Sun, 19 Apr 2026 12:13:07 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27154343",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ушедшая из РФ компания Henkel зарегистрировала товарные знаки",
-      "title_neutral": "Ушедшая из РФ компания Henkel зарегистрировала товарные знаки",
-      "excerpt": "Речь идет о Schwarzkopf BRILLIANCE, Persil, X-tra, Pril, а также Blond ME",
-      "recap_neutral": "Речь идет о Schwarzkopf BRILLIANCE, Persil, X-tra, Pril, а также Blond ME",
-      "main_idea": "Ушедшая из РФ компания Henkel зарегистрировала товарные знаки",
+      "title_original": "ВС РФ ударили по объектам энергетики, используемым ВСУ",
+      "title_neutral": "ВС РФ ударили по объектам энергетики, используемым ВСУ",
+      "excerpt": "Удар был нанесен оперативно-тактической авиацией, ударными беспилотными летательными аппаратами, ракетными войсками и артиллерией",
+      "recap_neutral": "Удар был нанесен оперативно-тактической авиацией, ударными беспилотными летательными аппаратами, ракетными войсками и артиллерией",
+      "main_idea": "ВС РФ ударили по объектам энергетики, используемым ВСУ",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 11:14:24 +0300",
-      "url": "https://tass.ru/ekonomika/27154153",
+      "published_at": "Sun, 19 Apr 2026 12:09:25 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27154317",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Алтайском крае количество подтопленных домов снизилось до 114",
-      "title_neutral": "В Алтайском крае количество подтопленных домов снизилось до 114",
-      "excerpt": "Кроме того, подтоплены 288 приусадебных участков в 12 населенных пунктах",
-      "recap_neutral": "Кроме того, подтоплены 288 приусадебных участков в 12 населенных пунктах",
-      "main_idea": "В Алтайском крае количество подтопленных домов снизилось до 114",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 11:13:47 +0300",
-      "url": "https://tass.ru/proisshestviya/27154127",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В МВД рассказали, как не заразить телефон вредоносным ПО",
-      "title_neutral": "В МВД рассказали, как не заразить телефон вредоносным ПО",
-      "excerpt": "Рекомендуется загружать программное обеспечение только из официальных и верифицированных источников, использовать антивирусы, а также активировать механизмы многофакторной аутентификации",
-      "recap_neutral": "Рекомендуется загружать программное обеспечение только из официальных и верифицированных источников, использовать антивирусы, а также активировать механизмы многофакторной аутентификации",
-      "main_idea": "В МВД рассказали, как не заразить телефон вредоносным ПО",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 11:11:55 +0300",
-      "url": "https://tass.ru/obschestvo/27154133",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Минпросвещения назвали нецелесообразным продление учебного года",
-      "title_neutral": "В Минпросвещения назвали нецелесообразным продление учебного года",
-      "excerpt": "Министерство прокомментировало появившиеся в СМИ сообщения о введении так называемой пятой четверти",
-      "recap_neutral": "Министерство прокомментировало появившиеся в СМИ сообщения о введении так называемой пятой четверти",
-      "main_idea": "В Минпросвещения назвали нецелесообразным продление учебного года",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 11:09:39 +0300",
-      "url": "https://tass.ru/obschestvo/27154123",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Игнатенко считает, что только ТАСС рассказывает о том, что происходит на самом деле",
-      "title_neutral": "Игнатенко считает, что только ТАСС рассказывает о том, что происходит на самом деле",
-      "excerpt": "Экс-гендиректор агентства предупредил, что эту нить легко потерять, став еще одним \"агентством версий\"",
-      "recap_neutral": "Экс-гендиректор агентства предупредил, что эту нить легко потерять, став еще одним \"агентством версий\"",
-      "main_idea": "Игнатенко считает, что только ТАСС рассказывает о том, что происходит на самом деле",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 11:05:08 +0300",
-      "url": "https://tass.ru/obschestvo/27154089",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Chrome Web Store выявили более 100 вредоносных расширений для кражи данных",
-      "title_neutral": "В Chrome Web Store выявили более 100 вредоносных расширений для кражи данных",
-      "excerpt": "Такие расширения могут собирать данные учетных записей, внедрять скрытые функции управления браузером и получать доступ к активным веб-сеансам пользователей",
-      "recap_neutral": "Такие расширения могут собирать данные учетных записей, внедрять скрытые функции управления браузером и получать доступ к активным веб-сеансам пользователей",
-      "main_idea": "В Chrome Web Store выявили более 100 вредоносных расширений для кражи данных",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 11:02:55 +0300",
-      "url": "https://tass.ru/obschestvo/27154103",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Бойцы ВС РФ уничтожили укрепленные укрытия ВСУ",
-      "title_neutral": "Бойцы ВС РФ уничтожили укрепленные укрытия ВСУ",
-      "excerpt": "При применении FPV-дрона было уничтожено фортификационное сооружение вместе с находившейся в нем живой силой и военным имуществом",
-      "recap_neutral": "При применении FPV-дрона было уничтожено фортификационное сооружение вместе с находившейся в нем живой силой и военным имуществом",
-      "main_idea": "Бойцы ВС РФ уничтожили укрепленные укрытия ВСУ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 11:02:11 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27154093",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Российские штангисты на ЧЕ будут выступать в форме серого цвета",
-      "title_neutral": "Российские штангисты на ЧЕ будут выступать в форме серого цвета",
-      "excerpt": "Соревнования пройдут с 19 по 26 апреля",
-      "recap_neutral": "Соревнования пройдут с 19 по 26 апреля",
-      "main_idea": "Российские штангисты на ЧЕ будут выступать в форме серого цвета",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 11:02:08 +0300",
-      "url": "https://tass.ru/sport/27154101",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ВСУ атаковали Белгородскую область с помощью около 50 БПЛА за сутки",
-      "title_neutral": "ВСУ атаковали Белгородскую область с помощью около 50 БПЛА за сутки",
-      "excerpt": "По территории региона выпустили почти 15 боеприпасов",
-      "recap_neutral": "По территории региона выпустили почти 15 боеприпасов",
-      "main_idea": "ВСУ атаковали Белгородскую область с помощью около 50 БПЛА за сутки",
+      "title_original": "Пушков: РФ надо усилить работу с БРИКС, информируя о роли СССР во Второй мировой",
+      "title_neutral": "Пушков: РФ надо усилить работу с БРИКС, информируя о роли СССР во Второй мировой",
+      "excerpt": "Председатель комиссии Совфеда по информполитике отметил, что встречался со многими представителями стран БРИКС, и ни один из них не исходил из той \"ложной доктрины\", которую пытаются навязать западные государства",
+      "recap_neutral": "Председатель комиссии Совфеда по информполитике отметил, что встречался со многими представителями стран БРИКС, и ни один из них не исходил из той \"ложной доктрины\", которую пытаются навязать западные государства",
+      "main_idea": "Пушков: РФ надо усилить работу с БРИКС, информируя о роли СССР во Второй мировой",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 11:00:52 +0300",
-      "url": "https://tass.ru/proisshestviya/27154073",
+      "published_at": "Sun, 19 Apr 2026 12:09:18 +0300",
+      "url": "https://tass.ru/politika/27154289",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran War Live Updates: Iran Declares Strait of Hormuz Closed Again as Ships Report Attacks",
-      "title_neutral": "Iran War Live Updates: Iran Declares Strait of Hormuz Closed Again as Ships Report Attacks",
-      "excerpt": "Iran reversed course on reopening the strategic waterway, warning it would continue to block transit as long as the U.S. blockade of ships from Iranian ports remained in effect.",
-      "recap_neutral": "Iran reversed course on reopening the strategic waterway, warning it would continue to block transit as long as the U",
-      "main_idea": "Iran War Live Updates: Iran Declares Strait of Hormuz Closed Again as Ships Report Attacks",
+      "title_original": "Мамиашвили считает, что каждый борец сборной РФ способен выиграть медаль на ЧЕ",
+      "title_neutral": "Мамиашвили считает, что каждый борец сборной РФ способен выиграть медаль на ЧЕ",
+      "excerpt": "Чемпионат Европы по борьбе пройдет с 20 по 26 апреля",
+      "recap_neutral": "Чемпионат Европы по борьбе пройдет с 20 по 26 апреля",
+      "main_idea": "Мамиашвили считает, что каждый борец сборной РФ способен выиграть медаль на ЧЕ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 12:07:45 +0300",
+      "url": "https://tass.ru/sport/27154295",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran War Live Updates: Strait of Hormuz Largely Closed as Iran Says Parties Are Far From Final Deal",
+      "title_neutral": "Iran War Live Updates: Strait of Hormuz Largely Closed as Iran Says Parties Are Far From Final Deal",
+      "excerpt": "Iran reversed course on reopening the strategic waterway, warning it would block transit as long as the U.S. blockade of ships from Iranian ports remained in effect.",
+      "recap_neutral": "Iran reversed course on reopening the strategic waterway, warning it would block transit as long as the U",
+      "main_idea": "Iran War Live Updates: Strait of Hormuz Largely Closed as Iran Says Parties Are Far From Final Deal",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sun, 19 Apr 2026 08:20:21 +0000",
+      "published_at": "Sun, 19 Apr 2026 09:06:41 +0000",
       "url": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz",
       "lang": "en",
-      "bias_score": 49,
+      "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning",
+      "title_neutral": "In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning",
+      "excerpt": "The gas-rich Gulf nation is in a state of “strategic shock” after the war dealt a serious blow to its economy, sending ripples around the world.",
+      "recap_neutral": "The gas-rich Gulf nation is in a state of “strategic shock” after the war dealt a serious blow to its economy, sending ripples around the world",
+      "main_idea": "In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning",
+      "tags": [
+        "economy",
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 19 Apr 2026 09:02:20 +0000",
+      "url": "https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How Gen Z Protests Have Fared Around the World",
+      "title_neutral": "How Gen Z Protests Have Fared Around the World",
+      "excerpt": "Over the past year or so, young people have rallied across continents to oust old-guard governments. What’s happened since?",
+      "recap_neutral": "Over the past year or so, young people have rallied across continents to oust old-guard governments",
+      "main_idea": "How Gen Z Protests Have Fared Around the World",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 19 Apr 2026 09:02:09 +0000",
+      "url": "https://www.nytimes.com/2026/04/19/world/asia/gen-z-protests-success-fail-nepal-morocco-bangladesh.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Gen Z Looks to Nepal as a Test Case of Its Hopes",
+      "title_neutral": "Gen Z Looks to Nepal as a Test Case of Its Hopes",
+      "excerpt": "Many youth-led protests around the world have failed to bring meaningful change. But in Nepal, a new government is promising to do things differently.",
+      "recap_neutral": "Many youth-led protests around the world have failed to bring meaningful change",
+      "main_idea": "Gen Z Looks to Nepal as a Test Case of Its Hopes",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 19 Apr 2026 09:01:11 +0000",
+      "url": "https://www.nytimes.com/2026/04/19/world/asia/nepal-elections-gen-z-balen-shah.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Syrian Billionaires Needed a Favor in Washington. They Invoked the Trump Name.",
+      "title_neutral": "Syrian Billionaires Needed a Favor in Washington. They Invoked the Trump Name.",
+      "excerpt": "The attempt by the Khayyats to influence foreign policy while discussions are underway about potential Trump family deals is an increasingly common feature of the president’s second term.",
+      "recap_neutral": "The attempt by the Khayyats to influence foreign policy while discussions are underway about potential Trump family deals is an increasingly common feature of the president’s second term",
+      "main_idea": "Syrian Billionaires Needed a Favor in Washington. They Invoked the Trump Name.",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 19 Apr 2026 09:00:46 +0000",
+      "url": "https://www.nytimes.com/2026/04/19/us/politics/syrian-billionaires-needed-a-favor-in-washington-they-invoked-the-trump-name.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+      "title_neutral": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 19 Apr 2026 08:45:48 +0000",
+      "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -529,21 +610,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Here’s the latest.",
-      "title_neutral": "Here’s the latest.",
-      "excerpt": "",
-      "recap_neutral": "Here’s the latest.",
-      "main_idea": "Here’s the latest.",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sun, 19 Apr 2026 05:18:29 +0000",
-      "url": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz/heres-the-latest",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Australia's most-decorated soldier vows to fight war crime charges",
       "title_neutral": "Australia's most-decorated soldier vows to fight war crime charges",
       "excerpt": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.",
@@ -558,6 +624,23 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "School choice is booming in Iowa. Are students better off?",
+      "title_neutral": "School choice is booming in Iowa. Are students better off?",
+      "excerpt": "With school choice programs ascendant not just in Iowa but across the U.S., Cedar Rapids offers a preview of who wins and who loses when education meets the free market.",
+      "recap_neutral": "With school choice programs ascendant not just in Iowa but across the U",
+      "main_idea": "School choice is booming in Iowa. Are students better off?",
+      "tags": [
+        "economy"
+      ],
+      "source": "NPR",
+      "published_at": "Sun, 19 Apr 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/04/19/nx-s1-5683199/education-school-choice-iowa-students-charter-school-cedar-rapids",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1035,24 +1118,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A Mild-Mannered Pope Finds His Voice",
-      "title_neutral": "A Mild-Mannered Pope Finds His Voice",
-      "excerpt": "Leo XIV has had a reputation for being cautious. But since President Trump attacked him at the start of his Africa trip, he has been more combative.",
-      "recap_neutral": "Leo XIV has had a reputation for being cautious",
-      "main_idea": "A Mild-Mannered Pope Finds His Voice",
-      "tags": [
-        "politics",
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 18 Apr 2026 16:23:03 +0000",
-      "url": "https://www.nytimes.com/2026/04/18/world/europe/trump-pope-leo-iran.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
       "title_neutral": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
       "excerpt": "Comments",
@@ -1154,21 +1219,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Migrating from DigitalOcean to Hetzner",
-      "title_neutral": "Migrating from DigitalOcean to Hetzner",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Migrating from DigitalOcean to Hetzner",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 18 Apr 2026 13:29:04 +0000",
-      "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1351,21 +1401,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Born in south Lebanon, displaced to Beirut, two grandmothers reflect on Israeli invasions",
-      "title_neutral": "Born in south Lebanon, displaced to Beirut, two grandmothers reflect on Israeli invasions",
-      "excerpt": "They grew up amid olive groves in southern Lebanon. The son of one married the other's daughter. Now they're living temporarily in a vacant building in central Beirut, displaced many times.",
-      "recap_neutral": "They grew up amid olive groves in southern Lebanon",
-      "main_idea": "Born in south Lebanon, displaced to Beirut, two grandmothers reflect on Israeli invasions",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Sat, 18 Apr 2026 06:02:00 -0400",
-      "url": "https://www.npr.org/2026/04/18/nx-s1-5761904/lebanon-war-israel-hezbollah-displacement-ceasefire",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "The Proof of Usefulness Algorithm: Is It Good? Do People Use It?",
       "title_neutral": "The Proof of Usefulness Algorithm: Is It Good? Do People Use It?",
       "excerpt": "Bitcoin's consensus mechanism asks: Did you demonstrate sufficient computational commitment to deserve validating this block? Proof of Usefulness asks: Does this project create demonstrable value in the world? The architectural goal is the same in both cases — produce a score that cannot be easily…",
@@ -1410,23 +1445,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The 27-Year-Old Diplomat Waging Trump’s Cultural War With Europe",
-      "title_neutral": "The 27-Year-Old Diplomat Waging Trump’s Cultural War With Europe",
-      "excerpt": "Five years out of college, Samuel Samson has driven the Trump administration’s push to upend America’s postwar relationship with Europe.",
-      "recap_neutral": "Five years out of college, Samuel Samson has driven the Trump administration’s push to upend America’s postwar relationship with Europe",
-      "main_idea": "The 27-Year-Old Diplomat Waging Trump’s Cultural War With Europe",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 18 Apr 2026 03:29:27 +0000",
-      "url": "https://www.nytimes.com/2026/04/17/world/europe/trump-samson-europe.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1528,21 +1546,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Starmer’s Credibility Just Took Another Body Blow Over the Mandelson Scandal",
-      "title_neutral": "Starmer’s Credibility Just Took Another Body Blow Over the Mandelson Scandal",
-      "excerpt": "Prime Minister Keir Starmer appears to have been kept in the dark repeatedly over Peter Mandelson, the Jeffrey Epstein associate — fueling an image of weakness.",
-      "recap_neutral": "Prime Minister Keir Starmer appears to have been kept in the dark repeatedly over Peter Mandelson, the Jeffrey Epstein associate — fueling an image of weakness",
-      "main_idea": "Starmer’s Credibility Just Took Another Body Blow Over the Mandelson Scandal",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Fri, 17 Apr 2026 18:41:34 +0000",
-      "url": "https://www.nytimes.com/2026/04/17/world/europe/starmer-credibility-mandelson-epstein-scandal.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
