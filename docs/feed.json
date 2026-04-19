@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-04-19T07:15:43.581475+00:00",
+  "last_updated": "2026-04-19T08:30:36.475915+00:00",
   "items": [
-    {
-      "title_original": "Metatextual Literacy",
-      "title_neutral": "Metatextual Literacy",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Metatextual Literacy",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 15 Apr 2026 19:18:38 +0000",
-      "url": "https://www.jenn.site/metatextual-literacy/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
     {
       "title_original": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
       "title_neutral": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
@@ -149,11 +134,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The becquerel as an SI unit for request rate",
-      "title_neutral": "The becquerel as an SI unit for request rate",
+      "title_original": "SI Units for Request Rate (2024)",
+      "title_neutral": "SI Units for Request Rate (2024)",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "The becquerel as an SI unit for request rate",
+      "main_idea": "SI Units for Request Rate (2024)",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Thu, 16 Apr 2026 08:42:05 +0000",
@@ -197,281 +182,373 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "При атаке ВСУ на Таганрог повреждены коммерческие предприятия, колледж и машины",
-      "title_neutral": "При атаке ВСУ на Таганрог повреждены коммерческие предприятия, колледж и машины",
-      "excerpt": "Город подвергся воздушной атаке",
-      "recap_neutral": "Город подвергся воздушной атаке",
-      "main_idea": "При атаке ВСУ на Таганрог повреждены коммерческие предприятия, колледж и машины",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 10:14:42 +0300",
-      "url": "https://tass.ru/proisshestviya/27153953",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В ГД рассказали, как получить перерасчет при сбое умного счетчика",
-      "title_neutral": "В ГД рассказали, как получить перерасчет при сбое умного счетчика",
-      "excerpt": "Необходимо подать заявление в УК или ресурсоснабжающую организацию с указанием, что данные потребления электроэнергии кажутся завышенными, и потребовать проверить ИСУ",
-      "recap_neutral": "Необходимо подать заявление в УК или ресурсоснабжающую организацию с указанием, что данные потребления электроэнергии кажутся завышенными, и потребовать проверить ИСУ",
-      "main_idea": "В ГД рассказали, как получить перерасчет при сбое умного счетчика",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 10:12:35 +0300",
-      "url": "https://tass.ru/obschestvo/27153845",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Иркутске более 8,7 тыс. человек остались без тепла из-за аварии",
-      "title_neutral": "В Иркутске более 8,7 тыс. человек остались без тепла из-за аварии",
-      "excerpt": "Под отключение попали 71 многоквартирный жилой дом и 16 административных зданий",
-      "recap_neutral": "Под отключение попали 71 многоквартирный жилой дом и 16 административных зданий",
-      "main_idea": "В Иркутске более 8,7 тыс. человек остались без тепла из-за аварии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 10:09:47 +0300",
-      "url": "https://tass.ru/proisshestviya/27153823",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Певцов заявил о необходимости защищать зрителей от перекупщиков билетов",
-      "title_neutral": "Певцов заявил о необходимости защищать зрителей от перекупщиков билетов",
-      "excerpt": "Какой механизм следуют применять в данной ситуации, сказать трудно, отметил первый заместитель председателя комитета Госдумы по культуре",
-      "recap_neutral": "Какой механизм следуют применять в данной ситуации, сказать трудно, отметил первый заместитель председателя комитета Госдумы по культуре",
-      "main_idea": "Певцов заявил о необходимости защищать зрителей от перекупщиков билетов",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 10:09:22 +0300",
-      "url": "https://tass.ru/kultura/27153883",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лукашенко: в Белоруссии много хороших людей, которые в перспективе могут возглавить страну",
-      "title_neutral": "Лукашенко: в Белоруссии много хороших людей, которые в перспективе могут возглавить страну",
-      "excerpt": "",
-      "recap_neutral": "Лукашенко: в Белоруссии много хороших людей, которые в перспективе могут возглавить страну",
-      "main_idea": "Лукашенко: в Белоруссии много хороших людей, которые в перспективе могут возглавить страну",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 10:07:18 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27153933",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Яровая: День памяти жертв геноцида советского народа нужен для будущих поколений",
-      "title_neutral": "Яровая: День памяти жертв геноцида советского народа нужен для будущих поколений",
-      "excerpt": "Нравственным источником современной политики государства всегда является прошлое, отметила вице-спикер Госдумы",
-      "recap_neutral": "Нравственным источником современной политики государства всегда является прошлое, отметила вице-спикер Госдумы",
-      "main_idea": "Яровая: День памяти жертв геноцида советского народа нужен для будущих поколений",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 10:04:05 +0300",
-      "url": "https://tass.ru/obschestvo/27153869",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Тренер штангистки Гусаловой не поехал на ЧЕ из-за отказа в нейтральном статусе",
-      "title_neutral": "Тренер штангистки Гусаловой не поехал на ЧЕ из-за отказа в нейтральном статусе",
-      "excerpt": "Чемпионат Европы стартует в Батуми 19 апреля",
-      "recap_neutral": "Чемпионат Европы стартует в Батуми 19 апреля",
-      "main_idea": "Тренер штангистки Гусаловой не поехал на ЧЕ из-за отказа в нейтральном статусе",
+      "title_original": "В Кировской области количество подтопленных придомовых территорий возросло до 31",
+      "title_neutral": "В Кировской области количество подтопленных придомовых территорий возросло до 31",
+      "excerpt": "В регионе организовали адресную помощь",
+      "recap_neutral": "В регионе организовали адресную помощь",
+      "main_idea": "В Кировской области количество подтопленных придомовых территорий возросло до 31",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 10:01:26 +0300",
-      "url": "https://tass.ru/sport/27153891",
+      "published_at": "Sun, 19 Apr 2026 11:24:02 +0300",
+      "url": "https://tass.ru/proisshestviya/27154159",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Трамп назвал Израиль \"великолепным союзником\" США",
-      "title_neutral": "Трамп назвал Израиль \"великолепным союзником\" США",
-      "excerpt": "В отличие от других стран, показавших свое истинное лицо во время конфликта, еврейское государство сражается до последнего, указал американский лидер",
-      "recap_neutral": "В отличие от других стран, показавших свое истинное лицо во время конфликта, еврейское государство сражается до последнего, указал американский лидер",
-      "main_idea": "Трамп назвал Израиль \"великолепным союзником\" США",
+      "title_original": "В стратегию развития Дальнего Востока войдут вопросы климатической адаптации",
+      "title_neutral": "В стратегию развития Дальнего Востока войдут вопросы климатической адаптации",
+      "excerpt": "По словам главы Минвостокразвития Алексея Чекункова, серьезные риски для Севера несут повышение среднегодовых температур и таяние многолетней мерзлоты",
+      "recap_neutral": "По словам главы Минвостокразвития Алексея Чекункова, серьезные риски для Севера несут повышение среднегодовых температур и таяние многолетней мерзлоты",
+      "main_idea": "В стратегию развития Дальнего Востока войдут вопросы климатической адаптации",
       "tags": [
-        "conflict"
+        "tech",
+        "climate"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 10:00:15 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27153875",
+      "published_at": "Sun, 19 Apr 2026 11:21:09 +0300",
+      "url": "https://tass.ru/obschestvo/27154143",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Первая нестыковка и гибель экспедиции: героическая и трагическая история станции \"Салют-1\"",
-      "title_neutral": "Первая нестыковка и гибель экспедиции: героическая и трагическая история станции \"Салют-1\"",
-      "excerpt": "19 апреля 1971 года, 55 лет назад, ракета-носитель \"Протон-К\" вывела на околоземную орбиту первую в мире пилотируемую космическую станцию \"Салют\". За полгода своего существования станция успела принять одну экспедицию, однако открыла целое направление в освоении космоса человечеством. ТАСС вспомнил…",
-      "recap_neutral": "19 апреля 1971 года, 55 лет назад, ракета-носитель \"Протон-К\" вывела на околоземную орбиту первую в мире пилотируемую космическую станцию \"Салют\"",
-      "main_idea": "Первая нестыковка и гибель экспедиции: героическая и трагическая история станции \"Салют-1\"",
+      "title_original": "Премьер Малайзии заявил, что страна может договориться с РФ о закупках нефти",
+      "title_neutral": "Премьер Малайзии заявил, что страна может договориться с РФ о закупках нефти",
+      "excerpt": "Отношения с Россией по-прежнему хорошие, подчеркнул Анвар Ибрагим",
+      "recap_neutral": "Отношения с Россией по-прежнему хорошие, подчеркнул Анвар Ибрагим",
+      "main_idea": "Премьер Малайзии заявил, что страна может договориться с РФ о закупках нефти",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 10:00:01 +0300",
-      "url": "https://tass.ru/kosmos/27130303",
+      "published_at": "Sun, 19 Apr 2026 11:18:11 +0300",
+      "url": "https://tass.ru/ekonomika/27154113",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Внук де Голля: энергетические проблемы вызовут крупный экономический кризис",
-      "title_neutral": "Внук де Голля: энергетические проблемы вызовут крупный экономический кризис",
-      "excerpt": "Президент Фонда за мир и дружбу между народами считает неизбежными проблемы из-за роста госдолгов и инфляции на фоне ближневосточного конфликта",
-      "recap_neutral": "Президент Фонда за мир и дружбу между народами считает неизбежными проблемы из-за роста госдолгов и инфляции на фоне ближневосточного конфликта",
-      "main_idea": "Внук де Голля: энергетические проблемы вызовут крупный экономический кризис",
+      "title_original": "Программу Дальневосточной ипотеки расширили на бойцов приграничных территорий",
+      "title_neutral": "Программу Дальневосточной ипотеки расширили на бойцов приграничных территорий",
+      "excerpt": "Она распространялась только на участников спецоперации",
+      "recap_neutral": "Она распространялась только на участников спецоперации",
+      "main_idea": "Программу Дальневосточной ипотеки расширили на бойцов приграничных территорий",
       "tags": [
-        "politics",
-        "economy",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 11:17:50 +0300",
+      "url": "https://tass.ru/obschestvo/27154081",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Армия Израиля заявила о гибели еще одного военного в Ливане",
+      "title_neutral": "Армия Израиля заявила о гибели еще одного военного в Ливане",
+      "excerpt": "Еще девять ранены",
+      "recap_neutral": "Еще девять ранены",
+      "main_idea": "Армия Израиля заявила о гибели еще одного военного в Ливане",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 11:17:42 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27154175",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Полтаве произошел взрыв",
+      "title_neutral": "В Полтаве произошел взрыв",
+      "excerpt": "В некоторых районах Полтавской области объявлена воздушная тревога",
+      "recap_neutral": "В некоторых районах Полтавской области объявлена воздушная тревога",
+      "main_idea": "В Полтаве произошел взрыв",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 11:15:15 +0300",
+      "url": "https://tass.ru/proisshestviya/27154167",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ушедшая из РФ компания Henkel зарегистрировала товарные знаки",
+      "title_neutral": "Ушедшая из РФ компания Henkel зарегистрировала товарные знаки",
+      "excerpt": "Речь идет о Schwarzkopf BRILLIANCE, Persil, X-tra, Pril, а также Blond ME",
+      "recap_neutral": "Речь идет о Schwarzkopf BRILLIANCE, Persil, X-tra, Pril, а также Blond ME",
+      "main_idea": "Ушедшая из РФ компания Henkel зарегистрировала товарные знаки",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 11:14:24 +0300",
+      "url": "https://tass.ru/ekonomika/27154153",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Алтайском крае количество подтопленных домов снизилось до 114",
+      "title_neutral": "В Алтайском крае количество подтопленных домов снизилось до 114",
+      "excerpt": "Кроме того, подтоплены 288 приусадебных участков в 12 населенных пунктах",
+      "recap_neutral": "Кроме того, подтоплены 288 приусадебных участков в 12 населенных пунктах",
+      "main_idea": "В Алтайском крае количество подтопленных домов снизилось до 114",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 11:13:47 +0300",
+      "url": "https://tass.ru/proisshestviya/27154127",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В МВД рассказали, как не заразить телефон вредоносным ПО",
+      "title_neutral": "В МВД рассказали, как не заразить телефон вредоносным ПО",
+      "excerpt": "Рекомендуется загружать программное обеспечение только из официальных и верифицированных источников, использовать антивирусы, а также активировать механизмы многофакторной аутентификации",
+      "recap_neutral": "Рекомендуется загружать программное обеспечение только из официальных и верифицированных источников, использовать антивирусы, а также активировать механизмы многофакторной аутентификации",
+      "main_idea": "В МВД рассказали, как не заразить телефон вредоносным ПО",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 11:11:55 +0300",
+      "url": "https://tass.ru/obschestvo/27154133",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Минпросвещения назвали нецелесообразным продление учебного года",
+      "title_neutral": "В Минпросвещения назвали нецелесообразным продление учебного года",
+      "excerpt": "Министерство прокомментировало появившиеся в СМИ сообщения о введении так называемой пятой четверти",
+      "recap_neutral": "Министерство прокомментировало появившиеся в СМИ сообщения о введении так называемой пятой четверти",
+      "main_idea": "В Минпросвещения назвали нецелесообразным продление учебного года",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 11:09:39 +0300",
+      "url": "https://tass.ru/obschestvo/27154123",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Игнатенко считает, что только ТАСС рассказывает о том, что происходит на самом деле",
+      "title_neutral": "Игнатенко считает, что только ТАСС рассказывает о том, что происходит на самом деле",
+      "excerpt": "Экс-гендиректор агентства предупредил, что эту нить легко потерять, став еще одним \"агентством версий\"",
+      "recap_neutral": "Экс-гендиректор агентства предупредил, что эту нить легко потерять, став еще одним \"агентством версий\"",
+      "main_idea": "Игнатенко считает, что только ТАСС рассказывает о том, что происходит на самом деле",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 11:05:08 +0300",
+      "url": "https://tass.ru/obschestvo/27154089",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Chrome Web Store выявили более 100 вредоносных расширений для кражи данных",
+      "title_neutral": "В Chrome Web Store выявили более 100 вредоносных расширений для кражи данных",
+      "excerpt": "Такие расширения могут собирать данные учетных записей, внедрять скрытые функции управления браузером и получать доступ к активным веб-сеансам пользователей",
+      "recap_neutral": "Такие расширения могут собирать данные учетных записей, внедрять скрытые функции управления браузером и получать доступ к активным веб-сеансам пользователей",
+      "main_idea": "В Chrome Web Store выявили более 100 вредоносных расширений для кражи данных",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 11:02:55 +0300",
+      "url": "https://tass.ru/obschestvo/27154103",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Бойцы ВС РФ уничтожили укрепленные укрытия ВСУ",
+      "title_neutral": "Бойцы ВС РФ уничтожили укрепленные укрытия ВСУ",
+      "excerpt": "При применении FPV-дрона было уничтожено фортификационное сооружение вместе с находившейся в нем живой силой и военным имуществом",
+      "recap_neutral": "При применении FPV-дрона было уничтожено фортификационное сооружение вместе с находившейся в нем живой силой и военным имуществом",
+      "main_idea": "Бойцы ВС РФ уничтожили укрепленные укрытия ВСУ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 11:02:11 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27154093",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Российские штангисты на ЧЕ будут выступать в форме серого цвета",
+      "title_neutral": "Российские штангисты на ЧЕ будут выступать в форме серого цвета",
+      "excerpt": "Соревнования пройдут с 19 по 26 апреля",
+      "recap_neutral": "Соревнования пройдут с 19 по 26 апреля",
+      "main_idea": "Российские штангисты на ЧЕ будут выступать в форме серого цвета",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 19 Apr 2026 11:02:08 +0300",
+      "url": "https://tass.ru/sport/27154101",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ВСУ атаковали Белгородскую область с помощью около 50 БПЛА за сутки",
+      "title_neutral": "ВСУ атаковали Белгородскую область с помощью около 50 БПЛА за сутки",
+      "excerpt": "По территории региона выпустили почти 15 боеприпасов",
+      "recap_neutral": "По территории региона выпустили почти 15 боеприпасов",
+      "main_idea": "ВСУ атаковали Белгородскую область с помощью около 50 БПЛА за сутки",
+      "tags": [
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 09:57:56 +0300",
-      "url": "https://tass.ru/ekonomika/27153769",
+      "published_at": "Sun, 19 Apr 2026 11:00:52 +0300",
+      "url": "https://tass.ru/proisshestviya/27154073",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Ленобласти возложили цветы к памятнику жертвам нацистского геноцида",
-      "title_neutral": "В Ленобласти возложили цветы к памятнику жертвам нацистского геноцида",
-      "excerpt": "В церемонии приняли участие губернатор Ленинградской области Александр Дрозденко, руководитель Национального центра исторической памяти Елена Малышева и помощник президента Владимир Мединский",
-      "recap_neutral": "В церемонии приняли участие губернатор Ленинградской области Александр Дрозденко, руководитель Национального центра исторической памяти Елена Малышева и помощник президента Владимир Мединский",
-      "main_idea": "В Ленобласти возложили цветы к памятнику жертвам нацистского геноцида",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 09:54:52 +0300",
-      "url": "https://tass.ru/obschestvo/27152495",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Привалова считает, что скоро роботы смогут побить рекорд Усэйна Болта",
-      "title_neutral": "Привалова считает, что скоро роботы смогут побить рекорд Усэйна Болта",
-      "excerpt": "Ранее в Пекине робот-гуманоид принял участие в полумарафоне, побив рекорд человека",
-      "recap_neutral": "Ранее в Пекине робот-гуманоид принял участие в полумарафоне, побив рекорд человека",
-      "main_idea": "Привалова считает, что скоро роботы смогут побить рекорд Усэйна Болта",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 09:51:52 +0300",
-      "url": "https://tass.ru/sport/27153865",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Москве двух подростков задержали за драку в переходе станции \"Калужская\"",
-      "title_neutral": "В Москве двух подростков задержали за драку в переходе станции \"Калужская\"",
-      "excerpt": "Поводом стал словесный конфликт в вагоне",
-      "recap_neutral": "Поводом стал словесный конфликт в вагоне",
-      "main_idea": "В Москве двух подростков задержали за драку в переходе станции \"Калужская\"",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 09:49:57 +0300",
-      "url": "https://tass.ru/proisshestviya/27153861",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Дагестане остаются подтопленными более 50 жилых домов",
-      "title_neutral": "В Дагестане остаются подтопленными более 50 жилых домов",
-      "excerpt": "В пунктах временного размещения находятся 544 человека",
-      "recap_neutral": "В пунктах временного размещения находятся 544 человека",
-      "main_idea": "В Дагестане остаются подтопленными более 50 жилых домов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 09:43:55 +0300",
-      "url": "https://tass.ru/proisshestviya/27153807",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В ДНР система \"Купол Донбасса\" за сутки нейтрализовала 31 беспилотник ВСУ",
-      "title_neutral": "В ДНР система \"Купол Донбасса\" за сутки нейтрализовала 31 беспилотник ВСУ",
-      "excerpt": "Также уничтожили 19 БПЛА типа FPV",
-      "recap_neutral": "Также уничтожили 19 БПЛА типа FPV",
-      "main_idea": "В ДНР система \"Купол Донбасса\" за сутки нейтрализовала 31 беспилотник ВСУ",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 19 Apr 2026 09:40:46 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27153791",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Tensions Rise in Strait of Hormuz Over Ship Attacks and Iranian Threats",
-      "title_neutral": "Tensions Rise in Strait of Hormuz Over Ship Attacks and Iranian Threats",
-      "excerpt": "Iran’s Revolutionary Guards said they were closing the strait until the U.S. blockade is lifted. Two ships reported being hit as they tried to pass through the strait.",
-      "recap_neutral": "Iran’s Revolutionary Guards said they were closing the strait until the U",
-      "main_idea": "Tensions Rise in Strait of Hormuz Over Ship Attacks and Iranian Threats",
+      "title_original": "Iran War Live Updates: Iran Declares Strait of Hormuz Closed Again as Ships Report Attacks",
+      "title_neutral": "Iran War Live Updates: Iran Declares Strait of Hormuz Closed Again as Ships Report Attacks",
+      "excerpt": "Iran reversed course on reopening the strategic waterway, warning it would continue to block transit as long as the U.S. blockade of ships from Iranian ports remained in effect.",
+      "recap_neutral": "Iran reversed course on reopening the strategic waterway, warning it would continue to block transit as long as the U",
+      "main_idea": "Iran War Live Updates: Iran Declares Strait of Hormuz Closed Again as Ships Report Attacks",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sun, 19 Apr 2026 06:27:52 +0000",
-      "url": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
+      "published_at": "Sun, 19 Apr 2026 08:20:21 +0000",
+      "url": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz",
+      "lang": "en",
+      "bias_score": 49,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Pope Says News Outlets Misread Some of His Remarks as Criticism of Trump",
+      "title_neutral": "Pope Says News Outlets Misread Some of His Remarks as Criticism of Trump",
+      "excerpt": "Pope Leo responded directly on Monday to a presidential attack. But since then, he said, some of his statements during his Africa trip have been misconstrued.",
+      "recap_neutral": "Pope Leo responded directly on Monday to a presidential attack",
+      "main_idea": "Pope Says News Outlets Misread Some of His Remarks as Criticism of Trump",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 19 Apr 2026 08:14:11 +0000",
+      "url": "https://www.nytimes.com/2026/04/18/world/africa/pope-news-media-trump-africa.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Australia's most-decorated soldier vows to 'fight' war crime charges",
-      "title_neutral": "Australia's most-decorated soldier vows to 'fight' war crime charges",
+      "title_original": "Bodies of 50 infants dumped at Trinidad graveyard",
+      "title_neutral": "Bodies of 50 infants dumped at Trinidad graveyard",
+      "excerpt": "Police say a preliminary investigation shows it may be a case of an \"unlawful disposal of unclaimed corpses\".",
+      "recap_neutral": "Police say a preliminary investigation shows it may be a case of an \"unlawful disposal of unclaimed corpses\"",
+      "main_idea": "Bodies of 50 infants dumped at Trinidad graveyard",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 19 Apr 2026 07:49:45 GMT",
+      "url": "https://www.bbc.com/news/articles/ce8jl1271pjo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Pope says 'tyrants' speech was not aimed at Trump",
+      "title_neutral": "Pope says 'tyrants' speech was not aimed at Trump",
+      "excerpt": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
+      "recap_neutral": "The pontiff says his remarks have been misinterpreted after a spat with the US president",
+      "main_idea": "Pope says 'tyrants' speech was not aimed at Trump",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 19 Apr 2026 07:47:35 GMT",
+      "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The RAM shortage could last years",
+      "title_neutral": "The RAM shortage could last years",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The RAM shortage could last years",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 19 Apr 2026 07:18:44 +0000",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Keep Pushing: We Get 10 More Days to Reform Section 702",
+      "title_neutral": "Keep Pushing: We Get 10 More Days to Reform Section 702",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Keep Pushing: We Get 10 More Days to Reform Section 702",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 19 Apr 2026 07:05:17 +0000",
+      "url": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Here’s the latest.",
+      "title_neutral": "Here’s the latest.",
+      "excerpt": "",
+      "recap_neutral": "Here’s the latest.",
+      "main_idea": "Here’s the latest.",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sun, 19 Apr 2026 05:18:29 +0000",
+      "url": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz/heres-the-latest",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Australia's most-decorated soldier vows to fight war crime charges",
+      "title_neutral": "Australia's most-decorated soldier vows to fight war crime charges",
       "excerpt": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.",
       "recap_neutral": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week",
-      "main_idea": "Australia's most-decorated soldier vows to 'fight' war crime charges",
+      "main_idea": "Australia's most-decorated soldier vows to fight war crime charges",
       "tags": [
         "conflict"
       ],
@@ -534,6 +611,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "The world in which IPv6 was a good design",
+      "title_neutral": "The world in which IPv6 was a good design",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The world in which IPv6 was a good design",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 19 Apr 2026 02:50:43 +0000",
+      "url": "https://apenwarr.ca/log/20170810",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "The Little Probe That Could: Why Voyager 1 Matters, and Why NASA Just Switched Part of It Off",
       "title_neutral": "The Little Probe That Could: Why Voyager 1 Matters, and Why NASA Just Switched Part of It Off",
       "excerpt": "This week, NASA announced it had shut down one of that spacecraft's remaining science instruments — not because the mission has failed, but to keep it alive a little longer.",
@@ -551,6 +643,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "'The weapons were loud, but there was always music': Sudanese band play on through the war",
+      "title_neutral": "'The weapons were loud, but there was always music': Sudanese band play on through the war",
+      "excerpt": "One of Sudan's most popular bands, Aswat Almadina, recall being in the studio when the war broke out three years ago.",
+      "recap_neutral": "One of Sudan's most popular bands, Aswat Almadina, recall being in the studio when the war broke out three years ago",
+      "main_idea": "'The weapons were loud, but there was always music': Sudanese band play on through the war",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 18 Apr 2026 23:09:49 GMT",
+      "url": "https://www.bbc.com/news/articles/cx2ddjv90v9o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested",
       "title_neutral": "Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested",
       "excerpt": "The Sussexes' four-day tour of Australia appears to have fallen flat with some.",
@@ -560,21 +669,6 @@
       "source": "BBC World",
       "published_at": "Sat, 18 Apr 2026 23:09:30 GMT",
       "url": "https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "'Croatia, but cheaper': The quirky holiday spots on trend for 2026",
-      "title_neutral": "'Croatia, but cheaper': The quirky holiday spots on trend for 2026",
-      "excerpt": "Montenegro and Albania are among the places rising in popularity for Britons seeking a holiday away from tourist traps.",
-      "recap_neutral": "Montenegro and Albania are among the places rising in popularity for Britons seeking a holiday away from tourist traps",
-      "main_idea": "'Croatia, but cheaper': The quirky holiday spots on trend for 2026",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 18 Apr 2026 23:08:45 GMT",
-      "url": "https://www.bbc.com/news/articles/c747r0l8n7do?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -613,21 +707,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
-      "title_neutral": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 18 Apr 2026 22:46:13 +0000",
-      "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
       "title_neutral": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
       "excerpt": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue.",
@@ -643,25 +722,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Pope Says News Outlets Misread Some of His Remarks as Criticism of Trump",
-      "title_neutral": "Pope Says News Outlets Misread Some of His Remarks as Criticism of Trump",
-      "excerpt": "Pope Leo responded directly on Monday to a presidential attack. But since then, he said, some of his statements during his Africa trip have been misconstrued.",
-      "recap_neutral": "Pope Leo responded directly on Monday to a presidential attack",
-      "main_idea": "Pope Says News Outlets Misread Some of His Remarks as Criticism of Trump",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 18 Apr 2026 21:07:28 +0000",
-      "url": "https://www.nytimes.com/2026/04/18/world/africa/pope-news-media-trump-africa.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -762,21 +822,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Optimizing Ruby Path Methods",
-      "title_neutral": "Optimizing Ruby Path Methods",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Optimizing Ruby Path Methods",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 18 Apr 2026 20:42:29 +0000",
-      "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -893,21 +938,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
-      "title_neutral": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
-      "excerpt": "Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory.",
-      "recap_neutral": "Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory",
-      "main_idea": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 18 Apr 2026 18:21:19 GMT",
-      "url": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "At least six killed in Kyiv as gunman opens fire and takes hostages",
       "title_neutral": "At least six killed in Kyiv as gunman opens fire and takes hostages",
       "excerpt": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
@@ -970,24 +1000,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Pope says 'tyrants' speech was not aimed at Trump",
-      "title_neutral": "Pope says 'tyrants' speech was not aimed at Trump",
-      "excerpt": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
-      "recap_neutral": "The pontiff says his remarks have been misinterpreted after a spat with the US president",
-      "main_idea": "Pope says 'tyrants' speech was not aimed at Trump",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 18 Apr 2026 16:44:39 GMT",
-      "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1497,23 +1509,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "‘I Just Want to Be Back’: Thousands Rush South in Lebanon Under Cease-Fire",
-      "title_neutral": "‘I Just Want to Be Back’: Thousands Rush South in Lebanon Under Cease-Fire",
-      "excerpt": "Lebanese people who had been displaced by fighting expressed a mix of excitement and uncertainty about a pause in Israel’s campaign against Hezbollah.",
-      "recap_neutral": "Lebanese people who had been displaced by fighting expressed a mix of excitement and uncertainty about a pause in Israel’s campaign against Hezbollah",
-      "main_idea": "‘I Just Want to Be Back’: Thousands Rush South in Lebanon Under Cease-Fire",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 17 Apr 2026 22:39:33 +0000",
-      "url": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-traffic-south.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
