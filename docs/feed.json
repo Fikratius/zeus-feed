@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T15:28:17.956639+00:00",
+  "last_updated": "2026-05-04T17:11:41.366620+00:00",
   "items": [
     {
       "title_original": "Jailed Hong Kong pro-democracy activist Jimmy Lai wins free speech award in Germany",
@@ -80,21 +80,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-      "title_neutral": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 03 May 2026 22:13:20 +0000",
-      "url": "https://github.com/aattaran/deepclaude",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -199,21 +184,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "title_neutral": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 03 May 2026 18:03:14 +0000",
-      "url": "https://partyon.xyz/@nullagent/116499715071759135",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "File-to-Markdown Conversion Is Becoming an AI Input Layer: Here's Why",
       "title_neutral": "File-to-Markdown Conversion Is Becoming an AI Input Layer: Here's Why",
       "excerpt": "Document conversion is no longer just a utility step. In AI systems, it becomes an input layer that normalizes messy files into reviewable Markdown before retrieval, agents, or automation use them. MarkItDown is useful because it preserves enough structure for reasoning while keeping trust boundari…",
@@ -313,144 +283,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Concern for jailed Iranian Nobel laureate as brother fears she is dying",
-      "title_neutral": "Concern for jailed Iranian Nobel laureate as brother fears she is dying",
-      "excerpt": "Her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.",
-      "recap_neutral": "Her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health",
-      "main_idea": "Concern for jailed Iranian Nobel laureate as brother fears she is dying",
-      "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 03 May 2026 14:44:04 GMT",
-      "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Building Software for AI Agents and Human Users",
-      "title_neutral": "Building Software for AI Agents and Human Users",
-      "excerpt": "AI Agents are changing how business software is used. Instead of relying only on screens, clicks, and human interpretation, applications now need structured actions, clear context, governed access, and audit-ready workflows. This article explains the shift from human UX to AI UX, the business value…",
-      "recap_neutral": "AI Agents are changing how business software is used",
-      "main_idea": "Building Software for AI Agents and Human Users",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 03 May 2026 14:18:06 GMT",
-      "url": "https://hackernoon.com/building-software-for-ai-agents-and-human-users?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Bloom Filters Are the Reason Your Distributed Cache Is Lying to You",
-      "title_neutral": "Bloom Filters Are the Reason Your Distributed Cache Is Lying to You",
-      "excerpt": "Bloom filters in distributed caching introduce false positives that lead to wasted network calls and higher latency, especially at scale. By making them importance-aware, we significantly reduce false positives and improve latency, cache efficiency, and overall system performance.",
-      "recap_neutral": "Bloom filters in distributed caching introduce false positives that lead to wasted network calls and higher latency, especially at scale",
-      "main_idea": "Bloom Filters Are the Reason Your Distributed Cache Is Lying to You",
-      "tags": [
-        "conflict"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 03 May 2026 14:09:56 GMT",
-      "url": "https://hackernoon.com/bloom-filters-are-the-reason-your-distributed-cache-is-lying-to-you?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Designing High-Performance Workflow Systems with SLA and Agent Processing",
-      "title_neutral": "Designing High-Performance Workflow Systems with SLA and Agent Processing",
-      "excerpt": "This article explains how workflow engines evolve from reliability tools into latency-sensitive control planes. It highlights the importance of enforcing SLA deadlines, minimizing orchestration paths, bounding event history, and designing agents for scalable execution. The key takeaway is that perf…",
-      "recap_neutral": "This article explains how workflow engines evolve from reliability tools into latency-sensitive control planes",
-      "main_idea": "Designing High-Performance Workflow Systems with SLA and Agent Processing",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 03 May 2026 14:06:12 GMT",
-      "url": "https://hackernoon.com/designing-high-performance-workflow-systems-with-sla-and-agent-processing?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The TechBeat: How ClawBank Is Turning Bureaucratic Paperwork Into the Next Open API for AI Agents (5/3/2026)",
-      "title_neutral": "The TechBeat: How ClawBank Is Turning Bureaucratic Paperwork Into the Next Open API for AI Agents (5/3/2026)",
-      "excerpt": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here . ## Why AI Agents Need Self-Updating Data Infrastructure to Stay Intelligent By @dailyabay [ 5 Min read…",
-      "recap_neutral": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here",
-      "main_idea": "The TechBeat: How ClawBank Is Turning Bureaucratic Paperwork Into the Next Open API for AI Agents (5/3/2026)",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 03 May 2026 14:00:47 GMT",
-      "url": "https://hackernoon.com/5-3-2026-techbeat?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How to Build a Reactive SPA by Using PHP, Twig, and JavaScript via Stimulus: Part Two",
-      "title_neutral": "How to Build a Reactive SPA by Using PHP, Twig, and JavaScript via Stimulus: Part Two",
-      "excerpt": "If we were using React, this is where we would typically reach for a heavy library like react-beautiful-dnd, set up a complex Redux store or context provider to manage the optimistic state, and write custom WebSocket connection logic to handle real-time events.",
-      "recap_neutral": "If we were using React, this is where we would typically reach for a heavy library like react-beautiful-dnd, set up a complex Redux store or context provider to manage the optimistic state, and write custom WebSocket co…",
-      "main_idea": "How to Build a Reactive SPA by Using PHP, Twig, and JavaScript via Stimulus: Part Two",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sun, 03 May 2026 14:00:12 GMT",
-      "url": "https://hackernoon.com/how-to-build-a-reactive-spa-by-using-php-twig-and-javascript-via-stimulus-part-two?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "55 Blog Posts To Learn About Data Structures And Algorithms",
-      "title_neutral": "55 Blog Posts To Learn About Data Structures And Algorithms",
-      "excerpt": "Let's learn about Data Structures And Algorithms via these 55 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. Fundamental concepts in computer science dealing with organizing and pro…",
-      "recap_neutral": "Let's learn about Data Structures And Algorithms via these 55 free blog posts",
-      "main_idea": "55 Blog Posts To Learn About Data Structures And Algorithms",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 03 May 2026 14:00:05 GMT",
-      "url": "https://hackernoon.com/55-blog-posts-to-learn-about-data-structures-and-algorithms?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
-      "title_neutral": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
-      "excerpt": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
-      "recap_neutral": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones",
-      "main_idea": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 03 May 2026 13:43:20 GMT",
-      "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Two US service members missing after military exercises in Morocco",
       "title_neutral": "Two US service members missing after military exercises in Morocco",
       "excerpt": "Search and rescue operation launched after service members reported missing near south-western city of Tan Tan Two US service members are missing in south-western Morocco after taking part in annual multinational military exercises in the North African country, the United States Africa Command (Afr…",
@@ -460,109 +292,6 @@
       "source": "The Guardian",
       "published_at": "Sun, 03 May 2026 12:23:59 GMT",
       "url": "https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "What to Know About Elections in West Bengal and Other Indian States",
-      "title_neutral": "What to Know About Elections in West Bengal and Other Indian States",
-      "excerpt": "Vote counting starts on Monday after over 154 million people participated in elections for state legislatures last month. The contests can tilt the balance of power for the whole country.",
-      "recap_neutral": "Vote counting starts on Monday after over 154 million people participated in elections for state legislatures last month",
-      "main_idea": "What to Know About Elections in West Bengal and Other Indian States",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 03 May 2026 10:10:24 +0000",
-      "url": "https://www.nytimes.com/2026/05/03/world/asia/india-elections-modi-bjp-what-to-know.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-      "title_neutral": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-      "excerpt": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
-      "recap_neutral": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence",
-      "main_idea": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 03 May 2026 08:41:23 GMT",
-      "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-      "title_neutral": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-      "excerpt": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
-      "recap_neutral": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous",
-      "main_idea": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 02 May 2026 23:19:27 GMT",
-      "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-      "title_neutral": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-      "excerpt": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\".",
-      "recap_neutral": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\"",
-      "main_idea": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 02 May 2026 23:17:17 GMT",
-      "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "World's biggest RC A380 [video]",
-      "title_neutral": "World's biggest RC A380 [video]",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "World's biggest RC A380 [video]",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 02 May 2026 18:04:28 +0000",
-      "url": "https://www.youtube.com/watch?v=wr9YLGbhxng",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Zambia cancels world’s largest human rights and tech summit days before start",
-      "title_neutral": "Zambia cancels world’s largest human rights and tech summit days before start",
-      "excerpt": "Government blocks RightsCon 2026 conference saying it did not ‘align with national values’ The world’s largest conference on human rights and technology has been cancelled just days before it was due to start after the Zambian government told organisers it did not align with “national values”. Zamb…",
-      "recap_neutral": "Government blocks RightsCon 2026 conference saying it did not ‘align with national values’ The world’s largest conference on human rights and technology has been cancelled just days before it was due to start after the…",
-      "main_idea": "Zambia cancels world’s largest human rights and tech summit days before start",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Sat, 02 May 2026 11:00:24 GMT",
-      "url": "https://www.theguardian.com/global-development/2026/may/02/zambia-cancels-rightscon-summit-largest-human-rights-technology-conference",
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
@@ -601,21 +330,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Texico: Learn the principles of programming without even touching a computer",
-      "title_neutral": "Texico: Learn the principles of programming without even touching a computer",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Texico: Learn the principles of programming without even touching a computer",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 02 May 2026 04:34:40 +0000",
-      "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Cuba says Trump’s fresh sanctions on its economy amount to ‘collective punishment’",
       "title_neutral": "Cuba says Trump’s fresh sanctions on its economy amount to ‘collective punishment’",
       "excerpt": "The US sanctions target people operating in broad sections of Cuban economy, including energy, defence and mining Cuba’s government has said new sanctions imposed on the island by Donald Trump amounted to “collective punishment”, as an enormous 1 May procession outside the American embassy in Havan…",
@@ -635,265 +349,475 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Владимира Беспалого назначили постпредом Белоруссии при ОДКБ",
-      "title_neutral": "Владимира Беспалого назначили постпредом Белоруссии при ОДКБ",
-      "excerpt": "На основании еще одного указа от должности постпреда освобожден Александр Гриневич",
-      "recap_neutral": "На основании еще одного указа от должности постпреда освобожден Александр Гриневич",
-      "main_idea": "Владимира Беспалого назначили постпредом Белоруссии при ОДКБ",
-      "tags": [
-        "tech"
-      ],
+      "title_original": "МО Литвы: истребители НАТО в апреле 20 раз сопровождали военные самолеты РФ",
+      "title_neutral": "МО Литвы: истребители НАТО в апреле 20 раз сопровождали военные самолеты РФ",
+      "excerpt": "В январе силы альянса прибегли к этой процедуре 7 раз, в феврале - 13 раз, в марте - 19 раз",
+      "recap_neutral": "В январе силы альянса прибегли к этой процедуре 7 раз, в феврале - 13 раз, в марте - 19 раз",
+      "main_idea": "МО Литвы: истребители НАТО в апреле 20 раз сопровождали военные самолеты РФ",
+      "tags": [],
       "source": "ТАСС",
-      "published_at": "Mon, 04 May 2026 18:24:46 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27304241",
+      "published_at": "Mon, 04 May 2026 20:09:00 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27305003",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ТАСС: актер Валерий Филонов умер во время операции",
-      "title_neutral": "ТАСС: актер Валерий Филонов умер во время операции",
-      "excerpt": "По информации из окружения артиста, у него не выдержало сердце",
-      "recap_neutral": "По информации из окружения артиста, у него не выдержало сердце",
-      "main_idea": "ТАСС: актер Валерий Филонов умер во время операции",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 04 May 2026 18:21:54 +0300",
-      "url": "https://tass.ru/obschestvo/27304195",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Эмиратские военные зафиксировали запуск четырех крылатых ракет из Ирана",
-      "title_neutral": "Эмиратские военные зафиксировали запуск четырех крылатых ракет из Ирана",
+      "title_original": "Иран опровергает утверждения, что США потопили несколько иранских катеров",
+      "title_neutral": "Иран опровергает утверждения, что США потопили несколько иранских катеров",
       "excerpt": "",
-      "recap_neutral": "Эмиратские военные зафиксировали запуск четырех крылатых ракет из Ирана",
-      "main_idea": "Эмиратские военные зафиксировали запуск четырех крылатых ракет из Ирана",
+      "recap_neutral": "Иран опровергает утверждения, что США потопили несколько иранских катеров",
+      "main_idea": "Иран опровергает утверждения, что США потопили несколько иранских катеров",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Mon, 04 May 2026 18:20:13 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27304203",
+      "published_at": "Mon, 04 May 2026 20:02:37 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27304963",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ПВО сбила еще два летевших на Москву БПЛА",
-      "title_neutral": "ПВО сбила еще два летевших на Москву БПЛА",
+      "title_original": "По улицам Кирова 9 мая пронесут вышитое именами ветеранов 50-метровое полотно",
+      "title_neutral": "По улицам Кирова 9 мая пронесут вышитое именами ветеранов 50-метровое полотно",
+      "excerpt": "Утром 9 мая в городе состоится торжественное прохождение войск Кировского гарнизона",
+      "recap_neutral": "Утром 9 мая в городе состоится торжественное прохождение войск Кировского гарнизона",
+      "main_idea": "По улицам Кирова 9 мая пронесут вышитое именами ветеранов 50-метровое полотно",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 04 May 2026 20:00:53 +0300",
+      "url": "https://tass.ru/obschestvo/27304953",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Березуцкий считает, что \"Уралу\" тяжело рассчитывать на прямой выход в РПЛ",
+      "title_neutral": "Березуцкий считает, что \"Уралу\" тяжело рассчитывать на прямой выход в РПЛ",
+      "excerpt": "Команда занимает третье место в турнирной таблице Первой лиги и отстает на четыре очка от идущей второй \"Родины\"",
+      "recap_neutral": "Команда занимает третье место в турнирной таблице Первой лиги и отстает на четыре очка от идущей второй \"Родины\"",
+      "main_idea": "Березуцкий считает, что \"Уралу\" тяжело рассчитывать на прямой выход в РПЛ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 04 May 2026 19:58:25 +0300",
+      "url": "https://tass.ru/sport/27304951",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Президент Хорватии: ЕС стал проектом по созданию немецких танков",
+      "title_neutral": "Президент Хорватии: ЕС стал проектом по созданию немецких танков",
+      "excerpt": "Это не закончится ничем хорошим, уверен Зоран Миланович",
+      "recap_neutral": "Это не закончится ничем хорошим, уверен Зоран Миланович",
+      "main_idea": "Президент Хорватии: ЕС стал проектом по созданию немецких танков",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 04 May 2026 19:55:33 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27304935",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ЛНР за три года реализовали десятки молодежных проектов на 12 млн рублей",
+      "title_neutral": "В ЛНР за три года реализовали десятки молодежных проектов на 12 млн рублей",
+      "excerpt": "В регионе создают все условия для самореализации молодежи, отметил глава республики Леонид Пасечник",
+      "recap_neutral": "В регионе создают все условия для самореализации молодежи, отметил глава республики Леонид Пасечник",
+      "main_idea": "В ЛНР за три года реализовали десятки молодежных проектов на 12 млн рублей",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 04 May 2026 19:54:55 +0300",
+      "url": "https://tass.ru/obschestvo/27304901",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Фицо не видит смысла возобновлять поставки электричества на Украину",
+      "title_neutral": "Фицо не видит смысла возобновлять поставки электричества на Украину",
+      "excerpt": "Премьер-министр Словакии добавил, что во время его встречи с Владимиром Зеленским вопрос \"не обсуждался\"",
+      "recap_neutral": "Премьер-министр Словакии добавил, что во время его встречи с Владимиром Зеленским вопрос \"не обсуждался\"",
+      "main_idea": "Фицо не видит смысла возобновлять поставки электричества на Украину",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 04 May 2026 19:53:53 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27304915",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AP: ВМС США потопили шесть иранских катеров в Ормузском проливе",
+      "title_neutral": "AP: ВМС США потопили шесть иранских катеров в Ормузском проливе",
+      "excerpt": "Они якобы представляли угрозу для торговых судов",
+      "recap_neutral": "Они якобы представляли угрозу для торговых судов",
+      "main_idea": "AP: ВМС США потопили шесть иранских катеров в Ормузском проливе",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 04 May 2026 19:53:48 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27304927",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МИД ОАЭ заявил о праве ответить на атаки Ирана",
+      "title_neutral": "МИД ОАЭ заявил о праве ответить на атаки Ирана",
+      "excerpt": "Дипведомство также возложило на Тегеран \"полную ответственность за эти вероломные нападения и их последствия\"",
+      "recap_neutral": "Дипведомство также возложило на Тегеран \"полную ответственность за эти вероломные нападения и их последствия\"",
+      "main_idea": "МИД ОАЭ заявил о праве ответить на атаки Ирана",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 04 May 2026 19:49:59 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27304907",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Саратова ввели ограничения",
+      "title_neutral": "В аэропорту Саратова ввели ограничения",
+      "excerpt": "Они необходимы для обеспечения безопасности полетов",
+      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
+      "main_idea": "В аэропорту Саратова ввели ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 04 May 2026 19:49:22 +0300",
+      "url": "https://tass.ru/obschestvo/27304903",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Производитель Baikal Pearl заявил о безопасности заблокированной к продаже партии",
+      "title_neutral": "Производитель Baikal Pearl заявил о безопасности заблокированной к продаже партии",
+      "excerpt": "В компании подчеркнули, что вся продукция бренда, представленная на рынке, имеет действующие декларации о соответствии и верифицирована в национальной системе прослеживаемости \"Честный знак\"",
+      "recap_neutral": "В компании подчеркнули, что вся продукция бренда, представленная на рынке, имеет действующие декларации о соответствии и верифицирована в национальной системе прослеживаемости \"Честный знак\"",
+      "main_idea": "Производитель Baikal Pearl заявил о безопасности заблокированной к продаже партии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 04 May 2026 19:47:28 +0300",
+      "url": "https://tass.ru/ekonomika/27304771",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: ОАЭ пока не вводили ограничений на использование воздушного пространства",
+      "title_neutral": "ТАСС: ОАЭ пока не вводили ограничений на использование воздушного пространства",
+      "excerpt": "Министерство обороны страны сообщило о фиксации запуска четырех крылатых ракет со стороны Ирана",
+      "recap_neutral": "Министерство обороны страны сообщило о фиксации запуска четырех крылатых ракет со стороны Ирана",
+      "main_idea": "ТАСС: ОАЭ пока не вводили ограничений на использование воздушного пространства",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 04 May 2026 19:46:30 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27304895",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Парки \"Россия - моя история\" проведут акции и концерты к 9 мая",
+      "title_neutral": "Парки \"Россия - моя история\" проведут акции и концерты к 9 мая",
+      "excerpt": "На ВДНХ пройдет концерт песен военных лет с участием ведущих исполнителей",
+      "recap_neutral": "На ВДНХ пройдет концерт песен военных лет с участием ведущих исполнителей",
+      "main_idea": "Парки \"Россия - моя история\" проведут акции и концерты к 9 мая",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 04 May 2026 19:46:17 +0300",
+      "url": "https://tass.ru/obschestvo/27302839",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "NBC: в США цена на бензин выросла до $4,39 за галлон из-за войны с Ираном",
+      "title_neutral": "NBC: в США цена на бензин выросла до $4,39 за галлон из-за войны с Ираном",
+      "excerpt": "Это самый большой однодневный скачок с момента объявления перемирия 7 апреля",
+      "recap_neutral": "Это самый большой однодневный скачок с момента объявления перемирия 7 апреля",
+      "main_idea": "NBC: в США цена на бензин выросла до $4,39 за галлон из-за войны с Ираном",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 04 May 2026 19:45:51 +0300",
+      "url": "https://tass.ru/ekonomika/27304789",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Под Калининградом двоих подростков ударило электротоком на ЛЭП",
+      "title_neutral": "Под Калининградом двоих подростков ударило электротоком на ЛЭП",
+      "excerpt": "Пострадавших доставили в больницу",
+      "recap_neutral": "Пострадавших доставили в больницу",
+      "main_idea": "Под Калининградом двоих подростков ударило электротоком на ЛЭП",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 04 May 2026 19:44:31 +0300",
+      "url": "https://tass.ru/proisshestviya/27304869",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran War Live Updates: Attacks in Gulf Threaten to Reignite Conflict",
+      "title_neutral": "Iran War Live Updates: Attacks in Gulf Threaten to Reignite Conflict",
       "excerpt": "",
-      "recap_neutral": "ПВО сбила еще два летевших на Москву БПЛА",
-      "main_idea": "ПВО сбила еще два летевших на Москву БПЛА",
+      "recap_neutral": "Iran War Live Updates: Attacks in Gulf Threaten to Reignite Conflict",
+      "main_idea": "Iran War Live Updates: Attacks in Gulf Threaten to Reignite Conflict",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 04 May 2026 17:11:28 +0000",
+      "url": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Three Russian diplomats expelled from Austria over spying accusations",
+      "title_neutral": "Three Russian diplomats expelled from Austria over spying accusations",
+      "excerpt": "They gathered information using a \"forest of antennas\" installed on top of diplomatic buildings, the foreign minister says.",
+      "recap_neutral": "They gathered information using a \"forest of antennas\" installed on top of diplomatic buildings, the foreign minister says",
+      "main_idea": "Three Russian diplomats expelled from Austria over spying accusations",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 04 May 2026 18:19:36 +0300",
-      "url": "https://tass.ru/proisshestviya/27304197",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Mon, 04 May 2026 16:58:56 GMT",
+      "url": "https://www.bbc.com/news/articles/c5yrwny111xo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Карелии рассказали о состоянии пострадавшей в ДТП на трассе \"Кола\"",
-      "title_neutral": "В Карелии рассказали о состоянии пострадавшей в ДТП на трассе \"Кола\"",
-      "excerpt": "Медики оценили его как стабильно тяжелое",
-      "recap_neutral": "Медики оценили его как стабильно тяжелое",
-      "main_idea": "В Карелии рассказали о состоянии пострадавшей в ДТП на трассе \"Кола\"",
+      "title_original": "Britney Spears pleads guilty to reckless driving after arrest",
+      "title_neutral": "Britney Spears pleads guilty to reckless driving after arrest",
+      "excerpt": "The 44-year-old will avoid jail time after her arrest in California earlier this year.",
+      "recap_neutral": "The 44-year-old will avoid jail time after her arrest in California earlier this year",
+      "main_idea": "Britney Spears pleads guilty to reckless driving after arrest",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Mon, 04 May 2026 18:18:09 +0300",
-      "url": "https://tass.ru/obschestvo/27304191",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Mon, 04 May 2026 16:41:28 GMT",
+      "url": "https://www.bbc.com/news/articles/ce9p09e5vnro?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Премьер Хорватии: эскалация ситуации в Ормузском проливе навредит экономике",
-      "title_neutral": "Премьер Хорватии: эскалация ситуации в Ормузском проливе навредит экономике",
-      "excerpt": "Андрей Пленкович отметил, что это повлияет на цены на энергоносители и усилит инфляционное давление",
-      "recap_neutral": "Андрей Пленкович отметил, что это повлияет на цены на энергоносители и усилит инфляционное давление",
-      "main_idea": "Премьер Хорватии: эскалация ситуации в Ормузском проливе навредит экономике",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 04 May 2026 18:15:53 +0300",
-      "url": "https://tass.ru/ekonomika/27304181",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ЕК не будет финансировать выпуск солнечных инверторов компаниями из КНР и РФ",
-      "title_neutral": "ЕК не будет финансировать выпуск солнечных инверторов компаниями из КНР и РФ",
-      "excerpt": "По информации европейского издания Politico, такое решение объясняется опасением \"нарушения работы критической инфраструктуры Евросоюза иностранными субъектами\"",
-      "recap_neutral": "По информации европейского издания Politico, такое решение объясняется опасением \"нарушения работы критической инфраструктуры Евросоюза иностранными субъектами\"",
-      "main_idea": "ЕК не будет финансировать выпуск солнечных инверторов компаниями из КНР и РФ",
+      "title_original": "Former New York City mayor Rudy Giuliani recovering from pneumonia and 'now breathing on his own'",
+      "title_neutral": "Former New York City mayor Rudy Giuliani recovering from pneumonia and 'now breathing on his own'",
+      "excerpt": "The ex-New York mayor 'remains in critical but stable condition', according to his spokesman.",
+      "recap_neutral": "The ex-New York mayor 'remains in critical but stable condition', according to his spokesman",
+      "main_idea": "Former New York City mayor Rudy Giuliani recovering from pneumonia and 'now breathing on his own'",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Mon, 04 May 2026 18:12:19 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27304151",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Mon, 04 May 2026 16:27:32 GMT",
+      "url": "https://www.bbc.com/news/articles/cpvpnve1r24o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Горловке из-за детонации суббоеприпасов пострадали два человека",
-      "title_neutral": "В Горловке из-за детонации суббоеприпасов пострадали два человека",
-      "excerpt": "В их числе подросток",
-      "recap_neutral": "В их числе подросток",
-      "main_idea": "В Горловке из-за детонации суббоеприпасов пострадали два человека",
+      "title_original": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+      "title_neutral": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+      "excerpt": "Mayor Burkhard Jung said a suspect was detained and the motive was unclear.",
+      "recap_neutral": "Mayor Burkhard Jung said a suspect was detained and the motive was unclear",
+      "main_idea": "Two killed and many injured after car driven into crowd in German city of Leipzig",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Mon, 04 May 2026 18:11:00 +0300",
-      "url": "https://tass.ru/proisshestviya/27304159",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Mon, 04 May 2026 16:24:50 GMT",
+      "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Москве ребенок выжил после падения с пятого этажа",
-      "title_neutral": "В Москве ребенок выжил после падения с пятого этажа",
-      "excerpt": "По предварительным данным, мальчик остался без присмотра взрослых",
-      "recap_neutral": "По предварительным данным, мальчик остался без присмотра взрослых",
-      "main_idea": "В Москве ребенок выжил после падения с пятого этажа",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 04 May 2026 18:09:40 +0300",
-      "url": "https://tass.ru/proisshestviya/27304125",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "МИД Греции и ФРГ приняли декларацию об установлении стратегического партнерства",
-      "title_neutral": "МИД Греции и ФРГ приняли декларацию об установлении стратегического партнерства",
-      "excerpt": "В документе отмечается, что Греция и Германия поддерживают продолжающиеся усилия по укреплению многосторонних решений путем повышения эффективности и результативности ООН",
-      "recap_neutral": "В документе отмечается, что Греция и Германия поддерживают продолжающиеся усилия по укреплению многосторонних решений путем повышения эффективности и результативности ООН",
-      "main_idea": "МИД Греции и ФРГ приняли декларацию об установлении стратегического партнерства",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 04 May 2026 18:05:24 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27304117",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "У малой планеты за орбитой Нептуна впервые обнаружили атмосферу",
-      "title_neutral": "У малой планеты за орбитой Нептуна впервые обнаружили атмосферу",
-      "excerpt": "До этого Плутон считался единственным транснептуновым объектом, у которого есть атмосфера",
-      "recap_neutral": "До этого Плутон считался единственным транснептуновым объектом, у которого есть атмосфера",
-      "main_idea": "У малой планеты за орбитой Нептуна впервые обнаружили атмосферу",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 04 May 2026 18:04:05 +0300",
-      "url": "https://tass.ru/kosmos/27304115",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На фестиваль молодежи подали заявки более 100 тыс. человек из 191 страны",
-      "title_neutral": "На фестиваль молодежи подали заявки более 100 тыс. человек из 191 страны",
-      "excerpt": "Мероприятие пройдет в Екатеринбурге",
-      "recap_neutral": "Мероприятие пройдет в Екатеринбурге",
-      "main_idea": "На фестиваль молодежи подали заявки более 100 тыс. человек из 191 страны",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 04 May 2026 18:03:37 +0300",
-      "url": "https://tass.ru/obschestvo/27303683",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Хуснуллин: более 6,5 млн человек проголосовали за объекты благоустройства в РФ",
-      "title_neutral": "Хуснуллин: более 6,5 млн человек проголосовали за объекты благоустройства в РФ",
-      "excerpt": "Наиболее активными стали жители Санкт-Петербурга, Республики Башкортостан и Свердловской области, сообщил вице-премьер",
-      "recap_neutral": "Наиболее активными стали жители Санкт-Петербурга, Республики Башкортостан и Свердловской области, сообщил вице-премьер",
-      "main_idea": "Хуснуллин: более 6,5 млн человек проголосовали за объекты благоустройства в РФ",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 04 May 2026 18:02:41 +0300",
-      "url": "https://tass.ru/obschestvo/27304093",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Жога: молодое поколение стремится к изучению России",
-      "title_neutral": "Жога: молодое поколение стремится к изучению России",
-      "excerpt": "Более 100 тыс. заявок поступило на участие в Международном фестивале молодежи",
-      "recap_neutral": "Более 100 тыс",
-      "main_idea": "Жога: молодое поколение стремится к изучению России",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 04 May 2026 18:02:15 +0300",
-      "url": "https://tass.ru/obschestvo/27304103",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Писториус: отказ США от размещения ракет создает пробел в оборонных возможностях",
-      "title_neutral": "Писториус: отказ США от размещения ракет создает пробел в оборонных возможностях",
-      "excerpt": "Министр обороны ФРГ пояснил, что размещение в Германии американских Tomahawk задумывалось как переходное решение на период, пока европейцы не создадут собственные сопоставимые системы",
-      "recap_neutral": "Министр обороны ФРГ пояснил, что размещение в Германии американских Tomahawk задумывалось как переходное решение на период, пока европейцы не создадут собственные сопоставимые системы",
-      "main_idea": "Писториус: отказ США от размещения ракет создает пробел в оборонных возможностях",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 04 May 2026 18:00:50 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27304085",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran War Live Updates: Uncertainty in Strait Escalates as U.S. and Iran Trade Threats",
-      "title_neutral": "Iran War Live Updates: Uncertainty in Strait Escalates as U.S. and Iran Trade Threats",
-      "excerpt": "",
-      "recap_neutral": "Iran War Live Updates: Uncertainty in Strait Escalates as U.S. and Iran Trade Threats",
-      "main_idea": "Iran War Live Updates: Uncertainty in Strait Escalates as U.S. and Iran Trade Threats",
+      "title_original": "Europeans Prepare for a More Dangerous World in a Time of Economic Upheaval",
+      "title_neutral": "Europeans Prepare for a More Dangerous World in a Time of Economic Upheaval",
+      "excerpt": "A stalwart on defense spending, Poland is training its citizens in civil defense while balancing their jobs and families.",
+      "recap_neutral": "A stalwart on defense spending, Poland is training its citizens in civil defense while balancing their jobs and families",
+      "main_idea": "Europeans Prepare for a More Dangerous World in a Time of Economic Upheaval",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Mon, 04 May 2026 15:23:34 +0000",
-      "url": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy",
+      "published_at": "Mon, 04 May 2026 16:15:05 +0000",
+      "url": "https://www.nytimes.com/2026/05/04/business/poland-civil-defense-training.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "title_neutral": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "excerpt": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established.",
+      "recap_neutral": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established",
+      "main_idea": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Mon, 04 May 2026 16:07:57 GMT",
+      "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Meet Modulate: HackerNoon Company of the Week",
+      "title_neutral": "Meet Modulate: HackerNoon Company of the Week",
+      "excerpt": "Modulate is building tools that analyze and moderate voice conversations in real time, helping platforms handle toxicity, detect deepfakes, and understand speech as it happens.",
+      "recap_neutral": "Modulate is building tools that analyze and moderate voice conversations in real time, helping platforms handle toxicity, detect deepfakes, and understand speech as it happens",
+      "main_idea": "Meet Modulate: HackerNoon Company of the Week",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Mon, 04 May 2026 16:00:05 GMT",
+      "url": "https://hackernoon.com/meet-modulate-hackernoon-company-of-the-week?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage",
+      "title_neutral": "Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage",
+      "excerpt": "Heidi Alexander says part of answer to strait of Hormuz crisis is importing more fuel from US and west Africa A refinery in Nigeria accused of dismissing workers for joining a union has emerged as key to the UK government’s hopes of saving the summer holiday amid a jet fuel shortage. Heidi Alexande…",
+      "recap_neutral": "Heidi Alexander says part of answer to strait of Hormuz crisis is importing more fuel from US and west Africa A refinery in Nigeria accused of dismissing workers for joining a union has emerged as key to the UK governme…",
+      "main_idea": "Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Mon, 04 May 2026 15:58:29 GMT",
+      "url": "https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "GitHub Is Down",
+      "title_neutral": "GitHub Is Down",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "GitHub Is Down",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 04 May 2026 15:53:21 +0000",
+      "url": "https://www.githubstatus.com/incidents/72q3n8yxthcy",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "New alliances shakes up Nigerian political landscape",
+      "title_neutral": "New alliances shakes up Nigerian political landscape",
+      "excerpt": "Peter Obi and Rabiu Kwankwaso, who came third and fourth respectively in the last elections, switch parties.",
+      "recap_neutral": "Peter Obi and Rabiu Kwankwaso, who came third and fourth respectively in the last elections, switch parties",
+      "main_idea": "New alliances shakes up Nigerian political landscape",
+      "tags": [
+        "politics"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 04 May 2026 15:47:31 GMT",
+      "url": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Alberta voter list leak is a potential public safety disaster",
+      "title_neutral": "Alberta voter list leak is a potential public safety disaster",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Alberta voter list leak is a potential public safety disaster",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 04 May 2026 15:47:27 +0000",
+      "url": "https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Mark Carney Pulls Canada Closer to Europe as Both Struggle With Trump",
+      "title_neutral": "Mark Carney Pulls Canada Closer to Europe as Both Struggle With Trump",
+      "excerpt": "At a summit of European leaders, the Canadian prime minister was a special guest offering deals and friendship to jittery allies.",
+      "recap_neutral": "At a summit of European leaders, the Canadian prime minister was a special guest offering deals and friendship to jittery allies",
+      "main_idea": "Mark Carney Pulls Canada Closer to Europe as Both Struggle With Trump",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Mon, 04 May 2026 15:45:04 +0000",
+      "url": "https://www.nytimes.com/2026/05/04/world/canada/carney-europe-trump.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "title_neutral": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "tags": [
+        "economy"
+      ],
+      "source": "Hacker News",
+      "published_at": "Mon, 04 May 2026 15:32:46 +0000",
+      "url": "https://www.nber.org/papers/w35117",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -914,36 +838,48 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Europeans Prepare for a More Dangerous World in a Time of Economic Upheaval",
-      "title_neutral": "Europeans Prepare for a More Dangerous World in a Time of Economic Upheaval",
-      "excerpt": "A stalwart on defense spending, Poland is training its citizens in civil defense while balancing their jobs and families.",
-      "recap_neutral": "A stalwart on defense spending, Poland is training its citizens in civil defense while balancing their jobs and families",
-      "main_idea": "Europeans Prepare for a More Dangerous World in a Time of Economic Upheaval",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 04 May 2026 15:12:29 +0000",
-      "url": "https://www.nytimes.com/2026/05/04/business/poland-civil-defense-training.html",
+      "title_original": "I tracked 7,700 UK petrol stations every 10 minutes for 3 months",
+      "title_neutral": "I tracked 7,700 UK petrol stations every 10 minutes for 3 months",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "I tracked 7,700 UK petrol stations every 10 minutes for 3 months",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 04 May 2026 15:15:21 +0000",
+      "url": "https://www.fuelinsight.co.uk",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Three dead in suspected virus outbreak on Atlantic cruise ship",
-      "title_neutral": "Three dead in suspected virus outbreak on Atlantic cruise ship",
-      "excerpt": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established.",
-      "recap_neutral": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established",
-      "main_idea": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "title_original": "GameStop makes $55.5bn takeover offer for eBay",
+      "title_neutral": "GameStop makes $55.5bn takeover offer for eBay",
+      "excerpt": "GameStop's boss Ryan Cohen says he sees potential to make eBay a much bigger rival to Amazon.",
+      "recap_neutral": "GameStop's boss Ryan Cohen says he sees potential to make eBay a much bigger rival to Amazon",
+      "main_idea": "GameStop makes $55.5bn takeover offer for eBay",
       "tags": [],
       "source": "BBC World",
-      "published_at": "Mon, 04 May 2026 15:03:13 GMT",
-      "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 04 May 2026 15:12:39 GMT",
+      "url": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+      "title_neutral": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 04 May 2026 15:10:41 +0000",
+      "url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -959,6 +895,21 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Pomiferous: The most extensive apples (pommes) database",
+      "title_neutral": "Pomiferous: The most extensive apples (pommes) database",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Pomiferous: The most extensive apples (pommes) database",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 04 May 2026 14:47:41 +0000",
+      "url": "https://pomiferous.com/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1027,6 +978,40 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "The TechBeat: Deepseek-v4-pro Model: A Beginner's Guide (5/4/2026)",
+      "title_neutral": "The TechBeat: Deepseek-v4-pro Model: A Beginner's Guide (5/4/2026)",
+      "excerpt": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here . ## The Rise of App Bros and the Fall of Thoughtful Product Design By @laumski [ 3 Min read ] AI makes b…",
+      "recap_neutral": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here",
+      "main_idea": "The TechBeat: Deepseek-v4-pro Model: A Beginner's Guide (5/4/2026)",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 04 May 2026 14:01:03 GMT",
+      "url": "https://hackernoon.com/5-4-2026-techbeat?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "500 Blog Posts To Learn About Data",
+      "title_neutral": "500 Blog Posts To Learn About Data",
+      "excerpt": "Let's learn about Data via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. Data is the king, queen, oil, sun, and the moon. 1. 14 Best Tableau Datasets for Practicing Data…",
+      "recap_neutral": "Let's learn about Data via these 500 free blog posts",
+      "main_idea": "500 Blog Posts To Learn About Data",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 04 May 2026 14:00:55 GMT",
+      "url": "https://hackernoon.com/500-blog-posts-to-learn-about-data?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Pakistan Says It Helped Iranian Crew From Ship That U.S. Seized",
       "title_neutral": "Pakistan Says It Helped Iranian Crew From Ship That U.S. Seized",
       "excerpt": "Describing the transfer of the crew from the MV Touska cargo ship back to Iran as a ‘confidence-building measure’ between U.S. and Iranian officials, Pakistan again plays a mediating role.",
@@ -1062,23 +1047,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "New alliances shakes up Nigerian political landscape",
-      "title_neutral": "New alliances shakes up Nigerian political landscape",
-      "excerpt": "Peter Obi and Rabiu Kwankwaso, who came third and fourth respectively in the last elections, switch parties.",
-      "recap_neutral": "Peter Obi and Rabiu Kwankwaso, who came third and fourth respectively in the last elections, switch parties",
-      "main_idea": "New alliances shakes up Nigerian political landscape",
-      "tags": [
-        "politics"
-      ],
-      "source": "BBC World",
-      "published_at": "Mon, 04 May 2026 13:41:37 GMT",
-      "url": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
       "title_neutral": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
       "excerpt": "Air defenses in the Russian capital were breached as Ukraine expands long-range strikes.",
@@ -1094,25 +1062,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
-      "title_neutral": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
-      "tags": [
-        "economy",
-        "tech",
-        "climate"
-      ],
-      "source": "Hacker News",
-      "published_at": "Mon, 04 May 2026 13:13:52 +0000",
-      "url": "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1146,6 +1095,71 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "DAG Workflow Engine",
+      "title_neutral": "DAG Workflow Engine",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "DAG Workflow Engine",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 04 May 2026 12:32:00 +0000",
+      "url": "https://github.com/vivekg13186/Daisy-DAG",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Supreme Court gives abortion pill mifepristone a 1-week reprieve from a major change",
+      "title_neutral": "Supreme Court gives abortion pill mifepristone a 1-week reprieve from a major change",
+      "excerpt": "The Supreme Court says rules that allow patients to get the abortion pill mifepristone through the mail can stay the same for at least a week.",
+      "recap_neutral": "The Supreme Court says rules that allow patients to get the abortion pill mifepristone through the mail can stay the same for at least a week",
+      "main_idea": "Supreme Court gives abortion pill mifepristone a 1-week reprieve from a major change",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 04 May 2026 12:15:13 -0400",
+      "url": "https://www.npr.org/2026/05/04/nx-s1-5810510/supreme-court-mifepristone-appeals-telehealth",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The UAE says Iran resumes attacks as the U.S. moves to reopen the Strait of Hormuz",
+      "title_neutral": "The UAE says Iran resumes attacks as the U.S. moves to reopen the Strait of Hormuz",
+      "excerpt": "The U.S. military said it helped two merchant ships transit the Strait of Hormuz, and the United Arab Emirates said it was fending off Iranian missiles and drones.",
+      "recap_neutral": "The U",
+      "main_idea": "The UAE says Iran resumes attacks as the U.S. moves to reopen the Strait of Hormuz",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 04 May 2026 12:08:35 -0400",
+      "url": "https://www.npr.org/2026/05/04/nx-s1-5810508/iran-war-updates",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "IBM’s Granite Embedding Model Gets a Multilingual Upgrade",
+      "title_neutral": "IBM’s Granite Embedding Model Gets a Multilingual Upgrade",
+      "excerpt": "IBM’s Granite Embedding 311M model supports 200+ languages, long-context retrieval, code search, and production-ready vector search.",
+      "recap_neutral": "IBM’s Granite Embedding 311M model supports 200+ languages, long-context retrieval, code search, and production-ready vector search",
+      "main_idea": "IBM’s Granite Embedding Model Gets a Multilingual Upgrade",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Mon, 04 May 2026 11:59:59 GMT",
+      "url": "https://hackernoon.com/ibms-granite-embedding-model-gets-a-multilingual-upgrade?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Modi's BJP conquers Bengal, one of India's toughest political frontiers",
       "title_neutral": "Modi's BJP conquers Bengal, one of India's toughest political frontiers",
       "excerpt": "West Bengal’s verdict could reshape not just the state’s politics, but the future trajectory of Modi’s BJP.",
@@ -1158,23 +1172,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Why Almost Everyone Loses–Except a Few Sharks–On Prediction Markets",
-      "title_neutral": "Why Almost Everyone Loses–Except a Few Sharks–On Prediction Markets",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Why Almost Everyone Loses–Except a Few Sharks–On Prediction Markets",
-      "tags": [
-        "economy"
-      ],
-      "source": "Hacker News",
-      "published_at": "Mon, 04 May 2026 11:49:16 +0000",
-      "url": "https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1208,6 +1205,40 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Integrating External ML Models Into Pega Decisioning Systems",
+      "title_neutral": "Integrating External ML Models Into Pega Decisioning Systems",
+      "excerpt": "External models in Pega CDH work best as specialized scoring components, not decision replacements nail the metadata contract, keep scoring endpoints lean, and let the NBA strategy blend model scores with business rules and eligibility policy.",
+      "recap_neutral": "External models in Pega CDH work best as specialized scoring components, not decision replacements nail the metadata contract, keep scoring endpoints lean, and let the NBA strategy blend model scores with business rules…",
+      "main_idea": "Integrating External ML Models Into Pega Decisioning Systems",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 04 May 2026 10:59:59 GMT",
+      "url": "https://hackernoon.com/integrating-external-ml-models-into-pega-decisioning-systems?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Machine That Doesn't Need a Cage",
+      "title_neutral": "The Machine That Doesn't Need a Cage",
+      "excerpt": "Most AI systems rely on safety layers to control harmful behavior after training. Shekhar Natarajan argues that approach is flawed. His company, Orchestro.AI, built “Angelic Intelligence,” a system designed to prevent harmful outcomes at the architectural level using multi-agent consensus. As regul…",
+      "recap_neutral": "Most AI systems rely on safety layers to control harmful behavior after training",
+      "main_idea": "The Machine That Doesn't Need a Cage",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 04 May 2026 10:44:50 GMT",
+      "url": "https://hackernoon.com/the-machine-that-doesnt-need-a-cage?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
       "title_neutral": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
       "excerpt": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
@@ -1224,21 +1255,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trademark violation: Fake Notepad++ for Mac",
-      "title_neutral": "Trademark violation: Fake Notepad++ for Mac",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Trademark violation: Fake Notepad++ for Mac",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 04 May 2026 09:40:06 +0000",
-      "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1289,23 +1305,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Former New York City mayor Rudy Giuliani in critical condition in hospital",
-      "title_neutral": "Former New York City mayor Rudy Giuliani in critical condition in hospital",
-      "excerpt": "The long-time champion of Trump and former New York mayor is in hospital, according to his spokesman.",
-      "recap_neutral": "The long-time champion of Trump and former New York mayor is in hospital, according to his spokesman",
-      "main_idea": "Former New York City mayor Rudy Giuliani in critical condition in hospital",
-      "tags": [
-        "health"
-      ],
-      "source": "BBC World",
-      "published_at": "Mon, 04 May 2026 08:43:06 GMT",
-      "url": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1372,11 +1371,26 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Here's how medication abortion works with just one drug that's still fully available",
-      "title_neutral": "Here's how medication abortion works with just one drug that's still fully available",
-      "excerpt": "A federal appeals court ruling restricts telemedicine access to the abortion drug mifepristone for the whole country, at least temporarily. But another drug that remains available is safe and effective at ending early pregnancy.",
-      "recap_neutral": "A federal appeals court ruling restricts telemedicine access to the abortion drug mifepristone for the whole country, at least temporarily",
-      "main_idea": "Here's how medication abortion works with just one drug that's still fully available",
+      "title_original": "Three dead after monster truck crashes into crowd",
+      "title_neutral": "Three dead after monster truck crashes into crowd",
+      "excerpt": "At least 38 people were injured when the vehicle ploughed into the crowd at a show in Colombia.",
+      "recap_neutral": "At least 38 people were injured when the vehicle ploughed into the crowd at a show in Colombia",
+      "main_idea": "Three dead after monster truck crashes into crowd",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Mon, 04 May 2026 07:45:13 GMT",
+      "url": "https://www.bbc.com/news/articles/czx2d54wwr4o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Here's how medication abortion works with just one drug",
+      "title_neutral": "Here's how medication abortion works with just one drug",
+      "excerpt": "The Supreme Court on Monday said that telemedicine access to the abortion drug mifepristone can stay — for at least a week. But as mifepristone faces court challenges, another drug that remains available is safe and effective at ending early pregnancy.",
+      "recap_neutral": "The Supreme Court on Monday said that telemedicine access to the abortion drug mifepristone can stay — for at least a week",
+      "main_idea": "Here's how medication abortion works with just one drug",
       "tags": [
         "tech"
       ],
@@ -1489,23 +1503,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Bill aims to stop 'claim sharks' from targeting disabled vets after NPR investigation",
-      "title_neutral": "Bill aims to stop 'claim sharks' from targeting disabled vets after NPR investigation",
-      "excerpt": "The bipartisan bill would block companies from using auto-dialers to harvest private information about disabled veterans. The firms charge vets for a service lawmakers say is supposed to be free.",
-      "recap_neutral": "The bipartisan bill would block companies from using auto-dialers to harvest private information about disabled veterans",
-      "main_idea": "Bill aims to stop 'claim sharks' from targeting disabled vets after NPR investigation",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Mon, 04 May 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/05/04/nx-s1-5719493/veterans-disabilities-claims-congress-legislation",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Trump's power of political retribution will be tested this week in Indiana primary",
       "title_neutral": "Trump's power of political retribution will be tested this week in Indiana primary",
       "excerpt": "President Trump has thrown his support behind challengers to Republican state senators who opposed his redistricting push.",
@@ -1517,21 +1514,6 @@
       "source": "NPR",
       "published_at": "Mon, 04 May 2026 05:00:00 -0400",
       "url": "https://www.npr.org/2026/05/04/nx-s1-5788979/trump-indiana-primary-redistricting-retribution-midterm-election",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The oldest millennials are 45! This tool helps plan for longevity",
-      "title_neutral": "The oldest millennials are 45! This tool helps plan for longevity",
-      "excerpt": "The oldest millennials are turning 45 this year. The oldest Gen Xers are now 60. So how prepared will they be to thrive in the decades ahead? A new tool helps people assess beyond just savings.",
-      "recap_neutral": "The oldest millennials are turning 45 this year",
-      "main_idea": "The oldest millennials are 45! This tool helps plan for longevity",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Mon, 04 May 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/05/04/nx-s1-5787940/tool-survey-helps-plan-aging-longevity-retirement",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
