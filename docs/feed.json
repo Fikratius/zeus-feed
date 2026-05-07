@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-05-07T17:44:10.202995+00:00",
+  "last_updated": "2026-05-07T19:39:01.079018+00:00",
   "items": [
-    {
-      "title_original": "SQLite Is a Library of Congress Recommended Storage Format",
-      "title_neutral": "SQLite Is a Library of Congress Recommended Storage Format",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "SQLite Is a Library of Congress Recommended Storage Format",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 06 May 2026 21:58:43 +0000",
-      "url": "https://sqlite.org/locrsf.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
     {
       "title_original": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
       "title_neutral": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
@@ -66,21 +51,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "World Cup Dynamic Ticket Pricing Drives Argentine Soccer Fans To Extremes",
-      "title_neutral": "World Cup Dynamic Ticket Pricing Drives Argentine Soccer Fans To Extremes",
-      "excerpt": "Dynamic ticket pricing has made this year’s tournament the most expensive in history, pushing Argentine fans to extremes.",
-      "recap_neutral": "Dynamic ticket pricing has made this year’s tournament the most expensive in history, pushing Argentine fans to extremes",
-      "main_idea": "World Cup Dynamic Ticket Pricing Drives Argentine Soccer Fans To Extremes",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Wed, 06 May 2026 18:55:56 +0000",
-      "url": "https://www.nytimes.com/2026/05/06/world/americas/2026-world-cup-ticket-prices-argentina.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
       "title_neutral": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
       "excerpt": "Leading newspaper La Nación calls US’s barring of board members ‘indirect attack on press freedom’ The US state department has cancelled tourist visas for more than half of the board members of Costa Rica’s leading national newspaper, La Nación, which has been a critical voice against the country’s…",
@@ -126,6 +96,247 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "title_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "excerpt": "",
+      "recap_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "main_idea": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:18:01 +0300",
+      "url": "https://tass.ru/politika/24134697",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
+      "title_neutral": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
+      "excerpt": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
+      "recap_neutral": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
+      "main_idea": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:17:03 +0300",
+      "url": "https://tass.ru/ekonomika/24134627",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "title_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "excerpt": "",
+      "recap_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "main_idea": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:15:43 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134665",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Магаданской области объявили чрезвычайную пожарную опасность",
+      "title_neutral": "В Магаданской области объявили чрезвычайную пожарную опасность",
+      "excerpt": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
+      "recap_neutral": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
+      "main_idea": "В Магаданской области объявили чрезвычайную пожарную опасность",
+      "tags": [
+        "climate"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:12:58 +0300",
+      "url": "https://tass.ru/obschestvo/24134601",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
+      "title_neutral": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
+      "excerpt": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
+      "recap_neutral": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
+      "main_idea": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:11:16 +0300",
+      "url": "https://tass.ru/obschestvo/24134589",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
+      "title_neutral": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
+      "excerpt": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
+      "recap_neutral": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
+      "main_idea": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:09:34 +0300",
+      "url": "https://tass.ru/obschestvo/24132977",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
+      "title_neutral": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
+      "excerpt": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
+      "recap_neutral": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
+      "main_idea": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:09:31 +0300",
+      "url": "https://tass.ru/nauka/24134535",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
+      "title_neutral": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
+      "excerpt": "Материалы дела поступили в мировой судебный участок 184",
+      "recap_neutral": "Материалы дела поступили в мировой судебный участок 184",
+      "main_idea": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:09:03 +0300",
+      "url": "https://tass.ru/proisshestviya/24134595",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
+      "title_neutral": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
+      "excerpt": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
+      "recap_neutral": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
+      "main_idea": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:08:48 +0300",
+      "url": "https://tass.ru/obschestvo/24134521",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
+      "title_neutral": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
+      "excerpt": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
+      "recap_neutral": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
+      "main_idea": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:08:39 +0300",
+      "url": "https://tass.ru/nedvizhimost/24134431",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
+      "title_neutral": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
+      "excerpt": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
+      "recap_neutral": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
+      "main_idea": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:06:43 +0300",
+      "url": "https://tass.ru/obschestvo/24133033",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
+      "title_neutral": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
+      "excerpt": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
+      "recap_neutral": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
+      "main_idea": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:04:29 +0300",
+      "url": "https://tass.ru/obschestvo/24133525",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
+      "title_neutral": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
+      "excerpt": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
+      "recap_neutral": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
+      "main_idea": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:03:57 +0300",
+      "url": "https://tass.ru/obschestvo/24134485",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "США пока не решили, продолжать или нет помощь Украине",
+      "title_neutral": "США пока не решили, продолжать или нет помощь Украине",
+      "excerpt": "",
+      "recap_neutral": "США пока не решили, продолжать или нет помощь Украине",
+      "main_idea": "США пока не решили, продолжать или нет помощь Украине",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:03:52 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134491",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+      "title_neutral": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+      "excerpt": "Предварительно, пострадавших нет",
+      "recap_neutral": "Предварительно, пострадавших нет",
+      "main_idea": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:02:07 +0300",
+      "url": "https://tass.ru/proisshestviya/24133329",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
@@ -193,253 +404,38 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Саратовской области две девушки прыгнули в судоходный канал",
-      "title_neutral": "В Саратовской области две девушки прыгнули в судоходный канал",
-      "excerpt": "Одна из них утонула",
-      "recap_neutral": "Одна из них утонула",
-      "main_idea": "В Саратовской области две девушки прыгнули в судоходный канал",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 07 May 2026 20:41:28 +0300",
-      "url": "https://tass.ru/proisshestviya/27342737",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Подмосковье общий размер выплат молодым многодетным семьям превысил 1 млрд рублей",
-      "title_neutral": "В Подмосковье общий размер выплат молодым многодетным семьям превысил 1 млрд рублей",
-      "excerpt": "Выплата назначается при рождении третьего или последующих детей при условии, что свидетельство о рождении выдано в Московской области",
-      "recap_neutral": "Выплата назначается при рождении третьего или последующих детей при условии, что свидетельство о рождении выдано в Московской области",
-      "main_idea": "В Подмосковье общий размер выплат молодым многодетным семьям превысил 1 млрд рублей",
+      "title_original": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
+      "title_neutral": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
+      "excerpt": "Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in Netherlands What is hantavirus? Two Britons who were medically evacuated from the hantavirus -hit cruise ship are improving, global health officials have said. A British passenger, understood…",
+      "recap_neutral": "Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in Netherlands What is hantavirus? Two Britons who were medically evacuated from the hantavirus -hit cruise ship ar…",
+      "main_idea": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
       "tags": [
-        "tech"
+        "tech",
+        "health"
       ],
-      "source": "ТАСС",
-      "published_at": "Thu, 07 May 2026 20:40:36 +0300",
-      "url": "https://tass.ru/obschestvo/27342725",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "The Guardian",
+      "published_at": "Thu, 07 May 2026 19:20:55 GMT",
+      "url": "https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
       "confidence": "heuristic"
     },
     {
-      "title_original": "\"Биоэн\" в рамках контракта с Москвой отгрузил товара почти на 35 млрд рублей",
-      "title_neutral": "\"Биоэн\" в рамках контракта с Москвой отгрузил товара почти на 35 млрд рублей",
-      "excerpt": "Компания \"Биоэн\" является одним из крупнейших инвесторов в горнопромышленном комплексе Карелии",
-      "recap_neutral": "Компания \"Биоэн\" является одним из крупнейших инвесторов в горнопромышленном комплексе Карелии",
-      "main_idea": "\"Биоэн\" в рамках контракта с Москвой отгрузил товара почти на 35 млрд рублей",
+      "title_original": "Trump to Host Brazil’s President Lula at White House After Months of Ups and Downs",
+      "title_neutral": "Trump to Host Brazil’s President Lula at White House After Months of Ups and Downs",
+      "excerpt": "President Trump and President Luiz Inácio Lula da Silva, who have had a rocky relationship, met for talks on trade and other issues. But they skipped a planned joint appearance.",
+      "recap_neutral": "President Trump and President Luiz Inácio Lula da Silva, who have had a rocky relationship, met for talks on trade and other issues",
+      "main_idea": "Trump to Host Brazil’s President Lula at White House After Months of Ups and Downs",
       "tags": [
-        "tech"
+        "politics"
       ],
-      "source": "ТАСС",
-      "published_at": "Thu, 07 May 2026 20:35:57 +0300",
-      "url": "https://tass.ru/ekonomika/27342717",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Самаре женщина умерла от отравления угарным газом из-за утечки в подъезде",
-      "title_neutral": "В Самаре женщина умерла от отравления угарным газом из-за утечки в подъезде",
-      "excerpt": "В пресс-службе следственного управления СК РФ по региону сообщили, что несколько человек пострадали",
-      "recap_neutral": "В пресс-службе следственного управления СК РФ по региону сообщили, что несколько человек пострадали",
-      "main_idea": "В Самаре женщина умерла от отравления угарным газом из-за утечки в подъезде",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 07 May 2026 20:34:48 +0300",
-      "url": "https://tass.ru/proisshestviya/27342721",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Российские дипломаты почтили память советских воинов в Варшаве",
-      "title_neutral": "Российские дипломаты почтили память советских воинов в Варшаве",
-      "excerpt": "В церемонии также приняли участие представители польских ветеранских и общественных организаций, а также соотечественники, проживающие в республике",
-      "recap_neutral": "В церемонии также приняли участие представители польских ветеранских и общественных организаций, а также соотечественники, проживающие в республике",
-      "main_idea": "Российские дипломаты почтили память советских воинов в Варшаве",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 07 May 2026 20:31:54 +0300",
-      "url": "https://tass.ru/obschestvo/27342699",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Фицо в Дахау сообщил о планах посетить Москву и Нормандию",
-      "title_neutral": "Фицо в Дахау сообщил о планах посетить Москву и Нормандию",
-      "excerpt": "Сопровождать премьер-министра Словакии в РФ будут вице-спикер парламента Тибор Гашпар и госсекретарь МИД Марек Эшток",
-      "recap_neutral": "Сопровождать премьер-министра Словакии в РФ будут вице-спикер парламента Тибор Гашпар и госсекретарь МИД Марек Эшток",
-      "main_idea": "Фицо в Дахау сообщил о планах посетить Москву и Нормандию",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 07 May 2026 20:31:24 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27342689",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Ижевске отказались от проведения Парада Победы 9 Мая",
-      "title_neutral": "В Ижевске отказались от проведения Парада Победы 9 Мая",
-      "excerpt": "Глава Удмуртии Александр Бречалов отметил, что запугивания со стороны врага исходят не от силы, а от страха",
-      "recap_neutral": "Глава Удмуртии Александр Бречалов отметил, что запугивания со стороны врага исходят не от силы, а от страха",
-      "main_idea": "В Ижевске отказались от проведения Парада Победы 9 Мая",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 07 May 2026 20:29:57 +0300",
-      "url": "https://tass.ru/obschestvo/27342683",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Белоруссии надеются на возвращение спортсменов, отстраненных из-за политики",
-      "title_neutral": "В Белоруссии надеются на возвращение спортсменов, отстраненных из-за политики",
-      "excerpt": "В четверг исполком МОК рекомендовал снять ограничения с белорусских спортсменов",
-      "recap_neutral": "В четверг исполком МОК рекомендовал снять ограничения с белорусских спортсменов",
-      "main_idea": "В Белоруссии надеются на возвращение спортсменов, отстраненных из-за политики",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 07 May 2026 20:27:01 +0300",
-      "url": "https://tass.ru/sport/27342655",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лавров обсудил с послами стран Латинской Америки партнерство с РФ",
-      "title_neutral": "Лавров обсудил с послами стран Латинской Америки партнерство с РФ",
-      "excerpt": "Особый акцент был сделан на перспективных направлениях сотрудничества и успешных примерах многопланового взаимодействия в двустороннем формате и на международных площадках, рассказали в МИД России",
-      "recap_neutral": "Особый акцент был сделан на перспективных направлениях сотрудничества и успешных примерах многопланового взаимодействия в двустороннем формате и на международных площадках, рассказали в МИД России",
-      "main_idea": "Лавров обсудил с послами стран Латинской Америки партнерство с РФ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 07 May 2026 20:25:16 +0300",
-      "url": "https://tass.ru/politika/27342647",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "МИД РФ заявил послу Армении о неприемлемости предоставления \"трибуны\" Зеленскому",
-      "title_neutral": "МИД РФ заявил послу Армении о неприемлемости предоставления \"трибуны\" Зеленскому",
-      "excerpt": "",
-      "recap_neutral": "МИД РФ заявил послу Армении о неприемлемости предоставления \"трибуны\" Зеленскому",
-      "main_idea": "МИД РФ заявил послу Армении о неприемлемости предоставления \"трибуны\" Зеленскому",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 07 May 2026 20:22:59 +0300",
-      "url": "https://tass.ru/politika/27342631",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Отстранение Олимпийского комитета России продолжается. Итоги исполкома МОК",
-      "title_neutral": "Отстранение Олимпийского комитета России продолжается. Итоги исполкома МОК",
-      "excerpt": "Также Международный олимпийский комитет снял ограничения с белорусских спортсменов",
-      "recap_neutral": "Также Международный олимпийский комитет снял ограничения с белорусских спортсменов",
-      "main_idea": "Отстранение Олимпийского комитета России продолжается. Итоги исполкома МОК",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 07 May 2026 20:21:24 +0300",
-      "url": "https://tass.ru/sport/27342579",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Средства ПВО отразили атаку ударных БПЛА на Мелитополь",
-      "title_neutral": "Средства ПВО отразили атаку ударных БПЛА на Мелитополь",
-      "excerpt": "Несколько беспилотников сбиты на подлете к городу и непосредственно над городом",
-      "recap_neutral": "Несколько беспилотников сбиты на подлете к городу и непосредственно над городом",
-      "main_idea": "Средства ПВО отразили атаку ударных БПЛА на Мелитополь",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 07 May 2026 20:20:55 +0300",
-      "url": "https://tass.ru/proisshestviya/27342625",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В НОК Белоруссии назвали долгожданным решение МОК о снятии санкций с атлетов",
-      "title_neutral": "В НОК Белоруссии назвали долгожданным решение МОК о снятии санкций с атлетов",
-      "excerpt": "Исполком МОК рекомендовал снять ограничения с белорусских спортсменов в индивидуальных и командных соревнованиях.",
-      "recap_neutral": "Исполком МОК рекомендовал снять ограничения с белорусских спортсменов в индивидуальных и командных соревнованиях",
-      "main_idea": "В НОК Белоруссии назвали долгожданным решение МОК о снятии санкций с атлетов",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 07 May 2026 20:16:20 +0300",
-      "url": "https://tass.ru/sport/27342613",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Sveriges: российского капитана задержанного в Швеции танкера отпустили",
-      "title_neutral": "Sveriges: российского капитана задержанного в Швеции танкера отпустили",
-      "excerpt": "Его подозревали в использовании поддельных документов",
-      "recap_neutral": "Его подозревали в использовании поддельных документов",
-      "main_idea": "Sveriges: российского капитана задержанного в Швеции танкера отпустили",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 07 May 2026 20:16:12 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27342593",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Махачкале более 90 тыс. человек попали в зону отключения света из-за пожара",
-      "title_neutral": "В Махачкале более 90 тыс. человек попали в зону отключения света из-за пожара",
-      "excerpt": "Подстанция обесточена",
-      "recap_neutral": "Подстанция обесточена",
-      "main_idea": "В Махачкале более 90 тыс. человек попали в зону отключения света из-за пожара",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 07 May 2026 20:15:57 +0300",
-      "url": "https://tass.ru/proisshestviya/27342619",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Thu, 07 May 2026 19:19:43 +0000",
+      "url": "https://www.nytimes.com/2026/05/07/world/americas/trump-brazil-lula-meeting.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -453,7 +449,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Thu, 07 May 2026 17:36:30 +0000",
+      "published_at": "Thu, 07 May 2026 19:18:31 +0000",
       "url": "https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal",
       "lang": "en",
       "bias_score": 55,
@@ -470,7 +466,7 @@
         "conflict"
       ],
       "source": "NYTimes World",
-      "published_at": "Thu, 07 May 2026 17:21:28 +0000",
+      "published_at": "Thu, 07 May 2026 19:11:56 +0000",
       "url": "https://www.nytimes.com/2026/05/07/world/middleeast/israel-hezbollah-commander-beirut-strike.html",
       "lang": "en",
       "bias_score": 55,
@@ -478,18 +474,71 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "California leaders report four to six weeks worth of gasoline and diesel supply",
-      "title_neutral": "California leaders report four to six weeks worth of gasoline and diesel supply",
+      "title_original": "Colored Shadow Penumbra",
+      "title_neutral": "Colored Shadow Penumbra",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "California leaders report four to six weeks worth of gasoline and diesel supply",
+      "main_idea": "Colored Shadow Penumbra",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Thu, 07 May 2026 17:06:00 +0000",
-      "url": "https://kmph.com/news/local/california-leaders-report-four-to-six-weeks-worth-of-gasoline-and-diesel-in-supply",
+      "published_at": "Thu, 07 May 2026 19:04:30 +0000",
+      "url": "https://chosker.github.io/blog/colored-shadow-penumbra",
       "lang": "en",
-      "bias_score": 40,
+      "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AI Slop Is Killing Online Communities",
+      "title_neutral": "AI Slop Is Killing Online Communities",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "AI Slop Is Killing Online Communities",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Thu, 07 May 2026 18:46:25 +0000",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Man Arrested on Suspicion of Carrying Weapon Near Former Prince Andrew’s Home",
+      "title_neutral": "Man Arrested on Suspicion of Carrying Weapon Near Former Prince Andrew’s Home",
+      "excerpt": "The police in Britain said that a suspect was in custody after reports he had behaved in an “intimidating manner.”",
+      "recap_neutral": "The police in Britain said that a suspect was in custody after reports he had behaved in an “intimidating manner",
+      "main_idea": "Man Arrested on Suspicion of Carrying Weapon Near Former Prince Andrew’s Home",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 07 May 2026 18:29:23 +0000",
+      "url": "https://www.nytimes.com/2026/05/07/world/europe/prince-andrew-suspect-arrest-sandringham.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+      "title_neutral": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+      "excerpt": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
+      "recap_neutral": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy",
+      "main_idea": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+      "tags": [
+        "politics",
+        "economy",
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 07 May 2026 18:13:11 GMT",
+      "url": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -502,11 +551,58 @@
         "health"
       ],
       "source": "BBC World",
-      "published_at": "Thu, 07 May 2026 17:05:51 GMT",
+      "published_at": "Thu, 07 May 2026 17:55:08 GMT",
       "url": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "title_neutral": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 07 May 2026 17:54:02 +0000",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Principles for agent-native CLIs",
+      "title_neutral": "Principles for agent-native CLIs",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Principles for agent-native CLIs",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 07 May 2026 17:40:05 +0000",
+      "url": "https://twitter.com/trevin/status/2051316002730991795",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "German Tourist Wins Lawsuit After Not Getting a Lounge Chair by the Pool",
+      "title_neutral": "German Tourist Wins Lawsuit After Not Getting a Lounge Chair by the Pool",
+      "excerpt": "A tourist won a refund after a court ruled that the hotel’s staff had failed to stop guests from reserving sun beds using towels.",
+      "recap_neutral": "A tourist won a refund after a court ruled that the hotel’s staff had failed to stop guests from reserving sun beds using towels",
+      "main_idea": "German Tourist Wins Lawsuit After Not Getting a Lounge Chair by the Pool",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 07 May 2026 16:58:00 +0000",
+      "url": "https://www.nytimes.com/2026/05/07/world/europe/tourist-pool-loungers-refund-germany.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -539,23 +635,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trump to Host Brazil’s President Lula at White House After Months of Ups and Downs",
-      "title_neutral": "Trump to Host Brazil’s President Lula at White House After Months of Ups and Downs",
-      "excerpt": "President Trump and President Luiz Inácio Lula da Silva, who have had a rocky relationship, will meet on Thursday for talks on security, trade and critical minerals.",
-      "recap_neutral": "President Trump and President Luiz Inácio Lula da Silva, who have had a rocky relationship, will meet on Thursday for talks on security, trade and critical minerals",
-      "main_idea": "Trump to Host Brazil’s President Lula at White House After Months of Ups and Downs",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 07 May 2026 16:30:51 +0000",
-      "url": "https://www.nytimes.com/2026/05/07/world/americas/trump-brazil-lula-meeting.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -706,6 +785,38 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "I want to live like Costco people",
+      "title_neutral": "I want to live like Costco people",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "I want to live like Costco people",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 07 May 2026 15:19:27 +0000",
+      "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "DHS blames funding lapse for shutdown of internal detention oversight",
+      "title_neutral": "DHS blames funding lapse for shutdown of internal detention oversight",
+      "excerpt": "The office investigates detainee deaths and access to medical care, among other issues. It's being wound down, even as the number of detention deaths and length of detention stays has grown.",
+      "recap_neutral": "The office investigates detainee deaths and access to medical care, among other issues",
+      "main_idea": "DHS blames funding lapse for shutdown of internal detention oversight",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Thu, 07 May 2026 15:05:16 -0400",
+      "url": "https://www.npr.org/2026/05/07/g-s1-120834/trump-immigration-detention-ombudsman-shutdown",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
       "title_neutral": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
       "excerpt": "Comments",
@@ -718,6 +829,38 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A judge unsealed Epstein's purported 2019 suicide note. More documents could follow",
+      "title_neutral": "A judge unsealed Epstein's purported 2019 suicide note. More documents could follow",
+      "excerpt": "At the request of the New York Times , a judge unsealed a goodbye note that Jeffrey Epstein's former cellmate says he found after the convicted sex offender's first suicide attempt in July 2019.",
+      "recap_neutral": "At the request of the New York Times , a judge unsealed a goodbye note that Jeffrey Epstein's former cellmate says he found after the convicted sex offender's first suicide attempt in July 2019",
+      "main_idea": "A judge unsealed Epstein's purported 2019 suicide note. More documents could follow",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Thu, 07 May 2026 14:56:15 -0400",
+      "url": "https://www.npr.org/2026/05/07/nx-s1-5814808/jeffrey-epstein-suicide-note",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Tennessee Republicans pass a map to break up the state's lone Democratic House seat",
+      "title_neutral": "Tennessee Republicans pass a map to break up the state's lone Democratic House seat",
+      "excerpt": "Tennessee Republicans' map would crack Shelby County — home to majority-Black Memphis — into three different districts, in an effort to eliminate the state's lone remaining Democratic-held seat.",
+      "recap_neutral": "Tennessee Republicans' map would crack Shelby County — home to majority-Black Memphis — into three different districts, in an effort to eliminate the state's lone remaining Democratic-held seat",
+      "main_idea": "Tennessee Republicans pass a map to break up the state's lone Democratic House seat",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Thu, 07 May 2026 14:54:21 -0400",
+      "url": "https://www.npr.org/2026/05/07/nx-s1-5815023/tennessee-redistricting-map-passage",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -735,21 +878,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
-      "title_neutral": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 07 May 2026 14:32:25 +0000",
-      "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -779,7 +907,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Thu, 07 May 2026 14:20:07 +0000",
+      "published_at": "Thu, 07 May 2026 14:20:08 +0000",
       "url": "https://www.nytimes.com/2026/05/07/world/asia/china-eastern-plane-crash-flight-5735-ntsb.html",
       "lang": "en",
       "bias_score": 49,
@@ -931,7 +1059,7 @@
       "tags": [],
       "source": "Hacker News",
       "published_at": "Thu, 07 May 2026 13:30:04 +0000",
-      "url": "https://www.nature.com/articles/d41586-026-00796-2",
+      "url": "https://www.nature.com/articles/d41586-026-00720-8",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -1398,90 +1526,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Hantavirus Patients Land in Amsterdam With More Cruise Ship Evacuations Planned",
-      "title_neutral": "Hantavirus Patients Land in Amsterdam With More Cruise Ship Evacuations Planned",
-      "excerpt": "Three people with possible symptoms of the disease were evacuated on Wednesday morning from the MV Hondius before it headed to the Canary Islands.",
-      "recap_neutral": "Three people with possible symptoms of the disease were evacuated on Wednesday morning from the MV Hondius before it headed to the Canary Islands",
-      "main_idea": "Hantavirus Patients Land in Amsterdam With More Cruise Ship Evacuations Planned",
-      "tags": [
-        "health"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 07 May 2026 05:19:09 +0000",
-      "url": "https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Making a podcast helped one family talk about aging, dementia and death",
-      "title_neutral": "Making a podcast helped one family talk about aging, dementia and death",
-      "excerpt": "This year's winner in NPR's College Podcast Challenge is a letter to a grandparent that grapples with health issues including dementia. It's the story of a family learning to talk about hard things.",
-      "recap_neutral": "This year's winner in NPR's College Podcast Challenge is a letter to a grandparent that grapples with health issues including dementia",
-      "main_idea": "Making a podcast helped one family talk about aging, dementia and death",
-      "tags": [
-        "health"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 07 May 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/05/07/nx-s1-5766358/dementia-college-podcast-aging-family",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Dirty nickel: The cost of mining in Indonesia",
-      "title_neutral": "Dirty nickel: The cost of mining in Indonesia",
-      "excerpt": "Across six locations in Indonesia, NPR spoke with locals about how nickel mining is changing the land and daily life. It's brought jobs, but also concerns about environmental damage and public health.",
-      "recap_neutral": "Across six locations in Indonesia, NPR spoke with locals about how nickel mining is changing the land and daily life",
-      "main_idea": "Dirty nickel: The cost of mining in Indonesia",
-      "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 07 May 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/05/07/g-s1-118218/indonesia-nickel-mineral-mining",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "In a new poll, Americans voice broad bipartisan support for age caps in Congress",
-      "title_neutral": "In a new poll, Americans voice broad bipartisan support for age caps in Congress",
-      "excerpt": "The vast majority of Americans — 8 in 10 — say there should be age caps for members of Congress, as well as term limits, according to the latest NPR/PBS News/Marist poll.",
-      "recap_neutral": "The vast majority of Americans — 8 in 10 — say there should be age caps for members of Congress, as well as term limits, according to the latest NPR/PBS News/Marist poll",
-      "main_idea": "In a new poll, Americans voice broad bipartisan support for age caps in Congress",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Thu, 07 May 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/05/07/nx-s1-5806294/congress-age-caps-term-limits-npr-poll",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran considering US proposal as Trump says war will be 'over quickly'",
-      "title_neutral": "Iran considering US proposal as Trump says war will be 'over quickly'",
-      "excerpt": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
-      "recap_neutral": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\"",
-      "main_idea": "Iran considering US proposal as Trump says war will be 'over quickly'",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 07 May 2026 04:06:33 GMT",
-      "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Starmer Faces a Major Test in a Set of UK Elections: What to Know",
       "title_neutral": "Starmer Faces a Major Test in a Set of UK Elections: What to Know",
       "excerpt": "Local elections in England, and parliamentary elections in Scotland and Wales, take place on Thursday. The governing Labour Party is expected to do very badly.",
@@ -1544,21 +1588,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Speedup in Lattice Boltzmann Cylinder Flow",
-      "title_neutral": "Speedup in Lattice Boltzmann Cylinder Flow",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Speedup in Lattice Boltzmann Cylinder Flow",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 04 May 2026 17:57:13 +0000",
-      "url": "https://github.com/alikamp/Parks-KPBM-Scaling",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
       "title_neutral": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
       "excerpt": "Comments",
@@ -1586,40 +1615,6 @@
       "source": "The Guardian",
       "published_at": "Mon, 04 May 2026 15:58:29 GMT",
       "url": "https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Indian matchbox labels as a visual archive",
-      "title_neutral": "Indian matchbox labels as a visual archive",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Indian matchbox labels as a visual archive",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 04 May 2026 14:08:27 +0000",
-      "url": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
-      "title_neutral": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
-      "excerpt": "Exclusive : amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found An AI system used to predict how much Kenyans can afford to pay for access to healthcare, has systemically driven up costs for the poor,…",
-      "recap_neutral": "Exclusive : amid unrest, President William Ruto promised to give all Kenyans access to healthcare",
-      "main_idea": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
-      "tags": [
-        "politics",
-        "tech",
-        "health"
-      ],
-      "source": "The Guardian",
-      "published_at": "Mon, 04 May 2026 06:00:16 GMT",
-      "url": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
