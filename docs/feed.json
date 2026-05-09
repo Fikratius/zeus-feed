@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-05-09T17:45:09.707230+00:00",
+  "last_updated": "2026-05-09T18:54:36.838796+00:00",
   "items": [
+    {
+      "title_original": "Show HN: I wrote a flight simulator in my own programming language",
+      "title_neutral": "Show HN: I wrote a flight simulator in my own programming language",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: I wrote a flight simulator in my own programming language",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 06 May 2026 21:58:05 +0000",
+      "url": "https://github.com/navid-m/flightsim",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
     {
       "title_original": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
       "title_neutral": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
@@ -16,21 +31,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Making Julia as Fast as C++ (2019)",
-      "title_neutral": "Making Julia as Fast as C++ (2019)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Making Julia as Fast as C++ (2019)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 06 May 2026 21:36:42 +0000",
-      "url": "https://flow.byu.edu/posts/julia-c++",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -81,23 +81,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "OpenAI’s WebRTC problem",
-      "title_neutral": "OpenAI’s WebRTC problem",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "OpenAI’s WebRTC problem",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Thu, 07 May 2026 17:11:59 +0000",
-      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -179,264 +162,313 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Умер автор цикла романов \"Звонок\" Кодзи Судзуки",
-      "title_neutral": "Умер автор цикла романов \"Звонок\" Кодзи Судзуки",
-      "excerpt": "Японскому писателю было 68 лет",
-      "recap_neutral": "Японскому писателю было 68 лет",
-      "main_idea": "Умер автор цикла романов \"Звонок\" Кодзи Судзуки",
+      "title_original": "Путин убедил участника пресс-подхода уступить очередь девушке-журналисту",
+      "title_neutral": "Путин убедил участника пресс-подхода уступить очередь девушке-журналисту",
+      "excerpt": "Один из журналистов перехватил микрофон у коллеги - корреспондентки информационного агентства",
+      "recap_neutral": "Один из журналистов перехватил микрофон у коллеги - корреспондентки информационного агентства",
+      "main_idea": "Путин убедил участника пресс-подхода уступить очередь девушке-журналисту",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 20:39:06 +0300",
-      "url": "https://tass.ru/kultura/27364895",
+      "published_at": "Sat, 09 May 2026 21:49:52 +0300",
+      "url": "https://tass.ru/obschestvo/27366125",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Минтранс: часть международных рейсов вновь выполняется через ростовскую зону",
-      "title_neutral": "Минтранс: часть международных рейсов вновь выполняется через ростовскую зону",
+      "title_original": "Глава Минобороны Белоруссии заявил, что против страны развязали когнитивную войну",
+      "title_neutral": "Глава Минобороны Белоруссии заявил, что против страны развязали когнитивную войну",
+      "excerpt": "По словам Виктора Хренина, идет подмена смыслов, но республика в ней выстоит",
+      "recap_neutral": "По словам Виктора Хренина, идет подмена смыслов, но республика в ней выстоит",
+      "main_idea": "Глава Минобороны Белоруссии заявил, что против страны развязали когнитивную войну",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 21:48:56 +0300",
+      "url": "https://tass.ru/obschestvo/27365119",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Путин уверен, что Россия восстановит отношения со многими западными странами",
+      "title_neutral": "Путин уверен, что Россия восстановит отношения со многими западными странами",
       "excerpt": "",
-      "recap_neutral": "Минтранс: часть международных рейсов вновь выполняется через ростовскую зону",
-      "main_idea": "Минтранс: часть международных рейсов вновь выполняется через ростовскую зону",
+      "recap_neutral": "Путин уверен, что Россия восстановит отношения со многими западными странами",
+      "main_idea": "Путин уверен, что Россия восстановит отношения со многими западными странами",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 20:38:05 +0300",
-      "url": "https://tass.ru/ekonomika/27364885",
+      "published_at": "Sat, 09 May 2026 21:46:38 +0300",
+      "url": "https://tass.ru/ekonomika/27366097",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В аэропорты Юга и из них за сутки выполнили более 300 рейсов",
-      "title_neutral": "В аэропорты Юга и из них за сутки выполнили более 300 рейсов",
+      "title_original": "Путин воздержится от определенных жестов в ответ на попытки Финляндии что-то оттяпать у РФ",
+      "title_neutral": "Путин воздержится от определенных жестов в ответ на попытки Финляндии что-то оттяпать у РФ",
       "excerpt": "",
-      "recap_neutral": "В аэропорты Юга и из них за сутки выполнили более 300 рейсов",
-      "main_idea": "В аэропорты Юга и из них за сутки выполнили более 300 рейсов",
-      "tags": [],
+      "recap_neutral": "Путин воздержится от определенных жестов в ответ на попытки Финляндии что-то оттяпать у РФ",
+      "main_idea": "Путин воздержится от определенных жестов в ответ на попытки Финляндии что-то оттяпать у РФ",
+      "tags": [
+        "tech"
+      ],
       "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 20:37:46 +0300",
-      "url": "https://tass.ru/ekonomika/27364871",
+      "published_at": "Sat, 09 May 2026 21:46:28 +0300",
+      "url": "https://tass.ru/politika/27366067",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Гаглоев: Россия и Южная Осетия подпишут договор об интеграции",
-      "title_neutral": "Гаглоев: Россия и Южная Осетия подпишут договор об интеграции",
+      "title_original": "В Севастополе молодежь выложила из свечей орден Отечественной войны в 100 кв.м",
+      "title_neutral": "В Севастополе молодежь выложила из свечей орден Отечественной войны в 100 кв.м",
+      "excerpt": "По словам губернатора Михаила Развожаева, акция вновь напомнила всем, как важно хранить каждую страницу героической истории",
+      "recap_neutral": "По словам губернатора Михаила Развожаева, акция вновь напомнила всем, как важно хранить каждую страницу героической истории",
+      "main_idea": "В Севастополе молодежь выложила из свечей орден Отечественной войны в 100 кв.м",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 21:45:54 +0300",
+      "url": "https://tass.ru/obschestvo/27366017",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Путин: Запад рассчитывал на крах России в течение шести месяцев в 2022 году",
+      "title_neutral": "Путин: Запад рассчитывал на крах России в течение шести месяцев в 2022 году",
       "excerpt": "",
-      "recap_neutral": "Гаглоев: Россия и Южная Осетия подпишут договор об интеграции",
-      "main_idea": "Гаглоев: Россия и Южная Осетия подпишут договор об интеграции",
+      "recap_neutral": "Путин: Запад рассчитывал на крах России в течение шести месяцев в 2022 году",
+      "main_idea": "Путин: Запад рассчитывал на крах России в течение шести месяцев в 2022 году",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 20:33:01 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27364857",
+      "published_at": "Sat, 09 May 2026 21:45:00 +0300",
+      "url": "https://tass.ru/politika/27366009",
       "lang": "ru",
-      "bias_score": 62,
+      "bias_score": 72,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Путин: договор РФ и Южной Осетии даст возможность углублять отношения стран",
-      "title_neutral": "Путин: договор РФ и Южной Осетии даст возможность углублять отношения стран",
-      "excerpt": "Президент РФ оценил подготовленный договор о глубокой интеграции двух стран",
-      "recap_neutral": "Президент РФ оценил подготовленный договор о глубокой интеграции двух стран",
-      "main_idea": "Путин: договор РФ и Южной Осетии даст возможность углублять отношения стран",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 20:32:37 +0300",
-      "url": "https://tass.ru/politika/27364847",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Гаглоев: воины из Южной Осетии участвуют в СВО, продолжая вместе с РФ защищать будущее",
-      "title_neutral": "Гаглоев: воины из Южной Осетии участвуют в СВО, продолжая вместе с РФ защищать будущее",
+      "title_original": "Путин рассказал, зачем Финляндия присоединилась к НАТО",
+      "title_neutral": "Путин рассказал, зачем Финляндия присоединилась к НАТО",
       "excerpt": "",
-      "recap_neutral": "Гаглоев: воины из Южной Осетии участвуют в СВО, продолжая вместе с РФ защищать будущее",
-      "main_idea": "Гаглоев: воины из Южной Осетии участвуют в СВО, продолжая вместе с РФ защищать будущее",
-      "tags": [
-        "tech"
-      ],
+      "recap_neutral": "Путин рассказал, зачем Финляндия присоединилась к НАТО",
+      "main_idea": "Путин рассказал, зачем Финляндия присоединилась к НАТО",
+      "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 20:30:24 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27364841",
+      "published_at": "Sat, 09 May 2026 21:44:51 +0300",
+      "url": "https://tass.ru/politika/27366047",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Путин отметил особый вклад осетин в победу в Великой Отечественной войне",
-      "title_neutral": "Путин отметил особый вклад осетин в победу в Великой Отечественной войне",
-      "excerpt": "Президент РФ отметил, что отношения двух стран развиваются позитивно",
-      "recap_neutral": "Президент РФ отметил, что отношения двух стран развиваются позитивно",
-      "main_idea": "Путин отметил особый вклад осетин в победу в Великой Отечественной войне",
-      "tags": [
-        "politics",
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 20:29:31 +0300",
-      "url": "https://tass.ru/politika/27364817",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Гаглоев выразил уверенность, что Южная Осетия проявила себя надежным союзником России",
-      "title_neutral": "Гаглоев выразил уверенность, что Южная Осетия проявила себя надежным союзником России",
+      "title_original": "Путин: чем сильнее будет РФ, тем быстрее уйдут попытки принизить вклад СССР в победу",
+      "title_neutral": "Путин: чем сильнее будет РФ, тем быстрее уйдут попытки принизить вклад СССР в победу",
       "excerpt": "",
-      "recap_neutral": "Гаглоев выразил уверенность, что Южная Осетия проявила себя надежным союзником России",
-      "main_idea": "Гаглоев выразил уверенность, что Южная Осетия проявила себя надежным союзником России",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 20:26:36 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27364827",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Северном речном вокзале прошла акция \"Синий платочек\" а мпро",
-      "title_neutral": "На Северном речном вокзале прошла акция \"Синий платочек\" а мпро",
-      "excerpt": "В мероприятии приняли участие ветераны, волонтеры, журналисты и артисты",
-      "recap_neutral": "В мероприятии приняли участие ветераны, волонтеры, журналисты и артисты",
-      "main_idea": "На Северном речном вокзале прошла акция \"Синий платочек\" а мпро",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 20:25:56 +0300",
-      "url": "https://tass.ru/obschestvo/27364801",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Посол РФ осудил подпитывание русофобских настроений в Аргентине",
-      "title_neutral": "Посол РФ осудил подпитывание русофобских настроений в Аргентине",
-      "excerpt": "Дмитрий Феоктистов сообщил, что аргентинскими СМИ периодически поднимается антироссийская волна",
-      "recap_neutral": "Дмитрий Феоктистов сообщил, что аргентинскими СМИ периодически поднимается антироссийская волна",
-      "main_idea": "Посол РФ осудил подпитывание русофобских настроений в Аргентине",
+      "recap_neutral": "Путин: чем сильнее будет РФ, тем быстрее уйдут попытки принизить вклад СССР в победу",
+      "main_idea": "Путин: чем сильнее будет РФ, тем быстрее уйдут попытки принизить вклад СССР в победу",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 20:23:06 +0300",
-      "url": "https://tass.ru/politika/27364713",
+      "published_at": "Sat, 09 May 2026 21:44:29 +0300",
+      "url": "https://tass.ru/politika/27366001",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Работающие в Арктике и Антарктике российские ученые отметили День Победы",
-      "title_neutral": "Работающие в Арктике и Антарктике российские ученые отметили День Победы",
-      "excerpt": "На антарктической станции Восток состоялось шествие \"Бессмертного полка\"",
-      "recap_neutral": "На антарктической станции Восток состоялось шествие \"Бессмертного полка\"",
-      "main_idea": "Работающие в Арктике и Антарктике российские ученые отметили День Победы",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 20:20:18 +0300",
-      "url": "https://tass.ru/obschestvo/27364647",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Гаглоев заявил, что Южная Осетия воспринимает Россию как свою большую Родину",
-      "title_neutral": "Гаглоев заявил, что Южная Осетия воспринимает Россию как свою большую Родину",
+      "title_original": "Путин: на Западе рассчитывали \"что-то оттяпать\" у России",
+      "title_neutral": "Путин: на Западе рассчитывали \"что-то оттяпать\" у России",
       "excerpt": "",
-      "recap_neutral": "Гаглоев заявил, что Южная Осетия воспринимает Россию как свою большую Родину",
-      "main_idea": "Гаглоев заявил, что Южная Осетия воспринимает Россию как свою большую Родину",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 20:19:42 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27364791",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Представители СМИ собираются на пресс-подход Путина",
-      "title_neutral": "Представители СМИ собираются на пресс-подход Путина",
-      "excerpt": "Журналистов собирают в зале",
-      "recap_neutral": "Журналистов собирают в зале",
-      "main_idea": "Представители СМИ собираются на пресс-подход Путина",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 20:18:35 +0300",
-      "url": "https://tass.ru/politika/27364785",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Минздраве Ливана заявили о гибели девяти человек при израильском авианалете",
-      "title_neutral": "В Минздраве Ливана заявили о гибели девяти человек при израильском авианалете",
-      "excerpt": "Еще 15 ранены",
-      "recap_neutral": "Еще 15 ранены",
-      "main_idea": "В Минздраве Ливана заявили о гибели девяти человек при израильском авианалете",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 20:16:44 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27364721",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин проводит встречу с президентом Южной Осетии",
-      "title_neutral": "Путин проводит встречу с президентом Южной Осетии",
-      "excerpt": "Предыдущий раз президент России и Алан Гаглоев встречались 10 мая 2025 года",
-      "recap_neutral": "Предыдущий раз президент России и Алан Гаглоев встречались 10 мая 2025 года",
-      "main_idea": "Путин проводит встречу с президентом Южной Осетии",
+      "recap_neutral": "Путин: на Западе рассчитывали \"что-то оттяпать\" у России",
+      "main_idea": "Путин: на Западе рассчитывали \"что-то оттяпать\" у России",
       "tags": [
-        "politics",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 20:15:33 +0300",
-      "url": "https://tass.ru/politika/27364775",
+      "published_at": "Sat, 09 May 2026 21:44:18 +0300",
+      "url": "https://tass.ru/politika/27366019",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Deadly Israeli Strikes Erode Cease-Fire in Lebanon",
-      "title_neutral": "Deadly Israeli Strikes Erode Cease-Fire in Lebanon",
-      "excerpt": "Fighting between Israel and Hezbollah has shown little sign of abating, with Hezbollah also continuing to attack Israeli troops, and both sides accusing the other of violating a U.S.-brokered truce.",
-      "recap_neutral": "Fighting between Israel and Hezbollah has shown little sign of abating, with Hezbollah also continuing to attack Israeli troops, and both sides accusing the other of violating a U",
-      "main_idea": "Deadly Israeli Strikes Erode Cease-Fire in Lebanon",
+      "title_original": "Путин назвал переписывание истории Второй мировой войны глупостью",
+      "title_neutral": "Путин назвал переписывание истории Второй мировой войны глупостью",
+      "excerpt": "",
+      "recap_neutral": "Путин назвал переписывание истории Второй мировой войны глупостью",
+      "main_idea": "Путин назвал переписывание истории Второй мировой войны глупостью",
       "tags": [
-        "conflict"
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 21:42:10 +0300",
+      "url": "https://tass.ru/politika/27365981",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Путин допустил, что к визиту в КНР будут согласованы договоренности в нефтегазовой сфере",
+      "title_neutral": "Путин допустил, что к визиту в КНР будут согласованы договоренности в нефтегазовой сфере",
+      "excerpt": "",
+      "recap_neutral": "Путин допустил, что к визиту в КНР будут согласованы договоренности в нефтегазовой сфере",
+      "main_idea": "Путин допустил, что к визиту в КНР будут согласованы договоренности в нефтегазовой сфере",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 21:41:35 +0300",
+      "url": "https://tass.ru/ekonomika/27365957",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Путин: РФ и КНР достигли высокой степени договоренности в нефтегазовом сотрудничестве",
+      "title_neutral": "Путин: РФ и КНР достигли высокой степени договоренности в нефтегазовом сотрудничестве",
+      "excerpt": "",
+      "recap_neutral": "Путин: РФ и КНР достигли высокой степени договоренности в нефтегазовом сотрудничестве",
+      "main_idea": "Путин: РФ и КНР достигли высокой степени договоренности в нефтегазовом сотрудничестве",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 21:40:43 +0300",
+      "url": "https://tass.ru/ekonomika/27365939",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Фицо: Словакия заинтересована в дружественных отношениях с Россией",
+      "title_neutral": "Фицо: Словакия заинтересована в дружественных отношениях с Россией",
+      "excerpt": "Премьер-министр республики на встрече с президентом РФ Владимиром Путиным особое внимание уделил развитию двустороннего сотрудничества в энергетике",
+      "recap_neutral": "Премьер-министр республики на встрече с президентом РФ Владимиром Путиным особое внимание уделил развитию двустороннего сотрудничества в энергетике",
+      "main_idea": "Фицо: Словакия заинтересована в дружественных отношениях с Россией",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 21:39:10 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27365823",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Путин: взаимодействие РФ и КНР является важнейшим фактором в стабилизации",
+      "title_neutral": "Путин: взаимодействие РФ и КНР является важнейшим фактором в стабилизации",
+      "excerpt": "",
+      "recap_neutral": "Путин: взаимодействие РФ и КНР является важнейшим фактором в стабилизации",
+      "main_idea": "Путин: взаимодействие РФ и КНР является важнейшим фактором в стабилизации",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 21:38:16 +0300",
+      "url": "https://tass.ru/politika/27365863",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AFP: в Париже задержали около 100 членов крайне правых и крайне левых движений",
+      "title_neutral": "AFP: в Париже задержали около 100 членов крайне правых и крайне левых движений",
+      "excerpt": "Из них 39 человек оставили под стражей из-за подозрений в намерении организовать беспорядки",
+      "recap_neutral": "Из них 39 человек оставили под стражей из-за подозрений в намерении организовать беспорядки",
+      "main_idea": "AFP: в Париже задержали около 100 членов крайне правых и крайне левых движений",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 21:37:15 +0300",
+      "url": "https://tass.ru/proisshestviya/27365275",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran demands guarantees for World Cup participation",
+      "title_neutral": "Iran demands guarantees for World Cup participation",
+      "excerpt": "The Iranian Football Federation (FFIRI) has presented Fifa with 10 conditions for participation at the World Cup in the US, Mexico and Canada.",
+      "recap_neutral": "The Iranian Football Federation (FFIRI) has presented Fifa with 10 conditions for participation at the World Cup in the US, Mexico and Canada",
+      "main_idea": "Iran demands guarantees for World Cup participation",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sat, 09 May 2026 18:44:01 GMT",
+      "url": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Passengers on Hantavirus Cruise Ship Will Disembark in Tenerife and Return to Home Countries",
+      "title_neutral": "Passengers on Hantavirus Cruise Ship Will Disembark in Tenerife and Return to Home Countries",
+      "excerpt": "The cruise ship will arrive on the island of Tenerife, part of the Canary Islands of Spain, officials said. All of the passengers will then be evacuated to their home countries.",
+      "recap_neutral": "The cruise ship will arrive on the island of Tenerife, part of the Canary Islands of Spain, officials said",
+      "main_idea": "Passengers on Hantavirus Cruise Ship Will Disembark in Tenerife and Return to Home Countries",
+      "tags": [
+        "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 09 May 2026 17:37:45 +0000",
-      "url": "https://www.nytimes.com/2026/05/09/world/middleeast/israel-strikes-lebanon-ceasefire.html",
+      "published_at": "Sat, 09 May 2026 18:25:41 +0000",
+      "url": "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Greece conducts controlled blast of mystery naval drone explosives",
+      "title_neutral": "Greece conducts controlled blast of mystery naval drone explosives",
+      "excerpt": "The unmanned vessel, suspected to be of Ukrainian origin, was found by fishermen in a cave on Thursday.",
+      "recap_neutral": "The unmanned vessel, suspected to be of Ukrainian origin, was found by fishermen in a cave on Thursday",
+      "main_idea": "Greece conducts controlled blast of mystery naval drone explosives",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 09 May 2026 18:00:46 GMT",
+      "url": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Zed Editor Theme-Builder",
+      "title_neutral": "Zed Editor Theme-Builder",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Zed Editor Theme-Builder",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 09 May 2026 17:30:39 +0000",
+      "url": "https://zed.dev/theme-builder",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -474,15 +506,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Introduction to Beaver Triples",
-      "title_neutral": "Introduction to Beaver Triples",
+      "title_original": "I Will Not Add Query Strings to Your URLs",
+      "title_neutral": "I Will Not Add Query Strings to Your URLs",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Introduction to Beaver Triples",
+      "main_idea": "I Will Not Add Query Strings to Your URLs",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Sat, 09 May 2026 16:02:38 +0000",
-      "url": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples",
+      "published_at": "Sat, 09 May 2026 16:28:36 +0000",
+      "url": "https://susam.net/no-query-strings.html",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -536,6 +568,36 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Bobby Cox, Hall of Fame manager of Atlanta Braves, dies at age 84",
+      "title_neutral": "Bobby Cox, Hall of Fame manager of Atlanta Braves, dies at age 84",
+      "excerpt": "The Braves announced Cox's death on Saturday. He managed the team to prominence during the 1990s and the team's only championship in 1995, before retiring after the 2010 season.",
+      "recap_neutral": "The Braves announced Cox's death on Saturday",
+      "main_idea": "Bobby Cox, Hall of Fame manager of Atlanta Braves, dies at age 84",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sat, 09 May 2026 14:41:07 -0400",
+      "url": "https://www.npr.org/2026/05/09/g-s1-121311/bobby-cox-atlanta-braves-dies",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Apple is increasing my cortisol levels",
+      "title_neutral": "Apple is increasing my cortisol levels",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Apple is increasing my cortisol levels",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 09 May 2026 14:40:58 +0000",
+      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Australia's right-wing One Nation party scores historic parliamentary win",
       "title_neutral": "Australia's right-wing One Nation party scores historic parliamentary win",
       "excerpt": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
@@ -566,21 +628,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "GrapheneOS fixes Android VPN leak Google refused to patch",
-      "title_neutral": "GrapheneOS fixes Android VPN leak Google refused to patch",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "GrapheneOS fixes Android VPN leak Google refused to patch",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 09 May 2026 14:11:10 +0000",
-      "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1098,24 +1145,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "National mood is against Republicans, but redistricting could help prop them up",
-      "title_neutral": "National mood is against Republicans, but redistricting could help prop them up",
-      "excerpt": "The national political landscape looks bad for President Trump and Republicans, but recent wins in the redistricting fight could soften the blow they might have suffered without them.",
-      "recap_neutral": "The national political landscape looks bad for President Trump and Republicans, but recent wins in the redistricting fight could soften the blow they might have suffered without them",
-      "main_idea": "National mood is against Republicans, but redistricting could help prop them up",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 09 May 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/05/09/nx-s1-5816246/redistricting-trump-republicans-midterms",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Using Claude Code: The unreasonable effectiveness of HTML",
       "title_neutral": "Using Claude Code: The unreasonable effectiveness of HTML",
       "excerpt": "Comments",
@@ -1493,24 +1522,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "South Africa president faces call to resign after court ruling",
-      "title_neutral": "South Africa president faces call to resign after court ruling",
-      "excerpt": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa.",
-      "recap_neutral": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa",
-      "main_idea": "South Africa president faces call to resign after court ruling",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 08 May 2026 13:35:56 GMT",
-      "url": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "U.A.E. Expels Pakistani Workers, as Pakistan’s Peacemaking Creates a Rift",
       "title_neutral": "U.A.E. Expels Pakistani Workers, as Pakistan’s Peacemaking Creates a Rift",
       "excerpt": "As Pakistan mediates between the U.S. and Iran, its ties to the Emirates have deteriorated. Pakistani workers say they are now being sent home en masse.",
@@ -1626,24 +1637,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-      "title_neutral": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-      "excerpt": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
-      "recap_neutral": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place",
-      "main_idea": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 08 May 2026 08:43:55 GMT",
-      "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     }
   ]
