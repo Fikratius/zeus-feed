@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T13:07:57.712304+00:00",
+  "last_updated": "2026-05-09T14:33:22.211260+00:00",
   "items": [
     {
       "title_original": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
@@ -76,23 +76,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship",
-      "title_neutral": "British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship",
-      "excerpt": "WHO says seven confirmed or suspected cases of hantavirus on MV Hondius, including three passengers who died What is hantavirus, the infection thought to have killed three on cruise ship? A British crew member was in need of urgent medical care and a passenger from the UK remained in a critical but…",
-      "recap_neutral": "WHO says seven confirmed or suspected cases of hantavirus on MV Hondius, including three passengers who died What is hantavirus, the infection thought to have killed three on cruise ship? A British crew member was in ne…",
-      "main_idea": "British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship",
-      "tags": [
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Tue, 05 May 2026 01:52:50 GMT",
-      "url": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
       "confidence": "heuristic"
     },
     {
@@ -178,6 +161,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Removing fsync from our local storage engine",
+      "title_neutral": "Removing fsync from our local storage engine",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Removing fsync from our local storage engine",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 07 May 2026 09:25:58 +0000",
+      "url": "https://fractalbits.com/blog/remove-fsync/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
       "title_neutral": "Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
       "excerpt": "In an exclusive interview from prison, Sadia Moalim Ali, a 27-year-old rickshaw driver, tells of her treatment after being arrested for demonstrating against the government A woman being held in prison in Somalia for taking part in peaceful protests has described how she was tortured by her guards.…",
@@ -226,270 +224,311 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "На Урале открылся ансамбль \"Верхняя Пышма - Город трудовой доблести\"",
-      "title_neutral": "На Урале открылся ансамбль \"Верхняя Пышма - Город трудовой доблести\"",
-      "excerpt": "Комплекс знаменует стела высотой 25 м",
-      "recap_neutral": "Комплекс знаменует стела высотой 25 м",
-      "main_idea": "На Урале открылся ансамбль \"Верхняя Пышма - Город трудовой доблести\"",
+      "title_original": "В Москве заводы и фабрики поздравили ветеранов с Днем Победы",
+      "title_neutral": "В Москве заводы и фабрики поздравили ветеранов с Днем Победы",
+      "excerpt": "Сотрудники предприятий возложили цветы к мемориалам, а также присоединились к акции \"Бессмертный полк\"",
+      "recap_neutral": "Сотрудники предприятий возложили цветы к мемориалам, а также присоединились к акции \"Бессмертный полк\"",
+      "main_idea": "В Москве заводы и фабрики поздравили ветеранов с Днем Победы",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 17:31:50 +0300",
+      "url": "https://tass.ru/obschestvo/27363601",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Депутат Рады Скороход: в ВСУ критически не хватает личного состава",
+      "title_neutral": "Депутат Рады Скороход: в ВСУ критически не хватает личного состава",
+      "excerpt": "Людей еще меньше, чем было, заявила Анна Скороход",
+      "recap_neutral": "Людей еще меньше, чем было, заявила Анна Скороход",
+      "main_idea": "Депутат Рады Скороход: в ВСУ критически не хватает личного состава",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 16:01:28 +0300",
-      "url": "https://tass.ru/obschestvo/27362969",
+      "published_at": "Sat, 09 May 2026 17:29:34 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27363603",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Петербурге гармонисты в \"Бессмертном полку\" собрали вокруг себя поющих горожан",
-      "title_neutral": "В Петербурге гармонисты в \"Бессмертном полку\" собрали вокруг себя поющих горожан",
-      "excerpt": "По словам руководителя Всероссийского союза гармонистов \"Минорка\" Андрея Дуквина, благодаря акции люди объединяются и поддерживают и память",
-      "recap_neutral": "По словам руководителя Всероссийского союза гармонистов \"Минорка\" Андрея Дуквина, благодаря акции люди объединяются и поддерживают и память",
-      "main_idea": "В Петербурге гармонисты в \"Бессмертном полку\" собрали вокруг себя поющих горожан",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 16:00:34 +0300",
-      "url": "https://tass.ru/obschestvo/27362943",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лихачев: Росатом не будет работать с таким \"непотребным\" поставщиком, как Siemens",
-      "title_neutral": "Лихачев: Росатом не будет работать с таким \"непотребным\" поставщиком, как Siemens",
-      "excerpt": "Глава госкорпорации отметил, что нелепый отказ от атомной энергетики в Германии, которая была одним из ведущих мировых атомных вендоров, можно охарактеризовать как выстрел \"себе даже не в ногу, а в другое, более важное место\"",
-      "recap_neutral": "Глава госкорпорации отметил, что нелепый отказ от атомной энергетики в Германии, которая была одним из ведущих мировых атомных вендоров, можно охарактеризовать как выстрел \"себе даже не в ногу, а в другое, более важное…",
-      "main_idea": "Лихачев: Росатом не будет работать с таким \"непотребным\" поставщиком, как Siemens",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 16:00:09 +0300",
-      "url": "https://tass.ru/ekonomika/27362971",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В ДНР провели парад у дома ветерана Великой Отечественной войны",
-      "title_neutral": "В ДНР провели парад у дома ветерана Великой Отечественной войны",
-      "excerpt": "Фронтовик поделился воспоминаниями о военных годах",
-      "recap_neutral": "Фронтовик поделился воспоминаниями о военных годах",
-      "main_idea": "В ДНР провели парад у дома ветерана Великой Отечественной войны",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 15:58:01 +0300",
-      "url": "https://tass.ru/obschestvo/27362967",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Китае надеются на поддержку ФРГ в ответ на рост протекционизма в ЕС",
-      "title_neutral": "В Китае надеются на поддержку ФРГ в ответ на рост протекционизма в ЕС",
-      "excerpt": "Министр коммерции КНР Ван Вэньтао заявил, что в условиях сложной международной обстановки поддержание долгосрочной стабильности Китая и Европы имеет ключевое значение для мировой экономики",
-      "recap_neutral": "Министр коммерции КНР Ван Вэньтао заявил, что в условиях сложной международной обстановки поддержание долгосрочной стабильности Китая и Европы имеет ключевое значение для мировой экономики",
-      "main_idea": "В Китае надеются на поддержку ФРГ в ответ на рост протекционизма в ЕС",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 15:57:18 +0300",
-      "url": "https://tass.ru/ekonomika/27362953",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Верховный правитель Малайзии назвал Путина дорогим другом на встрече в Кремле",
-      "title_neutral": "Верховный правитель Малайзии назвал Путина дорогим другом на встрече в Кремле",
-      "excerpt": "",
-      "recap_neutral": "Верховный правитель Малайзии назвал Путина дорогим другом на встрече в Кремле",
-      "main_idea": "Верховный правитель Малайзии назвал Путина дорогим другом на встрече в Кремле",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 15:55:36 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27362961",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Чечне отразили атаку пяти БПЛА на гражданскую инфраструктуру",
-      "title_neutral": "В Чечне отразили атаку пяти БПЛА на гражданскую инфраструктуру",
-      "excerpt": "Пострадали шесть человек",
-      "recap_neutral": "Пострадали шесть человек",
-      "main_idea": "В Чечне отразили атаку пяти БПЛА на гражданскую инфраструктуру",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 15:55:28 +0300",
-      "url": "https://tass.ru/proisshestviya/27362919",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Верховный правитель Малайзии султан Ибрагим назвал Россию своим вторым домом",
-      "title_neutral": "Верховный правитель Малайзии султан Ибрагим назвал Россию своим вторым домом",
-      "excerpt": "",
-      "recap_neutral": "Верховный правитель Малайзии султан Ибрагим назвал Россию своим вторым домом",
-      "main_idea": "Верховный правитель Малайзии султан Ибрагим назвал Россию своим вторым домом",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 15:54:56 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27362875",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Росатом поставит топливо для АЭС Словакии в 2026 году на €160 млн",
-      "title_neutral": "Росатом поставит топливо для АЭС Словакии в 2026 году на €160 млн",
-      "excerpt": "Глава госкорпорации отметил, что договоренности о поставках улучшенного топлива действуют до середины 2030-х годов",
-      "recap_neutral": "Глава госкорпорации отметил, что договоренности о поставках улучшенного топлива действуют до середины 2030-х годов",
-      "main_idea": "Росатом поставит топливо для АЭС Словакии в 2026 году на €160 млн",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 15:54:49 +0300",
-      "url": "https://tass.ru/ekonomika/27362935",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Российский дзюдоист Лаврентьев завоевал золото на турнире Большого шлема",
-      "title_neutral": "Российский дзюдоист Лаврентьев завоевал золото на турнире Большого шлема",
-      "excerpt": "В финале весовой категории до 73 кг он победил итальянца Фабио Базиле",
-      "recap_neutral": "В финале весовой категории до 73 кг он победил итальянца Фабио Базиле",
-      "main_idea": "Российский дзюдоист Лаврентьев завоевал золото на турнире Большого шлема",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 15:52:51 +0300",
-      "url": "https://tass.ru/sport/27362927",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Более 56 тыс. ямальцев приняли участие в \"Бессмертном полку\"",
-      "title_neutral": "Более 56 тыс. ямальцев приняли участие в \"Бессмертном полку\"",
-      "excerpt": "В Ямало-Ненецком автономном округе в рамках праздничной программы также будут работать автотеатр, полевая , кинохроника военных лет",
-      "recap_neutral": "В Ямало-Ненецком автономном округе в рамках праздничной программы также будут работать автотеатр, полевая , кинохроника военных лет",
-      "main_idea": "Более 56 тыс. ямальцев приняли участие в \"Бессмертном полку\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 15:52:16 +0300",
-      "url": "https://tass.ru/obschestvo/27362869",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Король Малайзии пригласил Путина с государственным визитом в 2027 году",
-      "title_neutral": "Король Малайзии пригласил Путина с государственным визитом в 2027 году",
-      "excerpt": "",
-      "recap_neutral": "Король Малайзии пригласил Путина с государственным визитом в 2027 году",
-      "main_idea": "Король Малайзии пригласил Путина с государственным визитом в 2027 году",
+      "title_original": "Гуцул через адвокатов поздравила Гагаузию с Днем Победы",
+      "title_neutral": "Гуцул через адвокатов поздравила Гагаузию с Днем Победы",
+      "excerpt": "Особенно важно беречь правду о Великой Отечественной войне, подчеркнула глава Гагаузии в обращении",
+      "recap_neutral": "Особенно важно беречь правду о Великой Отечественной войне, подчеркнула глава Гагаузии в обращении",
+      "main_idea": "Гуцул через адвокатов поздравила Гагаузию с Днем Победы",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 15:48:26 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27362863",
+      "published_at": "Sat, 09 May 2026 17:26:10 +0300",
+      "url": "https://tass.ru/obschestvo/27362495",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Раде предложили запретить мужчинам с бронированием выезжать за границу",
-      "title_neutral": "В Раде предложили запретить мужчинам с бронированием выезжать за границу",
-      "excerpt": "Депутат Верховной рады Александр Федиенко также не исключил вероятность отчисления из учебных заведений студентов старше 25 лет, которые фактически не посещают занятия и при этом имеют официальную отсрочку от мобилизации",
-      "recap_neutral": "Депутат Верховной рады Александр Федиенко также не исключил вероятность отчисления из учебных заведений студентов старше 25 лет, которые фактически не посещают занятия и при этом имеют официальную отсрочку от мобилизации",
-      "main_idea": "В Раде предложили запретить мужчинам с бронированием выезжать за границу",
+      "title_original": "В Кишиневе участники автопробега развернули гигантское знамя Победы",
+      "title_neutral": "В Кишиневе участники автопробега развернули гигантское знамя Победы",
+      "excerpt": "Полотно размером 60 на 25 м удерживали сотни человек",
+      "recap_neutral": "Полотно размером 60 на 25 м удерживали сотни человек",
+      "main_idea": "В Кишиневе участники автопробега развернули гигантское знамя Победы",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 17:24:38 +0300",
+      "url": "https://tass.ru/obschestvo/27363377",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На севере Франции прошла церемония в память о русских и советских солдатах",
+      "title_neutral": "На севере Франции прошла церемония в память о русских и советских солдатах",
+      "excerpt": "Во время мероприятия была установлена памятная табличка расстрелянному фашистами в Аррасе советскому партизану Василию Доценко",
+      "recap_neutral": "Во время мероприятия была установлена памятная табличка расстрелянному фашистами в Аррасе советскому партизану Василию Доценко",
+      "main_idea": "На севере Франции прошла церемония в память о русских и советских солдатах",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 15:46:39 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27362819",
+      "published_at": "Sat, 09 May 2026 17:22:08 +0300",
+      "url": "https://tass.ru/obschestvo/27363387",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Bloomberg: в Европе ожидают вывода американских военных не только из ФРГ",
-      "title_neutral": "Bloomberg: в Европе ожидают вывода американских военных не только из ФРГ",
-      "excerpt": "Европейские союзники США по НАТО предполагают, что президент Соединенных Штатов Дональд Трамп может также объявить о выводе военных из Италии",
-      "recap_neutral": "Европейские союзники США по НАТО предполагают, что президент Соединенных Штатов Дональд Трамп может также объявить о выводе военных из Италии",
-      "main_idea": "Bloomberg: в Европе ожидают вывода американских военных не только из ФРГ",
+      "title_original": "Politico: амбиции Зеленского серьезно подорвали отношения ЕС и Киева",
+      "title_neutral": "Politico: амбиции Зеленского серьезно подорвали отношения ЕС и Киева",
+      "excerpt": "Европа устает от лекций Владимира Зеленского, сообщило издание",
+      "recap_neutral": "Европа устает от лекций Владимира Зеленского, сообщило издание",
+      "main_idea": "Politico: амбиции Зеленского серьезно подорвали отношения ЕС и Киева",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 17:20:41 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27363557",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Киеве у Вечного огня женщине не дали включить песню \"День Победы\"",
+      "title_neutral": "В Киеве у Вечного огня женщине не дали включить песню \"День Победы\"",
+      "excerpt": "Ей ответили, что \"про этот день можно помнить и без русских песен\", сообщило украинское издание \"Апостроф\"",
+      "recap_neutral": "Ей ответили, что \"про этот день можно помнить и без русских песен\", сообщило украинское издание \"Апостроф\"",
+      "main_idea": "В Киеве у Вечного огня женщине не дали включить песню \"День Победы\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 17:20:17 +0300",
+      "url": "https://tass.ru/obschestvo/27363417",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Reuters: выявлены два новых заболевших с симптомами хантавируса",
+      "title_neutral": "Reuters: выявлены два новых заболевших с симптомами хантавируса",
+      "excerpt": "Случаи, зафиксированные в Испании и на архипелаге Тристан-да-Кунья в южной части Атлантического океана, связаны со вспышкой заболевания на круизном лайнере MV Hondius, пишет агентство",
+      "recap_neutral": "Случаи, зафиксированные в Испании и на архипелаге Тристан-да-Кунья в южной части Атлантического океана, связаны со вспышкой заболевания на круизном лайнере MV Hondius, пишет агентство",
+      "main_idea": "Reuters: выявлены два новых заболевших с симптомами хантавируса",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 17:19:32 +0300",
+      "url": "https://tass.ru/obschestvo/27363571",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Вене стартовало шествие \"Бессмертного полка\"",
+      "title_neutral": "В Вене стартовало шествие \"Бессмертного полка\"",
+      "excerpt": "Акция собрала на площади Марии Терезии сотни человек",
+      "recap_neutral": "Акция собрала на площади Марии Терезии сотни человек",
+      "main_idea": "В Вене стартовало шествие \"Бессмертного полка\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 17:17:37 +0300",
+      "url": "https://tass.ru/obschestvo/27363549",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ДНР морпехи группировки \"Центр\" возложили цветы к памятникам и мемориалам",
+      "title_neutral": "В ДНР морпехи группировки \"Центр\" возложили цветы к памятникам и мемориалам",
+      "excerpt": "Военнослужащие поучаствовали в церемониях в Мариуполе, Демьяновке и Камышеватой",
+      "recap_neutral": "Военнослужащие поучаствовали в церемониях в Мариуполе, Демьяновке и Камышеватой",
+      "main_idea": "В ДНР морпехи группировки \"Центр\" возложили цветы к памятникам и мемориалам",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 17:14:53 +0300",
+      "url": "https://tass.ru/obschestvo/27363567",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Bild: Бундесрат заблокировал выплату премий рабочим в ФРГ",
+      "title_neutral": "Bild: Бундесрат заблокировал выплату премий рабочим в ФРГ",
+      "excerpt": "Сумма общих выплат составила бы примерно €2,8 млрд",
+      "recap_neutral": "Сумма общих выплат составила бы примерно €2,8 млрд",
+      "main_idea": "Bild: Бундесрат заблокировал выплату премий рабочим в ФРГ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 17:14:17 +0300",
+      "url": "https://tass.ru/ekonomika/27363569",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Щукин возглавил шествие \"Бессмертного полка\" в Махачкале",
+      "title_neutral": "Щукин возглавил шествие \"Бессмертного полка\" в Махачкале",
+      "excerpt": "В Дагестане в шествии приняли участие более 120 тыс. человек",
+      "recap_neutral": "В Дагестане в шествии приняли участие более 120 тыс",
+      "main_idea": "Щукин возглавил шествие \"Бессмертного полка\" в Махачкале",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 17:11:55 +0300",
+      "url": "https://tass.ru/obschestvo/27363531",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Sky: Британия готова направить эсминец для обеспечения судоходства в Ормузе",
+      "title_neutral": "Sky: Британия готова направить эсминец для обеспечения судоходства в Ормузе",
+      "excerpt": "Речь идет о корабле HMS Dragon, который перенаправляется из Восточного Средиземноморья на Ближний Восток, сообщает телеканал",
+      "recap_neutral": "Речь идет о корабле HMS Dragon, который перенаправляется из Восточного Средиземноморья на Ближний Восток, сообщает телеканал",
+      "main_idea": "Sky: Британия готова направить эсминец для обеспечения судоходства в Ормузе",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 09 May 2026 17:10:55 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27363503",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Путин: отношения России и Лаоса строятся на основе дружбы и взаимоуважения",
+      "title_neutral": "Путин: отношения России и Лаоса строятся на основе дружбы и взаимоуважения",
+      "excerpt": "Президент РФ подчеркнул, что рад приветствовать своего коллегу в Москве",
+      "recap_neutral": "Президент РФ подчеркнул, что рад приветствовать своего коллегу в Москве",
+      "main_idea": "Путин: отношения России и Лаоса строятся на основе дружбы и взаимоуважения",
       "tags": [
         "politics",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 15:45:13 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27362785",
+      "published_at": "Sat, 09 May 2026 17:10:27 +0300",
+      "url": "https://tass.ru/politika/27363521",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Петера Мадьяра избрали новым премьер-министром Венгрии",
-      "title_neutral": "Петера Мадьяра избрали новым премьер-министром Венгрии",
-      "excerpt": "В поддержку лидера партии \"Тиса\" на первом заседании Государственного собрания нового созыва выступили 140 депутатов",
-      "recap_neutral": "В поддержку лидера партии \"Тиса\" на первом заседании Государственного собрания нового созыва выступили 140 депутатов",
-      "main_idea": "Петера Мадьяра избрали новым премьер-министром Венгрии",
+      "title_original": "В Москве заявили об увеличении объемов высокотехнологичной медпомощи",
+      "title_neutral": "В Москве заявили об увеличении объемов высокотехнологичной медпомощи",
+      "excerpt": "В столице она оказывается в 32 городских стационарах по 20 профилям",
+      "recap_neutral": "В столице она оказывается в 32 городских стационарах по 20 профилям",
+      "main_idea": "В Москве заявили об увеличении объемов высокотехнологичной медпомощи",
       "tags": [
-        "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 09 May 2026 15:42:42 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27362813",
+      "published_at": "Sat, 09 May 2026 17:08:55 +0300",
+      "url": "https://tass.ru/obschestvo/27363537",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Hungary's new PM sworn in after landslide victory over Orbán",
+      "title_neutral": "Hungary's new PM sworn in after landslide victory over Orbán",
+      "excerpt": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
+      "recap_neutral": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán",
+      "main_idea": "Hungary's new PM sworn in after landslide victory over Orbán",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sat, 09 May 2026 13:58:01 GMT",
+      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Peter Magyar Takes Over as Hungary’s Leader From Viktor Orban",
+      "title_neutral": "Peter Magyar Takes Over as Hungary’s Leader From Viktor Orban",
+      "excerpt": "The former opposition leader, who won a landslide election, now faces the formidable job of dismantling what his predecessor called an “illiberal democracy.”",
+      "recap_neutral": "The former opposition leader, who won a landslide election, now faces the formidable job of dismantling what his predecessor called an “illiberal democracy",
+      "main_idea": "Peter Magyar Takes Over as Hungary’s Leader From Viktor Orban",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 09 May 2026 13:45:47 +0000",
+      "url": "https://www.nytimes.com/2026/05/09/world/europe/peter-magyar-hungary-viktor-orban.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
       "title_original": "Indonesian rescuers retrieve body from Mount Dukono as search continues",
       "title_neutral": "Indonesian rescuers retrieve body from Mount Dukono as search continues",
-      "excerpt": "Woman recovered after volcanic eruption on remote island, while operation to find two missing Singaporeans goes on Rescuers on Saturday recovered the body of an Indonesian woman who was caught in a volcanic eruption on Mount Dukono on Indonesia’s remote island of Halmahera, as search operations con…",
-      "recap_neutral": "Woman recovered after volcanic eruption on remote island, while operation to find two missing Singaporeans goes on Rescuers on Saturday recovered the body of an Indonesian woman who was caught in a volcanic eruption on…",
+      "excerpt": "Woman recovered after volcanic eruption on remote island, while operation to find two missing Singaporeans goes on Rescuers have recovered the body of an Indonesian woman who was caught in a volcanic eruption on Mount Dukono on Indonesia’s remote island of Halmahera, officials have said. Search ope…",
+      "recap_neutral": "Woman recovered after volcanic eruption on remote island, while operation to find two missing Singaporeans goes on Rescuers have recovered the body of an Indonesian woman who was caught in a volcanic eruption on Mount D…",
       "main_idea": "Indonesian rescuers retrieve body from Mount Dukono as search continues",
-      "tags": [],
+      "tags": [
+        "tech"
+      ],
       "source": "The Guardian",
-      "published_at": "Sat, 09 May 2026 12:43:38 GMT",
+      "published_at": "Sat, 09 May 2026 13:08:30 GMT",
       "url": "https://www.theguardian.com/world/2026/may/09/indonesia-volcano-mount-dukono-search-bodies-recovered",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere",
+      "title_neutral": "‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere",
+      "excerpt": "Africa is leading a change in news consumption habits – and transforming the lives of current affairs enthusiasts Last year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Republic of the Congo. She explained an argument that had erupted between the South…",
+      "recap_neutral": "Africa is leading a change in news consumption habits – and transforming the lives of current affairs enthusiasts Last year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Rep…",
+      "main_idea": "‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere",
+      "tags": [
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Sat, 09 May 2026 13:00:57 GMT",
+      "url": "https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media",
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
@@ -612,49 +651,36 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A Less Muscular Victory Day Parade Shows Putin’s Growing Vulnerability",
-      "title_neutral": "A Less Muscular Victory Day Parade Shows Putin’s Growing Vulnerability",
-      "excerpt": "The event, shrunken because of security fears, adds to a sense that Moscow and other Russian cities can no longer be insulated from the war.",
-      "recap_neutral": "The event, shrunken because of security fears, adds to a sense that Moscow and other Russian cities can no longer be insulated from the war",
-      "main_idea": "A Less Muscular Victory Day Parade Shows Putin’s Growing Vulnerability",
+      "title_original": "Why Antiwar Protesters are Rallying in Japan",
+      "title_neutral": "Why Antiwar Protesters are Rallying in Japan",
+      "excerpt": "Demonstrators are opposed to Prime Minister Sanae Takaichi’s efforts to build up military power and move the country away from its pacifist identity.",
+      "recap_neutral": "Demonstrators are opposed to Prime Minister Sanae Takaichi’s efforts to build up military power and move the country away from its pacifist identity",
+      "main_idea": "Why Antiwar Protesters are Rallying in Japan",
       "tags": [
-        "conflict"
+        "conflict",
+        "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 09 May 2026 11:38:18 +0000",
-      "url": "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html",
+      "published_at": "Sat, 09 May 2026 11:42:38 +0000",
+      "url": "https://www.nytimes.com/2026/05/09/world/asia/japan-antiwar-protests-constitution.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Forking the Web",
-      "title_neutral": "Forking the Web",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Forking the Web",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 09 May 2026 11:33:07 +0000",
-      "url": "https://dillo-browser.org/lab/web-fork/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Peter Magyar Prepares to Take Over as Hungary’s Leader From Viktor Orban",
-      "title_neutral": "Peter Magyar Prepares to Take Over as Hungary’s Leader From Viktor Orban",
-      "excerpt": "The former opposition leader, who won a landslide election, now faces the formidable job of dismantling what his predecessor called an “illiberal democracy.”",
-      "recap_neutral": "The former opposition leader, who won a landslide election, now faces the formidable job of dismantling what his predecessor called an “illiberal democracy",
-      "main_idea": "Peter Magyar Prepares to Take Over as Hungary’s Leader From Viktor Orban",
+      "title_original": "A Scaled-Back Victory Day Parade Shows Putin’s Growing Vulnerability in Ukraine War",
+      "title_neutral": "A Scaled-Back Victory Day Parade Shows Putin’s Growing Vulnerability in Ukraine War",
+      "excerpt": "The event, shrunken because of security fears, adds to a sense that Moscow and other Russian cities can no longer be insulated from the war.",
+      "recap_neutral": "The event, shrunken because of security fears, adds to a sense that Moscow and other Russian cities can no longer be insulated from the war",
+      "main_idea": "A Scaled-Back Victory Day Parade Shows Putin’s Growing Vulnerability in Ukraine War",
       "tags": [
-        "politics"
+        "conflict",
+        "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 09 May 2026 09:39:12 +0000",
-      "url": "https://www.nytimes.com/2026/05/09/world/europe/peter-magyar-hungary-viktor-orban.html",
+      "published_at": "Sat, 09 May 2026 11:38:19 +0000",
+      "url": "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -707,21 +733,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Hungary's new PM to be sworn in during 'regime change' party",
-      "title_neutral": "Hungary's new PM to be sworn in during 'regime change' party",
-      "excerpt": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
-      "recap_neutral": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán",
-      "main_idea": "Hungary's new PM to be sworn in during 'regime change' party",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 09 May 2026 09:13:23 GMT",
-      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -821,23 +832,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "China’s Exports and Imports Set Records in April Amid High Energy Costs",
-      "title_neutral": "China’s Exports and Imports Set Records in April Amid High Energy Costs",
-      "excerpt": "The country’s exports surged and its trade surplus with the United States widened ahead of President Trump’s scheduled visit next week to Beijing.",
-      "recap_neutral": "The country’s exports surged and its trade surplus with the United States widened ahead of President Trump’s scheduled visit next week to Beijing",
-      "main_idea": "China’s Exports and Imports Set Records in April Amid High Energy Costs",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 09 May 2026 06:19:55 +0000",
-      "url": "https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Iran accuses US of 'reckless military adventure'",
       "title_neutral": "Iran accuses US of 'reckless military adventure'",
       "excerpt": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
@@ -852,21 +846,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Southern Republicans redistrict after Supreme Court rules, Dems lose big in Virginia",
-      "title_neutral": "Southern Republicans redistrict after Supreme Court rules, Dems lose big in Virginia",
-      "excerpt": "The Supreme Court weakened minority voting rights and prompted Republicans in four states to move to redistrict as part of Trump's push. A court nullified Democratic redistricting in Virginia.",
-      "recap_neutral": "The Supreme Court weakened minority voting rights and prompted Republicans in four states to move to redistrict as part of Trump's push",
-      "main_idea": "Southern Republicans redistrict after Supreme Court rules, Dems lose big in Virginia",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Sat, 09 May 2026 06:00:00 -0400",
-      "url": "https://www.npr.org/2026/05/09/nx-s1-5812908/trump-midterms-redistricting-election",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -896,6 +875,21 @@
       "source": "NPR",
       "published_at": "Sat, 09 May 2026 06:00:00 -0400",
       "url": "https://www.npr.org/2026/05/09/nx-s1-5789051/merchant-marine-sealift-jobs",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Southern Republicans redistrict after Supreme Court rules, Dems lose big in Virginia",
+      "title_neutral": "Southern Republicans redistrict after Supreme Court rules, Dems lose big in Virginia",
+      "excerpt": "The Supreme Court weakened minority voting rights and prompted Republicans in four states to move to redistrict as part of Trump's push. A court nullified Democratic redistricting in Virginia.",
+      "recap_neutral": "The Supreme Court weakened minority voting rights and prompted Republicans in four states to move to redistrict as part of Trump's push",
+      "main_idea": "Southern Republicans redistrict after Supreme Court rules, Dems lose big in Virginia",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sat, 09 May 2026 06:00:00 -0400",
+      "url": "https://www.npr.org/2026/05/09/nx-s1-5812908/trump-midterms-redistricting-election",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -976,7 +970,7 @@
       "main_idea": "Punch, the Lonely Monkey Who Drew Crowds to a Small Japan Zoo, Is Growing Up. He’s Still a Star.",
       "tags": [],
       "source": "NYTimes World",
-      "published_at": "Sat, 09 May 2026 04:01:22 +0000",
+      "published_at": "Sat, 09 May 2026 04:01:23 +0000",
       "url": "https://www.nytimes.com/2026/05/09/world/asia/punch-baby-monkey-japan-zoo.html",
       "lang": "en",
       "bias_score": 55,
