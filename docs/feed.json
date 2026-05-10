@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T13:08:55.649054+00:00",
+  "last_updated": "2026-05-10T14:34:52.162804+00:00",
   "items": [
     {
       "title_original": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
@@ -49,6 +49,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The River Otter's Remarkable Comeback",
+      "title_neutral": "The River Otter's Remarkable Comeback",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The River Otter's Remarkable Comeback",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 07 May 2026 14:00:29 +0000",
+      "url": "https://www.rewildingmag.com/the-river-otters-remarkable-comeback/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -115,250 +130,335 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "На МКС на следующей неделе пройдет испытание нового скафандра",
-      "title_neutral": "На МКС на следующей неделе пройдет испытание нового скафандра",
-      "excerpt": "Речь идет об \"Орлане-МКС\" №8",
-      "recap_neutral": "Речь идет об \"Орлане-МКС\" №8",
-      "main_idea": "На МКС на следующей неделе пройдет испытание нового скафандра",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 10 May 2026 16:02:06 +0300",
-      "url": "https://tass.ru/kosmos/27369887",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Омске завели второе дело после ДТП со школьным автобусом",
-      "title_neutral": "В Омске завели второе дело после ДТП со школьным автобусом",
-      "excerpt": "",
-      "recap_neutral": "В Омске завели второе дело после ДТП со школьным автобусом",
-      "main_idea": "В Омске завели второе дело после ДТП со школьным автобусом",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 10 May 2026 15:55:42 +0300",
-      "url": "https://tass.ru/proisshestviya/27369869",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "МИД Армении: Ереван выберет между ЕС и ЕАЭС, когда придет время",
-      "title_neutral": "МИД Армении: Ереван выберет между ЕС и ЕАЭС, когда придет время",
-      "excerpt": "Министр иностранных дел Арарат Мирзоян заявил, что у армян \"есть европейские притязания\"",
-      "recap_neutral": "Министр иностранных дел Арарат Мирзоян заявил, что у армян \"есть европейские притязания\"",
-      "main_idea": "МИД Армении: Ереван выберет между ЕС и ЕАЭС, когда придет время",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 10 May 2026 15:49:51 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27369829",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Самсонова не смогла выйти в четвертый круг турнира WTA в Риме",
-      "title_neutral": "Самсонова не смогла выйти в четвертый круг турнира WTA в Риме",
-      "excerpt": "В третьем круге россиянка проиграла представительнице Австрии Анастасии Потаповой",
-      "recap_neutral": "В третьем круге россиянка проиграла представительнице Австрии Анастасии Потаповой",
-      "main_idea": "Самсонова не смогла выйти в четвертый круг турнира WTA в Риме",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 10 May 2026 15:49:21 +0300",
-      "url": "https://tass.ru/sport/27369855",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Москве начались работы по замене систем отопления в рамках капремонта",
-      "title_neutral": "В Москве начались работы по замене систем отопления в рамках капремонта",
-      "excerpt": "Специалисты обновят системы центрального отопления в 725 домах",
-      "recap_neutral": "Специалисты обновят системы центрального отопления в 725 домах",
-      "main_idea": "В Москве начались работы по замене систем отопления в рамках капремонта",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 10 May 2026 15:39:06 +0300",
-      "url": "https://tass.ru/obschestvo/27369805",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Стармер на фоне слухов об отставке заявил, что останется на посту премьера",
-      "title_neutral": "Стармер на фоне слухов об отставке заявил, что останется на посту премьера",
-      "excerpt": "Премьер-министр Великобритании напомнил, что он \"всегда говорил о десятилетии национального возрождения\"",
-      "recap_neutral": "Премьер-министр Великобритании напомнил, что он \"всегда говорил о десятилетии национального возрождения\"",
-      "main_idea": "Стармер на фоне слухов об отставке заявил, что останется на посту премьера",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 10 May 2026 15:38:59 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27369817",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Посольство РФ: россиянин из экипажа MV Hondius останется на борту до Нидерландов",
-      "title_neutral": "Посольство РФ: россиянин из экипажа MV Hondius останется на борту до Нидерландов",
-      "excerpt": "На борту лайнера произошла вспышка хантавируса",
-      "recap_neutral": "На борту лайнера произошла вспышка хантавируса",
-      "main_idea": "Посольство РФ: россиянин из экипажа MV Hondius останется на борту до Нидерландов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 10 May 2026 15:32:21 +0300",
-      "url": "https://tass.ru/obschestvo/27369771",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Республика Сербская заявила, что не поддержит утрату правды о победителях против фашизма",
-      "title_neutral": "Республика Сербская заявила, что не поддержит утрату правды о победителях против фашизма",
-      "excerpt": "Президент республики Синиша Каран отметил, что нельзя допустить переписывания истории, представления агрессоров как жертв Второй мировой войны и жертв как агрессоров",
-      "recap_neutral": "Президент республики Синиша Каран отметил, что нельзя допустить переписывания истории, представления агрессоров как жертв Второй мировой войны и жертв как агрессоров",
-      "main_idea": "Республика Сербская заявила, что не поддержит утрату правды о победителях против фашизма",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 10 May 2026 15:30:54 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27369755",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Президент Республики Сербской: упрекающие нас за отношения с РФ перестанут быть партнерами",
-      "title_neutral": "Президент Республики Сербской: упрекающие нас за отношения с РФ перестанут быть партнерами",
-      "excerpt": "Находящийся с визитом в Москве президент Республики Сербской (энтитет Боснии и Герцеговины) Синиша Каран в интервью ТАСС объяснил, почему для него было так значимо попасть на парад Победы, охарактеризовал отношения Республики Сербской с Россией и ответил на вопрос, повлияют ли возобновившиеся конта…",
-      "recap_neutral": "Находящийся с визитом в Москве президент Республики Сербской (энтитет Боснии и Герцеговины) Синиша Каран в интервью ТАСС объяснил, почему для него было так значимо попасть на парад Победы, охарактеризовал отношения Респ…",
-      "main_idea": "Президент Республики Сербской: упрекающие нас за отношения с РФ перестанут быть партнерами",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 10 May 2026 15:30:01 +0300",
-      "url": "https://tass.ru/interviews/27368321",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Омске завели дело после ДТП со школьным автобусом",
-      "title_neutral": "В Омске завели дело после ДТП со школьным автобусом",
-      "excerpt": "В аварии девять человек пострадали, один погиб",
-      "recap_neutral": "В аварии девять человек пострадали, один погиб",
-      "main_idea": "В Омске завели дело после ДТП со школьным автобусом",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 10 May 2026 15:27:15 +0300",
-      "url": "https://tass.ru/proisshestviya/27369737",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "IRNA: Иран направил Пакистану ответ на предложение США об окончании конфликта",
-      "title_neutral": "IRNA: Иран направил Пакистану ответ на предложение США об окончании конфликта",
-      "excerpt": "На текущем этапе переговоры будут касаться только вопроса прекращения войны в регионе, отметило агентство",
-      "recap_neutral": "На текущем этапе переговоры будут касаться только вопроса прекращения войны в регионе, отметило агентство",
-      "main_idea": "IRNA: Иран направил Пакистану ответ на предложение США об окончании конфликта",
+      "title_original": "Ответ Ирана на предложение США включает прекращение огня в Ливане",
+      "title_neutral": "Ответ Ирана на предложение США включает прекращение огня в Ливане",
+      "excerpt": "По информации иранского гостелерадио, текст, переданный пакистанскому посреднику, сосредоточен на прекращении навязанной войны на всех фронтах",
+      "recap_neutral": "По информации иранского гостелерадио, текст, переданный пакистанскому посреднику, сосредоточен на прекращении навязанной войны на всех фронтах",
+      "main_idea": "Ответ Ирана на предложение США включает прекращение огня в Ливане",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 10 May 2026 15:27:03 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27369733",
+      "published_at": "Sun, 10 May 2026 17:28:47 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27370319",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Уфе у женщины изъяли пятерых детей из-за антисанитарных условий и отказа в еде",
-      "title_neutral": "В Уфе у женщины изъяли пятерых детей из-за антисанитарных условий и отказа в еде",
-      "excerpt": "По данным следствия, мать позволяла посторонним применять насилие к несовершеннолетним",
-      "recap_neutral": "По данным следствия, мать позволяла посторонним применять насилие к несовершеннолетним",
-      "main_idea": "В Уфе у женщины изъяли пятерых детей из-за антисанитарных условий и отказа в еде",
+      "title_original": "Бессент посетит Токио и Сеул перед визитом Трампа в КНР",
+      "title_neutral": "Бессент посетит Токио и Сеул перед визитом Трампа в КНР",
+      "excerpt": "Визит американского лидера в Пекин намечен на 14-15 мая",
+      "recap_neutral": "Визит американского лидера в Пекин намечен на 14-15 мая",
+      "main_idea": "Бессент посетит Токио и Сеул перед визитом Трампа в КНР",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 10 May 2026 15:25:28 +0300",
-      "url": "https://tass.ru/proisshestviya/27369681",
+      "published_at": "Sun, 10 May 2026 17:26:47 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27370303",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "19-летний Селебрини будет капитаном сборной Канады на ЧМ по хоккею",
-      "title_neutral": "19-летний Селебрини будет капитаном сборной Канады на ЧМ по хоккею",
-      "excerpt": "Ассистентами капитана будут форвард \"Сент-Луиса\" Райан О'Райлли и нападающий \"Торонто\" Джон Таварес",
-      "recap_neutral": "Ассистентами капитана будут форвард \"Сент-Луиса\" Райан О'Райлли и нападающий \"Торонто\" Джон Таварес",
-      "main_idea": "19-летний Селебрини будет капитаном сборной Канады на ЧМ по хоккею",
-      "tags": [],
+      "title_original": "Spiegel: в ФРГ обсуждают возможность посредничества Штайнмайера в диалоге ЕС и РФ",
+      "title_neutral": "Spiegel: в ФРГ обсуждают возможность посредничества Штайнмайера в диалоге ЕС и РФ",
+      "excerpt": "По информации издания, в коалиции не доверяют экс-канцлеру Герхарду Шрёдеру, которого в качестве посредника ранее предложил президент России Владимир Путин",
+      "recap_neutral": "По информации издания, в коалиции не доверяют экс-канцлеру Герхарду Шрёдеру, которого в качестве посредника ранее предложил президент России Владимир Путин",
+      "main_idea": "Spiegel: в ФРГ обсуждают возможность посредничества Штайнмайера в диалоге ЕС и РФ",
+      "tags": [
+        "politics",
+        "tech"
+      ],
       "source": "ТАСС",
-      "published_at": "Sun, 10 May 2026 15:21:55 +0300",
-      "url": "https://tass.ru/sport/27369693",
+      "published_at": "Sun, 10 May 2026 17:25:33 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27370281",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Политик Дагделен назвала \"большим жестом\" предложение Путина по переговорам с ЕС",
-      "title_neutral": "Политик Дагделен назвала \"большим жестом\" предложение Путина по переговорам с ЕС",
-      "excerpt": "Внешнеполитический эксперт партии BSW отметила, что идею сделать экс-канцлера Герхарда Шрёдера посредником на возможных переговорах России и Евросоюза следует приветствовать",
-      "recap_neutral": "Внешнеполитический эксперт партии BSW отметила, что идею сделать экс-канцлера Герхарда Шрёдера посредником на возможных переговорах России и Евросоюза следует приветствовать",
-      "main_idea": "Политик Дагделен назвала \"большим жестом\" предложение Путина по переговорам с ЕС",
+      "title_original": "Дзюдоист Тасоев победил на турнире Большого шлема в Астане",
+      "title_neutral": "Дзюдоист Тасоев победил на турнире Большого шлема в Астане",
+      "excerpt": "В финале в весовой категории свыше 100 кг российский спортсмен победил представителя Азербайджана Ушанги Кокаури",
+      "recap_neutral": "В финале в весовой категории свыше 100 кг российский спортсмен победил представителя Азербайджана Ушанги Кокаури",
+      "main_idea": "Дзюдоист Тасоев победил на турнире Большого шлема в Астане",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 10 May 2026 15:21:35 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27369703",
+      "published_at": "Sun, 10 May 2026 17:24:18 +0300",
+      "url": "https://tass.ru/sport/27370297",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Петербурге открылся V Гастрономический фестиваль",
-      "title_neutral": "В Петербурге открылся V Гастрономический фестиваль",
-      "excerpt": "В честь 81-й годовщины Победы в Великой Отечественной войне всех гостей бесплатно угощают солдатской гречневой кашей с тушенкой",
-      "recap_neutral": "В честь 81-й годовщины Победы в Великой Отечественной войне всех гостей бесплатно угощают солдатской гречневой кашей с тушенкой",
-      "main_idea": "В Петербурге открылся V Гастрономический фестиваль",
+      "title_original": "В ГАИ назвали причину ДТП под Омском",
+      "title_neutral": "В ГАИ назвали причину ДТП под Омском",
+      "excerpt": "Авария произошла из-за выезда школьного автобуса на встречную полосу",
+      "recap_neutral": "Авария произошла из-за выезда школьного автобуса на встречную полосу",
+      "main_idea": "В ГАИ назвали причину ДТП под Омском",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 10 May 2026 17:22:39 +0300",
+      "url": "https://tass.ru/proisshestviya/27370293",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Al Jazeera: Пакистан передал США ответ Ирана на американское предложение",
+      "title_neutral": "Al Jazeera: Пакистан передал США ответ Ирана на американское предложение",
+      "excerpt": "Предложение касается урегулирования конфликта, сообщил катарский телеканал",
+      "recap_neutral": "Предложение касается урегулирования конфликта, сообщил катарский телеканал",
+      "main_idea": "Al Jazeera: Пакистан передал США ответ Ирана на американское предложение",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 10 May 2026 15:21:31 +0300",
-      "url": "https://tass.ru/obschestvo/27369677",
+      "published_at": "Sun, 10 May 2026 17:21:24 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27370271",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве более 2 тыс. объектов промыли после зимы",
+      "title_neutral": "В Москве более 2 тыс. объектов промыли после зимы",
+      "excerpt": "В работах по промывке инженерных сооружений задействовали около 1 тыс. рабочих",
+      "recap_neutral": "В работах по промывке инженерных сооружений задействовали около 1 тыс",
+      "main_idea": "В Москве более 2 тыс. объектов промыли после зимы",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 10 May 2026 17:20:45 +0300",
+      "url": "https://tass.ru/obschestvo/27370269",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Калуге прошли похороны убитого спортсмена Исаева",
+      "title_neutral": "В Калуге прошли похороны убитого спортсмена Исаева",
+      "excerpt": "Отпевание состоялось в Свято-Троицком кафедральном соборе",
+      "recap_neutral": "Отпевание состоялось в Свято-Троицком кафедральном соборе",
+      "main_idea": "В Калуге прошли похороны убитого спортсмена Исаева",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 10 May 2026 17:10:45 +0300",
+      "url": "https://tass.ru/obschestvo/27370241",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Менеджер Чимаева рассказал о его состоянии после боя со Стриклендом",
+      "title_neutral": "Менеджер Чимаева рассказал о его состоянии после боя со Стриклендом",
+      "excerpt": "Чимаев проиграл раздельным решением судей и не смог защитить титул чемпиона UFC",
+      "recap_neutral": "Чимаев проиграл раздельным решением судей и не смог защитить титул чемпиона UFC",
+      "main_idea": "Менеджер Чимаева рассказал о его состоянии после боя со Стриклендом",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 10 May 2026 17:08:02 +0300",
+      "url": "https://tass.ru/sport/27370239",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Команда \"Легенды хоккея\" обыграла сборную Ночной лиги в гала-матче",
+      "title_neutral": "Команда \"Легенды хоккея\" обыграла сборную Ночной лиги в гала-матче",
+      "excerpt": "Встреча завершилась со счетом 17:11",
+      "recap_neutral": "Встреча завершилась со счетом 17:11",
+      "main_idea": "Команда \"Легенды хоккея\" обыграла сборную Ночной лиги в гала-матче",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 10 May 2026 17:06:51 +0300",
+      "url": "https://tass.ru/sport/27370233",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Уолтц: США и Иран продолжают дипломатию для урегулирования конфликта",
+      "title_neutral": "Уолтц: США и Иран продолжают дипломатию для урегулирования конфликта",
+      "excerpt": "Постпред США при ООН утверждает, что американский президент Дональд Трамп готов при необходимости вернуться к боевым действиям против исламской республики",
+      "recap_neutral": "Постпред США при ООН утверждает, что американский президент Дональд Трамп готов при необходимости вернуться к боевым действиям против исламской республики",
+      "main_idea": "Уолтц: США и Иран продолжают дипломатию для урегулирования конфликта",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 10 May 2026 17:06:04 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27370215",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Омской федерации футбола неизвестно о турнире, участники которого попали в ДТП",
+      "title_neutral": "Омской федерации футбола неизвестно о турнире, участники которого попали в ДТП",
+      "excerpt": "В аварии погиб ребенок",
+      "recap_neutral": "В аварии погиб ребенок",
+      "main_idea": "Омской федерации футбола неизвестно о турнире, участники которого попали в ДТП",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 10 May 2026 17:02:44 +0300",
+      "url": "https://tass.ru/obschestvo/27370197",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Зенит\" вышел на первое место в РПЛ, обыграв \"Сочи\"",
+      "title_neutral": "\"Зенит\" вышел на первое место в РПЛ, обыграв \"Сочи\"",
+      "excerpt": "Петербургская команда на два очка опережает \"Краснодар\", который имеет матч в запасе",
+      "recap_neutral": "Петербургская команда на два очка опережает \"Краснодар\", который имеет матч в запасе",
+      "main_idea": "\"Зенит\" вышел на первое место в РПЛ, обыграв \"Сочи\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 10 May 2026 17:01:00 +0300",
+      "url": "https://tass.ru/sport/27370205",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Курской области при атаке дрона ВСУ пострадал человек",
+      "title_neutral": "В Курской области при атаке дрона ВСУ пострадал человек",
+      "excerpt": "Беспилотник атаковал частный дом в поселке Песчанский",
+      "recap_neutral": "Беспилотник атаковал частный дом в поселке Песчанский",
+      "main_idea": "В Курской области при атаке дрона ВСУ пострадал человек",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 10 May 2026 16:55:37 +0300",
+      "url": "https://tass.ru/proisshestviya/27370183",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Дзюдоистка Старцева выиграла турнир Большого шлема",
+      "title_neutral": "Дзюдоистка Старцева выиграла турнир Большого шлема",
+      "excerpt": "В финале весовой категории свыше 78 кг она победила Камилу Берликаш из Казахстана",
+      "recap_neutral": "В финале весовой категории свыше 78 кг она победила Камилу Берликаш из Казахстана",
+      "main_idea": "Дзюдоистка Старцева выиграла турнир Большого шлема",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 10 May 2026 16:53:27 +0300",
+      "url": "https://tass.ru/sport/27370177",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran sends response to US proposals to end war",
+      "title_neutral": "Iran sends response to US proposals to end war",
+      "excerpt": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
+      "recap_neutral": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end",
+      "main_idea": "Iran sends response to US proposals to end war",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 10 May 2026 14:21:07 GMT",
+      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
+      "title_neutral": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
+      "excerpt": "Small groups of passengers and crew disembarked from the ship after it anchored off Spain’s Canary Islands on Sunday. People were expected to fly to their home countries through Monday, officials said.",
+      "recap_neutral": "Small groups of passengers and crew disembarked from the ship after it anchored off Spain’s Canary Islands on Sunday",
+      "main_idea": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 10 May 2026 13:58:05 +0000",
+      "url": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Putin says he thinks Ukraine conflict 'coming to an end'",
+      "title_neutral": "Putin says he thinks Ukraine conflict 'coming to an end'",
+      "excerpt": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
+      "recap_neutral": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky",
+      "main_idea": "Putin says he thinks Ukraine conflict 'coming to an end'",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 10 May 2026 13:56:43 GMT",
+      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "British Paratroopers Deliver Aid to Remote Islands With Possible Hantavirus Case",
+      "title_neutral": "British Paratroopers Deliver Aid to Remote Islands With Possible Hantavirus Case",
+      "excerpt": "The British military took critical medical supplies to Tristan da Cunha, a tiny British archipelago where authorities have identified a suspected hantavirus case.",
+      "recap_neutral": "The British military took critical medical supplies to Tristan da Cunha, a tiny British archipelago where authorities have identified a suspected hantavirus case",
+      "main_idea": "British Paratroopers Deliver Aid to Remote Islands With Possible Hantavirus Case",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 10 May 2026 13:49:01 +0000",
+      "url": "https://www.nytimes.com/2026/05/10/world/europe/britain-parachute-hantavirus-hondius-tristan.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "First passengers fly home from virus-hit cruise ship",
+      "title_neutral": "First passengers fly home from virus-hit cruise ship",
+      "excerpt": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
+      "recap_neutral": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected",
+      "main_idea": "First passengers fly home from virus-hit cruise ship",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sun, 10 May 2026 13:30:52 GMT",
+      "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -538,23 +638,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Spain starts evacuating virus-hit cruise ship in Tenerife",
-      "title_neutral": "Spain starts evacuating virus-hit cruise ship in Tenerife",
-      "excerpt": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
-      "recap_neutral": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected",
-      "main_idea": "Spain starts evacuating virus-hit cruise ship in Tenerife",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 10 May 2026 10:57:22 GMT",
-      "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Punch, the Lonely Monkey Who Drew Crowds to a Small Japan Zoo, Is Growing Up. He’s Still a Star.",
       "title_neutral": "Punch, the Lonely Monkey Who Drew Crowds to a Small Japan Zoo, Is Growing Up. He’s Still a Star.",
       "excerpt": "The macaque, now 9 months old, has been attracting tens of thousands of visitors to a small Japanese zoo. He ignores the attention.",
@@ -585,20 +668,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
-      "title_neutral": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
-      "excerpt": "The MV Hondius, which had carried passengers infected with the virus, anchored off Spain’s Canary Islands on Sunday. Evacuations of other passengers were expected through Monday evening, officials said.",
-      "recap_neutral": "The MV Hondius, which had carried passengers infected with the virus, anchored off Spain’s Canary Islands on Sunday",
-      "main_idea": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
+      "title_original": "Willy Wonka would love this laboratory that checks the quality of chocolate",
+      "title_neutral": "Willy Wonka would love this laboratory that checks the quality of chocolate",
+      "excerpt": "The chocolate biz is raising the bar with a lab to assess cacao beans from around the world. (Talk about a sweet gig!) Consumers and farmers stand to benefit from the \"Standard of Excellence\" program.",
+      "recap_neutral": "The chocolate biz is raising the bar with a lab to assess cacao beans from around the world",
+      "main_idea": "Willy Wonka would love this laboratory that checks the quality of chocolate",
       "tags": [
         "tech"
       ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 10 May 2026 09:48:12 +0000",
-      "url": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
+      "source": "NPR",
+      "published_at": "Sun, 10 May 2026 10:07:06 -0400",
+      "url": "https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1041,21 +1124,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "title_neutral": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 10 May 2026 03:01:44 +0000",
-      "url": "https://github.com/imtomt/ymawky",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "87 Blog Posts To Learn About Machine Learning Tutorials",
       "title_neutral": "87 Blog Posts To Learn About Machine Learning Tutorials",
       "excerpt": "Let's learn about Machine Learning Tutorials via these 87 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. Machine learning tutorials are educational resources that guide users throug…",
@@ -1070,25 +1138,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "title_neutral": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "excerpt": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
-      "recap_neutral": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky",
-      "main_idea": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 10 May 2026 00:46:07 GMT",
-      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1315,23 +1364,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "'We're dry:' The new U.S. Wildland Fire Service prepares for extreme fire season",
-      "title_neutral": "'We're dry:' The new U.S. Wildland Fire Service prepares for extreme fire season",
-      "excerpt": "Brian Fennessy, new head of the U.S. Wildland Fire Service, says his agency is 'trying to bring on additional aircraft and bring them on early,' and dismisses criticism of prevention methods.",
-      "recap_neutral": "Brian Fennessy, new head of the U",
-      "main_idea": "'We're dry:' The new U.S. Wildland Fire Service prepares for extreme fire season",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 09 May 2026 15:03:44 -0400",
-      "url": "https://www.npr.org/2026/05/09/nx-s1-5804693/prevention-wildfires-firefighters-vegetation-wildland-fire-service",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Australia's right-wing One Nation party scores historic parliamentary win",
       "title_neutral": "Australia's right-wing One Nation party scores historic parliamentary win",
       "excerpt": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
@@ -1381,24 +1413,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
-      "title_neutral": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
-      "excerpt": "One Nation, an anti-immigration party with Trumpian policies that has risen in popularity, won a seat in Parliament’s lower house for the first time.",
-      "recap_neutral": "One Nation, an anti-immigration party with Trumpian policies that has risen in popularity, won a seat in Parliament’s lower house for the first time",
-      "main_idea": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 09 May 2026 12:30:25 +0000",
-      "url": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1507,24 +1521,6 @@
       "source": "BBC World",
       "published_at": "Sat, 09 May 2026 06:13:30 GMT",
       "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "International cyber attack disrupts swathe of universities and schools",
-      "title_neutral": "International cyber attack disrupts swathe of universities and schools",
-      "excerpt": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
-      "recap_neutral": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe",
-      "main_idea": "International cyber attack disrupts swathe of universities and schools",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 09 May 2026 01:17:55 GMT",
-      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
