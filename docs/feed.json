@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T16:29:25.012661+00:00",
+  "last_updated": "2026-05-11T18:18:23.095173+00:00",
   "items": [
     {
       "title_original": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
@@ -261,21 +261,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Running local models on an M4 with 24GB memory",
-      "title_neutral": "Running local models on an M4 with 24GB memory",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Running local models on an M4 with 24GB memory",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 10 May 2026 23:09:10 +0000",
-      "url": "https://jola.dev/posts/running-local-models-on-m4",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
       "title_neutral": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
       "excerpt": "Small groups of passengers and crew left the ship after it anchored off Spain’s Canary Islands on Sunday. Those aboard were expected to be flown to their home countries, officials said.",
@@ -341,40 +326,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Hardware Attestation as Monopoly Enabler",
-      "title_neutral": "Hardware Attestation as Monopoly Enabler",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Hardware Attestation as Monopoly Enabler",
-      "tags": [
-        "conflict"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sun, 10 May 2026 17:54:02 +0000",
-      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Local AI needs to be the norm",
-      "title_neutral": "Local AI needs to be the norm",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Local AI needs to be the norm",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sun, 10 May 2026 17:19:28 +0000",
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -478,22 +429,239 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran War Live Updates: Long-Term Energy Crisis Looms as U.S. and Iran Remain in Standoff",
-      "title_neutral": "Iran War Live Updates: Long-Term Energy Crisis Looms as U.S. and Iran Remain in Standoff",
-      "excerpt": "Iran defended its demands for a peace deal after President Trump called them “unacceptable.” Oil prices rose and stocks were flat amid no signs of an end to the war.",
-      "recap_neutral": "Iran defended its demands for a peace deal after President Trump called them “unacceptable",
-      "main_idea": "Iran War Live Updates: Long-Term Energy Crisis Looms as U.S. and Iran Remain in Standoff",
+      "title_original": "Iran War Live Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’",
+      "title_neutral": "Iran War Live Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’",
+      "excerpt": "Iran defended its demands for a peace deal and President Trump called them “garbage.” Mr. Trump said he wanted to suspend the federal gasoline tax, which would require congressional approval.",
+      "recap_neutral": "Iran defended its demands for a peace deal and President Trump called them “garbage",
+      "main_idea": "Iran War Live Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’",
       "tags": [
         "politics",
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Mon, 11 May 2026 16:17:21 +0000",
+      "published_at": "Mon, 11 May 2026 18:12:33 +0000",
       "url": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump Proposes Suspending Federal Gas Tax Until Prices Fall",
+      "title_neutral": "Trump Proposes Suspending Federal Gas Tax Until Prices Fall",
+      "excerpt": "Congress would have to agree to any suspension, and dropping federal taxes would not make up for the steep increase in prices since the war began.",
+      "recap_neutral": "Congress would have to agree to any suspension, and dropping federal taxes would not make up for the steep increase in prices since the war began",
+      "main_idea": "Trump Proposes Suspending Federal Gas Tax Until Prices Fall",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 11 May 2026 18:12:31 +0000",
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/trump-gas-tax.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
+      "title_neutral": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
+      "excerpt": "The health authorities are working to calm fears and contain the rare virus. Three passengers died after traveling on the ship, and several others fell ill or tested positive.",
+      "recap_neutral": "The health authorities are working to calm fears and contain the rare virus",
+      "main_idea": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 11 May 2026 18:02:41 +0000",
+      "url": "https://www.nytimes.com/article/hantavirus-cruise-ship-outbreak-hondius.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "title_neutral": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Mon, 11 May 2026 17:43:12 +0000",
+      "url": "https://bild.ai/jobs",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
+      "title_neutral": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
+      "excerpt": "A total of 17 US executives are set to join the president on his visit, where he will meet his Chinese counterpart Xi Jinping.",
+      "recap_neutral": "A total of 17 US executives are set to join the president on his visit, where he will meet his Chinese counterpart Xi Jinping",
+      "main_idea": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
+      "tags": [
+        "politics"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 11 May 2026 17:24:21 GMT",
+      "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Microsoft Israel chief leaves amid ethical controversy",
+      "title_neutral": "Microsoft Israel chief leaves amid ethical controversy",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Microsoft Israel chief leaves amid ethical controversy",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 11 May 2026 17:18:11 +0000",
+      "url": "https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602",
+      "lang": "en",
+      "bias_score": 56,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US passengers from ship quarantined as officials say public risk 'very low'",
+      "title_neutral": "US passengers from ship quarantined as officials say public risk 'very low'",
+      "excerpt": "One passenger has tested positive for Andes virus, a rare type of hantavirus, while another is showing mild symptoms, health officials say.",
+      "recap_neutral": "One passenger has tested positive for Andes virus, a rare type of hantavirus, while another is showing mild symptoms, health officials say",
+      "main_idea": "US passengers from ship quarantined as officials say public risk 'very low'",
+      "tags": [
+        "health"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 11 May 2026 17:17:25 GMT",
+      "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Oil price predicted to remain above $100 for rest of year",
+      "title_neutral": "Oil price predicted to remain above $100 for rest of year",
+      "excerpt": "Investment bank JP Morgan expects oil to remain in the \"low $100s\" even if the Strait of Hormuz were to reopen next month.",
+      "recap_neutral": "Investment bank JP Morgan expects oil to remain in the \"low $100s\" even if the Strait of Hormuz were to reopen next month",
+      "main_idea": "Oil price predicted to remain above $100 for rest of year",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 11 May 2026 16:57:15 GMT",
+      "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
+      "title_neutral": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
+      "excerpt": "A fishermen's leader tells the BBC that 40 people are feared dead - either in the strikes or drowning as they tried to flee.",
+      "recap_neutral": "A fishermen's leader tells the BBC that 40 people are feared dead - either in the strikes or drowning as they tried to flee",
+      "main_idea": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 11 May 2026 16:30:04 GMT",
+      "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Starmer Says Defeat Hurt but Promises He’ll Fight to Stay On",
+      "title_neutral": "Starmer Says Defeat Hurt but Promises He’ll Fight to Stay On",
+      "excerpt": "Prime Minister Keir Starmer of Britain managed to quell an immediate mutiny in his Labour Party after last week’s election results. But for how long?",
+      "recap_neutral": "Prime Minister Keir Starmer of Britain managed to quell an immediate mutiny in his Labour Party after last week’s election results",
+      "main_idea": "Starmer Says Defeat Hurt but Promises He’ll Fight to Stay On",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 11 May 2026 16:26:46 +0000",
+      "url": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Interfaze: A new model architecture built for high accuracy at scale",
+      "title_neutral": "Interfaze: A new model architecture built for high accuracy at scale",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Interfaze: A new model architecture built for high accuracy at scale",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 11 May 2026 16:22:31 +0000",
+      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "European Union Hits Israeli Settlers With Sanctions",
+      "title_neutral": "European Union Hits Israeli Settlers With Sanctions",
+      "excerpt": "Israel criticized the European Union’s announcement that it will apply sanctions to Israeli settlers over violence against Palestinians.",
+      "recap_neutral": "Israel criticized the European Union’s announcement that it will apply sanctions to Israeli settlers over violence against Palestinians",
+      "main_idea": "European Union Hits Israeli Settlers With Sanctions",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 11 May 2026 16:22:14 +0000",
+      "url": "https://www.nytimes.com/2026/05/11/world/europe/israel-settlers-european-union-sanctions.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Show HN: TikTok but for Scientific Papers",
+      "title_neutral": "Show HN: TikTok but for Scientific Papers",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: TikTok but for Scientific Papers",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 11 May 2026 16:05:50 +0000",
+      "url": "https://andreaturchet.github.io/website/index.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+      "title_neutral": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 11 May 2026 15:55:07 +0000",
+      "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -516,23 +684,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "How Might a Leadership Challenge Against Keir Starmer Play Out?",
-      "title_neutral": "How Might a Leadership Challenge Against Keir Starmer Play Out?",
-      "excerpt": "Prime Minister Keir Starmer of Britain has pledged to stay in post. But if his opponents mounted a challenge, here’s what would happen.",
-      "recap_neutral": "Prime Minister Keir Starmer of Britain has pledged to stay in post",
-      "main_idea": "How Might a Leadership Challenge Against Keir Starmer Play Out?",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 11 May 2026 15:36:25 +0000",
-      "url": "https://www.nytimes.com/2026/05/10/world/europe/starmer-west-resign.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "How Israel Turned Eurovision’s Stage Into a Soft Power Tool",
       "title_neutral": "How Israel Turned Eurovision’s Stage Into a Soft Power Tool",
       "excerpt": "Israel’s efforts to influence Eurovision’s vote were broader and started years earlier than previously known.",
@@ -545,23 +696,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: Free tool to see how much AI bots are costing your site",
-      "title_neutral": "Show HN: Free tool to see how much AI bots are costing your site",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Free tool to see how much AI bots are costing your site",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Mon, 11 May 2026 15:09:13 +0000",
-      "url": "https://botcost.dev",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -650,21 +784,21 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Oil prices jump after Trump dismisses Iran proposal to end war",
-      "title_neutral": "Oil prices jump after Trump dismisses Iran proposal to end war",
-      "excerpt": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments.",
-      "recap_neutral": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments",
-      "main_idea": "Oil prices jump after Trump dismisses Iran proposal to end war",
+      "title_original": "Software engineering may no longer be a lifetime career",
+      "title_neutral": "Software engineering may no longer be a lifetime career",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Software engineering may no longer be a lifetime career",
       "tags": [
         "conflict",
         "tech"
       ],
-      "source": "BBC World",
-      "published_at": "Mon, 11 May 2026 14:27:49 GMT",
-      "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+      "source": "Hacker News",
+      "published_at": "Mon, 11 May 2026 14:34:08 +0000",
+      "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -720,41 +854,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "What's Wrong with AI?",
-      "title_neutral": "What's Wrong with AI?",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "What's Wrong with AI?",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Mon, 11 May 2026 14:18:28 +0000",
-      "url": "https://kurtis.weblog.lol/2026/05/whats-wrong-with-ai",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Narges Mohammadi, Jailed Iranian Nobel Prize Winner Is Transferred to Tehran Hospital",
-      "title_neutral": "Narges Mohammadi, Jailed Iranian Nobel Prize Winner Is Transferred to Tehran Hospital",
-      "excerpt": "Narges Mohammadi, a prominent human rights activist who has spent much of her adult life in and out of prison, will undergo treatment in Tehran after collapsing earlier this month, a foundation run by her family said.",
-      "recap_neutral": "Narges Mohammadi, a prominent human rights activist who has spent much of her adult life in and out of prison, will undergo treatment in Tehran after collapsing earlier this month, a foundation run by her family said",
-      "main_idea": "Narges Mohammadi, Jailed Iranian Nobel Prize Winner Is Transferred to Tehran Hospital",
-      "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 11 May 2026 14:13:57 +0000",
-      "url": "https://www.nytimes.com/2026/05/11/world/middleeast/narges-mohammadi-iran-nobel-hospital-tehran.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Educational Byte: What Is the EVM and Why Is It Everywhere in Crypto?",
       "title_neutral": "Educational Byte: What Is the EVM and Why Is It Everywhere in Crypto?",
       "excerpt": "The Ethereum Virtual Machine (EVM) isn’t present solely on Ethereum. Instead, it powers thousands of Dapps across several networks. Let’s learn more about it.",
@@ -767,42 +866,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
-      "title_neutral": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
-      "excerpt": "A fishermen's leader tells the BBC that 40 people are feared dead - either in the strikes or drowning as they tried to flee.",
-      "recap_neutral": "A fishermen's leader tells the BBC that 40 people are feared dead - either in the strikes or drowning as they tried to flee",
-      "main_idea": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Mon, 11 May 2026 14:04:56 GMT",
-      "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
-      "title_neutral": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
-      "excerpt": "The health authorities are working to calm fears and contain the rare virus. Three passengers died after traveling on the ship, and several others fell ill or tested positive.",
-      "recap_neutral": "The health authorities are working to calm fears and contain the rare virus",
-      "main_idea": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
-      "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 11 May 2026 14:04:24 +0000",
-      "url": "https://www.nytimes.com/article/hantavirus-cruise-ship-outbreak-hondius.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -886,18 +949,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Create a 90s GeoCities style website in seconds (Python)",
-      "title_neutral": "Create a 90s GeoCities style website in seconds (Python)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Create a 90s GeoCities style website in seconds (Python)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 11 May 2026 13:10:25 +0000",
-      "url": "https://pypi.org/project/create-geocities-app/",
+      "title_original": "Trump wants to suspend the federal gas tax as prices soar amid war with Iran",
+      "title_neutral": "Trump wants to suspend the federal gas tax as prices soar amid war with Iran",
+      "excerpt": "Suspending the federal gas tax would require an act of Congress.",
+      "recap_neutral": "Suspending the federal gas tax would require an act of Congress",
+      "main_idea": "Trump wants to suspend the federal gas tax as prices soar amid war with Iran",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 11 May 2026 12:59:38 -0400",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5818446/trump-gas-tax",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1020,24 +1085,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Starmer Promises Urgent Change as He Battles to Save Premiership",
-      "title_neutral": "Starmer Promises Urgent Change as He Battles to Save Premiership",
-      "excerpt": "Prime Minister Keir Starmer of Britain used a speech to attempt to quell a mutiny in the Labour Party after last week’s dire election results.",
-      "recap_neutral": "Prime Minister Keir Starmer of Britain used a speech to attempt to quell a mutiny in the Labour Party after last week’s dire election results",
-      "main_idea": "Starmer Promises Urgent Change as He Battles to Save Premiership",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 11 May 2026 11:41:23 +0000",
-      "url": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1354,24 +1401,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
-      "title_neutral": "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
-      "excerpt": "He said the austerity measures would reduce India's fuel use and help save foreign exchange.",
-      "recap_neutral": "He said the austerity measures would reduce India's fuel use and help save foreign exchange",
-      "main_idea": "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Mon, 11 May 2026 07:13:41 GMT",
-      "url": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "As ranks of uninsured grow, charity care can be hard to come by at many hospitals",
       "title_neutral": "As ranks of uninsured grow, charity care can be hard to come by at many hospitals",
       "excerpt": "An investigation of hospital data and charity care programs shows most Minnesota hospitals provide little financial aid to patients and often make assistance difficult to get.",
@@ -1408,24 +1437,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Marketers say NAD+ pills and infusions can boost longevity. What's the evidence?",
-      "title_neutral": "Marketers say NAD+ pills and infusions can boost longevity. What's the evidence?",
-      "excerpt": "Wellness and longevity influencers are pushing a compound called NAD+. There's scientific interest in its potential, but researchers say the marketing claims have gotten ahead of the science.",
-      "recap_neutral": "Wellness and longevity influencers are pushing a compound called NAD+",
-      "main_idea": "Marketers say NAD+ pills and infusions can boost longevity. What's the evidence?",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Mon, 11 May 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/05/11/nx-s1-5813664/nad-infusions-supplements-longevity-science",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "How do you cut your food bill? NPR wants to hear your tips",
       "title_neutral": "How do you cut your food bill? NPR wants to hear your tips",
       "excerpt": "With rising food costs, NPR wants to hear your tips and hacks for reducing your bill.",
@@ -1453,6 +1464,24 @@
       "source": "NPR",
       "published_at": "Mon, 11 May 2026 05:00:00 -0400",
       "url": "https://www.npr.org/2026/05/11/nx-s1-5716202/discount-groceries-aldi-food-affordability",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Marketers say NAD+ pills and infusions can boost longevity. What's the evidence?",
+      "title_neutral": "Marketers say NAD+ pills and infusions can boost longevity. What's the evidence?",
+      "excerpt": "Wellness and longevity influencers are pushing a compound called NAD+. There's scientific interest in its potential, but researchers say the marketing claims have gotten ahead of the science.",
+      "recap_neutral": "Wellness and longevity influencers are pushing a compound called NAD+",
+      "main_idea": "Marketers say NAD+ pills and infusions can boost longevity. What's the evidence?",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 11 May 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5813664/nad-infusions-supplements-longevity-science",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1493,23 +1522,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
-      "title_neutral": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
-      "excerpt": "Thaksin seems incapable of taking a back seat. This time, it really could be different.",
-      "recap_neutral": "Thaksin seems incapable of taking a back seat",
-      "main_idea": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Mon, 11 May 2026 03:41:34 GMT",
-      "url": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Thailand’s Thaksin Shinawatra Is Out of Prison. What Will He Do Now?",
       "title_neutral": "Thailand’s Thaksin Shinawatra Is Out of Prison. What Will He Do Now?",
       "excerpt": "Mr. Thaksin has long been a foil to Thailand’s conservative establishment. He still holds significant influence, with his political party a member of the governing coalition.",
@@ -1524,40 +1536,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-      "title_neutral": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Mon, 11 May 2026 02:43:34 +0000",
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Remains of a U.S. soldier who went missing in Morocco have been recovered",
-      "title_neutral": "Remains of a U.S. soldier who went missing in Morocco have been recovered",
-      "excerpt": "The remains of a U.S. soldier who went missing during military drills in Morocco were recovered in the Atlantic Ocean, the army said. Military teams are searching for a second missing soldier.",
-      "recap_neutral": "The remains of a U",
-      "main_idea": "Remains of a U.S. soldier who went missing in Morocco have been recovered",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Mon, 11 May 2026 02:17:02 -0400",
-      "url": "https://www.npr.org/2026/05/11/g-s1-121363/remains-of-missing-us-soldier",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1594,26 +1572,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Driver accused of DUI tracks missing laptop to Illinois State trooper's house",
-      "title_neutral": "Driver accused of DUI tracks missing laptop to Illinois State trooper's house",
+      "title_original": "AMÁLIA and the future of European Portuguese LLMs",
+      "title_neutral": "AMÁLIA and the future of European Portuguese LLMs",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Driver accused of DUI tracks missing laptop to Illinois State trooper's house",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 08 May 2026 18:51:35 +0000",
-      "url": "https://abc7chicago.com/post/top-cop-driver-accused-dui-tracks-missing-laptop-illinois-state-police-trooper-kevin-bradleys-house/19060850/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Amália and the Future of European Portuguese LLMs",
-      "title_neutral": "Amália and the Future of European Portuguese LLMs",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Amália and the Future of European Portuguese LLMs",
+      "main_idea": "AMÁLIA and the future of European Portuguese LLMs",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Fri, 08 May 2026 16:34:45 +0000",
@@ -1633,6 +1596,21 @@
       "source": "Hacker News",
       "published_at": "Fri, 08 May 2026 13:39:26 +0000",
       "url": "https://imtomt.github.io/ymawky/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Holding Community Space",
+      "title_neutral": "Holding Community Space",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Holding Community Space",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 08 May 2026 13:15:14 +0000",
+      "url": "https://supernuclear.substack.com/p/building-a-space-people-never-want",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -1671,6 +1649,23 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)",
+      "title_neutral": "Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Fri, 08 May 2026 08:00:44 +0000",
+      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     }
   ]
