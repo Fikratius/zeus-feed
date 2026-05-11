@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T06:35:34.183344+00:00",
+  "last_updated": "2026-05-11T10:34:36.799557+00:00",
   "items": [
     {
       "title_original": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
@@ -35,24 +35,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
-      "title_neutral": "Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
-      "excerpt": "In an exclusive interview from prison, Sadia Moalim Ali, a 27-year-old rickshaw driver, tells of her treatment after being arrested for demonstrating against the government A woman being held in prison in Somalia for taking part in peaceful protests has described how she was tortured by her guards.…",
-      "recap_neutral": "In an exclusive interview from prison, Sadia Moalim Ali, a 27-year-old rickshaw driver, tells of her treatment after being arrested for demonstrating against the government A woman being held in prison in Somalia for ta…",
-      "main_idea": "Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Thu, 07 May 2026 09:00:45 GMT",
-      "url": "https://www.theguardian.com/global-development/2026/may/07/sadia-moalim-ali-woman-somalia-jail-peaceful-protest",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
       "title_neutral": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
       "excerpt": "Comments",
@@ -79,21 +61,6 @@
       "source": "Hacker News",
       "published_at": "Sun, 10 May 2026 23:09:10 +0000",
       "url": "https://jola.dev/posts/running-local-models-on-m4",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-      "title_neutral": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 10 May 2026 23:02:31 +0000",
-      "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -181,14 +148,12 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "U.S. cruise passengers fly back for hantavirus monitoring, as one tests positive",
-      "title_neutral": "U.S. cruise passengers fly back for hantavirus monitoring, as one tests positive",
-      "excerpt": "Passengers are returning to their home countries after weeks on the ship at the center of a hantavirus outbreak. Most of the Americans aboard are headed for Nebraska to be evaluated by health officials.",
-      "recap_neutral": "Passengers are returning to their home countries after weeks on the ship at the center of a hantavirus outbreak",
-      "main_idea": "U.S. cruise passengers fly back for hantavirus monitoring, as one tests positive",
-      "tags": [
-        "health"
-      ],
+      "title_original": "U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus",
+      "title_neutral": "U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus",
+      "excerpt": "One of the 17 Americans tested \"mildly\" positive for the virus during the U.S. return flight. A French woman has also tested positive — she was was among five French passengers repatriated to Paris.",
+      "recap_neutral": "One of the 17 Americans tested \"mildly\" positive for the virus during the U",
+      "main_idea": "U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus",
+      "tags": [],
       "source": "NPR",
       "published_at": "Sun, 10 May 2026 21:42:24 -0400",
       "url": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
@@ -249,21 +214,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Your GPU Is Lying to You About Its Capacity",
-      "title_neutral": "Your GPU Is Lying to You About Its Capacity",
-      "excerpt": "This article explores why production-grade LLM serving is fundamentally a memory management problem rather than a pure compute problem. Using real-world examples from GPU inference clusters, it breaks down KV cache fragmentation, PagedAttention, prefix caching, continuous batching, chunked prefill,…",
-      "recap_neutral": "This article explores why production-grade LLM serving is fundamentally a memory management problem rather than a pure compute problem",
-      "main_idea": "Your GPU Is Lying to You About Its Capacity",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sun, 10 May 2026 20:45:41 GMT",
-      "url": "https://hackernoon.com/your-gpu-is-lying-to-you-about-its-capacity?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Body of missing US soldier recovered off coast of Morocco",
       "title_neutral": "Body of missing US soldier recovered off coast of Morocco",
       "excerpt": "1st Lt Kendrick Lamont Key Jr was participating in largest military exercise among US, Nato allies and African nations A search team recovered the body of a US soldier who went missing near a cliff during a training exercise in Cap Draa, Morocco, the US Army said on Sunday. Moroccan searchers found…",
@@ -278,40 +228,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Claude Mythos Marks a Turning Point for AI Cybersecurity and Everyday Network Privacy",
-      "title_neutral": "Claude Mythos Marks a Turning Point for AI Cybersecurity and Everyday Network Privacy",
-      "excerpt": "Anthropic's Claude Mythos Preview can autonomously find zero-days and write working exploits across every major OS and browser — a capability jump so significant they're not releasing it publicly. The window between vulnerability disclosure and weaponization is shrinking fast, and static CVSS-based…",
-      "recap_neutral": "Anthropic's Claude Mythos Preview can autonomously find zero-days and write working exploits across every major OS and browser — a capability jump so significant they're not releasing it publicly",
-      "main_idea": "Claude Mythos Marks a Turning Point for AI Cybersecurity and Everyday Network Privacy",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 10 May 2026 20:39:40 GMT",
-      "url": "https://hackernoon.com/claude-mythos-marks-a-turning-point-for-ai-cybersecurity-and-everyday-network-privacy?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "107 Blog Posts To Learn About Machinelearning",
-      "title_neutral": "107 Blog Posts To Learn About Machinelearning",
-      "excerpt": "Let's learn about Machinelearning via these 107 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. Machine learning is a subset of AI enabling systems to learn from data, identify patte…",
-      "recap_neutral": "Let's learn about Machinelearning via these 107 free blog posts",
-      "main_idea": "107 Blog Posts To Learn About Machinelearning",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 10 May 2026 20:00:08 GMT",
-      "url": "https://hackernoon.com/107-blog-posts-to-learn-about-machinelearning?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -350,38 +266,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "I Found My Personal Data on 47 Broker Sites. Then Things Got Worse",
-      "title_neutral": "I Found My Personal Data on 47 Broker Sites. Then Things Got Worse",
-      "excerpt": "After receiving a suspicious call from someone with access to deeply personal information, the author audited their online exposure across dozens of data broker sites. The article documents the realities of broker opt-outs, identity graphing, public-record persistence, and the practical privacy str…",
-      "recap_neutral": "After receiving a suspicious call from someone with access to deeply personal information, the author audited their online exposure across dozens of data broker sites",
-      "main_idea": "I Found My Personal Data on 47 Broker Sites. Then Things Got Worse",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sun, 10 May 2026 19:42:57 GMT",
-      "url": "https://hackernoon.com/i-found-my-personal-data-on-47-broker-sites-then-things-got-worse?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How to Stop Python Lists from Lying to You",
-      "title_neutral": "How to Stop Python Lists from Lying to You",
-      "excerpt": "This article explains one of Python’s most common beginner pitfalls: aliasing mutable objects instead of copying them. Using practical examples involving shopping carts, nested lists, and function side effects, it walks through Python’s reference model, the difference between shallow and deep copie…",
-      "recap_neutral": "This article explains one of Python’s most common beginner pitfalls: aliasing mutable objects instead of copying them",
-      "main_idea": "How to Stop Python Lists from Lying to You",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 10 May 2026 19:29:41 GMT",
-      "url": "https://hackernoon.com/how-to-stop-python-lists-from-lying-to-you?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Israeli settlers force Palestinian family to exhume and rebury their father",
       "title_neutral": "Israeli settlers force Palestinian family to exhume and rebury their father",
       "excerpt": "The relatives of Hussein Asasa described to NPR how they were forced to exhume and rebury their father when Israeli settlers interfered with his grave.",
@@ -394,39 +278,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "I Turned My ThinkPad From a Toaster Into a Quiet Linux Workhorse",
-      "title_neutral": "I Turned My ThinkPad From a Toaster Into a Quiet Linux Workhorse",
-      "excerpt": "My ThinkPad fleet was running at 91°C under load. By layering intel-undervolt with TLP on Arch Linux, I stabilized my T450 and T440p at -90mV, dropping idle temps to the mid-30s without losing \"snappiness\".",
-      "recap_neutral": "My ThinkPad fleet was running at 91°C under load",
-      "main_idea": "I Turned My ThinkPad From a Toaster Into a Quiet Linux Workhorse",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sun, 10 May 2026 19:21:37 GMT",
-      "url": "https://hackernoon.com/i-turned-my-thinkpad-from-a-toaster-into-a-quiet-linux-workhorse?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The QA Lessons You Only Learn When the Stakes Are High",
-      "title_neutral": "The QA Lessons You Only Learn When the Stakes Are High",
-      "excerpt": "Most teams treat quality as a phase that happens at the end of the sprint. The best teams treat it as a shared culture. After a decade testing software used in surgical training platforms, here is what high-stakes environments taught me that regular software never could.",
-      "recap_neutral": "Most teams treat quality as a phase that happens at the end of the sprint",
-      "main_idea": "The QA Lessons You Only Learn When the Stakes Are High",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 10 May 2026 19:18:05 GMT",
-      "url": "https://hackernoon.com/the-qa-lessons-you-only-learn-when-the-stakes-are-high?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -462,24 +313,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "AI Infrastructure Broke Traditional Capacity Planning",
-      "title_neutral": "AI Infrastructure Broke Traditional Capacity Planning",
-      "excerpt": "Effective AI capacity planning requires moving beyond traditional playbooks designed for uniform workloads. The core challenges include the heterogeneous nature of AI tasks, non-linear demand step-functions when scaling models, and hardware-specific requirements with long lead times.",
-      "recap_neutral": "Effective AI capacity planning requires moving beyond traditional playbooks designed for uniform workloads",
-      "main_idea": "AI Infrastructure Broke Traditional Capacity Planning",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 10 May 2026 17:48:28 GMT",
-      "url": "https://hackernoon.com/ai-infrastructure-broke-traditional-capacity-planning?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Incident Report: CVE-2024-YIKES",
       "title_neutral": "Incident Report: CVE-2024-YIKES",
       "excerpt": "Comments",
@@ -492,23 +325,6 @@
       "lang": "en",
       "bias_score": 40,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "I Gave an AI Agent 8 Hours to Investigate Fraud. Here's What It Found",
-      "title_neutral": "I Gave an AI Agent 8 Hours to Investigate Fraud. Here's What It Found",
-      "excerpt": "This article explores the design of a long-horizon AI agent built for forensic expense auditing and fraud detection. Using local LLM infrastructure, sandboxed execution environments, structured policy enforcement, and automated document workflows, the system analyzes expense reports for anomalies,…",
-      "recap_neutral": "This article explores the design of a long-horizon AI agent built for forensic expense auditing and fraud detection",
-      "main_idea": "I Gave an AI Agent 8 Hours to Investigate Fraud. Here's What It Found",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 10 May 2026 17:34:46 GMT",
-      "url": "https://hackernoon.com/i-gave-an-ai-agent-8-hours-to-investigate-fraud-heres-what-it-found?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -544,55 +360,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "From 80 Downloads to 30,000 Views: 3 Months of Building PC Workman in Public",
-      "title_neutral": "From 80 Downloads to 30,000 Views: 3 Months of Building PC Workman in Public",
-      "excerpt": "Three months ago I had 80 downloads and 6 GitHub stars on PC Workman, an open-source system monitor built between retail shifts. Since then: 28 stars, 30,000 views on one LinkedIn post, a 9-layer hybrid AI engine that works fully offline (no OpenAI, no cloud, no API key), Startup Manager and Servic…",
-      "recap_neutral": "Three months ago I had 80 downloads and 6 GitHub stars on PC Workman, an open-source system monitor built between retail shifts",
-      "main_idea": "From 80 Downloads to 30,000 Views: 3 Months of Building PC Workman in Public",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 10 May 2026 17:15:51 GMT",
-      "url": "https://hackernoon.com/from-80-downloads-to-30000-views-3-months-of-building-pc-workman-in-public?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Design Is the New Code",
-      "title_neutral": "Design Is the New Code",
-      "excerpt": "Design is becoming the real differentiator in AI—not just the model or the code. For data teams, the winning systems will be the ones people trust, understand, and actually use.",
-      "recap_neutral": "Design is becoming the real differentiator in AI—not just the model or the code",
-      "main_idea": "Design Is the New Code",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 10 May 2026 17:08:26 GMT",
-      "url": "https://hackernoon.com/design-is-the-new-code?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Army parachutes onto remote island to help Briton with suspected hantavirus",
-      "title_neutral": "Army parachutes onto remote island to help Briton with suspected hantavirus",
-      "excerpt": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them.",
-      "recap_neutral": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them",
-      "main_idea": "Army parachutes onto remote island to help Briton with suspected hantavirus",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sun, 10 May 2026 15:02:51 GMT",
-      "url": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Australia's right-wing One Nation party scores historic parliamentary win",
       "title_neutral": "Australia's right-wing One Nation party scores historic parliamentary win",
       "excerpt": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
@@ -622,25 +389,6 @@
       "source": "BBC World",
       "published_at": "Sun, 10 May 2026 14:29:45 GMT",
       "url": "https://www.bbc.com/news/articles/c4g0d3d5zn4o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "title_neutral": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "excerpt": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
-      "recap_neutral": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky",
-      "main_idea": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 10 May 2026 13:56:43 GMT",
-      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -778,23 +526,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A chocolate laboratory in Italy will be good for chocolate eaters — and farmers",
-      "title_neutral": "A chocolate laboratory in Italy will be good for chocolate eaters — and farmers",
-      "excerpt": "The chocolate biz is raising the bar with a lab to assess cacao beans from around the world. (Talk about a sweet gig!) Consumers and farmers stand to benefit from the \"Standard of Excellence\" program.",
-      "recap_neutral": "The chocolate biz is raising the bar with a lab to assess cacao beans from around the world",
-      "main_idea": "A chocolate laboratory in Italy will be good for chocolate eaters — and farmers",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 10 May 2026 10:07:06 -0400",
-      "url": "https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Mass Layoffs in Iran as Businesses Buckle Under Wartime Pressures",
       "title_neutral": "Mass Layoffs in Iran as Businesses Buckle Under Wartime Pressures",
       "excerpt": "Iran was already struggling economically before 2026 brought widespread instability. A government-imposed internet shutdown has crippled an entire sector.",
@@ -810,86 +541,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Keir Starmer's party lost big in U.K. local elections. Here's what comes next",
-      "title_neutral": "Keir Starmer's party lost big in U.K. local elections. Here's what comes next",
-      "excerpt": "U.K. Prime Minister Keir Starmer's Labour party suffered major losses in local elections held across Britain last week. So far, Starmer has rejected calls for his resignation.",
-      "recap_neutral": "U",
-      "main_idea": "Keir Starmer's party lost big in U.K. local elections. Here's what comes next",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 10 May 2026 08:27:36 -0400",
-      "url": "https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Temple Israel rebuilds after terror attack",
-      "title_neutral": "Temple Israel rebuilds after terror attack",
-      "excerpt": "Two months ago, a gunman drove through the preschool at Temple Israel, the largest synagogue in Michigan. Every child and teacher survived, but the community is still displaced and navigating the trauma of the attack.",
-      "recap_neutral": "Two months ago, a gunman drove through the preschool at Temple Israel, the largest synagogue in Michigan",
-      "main_idea": "Temple Israel rebuilds after terror attack",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 10 May 2026 08:12:10 -0400",
-      "url": "https://www.npr.org/2026/05/10/nx-s1-5810635/temple-israel-rebuilds-after-terror-attack",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Happy Mother's Day to the kindest mom. P.S. Your kindness annoyed me when I was a kid",
-      "title_neutral": "Happy Mother's Day to the kindest mom. P.S. Your kindness annoyed me when I was a kid",
-      "excerpt": "She and her siblings had to make tea for and share food with every visitor. That did not make her happy. Today she has a different perspective. So she finally asked her mom: What made you so kind?",
-      "recap_neutral": "She and her siblings had to make tea for and share food with every visitor",
-      "main_idea": "Happy Mother's Day to the kindest mom. P.S. Your kindness annoyed me when I was a kid",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Sun, 10 May 2026 07:40:42 -0400",
-      "url": "https://www.npr.org/2026/05/10/g-s1-121099/mothers-day-mother-kindness-strangers",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Of course we look for ourselves in art — but if we stop there, we're missing out",
-      "title_neutral": "Of course we look for ourselves in art — but if we stop there, we're missing out",
-      "excerpt": "As I watched the new series, I only cared about Piggy — the thoughtful, smart kid stranded on an island with other boys. That made me think about what we look for in art.",
-      "recap_neutral": "As I watched the new series, I only cared about Piggy — the thoughtful, smart kid stranded on an island with other boys",
-      "main_idea": "Of course we look for ourselves in art — but if we stop there, we're missing out",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Sun, 10 May 2026 07:00:00 -0400",
-      "url": "https://www.npr.org/2026/05/10/nx-s1-5813510/lord-of-the-flies-netflix",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How a pill approved 25 years ago transformed cancer treatment",
-      "title_neutral": "How a pill approved 25 years ago transformed cancer treatment",
-      "excerpt": "When the Food and Drug Administration approved Gleevec to treat a form of leukemia in 2001, it ushered in a new era in cancer care.",
-      "recap_neutral": "When the Food and Drug Administration approved Gleevec to treat a form of leukemia in 2001, it ushered in a new era in cancer care",
-      "main_idea": "How a pill approved 25 years ago transformed cancer treatment",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Sun, 10 May 2026 07:00:00 -0400",
-      "url": "https://www.npr.org/2026/05/10/nx-s1-5779279/gleevec-leukemia-cancer-treatment",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -940,38 +591,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Suspected boat explosion injures 11 in Miami",
-      "title_neutral": "Suspected boat explosion injures 11 in Miami",
-      "excerpt": "Officials are investigating what caused the incident at a popular marina in southern Florida.",
-      "recap_neutral": "Officials are investigating what caused the incident at a popular marina in southern Florida",
-      "main_idea": "Suspected boat explosion injures 11 in Miami",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sun, 10 May 2026 03:24:44 GMT",
-      "url": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Lebanon says Israeli strikes killed 39",
-      "title_neutral": "Lebanon says Israeli strikes killed 39",
-      "excerpt": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
-      "recap_neutral": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month",
-      "main_idea": "Lebanon says Israeli strikes killed 39",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 09 May 2026 21:23:14 GMT",
-      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1043,239 +662,477 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Нейтральные статусы у бобслеистов и скелетонистов РФ истекли в конце сезона",
-      "title_neutral": "Нейтральные статусы у бобслеистов и скелетонистов РФ истекли в конце сезона",
-      "excerpt": "В середине декабря девять российских спортсменов получили нейтральные статусы",
-      "recap_neutral": "В середине декабря девять российских спортсменов получили нейтральные статусы",
-      "main_idea": "Нейтральные статусы у бобслеистов и скелетонистов РФ истекли в конце сезона",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 11 May 2026 09:31:36 +0300",
-      "url": "https://tass.ru/sport/27372535",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Москве за 15 лет выросло число спасенных пациентов с инфарктом",
-      "title_neutral": "В Москве за 15 лет выросло число спасенных пациентов с инфарктом",
-      "excerpt": "Показатель увеличился более чем в два раза",
-      "recap_neutral": "Показатель увеличился более чем в два раза",
-      "main_idea": "В Москве за 15 лет выросло число спасенных пациентов с инфарктом",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 11 May 2026 09:31:09 +0300",
-      "url": "https://tass.ru/obschestvo/27372521",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ЕК намерена на следующей неделе выдать Киеву первый транш из €90 млрд",
-      "title_neutral": "ЕК намерена на следующей неделе выдать Киеву первый транш из €90 млрд",
+      "title_original": "Пашинян показал в соцсетях кадры подготовки к военному параду в Ереване 28 мая",
+      "title_neutral": "Пашинян показал в соцсетях кадры подготовки к военному параду в Ереване 28 мая",
       "excerpt": "",
-      "recap_neutral": "ЕК намерена на следующей неделе выдать Киеву первый транш из €90 млрд",
-      "main_idea": "ЕК намерена на следующей неделе выдать Киеву первый транш из €90 млрд",
+      "recap_neutral": "Пашинян показал в соцсетях кадры подготовки к военному параду в Ереване 28 мая",
+      "main_idea": "Пашинян показал в соцсетях кадры подготовки к военному параду в Ереване 28 мая",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Mon, 11 May 2026 09:27:27 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27372513",
+      "published_at": "Mon, 11 May 2026 13:31:45 +0300",
+      "url": "https://tass.ru/obschestvo/27372589",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Каллас полагает, что влияние России в Европе вновь растет",
-      "title_neutral": "Каллас полагает, что влияние России в Европе вновь растет",
-      "excerpt": "Это видно в сфере спорта, а также на примере присутствия РФ на Венецианской биеннале, заявила верховный представитель по иностранным делам и политике безопасности ЕС",
-      "recap_neutral": "Это видно в сфере спорта, а также на примере присутствия РФ на Венецианской биеннале, заявила верховный представитель по иностранным делам и политике безопасности ЕС",
-      "main_idea": "Каллас полагает, что влияние России в Европе вновь растет",
+      "title_original": "\"Пора Лондону вызывать себе санитаров\". Захарова о новых санкциях Британии",
+      "title_neutral": "\"Пора Лондону вызывать себе санитаров\". Захарова о новых санкциях Британии",
+      "excerpt": "Официальный представитель МИД РФ прокомментировала санкции Великобритании против психиатрической больницы и детских лагерей",
+      "recap_neutral": "Официальный представитель МИД РФ прокомментировала санкции Великобритании против психиатрической больницы и детских лагерей",
+      "main_idea": "\"Пора Лондону вызывать себе санитаров\". Захарова о новых санкциях Британии",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 11 May 2026 09:21:53 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27372503",
+      "published_at": "Mon, 11 May 2026 13:29:07 +0300",
+      "url": "https://tass.ru/politika/27373907",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "МИД: РФ будет поощрять активистов за укрепление диаспоры за рубежом",
-      "title_neutral": "МИД: РФ будет поощрять активистов за укрепление диаспоры за рубежом",
+      "title_original": "В Москве завершили подготовку наземного транспорта к лету",
+      "title_neutral": "В Москве завершили подготовку наземного транспорта к лету",
+      "excerpt": "Сезонное обслуживание прошли более 7 тыс. автобусов и электробусов, а также свыше 550 трамваев",
+      "recap_neutral": "Сезонное обслуживание прошли более 7 тыс",
+      "main_idea": "В Москве завершили подготовку наземного транспорта к лету",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 11 May 2026 13:27:36 +0300",
+      "url": "https://tass.ru/obschestvo/27373923",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Запорожской области из-за атак ВСУ пострадали два человека",
+      "title_neutral": "В Запорожской области из-за атак ВСУ пострадали два человека",
+      "excerpt": "Пострадавших доставили в больницу",
+      "recap_neutral": "Пострадавших доставили в больницу",
+      "main_idea": "В Запорожской области из-за атак ВСУ пострадали два человека",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 11 May 2026 13:25:37 +0300",
+      "url": "https://tass.ru/proisshestviya/27373893",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Андрей Рублев вышел в четвертый круг \"Мастерса\" в Риме",
+      "title_neutral": "Андрей Рублев вышел в четвертый круг \"Мастерса\" в Риме",
+      "excerpt": "Россиянин в двух сетах обыграл испанца Алехандро Давидович-Фокину",
+      "recap_neutral": "Россиянин в двух сетах обыграл испанца Алехандро Давидович-Фокину",
+      "main_idea": "Андрей Рублев вышел в четвертый круг \"Мастерса\" в Риме",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 11 May 2026 13:25:34 +0300",
+      "url": "https://tass.ru/sport/27373917",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Киеве признали, что залетевшие в Латвию беспилотники запустили с Украины",
+      "title_neutral": "В Киеве признали, что залетевшие в Латвию беспилотники запустили с Украины",
+      "excerpt": "Дрон 7 мая разбился на территории нефтебазы в городе Резекне, повредив четыре резервуара",
+      "recap_neutral": "Дрон 7 мая разбился на территории нефтебазы в городе Резекне, повредив четыре резервуара",
+      "main_idea": "В Киеве признали, что залетевшие в Латвию беспилотники запустили с Украины",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 11 May 2026 13:25:02 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27373867",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На Сахалине в поселке Катангли произошел естественный выход нефти",
+      "title_neutral": "На Сахалине в поселке Катангли произошел естественный выход нефти",
+      "excerpt": "Независимая нефтегазовая компания приступила к ликвидации разлива",
+      "recap_neutral": "Независимая нефтегазовая компания приступила к ликвидации разлива",
+      "main_idea": "На Сахалине в поселке Катангли произошел естественный выход нефти",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 11 May 2026 13:23:20 +0300",
+      "url": "https://tass.ru/proisshestviya/27373883",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ЕС активировал механизм гражданской обороны из-за эвакуации пассажиров MV Hondius",
+      "title_neutral": "ЕС активировал механизм гражданской обороны из-за эвакуации пассажиров MV Hondius",
       "excerpt": "",
-      "recap_neutral": "МИД: РФ будет поощрять активистов за укрепление диаспоры за рубежом",
-      "main_idea": "МИД: РФ будет поощрять активистов за укрепление диаспоры за рубежом",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 11 May 2026 09:21:04 +0300",
-      "url": "https://tass.ru/politika/27372479",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Хантавирус подтвердился у эвакуированного с MV Hondius американца",
-      "title_neutral": "Хантавирус подтвердился у эвакуированного с MV Hondius американца",
-      "excerpt": "По данным Минздрава США, 17 граждан страны находятся на пути домой на борту самолета, выделенного Госдепом",
-      "recap_neutral": "По данным Минздрава США, 17 граждан страны находятся на пути домой на борту самолета, выделенного Госдепом",
-      "main_idea": "Хантавирус подтвердился у эвакуированного с MV Hondius американца",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 11 May 2026 09:17:32 +0300",
-      "url": "https://tass.ru/obschestvo/27372473",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Москве самому взрослому жениху с начала 2026 года исполнилось 93 года",
-      "title_neutral": "В Москве самому взрослому жениху с начала 2026 года исполнилось 93 года",
-      "excerpt": "Самой взрослой невесте было 84 года",
-      "recap_neutral": "Самой взрослой невесте было 84 года",
-      "main_idea": "В Москве самому взрослому жениху с начала 2026 года исполнилось 93 года",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 11 May 2026 09:15:31 +0300",
-      "url": "https://tass.ru/obschestvo/27372463",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Глава департамента МИД РФ: соотечественники активно возвращаются в Россию",
-      "title_neutral": "Глава департамента МИД РФ: соотечественники активно возвращаются в Россию",
-      "excerpt": "Директор департамента МИД РФ по работе с соотечественниками за рубежом Геннадий Овечко в интервью ТАСС рассказал о растущих цифрах возвращения соотечественников в Россию, усилении правовой помощи за рубежом, а также о мерах по консолидации россиян в разных странах",
-      "recap_neutral": "Директор департамента МИД РФ по работе с соотечественниками за рубежом Геннадий Овечко в интервью ТАСС рассказал о растущих цифрах возвращения соотечественников в Россию, усилении правовой помощи за рубежом, а также о м…",
-      "main_idea": "Глава департамента МИД РФ: соотечественники активно возвращаются в Россию",
+      "recap_neutral": "ЕС активировал механизм гражданской обороны из-за эвакуации пассажиров MV Hondius",
+      "main_idea": "ЕС активировал механизм гражданской обороны из-за эвакуации пассажиров MV Hondius",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 11 May 2026 09:15:00 +0300",
-      "url": "https://tass.ru/interviews/27370139",
+      "published_at": "Mon, 11 May 2026 13:21:07 +0300",
+      "url": "https://tass.ru/obschestvo/27373889",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Директор театра Вахтангова и блогер Сорян заключили мировое соглашение",
-      "title_neutral": "Директор театра Вахтангова и блогер Сорян заключили мировое соглашение",
-      "excerpt": "Сурена Каграманова обвиняли в клевете",
-      "recap_neutral": "Сурена Каграманова обвиняли в клевете",
-      "main_idea": "Директор театра Вахтангова и блогер Сорян заключили мировое соглашение",
+      "title_original": "Бутягин призвал коллег к осторожности за границей",
+      "title_neutral": "Бутягин призвал коллег к осторожности за границей",
+      "excerpt": "При этом археолог отметил, что до посещения Польши, где его арестовали, он благополучно съездил на Кипр, в Италию",
+      "recap_neutral": "При этом археолог отметил, что до посещения Польши, где его арестовали, он благополучно съездил на Кипр, в Италию",
+      "main_idea": "Бутягин призвал коллег к осторожности за границей",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Mon, 11 May 2026 09:07:36 +0300",
-      "url": "https://tass.ru/proisshestviya/27372429",
+      "published_at": "Mon, 11 May 2026 13:20:09 +0300",
+      "url": "https://tass.ru/obschestvo/27373875",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Эксперт Еникеев назвал адаптивность Центральной Азии ее главной \"валютой\" в мире",
-      "title_neutral": "Эксперт Еникеев назвал адаптивность Центральной Азии ее главной \"валютой\" в мире",
-      "excerpt": "Стабильность, демография, транспортная связность, сырьевая и продовольственная база, гибкая дипломатия превращаются в факторы, обеспечивающие региону устойчивые позиции в Большой Евразии, считает профессор департамента международных отношений факультета мировой экономики и мировой политики НИУ ВШЭ",
-      "recap_neutral": "Стабильность, демография, транспортная связность, сырьевая и продовольственная база, гибкая дипломатия превращаются в факторы, обеспечивающие региону устойчивые позиции в Большой Евразии, считает профессор департамента…",
-      "main_idea": "Эксперт Еникеев назвал адаптивность Центральной Азии ее главной \"валютой\" в мире",
+      "title_original": "В Череповце после пожара на \"Северстали\" нет превышения норм вредных веществ",
+      "title_neutral": "В Череповце после пожара на \"Северстали\" нет превышения норм вредных веществ",
+      "excerpt": "Площадь пожара составила 300 кв. м",
+      "recap_neutral": "Площадь пожара составила 300 кв",
+      "main_idea": "В Череповце после пожара на \"Северстали\" нет превышения норм вредных веществ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 11 May 2026 13:18:10 +0300",
+      "url": "https://tass.ru/obschestvo/27373845",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ЕК назвали низким риск распространения хантавируса в Европе",
+      "title_neutral": "В ЕК назвали низким риск распространения хантавируса в Европе",
+      "excerpt": "",
+      "recap_neutral": "В ЕК назвали низким риск распространения хантавируса в Европе",
+      "main_idea": "В ЕК назвали низким риск распространения хантавируса в Европе",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 11 May 2026 13:16:48 +0300",
+      "url": "https://tass.ru/obschestvo/27373853",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ЕС разблокировал Соглашение о партнерстве с Сирией",
+      "title_neutral": "ЕС разблокировал Соглашение о партнерстве с Сирией",
+      "excerpt": "Оно было заморожено в 2011 году в рамках санкций Евросоюза против сирийского руководства во главе с президентом Башаром Асадом из-за обвинений в нарушении прав человека",
+      "recap_neutral": "Оно было заморожено в 2011 году в рамках санкций Евросоюза против сирийского руководства во главе с президентом Башаром Асадом из-за обвинений в нарушении прав человека",
+      "main_idea": "ЕС разблокировал Соглашение о партнерстве с Сирией",
       "tags": [
-        "economy",
+        "politics",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 11 May 2026 09:04:50 +0300",
-      "url": "https://tass.ru/politika/27372439",
+      "published_at": "Mon, 11 May 2026 13:15:19 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27373837",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Найденный в Поморье алмаз в 190 карат обнаружили на глубине 375 м",
-      "title_neutral": "Найденный в Поморье алмаз в 190 карат обнаружили на глубине 375 м",
-      "excerpt": "Это третий алмаз особой крупности, добытый компанией в 2026 году",
-      "recap_neutral": "Это третий алмаз особой крупности, добытый компанией в 2026 году",
-      "main_idea": "Найденный в Поморье алмаз в 190 карат обнаружили на глубине 375 м",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 11 May 2026 09:03:06 +0300",
-      "url": "https://tass.ru/obschestvo/27372409",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Рекордсмен России в беге на 100 м Крылов откроет летний сезон 5 июня в Москве",
-      "title_neutral": "Рекордсмен России в беге на 100 м Крылов откроет летний сезон 5 июня в Москве",
-      "excerpt": "Спортсмен выступит на Мемориале Знаменских",
-      "recap_neutral": "Спортсмен выступит на Мемориале Знаменских",
-      "main_idea": "Рекордсмен России в беге на 100 м Крылов откроет летний сезон 5 июня в Москве",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 11 May 2026 09:02:27 +0300",
-      "url": "https://tass.ru/sport/27372447",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Кутузовском проспекте произошло ДТП с несколькими автомобилями",
-      "title_neutral": "На Кутузовском проспекте произошло ДТП с несколькими автомобилями",
-      "excerpt": "Обстоятельства произошедшего и информация о пострадавших уточняются",
-      "recap_neutral": "Обстоятельства произошедшего и информация о пострадавших уточняются",
-      "main_idea": "На Кутузовском проспекте произошло ДТП с несколькими автомобилями",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 11 May 2026 08:58:29 +0300",
-      "url": "https://tass.ru/proisshestviya/27372405",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Каллас исключила кандидатуру Шрёдера в качестве переговорщика с Россией",
-      "title_neutral": "Каллас исключила кандидатуру Шрёдера в качестве переговорщика с Россией",
-      "excerpt": "Верховный представитель по иностранным делам и политике безопасности ЕС заявила, что экс-канцлер ФРГ \"является известным лоббистом российских компаний\"",
-      "recap_neutral": "Верховный представитель по иностранным делам и политике безопасности ЕС заявила, что экс-канцлер ФРГ \"является известным лоббистом российских компаний\"",
-      "main_idea": "Каллас исключила кандидатуру Шрёдера в качестве переговорщика с Россией",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 11 May 2026 08:58:23 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27372417",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Якутии в поселке Пеледуй подтопило 20 домов",
-      "title_neutral": "В Якутии в поселке Пеледуй подтопило 20 домов",
-      "excerpt": "Эвакуировали 37 человек",
-      "recap_neutral": "Эвакуировали 37 человек",
-      "main_idea": "В Якутии в поселке Пеледуй подтопило 20 домов",
+      "title_original": "Греция проинформирует ЕС об обнаружении дрона со взрывчаткой около Лефкады",
+      "title_neutral": "Греция проинформирует ЕС об обнаружении дрона со взрывчаткой около Лефкады",
+      "excerpt": "Это создает огромный риск с точки зрения свободы судоходства, а также безопасности граждан и окружающей среды, заявил глава греческого МИД Йоргос Герапетритис",
+      "recap_neutral": "Это создает огромный риск с точки зрения свободы судоходства, а также безопасности граждан и окружающей среды, заявил глава греческого МИД Йоргос Герапетритис",
+      "main_idea": "Греция проинформирует ЕС об обнаружении дрона со взрывчаткой около Лефкады",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 11 May 2026 08:56:05 +0300",
-      "url": "https://tass.ru/proisshestviya/27372397",
+      "published_at": "Mon, 11 May 2026 13:11:54 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27373525",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Латвия ведет переговоры с США по размещению дополнительных войск",
+      "title_neutral": "Латвия ведет переговоры с США по размещению дополнительных войск",
+      "excerpt": "Рига готова обеспечить всю соответствующую инфраструктуру для расширения американского присутствия в стране, отметила латвийский министр иностранных дел Байба Браже",
+      "recap_neutral": "Рига готова обеспечить всю соответствующую инфраструктуру для расширения американского присутствия в стране, отметила латвийский министр иностранных дел Байба Браже",
+      "main_idea": "Латвия ведет переговоры с США по размещению дополнительных войск",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 11 May 2026 13:09:07 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27373593",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Гуров в ответ на санкции Великобритании пригласил молодежь всего мира на МФМ",
+      "title_neutral": "Гуров в ответ на санкции Великобритании пригласил молодежь всего мира на МФМ",
+      "excerpt": "Западных политиков корежит от того, что у России есть своя позиция, заявил глава Росмолодежи",
+      "recap_neutral": "Западных политиков корежит от того, что у России есть своя позиция, заявил глава Росмолодежи",
+      "main_idea": "Гуров в ответ на санкции Великобритании пригласил молодежь всего мира на МФМ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 11 May 2026 13:08:54 +0300",
+      "url": "https://tass.ru/obschestvo/27373817",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ailing Iranian Nobel laureate given bail and hospital transfer",
+      "title_neutral": "Ailing Iranian Nobel laureate given bail and hospital transfer",
+      "excerpt": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
+      "recap_neutral": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison",
+      "main_idea": "Ailing Iranian Nobel laureate given bail and hospital transfer",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 11 May 2026 10:16:50 GMT",
+      "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Researchers find 42% drop in Canadians visiting US metro areas amid Trump 2.0",
+      "title_neutral": "Researchers find 42% drop in Canadians visiting US metro areas amid Trump 2.0",
+      "excerpt": "Data from University of Toronto suggests Canadians are avoiding US cities during the second Trump administration A new research tool that tracks cell phone activity has found a 42% drop in visitors from Canada to big metropolitan areas in the US that is much higher than official border-crossing dat…",
+      "recap_neutral": "Data from University of Toronto suggests Canadians are avoiding US cities during the second Trump administration A new research tool that tracks cell phone activity has found a 42% drop in visitors from Canada to big me…",
+      "main_idea": "Researchers find 42% drop in Canadians visiting US metro areas amid Trump 2.0",
+      "tags": [],
+      "source": "The Guardian",
+      "published_at": "Mon, 11 May 2026 10:00:52 GMT",
+      "url": "https://www.theguardian.com/world/2026/may/11/canadians-visiting-us",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+      "title_neutral": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+      "excerpt": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two.",
+      "recap_neutral": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two",
+      "main_idea": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 11 May 2026 10:00:31 GMT",
+      "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A Single Infusion Could Suppress H.I.V. for Years, Study Suggests",
+      "title_neutral": "A Single Infusion Could Suppress H.I.V. for Years, Study Suggests",
+      "excerpt": "A study of a few patients, to be presented this week, showed promise for a type of therapy that has already cured some blood cancers.",
+      "recap_neutral": "A study of a few patients, to be presented this week, showed promise for a type of therapy that has already cured some blood cancers",
+      "main_idea": "A Single Infusion Could Suppress H.I.V. for Years, Study Suggests",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Mon, 11 May 2026 10:00:09 +0000",
+      "url": "https://www.nytimes.com/2026/05/11/health/hiv-infusion-immunotherapy.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Meet your new L3 Support Engineer: The Player",
+      "title_neutral": "Meet your new L3 Support Engineer: The Player",
+      "excerpt": "PlayerZero introduces “The Player,” an autonomous AI agent designed to handle customer escalations and engineering tickets end-to-end. Unlike generic AI agents, it combines codebase intelligence, workflow automation, ticketing integrations, and human approval systems to investigate issues, perform…",
+      "recap_neutral": "PlayerZero introduces “The Player,” an autonomous AI agent designed to handle customer escalations and engineering tickets end-to-end",
+      "main_idea": "Meet your new L3 Support Engineer: The Player",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 11 May 2026 09:59:48 GMT",
+      "url": "https://hackernoon.com/meet-your-new-l3-support-engineer-the-player?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Disappearances in Mexico involving state at ‘alarming’ rate, says report",
+      "title_neutral": "Disappearances in Mexico involving state at ‘alarming’ rate, says report",
+      "excerpt": "Exclusive: Human rights group warns of ‘deep collusion’ between criminals and officials in some parts of country State actors are involved in disappearances in Mexico at an “alarming” rate, according to a report from the Inter-American Commission on Human Rights (IACHR). The sweeping investigation,…",
+      "recap_neutral": "Exclusive: Human rights group warns of ‘deep collusion’ between criminals and officials in some parts of country State actors are involved in disappearances in Mexico at an “alarming” rate, according to a report from th…",
+      "main_idea": "Disappearances in Mexico involving state at ‘alarming’ rate, says report",
+      "tags": [
+        "conflict"
+      ],
+      "source": "The Guardian",
+      "published_at": "Mon, 11 May 2026 09:52:44 GMT",
+      "url": "https://www.theguardian.com/world/2026/may/11/disappearances-mexico-involving-state-alarming-rate-iachr-report",
+      "lang": "en",
+      "bias_score": 54,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Police find body believed to be of fugitive Australian shooter",
+      "title_neutral": "Police find body believed to be of fugitive Australian shooter",
+      "excerpt": "A body found in New South Wales is thought to be that of a man wanted over a triple murder.",
+      "recap_neutral": "A body found in New South Wales is thought to be that of a man wanted over a triple murder",
+      "main_idea": "Police find body believed to be of fugitive Australian shooter",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Mon, 11 May 2026 09:44:29 GMT",
+      "url": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Weightless Clubman",
+      "title_neutral": "The Weightless Clubman",
+      "excerpt": "An overweight London clubman becomes obsessed with losing fat and persuades a friend to share a mysterious family remedy. Instead of slimming normally, the potion removes almost all of his weight, causing him to float helplessly against ceilings like a balloon. Forced to live in secret with lead-li…",
+      "recap_neutral": "An overweight London clubman becomes obsessed with losing fat and persuades a friend to share a mysterious family remedy",
+      "main_idea": "The Weightless Clubman",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 11 May 2026 09:30:37 GMT",
+      "url": "https://hackernoon.com/the-weightless-clubman?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Philippine VP Sara Duterte impeached for a second time",
+      "title_neutral": "Philippine VP Sara Duterte impeached for a second time",
+      "excerpt": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president.",
+      "recap_neutral": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president",
+      "main_idea": "Philippine VP Sara Duterte impeached for a second time",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 11 May 2026 09:28:53 GMT",
+      "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US and French nationals test positive for hantavirus after leaving ship",
+      "title_neutral": "US and French nationals test positive for hantavirus after leaving ship",
+      "excerpt": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
+      "recap_neutral": "The American national has arrived in Nebraska, while a French woman is isolating in Paris",
+      "main_idea": "US and French nationals test positive for hantavirus after leaving ship",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Mon, 11 May 2026 09:11:12 GMT",
+      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Oil prices jump after Trump dismisses Iran proposal to end war",
+      "title_neutral": "Oil prices jump after Trump dismisses Iran proposal to end war",
+      "excerpt": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments.",
+      "recap_neutral": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments",
+      "main_idea": "Oil prices jump after Trump dismisses Iran proposal to end war",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 11 May 2026 09:01:41 GMT",
+      "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Beyond Order-Taking: Roy Baharav on Why the Drive-Thru Pickup Window Is the Next AI Frontier",
+      "title_neutral": "Beyond Order-Taking: Roy Baharav on Why the Drive-Thru Pickup Window Is the Next AI Frontier",
+      "excerpt": "Roy Baharav argues the real drive-thru bottleneck isn’t ordering—it’s the pickup window. Hi Auto is expanding AI into “window intelligence,” analyzing conversations, accuracy, and behavior in real time. By linking order data with window interactions, operators gain end-to-end visibility—improving s…",
+      "recap_neutral": "Roy Baharav argues the real drive-thru bottleneck isn’t ordering—it’s the pickup window",
+      "main_idea": "Beyond Order-Taking: Roy Baharav on Why the Drive-Thru Pickup Window Is the Next AI Frontier",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 11 May 2026 08:45:05 GMT",
+      "url": "https://hackernoon.com/beyond-order-taking-roy-baharav-on-why-the-drive-thru-pickup-window-is-the-next-ai-frontier?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa",
+      "title_neutral": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa",
+      "excerpt": "Temperatures soar in California and Arizona, while deluge continues across Western and Northern Cape Heat is expected to intensify across western parts of the US and Mexico this week as a ridge of high pressure pushes temperatures well above the seasonal norm. Daytime highs are forecast to reach 10…",
+      "recap_neutral": "Temperatures soar in California and Arizona, while deluge continues across Western and Northern Cape Heat is expected to intensify across western parts of the US and Mexico this week as a ridge of high pressure pushes t…",
+      "main_idea": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa",
+      "tags": [
+        "climate"
+      ],
+      "source": "The Guardian",
+      "published_at": "Mon, 11 May 2026 08:18:29 GMT",
+      "url": "https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A Thousand Seconds in One",
+      "title_neutral": "A Thousand Seconds in One",
+      "excerpt": "Professor Gibberne invents a chemical accelerator that speeds the human nervous system thousands of times beyond normal limits. After taking the drug, two men experience the world as nearly frozen in time, walking among motionless crowds and suspended objects. But friction, heat, and dangerous side…",
+      "recap_neutral": "Professor Gibberne invents a chemical accelerator that speeds the human nervous system thousands of times beyond normal limits",
+      "main_idea": "A Thousand Seconds in One",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Mon, 11 May 2026 08:00:36 GMT",
+      "url": "https://hackernoon.com/a-thousand-seconds-in-one?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1289,11 +1146,130 @@
         "tech"
       ],
       "source": "BBC World",
-      "published_at": "Mon, 11 May 2026 06:02:43 GMT",
+      "published_at": "Mon, 11 May 2026 07:13:41 GMT",
       "url": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Mythos Finds a Curl Vulnerability",
+      "title_neutral": "Mythos Finds a Curl Vulnerability",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Mythos Finds a Curl Vulnerability",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 11 May 2026 06:39:08 +0000",
+      "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "As ranks of uninsured grow, charity care can be hard to come by at many hospitals",
+      "title_neutral": "As ranks of uninsured grow, charity care can be hard to come by at many hospitals",
+      "excerpt": "An investigation of hospital data and charity care programs shows most Minnesota hospitals provide little financial aid to patients and often make assistance difficult to get.",
+      "recap_neutral": "An investigation of hospital data and charity care programs shows most Minnesota hospitals provide little financial aid to patients and often make assistance difficult to get",
+      "main_idea": "As ranks of uninsured grow, charity care can be hard to come by at many hospitals",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 11 May 2026 05:03:00 -0400",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5813781/charity-care-hospitals-medical-bills-uninsured",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Nobel laureate Narges Mohammadi transferred to a Tehran hospital, her foundation says",
+      "title_neutral": "Nobel laureate Narges Mohammadi transferred to a Tehran hospital, her foundation says",
+      "excerpt": "Nobel Peace laureate and activist Narges Mohammadi has been transferred to a Tehran hospital more than a week after collapsing in prison, her foundation said Sunday.",
+      "recap_neutral": "Nobel Peace laureate and activist Narges Mohammadi has been transferred to a Tehran hospital more than a week after collapsing in prison, her foundation said Sunday",
+      "main_idea": "Nobel laureate Narges Mohammadi transferred to a Tehran hospital, her foundation says",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 11 May 2026 05:00:52 -0400",
+      "url": "https://www.npr.org/2026/05/11/g-s1-121365/nobel-laureate-mohammadi-transferred-to-a-tehran-hospital",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Budget-conscious shoppers are feeding a boom in discount groceries",
+      "title_neutral": "Budget-conscious shoppers are feeding a boom in discount groceries",
+      "excerpt": "Many facing economic pressures and frustrations have begun shopping at budget grocery stores and warehouse clubs in lieu of traditional supermarkets, with priorities shifting in pursuit of good deals.",
+      "recap_neutral": "Many facing economic pressures and frustrations have begun shopping at budget grocery stores and warehouse clubs in lieu of traditional supermarkets, with priorities shifting in pursuit of good deals",
+      "main_idea": "Budget-conscious shoppers are feeding a boom in discount groceries",
+      "tags": [
+        "economy",
+        "conflict"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 11 May 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5716202/discount-groceries-aldi-food-affordability",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How do you cut your food bill? NPR wants to hear your tips",
+      "title_neutral": "How do you cut your food bill? NPR wants to hear your tips",
+      "excerpt": "With rising food costs, NPR wants to hear your tips and hacks for reducing your bill.",
+      "recap_neutral": "With rising food costs, NPR wants to hear your tips and hacks for reducing your bill",
+      "main_idea": "How do you cut your food bill? NPR wants to hear your tips",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Mon, 11 May 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5816326/food-money-restaurants-bill-grocery-shopping-saving-budgeting",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Marketers say NAD+ pills and infusions can boost longevity. What's the evidence?",
+      "title_neutral": "Marketers say NAD+ pills and infusions can boost longevity. What's the evidence?",
+      "excerpt": "Wellness and longevity influencers are pushing a compound called NAD+. There's scientific interest in its potential, but researchers say the marketing claims have gotten ahead of the science.",
+      "recap_neutral": "Wellness and longevity influencers are pushing a compound called NAD+",
+      "main_idea": "Marketers say NAD+ pills and infusions can boost longevity. What's the evidence?",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 11 May 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5813664/nad-infusions-supplements-longevity-science",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Morning news brief",
+      "title_neutral": "Morning news brief",
+      "excerpt": "Trump says Iran's response to the U.S. ceasefire proposal is \"totally unacceptable,\" Trump heads to China amid Iran war, Congress returns after week-long break.",
+      "recap_neutral": "Trump says Iran's response to the U",
+      "main_idea": "Morning news brief",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 11 May 2026 04:43:07 -0400",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5813454/morning-news-brief",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1312,20 +1288,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "What Middle Powers Fear from the Trump-Xi Summit",
-      "title_neutral": "What Middle Powers Fear from the Trump-Xi Summit",
-      "excerpt": "Asian nations worry that the president might trade security commitments for better economic terms with China during his planned meeting with Xi Jinping this week.",
-      "recap_neutral": "Asian nations worry that the president might trade security commitments for better economic terms with China during his planned meeting with Xi Jinping this week",
-      "main_idea": "What Middle Powers Fear from the Trump-Xi Summit",
+      "title_original": "If AI Trains Mostly on AI Text, Where Does New Knowledge Come From?",
+      "title_neutral": "If AI Trains Mostly on AI Text, Where Does New Knowledge Come From?",
+      "excerpt": "As AI writes more of the internet, training data becomes self-referential and loses genuine novelty. The fix is to detect and preserve new ideas, then turn live, validated real-world context into the new engine of learning. MCP can be understood as “AI’s senses” for real-world validation and discov…",
+      "recap_neutral": "As AI writes more of the internet, training data becomes self-referential and loses genuine novelty",
+      "main_idea": "If AI Trains Mostly on AI Text, Where Does New Knowledge Come From?",
       "tags": [
-        "politics"
+        "tech"
       ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 11 May 2026 04:01:08 +0000",
-      "url": "https://www.nytimes.com/2026/05/11/world/asia/trump-xi-china-summit-iran.html",
+      "source": "HackerNoon",
+      "published_at": "Mon, 11 May 2026 04:00:46 GMT",
+      "url": "https://hackernoon.com/if-ai-trains-mostly-on-ai-text-where-does-new-knowledge-come-from?source=rss",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1376,11 +1352,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
-      "title_neutral": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
+      "title_original": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+      "title_neutral": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
+      "main_idea": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
       "tags": [
         "tech"
       ],
@@ -1425,6 +1401,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "153 Blog Posts To Learn About Mathematics",
+      "title_neutral": "153 Blog Posts To Learn About Mathematics",
+      "excerpt": "Let's learn about Mathematics via these 153 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. I don't like math, but you might. The wonderous world of numbers awaits! 1. Kadane’s Algor…",
+      "recap_neutral": "Let's learn about Mathematics via these 153 free blog posts",
+      "main_idea": "153 Blog Posts To Learn About Mathematics",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 11 May 2026 02:00:36 GMT",
+      "url": "https://hackernoon.com/153-blog-posts-to-learn-about-mathematics?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
       "title_neutral": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
       "excerpt": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
@@ -1458,21 +1451,37 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Oil prices jump after Trump dismisses Iran proposal to end war",
-      "title_neutral": "Oil prices jump after Trump dismisses Iran proposal to end war",
-      "excerpt": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments.",
-      "recap_neutral": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments",
-      "main_idea": "Oil prices jump after Trump dismisses Iran proposal to end war",
+      "title_original": "The Robotics Industry and Its Android Moment",
+      "title_neutral": "The Robotics Industry and Its Android Moment",
+      "excerpt": "Robotics needs more than better hardware. Shared intelligence could help autonomous machines learn, scale, and operate reliably across environments.",
+      "recap_neutral": "Robotics needs more than better hardware",
+      "main_idea": "The Robotics Industry and Its Android Moment",
       "tags": [
-        "conflict",
+        "conflict"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 11 May 2026 00:49:22 GMT",
+      "url": "https://hackernoon.com/the-robotics-industry-and-its-android-moment?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Beyond Chat: Why Enterprise Supply Chains Need Deep Reasoning, Not Retrieval",
+      "title_neutral": "Beyond Chat: Why Enterprise Supply Chains Need Deep Reasoning, Not Retrieval",
+      "excerpt": "Traditional RAG works for simple lookups, but supply chain leaders need AI that can plan, evaluate, and synthesize evidence.",
+      "recap_neutral": "Traditional RAG works for simple lookups, but supply chain leaders need AI that can plan, evaluate, and synthesize evidence",
+      "main_idea": "Beyond Chat: Why Enterprise Supply Chains Need Deep Reasoning, Not Retrieval",
+      "tags": [
         "tech"
       ],
-      "source": "BBC World",
-      "published_at": "Mon, 11 May 2026 01:12:30 GMT",
-      "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+      "source": "HackerNoon",
+      "published_at": "Mon, 11 May 2026 00:48:31 GMT",
+      "url": "https://hackernoon.com/beyond-chat-why-enterprise-supply-chains-need-deep-reasoning-not-retrieval?source=rss",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1493,21 +1502,55 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ailing Iran Nobel laureate given bail and hospital transfer",
-      "title_neutral": "Ailing Iran Nobel laureate given bail and hospital transfer",
-      "excerpt": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
-      "recap_neutral": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison",
-      "main_idea": "Ailing Iran Nobel laureate given bail and hospital transfer",
+      "title_original": "Your AI is Your Competitive Edge in a Hyper-connected World",
+      "title_neutral": "Your AI is Your Competitive Edge in a Hyper-connected World",
+      "excerpt": "Most companies use AI, but few gain measurable value. Here’s why customer experience is where the real AI advantage begins.",
+      "recap_neutral": "Most companies use AI, but few gain measurable value",
+      "main_idea": "Your AI is Your Competitive Edge in a Hyper-connected World",
       "tags": [
-        "tech",
-        "health"
+        "tech"
       ],
-      "source": "BBC World",
-      "published_at": "Mon, 11 May 2026 00:40:45 GMT",
-      "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+      "source": "HackerNoon",
+      "published_at": "Mon, 11 May 2026 00:47:40 GMT",
+      "url": "https://hackernoon.com/your-ai-is-your-competitive-edge-in-a-hyper-connected-world?source=rss",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "What CIOs Actually Expect From Technology Leaders But Rarely Say",
+      "title_neutral": "What CIOs Actually Expect From Technology Leaders But Rarely Say",
+      "excerpt": "CIOs want leaders who make value observable, reliability deliberate, governance executable, and talent development systematic technical depth alone stopped being enough.",
+      "recap_neutral": "CIOs want leaders who make value observable, reliability deliberate, governance executable, and talent development systematic technical depth alone stopped being enough",
+      "main_idea": "What CIOs Actually Expect From Technology Leaders But Rarely Say",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 11 May 2026 00:44:59 GMT",
+      "url": "https://hackernoon.com/what-cios-actually-expect-from-technology-leaders-but-rarely-say?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Android Chroot Experiment We Never Shipped",
+      "title_neutral": "The Android Chroot Experiment We Never Shipped",
+      "excerpt": "After successfully moving to Android-x86, the Edge security team attempted to further optimize by running both the fuzzer and the browser on a single VM using a Debian chroot. This \"Single-VM\" model ultimately failed due to \"Linker Hell\" between Bionic and glibc, alongside conflicting filesystem pe…",
+      "recap_neutral": "After successfully moving to Android-x86, the Edge security team attempted to further optimize by running both the fuzzer and the browser on a single VM using a Debian chroot",
+      "main_idea": "The Android Chroot Experiment We Never Shipped",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 11 May 2026 00:00:04 GMT",
+      "url": "https://hackernoon.com/the-android-chroot-experiment-we-never-shipped?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1523,51 +1566,6 @@
       "source": "The Guardian",
       "published_at": "Fri, 08 May 2026 21:35:15 GMT",
       "url": "https://www.theguardian.com/world/2026/may/08/four-men-convicted-haitian-president-assassination",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
-      "title_neutral": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 08 May 2026 19:36:45 +0000",
-      "url": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Frustrated by Iran, Trump at last seizes enriched uranium – but from Venezuela",
-      "title_neutral": "Frustrated by Iran, Trump at last seizes enriched uranium – but from Venezuela",
-      "excerpt": "US energy department says 13.5kg of uranium taken from reactor in Caracas – a fraction of the 408kg held by Tehran Donald Trump has succeeded in removing a country’s stash of highly enriched uranium – although that country is not Iran . On Friday, the US Department of Energy announced that “thanks…",
-      "recap_neutral": "US energy department says 13",
-      "main_idea": "Frustrated by Iran, Trump at last seizes enriched uranium – but from Venezuela",
-      "tags": [],
-      "source": "The Guardian",
-      "published_at": "Fri, 08 May 2026 17:32:27 GMT",
-      "url": "https://www.theguardian.com/world/2026/may/08/venezuela-enriched-uranium-trump",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Canadian high school where deadly mass shooting occurred to be torn down",
-      "title_neutral": "Canadian high school where deadly mass shooting occurred to be torn down",
-      "excerpt": "Tumbler Ridge secondary school was site of February mass shooting in which nine were killed and dozens injured The school that was the site of one of Canada’s deadliest mass shootings will be torn down, officials have announced. The decision to demolish the Tumbler Ridge secondary school came after…",
-      "recap_neutral": "Tumbler Ridge secondary school was site of February mass shooting in which nine were killed and dozens injured The school that was the site of one of Canada’s deadliest mass shootings will be torn down, officials have a…",
-      "main_idea": "Canadian high school where deadly mass shooting occurred to be torn down",
-      "tags": [],
-      "source": "The Guardian",
-      "published_at": "Fri, 08 May 2026 15:40:07 GMT",
-      "url": "https://www.theguardian.com/world/2026/may/08/tumbler-ridge-canada-school-shooting",
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
@@ -1626,15 +1624,30 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "dBase: 1979-2026",
-      "title_neutral": "dBase: 1979-2026",
+      "title_original": "Guitar tuner that uses phone accelerometer",
+      "title_neutral": "Guitar tuner that uses phone accelerometer",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "dBase: 1979-2026",
+      "main_idea": "Guitar tuner that uses phone accelerometer",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Fri, 08 May 2026 05:00:05 +0000",
-      "url": "https://delphinightmares.substack.com/p/dbase-1979-2026",
+      "published_at": "Fri, 08 May 2026 03:43:08 +0000",
+      "url": "https://tautme.github.io/phone-sensors/accel-tuner.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Bliss (Photograph)",
+      "title_neutral": "Bliss (Photograph)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Bliss (Photograph)",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 08 May 2026 02:31:47 +0000",
+      "url": "https://en.wikipedia.org/wiki/Bliss_(photograph)",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
