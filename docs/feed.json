@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T07:13:47.370908+00:00",
+  "last_updated": "2026-05-23T09:18:38.256822+00:00",
   "items": [
     {
       "title_original": "What is the history of the ERROR_ARENA_TRASHED error code?",
@@ -11,36 +11,6 @@
       "source": "Hacker News",
       "published_at": "Wed, 20 May 2026 20:56:30 +0000",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A Wayland Compositor in Minecraft",
-      "title_neutral": "A Wayland Compositor in Minecraft",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "A Wayland Compositor in Minecraft",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 20 May 2026 20:19:46 +0000",
-      "url": "https://modrinth.com/mod/waylandcraft",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Sp.h is the standard library that C deserves",
-      "title_neutral": "Sp.h is the standard library that C deserves",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Sp.h is the standard library that C deserves",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 20 May 2026 13:05:46 +0000",
-      "url": "https://spader.zone/sp/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -81,15 +51,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Comparing an LZ4 Decompressor on Four Legacy CPUs",
-      "title_neutral": "Comparing an LZ4 Decompressor on Four Legacy CPUs",
+      "title_original": "The quadratic sandwich",
+      "title_neutral": "The quadratic sandwich",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Comparing an LZ4 Decompressor on Four Legacy CPUs",
+      "main_idea": "The quadratic sandwich",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Wed, 20 May 2026 11:58:24 +0000",
-      "url": "https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/",
+      "published_at": "Wed, 20 May 2026 12:06:56 +0000",
+      "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -111,20 +81,259 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Exxon Is Nearing a Deal to Pump Oil in Venezuela, Marking a Victory for Trump",
-      "title_neutral": "Exxon Is Nearing a Deal to Pump Oil in Venezuela, Marking a Victory for Trump",
-      "excerpt": "The U.S. oil giant is negotiating a deal to pump oil in Venezuela, ending a standoff with its socialist rulers and marking a victory for President Trump.",
-      "recap_neutral": "The U",
-      "main_idea": "Exxon Is Nearing a Deal to Pump Oil in Venezuela, Marking a Victory for Trump",
+      "title_original": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "title_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "excerpt": "",
+      "recap_neutral": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "main_idea": "Захарова: РФ приняла к сведению слова Вучича о ревизии поставок сербской продукции",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:18:01 +0300",
+      "url": "https://tass.ru/politika/24134697",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
+      "title_neutral": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
+      "excerpt": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
+      "recap_neutral": "Министр цифрового развития и связи региона Александр Синелобов сообщил, что стороны проведут несколько мероприятий в этом направлении",
+      "main_idea": "Нижегородская область и ЦБ будут сотрудничать в сфере повышения финансовой грамотности",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:17:03 +0300",
+      "url": "https://tass.ru/ekonomika/24134627",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "title_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "excerpt": "",
+      "recap_neutral": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "main_idea": "МИД Ирана не пойдет на сделку с США без сохранения возможности обогащения урана",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:15:43 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134665",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Магаданской области объявили чрезвычайную пожарную опасность",
+      "title_neutral": "В Магаданской области объявили чрезвычайную пожарную опасность",
+      "excerpt": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
+      "recap_neutral": "Такие погодные условия будет сохраняться в регионе с 5 по 7 июня",
+      "main_idea": "В Магаданской области объявили чрезвычайную пожарную опасность",
+      "tags": [
+        "climate"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:12:58 +0300",
+      "url": "https://tass.ru/obschestvo/24134601",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
+      "title_neutral": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
+      "excerpt": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
+      "recap_neutral": "Заместитель директора инвестиционного департамента КРДВ Мария Бадмацыренова сообщила, что в год 80-летия Победы регионы Дальнего Востока и Арктики готовы также предложить патриотические туры",
+      "main_idea": "На арктическом форуме в Архангельске обсудят развитие автотуризма",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:11:16 +0300",
+      "url": "https://tass.ru/obschestvo/24134589",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
+      "title_neutral": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
+      "excerpt": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
+      "recap_neutral": "Научный руководитель Гидрометцентра России Роман Вильфанд отметил, что нынешняя зима в России стала рекордно теплой",
+      "main_idea": "В РФ первые пять месяцев 2025 года стали самыми теплыми за всю историю наблюдений",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:09:34 +0300",
+      "url": "https://tass.ru/obschestvo/24132977",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
+      "title_neutral": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
+      "excerpt": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
+      "recap_neutral": "Это ускорит разработку лекарств и методов диагностики генетических заболеваний",
+      "main_idea": "Генеративный ИИ научили определять расстояния между генами в нитях ДНК",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:09:31 +0300",
+      "url": "https://tass.ru/nauka/24134535",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
+      "title_neutral": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
+      "excerpt": "Материалы дела поступили в мировой судебный участок 184",
+      "recap_neutral": "Материалы дела поступили в мировой судебный участок 184",
+      "main_idea": "На Викторию Боню составили протокол по делу о пропаганде наркотиков",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:09:03 +0300",
+      "url": "https://tass.ru/proisshestviya/24134595",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
+      "title_neutral": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
+      "excerpt": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
+      "recap_neutral": "Павел Мишин в момент происшествия остался в кабине и применил экстренное торможение, благодаря чему многие пассажиры выжили",
+      "main_idea": "РЖД: погибший под Брянском машинист до конца исполнил свой долг",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:08:48 +0300",
+      "url": "https://tass.ru/obschestvo/24134521",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
+      "title_neutral": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
+      "excerpt": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
+      "recap_neutral": "Cовместная работа направлена на развитие \"полигона данных\" для строительства, который разрабатывается на базе IT-компании",
+      "main_idea": "ДОМ.РФ и VK Tech займутся развитием ИИ-технологий для строительной отрасли",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:08:39 +0300",
+      "url": "https://tass.ru/nedvizhimost/24134431",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
+      "title_neutral": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
+      "excerpt": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
+      "recap_neutral": "Председатель Совфеда отметила, что доступность спорта не должна измеряться кошельком родителей или доходами семьи",
+      "main_idea": "Матвиенко: доступность детского спорта не должна измеряться кошельком родителей",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:06:43 +0300",
+      "url": "https://tass.ru/obschestvo/24133033",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
+      "title_neutral": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
+      "excerpt": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
+      "recap_neutral": "Законом собственники объекта культурного наследия обязываются выполнять капитальный ремонт общего имущества в многоквартирных домах",
+      "main_idea": "СФ одобрил закон об упрощенном содержании объектов культурного наследия",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:04:29 +0300",
+      "url": "https://tass.ru/obschestvo/24133525",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
+      "title_neutral": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
+      "excerpt": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
+      "recap_neutral": "Ведомство работает по поручению президента, отметила Мария Львова-Белова",
+      "main_idea": "Список Украины из 339 детей поступил в аппарат детского омбудсмена РФ",
       "tags": [
         "politics"
       ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 21 May 2026 19:58:31 +0000",
-      "url": "https://www.nytimes.com/2026/05/21/world/americas/exxon-venezuela-oil-trump.html",
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:03:57 +0300",
+      "url": "https://tass.ru/obschestvo/24134485",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "США пока не решили, продолжать или нет помощь Украине",
+      "title_neutral": "США пока не решили, продолжать или нет помощь Украине",
+      "excerpt": "",
+      "recap_neutral": "США пока не решили, продолжать или нет помощь Украине",
+      "main_idea": "США пока не решили, продолжать или нет помощь Украине",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:03:52 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/24134491",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+      "title_neutral": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+      "excerpt": "Предварительно, пострадавших нет",
+      "recap_neutral": "Предварительно, пострадавших нет",
+      "main_idea": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Jun 2025 14:02:07 +0300",
+      "url": "https://tass.ru/proisshestviya/24133329",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Kindle loyalists scramble as Amazon turns page on old e-readers",
+      "title_neutral": "Kindle loyalists scramble as Amazon turns page on old e-readers",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Kindle loyalists scramble as Amazon turns page on old e-readers",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 19 May 2026 15:30:01 +0000",
+      "url": "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -142,23 +351,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Uganda Restricts Travel with Congo Over Ebola Outbreak",
-      "title_neutral": "Uganda Restricts Travel with Congo Over Ebola Outbreak",
-      "excerpt": "Uganda said that flights to and from the Democratic Republic of Congo would be temporarily suspended, as the outbreak appeared to spread to a rebel-controlled province in Congo.",
-      "recap_neutral": "Uganda said that flights to and from the Democratic Republic of Congo would be temporarily suspended, as the outbreak appeared to spread to a rebel-controlled province in Congo",
-      "main_idea": "Uganda Restricts Travel with Congo Over Ebola Outbreak",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 21 May 2026 16:37:16 +0000",
-      "url": "https://www.nytimes.com/2026/05/21/world/africa/uganda-ebola-clinics-congo-us.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -199,21 +391,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The Hard-Line Military Fraternity Running Iran",
-      "title_neutral": "The Hard-Line Military Fraternity Running Iran",
-      "excerpt": "Decision making in the country is guided by a small group of men associated with the Islamic Revolutionary Guards Corps.",
-      "recap_neutral": "Decision making in the country is guided by a small group of men associated with the Islamic Revolutionary Guards Corps",
-      "main_idea": "The Hard-Line Military Fraternity Running Iran",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Thu, 21 May 2026 14:08:58 +0000",
-      "url": "https://www.nytimes.com/2026/05/21/world/middleeast/iran-revolutionary-guards.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say",
       "title_neutral": "US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say",
       "excerpt": "Hundreds of cases reported in the DRC after USAID has been dismantled and key scientific research canceled A previously undetected outbreak of Ebola is coursing through parts of central Africa, and the US appears to be doing little to help stop it, after massive cuts to global and domestic public h…",
@@ -251,260 +428,14 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "ВС РФ уничтожили пункты управления беспилотниками ВСУ на славянском направлении",
-      "title_neutral": "ВС РФ уничтожили пункты управления беспилотниками ВСУ на славянском направлении",
-      "excerpt": "На предоставленных кадрах показано три эпизода ликвидации целей",
-      "recap_neutral": "На предоставленных кадрах показано три эпизода ликвидации целей",
-      "main_idea": "ВС РФ уничтожили пункты управления беспилотниками ВСУ на славянском направлении",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 23 May 2026 10:11:26 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27507509",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Замгенсека ООН впечатлила организация форума в Казани и оживленная Москва",
-      "title_neutral": "Замгенсека ООН впечатлила организация форума в Казани и оживленная Москва",
-      "excerpt": "Мигель Анхель Моратинос отметил, что воспользовался возможностью пообщаться с мусульманскими религиозными лидерами России, поскольку он также является посланником организации по борьбе с исламофобией",
-      "recap_neutral": "Мигель Анхель Моратинос отметил, что воспользовался возможностью пообщаться с мусульманскими религиозными лидерами России, поскольку он также является посланником организации по борьбе с исламофобией",
-      "main_idea": "Замгенсека ООН впечатлила организация форума в Казани и оживленная Москва",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 23 May 2026 10:09:40 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27507487",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На юге европейской России прогнозируют ливни и грозы",
-      "title_neutral": "На юге европейской России прогнозируют ливни и грозы",
-      "excerpt": "Причиной непогоды стала циркуляция атмосферных движений, рассказала ведущий сотрудник Гидрометцентра РФ Марина Макарова",
-      "recap_neutral": "Причиной непогоды стала циркуляция атмосферных движений, рассказала ведущий сотрудник Гидрометцентра РФ Марина Макарова",
-      "main_idea": "На юге европейской России прогнозируют ливни и грозы",
-      "tags": [
-        "tech",
-        "climate"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 23 May 2026 10:08:39 +0300",
-      "url": "https://tass.ru/obschestvo/27506975",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Синоптик Шувалов рассказал, что россиянам с годами будет тяжелее переносить жару",
-      "title_neutral": "Синоптик Шувалов рассказал, что россиянам с годами будет тяжелее переносить жару",
-      "excerpt": "Летний период в Центральной России в течение ближайших 20 лет заметно увеличится, подчеркнул руководитель прогностического центра \"Метео\"",
-      "recap_neutral": "Летний период в Центральной России в течение ближайших 20 лет заметно увеличится, подчеркнул руководитель прогностического центра \"Метео\"",
-      "main_idea": "Синоптик Шувалов рассказал, что россиянам с годами будет тяжелее переносить жару",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 23 May 2026 10:08:19 +0300",
-      "url": "https://tass.ru/obschestvo/27507051",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мостовой оценил решение сына Плющенко выступать за сборную Азербайджана",
-      "title_neutral": "Мостовой оценил решение сына Плющенко выступать за сборную Азербайджана",
-      "excerpt": "С 2017 года фигурист занимается в академии \"Ангелы Плющенко\"",
-      "recap_neutral": "С 2017 года фигурист занимается в академии \"Ангелы Плющенко\"",
-      "main_idea": "Мостовой оценил решение сына Плющенко выступать за сборную Азербайджана",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 23 May 2026 10:04:39 +0300",
-      "url": "https://tass.ru/sport/27507485",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Родителям студентов атакованного ВСУ колледжа в ЛНР помогают медики и психологи",
-      "title_neutral": "Родителям студентов атакованного ВСУ колледжа в ЛНР помогают медики и психологи",
-      "excerpt": "Поисковые работы на месте ЧП продолжаются",
-      "recap_neutral": "Поисковые работы на месте ЧП продолжаются",
-      "main_idea": "Родителям студентов атакованного ВСУ колледжа в ЛНР помогают медики и психологи",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 23 May 2026 10:04:23 +0300",
-      "url": "https://tass.ru/obschestvo/27507369",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ски-альпинист Филиппов выйдет на старт забега на шоссе после спора с другом",
-      "title_neutral": "Ски-альпинист Филиппов выйдет на старт забега на шоссе после спора с другом",
-      "excerpt": "Он планирую осенью принять участие в 10-километровом забеге",
-      "recap_neutral": "Он планирую осенью принять участие в 10-километровом забеге",
-      "main_idea": "Ски-альпинист Филиппов выйдет на старт забега на шоссе после спора с другом",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 23 May 2026 10:03:36 +0300",
-      "url": "https://tass.ru/sport/27507447",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Эксперт Смирнова рассказала об опасности самозапрета на участие в азартных играх",
-      "title_neutral": "Эксперт Смирнова рассказала об опасности самозапрета на участие в азартных играх",
-      "excerpt": "Бизнес-юрист адвокат конторы адвокатов \"Колесникова О. А. и партнеры\" отметила, что он может сподвигнуть зависимого игрока обратиться к нелегальному казино",
-      "recap_neutral": "Бизнес-юрист адвокат конторы адвокатов \"Колесникова О",
-      "main_idea": "Эксперт Смирнова рассказала об опасности самозапрета на участие в азартных играх",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 23 May 2026 10:02:41 +0300",
-      "url": "https://tass.ru/obschestvo/27507449",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Эксперты рассказали о схеме мошенников с \"общероссийским родительским собранием\"",
-      "title_neutral": "Эксперты рассказали о схеме мошенников с \"общероссийским родительским собранием\"",
-      "excerpt": "На сайтах, которые рекламируются в мессенджерах, говорится об упомянутом собрании в формате онлайн, сообщили в ИБ-компании ESA PRO",
-      "recap_neutral": "На сайтах, которые рекламируются в мессенджерах, говорится об упомянутом собрании в формате онлайн, сообщили в ИБ-компании ESA PRO",
-      "main_idea": "Эксперты рассказали о схеме мошенников с \"общероссийским родительским собранием\"",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 23 May 2026 10:02:25 +0300",
-      "url": "https://tass.ru/obschestvo/27507455",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Урожай не для жука: как прогнать насекомых-вредителей со своего участка",
-      "title_neutral": "Урожай не для жука: как прогнать насекомых-вредителей со своего участка",
-      "excerpt": "Вкладывая труд и средства в свой дачный участок, любой человек очень хочет получать отдачу. Но иногда его трудом пользуются вовсе не те, кто должен. Картошку на грядках ест колорадский жук, яблоки — долгоносик, да и другие культуры весьма востребованы теми, кого хозяева участков видеть не рады. Соб…",
-      "recap_neutral": "Вкладывая труд и средства в свой дачный участок, любой человек очень хочет получать отдачу",
-      "main_idea": "Урожай не для жука: как прогнать насекомых-вредителей со своего участка",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 23 May 2026 10:00:00 +0300",
-      "url": "https://tass.ru/obschestvo/27449139",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Организованный РФ забег One Run во второй раз успешно прошел в Индии",
-      "title_neutral": "Организованный РФ забег One Run во второй раз успешно прошел в Индии",
-      "excerpt": "Забег состоялся в городе Бангалор",
-      "recap_neutral": "Забег состоялся в городе Бангалор",
-      "main_idea": "Организованный РФ забег One Run во второй раз успешно прошел в Индии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 23 May 2026 09:57:04 +0300",
-      "url": "https://tass.ru/sport/27507405",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Гвардиола рассказал, что планирует проводить больше времени с семьей",
-      "title_neutral": "Гвардиола рассказал, что планирует проводить больше времени с семьей",
-      "excerpt": "Ранее стало известно, что Гвардиола покинет \"Манчестер Сити\" по окончании текущего сезона",
-      "recap_neutral": "Ранее стало известно, что Гвардиола покинет \"Манчестер Сити\" по окончании текущего сезона",
-      "main_idea": "Гвардиола рассказал, что планирует проводить больше времени с семьей",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 23 May 2026 09:55:42 +0300",
-      "url": "https://tass.ru/sport/27507435",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Силы ПВО сбили два летевших на Москву беспилотника",
-      "title_neutral": "Силы ПВО сбили два летевших на Москву беспилотника",
-      "excerpt": "На месте падения обломков работают специалисты экстренных служб",
-      "recap_neutral": "На месте падения обломков работают специалисты экстренных служб",
-      "main_idea": "Силы ПВО сбили два летевших на Москву беспилотника",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 23 May 2026 09:55:40 +0300",
-      "url": "https://tass.ru/proisshestviya/27507437",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ФСБ показала кадры допроса жительницы Белгородской области по делу о подготовке теракта",
-      "title_neutral": "ФСБ показала кадры допроса жительницы Белгородской области по делу о подготовке теракта",
-      "excerpt": "По данным спецслужбы, после перевода крупной суммы на \"безопасный счет\" женщину убедили участвовать в якобы операции по задержанию преступников",
-      "recap_neutral": "По данным спецслужбы, после перевода крупной суммы на \"безопасный счет\" женщину убедили участвовать в якобы операции по задержанию преступников",
-      "main_idea": "ФСБ показала кадры допроса жительницы Белгородской области по делу о подготовке теракта",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 23 May 2026 09:54:47 +0300",
-      "url": "https://tass.ru/proisshestviya/27507383",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропорту Жуковский ввели ограничения",
-      "title_neutral": "В аэропорту Жуковский ввели ограничения",
-      "excerpt": "Они необходимы для обеспечения безопасности полетов",
-      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
-      "main_idea": "В аэропорту Жуковский ввели ограничения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 23 May 2026 09:53:36 +0300",
-      "url": "https://tass.ru/obschestvo/27507427",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "At least 90 dead in Chinese coal mine explosion, state media reports",
-      "title_neutral": "At least 90 dead in Chinese coal mine explosion, state media reports",
+      "title_original": "At least 90 killed in Chinese coal mine explosion, state media reports",
+      "title_neutral": "At least 90 killed in Chinese coal mine explosion, state media reports",
       "excerpt": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
       "recap_neutral": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China",
-      "main_idea": "At least 90 dead in Chinese coal mine explosion, state media reports",
+      "main_idea": "At least 90 killed in Chinese coal mine explosion, state media reports",
       "tags": [],
       "source": "BBC World",
-      "published_at": "Sat, 23 May 2026 06:37:29 GMT",
+      "published_at": "Sat, 23 May 2026 09:03:50 GMT",
       "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 36,
@@ -512,14 +443,83 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "U.S. Ebola Travel Ban Faces Criticism From Congo Health Officials",
+      "title_neutral": "U.S. Ebola Travel Ban Faces Criticism From Congo Health Officials",
+      "excerpt": "Kinshasa residents continue to pack markets, bars and public transportation, despite growing international concern about the spread of the virus.",
+      "recap_neutral": "Kinshasa residents continue to pack markets, bars and public transportation, despite growing international concern about the spread of the virus",
+      "main_idea": "U.S. Ebola Travel Ban Faces Criticism From Congo Health Officials",
+      "tags": [
+        "economy",
+        "health"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 23 May 2026 09:01:53 +0000",
+      "url": "https://www.nytimes.com/2026/05/23/world/africa/ebola-outbreak-congo-shrug.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump’s Pursuit of a Partnership With China Raises Concerns in India",
+      "title_neutral": "Trump’s Pursuit of a Partnership With China Raises Concerns in India",
+      "excerpt": "Secretary of State Marco Rubio has a “gargantuan task” during his visit to Delhi: defuse tensions over President Trump’s anti-India aggression and overtures to China.",
+      "recap_neutral": "Secretary of State Marco Rubio has a “gargantuan task” during his visit to Delhi: defuse tensions over President Trump’s anti-India aggression and overtures to China",
+      "main_idea": "Trump’s Pursuit of a Partnership With China Raises Concerns in India",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 23 May 2026 09:01:52 +0000",
+      "url": "https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "‘A Total Nightmare’: Voices From a Moscow Hit by Ukrainian Drones",
+      "title_neutral": "‘A Total Nightmare’: Voices From a Moscow Hit by Ukrainian Drones",
+      "excerpt": "Residents who experienced attacks in recent days were shaken deeply by the conflict coming home to the capital region, the seat of the Kremlin’s power.",
+      "recap_neutral": "Residents who experienced attacks in recent days were shaken deeply by the conflict coming home to the capital region, the seat of the Kremlin’s power",
+      "main_idea": "‘A Total Nightmare’: Voices From a Moscow Hit by Ukrainian Drones",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 23 May 2026 09:01:44 +0000",
+      "url": "https://www.nytimes.com/2026/05/23/world/europe/moscow-drone-attacks-ukraine.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to Stay Safe Around Jellyfish This Beach Season",
+      "title_neutral": "How to Stay Safe Around Jellyfish This Beach Season",
+      "excerpt": "Jellyfish myths and misconceptions abound. Here’s how to stay safe this beach season around these gelatinous wonders.",
+      "recap_neutral": "Jellyfish myths and misconceptions abound",
+      "main_idea": "How to Stay Safe Around Jellyfish This Beach Season",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sat, 23 May 2026 09:00:31 +0000",
+      "url": "https://www.nytimes.com/2026/05/23/us/jellyfish-facts-beach-sting-safety.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "China mine explosion: death toll leaps to 90 after gas blast",
       "title_neutral": "China mine explosion: death toll leaps to 90 after gas blast",
-      "excerpt": "Xi Jinping urges authorities to ‘spare no effort’ in rescue efforts after blast at mine in northern Shanxi province The death toll from a gas explosion at a coalmine in northern China’s Shanxi province has risen to at least 90, state broadcaster CCTV reported on Saturday. The gas explosion happened…",
-      "recap_neutral": "Xi Jinping urges authorities to ‘spare no effort’ in rescue efforts after blast at mine in northern Shanxi province The death toll from a gas explosion at a coalmine in northern China’s Shanxi province has risen to at l…",
+      "excerpt": "Xi Jinping urges authorities to ‘spare no effort’ in rescue operation after blast in northern Shanxi province At least 90 people have been killed in a gas explosion at a coalmine in China’s northern Shanxi province, the country’s deadliest mining accident since at least 2009. The gas explosion occu…",
+      "recap_neutral": "Xi Jinping urges authorities to ‘spare no effort’ in rescue operation after blast in northern Shanxi province At least 90 people have been killed in a gas explosion at a coalmine in China’s northern Shanxi province, the…",
       "main_idea": "China mine explosion: death toll leaps to 90 after gas blast",
       "tags": [],
       "source": "The Guardian",
-      "published_at": "Sat, 23 May 2026 06:21:04 GMT",
+      "published_at": "Sat, 23 May 2026 08:51:27 GMT",
       "url": "https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping",
       "lang": "en",
       "bias_score": 60,
@@ -527,20 +527,184 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Senegal's president sacks prime minister Sonko after months of tensions",
+      "title_neutral": "Senegal's president sacks prime minister Sonko after months of tensions",
+      "excerpt": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
+      "recap_neutral": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country",
+      "main_idea": "Senegal's president sacks prime minister Sonko after months of tensions",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 23 May 2026 08:34:46 GMT",
+      "url": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+      "title_neutral": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+      "excerpt": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false.",
+      "recap_neutral": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false",
+      "main_idea": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 23 May 2026 08:10:51 GMT",
+      "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Their Phones Were Stolen in London. Then the Threats Started.",
+      "title_neutral": "Their Phones Were Stolen in London. Then the Threats Started.",
+      "excerpt": "Tens of thousands of smartphones were reported stolen in the British capital in recent years. For some victims, losing their phone was only the beginning.",
+      "recap_neutral": "Tens of thousands of smartphones were reported stolen in the British capital in recent years",
+      "main_idea": "Their Phones Were Stolen in London. Then the Threats Started.",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sat, 23 May 2026 07:48:02 +0000",
+      "url": "https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
       "title_neutral": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "excerpt": "Ukraine says it hit Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
-      "recap_neutral": "Ukraine says it hit Russia's elite Rubicon drone military unit in a Moscow-occupied region",
+      "excerpt": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+      "recap_neutral": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region",
       "main_idea": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
       "tags": [
         "tech"
       ],
       "source": "BBC World",
-      "published_at": "Sat, 23 May 2026 04:05:03 GMT",
+      "published_at": "Sat, 23 May 2026 07:44:14 GMT",
       "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Experience: We found a baby on the subway – now he's our 26-year-old son",
+      "title_neutral": "Experience: We found a baby on the subway – now he's our 26-year-old son",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Experience: We found a baby on the subway – now he's our 26-year-old son",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 23 May 2026 07:34:33 +0000",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order",
+      "title_neutral": "Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 23 May 2026 06:54:49 +0000",
+      "url": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Rubish: A Unix shell written in pure Ruby",
+      "title_neutral": "Rubish: A Unix shell written in pure Ruby",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Rubish: A Unix shell written in pure Ruby",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 23 May 2026 06:32:00 +0000",
+      "url": "https://github.com/amatsuda/rubish",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Once Trump’s Co-Pilot Against Iran, Netanyahu Is Now a Mere Passenger",
+      "title_neutral": "Once Trump’s Co-Pilot Against Iran, Netanyahu Is Now a Mere Passenger",
+      "excerpt": "A partner in the war, Israel has been largely left out of the peace talks, a humbling setback for its prime minister with significant risks for the country.",
+      "recap_neutral": "A partner in the war, Israel has been largely left out of the peace talks, a humbling setback for its prime minister with significant risks for the country",
+      "main_idea": "Once Trump’s Co-Pilot Against Iran, Netanyahu Is Now a Mere Passenger",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 23 May 2026 05:43:09 +0000",
+      "url": "https://www.nytimes.com/2026/05/23/world/middleeast/israel-trump-iran.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "15 years since a deadly tornado brought Joplin, Mo. together, kindness carries on",
+      "title_neutral": "15 years since a deadly tornado brought Joplin, Mo. together, kindness carries on",
+      "excerpt": "Nearly 100,000 volunteers helped the town rebuild and a spirit of community service continues to this day. Researchers studying human behavior catastrophes can bring out compassion in surprising ways.",
+      "recap_neutral": "Nearly 100,000 volunteers helped the town rebuild and a spirit of community service continues to this day",
+      "main_idea": "15 years since a deadly tornado brought Joplin, Mo. together, kindness carries on",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sat, 23 May 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/05/23/nx-s1-5831985/joplin-missouri-tornado-catastrophe-compassion",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "'I'd wait forever, but 334 days is crazy.' USS Ford finally comes home",
+      "title_neutral": "'I'd wait forever, but 334 days is crazy.' USS Ford finally comes home",
+      "excerpt": "The USS Ford came home to a hero's welcome. Sailors had been away from home for nearly a year, through two conflicts, a fire and problems with the sewage system.",
+      "recap_neutral": "The USS Ford came home to a hero's welcome",
+      "main_idea": "'I'd wait forever, but 334 days is crazy.' USS Ford finally comes home",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 23 May 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/05/23/nx-s1-5830101/uss-ford-comes-home",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "One solution for Maine's struggling fishing industry? Give fillets away for free",
+      "title_neutral": "One solution for Maine's struggling fishing industry? Give fillets away for free",
+      "excerpt": "Surging food costs and fuel prices are pummeling Maine's struggling groundfishing industry. But a pandemic-era program is helping to keep it afloat as inflation worsens.",
+      "recap_neutral": "Surging food costs and fuel prices are pummeling Maine's struggling groundfishing industry",
+      "main_idea": "One solution for Maine's struggling fishing industry? Give fillets away for free",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 23 May 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/05/23/nx-s1-5756374/food-fish-maine-portland-donations",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -607,11 +771,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Coal mine gas explosion in China kills 82 people, state media say",
-      "title_neutral": "Coal mine gas explosion in China kills 82 people, state media say",
-      "excerpt": "A gas explosion at a coal mine in China's northern province of Shanxi killed at least 82 people. Official news agency Xinhua said the accident happened on Friday evening and 247 workers were trapped.",
-      "recap_neutral": "A gas explosion at a coal mine in China's northern province of Shanxi killed at least 82 people",
-      "main_idea": "Coal mine gas explosion in China kills 82 people, state media say",
+      "title_original": "Coal mine gas explosion in China kills 90 people, state media say",
+      "title_neutral": "Coal mine gas explosion in China kills 90 people, state media say",
+      "excerpt": "A gas explosion at a coal mine in China's northern province of Shanxi killed at least 90 people. Official news agency Xinhua said the accident happened on Friday evening. Around 247 workers were on duty at the time.",
+      "recap_neutral": "A gas explosion at a coal mine in China's northern province of Shanxi killed at least 90 people",
+      "main_idea": "Coal mine gas explosion in China kills 90 people, state media say",
       "tags": [
         "tech"
       ],
@@ -807,23 +971,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Judge dismisses criminal case against Kilmar Abrego Garcia",
-      "title_neutral": "Judge dismisses criminal case against Kilmar Abrego Garcia",
-      "excerpt": "A federal judge says the Maryland man who was wrongfully deported last year is being prosecuted for political reasons.",
-      "recap_neutral": "A federal judge says the Maryland man who was wrongfully deported last year is being prosecuted for political reasons",
-      "main_idea": "Judge dismisses criminal case against Kilmar Abrego Garcia",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 22 May 2026 21:47:47 GMT",
-      "url": "https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Europeans Remain Wary After Trump Promises to Send Troops to Poland",
       "title_neutral": "Europeans Remain Wary After Trump Promises to Send Troops to Poland",
       "excerpt": "President Trump said he would send 5,000 troops to Poland, part of a back-and-forth that has left European leaders reeling.",
@@ -918,23 +1065,6 @@
       "source": "BBC World",
       "published_at": "Fri, 22 May 2026 20:59:28 GMT",
       "url": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "title_neutral": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "excerpt": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false.",
-      "recap_neutral": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false",
-      "main_idea": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 22 May 2026 20:52:35 GMT",
-      "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -1071,21 +1201,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Open source Kanban desktop app that runs parallel agents on every card",
-      "title_neutral": "Open source Kanban desktop app that runs parallel agents on every card",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Open source Kanban desktop app that runs parallel agents on every card",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 22 May 2026 18:17:57 +0000",
-      "url": "https://www.kanbots.dev/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Bodies of Italian divers did not have optimal equipment, says rescuer",
       "title_neutral": "Bodies of Italian divers did not have optimal equipment, says rescuer",
       "excerpt": "Images from a cave where the four Italians were found reveal the difficulty that rescuers had in recovering their bodies.",
@@ -1113,23 +1228,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Federal judge dismisses criminal charges against Kilmar Abrego Garcia",
-      "title_neutral": "Federal judge dismisses criminal charges against Kilmar Abrego Garcia",
-      "excerpt": "U.S. District Judge Waverly Crenshaw accused the Justice Department of conducting a vindictive prosecution against the Salvadoran man.",
-      "recap_neutral": "U",
-      "main_idea": "Federal judge dismisses criminal charges against Kilmar Abrego Garcia",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 22 May 2026 17:13:29 -0400",
-      "url": "https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1183,24 +1281,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "DHS says ICE has 'no relationship' with spyware maker Paragon Solutions",
-      "title_neutral": "DHS says ICE has 'no relationship' with spyware maker Paragon Solutions",
-      "excerpt": "The Department of Homeland Security says ICE has no current contract or relationship with the company, but questions remain about ICE's use of commercial spyware.",
-      "recap_neutral": "The Department of Homeland Security says ICE has no current contract or relationship with the company, but questions remain about ICE's use of commercial spyware",
-      "main_idea": "DHS says ICE has 'no relationship' with spyware maker Paragon Solutions",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 22 May 2026 16:30:56 -0400",
-      "url": "https://www.npr.org/2026/05/22/nx-s1-5831577/dhs-ice-spyware-paragon",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1368,23 +1448,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ask AI or just Google it? Google makes a big change to a little search box",
-      "title_neutral": "Ask AI or just Google it? Google makes a big change to a little search box",
-      "excerpt": "The search giant is updating its famously minimalist homepage. But what looks like a tiny design change is a very big deal.",
-      "recap_neutral": "The search giant is updating its famously minimalist homepage",
-      "main_idea": "Ask AI or just Google it? Google makes a big change to a little search box",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 22 May 2026 15:05:25 -0400",
-      "url": "https://www.npr.org/2026/05/22/nx-s1-5829915/google-search-box-ai",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "GT7 Daily Races: Some of My Unpopular Opinions",
       "title_neutral": "GT7 Daily Races: Some of My Unpopular Opinions",
       "excerpt": "Most GT7 Daily Race complaints come from drivers who won't examine their own racecraft. After years on iRacing and months in GT7 online, I've found that treating the sim like you own the car. Real consequences, real accountability change everything about how you drive and how you experience racing…",
@@ -1434,23 +1497,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Police Investigation of Former Prince Andrew Examines Reports of Sexual Misconduct",
-      "title_neutral": "Police Investigation of Former Prince Andrew Examines Reports of Sexual Misconduct",
-      "excerpt": "A British police force said it was assessing a report that a woman had been taken to an address in Windsor in 2010 for sexual purposes. No charges have been filed.",
-      "recap_neutral": "A British police force said it was assessing a report that a woman had been taken to an address in Windsor in 2010 for sexual purposes",
-      "main_idea": "Police Investigation of Former Prince Andrew Examines Reports of Sexual Misconduct",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 22 May 2026 12:48:00 +0000",
-      "url": "https://www.nytimes.com/2026/05/22/world/europe/police-investigating-former-prince-andrew-britain.html",
-      "lang": "en",
-      "bias_score": 49,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Deno 2.8",
       "title_neutral": "Deno 2.8",
       "excerpt": "Comments",
@@ -1460,21 +1506,6 @@
       "source": "Hacker News",
       "published_at": "Fri, 22 May 2026 11:23:30 +0000",
       "url": "https://deno.com/blog/v2.8",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "title_neutral": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 22 May 2026 10:38:26 +0000",
-      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -1597,43 +1628,6 @@
       "source": "NYTimes World",
       "published_at": "Fri, 22 May 2026 09:02:02 +0000",
       "url": "https://www.nytimes.com/2026/05/22/world/europe/ukraine-russia-putin-europe-peace-talks.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "From General to Governor: Putin Pushes a ‘New Elite’ of War Veterans",
-      "title_neutral": "From General to Governor: Putin Pushes a ‘New Elite’ of War Veterans",
-      "excerpt": "The popular leader of a region bordering Ukraine is replaced by a military commander as President Vladimir V. Putin looks to reward those who fought in his war.",
-      "recap_neutral": "The popular leader of a region bordering Ukraine is replaced by a military commander as President Vladimir V",
-      "main_idea": "From General to Governor: Putin Pushes a ‘New Elite’ of War Veterans",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 22 May 2026 09:01:45 +0000",
-      "url": "https://www.nytimes.com/2026/05/22/world/europe/russia-belgorod-governor.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Manhunt Underway in Philippines for Duterte Ally Who Is Evading I.C.C. Warrant",
-      "title_neutral": "Manhunt Underway in Philippines for Duterte Ally Who Is Evading I.C.C. Warrant",
-      "excerpt": "The fugitive, Senator Ronald dela Rosa, had sought refuge in the country’s Senate last week, eventually giving government agents the slip.",
-      "recap_neutral": "The fugitive, Senator Ronald dela Rosa, had sought refuge in the country’s Senate last week, eventually giving government agents the slip",
-      "main_idea": "Manhunt Underway in Philippines for Duterte Ally Who Is Evading I.C.C. Warrant",
-      "tags": [
-        "politics",
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 22 May 2026 08:35:33 +0000",
-      "url": "https://www.nytimes.com/2026/05/22/world/asia/manhunt-philippines-bato-dela-rosa-fugitive.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
