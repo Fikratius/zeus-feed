@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T22:29:53.076901+00:00",
+  "last_updated": "2026-05-24T23:34:33.737569+00:00",
   "items": [
     {
       "title_original": "Using HTTP/2 Cleartext for a server in Go 1.24",
@@ -76,7 +76,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sun, 24 May 2026 22:28:20 +0000",
+      "published_at": "Sun, 24 May 2026 23:06:46 +0000",
       "url": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump",
       "lang": "en",
       "bias_score": 55,
@@ -367,21 +367,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "CBP Directive 3340-049B: Border Search of Electronic Devices",
-      "title_neutral": "CBP Directive 3340-049B: Border Search of Electronic Devices",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "CBP Directive 3340-049B: Border Search of Electronic Devices",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 24 May 2026 19:12:46 +0000",
-      "url": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "A fundamental principle of aeronautical engineering has been overturned",
       "title_neutral": "A fundamental principle of aeronautical engineering has been overturned",
       "excerpt": "Comments",
@@ -631,23 +616,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
-      "title_neutral": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sun, 24 May 2026 17:00:46 +0000",
-      "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1143,6 +1111,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "title_neutral": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 24 May 2026 01:21:13 +0000",
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "France Bans Israeli Minister Over Treatment of Detained Flotilla Activists",
       "title_neutral": "France Bans Israeli Minister Over Treatment of Detained Flotilla Activists",
       "excerpt": "Itamar Ben-Gvir, the Israeli national security minister, has long drawn criticism for his hard-line statements and harsh policies against Palestinian prisoners.",
@@ -1280,11 +1263,206 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "SIPRI: численность миротворцев в 2025 году стала самой минимальной за 25 лет",
-      "title_neutral": "SIPRI: численность миротворцев в 2025 году стала самой минимальной за 25 лет",
+      "title_original": "ГТЛК планирует подписать с S7 контракт на первую партию Ту-214",
+      "title_neutral": "ГТЛК планирует подписать с S7 контракт на первую партию Ту-214",
+      "excerpt": "Глава Государственной транспортной лизинговой компании Михаил Парнев отметил, что первые 10 самолетов поставят заказчику в версии с отдельным местом бортинженера, а остальные в стандартном исполнении",
+      "recap_neutral": "Глава Государственной транспортной лизинговой компании Михаил Парнев отметил, что первые 10 самолетов поставят заказчику в версии с отдельным местом бортинженера, а остальные в стандартном исполнении",
+      "main_idea": "ГТЛК планирует подписать с S7 контракт на первую партию Ту-214",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 02:29:20 +0300",
+      "url": "https://tass.ru/ekonomika/27516683",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Метеоролог Цыплакова призвала не доверять мобильным приложениям с погодой",
+      "title_neutral": "Метеоролог Цыплакова призвала не доверять мобильным приложениям с погодой",
+      "excerpt": "",
+      "recap_neutral": "Метеоролог Цыплакова призвала не доверять мобильным приложениям с погодой",
+      "main_idea": "Метеоролог Цыплакова призвала не доверять мобильным приложениям с погодой",
+      "tags": [
+        "climate"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 02:24:51 +0300",
+      "url": "https://tass.ru/obschestvo/27516689",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Ярославской области объявили беспилотную опасность",
+      "title_neutral": "В Ярославской области объявили беспилотную опасность",
+      "excerpt": "",
+      "recap_neutral": "В Ярославской области объявили беспилотную опасность",
+      "main_idea": "В Ярославской области объявили беспилотную опасность",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 02:20:49 +0300",
+      "url": "https://tass.ru/proisshestviya/27516679",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "NYT: США и Иран пришли к принципиальному согласию по сделке",
+      "title_neutral": "NYT: США и Иран пришли к принципиальному согласию по сделке",
+      "excerpt": "Соглашение подразумевает открытие Ормузского пролива, отмечет газета",
+      "recap_neutral": "Соглашение подразумевает открытие Ормузского пролива, отмечет газета",
+      "main_idea": "NYT: США и Иран пришли к принципиальному согласию по сделке",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 02:18:14 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27516671",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Хезболлах\" заявила о проведении за сутки 28 операций против Израиля",
+      "title_neutral": "\"Хезболлах\" заявила о проведении за сутки 28 операций против Израиля",
+      "excerpt": "Как отметила шиитская милиция, атаки стали ответом на нарушение противником режима прекращения огня",
+      "recap_neutral": "Как отметила шиитская милиция, атаки стали ответом на нарушение противником режима прекращения огня",
+      "main_idea": "\"Хезболлах\" заявила о проведении за сутки 28 операций против Израиля",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 02:12:02 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27516661",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "FT: Си Цзиньпин повысил голос на Трампа из-за премьера Японии",
+      "title_neutral": "FT: Си Цзиньпин повысил голос на Трампа из-за премьера Японии",
+      "excerpt": "В этот момент председатель КНР резко критиковал Санаэ Такаити, пишет издание",
+      "recap_neutral": "В этот момент председатель КНР резко критиковал Санаэ Такаити, пишет издание",
+      "main_idea": "FT: Си Цзиньпин повысил голос на Трампа из-за премьера Японии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 01:47:52 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27516653",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Times: самолет с главой МО Британии потерял спутниковый сигнал у границы с РФ",
+      "title_neutral": "Times: самолет с главой МО Британии потерял спутниковый сигнал у границы с РФ",
+      "excerpt": "Издание отметило, что приборная доска самолета частично перестала работать, а компьютеры у пассажиров не подключались к интернету",
+      "recap_neutral": "Издание отметило, что приборная доска самолета частично перестала работать, а компьютеры у пассажиров не подключались к интернету",
+      "main_idea": "Times: самолет с главой МО Британии потерял спутниковый сигнал у границы с РФ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 01:41:11 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27516647",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Вологде жители более 400 домов остались без холодной воды",
+      "title_neutral": "В Вологде жители более 400 домов остались без холодной воды",
+      "excerpt": "Причиной стал прорыв на сетях",
+      "recap_neutral": "Причиной стал прорыв на сетях",
+      "main_idea": "В Вологде жители более 400 домов остались без холодной воды",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 01:40:33 +0300",
+      "url": "https://tass.ru/obschestvo/27516641",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Чувашии объявили угрозу атаки беспилотников",
+      "title_neutral": "В Чувашии объявили угрозу атаки беспилотников",
+      "excerpt": "Об этом сообщили в правительстве республики",
+      "recap_neutral": "Об этом сообщили в правительстве республики",
+      "main_idea": "В Чувашии объявили угрозу атаки беспилотников",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 01:36:46 +0300",
+      "url": "https://tass.ru/proisshestviya/27516635",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Слуцкий попросил ФАС проверить скрытое уменьшение веса и объема товаров",
+      "title_neutral": "Слуцкий попросил ФАС проверить скрытое уменьшение веса и объема товаров",
+      "excerpt": "Шринкфляция вводит потребителей в заблуждение и создает необоснованные конкурентные преимущества для производителей, заявил лидер ЛДПР",
+      "recap_neutral": "Шринкфляция вводит потребителей в заблуждение и создает необоснованные конкурентные преимущества для производителей, заявил лидер ЛДПР",
+      "main_idea": "Слуцкий попросил ФАС проверить скрытое уменьшение веса и объема товаров",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 01:35:23 +0300",
+      "url": "https://tass.ru/ekonomika/27516631",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Эксперт Сафонов рассказал, какой может быть максимальная пенсия айтишников",
+      "title_neutral": "Эксперт Сафонов рассказал, какой может быть максимальная пенсия айтишников",
+      "excerpt": "Профессор Финансового университета при правительстве РФ отметил, что выплата может составить почти 77 тыс. рублей",
+      "recap_neutral": "Профессор Финансового университета при правительстве РФ отметил, что выплата может составить почти 77 тыс",
+      "main_idea": "Эксперт Сафонов рассказал, какой может быть максимальная пенсия айтишников",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 01:32:33 +0300",
+      "url": "https://tass.ru/obschestvo/27516619",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Цена Brent на ICE опустилась ниже $99 впервые с 11 мая",
+      "title_neutral": "Цена Brent на ICE опустилась ниже $99 впервые с 11 мая",
+      "excerpt": "По данным на 01:02 мск, нефть снижалась на 4,58%",
+      "recap_neutral": "По данным на 01:02 мск, нефть снижалась на 4,58%",
+      "main_idea": "Цена Brent на ICE опустилась ниже $99 впервые с 11 мая",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 01:27:45 +0300",
+      "url": "https://tass.ru/ekonomika/27516611",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "SIPRI: численность миротворцев в 2025 году стала минимальной за 25 лет",
+      "title_neutral": "SIPRI: численность миротворцев в 2025 году стала минимальной за 25 лет",
       "excerpt": "Эксперты института отметили, что миротворческие операции ООН столкнулись с дефицитом в размере $2 млрд, из-за чего пришлось сократить персонал",
       "recap_neutral": "Эксперты института отметили, что миротворческие операции ООН столкнулись с дефицитом в размере $2 млрд, из-за чего пришлось сократить персонал",
-      "main_idea": "SIPRI: численность миротворцев в 2025 году стала самой минимальной за 25 лет",
+      "main_idea": "SIPRI: численность миротворцев в 2025 году стала минимальной за 25 лет",
       "tags": [
         "tech"
       ],
@@ -1299,8 +1477,8 @@
     {
       "title_original": "США назвали причину отсутствия итогового документа конференции ДНЯО",
       "title_neutral": "США назвали причину отсутствия итогового документа конференции ДНЯО",
-      "excerpt": "Это связано с разногласиями относительно Ирана, заявили в Госдепе",
-      "recap_neutral": "Это связано с разногласиями относительно Ирана, заявили в Госдепе",
+      "excerpt": "Достичь консенсуса не удалось из-за разногласий относительно Ирана, заявили в Госдепе",
+      "recap_neutral": "Достичь консенсуса не удалось из-за разногласий относительно Ирана, заявили в Госдепе",
       "main_idea": "США назвали причину отсутствия итогового документа конференции ДНЯО",
       "tags": [
         "tech"
@@ -1323,201 +1501,6 @@
       "source": "ТАСС",
       "published_at": "Mon, 25 May 2026 01:13:09 +0300",
       "url": "https://tass.ru/obschestvo/27516597",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Пензенской области объявили беспилотную опасность",
-      "title_neutral": "В Пензенской области объявили беспилотную опасность",
-      "excerpt": "Временно ограничена работа мобильного интернета",
-      "recap_neutral": "Временно ограничена работа мобильного интернета",
-      "main_idea": "В Пензенской области объявили беспилотную опасность",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 01:04:07 +0300",
-      "url": "https://tass.ru/proisshestviya/27516589",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Стубб: Финляндия не готова открыть границу с Россией",
-      "title_neutral": "Стубб: Финляндия не готова открыть границу с Россией",
-      "excerpt": "Финский президент обосновал свою позицию обеспокоенностью отсутствием гарантий того, что РФ не будет использовать мигрантов и беженцев \"в качестве орудия\"",
-      "recap_neutral": "Финский президент обосновал свою позицию обеспокоенностью отсутствием гарантий того, что РФ не будет использовать мигрантов и беженцев \"в качестве орудия\"",
-      "main_idea": "Стубб: Финляндия не готова открыть границу с Россией",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:57:53 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27516571",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мирошник: \"индульгенция\" Европы провоцирует удары ВСУ по гражданским объектам",
-      "title_neutral": "Мирошник: \"индульгенция\" Европы провоцирует удары ВСУ по гражданским объектам",
-      "excerpt": "По словам посла по особым поручениям МИД России по вопросам преступлений киевского режима, европейские страны сознательно игнорируют нарушения международного и гуманитарного права со стороны Украины",
-      "recap_neutral": "По словам посла по особым поручениям МИД России по вопросам преступлений киевского режима, европейские страны сознательно игнорируют нарушения международного и гуманитарного права со стороны Украины",
-      "main_idea": "Мирошник: \"индульгенция\" Европы провоцирует удары ВСУ по гражданским объектам",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:49:02 +0300",
-      "url": "https://tass.ru/politika/27516559",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "РФ обратится в Международный суд ООН в связи с ущемлением русских в Прибалтике",
-      "title_neutral": "РФ обратится в Международный суд ООН в связи с ущемлением русских в Прибалтике",
-      "excerpt": "В МИД России отметили, что попытки решить этот вопрос путем переговоров ни к чему не привели",
-      "recap_neutral": "В МИД России отметили, что попытки решить этот вопрос путем переговоров ни к чему не привели",
-      "main_idea": "РФ обратится в Международный суд ООН в связи с ущемлением русских в Прибалтике",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:48:14 +0300",
-      "url": "https://tass.ru/politika/27516547",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лидер \"Хезболлах\": Иран выйдет из войны с США \"с высоко поднятой головой\"",
-      "title_neutral": "Лидер \"Хезболлах\": Иран выйдет из войны с США \"с высоко поднятой головой\"",
-      "excerpt": "Тегеран \"станет опорой для всех свободолюбивых людей в мире\", считает шейх Наим Касем",
-      "recap_neutral": "Тегеран \"станет опорой для всех свободолюбивых людей в мире\", считает шейх Наим Касем",
-      "main_idea": "Лидер \"Хезболлах\": Иран выйдет из войны с США \"с высоко поднятой головой\"",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:44:31 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27516533",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Антонелли выиграл четвертый этап \"Формулы-1\" подряд",
-      "title_neutral": "Антонелли выиграл четвертый этап \"Формулы-1\" подряд",
-      "excerpt": "Второе место занял Льюис Хэмилтон, третье - Макс Ферстаппен",
-      "recap_neutral": "Второе место занял Льюис Хэмилтон, третье - Макс Ферстаппен",
-      "main_idea": "Антонелли выиграл четвертый этап \"Формулы-1\" подряд",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:43:59 +0300",
-      "url": "https://tass.ru/sport/27516541",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Россию транспортировали тело россиянки, обнаруженное в Южной Осетии",
-      "title_neutral": "В Россию транспортировали тело россиянки, обнаруженное в Южной Осетии",
-      "excerpt": "Замглавы МЧС республики Руслан Санакоев отметил, что югоосетинские эксперты работали совместно с российскими коллегами",
-      "recap_neutral": "Замглавы МЧС республики Руслан Санакоев отметил, что югоосетинские эксперты работали совместно с российскими коллегами",
-      "main_idea": "В Россию транспортировали тело россиянки, обнаруженное в Южной Осетии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:40:13 +0300",
-      "url": "https://tass.ru/proisshestviya/27516529",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Кабулов: Россия готова поддержать Афганистан продовольствием",
-      "title_neutral": "Кабулов: Россия готова поддержать Афганистан продовольствием",
-      "excerpt": "Специальный представитель президента РФ по Афганистану отметил, что в ближайшие месяцы ситуацию может временно стабилизировать зерновой урожай",
-      "recap_neutral": "Специальный представитель президента РФ по Афганистану отметил, что в ближайшие месяцы ситуацию может временно стабилизировать зерновой урожай",
-      "main_idea": "Кабулов: Россия готова поддержать Афганистан продовольствием",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:32:27 +0300",
-      "url": "https://tass.ru/politika/27516509",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Fox: рамочное соглашение США и Ирана согласовано на 95%",
-      "title_neutral": "Fox: рамочное соглашение США и Ирана согласовано на 95%",
-      "excerpt": "По информации телеканала, американский лидер Дональд Трамп может дать еще пять-семь дней на то, чтобы довести работу над документом до конца",
-      "recap_neutral": "По информации телеканала, американский лидер Дональд Трамп может дать еще пять-семь дней на то, чтобы довести работу над документом до конца",
-      "main_idea": "Fox: рамочное соглашение США и Ирана согласовано на 95%",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:22:03 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27516501",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Прием заявок на голландский аукцион по продаже ЮГК завершается",
-      "title_neutral": "Прием заявок на голландский аукцион по продаже ЮГК завершается",
-      "excerpt": "Итоги будут подведены 26 мая",
-      "recap_neutral": "Итоги будут подведены 26 мая",
-      "main_idea": "Прием заявок на голландский аукцион по продаже ЮГК завершается",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:15:22 +0300",
-      "url": "https://tass.ru/ekonomika/27516447",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропортах Нижнего Новгорода и Ярославля ввели временные ограничения",
-      "title_neutral": "В аэропортах Нижнего Новгорода и Ярославля ввели временные ограничения",
-      "excerpt": "Самолеты не принимают и не выпускают",
-      "recap_neutral": "Самолеты не принимают и не выпускают",
-      "main_idea": "В аэропортах Нижнего Новгорода и Ярославля ввели временные ограничения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:13:27 +0300",
-      "url": "https://tass.ru/ekonomika/27516481",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "X Российско-китайские молодежные летние игры стартуют в Калининграде",
-      "title_neutral": "X Российско-китайские молодежные летние игры стартуют в Калининграде",
-      "excerpt": "Соревнования будут проходить по 12 видам спорта",
-      "recap_neutral": "Соревнования будут проходить по 12 видам спорта",
-      "main_idea": "X Российско-китайские молодежные летние игры стартуют в Калининграде",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:06:25 +0300",
-      "url": "https://tass.ru/sport/27516469",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
@@ -1556,6 +1539,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Noroboto: Lying Fonts and Mitigation in Rust",
+      "title_neutral": "Noroboto: Lying Fonts and Mitigation in Rust",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Noroboto: Lying Fonts and Mitigation in Rust",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 22 May 2026 14:55:37 +0000",
+      "url": "https://tritium.legal/blog/noroboto",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
