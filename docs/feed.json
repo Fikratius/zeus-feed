@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T21:27:15.758254+00:00",
+  "last_updated": "2026-05-24T22:29:53.076901+00:00",
   "items": [
     {
       "title_original": "Using HTTP/2 Cleartext for a server in Go 1.24",
@@ -51,6 +51,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
+      "title_neutral": "LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 21 May 2026 00:15:32 +0000",
+      "url": "https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Iran War Live Updates: U.S.-Iran Peace Deal Nearer, But Could Take Days to Nail Down, U.S. Official Says",
       "title_neutral": "Iran War Live Updates: U.S.-Iran Peace Deal Nearer, But Could Take Days to Nail Down, U.S. Official Says",
       "excerpt": "The official said the sides had agreed in principle to reopen the Strait of Hormuz and commit Iran to disposing of its highly enriched uranium, but stressed that a deal had not yet been signed.",
@@ -61,11 +76,29 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sun, 24 May 2026 21:11:35 +0000",
+      "published_at": "Sun, 24 May 2026 22:28:20 +0000",
       "url": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Blast targeting train kills at least 20 in Pakistan",
+      "title_neutral": "Blast targeting train kills at least 20 in Pakistan",
+      "excerpt": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "recap_neutral": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists",
+      "main_idea": "Blast targeting train kills at least 20 in Pakistan",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 24 May 2026 22:11:51 GMT",
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -99,6 +132,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Every Microsoft 365 AI Agent Solves a Different Problem",
+      "title_neutral": "Every Microsoft 365 AI Agent Solves a Different Problem",
+      "excerpt": "Agents in Microsoft vary by use: SPO for site Q&A, M365 Copilot for in-app productivity, Copilot Studio for custom integrations, and AI Foundry for code-first, custom LLM",
+      "recap_neutral": "Agents in Microsoft vary by use: SPO for site Q&A, M365 Copilot for in-app productivity, Copilot Studio for custom integrations, and AI Foundry for code-first, custom LLM",
+      "main_idea": "Every Microsoft 365 AI Agent Solves a Different Problem",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 24 May 2026 20:30:40 GMT",
+      "url": "https://hackernoon.com/every-microsoft-365-ai-agent-solves-a-different-problem?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Trump tells US negotiators 'not to rush' into deal with Iran",
       "title_neutral": "Trump tells US negotiators 'not to rush' into deal with Iran",
       "excerpt": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
@@ -113,6 +163,90 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Is AI Really Delivering the ROI Companies Were Promised?",
+      "title_neutral": "Is AI Really Delivering the ROI Companies Were Promised?",
+      "excerpt": "This article questions the assumption that replacing human labor with AI automatically produces better business returns. Drawing on recent survey data and broader social concerns, it argues that many organizations are slowing hiring based on projected AI productivity gains that remain largely unpro…",
+      "recap_neutral": "This article questions the assumption that replacing human labor with AI automatically produces better business returns",
+      "main_idea": "Is AI Really Delivering the ROI Companies Were Promised?",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 24 May 2026 20:24:48 GMT",
+      "url": "https://hackernoon.com/is-ai-really-delivering-the-roi-companies-were-promised?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "6 Open-Source Frameworks Built for High-Load Applications",
+      "title_neutral": "6 Open-Source Frameworks Built for High-Load Applications",
+      "excerpt": "Here are 6 production-ready frameworks designed for high-concurrency, large-scale workloads. If your priority is raw CPU efficiency and avoiding garbage-collection latency spikes, look at Actix-web or userver. If you need to handle millions of persistent WebSocket connections with zero downtime, lo…",
+      "recap_neutral": "Here are 6 production-ready frameworks designed for high-concurrency, large-scale workloads",
+      "main_idea": "6 Open-Source Frameworks Built for High-Load Applications",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sun, 24 May 2026 20:09:46 GMT",
+      "url": "https://hackernoon.com/6-open-source-frameworks-built-for-high-load-applications?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Governance Deficit in Autonomous Agents",
+      "title_neutral": "The Governance Deficit in Autonomous Agents",
+      "excerpt": "A three-layer architecture for DeFi agents that enforces typed rules, state-machine execution gating, and immutable on-chain audit trails so agents can't violate their own constitution.",
+      "recap_neutral": "A three-layer architecture for DeFi agents that enforces typed rules, state-machine execution gating, and immutable on-chain audit trails so agents can't violate their own constitution",
+      "main_idea": "The Governance Deficit in Autonomous Agents",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 24 May 2026 20:05:04 GMT",
+      "url": "https://hackernoon.com/the-governance-deficit-in-autonomous-agents?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to Build Production ML Systems That Detect Failure Early",
+      "title_neutral": "How to Build Production ML Systems That Detect Failure Early",
+      "excerpt": "This article explores why production machine learning systems often fail silently even while infrastructure metrics appear healthy. Using a real-world e-commerce LTV prediction failure as a case study, it walks through a layered MLOps architecture covering schema validation, versioned ML artifacts,…",
+      "recap_neutral": "This article explores why production machine learning systems often fail silently even while infrastructure metrics appear healthy",
+      "main_idea": "How to Build Production ML Systems That Detect Failure Early",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 24 May 2026 20:02:03 GMT",
+      "url": "https://hackernoon.com/how-to-build-production-ml-systems-that-detect-failure-early?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "500 Blog Posts To Learn About Ebooks",
+      "title_neutral": "500 Blog Posts To Learn About Ebooks",
+      "excerpt": "Let's learn about Ebooks via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. Ebooks are electronic books, digital versions of traditional print books readable on various de…",
+      "recap_neutral": "Let's learn about Ebooks via these 500 free blog posts",
+      "main_idea": "500 Blog Posts To Learn About Ebooks",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 24 May 2026 20:00:09 GMT",
+      "url": "https://hackernoon.com/500-blog-posts-to-learn-about-ebooks?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -151,6 +285,56 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "SwiftUI Performance Is Not About Views. It Is About Diffing",
+      "title_neutral": "SwiftUI Performance Is Not About Views. It Is About Diffing",
+      "excerpt": "SwiftUI performance issues often come from poor diffing, not from SwiftUI itself. Closures, reference-backed models, and large view bodies can make SwiftUI re-render more than necessary. The fix is to make rendering inputs explicit, use smaller diffable view components, and treat Equatable as an ar…",
+      "recap_neutral": "SwiftUI performance issues often come from poor diffing, not from SwiftUI itself",
+      "main_idea": "SwiftUI Performance Is Not About Views. It Is About Diffing",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sun, 24 May 2026 19:39:58 GMT",
+      "url": "https://hackernoon.com/swiftui-performance-is-not-about-views-it-is-about-diffing?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Giving AI Agents Permanent Memory with MCP and CRDTs",
+      "title_neutral": "Giving AI Agents Permanent Memory with MCP and CRDTs",
+      "excerpt": "This article argues that the biggest limitation in modern AI agents is not reasoning capability but memory architecture. It explores how the Model Context Protocol (MCP) and Conflict-free Replicated Data Types (CRDTs) can work together to create decentralized, persistent, and synchronized memory sy…",
+      "recap_neutral": "This article argues that the biggest limitation in modern AI agents is not reasoning capability but memory architecture",
+      "main_idea": "Giving AI Agents Permanent Memory with MCP and CRDTs",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 24 May 2026 19:33:09 GMT",
+      "url": "https://hackernoon.com/giving-ai-agents-permanent-memory-with-mcp-and-crdts?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "5 Must-Have AI Skills for Developers in 2026 (and How To Learn Them)",
+      "title_neutral": "5 Must-Have AI Skills for Developers in 2026 (and How To Learn Them)",
+      "excerpt": "This article lays out a structured roadmap for developers who want to move beyond casually using AI tools and start building production-ready AI systems. It breaks down five foundational skills, prompt engineering, AI APIs, RAG, AWS AI infrastructure, and MLOps, with practical explanations, impleme…",
+      "recap_neutral": "This article lays out a structured roadmap for developers who want to move beyond casually using AI tools and start building production-ready AI systems",
+      "main_idea": "5 Must-Have AI Skills for Developers in 2026 (and How To Learn Them)",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 24 May 2026 19:24:18 GMT",
+      "url": "https://hackernoon.com/5-must-have-ai-skills-for-developers-in-2026-and-how-to-learn-them?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "A Lull in Fighting Gave Time to Bury Their Dead",
       "title_neutral": "A Lull in Fighting Gave Time to Bury Their Dead",
       "excerpt": "In the relative calm of the early days of a cease-fire, there were heart-rending scenes as people exhumed their loved ones from temporary graves and reburied them.",
@@ -166,6 +350,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "iOS Testing Pyramid in 2026: Notes From a Developer Who Still Doesn't Love Writing Tests",
+      "title_neutral": "iOS Testing Pyramid in 2026: Notes From a Developer Who Still Doesn't Love Writing Tests",
+      "excerpt": "For iOS developer, testing pyramid is not a QA diagram, it is a practical question: where to put each check so it catches bugs without slowing the team. In 2026 AI writes code faster, so it also writes bad code faster. Tests are the thing that keeps this speed honest. Pick the cheapest layer that s…",
+      "recap_neutral": "For iOS developer, testing pyramid is not a QA diagram, it is a practical question: where to put each check so it catches bugs without slowing the team",
+      "main_idea": "iOS Testing Pyramid in 2026: Notes From a Developer Who Still Doesn't Love Writing Tests",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 24 May 2026 19:17:04 GMT",
+      "url": "https://hackernoon.com/ios-testing-pyramid-in-2026-notes-from-a-developer-who-still-doesnt-love-writing-tests?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "CBP Directive 3340-049B: Border Search of Electronic Devices",
       "title_neutral": "CBP Directive 3340-049B: Border Search of Electronic Devices",
       "excerpt": "Comments",
@@ -178,6 +379,39 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A fundamental principle of aeronautical engineering has been overturned",
+      "title_neutral": "A fundamental principle of aeronautical engineering has been overturned",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "A fundamental principle of aeronautical engineering has been overturned",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 24 May 2026 19:10:26 +0000",
+      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Codex Goal Tutorial: Set a Goal, Walk Away, Come Back to Finished Code",
+      "title_neutral": "Codex Goal Tutorial: Set a Goal, Walk Away, Come Back to Finished Code",
+      "excerpt": "This article explores how OpenAI Codex’s /goal command changes AI-assisted software engineering from isolated prompt-response interactions into persistent, multi-step coding workflows. It explains how Codex can investigate codebases, execute tasks, validate results, and continue working toward defi…",
+      "recap_neutral": "This article explores how OpenAI Codex’s /goal command changes AI-assisted software engineering from isolated prompt-response interactions into persistent, multi-step coding workflows",
+      "main_idea": "Codex Goal Tutorial: Set a Goal, Walk Away, Come Back to Finished Code",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 24 May 2026 19:08:23 GMT",
+      "url": "https://hackernoon.com/codex-goal-tutorial-set-a-goal-walk-away-come-back-to-finished-code?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -250,6 +484,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Building Custom Java-Based MCP Servers Hosted on Cloud Run",
+      "title_neutral": "Building Custom Java-Based MCP Servers Hosted on Cloud Run",
+      "excerpt": "Stop building brittle REST adapters for autonomous AI. This comprehensive guide walks through implementing a custom Model Context Protocol (MCP) server from scratch using Java, wrapping it in a secure non-root container, and deploying it to Google Cloud Run to grant Gemini agents real-time, identit…",
+      "recap_neutral": "Stop building brittle REST adapters for autonomous AI",
+      "main_idea": "Building Custom Java-Based MCP Servers Hosted on Cloud Run",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 24 May 2026 18:48:18 GMT",
+      "url": "https://hackernoon.com/building-custom-java-based-mcp-servers-hosted-on-cloud-run?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Defeating Git Rigour Fatigue with Jujutsu",
       "title_neutral": "Defeating Git Rigour Fatigue with Jujutsu",
       "excerpt": "Comments",
@@ -280,18 +531,70 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Claude is not your architect. Stop letting it pretend",
-      "title_neutral": "Claude is not your architect. Stop letting it pretend",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Claude is not your architect. Stop letting it pretend",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 24 May 2026 18:28:11 +0000",
-      "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+      "title_original": "Hardened Containers at the Edge: Deploying Docker DHI on Google Distributed Cloud (GDC)",
+      "title_neutral": "Hardened Containers at the Edge: Deploying Docker DHI on Google Distributed Cloud (GDC)",
+      "excerpt": "The 2026 releases of the docker dhi CLI and Google Distributed Cloud's sovereign AI architecture allow regulated industries to deploy advanced, hardened microservices to the edge without compromising security.",
+      "recap_neutral": "The 2026 releases of the docker dhi CLI and Google Distributed Cloud's sovereign AI architecture allow regulated industries to deploy advanced, hardened microservices to the edge without compromising security",
+      "main_idea": "Hardened Containers at the Edge: Deploying Docker DHI on Google Distributed Cloud (GDC)",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 24 May 2026 18:26:27 GMT",
+      "url": "https://hackernoon.com/hardened-containers-at-the-edge-deploying-docker-dhi-on-google-distributed-cloud-gdc?source=rss",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why Modern Search Systems Use Both Dual-Encoders and Cross-Encoders",
+      "title_neutral": "Why Modern Search Systems Use Both Dual-Encoders and Cross-Encoders",
+      "excerpt": "This article explores the architectural tradeoffs between dual-encoder retrieval systems and cross-encoder rerankers in modern semantic search pipelines. Using examples from vector databases, RAG systems, and technical document retrieval, it explains how dual-encoders optimize for scalable nearest-…",
+      "recap_neutral": "This article explores the architectural tradeoffs between dual-encoder retrieval systems and cross-encoder rerankers in modern semantic search pipelines",
+      "main_idea": "Why Modern Search Systems Use Both Dual-Encoders and Cross-Encoders",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 24 May 2026 18:20:31 GMT",
+      "url": "https://hackernoon.com/why-modern-search-systems-use-both-dual-encoders-and-cross-encoders?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "California chemical tank has cracked causing state of emergency, thousands to evacuate",
+      "title_neutral": "California chemical tank has cracked causing state of emergency, thousands to evacuate",
+      "excerpt": "One California town is in a state of emergency and 50,000 people are under an evacuation order as a malfunctioning chemical tank at an aerospace plant is overheating and could leak or explode.",
+      "recap_neutral": "One California town is in a state of emergency and 50,000 people are under an evacuation order as a malfunctioning chemical tank at an aerospace plant is overheating and could leak or explode",
+      "main_idea": "California chemical tank has cracked causing state of emergency, thousands to evacuate",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sun, 24 May 2026 18:14:42 -0400",
+      "url": "https://www.npr.org/2026/05/24/nx-s1-5833165/california-chemical-tank-malfunction-leak-explode-emergency-evacuate",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Can Voice Deepfake Detection Keep Up With the 1600% Surge in Fraud Attacks?",
+      "title_neutral": "Can Voice Deepfake Detection Keep Up With the 1600% Surge in Fraud Attacks?",
+      "excerpt": "Deepfake fraud is accelerating and most detection systems are built wrong — they analyze transcripts instead of raw audio, missing the synthetic speech artifacts that actually reveal a fake. This piece breaks down how attacks work in production, why text-first detection fails, and how audio-native…",
+      "recap_neutral": "Deepfake fraud is accelerating and most detection systems are built wrong — they analyze transcripts instead of raw audio, missing the synthetic speech artifacts that actually reveal a fake",
+      "main_idea": "Can Voice Deepfake Detection Keep Up With the 1600% Surge in Fraud Attacks?",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 24 May 2026 18:13:18 GMT",
+      "url": "https://hackernoon.com/can-voice-deepfake-detection-keep-up-with-the-1600percent-surge-in-fraud-attacks?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -433,40 +736,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "I Traced a Single AI Query Back to Gas Turbines and Wall Street",
-      "title_neutral": "I Traced a Single AI Query Back to Gas Turbines and Wall Street",
-      "excerpt": "Musk's xAI runs 46 gas turbines in Mississippi without air permits. I traced the full supply chain behind them — from $30M+ in Caterpillar equipment to TSMC's €300M EUV lithography machines, from Lake Tahoe residents losing power to Wall Street's $700B AI infrastructure spending. One AI data center…",
-      "recap_neutral": "Musk's xAI runs 46 gas turbines in Mississippi without air permits",
-      "main_idea": "I Traced a Single AI Query Back to Gas Turbines and Wall Street",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 24 May 2026 15:53:23 GMT",
-      "url": "https://hackernoon.com/i-traced-a-single-ai-query-back-to-gas-turbines-and-wall-street?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Europe’s Regulatory Push Is Creating New Cybersecurity Product Markets",
-      "title_neutral": "Europe’s Regulatory Push Is Creating New Cybersecurity Product Markets",
-      "excerpt": "This article argues that Europe’s expanding cybersecurity market is not simply a reaction to rising threats, but the result of a coordinated regulatory-industrial strategy driven by frameworks like the European Union’s NIS2 Directive, DORA, and the Cyber Resilience Act. It explores how board-level…",
-      "recap_neutral": "This article argues that Europe’s expanding cybersecurity market is not simply a reaction to rising threats, but the result of a coordinated regulatory-industrial strategy driven by frameworks like the European Union’s…",
-      "main_idea": "Europe’s Regulatory Push Is Creating New Cybersecurity Product Markets",
-      "tags": [
-        "economy"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 24 May 2026 15:38:15 GMT",
-      "url": "https://hackernoon.com/europes-regulatory-push-is-creating-new-cybersecurity-product-markets?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Rubio Says U.S.-India Ties Are Strong, Despite Fury Over Trump’s Actions",
       "title_neutral": "Rubio Says U.S.-India Ties Are Strong, Despite Fury Over Trump’s Actions",
       "excerpt": "In New Delhi, Secretary of State Marco Rubio tried to explain why President Trump has pushed aggressive trade and immigration policies affecting India and Indians in the United States.",
@@ -502,6 +771,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "title_neutral": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 24 May 2026 15:25:43 +0000",
+      "url": "https://audiomass.co/?multitrack=1",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Suspect killed after opening fire on Secret Service near White House",
       "title_neutral": "Suspect killed after opening fire on Secret Service near White House",
       "excerpt": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
@@ -517,21 +801,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Navigating Claude Code: MCP Servers Worth Adding",
-      "title_neutral": "Navigating Claude Code: MCP Servers Worth Adding",
-      "excerpt": "MCP servers connect Claude Code to external tools. Use scopes correctly, keep credentials in env vars, and run mcp-scan on every new server.",
-      "recap_neutral": "MCP servers connect Claude Code to external tools",
-      "main_idea": "Navigating Claude Code: MCP Servers Worth Adding",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sun, 24 May 2026 15:00:34 GMT",
-      "url": "https://hackernoon.com/navigating-claude-code-mcp-servers-worth-adding?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "One killed and many feared trapped under collapsed building in Philippines",
       "title_neutral": "One killed and many feared trapped under collapsed building in Philippines",
       "excerpt": "A Malaysian man has died and about 20 people are feared trapped at the site near Manila, officials say.",
@@ -544,41 +813,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "362 Blog Posts To Learn About Digital Transformation",
-      "title_neutral": "362 Blog Posts To Learn About Digital Transformation",
-      "excerpt": "Let's learn about Digital Transformation via these 362 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. As the world of business continues to change, more and more companies adopt eme…",
-      "recap_neutral": "Let's learn about Digital Transformation via these 362 free blog posts",
-      "main_idea": "362 Blog Posts To Learn About Digital Transformation",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 24 May 2026 14:00:57 GMT",
-      "url": "https://hackernoon.com/362-blog-posts-to-learn-about-digital-transformation?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The TechBeat: Why UK Retail Real Estate Investors Are Turning to Geomarketing 3.0 (5/24/2026)",
-      "title_neutral": "The TechBeat: Why UK Retail Real Estate Investors Are Turning to Geomarketing 3.0 (5/24/2026)",
-      "excerpt": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here . ## Top 17 AI Testing Tools in 2026 (+ Claude Bonus) By @qatech [ 16 Min read ] A 2026 guide to 17 AI te…",
-      "recap_neutral": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here",
-      "main_idea": "The TechBeat: Why UK Retail Real Estate Investors Are Turning to Geomarketing 3.0 (5/24/2026)",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 24 May 2026 14:00:56 GMT",
-      "url": "https://hackernoon.com/5-24-2026-techbeat?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -629,39 +863,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Blast targeting train kills at least 20 in Pakistan",
-      "title_neutral": "Blast targeting train kills at least 20 in Pakistan",
-      "excerpt": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
-      "recap_neutral": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists",
-      "main_idea": "Blast targeting train kills at least 20 in Pakistan",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 24 May 2026 12:26:09 GMT",
-      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How to Upgrade Across Major Versions via API Automation",
-      "title_neutral": "How to Upgrade Across Major Versions via API Automation",
-      "excerpt": "Zero downtime, easy rollback, and major scheduling performance improvements.",
-      "recap_neutral": "Zero downtime, easy rollback, and major scheduling performance improvements",
-      "main_idea": "How to Upgrade Across Major Versions via API Automation",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sun, 24 May 2026 12:00:43 GMT",
-      "url": "https://hackernoon.com/how-to-upgrade-across-major-versions-via-api-automation?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -744,23 +945,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Spring Against the Machine",
-      "title_neutral": "Spring Against the Machine",
-      "excerpt": "During a tense carriage ride through the hills of Florence, social rules clash with passion and freedom. Lucy struggles to avoid George Emerson after their growing emotional connection, while arguments over class, convention, and love erupt among the travelers. Lost among spring violets, Lucy unexp…",
-      "recap_neutral": "During a tense carriage ride through the hills of Florence, social rules clash with passion and freedom",
-      "main_idea": "Spring Against the Machine",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 24 May 2026 09:15:05 GMT",
-      "url": "https://hackernoon.com/spring-against-the-machine?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "More than 500 children have died in an outbreak that the world is virtually ignoring",
       "title_neutral": "More than 500 children have died in an outbreak that the world is virtually ignoring",
       "excerpt": "The number of cases — and deaths — in Bangladesh is staggering. As of Sunday, 528 have died, mostly children. How did this measles outbreak begin? And how is the country responding?",
@@ -807,23 +991,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Beneath the Tuscan Sky",
-      "title_neutral": "Beneath the Tuscan Sky",
-      "excerpt": "After witnessing a murder, Lucy tries to return to normal life but finds Florence transformed into a place of emotional confusion and hidden tensions. Miss Lavish wants to turn the tragedy into fiction, Mr. Eager spreads dark accusations about the Emersons, and Lucy begins losing faith in the respe…",
-      "recap_neutral": "After witnessing a murder, Lucy tries to return to normal life but finds Florence transformed into a place of emotional confusion and hidden tensions",
-      "main_idea": "Beneath the Tuscan Sky",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 24 May 2026 07:00:34 GMT",
-      "url": "https://hackernoon.com/beneath-the-tuscan-sky?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -976,74 +1143,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "500 Blog Posts To Learn About Digital Marketing",
-      "title_neutral": "500 Blog Posts To Learn About Digital Marketing",
-      "excerpt": "Let's learn about Digital Marketing via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. 'Why did the digital marketer get dumped? A serious lack of engagement' - someone fu…",
-      "recap_neutral": "Let's learn about Digital Marketing via these 500 free blog posts",
-      "main_idea": "500 Blog Posts To Learn About Digital Marketing",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 24 May 2026 02:00:42 GMT",
-      "url": "https://hackernoon.com/500-blog-posts-to-learn-about-digital-marketing?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "title_neutral": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 24 May 2026 01:21:13 +0000",
-      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Suspect dead after opening fire near White House security checkpoint, Secret Service says",
-      "title_neutral": "Suspect dead after opening fire near White House security checkpoint, Secret Service says",
-      "excerpt": "A man who opened fire Saturday near a White House security checkpoint is dead after being shot by officers who returned fire, the U.S. Secret Service said. It was the third incidence of gunfire in the vicinity of President Donald Trump in the past month.",
-      "recap_neutral": "A man who opened fire Saturday near a White House security checkpoint is dead after being shot by officers who returned fire, the U",
-      "main_idea": "Suspect dead after opening fire near White House security checkpoint, Secret Service says",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 23 May 2026 20:23:43 -0400",
-      "url": "https://www.npr.org/2026/05/23/g-s1-124148/secret-service-shooting-white-house",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "82 Blog Posts To Learn About Design Thinking",
-      "title_neutral": "82 Blog Posts To Learn About Design Thinking",
-      "excerpt": "Let's learn about Design Thinking via these 82 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. Design thinking is a human-centered approach to innovation that involves empathizing wi…",
-      "recap_neutral": "Let's learn about Design Thinking via these 82 free blog posts",
-      "main_idea": "82 Blog Posts To Learn About Design Thinking",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 23 May 2026 20:00:07 GMT",
-      "url": "https://hackernoon.com/82-blog-posts-to-learn-about-design-thinking?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "France Bans Israeli Minister Over Treatment of Detained Flotilla Activists",
       "title_neutral": "France Bans Israeli Minister Over Treatment of Detained Flotilla Activists",
       "excerpt": "Itamar Ben-Gvir, the Israeli national security minister, has long drawn criticism for his hard-line statements and harsh policies against Palestinian prisoners.",
@@ -1061,75 +1160,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "What 49 Vibe-Coded GitHub Projects Revealed About AI Code Duplication",
-      "title_neutral": "What 49 Vibe-Coded GitHub Projects Revealed About AI Code Duplication",
-      "excerpt": "I ran jscpd against 49 vibe-coded GitHub projects looking for code duplication patterns. Average duplication: 7.98% (above the 3-5% industry benchmark). But the unexpected finding wasn't in the apps — it was in the skill libraries built to teach AI agents how to code. Those have 30-40% duplication…",
-      "recap_neutral": "I ran jscpd against 49 vibe-coded GitHub projects looking for code duplication patterns",
-      "main_idea": "What 49 Vibe-Coded GitHub Projects Revealed About AI Code Duplication",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 23 May 2026 17:59:59 GMT",
-      "url": "https://hackernoon.com/what-49-vibe-coded-github-projects-revealed-about-ai-code-duplication?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The HackerNoon Newsletter: Heres How You Can Stop N+1 Queries Forever (5/23/2026)",
-      "title_neutral": "The HackerNoon Newsletter: Heres How You Can Stop N+1 Queries Forever (5/23/2026)",
-      "excerpt": "How are you, hacker? 🪐 What’s happening in tech today, May 23, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox. On this day, Java Was Launched to the Public in 1995, Eminem Released The Marshall Mathers LP in 2000, The Shining Hit Theaters in the US in 1980, an…",
-      "recap_neutral": "How are you, hacker? 🪐 What’s happening in tech today, May 23, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox",
-      "main_idea": "The HackerNoon Newsletter: Heres How You Can Stop N+1 Queries Forever (5/23/2026)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 23 May 2026 16:04:33 GMT",
-      "url": "https://hackernoon.com/5-23-2026-newsletter?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How to Automate Android While Big Tech Kills the Web Dream",
-      "title_neutral": "How to Automate Android While Big Tech Kills the Web Dream",
-      "excerpt": "Staying loyal to Progressive Web Applications (PWAs) in 2026 feels like a survival game against predatory tech monopolies. Apple’s aggressive gatekeeping and degraded iOS performance have crippled \"write-once, run-anywhere\" ideals. While Microsoft’s PWA Builder templates languish, its underlying en…",
-      "recap_neutral": "Staying loyal to Progressive Web Applications (PWAs) in 2026 feels like a survival game against predatory tech monopolies",
-      "main_idea": "How to Automate Android While Big Tech Kills the Web Dream",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 23 May 2026 16:00:04 GMT",
-      "url": "https://hackernoon.com/how-to-automate-android-while-big-tech-kills-the-web-dream?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The AI Visibility Checklist: The 7 Steps You Should Go Through",
-      "title_neutral": "The AI Visibility Checklist: The 7 Steps You Should Go Through",
-      "excerpt": "If I want to sell AI visibility work, I have to be visible. Not on a marketing-deck level. On a \"the model can answer questions about me without guessing\" level. So, before I wrote a single outbound message about the service, I ran the checklist on my own site. This post is that checklist, with wha…",
-      "recap_neutral": "If I want to sell AI visibility work, I have to be visible",
-      "main_idea": "The AI Visibility Checklist: The 7 Steps You Should Go Through",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 23 May 2026 15:59:59 GMT",
-      "url": "https://hackernoon.com/the-ai-visibility-checklist-the-7-steps-you-should-go-through?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "China mine death toll at least 82 after gas blast",
       "title_neutral": "China mine death toll at least 82 after gas blast",
       "excerpt": "Xi Jinping urges authorities to ‘spare no effort’ in rescue operation after explosion in northern Shanxi province At least 82 people have been killed in a gas explosion at a coalmine in northern China’s Shanxi province, in the country’s worst mining disaster in 17 years. The explosion happened on F…",
@@ -1142,21 +1172,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A Time Lapse of the Seasons: The Foundations",
-      "title_neutral": "A Time Lapse of the Seasons: The Foundations",
-      "excerpt": "I live close to nature. I regularly go for a run in the countryside. Over several years, during my runs, I've taken pictures from the same position, always roughly the same angle. I had a vague idea in the back of my mind, as an \"artistic\" project. One day, I'd turn those photos into a time-lapse v…",
-      "recap_neutral": "I live close to nature",
-      "main_idea": "A Time Lapse of the Seasons: The Foundations",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sat, 23 May 2026 15:45:05 GMT",
-      "url": "https://hackernoon.com/a-time-lapse-of-the-seasons-the-foundations?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1265,10 +1280,192 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "SIPRI: численность миротворцев в 2025 году стала самой минимальной за 25 лет",
+      "title_neutral": "SIPRI: численность миротворцев в 2025 году стала самой минимальной за 25 лет",
+      "excerpt": "Эксперты института отметили, что миротворческие операции ООН столкнулись с дефицитом в размере $2 млрд, из-за чего пришлось сократить персонал",
+      "recap_neutral": "Эксперты института отметили, что миротворческие операции ООН столкнулись с дефицитом в размере $2 млрд, из-за чего пришлось сократить персонал",
+      "main_idea": "SIPRI: численность миротворцев в 2025 году стала самой минимальной за 25 лет",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 01:21:59 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27516583",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "США назвали причину отсутствия итогового документа конференции ДНЯО",
+      "title_neutral": "США назвали причину отсутствия итогового документа конференции ДНЯО",
+      "excerpt": "Это связано с разногласиями относительно Ирана, заявили в Госдепе",
+      "recap_neutral": "Это связано с разногласиями относительно Ирана, заявили в Госдепе",
+      "main_idea": "США назвали причину отсутствия итогового документа конференции ДНЯО",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 01:18:04 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27516603",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Число предположительных случаев заражения вирусом Эбола в ДРК превысило 900",
+      "title_neutral": "Число предположительных случаев заражения вирусом Эбола в ДРК превысило 900",
+      "excerpt": "Среди них отмечается 101 подтвержденный случай, сообщил глава ВОЗ Тедрос Аданом Гебрейесус",
+      "recap_neutral": "Среди них отмечается 101 подтвержденный случай, сообщил глава ВОЗ Тедрос Аданом Гебрейесус",
+      "main_idea": "Число предположительных случаев заражения вирусом Эбола в ДРК превысило 900",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 01:13:09 +0300",
+      "url": "https://tass.ru/obschestvo/27516597",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Пензенской области объявили беспилотную опасность",
+      "title_neutral": "В Пензенской области объявили беспилотную опасность",
+      "excerpt": "Временно ограничена работа мобильного интернета",
+      "recap_neutral": "Временно ограничена работа мобильного интернета",
+      "main_idea": "В Пензенской области объявили беспилотную опасность",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 01:04:07 +0300",
+      "url": "https://tass.ru/proisshestviya/27516589",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Стубб: Финляндия не готова открыть границу с Россией",
+      "title_neutral": "Стубб: Финляндия не готова открыть границу с Россией",
+      "excerpt": "Финский президент обосновал свою позицию обеспокоенностью отсутствием гарантий того, что РФ не будет использовать мигрантов и беженцев \"в качестве орудия\"",
+      "recap_neutral": "Финский президент обосновал свою позицию обеспокоенностью отсутствием гарантий того, что РФ не будет использовать мигрантов и беженцев \"в качестве орудия\"",
+      "main_idea": "Стубб: Финляндия не готова открыть границу с Россией",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 00:57:53 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27516571",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Мирошник: \"индульгенция\" Европы провоцирует удары ВСУ по гражданским объектам",
+      "title_neutral": "Мирошник: \"индульгенция\" Европы провоцирует удары ВСУ по гражданским объектам",
+      "excerpt": "По словам посла по особым поручениям МИД России по вопросам преступлений киевского режима, европейские страны сознательно игнорируют нарушения международного и гуманитарного права со стороны Украины",
+      "recap_neutral": "По словам посла по особым поручениям МИД России по вопросам преступлений киевского режима, европейские страны сознательно игнорируют нарушения международного и гуманитарного права со стороны Украины",
+      "main_idea": "Мирошник: \"индульгенция\" Европы провоцирует удары ВСУ по гражданским объектам",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 00:49:02 +0300",
+      "url": "https://tass.ru/politika/27516559",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "РФ обратится в Международный суд ООН в связи с ущемлением русских в Прибалтике",
+      "title_neutral": "РФ обратится в Международный суд ООН в связи с ущемлением русских в Прибалтике",
+      "excerpt": "В МИД России отметили, что попытки решить этот вопрос путем переговоров ни к чему не привели",
+      "recap_neutral": "В МИД России отметили, что попытки решить этот вопрос путем переговоров ни к чему не привели",
+      "main_idea": "РФ обратится в Международный суд ООН в связи с ущемлением русских в Прибалтике",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 00:48:14 +0300",
+      "url": "https://tass.ru/politika/27516547",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лидер \"Хезболлах\": Иран выйдет из войны с США \"с высоко поднятой головой\"",
+      "title_neutral": "Лидер \"Хезболлах\": Иран выйдет из войны с США \"с высоко поднятой головой\"",
+      "excerpt": "Тегеран \"станет опорой для всех свободолюбивых людей в мире\", считает шейх Наим Касем",
+      "recap_neutral": "Тегеран \"станет опорой для всех свободолюбивых людей в мире\", считает шейх Наим Касем",
+      "main_idea": "Лидер \"Хезболлах\": Иран выйдет из войны с США \"с высоко поднятой головой\"",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 00:44:31 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27516533",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Антонелли выиграл четвертый этап \"Формулы-1\" подряд",
+      "title_neutral": "Антонелли выиграл четвертый этап \"Формулы-1\" подряд",
+      "excerpt": "Второе место занял Льюис Хэмилтон, третье - Макс Ферстаппен",
+      "recap_neutral": "Второе место занял Льюис Хэмилтон, третье - Макс Ферстаппен",
+      "main_idea": "Антонелли выиграл четвертый этап \"Формулы-1\" подряд",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 00:43:59 +0300",
+      "url": "https://tass.ru/sport/27516541",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Россию транспортировали тело россиянки, обнаруженное в Южной Осетии",
+      "title_neutral": "В Россию транспортировали тело россиянки, обнаруженное в Южной Осетии",
+      "excerpt": "Замглавы МЧС республики Руслан Санакоев отметил, что югоосетинские эксперты работали совместно с российскими коллегами",
+      "recap_neutral": "Замглавы МЧС республики Руслан Санакоев отметил, что югоосетинские эксперты работали совместно с российскими коллегами",
+      "main_idea": "В Россию транспортировали тело россиянки, обнаруженное в Южной Осетии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 00:40:13 +0300",
+      "url": "https://tass.ru/proisshestviya/27516529",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Кабулов: Россия готова поддержать Афганистан продовольствием",
+      "title_neutral": "Кабулов: Россия готова поддержать Афганистан продовольствием",
+      "excerpt": "Специальный представитель президента РФ по Афганистану отметил, что в ближайшие месяцы ситуацию может временно стабилизировать зерновой урожай",
+      "recap_neutral": "Специальный представитель президента РФ по Афганистану отметил, что в ближайшие месяцы ситуацию может временно стабилизировать зерновой урожай",
+      "main_idea": "Кабулов: Россия готова поддержать Афганистан продовольствием",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 25 May 2026 00:32:27 +0300",
+      "url": "https://tass.ru/politika/27516509",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Fox: рамочное соглашение США и Ирана согласовано на 95%",
       "title_neutral": "Fox: рамочное соглашение США и Ирана согласовано на 95%",
-      "excerpt": "По информации телеканала, американский лидер Дональд Трамп может дать еще 5-7 дней на то, чтобы довести работу над документом до конца",
-      "recap_neutral": "По информации телеканала, американский лидер Дональд Трамп может дать еще 5-7 дней на то, чтобы довести работу над документом до конца",
+      "excerpt": "По информации телеканала, американский лидер Дональд Трамп может дать еще пять-семь дней на то, чтобы довести работу над документом до конца",
+      "recap_neutral": "По информации телеканала, американский лидер Дональд Трамп может дать еще пять-семь дней на то, чтобы довести работу над документом до конца",
       "main_idea": "Fox: рамочное соглашение США и Ирана согласовано на 95%",
       "tags": [
         "tech"
@@ -1282,11 +1479,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Прием заявок на голландский аукцион по продаже ЮГК завершается 25 мая",
-      "title_neutral": "Прием заявок на голландский аукцион по продаже ЮГК завершается 25 мая",
+      "title_original": "Прием заявок на голландский аукцион по продаже ЮГК завершается",
+      "title_neutral": "Прием заявок на голландский аукцион по продаже ЮГК завершается",
       "excerpt": "Итоги будут подведены 26 мая",
       "recap_neutral": "Итоги будут подведены 26 мая",
-      "main_idea": "Прием заявок на голландский аукцион по продаже ЮГК завершается 25 мая",
+      "main_idea": "Прием заявок на голландский аукцион по продаже ЮГК завершается",
       "tags": [],
       "source": "ТАСС",
       "published_at": "Mon, 25 May 2026 00:15:22 +0300",
@@ -1299,8 +1496,8 @@
     {
       "title_original": "В аэропортах Нижнего Новгорода и Ярославля ввели временные ограничения",
       "title_neutral": "В аэропортах Нижнего Новгорода и Ярославля ввели временные ограничения",
-      "excerpt": "",
-      "recap_neutral": "В аэропортах Нижнего Новгорода и Ярославля ввели временные ограничения",
+      "excerpt": "Самолеты не принимают и не выпускают",
+      "recap_neutral": "Самолеты не принимают и не выпускают",
       "main_idea": "В аэропортах Нижнего Новгорода и Ярославля ввели временные ограничения",
       "tags": [],
       "source": "ТАСС",
@@ -1321,186 +1518,6 @@
       "source": "ТАСС",
       "published_at": "Mon, 25 May 2026 00:06:25 +0300",
       "url": "https://tass.ru/sport/27516469",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Украинские СМИ пишут о провале системы ПВО в Киеве",
-      "title_neutral": "Украинские СМИ пишут о провале системы ПВО в Киеве",
-      "excerpt": "Издание \"Страна\", в частности, связывает провал с дефицитом ракет для американских комплексов ПВО",
-      "recap_neutral": "Издание \"Страна\", в частности, связывает провал с дефицитом ракет для американских комплексов ПВО",
-      "main_idea": "Украинские СМИ пишут о провале системы ПВО в Киеве",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:06:05 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27516463",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Петербурге в ночь на 25 мая отменили разводку мостов",
-      "title_neutral": "В Петербурге в ночь на 25 мая отменили разводку мостов",
-      "excerpt": "Причиной стало усиление ветра",
-      "recap_neutral": "Причиной стало усиление ветра",
-      "main_idea": "В Петербурге в ночь на 25 мая отменили разводку мостов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:03:55 +0300",
-      "url": "https://tass.ru/obschestvo/27516455",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ВККС рассмотрит вопрос о прекращении отставки судьи Виктора Момотова",
-      "title_neutral": "ВККС рассмотрит вопрос о прекращении отставки судьи Виктора Момотова",
-      "excerpt": "Слушание запланировано на 16:00 мск",
-      "recap_neutral": "Слушание запланировано на 16:00 мск",
-      "main_idea": "ВККС рассмотрит вопрос о прекращении отставки судьи Виктора Момотова",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:03:34 +0300",
-      "url": "https://tass.ru/obschestvo/27516425",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Роспотребнадзор открывает горячую линию по вопросам защиты прав туристов",
-      "title_neutral": "Роспотребнадзор открывает горячую линию по вопросам защиты прав туристов",
-      "excerpt": "Номера телефонов, по которым проводятся консультации, и адреса консультационных центров и пунктов опубликованы на официальных сайтах территориальных органов ведомства",
-      "recap_neutral": "Номера телефонов, по которым проводятся консультации, и адреса консультационных центров и пунктов опубликованы на официальных сайтах территориальных органов ведомства",
-      "main_idea": "Роспотребнадзор открывает горячую линию по вопросам защиты прав туристов",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:03:24 +0300",
-      "url": "https://tass.ru/obschestvo/27516443",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Разведчик Филиппов сбил два дрона ВСУ и спас раненых товарищей",
-      "title_neutral": "Разведчик Филиппов сбил два дрона ВСУ и спас раненых товарищей",
-      "excerpt": "При оказании помощи младший сержант подвергся атакам FPV-дронов, отметили в Минобороны",
-      "recap_neutral": "При оказании помощи младший сержант подвергся атакам FPV-дронов, отметили в Минобороны",
-      "main_idea": "Разведчик Филиппов сбил два дрона ВСУ и спас раненых товарищей",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:03:15 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27516461",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Единая Россия\" начала предварительное голосование по выборам в Госдуму",
-      "title_neutral": "\"Единая Россия\" начала предварительное голосование по выборам в Госдуму",
-      "excerpt": "В процедуре участвуют более 20,3 тыс. кандидатов",
-      "recap_neutral": "В процедуре участвуют более 20,3 тыс",
-      "main_idea": "\"Единая Россия\" начала предварительное голосование по выборам в Госдуму",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:02:30 +0300",
-      "url": "https://tass.ru/politika/27516437",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Московская неделя предпринимательства стартует 25 мая",
-      "title_neutral": "Московская неделя предпринимательства стартует 25 мая",
-      "excerpt": "Организаторы подготовили девять отраслевых форумов, фестивалей и конференций",
-      "recap_neutral": "Организаторы подготовили девять отраслевых форумов, фестивалей и конференций",
-      "main_idea": "Московская неделя предпринимательства стартует 25 мая",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:01:50 +0300",
-      "url": "https://tass.ru/obschestvo/27516423",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ТАСС: большинство единороссов на руководящих постах в ГД участвуют в праймериз",
-      "title_neutral": "ТАСС: большинство единороссов на руководящих постах в ГД участвуют в праймериз",
-      "excerpt": "Среди них в том числе председатель Госдумы Вячеслав Володин",
-      "recap_neutral": "Среди них в том числе председатель Госдумы Вячеслав Володин",
-      "main_idea": "ТАСС: большинство единороссов на руководящих постах в ГД участвуют в праймериз",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:01:39 +0300",
-      "url": "https://tass.ru/politika/27516431",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Гросси посетит Казахстан 25-27 мая и проведет переговоры с Токаевым",
-      "title_neutral": "Гросси посетит Казахстан 25-27 мая и проведет переговоры с Токаевым",
-      "excerpt": "Во время визита гендиректора МАГАТЭ ожидается подписание дорожной карты по углублению сотрудничества республики с агентством на 10 лет",
-      "recap_neutral": "Во время визита гендиректора МАГАТЭ ожидается подписание дорожной карты по углублению сотрудничества республики с агентством на 10 лет",
-      "main_idea": "Гросси посетит Казахстан 25-27 мая и проведет переговоры с Токаевым",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:01:29 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27516413",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Военная операция на Украине. Онлайн",
-      "title_neutral": "Военная операция на Украине. Онлайн",
-      "excerpt": "Уполномоченный по правам человека в России Яна Лантратова пообещала сделать все для того, чтобы раненые в результате теракта ВСУ в Старобельске дети вернулись к нормальной жизни",
-      "recap_neutral": "Уполномоченный по правам человека в России Яна Лантратова пообещала сделать все для того, чтобы раненые в результате теракта ВСУ в Старобельске дети вернулись к нормальной жизни",
-      "main_idea": "Военная операция на Украине. Онлайн",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:00:01 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27513373",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Первый вице-президент Мельников: портфель Газпромбанка в сегменте БСК достиг 27 трлн руб.",
-      "title_neutral": "Первый вице-президент Мельников: портфель Газпромбанка в сегменте БСК достиг 27 трлн руб.",
-      "excerpt": "Общий портфель контрактов на банковском сопровождении в Газпромбанке как одном из лидеров транзакционного бизнеса в стране достиг 27 трлн рублей и ежегодно увеличивается на 3-5 трлн рублей. О том, почему бизнес все активнее использует БСК для контроля за целевым использованием средств, какие перспе…",
-      "recap_neutral": "Общий портфель контрактов на банковском сопровождении в Газпромбанке как одном из лидеров транзакционного бизнеса в стране достиг 27 трлн рублей и ежегодно увеличивается на 3-5 трлн рублей",
-      "main_idea": "Первый вице-президент Мельников: портфель Газпромбанка в сегменте БСК достиг 27 трлн руб.",
-      "tags": [
-        "politics",
-        "economy",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 25 May 2026 00:00:01 +0300",
-      "url": "https://tass.ru/interviews/27474701",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
@@ -1539,21 +1556,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Noroboto: Lying Fonts and Mitigation in Rust",
-      "title_neutral": "Noroboto: Lying Fonts and Mitigation in Rust",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Noroboto: Lying Fonts and Mitigation in Rust",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 22 May 2026 14:55:37 +0000",
-      "url": "https://tritium.legal/blog/noroboto",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
