@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-06-01T05:23:22.397456+00:00",
+  "last_updated": "2026-06-01T10:36:29.468362+00:00",
   "items": [
     {
-      "title_original": "The four programming questions from my 1994 Microsoft internship interview (2023)",
-      "title_neutral": "The four programming questions from my 1994 Microsoft internship interview (2023)",
+      "title_original": "Two Ways to Draw Infinite Jest's Sierpinski Gasket",
+      "title_neutral": "Two Ways to Draw Infinite Jest's Sierpinski Gasket",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "The four programming questions from my 1994 Microsoft internship interview (2023)",
+      "main_idea": "Two Ways to Draw Infinite Jest's Sierpinski Gasket",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Thu, 28 May 2026 08:28:23 +0000",
-      "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
+      "published_at": "Thu, 28 May 2026 20:09:12 +0000",
+      "url": "https://www.chiply.dev/post-ij-sierpinski",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "2025 Wildfires Were the Costliest Ever, Researchers Say",
-      "title_neutral": "2025 Wildfires Were the Costliest Ever, Researchers Say",
-      "excerpt": "Severe, hard-to-control blazes in densely populated areas like Los Angeles drove the year’s record losses.",
-      "recap_neutral": "Severe, hard-to-control blazes in densely populated areas like Los Angeles drove the year’s record losses",
-      "main_idea": "2025 Wildfires Were the Costliest Ever, Researchers Say",
+      "title_original": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
+      "title_neutral": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
       "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sun, 31 May 2026 23:01:04 +0000",
-      "url": "https://www.nytimes.com/2026/05/31/climate/2025-wildfire-damage.html",
+      "source": "Hacker News",
+      "published_at": "Thu, 28 May 2026 16:46:10 +0000",
+      "url": "https://blainsmith.com/articles/httptrace-with-go/",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -47,58 +47,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump seeking edits to US-Iran deal, US media report",
-      "title_neutral": "Trump seeking edits to US-Iran deal, US media report",
-      "excerpt": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
-      "recap_neutral": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media",
-      "main_idea": "Trump seeking edits to US-Iran deal, US media report",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 31 May 2026 22:54:20 GMT",
-      "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 36,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "title_neutral": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "excerpt": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation.",
-      "recap_neutral": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation",
-      "main_idea": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 31 May 2026 22:39:12 GMT",
-      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "China Exports Surveillance",
-      "title_neutral": "China Exports Surveillance",
-      "excerpt": "The country has spent decades perfecting a surveillance state at home. Now it’s promoting its ideology of state control, and the technology to enforce it, abroad.",
-      "recap_neutral": "The country has spent decades perfecting a surveillance state at home",
-      "main_idea": "China Exports Surveillance",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 31 May 2026 22:18:22 +0000",
-      "url": "https://www.nytimes.com/2026/05/31/world/china-surveillance-solomon-islands-trump-nepal.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Nicaraguan indigenous leader dies after three years in prison",
       "title_neutral": "Nicaraguan indigenous leader dies after three years in prison",
       "excerpt": "Rights groups condemn the death of Brooklyn Rivera, 73, following his long arbitrary detention by the governing regime.",
@@ -111,108 +59,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Five Common Failure Modes in FLUX Illustration LoRA Training",
-      "title_neutral": "Five Common Failure Modes in FLUX Illustration LoRA Training",
-      "excerpt": "FLUX is great at photos and bad at illustration because the pretraining mix fights you. This article catalogs five reproducible failure modes when training illustration LoRAs (photo bleed-through, composition memorization, subject hallucination, palette collapse, prompt-following decay) plus the ha…",
-      "recap_neutral": "FLUX is great at photos and bad at illustration because the pretraining mix fights you",
-      "main_idea": "Five Common Failure Modes in FLUX Illustration LoRA Training",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 31 May 2026 21:43:38 GMT",
-      "url": "https://hackernoon.com/five-common-failure-modes-in-flux-illustration-lora-training?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Are New Turing Tests Measuring Intelligence or Human Anxiety?",
-      "title_neutral": "Are New Turing Tests Measuring Intelligence or Human Anxiety?",
-      "excerpt": "Humans are frantically building new cognitive barricades against AI. But we aren't looking for intelligence in the machine — we are looking for an idealized reflection of ourselves, desperate to protect our monopoly on irrationality and vice.",
-      "recap_neutral": "Humans are frantically building new cognitive barricades against AI",
-      "main_idea": "Are New Turing Tests Measuring Intelligence or Human Anxiety?",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 31 May 2026 21:33:13 GMT",
-      "url": "https://hackernoon.com/are-new-turing-tests-measuring-intelligence-or-human-anxiety?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "New AI Benchmarks Are Testing Consistency Instead of Memorization",
-      "title_neutral": "New AI Benchmarks Are Testing Consistency Instead of Memorization",
-      "excerpt": "This article argues that conversational fluency has masked a deeper reliability problem in modern AI systems: instability. Rather than focusing on whether a model can answer a question correctly once, the piece examines how often models produce different answers to the same prompt across repeated a…",
-      "recap_neutral": "This article argues that conversational fluency has masked a deeper reliability problem in modern AI systems: instability",
-      "main_idea": "New AI Benchmarks Are Testing Consistency Instead of Memorization",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 31 May 2026 21:30:06 GMT",
-      "url": "https://hackernoon.com/new-ai-benchmarks-are-testing-consistency-instead-of-memorization?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "llms-txt-gen Earns a 49.78 Proof of Usefulness Score by Building an AI-Readiness CLI Tool",
-      "title_neutral": "llms-txt-gen Earns a 49.78 Proof of Usefulness Score by Building an AI-Readiness CLI Tool",
-      "excerpt": "Built llms-txt-gen, an open-source CLI that gives any website an LLM-Readiness Score (0–100), flags pages invisible to AI crawlers, and writes a ready-to-commit llms.txt in one command. No API key. MIT licensed. Scored 49.78 on the Proof of Usefulness benchmark.",
-      "recap_neutral": "Built llms-txt-gen, an open-source CLI that gives any website an LLM-Readiness Score (0–100), flags pages invisible to AI crawlers, and writes a ready-to-commit llms",
-      "main_idea": "llms-txt-gen Earns a 49.78 Proof of Usefulness Score by Building an AI-Readiness CLI Tool",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 31 May 2026 21:16:11 GMT",
-      "url": "https://hackernoon.com/llms-txt-gen-earns-a-4978-proof-of-usefulness-score-by-building-an-ai-readiness-cli-tool?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Claude Code Works Better When You Let Sessions Die",
-      "title_neutral": "Claude Code Works Better When You Let Sessions Die",
-      "excerpt": "Engineers hoard one long chat session for days because losing context feels expensive. Once you trust the memory layer (CLAUDE.md, auto-memory, slash commands), starting a fresh chat becomes a feature instead of a loss. This article covers the behavioral trap, the three memory layers, and the daily…",
-      "recap_neutral": "Engineers hoard one long chat session for days because losing context feels expensive",
-      "main_idea": "Claude Code Works Better When You Let Sessions Die",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 31 May 2026 20:52:32 GMT",
-      "url": "https://hackernoon.com/claude-code-works-better-when-you-let-sessions-die?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "What Two Years of Research Have Taught Us About Chunking for RAG",
-      "title_neutral": "What Two Years of Research Have Taught Us About Chunking for RAG",
-      "excerpt": "This deep dive argues that chunking is one of the most overlooked determinants of RAG performance. Drawing on recent research from Chroma, Anthropic, Jina AI, and others, the article examines chunk size, overlap, recursive versus semantic splitting, contextual retrieval, late chunking, and parent-d…",
-      "recap_neutral": "This deep dive argues that chunking is one of the most overlooked determinants of RAG performance",
-      "main_idea": "What Two Years of Research Have Taught Us About Chunking for RAG",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 31 May 2026 20:48:35 GMT",
-      "url": "https://hackernoon.com/what-two-years-of-research-have-taught-us-about-chunking-for-rag?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -231,55 +77,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "275 Blog Posts To Learn About Growth",
-      "title_neutral": "275 Blog Posts To Learn About Growth",
-      "excerpt": "Let's learn about Growth via these 275 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. There’s a variety here: From personal growth, to professional and business growth. But you know…",
-      "recap_neutral": "Let's learn about Growth via these 275 free blog posts",
-      "main_idea": "275 Blog Posts To Learn About Growth",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 31 May 2026 20:00:10 GMT",
-      "url": "https://hackernoon.com/275-blog-posts-to-learn-about-growth?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "What AI Can't Measure About Human Potential",
-      "title_neutral": "What AI Can't Measure About Human Potential",
-      "excerpt": "This reflective essay argues that many modern evaluation systems—from hiring algorithms to recognition frameworks—rely too heavily on historical proxies such as credentials, titles, publications, and follower counts. The author contrasts measurable achievements with harder-to-quantify indicators li…",
-      "recap_neutral": "This reflective essay argues that many modern evaluation systems—from hiring algorithms to recognition frameworks—rely too heavily on historical proxies such as credentials, titles, publications, and follower counts",
-      "main_idea": "What AI Can't Measure About Human Potential",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 31 May 2026 19:14:12 GMT",
-      "url": "https://hackernoon.com/what-ai-cant-measure-about-human-potential?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Brazil monitors two patients for possible Ebola infection",
-      "title_neutral": "Brazil monitors two patients for possible Ebola infection",
-      "excerpt": "If confirmed, they would be the first infection cases outside Africa, since the outbreak began in DR Congo.",
-      "recap_neutral": "If confirmed, they would be the first infection cases outside Africa, since the outbreak began in DR Congo",
-      "main_idea": "Brazil monitors two patients for possible Ebola infection",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sun, 31 May 2026 19:07:47 GMT",
-      "url": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Dead whale towed ashore in Denmark ahead of autopsy",
       "title_neutral": "Dead whale towed ashore in Denmark ahead of autopsy",
       "excerpt": "\"Timmy\" was found dead off the coast of Anholt despite multiple attempts to rescue it.",
@@ -295,21 +92,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Codex just found a \"workaround\" of not having sudo on my PC",
-      "title_neutral": "Codex just found a \"workaround\" of not having sudo on my PC",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Codex just found a \"workaround\" of not having sudo on my PC",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 31 May 2026 18:57:48 +0000",
-      "url": "https://twitter.com/i/status/2060746160558543217",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Hundreds arrested and dozens of police injured after Champions League riots in France",
       "title_neutral": "Hundreds arrested and dozens of police injured after Champions League riots in France",
       "excerpt": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
@@ -319,40 +101,6 @@
       "source": "BBC World",
       "published_at": "Sun, 31 May 2026 18:13:39 GMT",
       "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Every Team Makes These Four Decisions When Using Git",
-      "title_neutral": "Every Team Makes These Four Decisions When Using Git",
-      "excerpt": "Ask three developers on the same team to explain \"how we use Git,\" and you'll get three different answers. Not because anyone is wrong — because the team never actually made the decisions explicitly. They made them by accident.",
-      "recap_neutral": "Ask three developers on the same team to explain \"how we use Git,\" and you'll get three different answers",
-      "main_idea": "Every Team Makes These Four Decisions When Using Git",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 31 May 2026 17:59:59 GMT",
-      "url": "https://hackernoon.com/every-team-makes-these-four-decisions-when-using-git?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
-      "title_neutral": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
-      "excerpt": "Trump suggests holding a \"Make America Great Again\" rally instead after most headliners drop out of White-House-linked event.",
-      "recap_neutral": "Trump suggests holding a \"Make America Great Again\" rally instead after most headliners drop out of White-House-linked event",
-      "main_idea": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 31 May 2026 17:40:58 GMT",
-      "url": "https://www.bbc.com/news/articles/cwy2z23122zo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -425,103 +173,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
-      "title_neutral": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 31 May 2026 17:02:23 +0000",
-      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Huge blast kills dozens in rebel-held village in Myanmar",
-      "title_neutral": "Huge blast kills dozens in rebel-held village in Myanmar",
-      "excerpt": "Insurgents say it was caused by explosives being used for mining close to the Chinese border.",
-      "recap_neutral": "Insurgents say it was caused by explosives being used for mining close to the Chinese border",
-      "main_idea": "Huge blast kills dozens in rebel-held village in Myanmar",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sun, 31 May 2026 16:59:55 GMT",
-      "url": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Speed of Prototyping in the Age of AI",
-      "title_neutral": "The Speed of Prototyping in the Age of AI",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The Speed of Prototyping in the Age of AI",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sun, 31 May 2026 16:37:34 +0000",
-      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "United Airlines flight to Spain pulls U-turn, apparently over Bluetooth device name",
-      "title_neutral": "United Airlines flight to Spain pulls U-turn, apparently over Bluetooth device name",
-      "excerpt": "The flight to Palma de Mallorca diverted back to Newark late on Saturday. Air traffic audio and social media posts indicate an onboard Bluetooth device raised security concerns.",
-      "recap_neutral": "The flight to Palma de Mallorca diverted back to Newark late on Saturday",
-      "main_idea": "United Airlines flight to Spain pulls U-turn, apparently over Bluetooth device name",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 31 May 2026 16:29:34 -0400",
-      "url": "https://www.npr.org/2026/05/31/nx-s1-5841913/united-airlines-flight-diversion-bluetooth",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The HackerNoon Newsletter: The Death in the Middle (5/31/2026)",
-      "title_neutral": "The HackerNoon Newsletter: The Death in the Middle (5/31/2026)",
-      "excerpt": "How are you, hacker? 🪐 What’s happening in tech today, May 31, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox. On this day, Usain Bolt Became the Fastest Man Alive in 2008, Colin Farrell Was Born in 1976, Ginger Spice Left Spice Girls in 1998, and we present y…",
-      "recap_neutral": "How are you, hacker? 🪐 What’s happening in tech today, May 31, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox",
-      "main_idea": "The HackerNoon Newsletter: The Death in the Middle (5/31/2026)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 31 May 2026 16:05:40 GMT",
-      "url": "https://hackernoon.com/5-31-2026-newsletter?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Streaming ZIP Archives On the Fly With nginx + mod_zip: No Disk, No Buffers, No Problem",
-      "title_neutral": "Streaming ZIP Archives On the Fly With nginx + mod_zip: No Disk, No Buffers, No Problem",
-      "excerpt": "Instead of downloading files to disk, computing checksums, and building a ZIP before serving it, we use nginx + mod_zip to stream archives directly to the client. PHP returns a short manifest listing file URLs and sizes — nginx fetches each file via internal subrequests and pumps them into a ZIP st…",
-      "recap_neutral": "Instead of downloading files to disk, computing checksums, and building a ZIP before serving it, we use nginx + mod_zip to stream archives directly to the client",
-      "main_idea": "Streaming ZIP Archives On the Fly With nginx + mod_zip: No Disk, No Buffers, No Problem",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sun, 31 May 2026 16:00:17 GMT",
-      "url": "https://hackernoon.com/streaming-zip-archives-on-the-fly-with-nginx-mod_zip-no-disk-no-buffers-no-problem?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -643,58 +294,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The TechBeat: AGENTS.md Was Built to Help Agents. I Use it to Catch Them. (5/31/2026)",
-      "title_neutral": "The TechBeat: AGENTS.md Was Built to Help Agents. I Use it to Catch Them. (5/31/2026)",
-      "excerpt": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here . ## Why macOS Is Underrepresented in Public AI Research Datasets By @macpaw [ 5 Min read ] MacPaw Resear…",
-      "recap_neutral": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here",
-      "main_idea": "The TechBeat: AGENTS.md Was Built to Help Agents. I Use it to Catch Them. (5/31/2026)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 31 May 2026 14:00:44 GMT",
-      "url": "https://hackernoon.com/5-31-2026-techbeat?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Navigating Claude Code: Skills That Actually Fire",
-      "title_neutral": "Navigating Claude Code: Skills That Actually Fire",
-      "excerpt": "Skills extend Claude Code with reusable slash commands — but auto-invocation depends on description quality, and silent failures are common. Here's what actually controls whether they fire.",
-      "recap_neutral": "Skills extend Claude Code with reusable slash commands — but auto-invocation depends on description quality, and silent failures are common",
-      "main_idea": "Navigating Claude Code: Skills That Actually Fire",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 31 May 2026 14:00:11 GMT",
-      "url": "https://hackernoon.com/navigating-claude-code-skills-that-actually-fire?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "348 Blog Posts To Learn About Growth Marketing",
-      "title_neutral": "348 Blog Posts To Learn About Growth Marketing",
-      "excerpt": "Let's learn about Growth Marketing via these 348 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. Growth Marketing is a mindset. 1. Growth Marketing Vs Performance Marketing Each comp…",
-      "recap_neutral": "Let's learn about Growth Marketing via these 348 free blog posts",
-      "main_idea": "348 Blog Posts To Learn About Growth Marketing",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 31 May 2026 14:00:10 GMT",
-      "url": "https://hackernoon.com/348-blog-posts-to-learn-about-growth-marketing?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Death of Congolese man renews scrutiny of race relations in Ireland",
       "title_neutral": "Death of Congolese man renews scrutiny of race relations in Ireland",
       "excerpt": "Yves Sakila died after being restrained by security guards ‘in broad daylight’ Irish authorities have agreed to a second postmortem on the body of a Congolese man who died after being restrained by shop security guards on a Dublin street, prompting an outcry and comparisons to the death of George F…",
@@ -727,21 +326,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Nigerian retired general abducted with his wife in the north-west",
-      "title_neutral": "Nigerian retired general abducted with his wife in the north-west",
-      "excerpt": "Maj Gen Rabe Abubakar's kidnapping highlights continuing security challenges facing parts of the country.",
-      "recap_neutral": "Maj Gen Rabe Abubakar's kidnapping highlights continuing security challenges facing parts of the country",
-      "main_idea": "Nigerian retired general abducted with his wife in the north-west",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sun, 31 May 2026 12:11:32 GMT",
-      "url": "https://www.bbc.com/news/articles/cz02zgkgn08o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -793,39 +377,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "U.S. strike on alleged drug boat kills 3 in Pacific Ocean, in fourth attack this week",
-      "title_neutral": "U.S. strike on alleged drug boat kills 3 in Pacific Ocean, in fourth attack this week",
-      "excerpt": "The U.S. military said it carried out another strike on a boat accused of smuggling drugs in the Pacific Ocean, killing three in the fourth attack this week and putting the total death toll at 205.",
-      "recap_neutral": "The U",
-      "main_idea": "U.S. strike on alleged drug boat kills 3 in Pacific Ocean, in fourth attack this week",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 31 May 2026 11:14:16 -0400",
-      "url": "https://www.npr.org/2026/05/31/nx-s1-5841876/us-strike-drug-boat-kills-3-pacific-ocean",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Israel seizes medieval castle as it expands major offensive in southern Lebanon",
-      "title_neutral": "Israel seizes medieval castle as it expands major offensive in southern Lebanon",
-      "excerpt": "Israel has captured the 12th-century Beaufort castle that overlooks southern Lebanon and northern Israel. The move suggests Israel is planning an extended military presence in Lebanon.",
-      "recap_neutral": "Israel has captured the 12th-century Beaufort castle that overlooks southern Lebanon and northern Israel",
-      "main_idea": "Israel seizes medieval castle as it expands major offensive in southern Lebanon",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Sun, 31 May 2026 09:33:36 -0400",
-      "url": "https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Even Havana’s Street Sweepers Can’t Escape the Impact of the Fuel Blockade",
       "title_neutral": "Even Havana’s Street Sweepers Can’t Escape the Impact of the Fuel Blockade",
       "excerpt": "A fuel blockade on Cuba has aggravated a lack of consistent garbage pickup and produced enormous trash piles.",
@@ -838,123 +389,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Experimental pill promises new hope for deadly pancreatic cancer",
-      "title_neutral": "Experimental pill promises new hope for deadly pancreatic cancer",
-      "excerpt": "A novel pill helped people with advanced pancreatic cancer live longer, researchers reported Sunday, raising hopes of long-needed better treatments for one of the deadliest types of cancer.",
-      "recap_neutral": "A novel pill helped people with advanced pancreatic cancer live longer, researchers reported Sunday, raising hopes of long-needed better treatments for one of the deadliest types of cancer",
-      "main_idea": "Experimental pill promises new hope for deadly pancreatic cancer",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 31 May 2026 09:00:47 -0400",
-      "url": "https://www.npr.org/2026/05/31/nx-s1-5841859/experimental-pill-new-hope-pancreatic-cancer",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Sculptor Riding India’s Shivaji Craze",
-      "title_neutral": "The Sculptor Riding India’s Shivaji Craze",
-      "excerpt": "Demand has soared for his figurines and statues of the warrior king. It started with a video he posted online.",
-      "recap_neutral": "Demand has soared for his figurines and statues of the warrior king",
-      "main_idea": "The Sculptor Riding India’s Shivaji Craze",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 31 May 2026 09:00:13 +0000",
-      "url": "https://www.nytimes.com/2026/05/31/world/asia/india-shivaji-statue-sculptor.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Israel is extending its footprint through war. For some, it's part of a greater plan",
-      "title_neutral": "Israel is extending its footprint through war. For some, it's part of a greater plan",
-      "excerpt": "On the fringes of Israel's far right, some activists and political leaders dream of a Greater Israel, extending the country's area of control into neighboring countries.",
-      "recap_neutral": "On the fringes of Israel's far right, some activists and political leaders dream of a Greater Israel, extending the country's area of control into neighboring countries",
-      "main_idea": "Israel is extending its footprint through war. For some, it's part of a greater plan",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 31 May 2026 08:31:09 -0400",
-      "url": "https://www.npr.org/2026/05/31/nx-s1-5837292/israel-is-extending-its-footprint-through-war-for-some-its-part-of-a-greater-plan",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "She Chose Herself",
-      "title_neutral": "She Chose Herself",
-      "excerpt": "Lucy suppresses her feelings for George Emerson after he kisses her again and openly declares his love. Determined to protect her engagement to Cecil, she confronts George with Miss Bartlett present. George passionately exposes Cecil’s controlling nature and urges Lucy to follow her own heart. Thou…",
-      "recap_neutral": "Lucy suppresses her feelings for George Emerson after he kisses her again and openly declares his love",
-      "main_idea": "She Chose Herself",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 31 May 2026 08:30:04 GMT",
-      "url": "https://hackernoon.com/she-chose-herself?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The biggest permanent desert lake threatens with rising waters and hungry crocs",
-      "title_neutral": "The biggest permanent desert lake threatens with rising waters and hungry crocs",
-      "excerpt": "Kenya's Lake Turkana is the world's largest permanent desert lake. Its waters have long sustained hundreds of thousands. Now the lake is facing multiple threats — and threatening those who rely on it.",
-      "recap_neutral": "Kenya's Lake Turkana is the world's largest permanent desert lake",
-      "main_idea": "The biggest permanent desert lake threatens with rising waters and hungry crocs",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 31 May 2026 08:24:28 -0400",
-      "url": "https://www.npr.org/2026/05/31/g-s1-122887/lake-turkana-kenya-climate-rising-waters-fishing-crocodiles",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Democrats and Republicans think control of Congress runs through Iowa",
-      "title_neutral": "Democrats and Republicans think control of Congress runs through Iowa",
-      "excerpt": "Iowa is no stranger to political attention in presidential elections, but surprisingly competitive midterm contests highlight the state's importance for both parties as it holds its primary Tuesday.",
-      "recap_neutral": "Iowa is no stranger to political attention in presidential elections, but surprisingly competitive midterm contests highlight the state's importance for both parties as it holds its primary Tuesday",
-      "main_idea": "Democrats and Republicans think control of Congress runs through Iowa",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 31 May 2026 07:00:00 -0400",
-      "url": "https://www.npr.org/2026/05/31/nx-s1-5836408/iowa-primary-senate-governor-trump-democrats",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
-      "title_neutral": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
-      "excerpt": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
-      "recap_neutral": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up",
-      "main_idea": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sun, 31 May 2026 06:34:04 GMT",
-      "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -993,56 +427,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran’s Team Trains in Limbo for World Cup Overshadowed by War",
-      "title_neutral": "Iran’s Team Trains in Limbo for World Cup Overshadowed by War",
-      "excerpt": "The Iranian soccer players, still awaiting visas to the U.S., are practicing in Turkey and making backup plans.",
-      "recap_neutral": "The Iranian soccer players, still awaiting visas to the U",
-      "main_idea": "Iran’s Team Trains in Limbo for World Cup Overshadowed by War",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 30 May 2026 20:12:03 +0000",
-      "url": "https://www.nytimes.com/2026/05/30/world/middleeast/iran-mens-soccer-team-world-cup.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Russian Drone That Hit Romania Also Hit European Confidence",
-      "title_neutral": "The Russian Drone That Hit Romania Also Hit European Confidence",
-      "excerpt": "The failure to protect NATO territory further increased anxiety about alliance solidarity, Russia’s intentions and Washington’s commitment to collective defense.",
-      "recap_neutral": "The failure to protect NATO territory further increased anxiety about alliance solidarity, Russia’s intentions and Washington’s commitment to collective defense",
-      "main_idea": "The Russian Drone That Hit Romania Also Hit European Confidence",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 30 May 2026 17:01:49 +0000",
-      "url": "https://www.nytimes.com/2026/05/30/world/europe/europe-nato-russia-anxiety.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Inside the Ebola Epicenter, the Virus Rages With Little to Stop It",
-      "title_neutral": "Inside the Ebola Epicenter, the Virus Rages With Little to Stop It",
-      "excerpt": "A remote gold mining town is under siege, as medical workers struggle to beat back a surge of deaths and infections.",
-      "recap_neutral": "A remote gold mining town is under siege, as medical workers struggle to beat back a surge of deaths and infections",
-      "main_idea": "Inside the Ebola Epicenter, the Virus Rages With Little to Stop It",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sat, 30 May 2026 16:15:30 +0000",
-      "url": "https://www.nytimes.com/2026/05/30/world/africa/ebola-epicenter-congo.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
       "title_neutral": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
       "excerpt": "Stew Peas focuses on obeah, an enduring African magic practice in Jamaica banned by colonisers in the 1700s A new movie from award-winning Jamaican film-maker Sosiessia Nixon shines a spotlight on Jamaica’s enduring west African-based magic and spiritual healing tradition known as obeah. Nixon’s te…",
@@ -1073,23 +457,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Across the Middle East, Muslims Mark Eid Amid War and Crisis",
-      "title_neutral": "Across the Middle East, Muslims Mark Eid Amid War and Crisis",
-      "excerpt": "From Iran to Gaza, Eid al-Adha celebrations were muted as war dragged on and shortages of food and fuel roiled the region.",
-      "recap_neutral": "From Iran to Gaza, Eid al-Adha celebrations were muted as war dragged on and shortages of food and fuel roiled the region",
-      "main_idea": "Across the Middle East, Muslims Mark Eid Amid War and Crisis",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 30 May 2026 09:02:24 +0000",
-      "url": "https://www.nytimes.com/2026/05/30/world/middleeast/eid-al-adha-iran-gaza-lebanon.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1129,303 +496,509 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Moana Pasifika sign off from Super Rugby with a win and emotionally charged hymn",
-      "title_neutral": "Moana Pasifika sign off from Super Rugby with a win and emotionally charged hymn",
-      "excerpt": "Undermanned side upsets finals-bound ACT Brumbies 21-19 Players come together to mark victory and club’s expected demise An undermanned Moana Pasifika have capped off their potential final match with a stirring victory, upsetting the finals-bound ACT Brumbies 21-19. But there were mixed feelings as…",
-      "recap_neutral": "Undermanned side upsets finals-bound ACT Brumbies 21-19 Players come together to mark victory and club’s expected demise An undermanned Moana Pasifika have capped off their potential final match with a stirring victory,…",
-      "main_idea": "Moana Pasifika sign off from Super Rugby with a win and emotionally charged hymn",
+      "title_original": "На Урале бывшего главбуха МУП осудили за хищение 1,5 млн рублей",
+      "title_neutral": "На Урале бывшего главбуха МУП осудили за хищение 1,5 млн рублей",
+      "excerpt": "Его приговорили к четырем годам лишения свободы",
+      "recap_neutral": "Его приговорили к четырем годам лишения свободы",
+      "main_idea": "На Урале бывшего главбуха МУП осудили за хищение 1,5 млн рублей",
       "tags": [],
-      "source": "The Guardian",
-      "published_at": "Sat, 30 May 2026 08:31:53 GMT",
-      "url": "https://www.theguardian.com/sport/2026/may/30/moana-pasifika-sign-off-super-rugby-pacific-hymn-win",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
+      "source": "ТАСС",
+      "published_at": "Mon, 01 Jun 2026 13:32:18 +0300",
+      "url": "https://tass.ru/proisshestviya/27598967",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Who’s the Vegas Retiree With the Big Offer for Greenland?",
-      "title_neutral": "Who’s the Vegas Retiree With the Big Offer for Greenland?",
-      "excerpt": "Clifford E. Stanley, a retired broker, explains his unusual mission, which caught a lot of people by surprise.",
-      "recap_neutral": "Clifford E",
-      "main_idea": "Who’s the Vegas Retiree With the Big Offer for Greenland?",
+      "title_original": "В Шри-Ланке при наезде пьяного водителя на толпу людей погибли шесть человек",
+      "title_neutral": "В Шри-Ланке при наезде пьяного водителя на толпу людей погибли шесть человек",
+      "excerpt": "Еще семеро пострадали",
+      "recap_neutral": "Еще семеро пострадали",
+      "main_idea": "В Шри-Ланке при наезде пьяного водителя на толпу людей погибли шесть человек",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 01 Jun 2026 13:31:06 +0300",
+      "url": "https://tass.ru/proisshestviya/27598321",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В МИД РФ не исключили новые вылазки боевиков в Мали",
+      "title_neutral": "В МИД РФ не исключили новые вылазки боевиков в Мали",
+      "excerpt": "Директор департамента государств Африки министерства Анатолий Башкин выразил сомнение, что объединенная группировка, связка джихадистов и сепаратистов из \"Фронта освобождения Азавада\" сохранит единство",
+      "recap_neutral": "Директор департамента государств Африки министерства Анатолий Башкин выразил сомнение, что объединенная группировка, связка джихадистов и сепаратистов из \"Фронта освобождения Азавада\" сохранит единство",
+      "main_idea": "В МИД РФ не исключили новые вылазки боевиков в Мали",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 01 Jun 2026 13:30:27 +0300",
+      "url": "https://tass.ru/politika/27599259",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Овечкин и Малкин помогли бы сборной России на ЧМ даже на больших площадках",
+      "title_neutral": "Овечкин и Малкин помогли бы сборной России на ЧМ даже на больших площадках",
+      "excerpt": "Альберт Мальгин — об итогах чемпионата мира по хоккею",
+      "recap_neutral": "Альберт Мальгин — об итогах чемпионата мира по хоккею",
+      "main_idea": "Овечкин и Малкин помогли бы сборной России на ЧМ даже на больших площадках",
       "tags": [
         "tech"
       ],
+      "source": "ТАСС",
+      "published_at": "Mon, 01 Jun 2026 13:30:01 +0300",
+      "url": "https://tass.ru/opinions/27596333",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Твери создали катализаторы для производства лекарств, топлива и сырья",
+      "title_neutral": "В Твери создали катализаторы для производства лекарств, топлива и сырья",
+      "excerpt": "Они помогут снизить себестоимость производства",
+      "recap_neutral": "Они помогут снизить себестоимость производства",
+      "main_idea": "В Твери создали катализаторы для производства лекарств, топлива и сырья",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 01 Jun 2026 13:29:26 +0300",
+      "url": "https://tass.ru/nauka/27598415",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Крюков надеется, что россияне докажут статус лучших в мире на Универсиадах",
+      "title_neutral": "Крюков надеется, что россияне докажут статус лучших в мире на Универсиадах",
+      "excerpt": "",
+      "recap_neutral": "Крюков надеется, что россияне докажут статус лучших в мире на Универсиадах",
+      "main_idea": "Крюков надеется, что россияне докажут статус лучших в мире на Универсиадах",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 01 Jun 2026 13:28:57 +0300",
+      "url": "https://tass.ru/sport/27599241",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Российский производитель азотных удобрений оспорил пошлины Еврокомиссии",
+      "title_neutral": "Российский производитель азотных удобрений оспорил пошлины Еврокомиссии",
+      "excerpt": "Речь идет о предприятии \"Невинномысский азот\"",
+      "recap_neutral": "Речь идет о предприятии \"Невинномысский азот\"",
+      "main_idea": "Российский производитель азотных удобрений оспорил пошлины Еврокомиссии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 01 Jun 2026 13:28:26 +0300",
+      "url": "https://tass.ru/ekonomika/27599133",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В коллегию присяжных по делу банды Христева отобрали 30 человек",
+      "title_neutral": "В коллегию присяжных по делу банды Христева отобрали 30 человек",
+      "excerpt": "Группировка занималась похищениями и убийствами людей",
+      "recap_neutral": "Группировка занималась похищениями и убийствами людей",
+      "main_idea": "В коллегию присяжных по делу банды Христева отобрали 30 человек",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 01 Jun 2026 13:28:25 +0300",
+      "url": "https://tass.ru/proisshestviya/27598471",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Итоги саммита ЕАЭС в Астане и продолжение диалога при встрече. Разговор Путина и Пашиняна",
+      "title_neutral": "Итоги саммита ЕАЭС в Астане и продолжение диалога при встрече. Разговор Путина и Пашиняна",
+      "excerpt": "Президент России и премьер-министр Армении обменялись мнениями по актуальным вопросам двусторонней и многосторонней повестки дня",
+      "recap_neutral": "Президент России и премьер-министр Армении обменялись мнениями по актуальным вопросам двусторонней и многосторонней повестки дня",
+      "main_idea": "Итоги саммита ЕАЭС в Астане и продолжение диалога при встрече. Разговор Путина и Пашиняна",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 01 Jun 2026 13:28:17 +0300",
+      "url": "https://tass.ru/politika/27599093",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Квартальнов покинул пост главного тренера минского клуба КХЛ \"Динамо\"",
+      "title_neutral": "Квартальнов покинул пост главного тренера минского клуба КХЛ \"Динамо\"",
+      "excerpt": "",
+      "recap_neutral": "Квартальнов покинул пост главного тренера минского клуба КХЛ \"Динамо\"",
+      "main_idea": "Квартальнов покинул пост главного тренера минского клуба КХЛ \"Динамо\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 01 Jun 2026 13:27:50 +0300",
+      "url": "https://tass.ru/sport/27599195",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лихачев: атаки на ЗАЭС нацелены на запугивание и панику среди жителей Энергодара",
+      "title_neutral": "Лихачев: атаки на ЗАЭС нацелены на запугивание и панику среди жителей Энергодара",
+      "excerpt": "ВСУ бьют по социальной инфраструктуре, чтобы \"попытаться показать, что у людей нет завтрашнего дня\", отметил гендиректор Росатома",
+      "recap_neutral": "ВСУ бьют по социальной инфраструктуре, чтобы \"попытаться показать, что у людей нет завтрашнего дня\", отметил гендиректор Росатома",
+      "main_idea": "Лихачев: атаки на ЗАЭС нацелены на запугивание и панику среди жителей Энергодара",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 01 Jun 2026 13:27:27 +0300",
+      "url": "https://tass.ru/proisshestviya/27598953",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Bloomberg предупредило о риске избыточного предложения СПГ в мире",
+      "title_neutral": "Bloomberg предупредило о риске избыточного предложения СПГ в мире",
+      "excerpt": "Агентство привело данные Международного энергетического агентства, согласно которым общая мощность запланированных проектов по СПГ во всем мире оценивается в 700 млрд куб. м. в год",
+      "recap_neutral": "Агентство привело данные Международного энергетического агентства, согласно которым общая мощность запланированных проектов по СПГ во всем мире оценивается в 700 млрд куб",
+      "main_idea": "Bloomberg предупредило о риске избыточного предложения СПГ в мире",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 01 Jun 2026 13:27:23 +0300",
+      "url": "https://tass.ru/ekonomika/27599085",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Калашников\" начал поставки новейшего беспилотника \"Скат-220\" заказчику",
+      "title_neutral": "\"Калашников\" начал поставки новейшего беспилотника \"Скат-220\" заказчику",
+      "excerpt": "У беспилотника электрический двигатель, отметили в компании",
+      "recap_neutral": "У беспилотника электрический двигатель, отметили в компании",
+      "main_idea": "\"Калашников\" начал поставки новейшего беспилотника \"Скат-220\" заказчику",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 01 Jun 2026 13:27:07 +0300",
+      "url": "https://tass.ru/ekonomika/27599189",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Пассажироперевозки РЖД в мае снизились на 3,4%",
+      "title_neutral": "Пассажироперевозки РЖД в мае снизились на 3,4%",
+      "excerpt": "Они составили 112,4 млн человек, сообщили в компании",
+      "recap_neutral": "Они составили 112,4 млн человек, сообщили в компании",
+      "main_idea": "Пассажироперевозки РЖД в мае снизились на 3,4%",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 01 Jun 2026 13:26:52 +0300",
+      "url": "https://tass.ru/ekonomika/27599143",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Японии начали очередной этап сброса очищенной воды с АЭС \"Фукусима-1\"",
+      "title_neutral": "В Японии начали очередной этап сброса очищенной воды с АЭС \"Фукусима-1\"",
+      "excerpt": "До 19 июня в океан планируют сбросить 7,8 тыс. тонн",
+      "recap_neutral": "До 19 июня в океан планируют сбросить 7,8 тыс",
+      "main_idea": "В Японии начали очередной этап сброса очищенной воды с АЭС \"Фукусима-1\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 01 Jun 2026 13:25:22 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27599115",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran War Live Updates: U.S. and Iran Exchange New Attacks",
+      "title_neutral": "Iran War Live Updates: U.S. and Iran Exchange New Attacks",
+      "excerpt": "U.S. Central Command said it conducted strikes against military targets in southern Iran over the weekend. Kuwait, which hosts U.S. military bases, accused Iran of attacking its territory.",
+      "recap_neutral": "U",
+      "main_idea": "Iran War Live Updates: U.S. and Iran Exchange New Attacks",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
       "source": "NYTimes World",
-      "published_at": "Sat, 30 May 2026 04:01:08 +0000",
-      "url": "https://www.nytimes.com/2026/05/30/world/europe/greenland-trump-clifford-stanley.html",
+      "published_at": "Mon, 01 Jun 2026 10:32:54 +0000",
+      "url": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Казахстан из России экстрадировали мужчину, скрывавшегося от полиции 20 лет",
-      "title_neutral": "В Казахстан из России экстрадировали мужчину, скрывавшегося от полиции 20 лет",
-      "excerpt": "По данным следствия, подозреваемый в 2006 году в Павлодаре совершил разбойное нападение вместе с группой соучастников и похитил имущество потерпевшего",
-      "recap_neutral": "По данным следствия, подозреваемый в 2006 году в Павлодаре совершил разбойное нападение вместе с группой соучастников и похитил имущество потерпевшего",
-      "main_idea": "В Казахстан из России экстрадировали мужчину, скрывавшегося от полиции 20 лет",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 01 Jun 2026 08:20:41 +0300",
-      "url": "https://tass.ru/proisshestviya/27595089",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ВСУ атаковали Белгородскую область более 50 раз за сутки",
-      "title_neutral": "ВСУ атаковали Белгородскую область более 50 раз за сутки",
-      "excerpt": "В Грайворонском округе пострадал человек",
-      "recap_neutral": "В Грайворонском округе пострадал человек",
-      "main_idea": "ВСУ атаковали Белгородскую область более 50 раз за сутки",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 01 Jun 2026 08:19:19 +0300",
-      "url": "https://tass.ru/proisshestviya/27595075",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Макрон заявил о задержании шедшего из России танкера",
-      "title_neutral": "Макрон заявил о задержании шедшего из России танкера",
-      "excerpt": "",
-      "recap_neutral": "Макрон заявил о задержании шедшего из России танкера",
-      "main_idea": "Макрон заявил о задержании шедшего из России танкера",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 01 Jun 2026 08:18:47 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27595099",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Одессе инфраструктура получила повреждения из-за взрывов",
-      "title_neutral": "В Одессе инфраструктура получила повреждения из-за взрывов",
-      "excerpt": "В том числе ущерб нанесен админзданию, уточнил глава городской военной администрации Сергей Лысак",
-      "recap_neutral": "В том числе ущерб нанесен админзданию, уточнил глава городской военной администрации Сергей Лысак",
-      "main_idea": "В Одессе инфраструктура получила повреждения из-за взрывов",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 01 Jun 2026 08:18:11 +0300",
-      "url": "https://tass.ru/proisshestviya/27595069",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Сахалине начали проверку после нападения змей на детей",
-      "title_neutral": "На Сахалине начали проверку после нападения змей на детей",
-      "excerpt": "Один ребенок попал в реанимацию",
-      "recap_neutral": "Один ребенок попал в реанимацию",
-      "main_idea": "На Сахалине начали проверку после нападения змей на детей",
+      "title_original": "Starmer Braces for Release of More Files About Mandelson and Epstein",
+      "title_neutral": "Starmer Braces for Release of More Files About Mandelson and Epstein",
+      "excerpt": "A second batch of documents about the former U.S. ambassador Peter Mandelson, who was fired over his links to Jeffrey Epstein, could create more problems for Prime Minister Keir Starmer.",
+      "recap_neutral": "A second batch of documents about the former U",
+      "main_idea": "Starmer Braces for Release of More Files About Mandelson and Epstein",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 01 Jun 2026 08:17:18 +0300",
-      "url": "https://tass.ru/proisshestviya/27595065",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Mon, 01 Jun 2026 10:19:50 +0000",
+      "url": "https://www.nytimes.com/2026/06/01/world/europe/mandelson-files-epstein-starmer-uk.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "NHK: в Японии выразили обеспокоенность из-за перевода в страну дронов США",
-      "title_neutral": "NHK: в Японии выразили обеспокоенность из-за перевода в страну дронов США",
-      "excerpt": "Подразделение из трех RQ-4 Global Hawk будет поэтапно переведено на базу Иокота с острова Гуам",
-      "recap_neutral": "Подразделение из трех RQ-4 Global Hawk будет поэтапно переведено на базу Иокота с острова Гуам",
-      "main_idea": "NHK: в Японии выразили обеспокоенность из-за перевода в страну дронов США",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 01 Jun 2026 08:16:59 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27595035",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В России выбросы вредных веществ в атмосферу снизились до семилетнего минимума",
-      "title_neutral": "В России выбросы вредных веществ в атмосферу снизились до семилетнего минимума",
-      "excerpt": "Больше всего показатель сократился за год в Ингушетии, Чечне, Кировской области, Алтайском крае",
-      "recap_neutral": "Больше всего показатель сократился за год в Ингушетии, Чечне, Кировской области, Алтайском крае",
-      "main_idea": "В России выбросы вредных веществ в атмосферу снизились до семилетнего минимума",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 01 Jun 2026 08:16:46 +0300",
-      "url": "https://tass.ru/obschestvo/27595045",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Россияне смогут увидеть единственную яркую комету лета даже в бинокли",
-      "title_neutral": "Россияне смогут увидеть единственную яркую комету лета даже в бинокли",
-      "excerpt": "Появление 10P/Tempel 2 ожидается в конце июля - начале августа, отметил инженер обсерватории \"Вега\" Новосибирского госуниверситета Михаил Маслов",
-      "recap_neutral": "Появление 10P/Tempel 2 ожидается в конце июля - начале августа, отметил инженер обсерватории \"Вега\" Новосибирского госуниверситета Михаил Маслов",
-      "main_idea": "Россияне смогут увидеть единственную яркую комету лета даже в бинокли",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 01 Jun 2026 08:15:01 +0300",
-      "url": "https://tass.ru/kosmos/27593897",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Директор ЗАЭС: сотрудники не покинут станцию, несмотря на атаки ВСУ",
-      "title_neutral": "Директор ЗАЭС: сотрудники не покинут станцию, несмотря на атаки ВСУ",
-      "excerpt": "Юрий Черничук рассказал, что для атомщиков безопасность объекта является главным приоритетом",
-      "recap_neutral": "Юрий Черничук рассказал, что для атомщиков безопасность объекта является главным приоритетом",
-      "main_idea": "Директор ЗАЭС: сотрудники не покинут станцию, несмотря на атаки ВСУ",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 01 Jun 2026 08:14:58 +0300",
-      "url": "https://tass.ru/obschestvo/27595015",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Глава ТПП призвал снижать транзакционные издержки в торговле с дружественными странами",
-      "title_neutral": "Глава ТПП призвал снижать транзакционные издержки в торговле с дружественными странами",
-      "excerpt": "Сергей Катырин отметил, что, по оценкам правительства, доля дружественных стран во внешней торговле России к концу 2025 года достигла около 80%, тогда как еще в 2021 году была заметно ниже половины",
-      "recap_neutral": "Сергей Катырин отметил, что, по оценкам правительства, доля дружественных стран во внешней торговле России к концу 2025 года достигла около 80%, тогда как еще в 2021 году была заметно ниже половины",
-      "main_idea": "Глава ТПП призвал снижать транзакционные издержки в торговле с дружественными странами",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 01 Jun 2026 08:13:38 +0300",
-      "url": "https://tass.ru/ekonomika/27595029",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Эксперты рассказали, как родителям грамотно поддержать ребенка во время экзаменов",
-      "title_neutral": "Эксперты рассказали, как родителям грамотно поддержать ребенка во время экзаменов",
-      "excerpt": "По мнению директора Института истории, гуманитарного и социального образования НГПУ Ольги Хлытиной, постоянные вопросы и бесконечные советы действуют как тяжелый груз",
-      "recap_neutral": "По мнению директора Института истории, гуманитарного и социального образования НГПУ Ольги Хлытиной, постоянные вопросы и бесконечные советы действуют как тяжелый груз",
-      "main_idea": "Эксперты рассказали, как родителям грамотно поддержать ребенка во время экзаменов",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 01 Jun 2026 08:12:41 +0300",
-      "url": "https://tass.ru/obschestvo/27595011",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Аксаков видит продолжающиеся споры о регулировании ставок по семейной ипотеке",
-      "title_neutral": "Аксаков видит продолжающиеся споры о регулировании ставок по семейной ипотеке",
-      "excerpt": "При этом председатель комитета Госдумы по финансовому рынку допускает, что условия по такой ипотеке могут остаться прежними",
-      "recap_neutral": "При этом председатель комитета Госдумы по финансовому рынку допускает, что условия по такой ипотеке могут остаться прежними",
-      "main_idea": "Аксаков видит продолжающиеся споры о регулировании ставок по семейной ипотеке",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 01 Jun 2026 08:08:25 +0300",
-      "url": "https://tass.ru/nedvizhimost/27594995",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Найдены два самых эффективных метода нанесения лекарств на костные имплантаты",
-      "title_neutral": "Найдены два самых эффективных метода нанесения лекарств на костные имплантаты",
-      "excerpt": "Вакуумный и ультразвуковой методы показали наилучшую биосовместимость",
-      "recap_neutral": "Вакуумный и ультразвуковой методы показали наилучшую биосовместимость",
-      "main_idea": "Найдены два самых эффективных метода нанесения лекарств на костные имплантаты",
+      "title_original": "France seized sanctioned Russian oil tanker with UK help, Macron says",
+      "title_neutral": "France seized sanctioned Russian oil tanker with UK help, Macron says",
+      "excerpt": "The French Navy conducted the operation with the support of allies including the UK on Sunday.",
+      "recap_neutral": "The French Navy conducted the operation with the support of allies including the UK on Sunday",
+      "main_idea": "France seized sanctioned Russian oil tanker with UK help, Macron says",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 01 Jun 2026 08:07:19 +0300",
-      "url": "https://tass.ru/nauka/27594981",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Mon, 01 Jun 2026 10:02:02 GMT",
+      "url": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Трамп: Иран действительно хочет заключить сделку с США",
-      "title_neutral": "Трамп: Иран действительно хочет заключить сделку с США",
-      "excerpt": "",
-      "recap_neutral": "Трамп: Иран действительно хочет заключить сделку с США",
-      "main_idea": "Трамп: Иран действительно хочет заключить сделку с США",
+      "title_original": "Autonomous Agentic Systems: A Practical Guide to \"Always-On\" Agents",
+      "title_neutral": "Autonomous Agentic Systems: A Practical Guide to \"Always-On\" Agents",
+      "excerpt": "A practical guide to designing, operating and scaling “always-on” agents: from basic Agentic Loops to Scalable Autonomous Agentic Systems.",
+      "recap_neutral": "A practical guide to designing, operating and scaling “always-on” agents: from basic Agentic Loops to Scalable Autonomous Agentic Systems",
+      "main_idea": "Autonomous Agentic Systems: A Practical Guide to \"Always-On\" Agents",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 01 Jun 2026 08:07:13 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27595001",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "HackerNoon",
+      "published_at": "Mon, 01 Jun 2026 09:59:18 GMT",
+      "url": "https://hackernoon.com/autonomous-agentic-systems-a-practical-guide-to-always-on-agents?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Марочко: проигрыши в СВО Киев пытается перебить кадрами ударов по инфраструктуре РФ",
-      "title_neutral": "Марочко: проигрыши в СВО Киев пытается перебить кадрами ударов по инфраструктуре РФ",
-      "excerpt": "Сотрудники ЦИПсО продолжают дискредитировать власти России и пытаются расшатать \"внутриполитическую ситуацию при помощи информационно-психологических технологий\", отметил военный эксперт",
-      "recap_neutral": "Сотрудники ЦИПсО продолжают дискредитировать власти России и пытаются расшатать \"внутриполитическую ситуацию при помощи информационно-психологических технологий\", отметил военный эксперт",
-      "main_idea": "Марочко: проигрыши в СВО Киев пытается перебить кадрами ударов по инфраструктуре РФ",
+      "title_original": "Five patients recover from Ebola in DR Congo and leave hospital",
+      "title_neutral": "Five patients recover from Ebola in DR Congo and leave hospital",
+      "excerpt": "Those infected can get better and officials stress that people should seek medical help if they have symptoms.",
+      "recap_neutral": "Those infected can get better and officials stress that people should seek medical help if they have symptoms",
+      "main_idea": "Five patients recover from Ebola in DR Congo and leave hospital",
       "tags": [
-        "conflict",
+        "health"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 01 Jun 2026 09:56:24 GMT",
+      "url": "https://www.bbc.com/news/articles/cz928xq588no?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How I built local-first memory for Claude Code, Cursor, and Codex - 94.5% LoCoMo recall@10, 70ms p50",
+      "title_neutral": "How I built local-first memory for Claude Code, Cursor, and Codex - 94.5% LoCoMo recall@10, 70ms p50",
+      "excerpt": "PMB is an open-source MCP memory server for Claude Code, Cursor, and Codex. It runs 100% locally (SQLite + LanceDB), needs zero API keys, and hits 94.5% LoCoMo recall@10 at 70ms p50 - matching or beating cloud alternatives like mem0, Letta, and Zep. This post walks through the five techniques behin…",
+      "recap_neutral": "PMB is an open-source MCP memory server for Claude Code, Cursor, and Codex",
+      "main_idea": "How I built local-first memory for Claude Code, Cursor, and Codex - 94.5% LoCoMo recall@10, 70ms p50",
+      "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Mon, 01 Jun 2026 08:05:12 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27594959",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "HackerNoon",
+      "published_at": "Mon, 01 Jun 2026 09:48:20 GMT",
+      "url": "https://hackernoon.com/how-i-built-local-first-memory-for-claude-code-cursor-and-codex-945percent-locomo-recall10-70ms-p50?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran and US report new wave of air strikes in Gulf",
-      "title_neutral": "Iran and US report new wave of air strikes in Gulf",
-      "excerpt": "Washington and Tehran targeted each other's military facilities around the Strait of Hormuz.",
-      "recap_neutral": "Washington and Tehran targeted each other's military facilities around the Strait of Hormuz",
-      "main_idea": "Iran and US report new wave of air strikes in Gulf",
+      "title_original": "AI Is Not a Football Team: Why I'm Still Trying to Figure This Out",
+      "title_neutral": "AI Is Not a Football Team: Why I'm Still Trying to Figure This Out",
+      "excerpt": "Tired of the AI shouting match? Good. The useful question isn't which team you're on, it's what you're choosing every time you use, fear, or build with it.",
+      "recap_neutral": "Tired of the AI shouting match? Good",
+      "main_idea": "AI Is Not a Football Team: Why I'm Still Trying to Figure This Out",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 01 Jun 2026 09:40:51 GMT",
+      "url": "https://hackernoon.com/ai-is-not-a-football-team-why-im-still-trying-to-figure-this-out?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why Institutional Credit Is Moving to Trade Finance Rails",
+      "title_neutral": "Why Institutional Credit Is Moving to Trade Finance Rails",
+      "excerpt": "RWA tokenization reached $23B in early 2025, dominated by names like BlackRock and JP Morgan on Ethereum and Solana. But trade finance — which handles 80% of global trade and still runs on paper-based systems — remains largely unaddressed. XDC Network, which has been building compliance-focused inf…",
+      "recap_neutral": "RWA tokenization reached $23B in early 2025, dominated by names like BlackRock and JP Morgan on Ethereum and Solana",
+      "main_idea": "Why Institutional Credit Is Moving to Trade Finance Rails",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 01 Jun 2026 09:35:55 GMT",
+      "url": "https://hackernoon.com/why-institutional-credit-is-moving-to-trade-finance-rails?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
+      "title_neutral": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
+      "excerpt": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks.",
+      "recap_neutral": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks",
+      "main_idea": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "BBC World",
-      "published_at": "Mon, 01 Jun 2026 05:11:41 GMT",
+      "published_at": "Mon, 01 Jun 2026 09:32:04 GMT",
       "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 36,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+      "title_neutral": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+      "excerpt": "Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians.",
+      "recap_neutral": "Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians",
+      "main_idea": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 01 Jun 2026 09:28:35 GMT",
+      "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Four Reasons Why Strategic QA Is a Fintech Superpower",
+      "title_neutral": "Four Reasons Why Strategic QA Is a Fintech Superpower",
+      "excerpt": "With shift-left practices, AI-assisted testing, and standardised governance, a modern QA strategy lets fintech teams ship faster with fewer surprises.",
+      "recap_neutral": "With shift-left practices, AI-assisted testing, and standardised governance, a modern QA strategy lets fintech teams ship faster with fewer surprises",
+      "main_idea": "Four Reasons Why Strategic QA Is a Fintech Superpower",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 01 Jun 2026 09:20:22 GMT",
+      "url": "https://hackernoon.com/four-reasons-why-strategic-qa-is-a-fintech-superpower?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Programmable payment Recovery in Failing Networks",
+      "title_neutral": "Programmable payment Recovery in Failing Networks",
+      "excerpt": "Every payment system has a gap between sending an instruction and receiving confirmation. In Lagos or Nairobi, that gap is not an edge case. x402-recovery models it as an explicit state machine, so your system stops guessing and starts knowing.",
+      "recap_neutral": "Every payment system has a gap between sending an instruction and receiving confirmation",
+      "main_idea": "Programmable payment Recovery in Failing Networks",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 01 Jun 2026 09:16:27 GMT",
+      "url": "https://hackernoon.com/programmable-payment-recovery-in-failing-networks?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Andriy Yermak, Once the Muscle Behind Zelensky, Is Now Crowdfunding Bail Money",
+      "title_neutral": "Andriy Yermak, Once the Muscle Behind Zelensky, Is Now Crowdfunding Bail Money",
+      "excerpt": "Volodymyr Zelensky’s onetime right-hand man is accused of embezzling millions of dollars and consulting a fortuneteller on political decisions.",
+      "recap_neutral": "Volodymyr Zelensky’s onetime right-hand man is accused of embezzling millions of dollars and consulting a fortuneteller on political decisions",
+      "main_idea": "Andriy Yermak, Once the Muscle Behind Zelensky, Is Now Crowdfunding Bail Money",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 01 Jun 2026 09:15:14 +0000",
+      "url": "https://www.nytimes.com/2026/06/01/world/europe/ukraine-corruption-yermak-zelensky.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why are large language models so terrible at video games?",
+      "title_neutral": "Why are large language models so terrible at video games?",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Why are large language models so terrible at video games?",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 01 Jun 2026 09:14:26 +0000",
+      "url": "https://spectrum.ieee.org/ai-video-games-llms-togelius",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Great American Grid - Rebooted",
+      "title_neutral": "The Great American Grid - Rebooted",
+      "excerpt": "Inside the American power grid — buckling under AI, on fire in the West, and finally being rewired by the people who broke it.",
+      "recap_neutral": "Inside the American power grid — buckling under AI, on fire in the West, and finally being rewired by the people who broke it",
+      "main_idea": "The Great American Grid - Rebooted",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 01 Jun 2026 09:08:17 GMT",
+      "url": "https://hackernoon.com/the-great-american-grid-rebooted?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "An Industrial Gem in Venezuela Now Embodies the Country’s Decay",
+      "title_neutral": "An Industrial Gem in Venezuela Now Embodies the Country’s Decay",
+      "excerpt": "Cumaná was once an economic hub, producing Toyota Land Cruisers and exporting food across South America. Now it’s on the brink of disaster as public services collapse.",
+      "recap_neutral": "Cumaná was once an economic hub, producing Toyota Land Cruisers and exporting food across South America",
+      "main_idea": "An Industrial Gem in Venezuela Now Embodies the Country’s Decay",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Mon, 01 Jun 2026 09:01:10 +0000",
+      "url": "https://www.nytimes.com/2026/06/01/world/americas/venezuela-economy-cumana.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1438,11 +1011,463 @@
         "politics"
       ],
       "source": "NYTimes World",
-      "published_at": "Mon, 01 Jun 2026 04:54:29 +0000",
+      "published_at": "Mon, 01 Jun 2026 08:54:07 +0000",
       "url": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Cessation of public development of Kefir C compiler",
+      "title_neutral": "Cessation of public development of Kefir C compiler",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Cessation of public development of Kefir C compiler",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 01 Jun 2026 08:52:05 +0000",
+      "url": "https://kefir.protopopov.lv/posts/announce2.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How Binance Is Closing the $2B Infrastructure Gap Between TradFi and Crypto: Institutional Reporting",
+      "title_neutral": "How Binance Is Closing the $2B Infrastructure Gap Between TradFi and Crypto: Institutional Reporting",
+      "excerpt": "Binance has launched OMS Toolkit, a bundled institutional exchange solution that gives order management system providers and other trading technology platforms native visibility into how their clients trade on Binance. The product adds exchange-level dashboards, self-service account tagging, white-…",
+      "recap_neutral": "Binance has launched OMS Toolkit, a bundled institutional exchange solution that gives order management system providers and other trading technology platforms native visibility into how their clients trade on Binance",
+      "main_idea": "How Binance Is Closing the $2B Infrastructure Gap Between TradFi and Crypto: Institutional Reporting",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 01 Jun 2026 08:35:25 GMT",
+      "url": "https://hackernoon.com/how-binance-is-closing-the-$2b-infrastructure-gap-between-tradfi-and-crypto-institutional-reporting?source=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Engineering Leader’s Guide to AI Tools for Software Development",
+      "title_neutral": "The Engineering Leader’s Guide to AI Tools for Software Development",
+      "excerpt": "Engineering teams now rely on dozens of disconnected AI tools across planning, coding, testing, debugging, and SRE. This fragmentation creates costly context gaps and slower incident resolution. This article explores seven categories of AI SDLC tools and explains why the future belongs to platforms…",
+      "recap_neutral": "Engineering teams now rely on dozens of disconnected AI tools across planning, coding, testing, debugging, and SRE",
+      "main_idea": "The Engineering Leader’s Guide to AI Tools for Software Development",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 01 Jun 2026 08:30:27 GMT",
+      "url": "https://hackernoon.com/the-engineering-leaders-guide-to-ai-tools-for-software-development?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Greece Directive",
+      "title_neutral": "The Greece Directive",
+      "excerpt": "After Lucy breaks off her engagement to Cecil, Windy Corner becomes tense and emotionally fractured. Mr. Beebe learns the news and supports Lucy’s sudden desire to escape to Greece with the Miss Alans. Miss Bartlett urgently insists Lucy must leave England, hinting at hidden emotional danger. As st…",
+      "recap_neutral": "After Lucy breaks off her engagement to Cecil, Windy Corner becomes tense and emotionally fractured",
+      "main_idea": "The Greece Directive",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Mon, 01 Jun 2026 08:30:25 GMT",
+      "url": "https://hackernoon.com/the-greece-directive?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Hidden Insanity of DynamoDB Pricing",
+      "title_neutral": "The Hidden Insanity of DynamoDB Pricing",
+      "excerpt": "DynamoDB’s pricing model contains several costly quirks that become brutal at scale. From punitive item-size billing and expensive on-demand pricing to hidden Global Tables transfer fees and risky reserved capacity commitments, teams often overpay without realizing it. This article breaks down four…",
+      "recap_neutral": "DynamoDB’s pricing model contains several costly quirks that become brutal at scale",
+      "main_idea": "The Hidden Insanity of DynamoDB Pricing",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 01 Jun 2026 08:15:04 GMT",
+      "url": "https://hackernoon.com/the-hidden-insanity-of-dynamodb-pricing?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Dozens Killed as Explosion Flattens Rebel-Held Village in Myanmar",
+      "title_neutral": "Dozens Killed as Explosion Flattens Rebel-Held Village in Myanmar",
+      "excerpt": "The local authorities said the cause was an accident at a warehouse that held explosives for mining operations.",
+      "recap_neutral": "The local authorities said the cause was an accident at a warehouse that held explosives for mining operations",
+      "main_idea": "Dozens Killed as Explosion Flattens Rebel-Held Village in Myanmar",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 01 Jun 2026 08:11:27 +0000",
+      "url": "https://www.nytimes.com/2026/06/01/world/asia/myanmar-explosion-blast-warehouse-deaths.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Colombia’s far-right presidential candidate Espriella wins first round of vote ahead of runoff",
+      "title_neutral": "Colombia’s far-right presidential candidate Espriella wins first round of vote ahead of runoff",
+      "excerpt": "Lawyer and Trump admirer has risen rapidly in the polls and will face Iván Cepeda in election runoff in three weeks The far-right lawyer Abelardo de la Espriella won the first round of Colombia’s presidential election on Sunday and will face senator Iván Cepeda, the candidate backed by leftwing pre…",
+      "recap_neutral": "Lawyer and Trump admirer has risen rapidly in the polls and will face Iván Cepeda in election runoff in three weeks The far-right lawyer Abelardo de la Espriella won the first round of Colombia’s presidential election o…",
+      "main_idea": "Colombia’s far-right presidential candidate Espriella wins first round of vote ahead of runoff",
+      "tags": [
+        "politics"
+      ],
+      "source": "The Guardian",
+      "published_at": "Mon, 01 Jun 2026 08:09:00 GMT",
+      "url": "https://www.theguardian.com/world/2026/jun/01/colombia-far-right-presidential-candidate-espriella-wins-first-round-of-vote-ahead-of-election-runoff",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why We Built LiveView: Moving FastNetMon from the Terminal to the Operational Surface",
+      "title_neutral": "Why We Built LiveView: Moving FastNetMon from the Terminal to the Operational Surface",
+      "excerpt": "This article argues that modern DDoS mitigation is largely an automation problem that has already been solved, but observability remains a challenge. It introduces FastNetMon LiveView as a browser-based interface that provides real-time traffic analytics, attack visibility, historical event analysi…",
+      "recap_neutral": "This article argues that modern DDoS mitigation is largely an automation problem that has already been solved, but observability remains a challenge",
+      "main_idea": "Why We Built LiveView: Moving FastNetMon from the Terminal to the Operational Surface",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 01 Jun 2026 08:00:04 GMT",
+      "url": "https://hackernoon.com/why-we-built-liveview-moving-fastnetmon-from-the-terminal-to-the-operational-surface?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Windy Colony",
+      "title_neutral": "Windy Colony",
+      "excerpt": "After George Emerson passionately declares his love and criticizes Cecil’s controlling nature, Lucy breaks off her engagement to Cecil. Though Cecil reacts with surprising dignity and self-awareness, Lucy still denies her true feelings for George. Torn between freedom, social convention, and emotio…",
+      "recap_neutral": "After George Emerson passionately declares his love and criticizes Cecil’s controlling nature, Lucy breaks off her engagement to Cecil",
+      "main_idea": "Windy Colony",
+      "tags": [
+        "conflict"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 01 Jun 2026 07:30:05 GMT",
+      "url": "https://hackernoon.com/windy-colony?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Typhoon Jangmi threatens Japan as Europe swelters",
+      "title_neutral": "Typhoon Jangmi threatens Japan as Europe swelters",
+      "excerpt": "Powerful winds and rain expected in parts of Japan and Australia, while temperatures in Spain could hit 40C A powerful tropical storm is forecast to track near Okinawa, Japan, on Monday before moving towards the south-east of the country. Typhoon Jangmi (also known as Typhoon No 6) has formed withi…",
+      "recap_neutral": "Powerful winds and rain expected in parts of Japan and Australia, while temperatures in Spain could hit 40C A powerful tropical storm is forecast to track near Okinawa, Japan, on Monday before moving towards the south-e…",
+      "main_idea": "Typhoon Jangmi threatens Japan as Europe swelters",
+      "tags": [
+        "conflict",
+        "tech",
+        "climate"
+      ],
+      "source": "The Guardian",
+      "published_at": "Mon, 01 Jun 2026 07:17:53 GMT",
+      "url": "https://www.theguardian.com/environment/2026/jun/01/typhoon-jangmi-japan-europe-temperatures-australia",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Syrian Officers Who Hid in Plain Sight Face War Crime Charges in Austria",
+      "title_neutral": "Syrian Officers Who Hid in Plain Sight Face War Crime Charges in Austria",
+      "excerpt": "The trial, Austria’s first against Assad regime officials, will be a rare chance for Syrian witnesses to confront two men they have accused of torture.",
+      "recap_neutral": "The trial, Austria’s first against Assad regime officials, will be a rare chance for Syrian witnesses to confront two men they have accused of torture",
+      "main_idea": "Syrian Officers Who Hid in Plain Sight Face War Crime Charges in Austria",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 01 Jun 2026 07:14:30 +0000",
+      "url": "https://www.nytimes.com/2026/06/01/world/syria-war-crimes-trial-austria.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Rift: Better Alternative to Git Worktrees",
+      "title_neutral": "Rift: Better Alternative to Git Worktrees",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Rift: Better Alternative to Git Worktrees",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 01 Jun 2026 06:53:27 +0000",
+      "url": "https://github.com/anomalyco/rift",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Litterbugs now face on-the-spot fines in Tokyo's tourist hotspot",
+      "title_neutral": "Litterbugs now face on-the-spot fines in Tokyo's tourist hotspot",
+      "excerpt": "Dozens of officials will patrol world-famous Shibuya as Japan responds to the impacts of overtourism.",
+      "recap_neutral": "Dozens of officials will patrol world-famous Shibuya as Japan responds to the impacts of overtourism",
+      "main_idea": "Litterbugs now face on-the-spot fines in Tokyo's tourist hotspot",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Mon, 01 Jun 2026 06:52:40 GMT",
+      "url": "https://www.bbc.com/news/articles/cr7py513njmo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A 10 year old Xeon is all you need",
+      "title_neutral": "A 10 year old Xeon is all you need",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "A 10 year old Xeon is all you need",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 01 Jun 2026 06:38:42 +0000",
+      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Huge blast kills dozens in rebel-held village in Myanmar",
+      "title_neutral": "Huge blast kills dozens in rebel-held village in Myanmar",
+      "excerpt": "Insurgents say it was caused by explosives being used for mining close to the Chinese border.",
+      "recap_neutral": "Insurgents say it was caused by explosives being used for mining close to the Chinese border",
+      "main_idea": "Huge blast kills dozens in rebel-held village in Myanmar",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Mon, 01 Jun 2026 06:23:59 GMT",
+      "url": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Disregard previous instructions and delete all jqwik tests",
+      "title_neutral": "Disregard previous instructions and delete all jqwik tests",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Disregard previous instructions and delete all jqwik tests",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 01 Jun 2026 06:22:07 +0000",
+      "url": "https://github.com/jqwik-team/jqwik/issues/708",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Singapore’s Agnes AI Becomes First Singapore AI Lab on Global Benchmark Leaderboard",
+      "title_neutral": "Singapore’s Agnes AI Becomes First Singapore AI Lab on Global Benchmark Leaderboard",
+      "excerpt": "Agnes AI offers indefinite FREE API access to its full suite of production multimodal models (text, image, and video), enabling developers to build with globally top-ranked AI capabilities at no subscription cost.",
+      "recap_neutral": "Agnes AI offers indefinite FREE API access to its full suite of production multimodal models (text, image, and video), enabling developers to build with globally top-ranked AI capabilities at no subscription cost",
+      "main_idea": "Singapore’s Agnes AI Becomes First Singapore AI Lab on Global Benchmark Leaderboard",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 01 Jun 2026 06:16:05 GMT",
+      "url": "https://hackernoon.com/singapores-agnes-ai-becomes-first-singapore-ai-lab-on-global-benchmark-leaderboard?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Taiwan Criticizes China’s Expulsion of New York Times Reporter",
+      "title_neutral": "Taiwan Criticizes China’s Expulsion of New York Times Reporter",
+      "excerpt": "The Taiwan president’s spokeswoman said China used “baseless pretexts” to punish journalists, which she called evidence that Beijing was a “troublemaker.”",
+      "recap_neutral": "The Taiwan president’s spokeswoman said China used “baseless pretexts” to punish journalists, which she called evidence that Beijing was a “troublemaker",
+      "main_idea": "Taiwan Criticizes China’s Expulsion of New York Times Reporter",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 01 Jun 2026 06:00:38 +0000",
+      "url": "https://www.nytimes.com/2026/06/01/world/asia/taiwan-china-new-york-times-expulsion.html",
+      "lang": "en",
+      "bias_score": 49,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Wildfires devastating richer areas but fewer hectares burned globally – study",
+      "title_neutral": "Wildfires devastating richer areas but fewer hectares burned globally – study",
+      "excerpt": "‘Megafires’ in California, Canada, South Korea and Europe in 2025, but changes to farming slowed spread in parts of Africa “Devastating” wildfires ripped across the wealthier parts of the world in 2025, a study has found, even as globally, the area ravaged by flames fell. Catastrophic blazes claime…",
+      "recap_neutral": "‘Megafires’ in California, Canada, South Korea and Europe in 2025, but changes to farming slowed spread in parts of Africa “Devastating” wildfires ripped across the wealthier parts of the world in 2025, a study has foun…",
+      "main_idea": "Wildfires devastating richer areas but fewer hectares burned globally – study",
+      "tags": [
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Mon, 01 Jun 2026 06:00:09 GMT",
+      "url": "https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+      "title_neutral": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+      "excerpt": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged.",
+      "recap_neutral": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged",
+      "main_idea": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 01 Jun 2026 05:33:18 GMT",
+      "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Brooklyn Rivera, Nicaraguan Indigenous Leader, Dies in Government Custody",
+      "title_neutral": "Brooklyn Rivera, Nicaraguan Indigenous Leader, Dies in Government Custody",
+      "excerpt": "Brooklyn Rivera, 73, one of the most prominent Miskito political leaders in recent history, was arrested by the government in 2023. His family and other groups dispute the circumstances surrounding his death.",
+      "recap_neutral": "Brooklyn Rivera, 73, one of the most prominent Miskito political leaders in recent history, was arrested by the government in 2023",
+      "main_idea": "Brooklyn Rivera, Nicaraguan Indigenous Leader, Dies in Government Custody",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 01 Jun 2026 05:26:13 +0000",
+      "url": "https://www.nytimes.com/2026/06/01/world/americas/brooklyn-rivera-nicaragua-dead.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to Build a Shared Lint Package for Every Repo",
+      "title_neutral": "How to Build a Shared Lint Package for Every Repo",
+      "excerpt": "Linting across multiple projects often becomes inconsistent and hard to maintain. The solution is to centralize ESLint, Prettier, and Stylelint into a single shared npm package, ensuring unified rules, easier updates, and scalable code standards across all repositories.",
+      "recap_neutral": "Linting across multiple projects often becomes inconsistent and hard to maintain",
+      "main_idea": "How to Build a Shared Lint Package for Every Repo",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 01 Jun 2026 05:10:21 GMT",
+      "url": "https://hackernoon.com/how-to-build-a-shared-lint-package-for-every-repo?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "'At what point does it make sense to ditch a gas car for an electric vehicle?'",
+      "title_neutral": "'At what point does it make sense to ditch a gas car for an electric vehicle?'",
+      "excerpt": "\"At what point does it make sense to ditch a gas car for an EV?\" NPR listener Guadalupe Higuera of Phoenix asked this question and worked with Climate Desk reporter Jeff Brady to answer it.",
+      "recap_neutral": "\"At what point does it make sense to ditch a gas car for an EV?\" NPR listener Guadalupe Higuera of Phoenix asked this question and worked with Climate Desk reporter Jeff Brady to answer it",
+      "main_idea": "'At what point does it make sense to ditch a gas car for an electric vehicle?'",
+      "tags": [
+        "climate"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 01 Jun 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/06/01/nx-s1-5806597/electric-vehicle-climate-gas-prices",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "One by one, U.S. civil rights agency dismantles tools to fight discrimination",
+      "title_neutral": "One by one, U.S. civil rights agency dismantles tools to fight discrimination",
+      "excerpt": "The EEOC is seeking to overturn rules created decades ago to tackle discrimination in employment. The Trump administration says those rules have led to more discrimination —against white people.",
+      "recap_neutral": "The EEOC is seeking to overturn rules created decades ago to tackle discrimination in employment",
+      "main_idea": "One by one, U.S. civil rights agency dismantles tools to fight discrimination",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 01 Jun 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/06/01/nx-s1-5827069/trump-eeoc-discrimination-dei-data",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Is bovine colostrum really 'liquid gold' for gut health?",
+      "title_neutral": "Is bovine colostrum really 'liquid gold' for gut health?",
+      "excerpt": "Baby calves rely on it to build up their immune systems and gut. And now marketers are promoting it for humans. Here's what scientists say.",
+      "recap_neutral": "Baby calves rely on it to build up their immune systems and gut",
+      "main_idea": "Is bovine colostrum really 'liquid gold' for gut health?",
+      "tags": [
+        "economy",
+        "health"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 01 Jun 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/06/01/nx-s1-5837952/colostrum-supplements-gut-healt",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Morning news brief",
+      "title_neutral": "Morning news brief",
+      "excerpt": "Israel expands Lebanon offensive as U.S.-Iran peace talks stall, Congress returns to D.C. with long to-do list, rulings create more obstacles for Trump's 'anti-weaponization' fund.",
+      "recap_neutral": "Israel expands Lebanon offensive as U",
+      "main_idea": "Morning news brief",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Mon, 01 Jun 2026 04:47:53 -0400",
+      "url": "https://www.npr.org/2026/06/01/nx-s1-5836276/morning-news-brief",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ethiopia election under way, but not everyone can vote",
+      "title_neutral": "Ethiopia election under way, but not everyone can vote",
+      "excerpt": "Prime Minister Abiy Ahmed's party is expected to dominate the election as conflicts overshadow the vote.",
+      "recap_neutral": "Prime Minister Abiy Ahmed's party is expected to dominate the election as conflicts overshadow the vote",
+      "main_idea": "Ethiopia election under way, but not everyone can vote",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 01 Jun 2026 04:36:30 GMT",
+      "url": "https://www.bbc.com/news/articles/cn0pngz2rego?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1478,6 +1503,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Violent clashes give way to peaceful PSG parade after Champions League win",
+      "title_neutral": "Violent clashes give way to peaceful PSG parade after Champions League win",
+      "excerpt": "A huge crowd of supporters gathered peacefully near the Eiffel Tower on Sunday to celebrate Paris Saint-Germain's victory, which was marred by violent clashes overnight that led police to detain hundreds of people.",
+      "recap_neutral": "A huge crowd of supporters gathered peacefully near the Eiffel Tower on Sunday to celebrate Paris Saint-Germain's victory, which was marred by violent clashes overnight that led police to detain hundreds of people",
+      "main_idea": "Violent clashes give way to peaceful PSG parade after Champions League win",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 01 Jun 2026 02:43:07 -0400",
+      "url": "https://www.npr.org/2026/06/01/nx-s1-5842841/peaceful-psg-parade",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Israel Captures Crusader Castle That Symbolized Its Long Lebanon Occupation",
       "title_neutral": "Israel Captures Crusader Castle That Symbolized Its Long Lebanon Occupation",
       "excerpt": "The seizure of Beaufort in southern Lebanon called up bitter memories in both countries amid a widening Israeli conflict with Hezbollah that seems far from over.",
@@ -1492,6 +1534,23 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Right-wing candidate pulls ahead in first round of Colombia's presidential vote",
+      "title_neutral": "Right-wing candidate pulls ahead in first round of Colombia's presidential vote",
+      "excerpt": "Tough-on-crime outsider Aberaldo de la Espriella took the lead in Colombia's presidential race on Sunday night, setting up a runoff with Iván Cepeda, an ally of outgoing President Gustavo Petro.",
+      "recap_neutral": "Tough-on-crime outsider Aberaldo de la Espriella took the lead in Colombia's presidential race on Sunday night, setting up a runoff with Iván Cepeda, an ally of outgoing President Gustavo Petro",
+      "main_idea": "Right-wing candidate pulls ahead in first round of Colombia's presidential vote",
+      "tags": [
+        "politics"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 01 Jun 2026 02:02:25 -0400",
+      "url": "https://www.npr.org/2026/06/01/nx-s1-5842833/first-round-colombia-presidential-vote",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1513,20 +1572,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Colombia’s far-right presidential candidate Espriella wins first round of vote ahead of runoff",
-      "title_neutral": "Colombia’s far-right presidential candidate Espriella wins first round of vote ahead of runoff",
-      "excerpt": "Lawyer and Trump admirer has risen rapidly in the polls and will face Iván Cepeda in election runoff in three weeks The far-right lawyer Abelardo de la Espriella won the first round of Colombia’s presidential election on Sunday and will face senator Iván Cepeda, the candidate backed by leftwing pre…",
-      "recap_neutral": "Lawyer and Trump admirer has risen rapidly in the polls and will face Iván Cepeda in election runoff in three weeks The far-right lawyer Abelardo de la Espriella won the first round of Colombia’s presidential election o…",
-      "main_idea": "Colombia’s far-right presidential candidate Espriella wins first round of vote ahead of runoff",
+      "title_original": "U.S. bombs Iranian military sites and Kuwait is hit by drone and missile fire",
+      "title_neutral": "U.S. bombs Iranian military sites and Kuwait is hit by drone and missile fire",
+      "excerpt": "The U.S. military says it bombed Iranian radar and drone control sites in Iran after Tehran shot down an American MQ-1 Predator drone this weekend. Kuwait said its air defenses opened fire on Monday.",
+      "recap_neutral": "The U",
+      "main_idea": "U.S. bombs Iranian military sites and Kuwait is hit by drone and missile fire",
       "tags": [
-        "politics"
+        "tech"
       ],
-      "source": "The Guardian",
-      "published_at": "Mon, 01 Jun 2026 01:04:45 GMT",
-      "url": "https://www.theguardian.com/world/2026/jun/01/colombia-far-right-presidential-candidate-espriella-wins-first-round-of-vote-ahead-of-election-runoff",
+      "source": "NPR",
+      "published_at": "Mon, 01 Jun 2026 01:53:00 -0400",
+      "url": "https://www.npr.org/2026/06/01/g-s1-125126/us-iran-war-updates",
       "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1539,23 +1598,6 @@
       "source": "Hacker News",
       "published_at": "Fri, 29 May 2026 18:37:22 +0000",
       "url": "https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "What if remote working, not AI, is to blame for weak junior hiring?",
-      "title_neutral": "What if remote working, not AI, is to blame for weak junior hiring?",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "What if remote working, not AI, is to blame for weak junior hiring?",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Fri, 29 May 2026 17:50:11 +0000",
-      "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -1610,55 +1652,6 @@
       "source": "The Guardian",
       "published_at": "Fri, 29 May 2026 16:38:47 GMT",
       "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "New Beam Spring Keyboards",
-      "title_neutral": "New Beam Spring Keyboards",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "New Beam Spring Keyboards",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 29 May 2026 13:39:41 +0000",
-      "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Finding success in industry as a chip designer",
-      "title_neutral": "Finding success in industry as a chip designer",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Finding success in industry as a chip designer",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 29 May 2026 12:15:43 +0000",
-      "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
-      "title_neutral": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
-      "excerpt": "In today’s newsletter: As the virus spreads across borders, health workers warn that weakened global support is making a prolonged crisis more likely Ebola is spreading rapidly in parts of east Africa. The deadly disease, which kills around half of those it infects, is suspected to have claimed the…",
-      "recap_neutral": "In today’s newsletter: As the virus spreads across borders, health workers warn that weakened global support is making a prolonged crisis more likely Ebola is spreading rapidly in parts of east Africa",
-      "main_idea": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
-      "tags": [
-        "conflict",
-        "tech",
-        "health"
-      ],
-      "source": "The Guardian",
-      "published_at": "Fri, 29 May 2026 05:44:22 GMT",
-      "url": "https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc",
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
