@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-06-04T21:10:20.879034+00:00",
+  "last_updated": "2026-06-04T22:52:04.534687+00:00",
   "items": [
-    {
-      "title_original": "They’re made out of weights",
-      "title_neutral": "They’re made out of weights",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "They’re made out of weights",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 03 Jun 2026 23:37:18 +0000",
-      "url": "https://maxleiter.com/blog/weights",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
     {
       "title_original": "Dead but deportable: US immigration judge signed order to eject teen murder victim",
       "title_neutral": "Dead but deportable: US immigration judge signed order to eject teen murder victim",
@@ -88,6 +73,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+      "title_neutral": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 02 Jun 2026 20:00:54 +0000",
+      "url": "https://tiki.li/blog/blqsort",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "JLink JTAG Access on the Pinecil",
       "title_neutral": "JLink JTAG Access on the Pinecil",
       "excerpt": "Comments",
@@ -135,21 +135,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Tennis Giants Tumble",
-      "title_neutral": "Tennis Giants Tumble",
-      "excerpt": "All the big names are out at the French Open. The result is a very confusing, and very exciting, tournament.",
-      "recap_neutral": "All the big names are out at the French Open",
-      "main_idea": "Tennis Giants Tumble",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Thu, 04 Jun 2026 21:01:09 +0000",
-      "url": "https://www.nytimes.com/2026/06/04/world/05int-theworld-tennis-french-open-satrapi-lebanon.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Mideast Live Updates: Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
       "title_neutral": "Mideast Live Updates: Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
       "excerpt": "Hezbollah’s leader said the Iran-backed group, which was not included in U.S.-brokered talks, said a truce worked out between Israel and the Lebanese government amounted to surrender for his group.",
@@ -160,8 +145,123 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Thu, 04 Jun 2026 20:55:47 +0000",
+      "published_at": "Thu, 04 Jun 2026 22:08:37 +0000",
       "url": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+      "title_neutral": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Thu, 04 Jun 2026 22:06:18 +0000",
+      "url": "https://github.com/schildep/verified-polygon-intersection",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "IPv6 zones in URLs are a mistake",
+      "title_neutral": "IPv6 zones in URLs are a mistake",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "IPv6 zones in URLs are a mistake",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 04 Jun 2026 21:42:34 +0000",
+      "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
+      "title_neutral": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
+      "excerpt": "Gun battles erupted on Thursday, as armed groups loyal to rival politicians clashed. Residents said it was the worst fighting in years.",
+      "recap_neutral": "Gun battles erupted on Thursday, as armed groups loyal to rival politicians clashed",
+      "main_idea": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 04 Jun 2026 21:37:47 +0000",
+      "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+      "title_neutral": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+      "excerpt": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
+      "recap_neutral": "Zeynab Javadli had not been in contact with any of her friends since Tuesday",
+      "main_idea": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 04 Jun 2026 21:34:49 GMT",
+      "url": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "title_neutral": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "excerpt": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+      "recap_neutral": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran",
+      "main_idea": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 04 Jun 2026 21:34:14 GMT",
+      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Queen bees emerge from special wax chambers",
+      "title_neutral": "Queen bees emerge from special wax chambers",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Queen bees emerge from special wax chambers",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 04 Jun 2026 21:31:31 +0000",
+      "url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Tennis Giants Tumble",
+      "title_neutral": "Tennis Giants Tumble",
+      "excerpt": "All the big names are out at the French Open. The result is a very confusing, and very exciting, tournament.",
+      "recap_neutral": "All the big names are out at the French Open",
+      "main_idea": "Tennis Giants Tumble",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Thu, 04 Jun 2026 21:01:09 +0000",
+      "url": "https://www.nytimes.com/2026/06/04/world/05int-theworld-tennis-french-open-satrapi-lebanon.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -232,6 +332,38 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "5 Open-Source and Free Tools for Gamers - to Support via Kivach",
+      "title_neutral": "5 Open-Source and Free Tools for Gamers - to Support via Kivach",
+      "excerpt": "From emulators to streaming, discover gamer tools built by passion—and how you can support them with crypto and Kivach. Dive in!",
+      "recap_neutral": "From emulators to streaming, discover gamer tools built by passion—and how you can support them with crypto and Kivach",
+      "main_idea": "5 Open-Source and Free Tools for Gamers - to Support via Kivach",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Thu, 04 Jun 2026 20:02:41 GMT",
+      "url": "https://hackernoon.com/5-open-source-and-free-tools-for-gamers-to-support-via-kivach?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "500 Blog Posts To Learn About Leadership",
+      "title_neutral": "500 Blog Posts To Learn About Leadership",
+      "excerpt": "Let's learn about Leadership via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. “Not all readers are leaders, but all leaders are readers.”― Harry S. Truman 1. Why busines…",
+      "recap_neutral": "Let's learn about Leadership via these 500 free blog posts",
+      "main_idea": "500 Blog Posts To Learn About Leadership",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 04 Jun 2026 20:00:46 GMT",
+      "url": "https://hackernoon.com/500-blog-posts-to-learn-about-leadership?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Castor: CERN Advanced STORage Manager",
       "title_neutral": "Castor: CERN Advanced STORage Manager",
       "excerpt": "Comments",
@@ -281,21 +413,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Meta's ships facial recognition on smart glasses",
-      "title_neutral": "Meta's ships facial recognition on smart glasses",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Meta's ships facial recognition on smart glasses",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 04 Jun 2026 19:36:48 +0000",
-      "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "John Bolton expected to plead guilty in classified documents case, sources confirm",
       "title_neutral": "John Bolton expected to plead guilty in classified documents case, sources confirm",
       "excerpt": "Trump's former advisor turned critic had reached a deal with prosecutors, two people said.",
@@ -331,21 +448,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Why is this teen fashion brand closing its fitting rooms?",
-      "title_neutral": "Why is this teen fashion brand closing its fitting rooms?",
-      "excerpt": "Brandy Melville's move has caused uproar among some young women who frequent its stores, with one calling it a \"devastating news\".",
-      "recap_neutral": "Brandy Melville's move has caused uproar among some young women who frequent its stores, with one calling it a \"devastating news\"",
-      "main_idea": "Why is this teen fashion brand closing its fitting rooms?",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Thu, 04 Jun 2026 18:48:29 GMT",
-      "url": "https://www.bbc.com/news/articles/c1k2knwgy3eo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Four New Zealand Lawmakers Banned From China After Taiwan Trip",
       "title_neutral": "Four New Zealand Lawmakers Banned From China After Taiwan Trip",
       "excerpt": "New Zealand’s foreign minister was “surprised” to hear about the one-year travel ban, a spokesperson said, given lawmakers have visited Taiwan for years without issues.",
@@ -363,23 +465,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
-      "title_neutral": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
-      "excerpt": "British lawyer David Haigh lost contact with Zeynab Javadli on Tuesday and the BBC has been told her home in Dubai is locked and empty.",
-      "recap_neutral": "British lawyer David Haigh lost contact with Zeynab Javadli on Tuesday and the BBC has been told her home in Dubai is locked and empty",
-      "main_idea": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 04 Jun 2026 18:01:54 GMT",
-      "url": "https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Israeli strikes kill 11 people in Gaza City, medics say",
       "title_neutral": "Israeli strikes kill 11 people in Gaza City, medics say",
       "excerpt": "Women and children were among those killed in the attacks on four residential buildings, which Israel's military says killed four Hamas security officials.",
@@ -394,6 +479,23 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Show HN: Hitoku Draft – Context aware local assistant",
+      "title_neutral": "Show HN: Hitoku Draft – Context aware local assistant",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: Hitoku Draft – Context aware local assistant",
+      "tags": [
+        "conflict"
+      ],
+      "source": "Hacker News",
+      "published_at": "Thu, 04 Jun 2026 17:48:58 +0000",
+      "url": "https://hitoku.me/draft/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -431,18 +533,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
-      "title_neutral": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
+      "title_original": "6 Best Platforms Where Gaming Startups Should Publish Their Stories in 2026",
+      "title_neutral": "6 Best Platforms Where Gaming Startups Should Publish Their Stories in 2026",
+      "excerpt": "Gaming startups in 2026 need more than great gameplay—they need visibility and storytelling. This article explores 6 of the best platforms where game founders, indie studios, and metaverse builders can publish their stories, grow audiences, and build long-term discoverability.",
+      "recap_neutral": "Gaming startups in 2026 need more than great gameplay—they need visibility and storytelling",
+      "main_idea": "6 Best Platforms Where Gaming Startups Should Publish Their Stories in 2026",
       "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 04 Jun 2026 17:00:37 +0000",
-      "url": "https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect",
+      "source": "HackerNoon",
+      "published_at": "Thu, 04 Jun 2026 17:28:51 GMT",
+      "url": "https://hackernoon.com/6-best-platforms-where-gaming-startups-should-publish-their-stories-in-2026?source=rss",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -529,6 +631,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Fhenix and Monaco Research Are Trying to Build a Dark Pool That Actually Works: Behind DeFi",
+      "title_neutral": "Fhenix and Monaco Research Are Trying to Build a Dark Pool That Actually Works: Behind DeFi",
+      "excerpt": "Fhenix and Monaco Research have announced a research collaboration to explore FHE-based confidential trading infrastructure, covering dark pools, encrypted RFQ systems, and private onchain execution.",
+      "recap_neutral": "Fhenix and Monaco Research have announced a research collaboration to explore FHE-based confidential trading infrastructure, covering dark pools, encrypted RFQ systems, and private onchain execution",
+      "main_idea": "Fhenix and Monaco Research Are Trying to Build a Dark Pool That Actually Works: Behind DeFi",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 04 Jun 2026 16:14:04 GMT",
+      "url": "https://hackernoon.com/fhenix-and-monaco-research-are-trying-to-build-a-dark-pool-that-actually-works-behind-defi?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "NTSB says United jet was too slow and too low in Newark landing accident",
       "title_neutral": "NTSB says United jet was too slow and too low in Newark landing accident",
       "excerpt": "Federal investigators say the captain flying the United 767 from Italy was too slow and too low before landing last month at Newark, N.J. The jet struck a light pole, damaging a truck on the turnpike.",
@@ -547,6 +666,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "The HackerNoon Newsletter: The Pope and AI (6/4/2026)",
+      "title_neutral": "The HackerNoon Newsletter: The Pope and AI (6/4/2026)",
+      "excerpt": "How are you, hacker? 🪐 What’s happening in tech today, June 4, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox. On this day, The Kingdom of Tonga Achieved Independence in 1970, The World’s First Shopping Carts Were Introduced in 1937, American Women Won the Rig…",
+      "recap_neutral": "How are you, hacker? 🪐 What’s happening in tech today, June 4, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox",
+      "main_idea": "The HackerNoon Newsletter: The Pope and AI (6/4/2026)",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 04 Jun 2026 16:04:25 GMT",
+      "url": "https://hackernoon.com/6-4-2026-newsletter?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Retro-Tech Parenting",
       "title_neutral": "Retro-Tech Parenting",
       "excerpt": "Comments",
@@ -561,6 +697,24 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "QoreChain Launches Quantum-Safe, AI-Native Layer 1 Mainnet on June 7 as Community Presale Opens",
+      "title_neutral": "QoreChain Launches Quantum-Safe, AI-Native Layer 1 Mainnet on June 7 as Community Presale Opens",
+      "excerpt": "QoreChain launches its mainnet on June 7, introducing a Layer 1 blockchain that combines post-quantum cryptography, protocol-level AI, and support for EVM, CosmWasm, and Solana VM on a single chain. The network features validator, delegation, and light-node rewards, alongside a community presale an…",
+      "recap_neutral": "QoreChain launches its mainnet on June 7, introducing a Layer 1 blockchain that combines post-quantum cryptography, protocol-level AI, and support for EVM, CosmWasm, and Solana VM on a single chain",
+      "main_idea": "QoreChain Launches Quantum-Safe, AI-Native Layer 1 Mainnet on June 7 as Community Presale Opens",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 04 Jun 2026 16:00:23 GMT",
+      "url": "https://hackernoon.com/qorechain-launches-quantum-safe-ai-native-layer-1-mainnet-on-june-7-as-community-presale-opens?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -596,8 +750,8 @@
     {
       "title_original": "Nauru issues rare statement after whistleblower alleges violent threats against Australia’s non-citizens",
       "title_neutral": "Nauru issues rare statement after whistleblower alleges violent threats against Australia’s non-citizens",
-      "excerpt": "Nauran government says its citizens are ‘friendly’ after MP spoke of serious threats allegedly made against former Australian detainees Get our breaking news email , free app or daily news podcast The Nauruan government has issued a rare statement insisting it is a “friendly” and “welcoming” countr…",
-      "recap_neutral": "Nauran government says its citizens are ‘friendly’ after MP spoke of serious threats allegedly made against former Australian detainees Get our breaking news email , free app or daily news podcast The Nauruan government…",
+      "excerpt": "Nauran government says its citizens are ‘friendly’ after MP spoke of serious threats allegedly made against former detainees Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Nauruan government has issued a rare statement insisti…",
+      "recap_neutral": "Nauran government says its citizens are ‘friendly’ after MP spoke of serious threats allegedly made against former detainees Follow our Australia news live blog for latest updates Get our breaking news email , free app…",
       "main_idea": "Nauru issues rare statement after whistleblower alleges violent threats against Australia’s non-citizens",
       "tags": [
         "politics",
@@ -725,23 +879,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
-      "title_neutral": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
-      "excerpt": "Gun battles erupted on Thursday, as armed groups loyal to rival politicians clashed. Residents said it was the worst fighting in years.",
-      "recap_neutral": "Gun battles erupted on Thursday, as armed groups loyal to rival politicians clashed",
-      "main_idea": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 04 Jun 2026 13:50:11 +0000",
-      "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1159,21 +1296,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Crypto Meets Wall Street: MEXC Unveils 'RealStocks' Eith 0-fee U.S. Equity Trading And Real Dividend",
-      "title_neutral": "Crypto Meets Wall Street: MEXC Unveils 'RealStocks' Eith 0-fee U.S. Equity Trading And Real Dividend",
-      "excerpt": "Mutsamudu, Comoros, June 4, 2026 – MEXC , a leading 0-fee cross-asset trading platform, today announced the official launch of 'RealStocks.' This innovative equity product is now accessible to eligible users globally. The product seamlessly integrates real ownership rights of traditional financial…",
-      "recap_neutral": "Mutsamudu, Comoros, June 4, 2026 – MEXC , a leading 0-fee cross-asset trading platform, today announced the official launch of 'RealStocks",
-      "main_idea": "Crypto Meets Wall Street: MEXC Unveils 'RealStocks' Eith 0-fee U.S. Equity Trading And Real Dividend",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 04 Jun 2026 07:43:25 GMT",
-      "url": "https://hackernoon.com/crypto-meets-wall-street-mexc-unveils-realstocks-eith-0-fee-us-equity-trading-and-real-dividend?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race",
       "title_neutral": "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race",
       "excerpt": "President Lee Jae Myung’s Democratic Party had hoped to consolidate its influence and extend his political momentum.",
@@ -1191,56 +1313,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "How We Built Real-Time Usage Metering That Doesn't Lie to Your CFO",
-      "title_neutral": "How We Built Real-Time Usage Metering That Doesn't Lie to Your CFO",
-      "excerpt": "Most AI billing systems settle usage at month-end, creating a dangerous gap between when costs occur and when revenue is recognized. As AI workloads become more variable and expensive, companies lose visibility into per-customer profitability and margin. Real-time billing solves this by making the…",
-      "recap_neutral": "Most AI billing systems settle usage at month-end, creating a dangerous gap between when costs occur and when revenue is recognized",
-      "main_idea": "How We Built Real-Time Usage Metering That Doesn't Lie to Your CFO",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 04 Jun 2026 07:02:50 GMT",
-      "url": "https://hackernoon.com/how-we-built-real-time-usage-metering-that-doesnt-lie-to-your-cfo?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Gen AI Didn’t Fix Enterprise Software’s Biggest Bottleneck",
-      "title_neutral": "Gen AI Didn’t Fix Enterprise Software’s Biggest Bottleneck",
-      "excerpt": "We optimised for code generation speed while the real bottleneck — cognitive overhead and knowing where to make changes — stayed completely untouched.",
-      "recap_neutral": "We optimised for code generation speed while the real bottleneck — cognitive overhead and knowing where to make changes — stayed completely untouched",
-      "main_idea": "Gen AI Didn’t Fix Enterprise Software’s Biggest Bottleneck",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 04 Jun 2026 05:02:43 GMT",
-      "url": "https://hackernoon.com/gen-ai-didnt-fix-enterprise-softwares-biggest-bottleneck?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Why I Chose vsock Over TCP for a Firecracker Serverless Runtime",
-      "title_neutral": "Why I Chose vsock Over TCP for a Firecracker Serverless Runtime",
-      "excerpt": "When building a Firecracker-based serverless platform, vsock is preferred over TCP/IP for communication between the host and microVMs because it reduces latency and overhead on the hot invocation path.",
-      "recap_neutral": "When building a Firecracker-based serverless platform, vsock is preferred over TCP/IP for communication between the host and microVMs because it reduces latency and overhead on the hot invocation path",
-      "main_idea": "Why I Chose vsock Over TCP for a Firecracker Serverless Runtime",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 04 Jun 2026 05:01:29 GMT",
-      "url": "https://hackernoon.com/why-i-chose-vsock-over-tcp-for-a-firecracker-serverless-runtime?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "The $13 billion carrier with a plumbing problem is home. Now come the costly repairs",
       "title_neutral": "The $13 billion carrier with a plumbing problem is home. Now come the costly repairs",
       "excerpt": "With 4,600 sailors finally home, USS Gerald R. Ford will finally receive some much needed repairs and an upgrade to its beleaguered sewage system.",
@@ -1255,38 +1327,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A $100,000 Employee for $100 a Month: A Painter's Case for AI Agents",
-      "title_neutral": "A $100,000 Employee for $100 a Month: A Painter's Case for AI Agents",
-      "excerpt": "A painter explains how an AI agent now handles 90% of the admin behind his art business for about $100 a month.",
-      "recap_neutral": "A painter explains how an AI agent now handles 90% of the admin behind his art business for about $100 a month",
-      "main_idea": "A $100,000 Employee for $100 a Month: A Painter's Case for AI Agents",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 04 Jun 2026 04:58:36 GMT",
-      "url": "https://hackernoon.com/a-$100000-employee-for-$100-a-month-a-painters-case-for-ai-agents?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How We Detect iOS App Launch Regressions Before Release Using XCUITests",
-      "title_neutral": "How We Detect iOS App Launch Regressions Before Release Using XCUITests",
-      "excerpt": "After a production launch regression made startup time reach almost eight seconds for some users, inDrive’s iOS platform team built automated launch performance tests with XCUITests. The system runs nightly on CI, uses real test accounts and production-like flows, sends metrics to internal storage,…",
-      "recap_neutral": "After a production launch regression made startup time reach almost eight seconds for some users, inDrive’s iOS platform team built automated launch performance tests with XCUITests",
-      "main_idea": "How We Detect iOS App Launch Regressions Before Release Using XCUITests",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 04 Jun 2026 04:56:35 GMT",
-      "url": "https://hackernoon.com/how-we-detect-ios-app-launch-regressions-before-release-using-xcuitests?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1327,23 +1367,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "title_neutral": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Thu, 04 Jun 2026 00:18:02 +0000",
-      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Japan sees shortage of plastic bags, trays and gloves, as Iran war-induced naphtha shortage worsens",
       "title_neutral": "Japan sees shortage of plastic bags, trays and gloves, as Iran war-induced naphtha shortage worsens",
       "excerpt": "The Middle East is Japan’s main source of crude oil, from which naphtha is extracted and used to make items including printing ink and plastics Takeaways, supermarkets, and bakeries in Japan are running out of plastic bags, trays and food service gloves amid widening shortages of the key plastic in…",
@@ -1380,21 +1403,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Making Debian or Fedora persistent live images",
-      "title_neutral": "Making Debian or Fedora persistent live images",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Making Debian or Fedora persistent live images",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 01 Jun 2026 18:02:10 +0000",
-      "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Typhoon Jangmi threatens Japan as Europe swelters",
       "title_neutral": "Typhoon Jangmi threatens Japan as Europe swelters",
       "excerpt": "Powerful winds and rain expected in parts of Japan and Australia, while temperatures in Spain could hit 40C A powerful tropical storm is forecast to track near Okinawa, Japan, on Monday before moving towards the south-east of the country. Typhoon Jangmi (also known as Typhoon No 6) has formed withi…",
@@ -1414,244 +1422,237 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Лавров: в диалоге с США по украинскому урегулированию наблюдается замкнутый круг",
-      "title_neutral": "Лавров: в диалоге с США по украинскому урегулированию наблюдается замкнутый круг",
+      "title_original": "Временные ограничения ввели в аэропорту Нижнекамска",
+      "title_neutral": "Временные ограничения ввели в аэропорту Нижнекамска",
       "excerpt": "",
-      "recap_neutral": "Лавров: в диалоге с США по украинскому урегулированию наблюдается замкнутый круг",
-      "main_idea": "Лавров: в диалоге с США по украинскому урегулированию наблюдается замкнутый круг",
+      "recap_neutral": "Временные ограничения ввели в аэропорту Нижнекамска",
+      "main_idea": "Временные ограничения ввели в аэропорту Нижнекамска",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 00:08:53 +0300",
-      "url": "https://tass.ru/politika/27656227",
+      "published_at": "Fri, 05 Jun 2026 01:50:49 +0300",
+      "url": "https://tass.ru/ekonomika/27657097",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Лавров: достижение целей СВО укрепит позиции РФ на международной арене",
-      "title_neutral": "Лавров: достижение целей СВО укрепит позиции РФ на международной арене",
-      "excerpt": "",
-      "recap_neutral": "Лавров: достижение целей СВО укрепит позиции РФ на международной арене",
-      "main_idea": "Лавров: достижение целей СВО укрепит позиции РФ на международной арене",
+      "title_original": "Мэр Большого Манчестера намерен побороться за пост лидера Лейбористской партии",
+      "title_neutral": "Мэр Большого Манчестера намерен побороться за пост лидера Лейбористской партии",
+      "excerpt": "Энди Бернэм впервые публично заявил свои амбиции стать премьер-министром Великобритании",
+      "recap_neutral": "Энди Бернэм впервые публично заявил свои амбиции стать премьер-министром Великобритании",
+      "main_idea": "Мэр Большого Манчестера намерен побороться за пост лидера Лейбористской партии",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 00:08:45 +0300",
-      "url": "https://tass.ru/politika/27656211",
+      "published_at": "Fri, 05 Jun 2026 01:48:00 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27657057",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Лавров: Запад всегда вынашивал авантюру с подавлением, а еще лучше - расчленением России",
-      "title_neutral": "Лавров: Запад всегда вынашивал авантюру с подавлением, а еще лучше - расчленением России",
-      "excerpt": "",
-      "recap_neutral": "Лавров: Запад всегда вынашивал авантюру с подавлением, а еще лучше - расчленением России",
-      "main_idea": "Лавров: Запад всегда вынашивал авантюру с подавлением, а еще лучше - расчленением России",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 00:08:44 +0300",
-      "url": "https://tass.ru/politika/27656219",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лавров: Кушнер и Уиткофф искренне заинтересованы в нормализации отношений с РФ",
-      "title_neutral": "Лавров: Кушнер и Уиткофф искренне заинтересованы в нормализации отношений с РФ",
-      "excerpt": "",
-      "recap_neutral": "Лавров: Кушнер и Уиткофф искренне заинтересованы в нормализации отношений с РФ",
-      "main_idea": "Лавров: Кушнер и Уиткофф искренне заинтересованы в нормализации отношений с РФ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 00:08:14 +0300",
-      "url": "https://tass.ru/politika/27656203",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Подмосковье автомобиль скорой попал в ДТП",
-      "title_neutral": "В Подмосковье автомобиль скорой попал в ДТП",
-      "excerpt": "",
-      "recap_neutral": "В Подмосковье автомобиль скорой попал в ДТП",
-      "main_idea": "В Подмосковье автомобиль скорой попал в ДТП",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 00:07:41 +0300",
-      "url": "https://tass.ru/proisshestviya/27656195",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лавров: РФ отгрузила уже более 2,4 млн баррелей нефти Филиппинам",
-      "title_neutral": "Лавров: РФ отгрузила уже более 2,4 млн баррелей нефти Филиппинам",
-      "excerpt": "",
-      "recap_neutral": "Лавров: РФ отгрузила уже более 2,4 млн баррелей нефти Филиппинам",
-      "main_idea": "Лавров: РФ отгрузила уже более 2,4 млн баррелей нефти Филиппинам",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 00:07:24 +0300",
-      "url": "https://tass.ru/ekonomika/27656059",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лавров: РФ не приемлет экспансии военных блоков в АТР",
-      "title_neutral": "Лавров: РФ не приемлет экспансии военных блоков в АТР",
-      "excerpt": "",
-      "recap_neutral": "Лавров: РФ не приемлет экспансии военных блоков в АТР",
-      "main_idea": "Лавров: РФ не приемлет экспансии военных блоков в АТР",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 00:06:34 +0300",
-      "url": "https://tass.ru/politika/27656155",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Таганроге объявили угрозу применения БПЛА",
-      "title_neutral": "В Таганроге объявили угрозу применения БПЛА",
-      "excerpt": "",
-      "recap_neutral": "В Таганроге объявили угрозу применения БПЛА",
-      "main_idea": "В Таганроге объявили угрозу применения БПЛА",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 00:06:29 +0300",
-      "url": "https://tass.ru/proisshestviya/27655991",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Сборная России по футболу в Волгограде проведет матч с командой Буркина-Фасо",
-      "title_neutral": "Сборная России по футболу в Волгограде проведет матч с командой Буркина-Фасо",
-      "excerpt": "Встреча станет для россиян второй на этом сборе",
-      "recap_neutral": "Встреча станет для россиян второй на этом сборе",
-      "main_idea": "Сборная России по футболу в Волгограде проведет матч с командой Буркина-Фасо",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 00:06:28 +0300",
-      "url": "https://tass.ru/sport/27656103",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лавров: США оставили без реакции предложение снять санкции с парламентариев",
-      "title_neutral": "Лавров: США оставили без реакции предложение снять санкции с парламентариев",
-      "excerpt": "",
-      "recap_neutral": "Лавров: США оставили без реакции предложение снять санкции с парламентариев",
-      "main_idea": "Лавров: США оставили без реакции предложение снять санкции с парламентариев",
+      "title_original": "Швыдкой: культурный диалог России и США нужно продолжать вопреки разногласиям",
+      "title_neutral": "Швыдкой: культурный диалог России и США нужно продолжать вопреки разногласиям",
+      "excerpt": "Представители культуры должны сохранять профессиональные и гуманитарные связи независимо от политической конъюнктуры, отметил спецпредставитель президента РФ",
+      "recap_neutral": "Представители культуры должны сохранять профессиональные и гуманитарные связи независимо от политической конъюнктуры, отметил спецпредставитель президента РФ",
+      "main_idea": "Швыдкой: культурный диалог России и США нужно продолжать вопреки разногласиям",
       "tags": [
         "politics",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 00:06:21 +0300",
-      "url": "https://tass.ru/politika/27656173",
+      "published_at": "Fri, 05 Jun 2026 01:47:28 +0300",
+      "url": "https://tass.ru/kultura/27657083",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Лавров: полная нормализация отношений с США должна включать в себя присутствие посла",
-      "title_neutral": "Лавров: полная нормализация отношений с США должна включать в себя присутствие посла",
+      "title_original": "Режим ракетной опасности введен в Пензенской области",
+      "title_neutral": "Режим ракетной опасности введен в Пензенской области",
       "excerpt": "",
-      "recap_neutral": "Лавров: полная нормализация отношений с США должна включать в себя присутствие посла",
-      "main_idea": "Лавров: полная нормализация отношений с США должна включать в себя присутствие посла",
+      "recap_neutral": "Режим ракетной опасности введен в Пензенской области",
+      "main_idea": "Режим ракетной опасности введен в Пензенской области",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 00:06:01 +0300",
-      "url": "https://tass.ru/politika/27656165",
+      "published_at": "Fri, 05 Jun 2026 01:47:28 +0300",
+      "url": "https://tass.ru/proisshestviya/27656985",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Трамп отрицает, что санкции США направлены на ускорение коллапса Кубы",
-      "title_neutral": "Трамп отрицает, что санкции США направлены на ускорение коллапса Кубы",
-      "excerpt": "",
-      "recap_neutral": "Трамп отрицает, что санкции США направлены на ускорение коллапса Кубы",
-      "main_idea": "Трамп отрицает, что санкции США направлены на ускорение коллапса Кубы",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 00:05:33 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27656115",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Марафон зеленых дел\" начнется в День эколога и продлится до Дня России",
-      "title_neutral": "\"Марафон зеленых дел\" начнется в День эколога и продлится до Дня России",
-      "excerpt": "Мероприятие объединит федеральные и региональные экологические инициативы, а также станет частью программы общественной поддержки национального проекта \"Экологическое благополучие\" #ЗеленаяСмена",
-      "recap_neutral": "Мероприятие объединит федеральные и региональные экологические инициативы, а также станет частью программы общественной поддержки национального проекта \"Экологическое благополучие\" #ЗеленаяСмена",
-      "main_idea": "\"Марафон зеленых дел\" начнется в День эколога и продлится до Дня России",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 00:05:28 +0300",
-      "url": "https://tass.ru/obschestvo/27655853",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лавров: Россия ожидает приезда глав всех стран АСЕАН на саммит в Казани",
-      "title_neutral": "Лавров: Россия ожидает приезда глав всех стран АСЕАН на саммит в Казани",
-      "excerpt": "",
-      "recap_neutral": "Лавров: Россия ожидает приезда глав всех стран АСЕАН на саммит в Казани",
-      "main_idea": "Лавров: Россия ожидает приезда глав всех стран АСЕАН на саммит в Казани",
+      "title_original": "Euronews: ЕС готовит план лишения годных для фронта украинцев временной защиты",
+      "title_neutral": "Euronews: ЕС готовит план лишения годных для фронта украинцев временной защиты",
+      "excerpt": "Официально эта тема не значилась на повестке дня встречи, отметил телеканал",
+      "recap_neutral": "Официально эта тема не значилась на повестке дня встречи, отметил телеканал",
+      "main_idea": "Euronews: ЕС готовит план лишения годных для фронта украинцев временной защиты",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 00:05:25 +0300",
-      "url": "https://tass.ru/politika/27656121",
+      "published_at": "Fri, 05 Jun 2026 01:44:13 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27657063",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В России усилили меры профилактики уклонения от службы в армии",
-      "title_neutral": "В России усилили меры профилактики уклонения от службы в армии",
-      "excerpt": "Представители органов власти смогут проводить с нарушителями беседы, объявлять предостережения, а также ставить на профилактический учет",
-      "recap_neutral": "Представители органов власти смогут проводить с нарушителями беседы, объявлять предостережения, а также ставить на профилактический учет",
-      "main_idea": "В России усилили меры профилактики уклонения от службы в армии",
+      "title_original": "Zeit: Германия уже несколько недель активно готовится к переговорам с Россией",
+      "title_neutral": "Zeit: Германия уже несколько недель активно готовится к переговорам с Россией",
+      "excerpt": "По информации издания, сейчас обсуждается, в каком именно формате могут пройти возможные контакты с РФ",
+      "recap_neutral": "По информации издания, сейчас обсуждается, в каком именно формате могут пройти возможные контакты с РФ",
+      "main_idea": "Zeit: Германия уже несколько недель активно готовится к переговорам с Россией",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 00:04:30 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27655849",
+      "published_at": "Fri, 05 Jun 2026 01:43:44 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27657031",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Воронежской области ввели ракетную опасность",
+      "title_neutral": "В Воронежской области ввели ракетную опасность",
+      "excerpt": "",
+      "recap_neutral": "В Воронежской области ввели ракетную опасность",
+      "main_idea": "В Воронежской области ввели ракетную опасность",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 01:40:57 +0300",
+      "url": "https://tass.ru/proisshestviya/27657053",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Временные ограничения введены в аэропортах Бугульмы, Самары и Саратова",
+      "title_neutral": "Временные ограничения введены в аэропортах Бугульмы, Самары и Саратова",
+      "excerpt": "",
+      "recap_neutral": "Временные ограничения введены в аэропортах Бугульмы, Самары и Саратова",
+      "main_idea": "Временные ограничения введены в аэропортах Бугульмы, Самары и Саратова",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 01:40:49 +0300",
+      "url": "https://tass.ru/ekonomika/27657047",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Организатор премиальных путешествий Аташян возместила ущерб потерпевшим блогерам",
+      "title_neutral": "Организатор премиальных путешествий Аташян возместила ущерб потерпевшим блогерам",
+      "excerpt": "",
+      "recap_neutral": "Организатор премиальных путешествий Аташян возместила ущерб потерпевшим блогерам",
+      "main_idea": "Организатор премиальных путешествий Аташян возместила ущерб потерпевшим блогерам",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 01:37:44 +0300",
+      "url": "https://tass.ru/proisshestviya/27657025",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Липецкой области ввели ракетную опасность",
+      "title_neutral": "В Липецкой области ввели ракетную опасность",
+      "excerpt": "Об этом сообщил глава региона Игорь Артамонов",
+      "recap_neutral": "Об этом сообщил глава региона Игорь Артамонов",
+      "main_idea": "В Липецкой области ввели ракетную опасность",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 01:33:54 +0300",
+      "url": "https://tass.ru/proisshestviya/27657021",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Сьерра-Леоне назвали стратегически важными отношения с Россией",
+      "title_neutral": "В Сьерра-Леоне назвали стратегически важными отношения с Россией",
+      "excerpt": "Москва играет ключевую роль в технологическом развитии республики, отметил министр горнодобывающей промышленности и минеральных ресурсов африканской страны Джулиус Маттай",
+      "recap_neutral": "Москва играет ключевую роль в технологическом развитии республики, отметил министр горнодобывающей промышленности и минеральных ресурсов африканской страны Джулиус Маттай",
+      "main_idea": "В Сьерра-Леоне назвали стратегически важными отношения с Россией",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 01:31:54 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27656949",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Оверчук ожидает ратификацию соглашений ЕАЭС о ЗСТ с Индонезией и ОАЭ в 2026 году",
+      "title_neutral": "Оверчук ожидает ратификацию соглашений ЕАЭС о ЗСТ с Индонезией и ОАЭ в 2026 году",
+      "excerpt": "Вице-премьер также сообщил, что возможность предметных переговоров о зонах свободной торговли со странами Южноамериканского общего рынка \"продумывалась и обсуждалась\"",
+      "recap_neutral": "Вице-премьер также сообщил, что возможность предметных переговоров о зонах свободной торговли со странами Южноамериканского общего рынка \"продумывалась и обсуждалась\"",
+      "main_idea": "Оверчук ожидает ратификацию соглашений ЕАЭС о ЗСТ с Индонезией и ОАЭ в 2026 году",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 01:30:55 +0300",
+      "url": "https://tass.ru/ekonomika/27656957",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МИД Кубы назвал санкции США против Диас-Канеля планом для оправдания агрессии",
+      "title_neutral": "МИД Кубы назвал санкции США против Диас-Канеля планом для оправдания агрессии",
+      "excerpt": "Министр иностранных дел республики Бруно Родригес Паррилья подчеркнул, что каждое действие Вашингтона, направленное на создание сценария конфликта, \"обречено на провал\"",
+      "recap_neutral": "Министр иностранных дел республики Бруно Родригес Паррилья подчеркнул, что каждое действие Вашингтона, направленное на создание сценария конфликта, \"обречено на провал\"",
+      "main_idea": "МИД Кубы назвал санкции США против Диас-Канеля планом для оправдания агрессии",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 01:30:21 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27656933",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Пензенской области ввели план \"Ковер\"",
+      "title_neutral": "В Пензенской области ввели план \"Ковер\"",
+      "excerpt": "В регионе действуют ограничения на прием и выпуск самолетов",
+      "recap_neutral": "В регионе действуют ограничения на прием и выпуск самолетов",
+      "main_idea": "В Пензенской области ввели план \"Ковер\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 01:30:10 +0300",
+      "url": "https://tass.ru/ekonomika/27656943",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На Камчатке в ДТП с пассажирским автобусом пострадали два человека",
+      "title_neutral": "На Камчатке в ДТП с пассажирским автобусом пострадали два человека",
+      "excerpt": "Им оказали медицинскую помощь",
+      "recap_neutral": "Им оказали медицинскую помощь",
+      "main_idea": "На Камчатке в ДТП с пассажирским автобусом пострадали два человека",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 01:29:21 +0300",
+      "url": "https://tass.ru/proisshestviya/27656939",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
