@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T19:21:08.917094+00:00",
+  "last_updated": "2026-06-04T21:10:20.879034+00:00",
   "items": [
     {
       "title_original": "They’re made out of weights",
@@ -88,6 +88,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "JLink JTAG Access on the Pinecil",
+      "title_neutral": "JLink JTAG Access on the Pinecil",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "JLink JTAG Access on the Pinecil",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 02 Jun 2026 19:30:44 +0000",
+      "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site",
       "title_neutral": "‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site",
       "excerpt": "People from town of potential site for US citizens exposed to Ebola say it puts them at risk in country with no known cases People from a town in central Kenya where the US wants to set up an Ebola quarantine facility for its citizens have strongly criticised the plan, saying they fear it will expo…",
@@ -100,38 +115,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "U.S. Army Corps of Engineers Bay Model",
-      "title_neutral": "U.S. Army Corps of Engineers Bay Model",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "U.S. Army Corps of Engineers Bay Model",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 02 Jun 2026 17:50:00 +0000",
-      "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "3D-printed book turns its own G-code into raised lettering",
-      "title_neutral": "3D-printed book turns its own G-code into raised lettering",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "3D-printed book turns its own G-code into raised lettering",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Tue, 02 Jun 2026 14:15:15 +0000",
-      "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -152,243 +135,181 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Песков назвал строительство АЭС в Узбекистане образцовым примером сотрудничества",
-      "title_neutral": "Песков назвал строительство АЭС в Узбекистане образцовым примером сотрудничества",
-      "excerpt": "",
-      "recap_neutral": "Песков назвал строительство АЭС в Узбекистане образцовым примером сотрудничества",
-      "main_idea": "Песков назвал строительство АЭС в Узбекистане образцовым примером сотрудничества",
+      "title_original": "Tennis Giants Tumble",
+      "title_neutral": "Tennis Giants Tumble",
+      "excerpt": "All the big names are out at the French Open. The result is a very confusing, and very exciting, tournament.",
+      "recap_neutral": "All the big names are out at the French Open",
+      "main_idea": "Tennis Giants Tumble",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 04 Jun 2026 22:17:44 +0300",
-      "url": "https://tass.ru/ekonomika/27654791",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Thu, 04 Jun 2026 21:01:09 +0000",
+      "url": "https://www.nytimes.com/2026/06/04/world/05int-theworld-tennis-french-open-satrapi-lebanon.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Песков ознакомился с открытым письмом Зеленского Путину",
-      "title_neutral": "Песков ознакомился с открытым письмом Зеленского Путину",
-      "excerpt": "",
-      "recap_neutral": "Песков ознакомился с открытым письмом Зеленского Путину",
-      "main_idea": "Песков ознакомился с открытым письмом Зеленского Путину",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 04 Jun 2026 22:17:36 +0300",
-      "url": "https://tass.ru/politika/27654783",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Смоленской области создадут пищевое производство с инвестициями в 3 млрд рублей",
-      "title_neutral": "В Смоленской области создадут пищевое производство с инвестициями в 3 млрд рублей",
-      "excerpt": "Новый проект позволит создать дополнительные рабочие места и нарастить объемы выпуска пищевой продукции местными производителями",
-      "recap_neutral": "Новый проект позволит создать дополнительные рабочие места и нарастить объемы выпуска пищевой продукции местными производителями",
-      "main_idea": "В Смоленской области создадут пищевое производство с инвестициями в 3 млрд рублей",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 04 Jun 2026 22:16:57 +0300",
-      "url": "https://tass.ru/ekonomika/27654599",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Песков: отношениям России и США не откатиться назад",
-      "title_neutral": "Песков: отношениям России и США не откатиться назад",
-      "excerpt": "",
-      "recap_neutral": "Песков: отношениям России и США не откатиться назад",
-      "main_idea": "Песков: отношениям России и США не откатиться назад",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 04 Jun 2026 22:15:07 +0300",
-      "url": "https://tass.ru/politika/27654749",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин уверен, что Мирзиёев выбрал самый подходящий вариант АЭС для Узбекистана",
-      "title_neutral": "Путин уверен, что Мирзиёев выбрал самый подходящий вариант АЭС для Узбекистана",
-      "excerpt": "Президент РФ поблагодарил своего гостя за то, что тот нашел время и приехал в Санкт-Петербург для участия в Петербургском международном экономическом форуме",
-      "recap_neutral": "Президент РФ поблагодарил своего гостя за то, что тот нашел время и приехал в Санкт-Петербург для участия в Петербургском международном экономическом форуме",
-      "main_idea": "Путин уверен, что Мирзиёев выбрал самый подходящий вариант АЭС для Узбекистана",
+      "title_original": "Mideast Live Updates: Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
+      "title_neutral": "Mideast Live Updates: Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
+      "excerpt": "Hezbollah’s leader said the Iran-backed group, which was not included in U.S.-brokered talks, said a truce worked out between Israel and the Lebanese government amounted to surrender for his group.",
+      "recap_neutral": "Hezbollah’s leader said the Iran-backed group, which was not included in U",
+      "main_idea": "Mideast Live Updates: Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
       "tags": [
         "politics",
-        "economy"
+        "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Thu, 04 Jun 2026 22:14:30 +0300",
-      "url": "https://tass.ru/ekonomika/27654731",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Thu, 04 Jun 2026 20:55:47 +0000",
+      "url": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Разгромила украинку. Мирра Андреева вышла в финал Roland Garros",
-      "title_neutral": "Разгромила украинку. Мирра Андреева вышла в финал Roland Garros",
-      "excerpt": "В решающем матче российская теннисистка встретится с полькой Майей Хвалиньской",
-      "recap_neutral": "В решающем матче российская теннисистка встретится с полькой Майей Хвалиньской",
-      "main_idea": "Разгромила украинку. Мирра Андреева вышла в финал Roland Garros",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 04 Jun 2026 22:12:01 +0300",
-      "url": "https://tass.ru/sport/27654687",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Смоленская область и \"Роскосмос\" договорились о создании космического центра компетенций",
-      "title_neutral": "Смоленская область и \"Роскосмос\" договорились о создании космического центра компетенций",
-      "excerpt": "Отдельное внимание стороны уделят развитию кадрового потенциала и подготовке специалистов для ракетно-космической отрасли",
-      "recap_neutral": "Отдельное внимание стороны уделят развитию кадрового потенциала и подготовке специалистов для ракетно-космической отрасли",
-      "main_idea": "Смоленская область и \"Роскосмос\" договорились о создании космического центра компетенций",
+      "title_original": "Nose Gear on Boeing 787-9 Dreamliner Collapses, Injuring Several Workers",
+      "title_neutral": "Nose Gear on Boeing 787-9 Dreamliner Collapses, Injuring Several Workers",
+      "excerpt": "The airline Lufthansa said the cause of the accident at Frankfurt Airport was under investigation. The plane can weigh 279 tons at takeoff.",
+      "recap_neutral": "The airline Lufthansa said the cause of the accident at Frankfurt Airport was under investigation",
+      "main_idea": "Nose Gear on Boeing 787-9 Dreamliner Collapses, Injuring Several Workers",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Thu, 04 Jun 2026 22:11:51 +0300",
-      "url": "https://tass.ru/ekonomika/27654451",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Thu, 04 Jun 2026 20:39:08 +0000",
+      "url": "https://www.nytimes.com/2026/06/04/world/europe/boeing-plane-nose-gear-collapse-frankfurt.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Ингушетии арестовали двоих мужчин после драки в селении Экажево",
-      "title_neutral": "В Ингушетии арестовали двоих мужчин после драки в селении Экажево",
-      "excerpt": "Пострадали трое человек",
-      "recap_neutral": "Пострадали трое человек",
-      "main_idea": "В Ингушетии арестовали двоих мужчин после драки в селении Экажево",
+      "title_original": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "title_neutral": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "excerpt": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+      "recap_neutral": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks",
+      "main_idea": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Thu, 04 Jun 2026 20:37:46 GMT",
+      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
+      "title_neutral": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 04 Jun 2026 20:32:18 +0000",
+      "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "title_neutral": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Thu, 04 Jun 2026 22:11:27 +0300",
-      "url": "https://tass.ru/proisshestviya/27654707",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Thu, 04 Jun 2026 20:11:20 +0000",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Мирзиёев заявил о больших намерениях по реализации совместных с РФ проектов в культуре",
-      "title_neutral": "Мирзиёев заявил о больших намерениях по реализации совместных с РФ проектов в культуре",
-      "excerpt": "",
-      "recap_neutral": "Мирзиёев заявил о больших намерениях по реализации совместных с РФ проектов в культуре",
-      "main_idea": "Мирзиёев заявил о больших намерениях по реализации совместных с РФ проектов в культуре",
+      "title_original": "Castor: CERN Advanced STORage Manager",
+      "title_neutral": "Castor: CERN Advanced STORage Manager",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Castor: CERN Advanced STORage Manager",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 04 Jun 2026 19:52:02 +0000",
+      "url": "https://castor.web.cern.ch/content/home.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Marjane Satrapi, the Author of ‘Persepolis,’ Dies at 56",
+      "title_neutral": "Marjane Satrapi, the Author of ‘Persepolis,’ Dies at 56",
+      "excerpt": "Her popular graphic novel series, published in the early 2000s, followed an Iranian girl through the Islamic Revolution and the Iran-Iraq War.",
+      "recap_neutral": "Her popular graphic novel series, published in the early 2000s, followed an Iranian girl through the Islamic Revolution and the Iran-Iraq War",
+      "main_idea": "Marjane Satrapi, the Author of ‘Persepolis,’ Dies at 56",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 04 Jun 2026 19:51:08 +0000",
+      "url": "https://www.nytimes.com/2026/06/04/world/middleeast/marjane-satrapi-dead.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Colombia’s Yellow World Cup Jersey, Once a Symbol of Unity, Becomes a Political Statement",
+      "title_neutral": "Colombia’s Yellow World Cup Jersey, Once a Symbol of Unity, Becomes a Political Statement",
+      "excerpt": "A presidential candidate endorsed by President Trump has been accused by some Colombians of co-opting their beloved national team’s yellow soccer jersey.",
+      "recap_neutral": "A presidential candidate endorsed by President Trump has been accused by some Colombians of co-opting their beloved national team’s yellow soccer jersey",
+      "main_idea": "Colombia’s Yellow World Cup Jersey, Once a Symbol of Unity, Becomes a Political Statement",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 04 Jun 2026 19:42:20 +0000",
+      "url": "https://www.nytimes.com/2026/06/04/world/americas/colombia-world-cup-jersey-politics.html",
+      "lang": "en",
+      "bias_score": 49,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Meta's ships facial recognition on smart glasses",
+      "title_neutral": "Meta's ships facial recognition on smart glasses",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Meta's ships facial recognition on smart glasses",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 04 Jun 2026 19:36:48 +0000",
+      "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "John Bolton expected to plead guilty in classified documents case, sources confirm",
+      "title_neutral": "John Bolton expected to plead guilty in classified documents case, sources confirm",
+      "excerpt": "Trump's former advisor turned critic had reached a deal with prosecutors, two people said.",
+      "recap_neutral": "Trump's former advisor turned critic had reached a deal with prosecutors, two people said",
+      "main_idea": "John Bolton expected to plead guilty in classified documents case, sources confirm",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Thu, 04 Jun 2026 22:10:16 +0300",
-      "url": "https://tass.ru/ekonomika/27654701",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Песков: если Зеленский хочет встретится с Путиным, он может приехать в Москву",
-      "title_neutral": "Песков: если Зеленский хочет встретится с Путиным, он может приехать в Москву",
-      "excerpt": "",
-      "recap_neutral": "Песков: если Зеленский хочет встретится с Путиным, он может приехать в Москву",
-      "main_idea": "Песков: если Зеленский хочет встретится с Путиным, он может приехать в Москву",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 04 Jun 2026 22:08:17 +0300",
-      "url": "https://tass.ru/politika/27654677",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Кремле видели письмо Зеленского",
-      "title_neutral": "В Кремле видели письмо Зеленского",
-      "excerpt": "",
-      "recap_neutral": "В Кремле видели письмо Зеленского",
-      "main_idea": "В Кремле видели письмо Зеленского",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 04 Jun 2026 22:07:56 +0300",
-      "url": "https://tass.ru/politika/27654669",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Песков: Кремль никогда не идеализировал статус США",
-      "title_neutral": "Песков: Кремль никогда не идеализировал статус США",
-      "excerpt": "",
-      "recap_neutral": "Песков: Кремль никогда не идеализировал статус США",
-      "main_idea": "Песков: Кремль никогда не идеализировал статус США",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 04 Jun 2026 22:07:46 +0300",
-      "url": "https://tass.ru/politika/27654659",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Вологодская область и Киргизия будут сотрудничать в ЛПК и гуманитарной сфере",
-      "title_neutral": "Вологодская область и Киргизия будут сотрудничать в ЛПК и гуманитарной сфере",
-      "excerpt": "Одно из приоритетных направлений работы - наращивание экспорта вологодской лесопромышленной продукции",
-      "recap_neutral": "Одно из приоритетных направлений работы - наращивание экспорта вологодской лесопромышленной продукции",
-      "main_idea": "Вологодская область и Киргизия будут сотрудничать в ЛПК и гуманитарной сфере",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 04 Jun 2026 22:07:16 +0300",
-      "url": "https://tass.ru/ekonomika/27654517",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мирзиёев ожидает рост товарооборота между РФ и Узбекистаном по итогам года",
-      "title_neutral": "Мирзиёев ожидает рост товарооборота между РФ и Узбекистаном по итогам года",
-      "excerpt": "",
-      "recap_neutral": "Мирзиёев ожидает рост товарооборота между РФ и Узбекистаном по итогам года",
-      "main_idea": "Мирзиёев ожидает рост товарооборота между РФ и Узбекистаном по итогам года",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 04 Jun 2026 22:07:10 +0300",
-      "url": "https://tass.ru/ekonomika/27654617",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мирзиёев: Узбекистан намерен не останавливаться в совместных с РФ проектах в энергетике",
-      "title_neutral": "Мирзиёев: Узбекистан намерен не останавливаться в совместных с РФ проектах в энергетике",
-      "excerpt": "",
-      "recap_neutral": "Мирзиёев: Узбекистан намерен не останавливаться в совместных с РФ проектах в энергетике",
-      "main_idea": "Мирзиёев: Узбекистан намерен не останавливаться в совместных с РФ проектах в энергетике",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 04 Jun 2026 22:04:37 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27654581",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Thu, 04 Jun 2026 19:28:06 GMT",
+      "url": "https://www.bbc.com/news/articles/c2e2e71xyjzo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -410,42 +331,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Mideast Live Updates: Israel and Hezbollah Trade Strikes, Leaving New Cease-Fire in Doubt",
-      "title_neutral": "Mideast Live Updates: Israel and Hezbollah Trade Strikes, Leaving New Cease-Fire in Doubt",
-      "excerpt": "Hezbollah’s leader said the Iran-backed group, which was not included in U.S.-brokered talks, had rejected a deal worked out between Israel and the Lebanese government.",
-      "recap_neutral": "Hezbollah’s leader said the Iran-backed group, which was not included in U",
-      "main_idea": "Mideast Live Updates: Israel and Hezbollah Trade Strikes, Leaving New Cease-Fire in Doubt",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 04 Jun 2026 19:11:04 +0000",
-      "url": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Mistrust Spreads With the Ebola Virus in Congo",
-      "title_neutral": "Mistrust Spreads With the Ebola Virus in Congo",
-      "excerpt": "In a remote mining town at the center of the Democratic Republic of Congo’s Ebola outbreak, grief and mistrust are complicating efforts to stop the virus. Health workers are trying to treat the ill and bury the dead, but some residents are still in denial that the disease is even real.",
-      "recap_neutral": "In a remote mining town at the center of the Democratic Republic of Congo’s Ebola outbreak, grief and mistrust are complicating efforts to stop the virus",
-      "main_idea": "Mistrust Spreads With the Ebola Virus in Congo",
-      "tags": [
-        "health"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 04 Jun 2026 19:05:57 +0000",
-      "url": "https://www.nytimes.com/video/world/africa/100000010942478/ebola-congo-mistrust-grief.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Why is this teen fashion brand closing its fitting rooms?",
       "title_neutral": "Why is this teen fashion brand closing its fitting rooms?",
       "excerpt": "Brandy Melville's move has caused uproar among some young women who frequent its stores, with one calling it a \"devastating news\".",
@@ -458,21 +343,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "American Wealth, Sliced Up",
-      "title_neutral": "American Wealth, Sliced Up",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "American Wealth, Sliced Up",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 04 Jun 2026 18:09:39 +0000",
-      "url": "https://kottke.org/26/05/american-wealth-sliced-up",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -504,21 +374,6 @@
       "source": "BBC World",
       "published_at": "Thu, 04 Jun 2026 18:01:54 GMT",
       "url": "https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "title_neutral": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "excerpt": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
-      "recap_neutral": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks",
-      "main_idea": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Thu, 04 Jun 2026 17:54:06 GMT",
-      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -559,23 +414,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "John Bolton expected to plead guilty in classified documents case, sources confirm",
-      "title_neutral": "John Bolton expected to plead guilty in classified documents case, sources confirm",
-      "excerpt": "Trump's former advisor turned critic had reached a deal with prosecutors, two people said.",
-      "recap_neutral": "Trump's former advisor turned critic had reached a deal with prosecutors, two people said",
-      "main_idea": "John Bolton expected to plead guilty in classified documents case, sources confirm",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 04 Jun 2026 17:42:57 GMT",
-      "url": "https://www.bbc.com/news/articles/c2e2e71xyjzo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
       "title_neutral": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
       "excerpt": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to sanctuaries in Spain or across US Canada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales , ending a saga that has captivated the public and angered animal rights groups. Th…",
@@ -590,38 +428,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The desperation of NYTimes",
-      "title_neutral": "The desperation of NYTimes",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The desperation of NYTimes",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 04 Jun 2026 17:39:13 +0000",
-      "url": "https://rozumem.xyz/posts/16",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Marjane Satrapi, the Author of ‘Persepolis,’ Dies at 56",
-      "title_neutral": "Marjane Satrapi, the Author of ‘Persepolis,’ Dies at 56",
-      "excerpt": "Her popular graphic novel series, published in the early 2000s, followed an Iranian girl through the Islamic Revolution and the Iran-Iraq War.",
-      "recap_neutral": "Her popular graphic novel series, published in the early 2000s, followed an Iranian girl through the Islamic Revolution and the Iran-Iraq War",
-      "main_idea": "Marjane Satrapi, the Author of ‘Persepolis,’ Dies at 56",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 04 Jun 2026 17:04:56 +0000",
-      "url": "https://www.nytimes.com/2026/06/04/world/middleeast/marjane-satrapi-dead.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -672,6 +478,24 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Weakened public health powers raise outbreak risks",
+      "title_neutral": "Weakened public health powers raise outbreak risks",
+      "excerpt": "Some jurisdictions have weakened their public health authorities in response to criticism of lockdowns, school closures, mask mandates, vaccine requirements and other COVID-era restrictions.",
+      "recap_neutral": "Some jurisdictions have weakened their public health authorities in response to criticism of lockdowns, school closures, mask mandates, vaccine requirements and other COVID-era restrictions",
+      "main_idea": "Weakened public health powers raise outbreak risks",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "NPR",
+      "published_at": "Thu, 04 Jun 2026 16:36:34 -0400",
+      "url": "https://www.npr.org/2026/06/04/nx-s1-5846943/public-health-mandates-limits",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Marilyn Monroe auction features star's make-up and gowns on 100th birthday",
       "title_neutral": "Marilyn Monroe auction features star's make-up and gowns on 100th birthday",
       "excerpt": "The auction has already brought in thousands in bids and includes intimate items from her life.",
@@ -687,21 +511,39 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Lebanon’s latest cease-fire shows little sign of taking hold.",
-      "title_neutral": "Lebanon’s latest cease-fire shows little sign of taking hold.",
-      "excerpt": "The U.S.-brokered deal depends on Hezbollah halting its attacks first. But the leader of the Iran-backed group rejected those terms, and Israel said that its offensive would continue.",
-      "recap_neutral": "The U",
-      "main_idea": "Lebanon’s latest cease-fire shows little sign of taking hold.",
+      "title_original": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "title_neutral": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "When AI Builds Itself: Our progress toward recursive self-improvement",
       "tags": [
         "conflict",
         "tech"
       ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 04 Jun 2026 16:13:27 +0000",
-      "url": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon/lebanon-ceasefire-israel-strikes",
+      "source": "Hacker News",
+      "published_at": "Thu, 04 Jun 2026 16:20:17 +0000",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "NTSB says United jet was too slow and too low in Newark landing accident",
+      "title_neutral": "NTSB says United jet was too slow and too low in Newark landing accident",
+      "excerpt": "Federal investigators say the captain flying the United 767 from Italy was too slow and too low before landing last month at Newark, N.J. The jet struck a light pole, damaging a truck on the turnpike.",
+      "recap_neutral": "Federal investigators say the captain flying the United 767 from Italy was too slow and too low before landing last month at Newark, N",
+      "main_idea": "NTSB says United jet was too slow and too low in Newark landing accident",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Thu, 04 Jun 2026 16:10:47 -0400",
+      "url": "https://www.npr.org/2026/06/04/nx-s1-5846909/ntsb-united-767-landing-accident-newark",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -734,6 +576,21 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "New York City reshapes mass transit system to handle World Cup, NBA finals crowds",
+      "title_neutral": "New York City reshapes mass transit system to handle World Cup, NBA finals crowds",
+      "excerpt": "New York transit officials are preparing to handle up to 100,000 extra travelers a day as fans arrive in New York and New Jersey for FIFA World Cup matches.",
+      "recap_neutral": "New York transit officials are preparing to handle up to 100,000 extra travelers a day as fans arrive in New York and New Jersey for FIFA World Cup matches",
+      "main_idea": "New York City reshapes mass transit system to handle World Cup, NBA finals crowds",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Thu, 04 Jun 2026 15:16:22 -0400",
+      "url": "https://www.npr.org/2026/06/04/nx-s1-5846797/new-york-city-transit-metro-mta-world-cup-nba-finals",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -884,23 +741,6 @@
       "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
       "lang": "en",
       "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Colombia’s Yellow World Cup Jersey, Once a Symbol of Unity, Becomes a Political Statement",
-      "title_neutral": "Colombia’s Yellow World Cup Jersey, Once a Symbol of Unity, Becomes a Political Statement",
-      "excerpt": "A presidential candidate endorsed by President Trump has been accused by some Colombians of co-opting their beloved national team’s yellow soccer jersey.",
-      "recap_neutral": "A presidential candidate endorsed by President Trump has been accused by some Colombians of co-opting their beloved national team’s yellow soccer jersey",
-      "main_idea": "Colombia’s Yellow World Cup Jersey, Once a Symbol of Unity, Becomes a Political Statement",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 04 Jun 2026 13:49:08 +0000",
-      "url": "https://www.nytimes.com/2026/06/04/world/americas/colombia-world-cup-jersey-politics.html",
-      "lang": "en",
-      "bias_score": 49,
       "left_right_index": -18,
       "confidence": "heuristic"
     },
@@ -1087,40 +927,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
-      "title_neutral": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
-      "tags": [
-        "conflict"
-      ],
-      "source": "Hacker News",
-      "published_at": "Thu, 04 Jun 2026 11:30:13 +0000",
-      "url": "https://cost.dev/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Bondi Beach shooting hero charged with assault",
-      "title_neutral": "Bondi Beach shooting hero charged with assault",
-      "excerpt": "Ahmed al Ahmed disarmed one of the alleged shooters during the deadly attack at a Jewish event.",
-      "recap_neutral": "Ahmed al Ahmed disarmed one of the alleged shooters during the deadly attack at a Jewish event",
-      "main_idea": "Bondi Beach shooting hero charged with assault",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 04 Jun 2026 11:22:18 GMT",
-      "url": "https://www.bbc.com/news/articles/cd7p11010g5o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Why Non-Human Identities Have Become a Critical Security Challenge",
       "title_neutral": "Why Non-Human Identities Have Become a Critical Security Challenge",
       "excerpt": "This article argues that non-human identities—including service accounts, API keys, automated workloads, and AI agents—have become one of the fastest-growing security risks in modern infrastructure. The author outlines a governance model centered on short-lived credentials, least-privilege access,…",
@@ -1203,21 +1009,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Gaussian Point Splatting",
-      "title_neutral": "Gaussian Point Splatting",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Gaussian Point Splatting",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 04 Jun 2026 10:48:13 +0000",
-      "url": "https://momentsingraphics.de/Siggraph2026.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Ireland, Seen as a Weak Link in Europe’s Defense, Is Trying to Bulk Up",
       "title_neutral": "Ireland, Seen as a Weak Link in Europe’s Defense, Is Trying to Bulk Up",
       "excerpt": "As concern rises in Europe over threats from an emboldened Russia, the Irish government says it’s working to plug gaps in its military, which reflect a tradition of neutrality.",
@@ -1232,6 +1023,23 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump says Eiffel Tower-like UFC structure may stay",
+      "title_neutral": "Trump says Eiffel Tower-like UFC structure may stay",
+      "excerpt": "President Donald Trump says he may choose to leave a purpose-built UFC arena standing at the White House because it is \"attractive to a lot of people\".",
+      "recap_neutral": "President Donald Trump says he may choose to leave a purpose-built UFC arena standing at the White House because it is \"attractive to a lot of people\"",
+      "main_idea": "Trump says Eiffel Tower-like UFC structure may stay",
+      "tags": [
+        "politics"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 04 Jun 2026 10:28:43 GMT",
+      "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/cx21778x81zo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1301,11 +1109,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Israel and Lebanon reach an agreement, but ceasefire stalls",
-      "title_neutral": "Israel and Lebanon reach an agreement, but ceasefire stalls",
+      "title_original": "Hezbollah rejects ceasefire deal agreed on by Israel and Lebanon",
+      "title_neutral": "Hezbollah rejects ceasefire deal agreed on by Israel and Lebanon",
       "excerpt": "The U.N. peacekeeping mission for Lebanon, known as UNIFIL, said one peacekeeper was killed and others were wounded when they came under mortar fire in southeastern Lebanon.",
       "recap_neutral": "The U",
-      "main_idea": "Israel and Lebanon reach an agreement, but ceasefire stalls",
+      "main_idea": "Hezbollah rejects ceasefire deal agreed on by Israel and Lebanon",
       "tags": [
         "tech"
       ],
@@ -1450,55 +1258,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "These World Cup games are most at-risk for dangerously hot weather",
-      "title_neutral": "These World Cup games are most at-risk for dangerously hot weather",
-      "excerpt": "Dangerously hot, humid weather is likely at many of the 2026 World Cup soccer venues. We crunched the numbers to see which matches are most at risk.",
-      "recap_neutral": "Dangerously hot, humid weather is likely at many of the 2026 World Cup soccer venues",
-      "main_idea": "These World Cup games are most at-risk for dangerously hot weather",
-      "tags": [
-        "climate"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 04 Jun 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/06/04/nx-s1-5742519/world-cup-fifa-hot-weather-risk-climate-miami",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "In photos: a preview of the Obama Presidential Center",
-      "title_neutral": "In photos: a preview of the Obama Presidential Center",
-      "excerpt": "The Obama Presidential Center opens later this month in Chicago. We take a look inside.",
-      "recap_neutral": "The Obama Presidential Center opens later this month in Chicago",
-      "main_idea": "In photos: a preview of the Obama Presidential Center",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 04 Jun 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/06/04/g-s1-125899/in-photos-a-preview-of-the-obama-presidential-center",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How having zero points in tennis — or 'love' — came to sound so sweet",
-      "title_neutral": "How having zero points in tennis — or 'love' — came to sound so sweet",
-      "excerpt": "There are theories that \"love\" in the tennis context has French, English or Dutch origins. But like many words, historians and language experts say it's hard to pin down the \"right\" answer.",
-      "recap_neutral": "There are theories that \"love\" in the tennis context has French, English or Dutch origins",
-      "main_idea": "How having zero points in tennis — or 'love' — came to sound so sweet",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Thu, 04 Jun 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/06/04/nx-s1-5843257/tennis-love-french-open",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "A $100,000 Employee for $100 a Month: A Painter's Case for AI Agents",
       "title_neutral": "A $100,000 Employee for $100 a Month: A Painter's Case for AI Agents",
       "excerpt": "A painter explains how an AI agent now handles 90% of the admin behind his art business for about $100 a month.",
@@ -1621,6 +1380,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Making Debian or Fedora persistent live images",
+      "title_neutral": "Making Debian or Fedora persistent live images",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Making Debian or Fedora persistent live images",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 01 Jun 2026 18:02:10 +0000",
+      "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Typhoon Jangmi threatens Japan as Europe swelters",
       "title_neutral": "Typhoon Jangmi threatens Japan as Europe swelters",
       "excerpt": "Powerful winds and rain expected in parts of Japan and Australia, while temperatures in Spain could hit 40C A powerful tropical storm is forecast to track near Okinawa, Japan, on Monday before moving towards the south-east of the country. Typhoon Jangmi (also known as Typhoon No 6) has formed withi…",
@@ -1640,18 +1414,247 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Sum-product, unit distances, and number fields",
-      "title_neutral": "Sum-product, unit distances, and number fields",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Sum-product, unit distances, and number fields",
+      "title_original": "Лавров: в диалоге с США по украинскому урегулированию наблюдается замкнутый круг",
+      "title_neutral": "Лавров: в диалоге с США по украинскому урегулированию наблюдается замкнутый круг",
+      "excerpt": "",
+      "recap_neutral": "Лавров: в диалоге с США по украинскому урегулированию наблюдается замкнутый круг",
+      "main_idea": "Лавров: в диалоге с США по украинскому урегулированию наблюдается замкнутый круг",
       "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 01 Jun 2026 05:54:27 +0000",
-      "url": "https://www.erdosproblems.com/forum/thread/blog:6",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 00:08:53 +0300",
+      "url": "https://tass.ru/politika/27656227",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: достижение целей СВО укрепит позиции РФ на международной арене",
+      "title_neutral": "Лавров: достижение целей СВО укрепит позиции РФ на международной арене",
+      "excerpt": "",
+      "recap_neutral": "Лавров: достижение целей СВО укрепит позиции РФ на международной арене",
+      "main_idea": "Лавров: достижение целей СВО укрепит позиции РФ на международной арене",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 00:08:45 +0300",
+      "url": "https://tass.ru/politika/27656211",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: Запад всегда вынашивал авантюру с подавлением, а еще лучше - расчленением России",
+      "title_neutral": "Лавров: Запад всегда вынашивал авантюру с подавлением, а еще лучше - расчленением России",
+      "excerpt": "",
+      "recap_neutral": "Лавров: Запад всегда вынашивал авантюру с подавлением, а еще лучше - расчленением России",
+      "main_idea": "Лавров: Запад всегда вынашивал авантюру с подавлением, а еще лучше - расчленением России",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 00:08:44 +0300",
+      "url": "https://tass.ru/politika/27656219",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: Кушнер и Уиткофф искренне заинтересованы в нормализации отношений с РФ",
+      "title_neutral": "Лавров: Кушнер и Уиткофф искренне заинтересованы в нормализации отношений с РФ",
+      "excerpt": "",
+      "recap_neutral": "Лавров: Кушнер и Уиткофф искренне заинтересованы в нормализации отношений с РФ",
+      "main_idea": "Лавров: Кушнер и Уиткофф искренне заинтересованы в нормализации отношений с РФ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 00:08:14 +0300",
+      "url": "https://tass.ru/politika/27656203",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Подмосковье автомобиль скорой попал в ДТП",
+      "title_neutral": "В Подмосковье автомобиль скорой попал в ДТП",
+      "excerpt": "",
+      "recap_neutral": "В Подмосковье автомобиль скорой попал в ДТП",
+      "main_idea": "В Подмосковье автомобиль скорой попал в ДТП",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 00:07:41 +0300",
+      "url": "https://tass.ru/proisshestviya/27656195",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: РФ отгрузила уже более 2,4 млн баррелей нефти Филиппинам",
+      "title_neutral": "Лавров: РФ отгрузила уже более 2,4 млн баррелей нефти Филиппинам",
+      "excerpt": "",
+      "recap_neutral": "Лавров: РФ отгрузила уже более 2,4 млн баррелей нефти Филиппинам",
+      "main_idea": "Лавров: РФ отгрузила уже более 2,4 млн баррелей нефти Филиппинам",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 00:07:24 +0300",
+      "url": "https://tass.ru/ekonomika/27656059",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: РФ не приемлет экспансии военных блоков в АТР",
+      "title_neutral": "Лавров: РФ не приемлет экспансии военных блоков в АТР",
+      "excerpt": "",
+      "recap_neutral": "Лавров: РФ не приемлет экспансии военных блоков в АТР",
+      "main_idea": "Лавров: РФ не приемлет экспансии военных блоков в АТР",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 00:06:34 +0300",
+      "url": "https://tass.ru/politika/27656155",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Таганроге объявили угрозу применения БПЛА",
+      "title_neutral": "В Таганроге объявили угрозу применения БПЛА",
+      "excerpt": "",
+      "recap_neutral": "В Таганроге объявили угрозу применения БПЛА",
+      "main_idea": "В Таганроге объявили угрозу применения БПЛА",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 00:06:29 +0300",
+      "url": "https://tass.ru/proisshestviya/27655991",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Сборная России по футболу в Волгограде проведет матч с командой Буркина-Фасо",
+      "title_neutral": "Сборная России по футболу в Волгограде проведет матч с командой Буркина-Фасо",
+      "excerpt": "Встреча станет для россиян второй на этом сборе",
+      "recap_neutral": "Встреча станет для россиян второй на этом сборе",
+      "main_idea": "Сборная России по футболу в Волгограде проведет матч с командой Буркина-Фасо",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 00:06:28 +0300",
+      "url": "https://tass.ru/sport/27656103",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: США оставили без реакции предложение снять санкции с парламентариев",
+      "title_neutral": "Лавров: США оставили без реакции предложение снять санкции с парламентариев",
+      "excerpt": "",
+      "recap_neutral": "Лавров: США оставили без реакции предложение снять санкции с парламентариев",
+      "main_idea": "Лавров: США оставили без реакции предложение снять санкции с парламентариев",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 00:06:21 +0300",
+      "url": "https://tass.ru/politika/27656173",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: полная нормализация отношений с США должна включать в себя присутствие посла",
+      "title_neutral": "Лавров: полная нормализация отношений с США должна включать в себя присутствие посла",
+      "excerpt": "",
+      "recap_neutral": "Лавров: полная нормализация отношений с США должна включать в себя присутствие посла",
+      "main_idea": "Лавров: полная нормализация отношений с США должна включать в себя присутствие посла",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 00:06:01 +0300",
+      "url": "https://tass.ru/politika/27656165",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп отрицает, что санкции США направлены на ускорение коллапса Кубы",
+      "title_neutral": "Трамп отрицает, что санкции США направлены на ускорение коллапса Кубы",
+      "excerpt": "",
+      "recap_neutral": "Трамп отрицает, что санкции США направлены на ускорение коллапса Кубы",
+      "main_idea": "Трамп отрицает, что санкции США направлены на ускорение коллапса Кубы",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 00:05:33 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27656115",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Марафон зеленых дел\" начнется в День эколога и продлится до Дня России",
+      "title_neutral": "\"Марафон зеленых дел\" начнется в День эколога и продлится до Дня России",
+      "excerpt": "Мероприятие объединит федеральные и региональные экологические инициативы, а также станет частью программы общественной поддержки национального проекта \"Экологическое благополучие\" #ЗеленаяСмена",
+      "recap_neutral": "Мероприятие объединит федеральные и региональные экологические инициативы, а также станет частью программы общественной поддержки национального проекта \"Экологическое благополучие\" #ЗеленаяСмена",
+      "main_idea": "\"Марафон зеленых дел\" начнется в День эколога и продлится до Дня России",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 00:05:28 +0300",
+      "url": "https://tass.ru/obschestvo/27655853",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: Россия ожидает приезда глав всех стран АСЕАН на саммит в Казани",
+      "title_neutral": "Лавров: Россия ожидает приезда глав всех стран АСЕАН на саммит в Казани",
+      "excerpt": "",
+      "recap_neutral": "Лавров: Россия ожидает приезда глав всех стран АСЕАН на саммит в Казани",
+      "main_idea": "Лавров: Россия ожидает приезда глав всех стран АСЕАН на саммит в Казани",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 00:05:25 +0300",
+      "url": "https://tass.ru/politika/27656121",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В России усилили меры профилактики уклонения от службы в армии",
+      "title_neutral": "В России усилили меры профилактики уклонения от службы в армии",
+      "excerpt": "Представители органов власти смогут проводить с нарушителями беседы, объявлять предостережения, а также ставить на профилактический учет",
+      "recap_neutral": "Представители органов власти смогут проводить с нарушителями беседы, объявлять предостережения, а также ставить на профилактический учет",
+      "main_idea": "В России усилили меры профилактики уклонения от службы в армии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 00:04:30 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27655849",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     }
   ]
