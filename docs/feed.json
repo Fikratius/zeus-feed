@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T22:52:04.534687+00:00",
+  "last_updated": "2026-06-05T00:02:04.375704+00:00",
   "items": [
     {
       "title_original": "Dead but deportable: US immigration judge signed order to eject teen murder victim",
@@ -73,6 +73,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "External Clock Generation on RTX 50 Series",
+      "title_neutral": "External Clock Generation on RTX 50 Series",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "External Clock Generation on RTX 50 Series",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 03 Jun 2026 03:35:54 +0000",
+      "url": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
       "title_neutral": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
       "excerpt": "Comments",
@@ -82,21 +97,6 @@
       "source": "Hacker News",
       "published_at": "Tue, 02 Jun 2026 20:00:54 +0000",
       "url": "https://tiki.li/blog/blqsort",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "JLink JTAG Access on the Pinecil",
-      "title_neutral": "JLink JTAG Access on the Pinecil",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "JLink JTAG Access on the Pinecil",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 02 Jun 2026 19:30:44 +0000",
-      "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -135,17 +135,17 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Mideast Live Updates: Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
-      "title_neutral": "Mideast Live Updates: Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
+      "title_original": "Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
+      "title_neutral": "Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
       "excerpt": "Hezbollah’s leader said the Iran-backed group, which was not included in U.S.-brokered talks, said a truce worked out between Israel and the Lebanese government amounted to surrender for his group.",
       "recap_neutral": "Hezbollah’s leader said the Iran-backed group, which was not included in U",
-      "main_idea": "Mideast Live Updates: Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
+      "main_idea": "Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
       "tags": [
         "politics",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Thu, 04 Jun 2026 22:08:37 +0000",
+      "published_at": "Thu, 04 Jun 2026 23:59:31 +0000",
       "url": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon",
       "lang": "en",
       "bias_score": 55,
@@ -153,20 +153,122 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
-      "title_neutral": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+      "title_original": "How Trump's White House ballroom plan has doubled in size and cost over a year",
+      "title_neutral": "How Trump's White House ballroom plan has doubled in size and cost over a year",
+      "excerpt": "BBC Verify examines how the biggest change to the White House in decades has transformed in the last year.",
+      "recap_neutral": "BBC Verify examines how the biggest change to the White House in decades has transformed in the last year",
+      "main_idea": "How Trump's White House ballroom plan has doubled in size and cost over a year",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Thu, 04 Jun 2026 23:53:19 GMT",
+      "url": "https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Zelensky Mixes Taunts and Peace Talks Offer in Letter to Putin",
+      "title_neutral": "Zelensky Mixes Taunts and Peace Talks Offer in Letter to Putin",
+      "excerpt": "“After 26 years in power, age is beginning to take its toll,” President Volodymyr Zelensky of Ukraine wrote of his Russian counterpart, bragging of a recent strike on St. Petersburg.",
+      "recap_neutral": "“After 26 years in power, age is beginning to take its toll,” President Volodymyr Zelensky of Ukraine wrote of his Russian counterpart, bragging of a recent strike on St",
+      "main_idea": "Zelensky Mixes Taunts and Peace Talks Offer in Letter to Putin",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 04 Jun 2026 23:34:45 +0000",
+      "url": "https://www.nytimes.com/2026/06/04/world/europe/zelensky-putin-letter.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "title_neutral": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "excerpt": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+      "recap_neutral": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran",
+      "main_idea": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 04 Jun 2026 23:32:35 GMT",
+      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Do transformers need three projections? Systematic study of QKV variants",
+      "title_neutral": "Do transformers need three projections? Systematic study of QKV variants",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+      "main_idea": "Do transformers need three projections? Systematic study of QKV variants",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 04 Jun 2026 23:11:56 +0000",
+      "url": "https://arxiv.org/abs/2606.04032",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Mangrove forests are healing after decades of human destruction",
+      "title_neutral": "Mangrove forests are healing after decades of human destruction",
+      "excerpt": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
+      "recap_neutral": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate",
+      "main_idea": "Mangrove forests are healing after decades of human destruction",
+      "tags": [
+        "climate"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 04 Jun 2026 23:11:15 GMT",
+      "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+      "title_neutral": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
       "tags": [
         "tech"
       ],
       "source": "Hacker News",
-      "published_at": "Thu, 04 Jun 2026 22:06:18 +0000",
-      "url": "https://github.com/schildep/verified-polygon-intersection",
+      "published_at": "Thu, 04 Jun 2026 23:01:40 +0000",
+      "url": "https://arxiv.org/abs/2604.24881",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Here's why election results in the second largest US city are so slow",
+      "title_neutral": "Here's why election results in the second largest US city are so slow",
+      "excerpt": "It could take weeks - or even a month - before we know who won elections in California and Los Angeles.",
+      "recap_neutral": "It could take weeks - or even a month - before we know who won elections in California and Los Angeles",
+      "main_idea": "Here's why election results in the second largest US city are so slow",
+      "tags": [
+        "politics"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 04 Jun 2026 22:20:24 GMT",
+      "url": "https://www.bbc.com/news/articles/c2020jrpxz3o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -219,25 +321,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "title_neutral": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "excerpt": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
-      "recap_neutral": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran",
-      "main_idea": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 04 Jun 2026 21:34:14 GMT",
-      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Queen bees emerge from special wax chambers",
       "title_neutral": "Queen bees emerge from special wax chambers",
       "excerpt": "Comments",
@@ -262,23 +345,6 @@
       "source": "NYTimes World",
       "published_at": "Thu, 04 Jun 2026 21:01:09 +0000",
       "url": "https://www.nytimes.com/2026/06/04/world/05int-theworld-tennis-french-open-satrapi-lebanon.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Nose Gear on Boeing 787-9 Dreamliner Collapses, Injuring Several Workers",
-      "title_neutral": "Nose Gear on Boeing 787-9 Dreamliner Collapses, Injuring Several Workers",
-      "excerpt": "The airline Lufthansa said the cause of the accident at Frankfurt Airport was under investigation. The plane can weigh 279 tons at takeoff.",
-      "recap_neutral": "The airline Lufthansa said the cause of the accident at Frankfurt Airport was under investigation",
-      "main_idea": "Nose Gear on Boeing 787-9 Dreamliner Collapses, Injuring Several Workers",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 04 Jun 2026 20:39:08 +0000",
-      "url": "https://www.nytimes.com/2026/06/04/world/europe/boeing-plane-nose-gear-collapse-frankfurt.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -413,6 +479,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "I wrote about George Santos. Then he made a violent threat and lied about it",
+      "title_neutral": "I wrote about George Santos. Then he made a violent threat and lied about it",
+      "excerpt": "NPR reported on new federal investigations examining the former Congressman's bets on the prediction market site Kalshi. Then he threatened the NPR reporter who broke the story.",
+      "recap_neutral": "NPR reported on new federal investigations examining the former Congressman's bets on the prediction market site Kalshi",
+      "main_idea": "I wrote about George Santos. Then he made a violent threat and lied about it",
+      "tags": [
+        "economy"
+      ],
+      "source": "NPR",
+      "published_at": "Thu, 04 Jun 2026 19:39:40 -0400",
+      "url": "https://www.npr.org/2026/06/04/nx-s1-5846966/george-santos-kalshi-threats",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "John Bolton expected to plead guilty in classified documents case, sources confirm",
       "title_neutral": "John Bolton expected to plead guilty in classified documents case, sources confirm",
       "excerpt": "Trump's former advisor turned critic had reached a deal with prosecutors, two people said.",
@@ -427,6 +510,24 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Republicans' sweeping election overhaul fails in the Senate",
+      "title_neutral": "Republicans' sweeping election overhaul fails in the Senate",
+      "excerpt": "The SAVE America Act, a far-reaching Republican election overhaul that President Trump said should be his congressional allies' top priority, has failed in the Senate.",
+      "recap_neutral": "The SAVE America Act, a far-reaching Republican election overhaul that President Trump said should be his congressional allies' top priority, has failed in the Senate",
+      "main_idea": "Republicans' sweeping election overhaul fails in the Senate",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Thu, 04 Jun 2026 19:19:56 -0400",
+      "url": "https://www.npr.org/2026/06/04/nx-s1-5751145/save-act-senate-vote-trump",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -479,23 +580,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: Hitoku Draft – Context aware local assistant",
-      "title_neutral": "Show HN: Hitoku Draft – Context aware local assistant",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Hitoku Draft – Context aware local assistant",
-      "tags": [
-        "conflict"
-      ],
-      "source": "Hacker News",
-      "published_at": "Thu, 04 Jun 2026 17:48:58 +0000",
-      "url": "https://hitoku.me/draft/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -927,23 +1011,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Heavy gunfire in Somali capital as row over election delay escalates",
-      "title_neutral": "Heavy gunfire in Somali capital as row over election delay escalates",
-      "excerpt": "The opposition has called for protests after the president's term in office was extended by a year.",
-      "recap_neutral": "The opposition has called for protests after the president's term in office was extended by a year",
-      "main_idea": "Heavy gunfire in Somali capital as row over election delay escalates",
-      "tags": [
-        "politics"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 04 Jun 2026 12:40:22 GMT",
-      "url": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "North Korea unveils a new plant to produce fuel for nuclear weapons",
       "title_neutral": "North Korea unveils a new plant to produce fuel for nuclear weapons",
       "excerpt": "State media photos on the place showed it is likely a plant to produce weapons-grade uranium.",
@@ -1008,24 +1075,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ukraine accused of killing four in occupied Crimea",
-      "title_neutral": "Ukraine accused of killing four in occupied Crimea",
-      "excerpt": "At least 10 people have been injured in the attacks, according to Russian-backed officials.",
-      "recap_neutral": "At least 10 people have been injured in the attacks, according to Russian-backed officials",
-      "main_idea": "Ukraine accused of killing four in occupied Crimea",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 04 Jun 2026 11:55:20 GMT",
-      "url": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1197,23 +1246,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
-      "title_neutral": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
-      "excerpt": "Cleaners found Dawa Sherpa crawling towards Base Camp six days after he went missing at a higher altitude.",
-      "recap_neutral": "Cleaners found Dawa Sherpa crawling towards Base Camp six days after he went missing at a higher altitude",
-      "main_idea": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 04 Jun 2026 10:18:49 GMT",
-      "url": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "What will it take to get a vaccine for the Ebola strain driving the current outbreak?",
       "title_neutral": "What will it take to get a vaccine for the Ebola strain driving the current outbreak?",
       "excerpt": "There is an effective vaccine for Ebola — but not for the variety spreading rapidly in the Democratic Republic of Congo. Trials are going on for several candidates. How long will it take?",
@@ -1263,24 +1295,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Senate to start debate on ICE funding. And, Israel and Lebanon agree to ceasefire",
-      "title_neutral": "Senate to start debate on ICE funding. And, Israel and Lebanon agree to ceasefire",
-      "excerpt": "Senate Republicans are moving forward on a bill to fund immigration enforcement through the end of Trump's term. And, Israel and Lebanon have agreed to a ceasefire that could aid in ending the war in Iran.",
-      "recap_neutral": "Senate Republicans are moving forward on a bill to fund immigration enforcement through the end of Trump's term",
-      "main_idea": "Senate to start debate on ICE funding. And, Israel and Lebanon agree to ceasefire",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 04 Jun 2026 08:03:42 -0400",
-      "url": "https://www.npr.org/2026/06/04/g-s1-125937/up-first-newsletter-ice-funding-package-trump-netanyahu-federal-workers-world-cup-weather",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "How Agoda Scaled Its Feature Store 50X with ScyllaDB",
       "title_neutral": "How Agoda Scaled Its Feature Store 50X with ScyllaDB",
       "excerpt": "After Agoda’s feature store traffic surged 50x, the engineering team faced severe latency spikes and cache stampedes threatening production stability. By benchmarking ScyllaDB under cold-cache conditions, optimizing SSTable summaries, experimenting with compaction strategies, improving caching, and…",
@@ -1310,23 +1324,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The $13 billion carrier with a plumbing problem is home. Now come the costly repairs",
-      "title_neutral": "The $13 billion carrier with a plumbing problem is home. Now come the costly repairs",
-      "excerpt": "With 4,600 sailors finally home, USS Gerald R. Ford will finally receive some much needed repairs and an upgrade to its beleaguered sewage system.",
-      "recap_neutral": "With 4,600 sailors finally home, USS Gerald R",
-      "main_idea": "The $13 billion carrier with a plumbing problem is home. Now come the costly repairs",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 04 Jun 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/06/04/nx-s1-5844715/uss-ford-plumbing-repairs",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1422,237 +1419,245 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Временные ограничения ввели в аэропорту Нижнекамска",
-      "title_neutral": "Временные ограничения ввели в аэропорту Нижнекамска",
-      "excerpt": "",
-      "recap_neutral": "Временные ограничения ввели в аэропорту Нижнекамска",
-      "main_idea": "Временные ограничения ввели в аэропорту Нижнекамска",
+      "title_original": "Эксперт Кучава предупредил о мошеннической схеме на сервисах поиска попутчиков",
+      "title_neutral": "Эксперт Кучава предупредил о мошеннической схеме на сервисах поиска попутчиков",
+      "excerpt": "Эксперт \"Народного фронта. Аналитика\" сообщил, что злоумышленники под предлогом бронирования места направляют пользователям фишинговые ссылки для кражи персональных данных",
+      "recap_neutral": "Эксперт \"Народного фронта",
+      "main_idea": "Эксперт Кучава предупредил о мошеннической схеме на сервисах поиска попутчиков",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 01:50:49 +0300",
-      "url": "https://tass.ru/ekonomika/27657097",
+      "published_at": "Fri, 05 Jun 2026 02:54:18 +0300",
+      "url": "https://tass.ru/obschestvo/27657367",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Мэр Большого Манчестера намерен побороться за пост лидера Лейбористской партии",
-      "title_neutral": "Мэр Большого Манчестера намерен побороться за пост лидера Лейбористской партии",
-      "excerpt": "Энди Бернэм впервые публично заявил свои амбиции стать премьер-министром Великобритании",
-      "recap_neutral": "Энди Бернэм впервые публично заявил свои амбиции стать премьер-министром Великобритании",
-      "main_idea": "Мэр Большого Манчестера намерен побороться за пост лидера Лейбористской партии",
+      "title_original": "Центр им. Кеннеди - Трампа вернется к прежнему названию",
+      "title_neutral": "Центр им. Кеннеди - Трампа вернется к прежнему названию",
+      "excerpt": "",
+      "recap_neutral": "Центр им. Кеннеди - Трампа вернется к прежнему названию",
+      "main_idea": "Центр им. Кеннеди - Трампа вернется к прежнему названию",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 02:52:58 +0300",
+      "url": "https://tass.ru/obschestvo/27657359",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "CNN: ремонт авианосца Gerald R. Ford может идти год",
+      "title_neutral": "CNN: ремонт авианосца Gerald R. Ford может идти год",
+      "excerpt": "Во время военной операции против Ирана судно пострадало сильнее, чем признавалось ранее, сообщила телекомпания",
+      "recap_neutral": "Во время военной операции против Ирана судно пострадало сильнее, чем признавалось ранее, сообщила телекомпания",
+      "main_idea": "CNN: ремонт авианосца Gerald R. Ford может идти год",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 01:48:00 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27657057",
+      "published_at": "Fri, 05 Jun 2026 02:52:55 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27657349",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Швыдкой: культурный диалог России и США нужно продолжать вопреки разногласиям",
-      "title_neutral": "Швыдкой: культурный диалог России и США нужно продолжать вопреки разногласиям",
-      "excerpt": "Представители культуры должны сохранять профессиональные и гуманитарные связи независимо от политической конъюнктуры, отметил спецпредставитель президента РФ",
-      "recap_neutral": "Представители культуры должны сохранять профессиональные и гуманитарные связи независимо от политической конъюнктуры, отметил спецпредставитель президента РФ",
-      "main_idea": "Швыдкой: культурный диалог России и США нужно продолжать вопреки разногласиям",
+      "title_original": "ТАСС: морпехи ВСУ не могут заткнуть дыры в обороне под Харьковом",
+      "title_neutral": "ТАСС: морпехи ВСУ не могут заткнуть дыры в обороне под Харьковом",
+      "excerpt": "В российских силовых структурах отметили, что личный состав украинских сил массово покидает позиции",
+      "recap_neutral": "В российских силовых структурах отметили, что личный состав украинских сил массово покидает позиции",
+      "main_idea": "ТАСС: морпехи ВСУ не могут заткнуть дыры в обороне под Харьковом",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 02:50:52 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27657341",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ОП предложили ввести в детских садах уроки эмпатии",
+      "title_neutral": "В ОП предложили ввести в детских садах уроки эмпатии",
+      "excerpt": "Это нужно, чтобы учить детей доброте, сопереживанию и поддерживать друг друга, заявил заместитель секретаря Общественной палаты Владислав Гриб",
+      "recap_neutral": "Это нужно, чтобы учить детей доброте, сопереживанию и поддерживать друг друга, заявил заместитель секретаря Общественной палаты Владислав Гриб",
+      "main_idea": "В ОП предложили ввести в детских садах уроки эмпатии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 02:46:40 +0300",
+      "url": "https://tass.ru/obschestvo/27657331",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Президент Кубы заявил, что новые санкции США направлены на эскалацию",
+      "title_neutral": "Президент Кубы заявил, что новые санкции США направлены на эскалацию",
+      "excerpt": "Мигель Диас-Канель отметил также, что такая \"политическая слепота усугубляет принудительные меры, направленные на причинение вреда кубинскому народу\"",
+      "recap_neutral": "Мигель Диас-Канель отметил также, что такая \"политическая слепота усугубляет принудительные меры, направленные на причинение вреда кубинскому народу\"",
+      "main_idea": "Президент Кубы заявил, что новые санкции США направлены на эскалацию",
       "tags": [
         "politics",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 01:47:28 +0300",
-      "url": "https://tass.ru/kultura/27657083",
+      "published_at": "Fri, 05 Jun 2026 02:43:06 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27657317",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Режим ракетной опасности введен в Пензенской области",
-      "title_neutral": "Режим ракетной опасности введен в Пензенской области",
+      "title_original": "Ограничения сняты в аэропорту Саратова",
+      "title_neutral": "Ограничения сняты в аэропорту Саратова",
       "excerpt": "",
-      "recap_neutral": "Режим ракетной опасности введен в Пензенской области",
-      "main_idea": "Режим ракетной опасности введен в Пензенской области",
+      "recap_neutral": "Ограничения сняты в аэропорту Саратова",
+      "main_idea": "Ограничения сняты в аэропорту Саратова",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 01:47:28 +0300",
-      "url": "https://tass.ru/proisshestviya/27656985",
+      "published_at": "Fri, 05 Jun 2026 02:38:41 +0300",
+      "url": "https://tass.ru/ekonomika/27657313",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Euronews: ЕС готовит план лишения годных для фронта украинцев временной защиты",
-      "title_neutral": "Euronews: ЕС готовит план лишения годных для фронта украинцев временной защиты",
-      "excerpt": "Официально эта тема не значилась на повестке дня встречи, отметил телеканал",
-      "recap_neutral": "Официально эта тема не значилась на повестке дня встречи, отметил телеканал",
-      "main_idea": "Euronews: ЕС готовит план лишения годных для фронта украинцев временной защиты",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 01:44:13 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27657063",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Zeit: Германия уже несколько недель активно готовится к переговорам с Россией",
-      "title_neutral": "Zeit: Германия уже несколько недель активно готовится к переговорам с Россией",
-      "excerpt": "По информации издания, сейчас обсуждается, в каком именно формате могут пройти возможные контакты с РФ",
-      "recap_neutral": "По информации издания, сейчас обсуждается, в каком именно формате могут пройти возможные контакты с РФ",
-      "main_idea": "Zeit: Германия уже несколько недель активно готовится к переговорам с Россией",
+      "title_original": "В ЛДПР предложили внедрить бесплатную психологическую поддержку по всей России",
+      "title_neutral": "В ЛДПР предложили внедрить бесплатную психологическую поддержку по всей России",
+      "excerpt": "Инициатива связана с ростом тревожности среди россиян, отметила депутат Мосгордумы Мария Воропаева",
+      "recap_neutral": "Инициатива связана с ростом тревожности среди россиян, отметила депутат Мосгордумы Мария Воропаева",
+      "main_idea": "В ЛДПР предложили внедрить бесплатную психологическую поддержку по всей России",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 01:43:44 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27657031",
+      "published_at": "Fri, 05 Jun 2026 02:36:23 +0300",
+      "url": "https://tass.ru/obschestvo/27657307",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Воронежской области ввели ракетную опасность",
-      "title_neutral": "В Воронежской области ввели ракетную опасность",
-      "excerpt": "",
-      "recap_neutral": "В Воронежской области ввели ракетную опасность",
-      "main_idea": "В Воронежской области ввели ракетную опасность",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 01:40:57 +0300",
-      "url": "https://tass.ru/proisshestviya/27657053",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Временные ограничения введены в аэропортах Бугульмы, Самары и Саратова",
-      "title_neutral": "Временные ограничения введены в аэропортах Бугульмы, Самары и Саратова",
-      "excerpt": "",
-      "recap_neutral": "Временные ограничения введены в аэропортах Бугульмы, Самары и Саратова",
-      "main_idea": "Временные ограничения введены в аэропортах Бугульмы, Самары и Саратова",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 01:40:49 +0300",
-      "url": "https://tass.ru/ekonomika/27657047",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Организатор премиальных путешествий Аташян возместила ущерб потерпевшим блогерам",
-      "title_neutral": "Организатор премиальных путешествий Аташян возместила ущерб потерпевшим блогерам",
-      "excerpt": "",
-      "recap_neutral": "Организатор премиальных путешествий Аташян возместила ущерб потерпевшим блогерам",
-      "main_idea": "Организатор премиальных путешествий Аташян возместила ущерб потерпевшим блогерам",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 01:37:44 +0300",
-      "url": "https://tass.ru/proisshestviya/27657025",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Липецкой области ввели ракетную опасность",
-      "title_neutral": "В Липецкой области ввели ракетную опасность",
-      "excerpt": "Об этом сообщил глава региона Игорь Артамонов",
-      "recap_neutral": "Об этом сообщил глава региона Игорь Артамонов",
-      "main_idea": "В Липецкой области ввели ракетную опасность",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 01:33:54 +0300",
-      "url": "https://tass.ru/proisshestviya/27657021",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Сьерра-Леоне назвали стратегически важными отношения с Россией",
-      "title_neutral": "В Сьерра-Леоне назвали стратегически важными отношения с Россией",
-      "excerpt": "Москва играет ключевую роль в технологическом развитии республики, отметил министр горнодобывающей промышленности и минеральных ресурсов африканской страны Джулиус Маттай",
-      "recap_neutral": "Москва играет ключевую роль в технологическом развитии республики, отметил министр горнодобывающей промышленности и минеральных ресурсов африканской страны Джулиус Маттай",
-      "main_idea": "В Сьерра-Леоне назвали стратегически важными отношения с Россией",
+      "title_original": "Госдолг США может достичь $41 трлн в конце зимы 2027 года",
+      "title_neutral": "Госдолг США может достичь $41 трлн в конце зимы 2027 года",
+      "excerpt": "После достижения потолка государственного долга американская администрация сможет еще в течение примерно шести-девяти месяцев принимать чрезвычайные меры в финансовой сфере во избежание дефолта",
+      "recap_neutral": "После достижения потолка государственного долга американская администрация сможет еще в течение примерно шести-девяти месяцев принимать чрезвычайные меры в финансовой сфере во избежание дефолта",
+      "main_idea": "Госдолг США может достичь $41 трлн в конце зимы 2027 года",
       "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 02:34:33 +0300",
+      "url": "https://tass.ru/ekonomika/27657249",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп: одна из инстанций в Вашингтоне одобрила строительство триумфальной арки",
+      "title_neutral": "Трамп: одна из инстанций в Вашингтоне одобрила строительство триумфальной арки",
+      "excerpt": "По мнению президента США, когда возведение сооружения будет завершено, это \"будет величайшая арка из всех\"",
+      "recap_neutral": "По мнению президента США, когда возведение сооружения будет завершено, это \"будет величайшая арка из всех\"",
+      "main_idea": "Трамп: одна из инстанций в Вашингтоне одобрила строительство триумфальной арки",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 02:33:41 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27657295",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Пензенской области отменили план \"Ковер\"",
+      "title_neutral": "В Пензенской области отменили план \"Ковер\"",
+      "excerpt": "",
+      "recap_neutral": "В Пензенской области отменили план \"Ковер\"",
+      "main_idea": "В Пензенской области отменили план \"Ковер\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 02:32:24 +0300",
+      "url": "https://tass.ru/ekonomika/27657285",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Музаев рассказал, что будет с удаленными за шпаргалки участниками ЕГЭ",
+      "title_neutral": "Музаев рассказал, что будет с удаленными за шпаргалки участниками ЕГЭ",
+      "excerpt": "Выпускников не допустят к пересдаче предмета в 2026 году, сообщил руководитель Рособрнадзора",
+      "recap_neutral": "Выпускников не допустят к пересдаче предмета в 2026 году, сообщил руководитель Рособрнадзора",
+      "main_idea": "Музаев рассказал, что будет с удаленными за шпаргалки участниками ЕГЭ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 05 Jun 2026 02:31:32 +0300",
+      "url": "https://tass.ru/obschestvo/27657279",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Оверчук объяснил трудности от стремления Армении в ЕС аналогией с вареньем",
+      "title_neutral": "Оверчук объяснил трудности от стремления Армении в ЕС аналогией с вареньем",
+      "excerpt": "Вице-премьер РФ указал, что если страна \"идет в Европейский союз, то она должна определиться и сделать выбор, где ей быть\"",
+      "recap_neutral": "Вице-премьер РФ указал, что если страна \"идет в Европейский союз, то она должна определиться и сделать выбор, где ей быть\"",
+      "main_idea": "Оверчук объяснил трудности от стремления Армении в ЕС аналогией с вареньем",
+      "tags": [
+        "politics",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 01:31:54 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27656949",
+      "published_at": "Fri, 05 Jun 2026 02:30:57 +0300",
+      "url": "https://tass.ru/politika/27657269",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Оверчук ожидает ратификацию соглашений ЕАЭС о ЗСТ с Индонезией и ОАЭ в 2026 году",
-      "title_neutral": "Оверчук ожидает ратификацию соглашений ЕАЭС о ЗСТ с Индонезией и ОАЭ в 2026 году",
-      "excerpt": "Вице-премьер также сообщил, что возможность предметных переговоров о зонах свободной торговли со странами Южноамериканского общего рынка \"продумывалась и обсуждалась\"",
-      "recap_neutral": "Вице-премьер также сообщил, что возможность предметных переговоров о зонах свободной торговли со странами Южноамериканского общего рынка \"продумывалась и обсуждалась\"",
-      "main_idea": "Оверчук ожидает ратификацию соглашений ЕАЭС о ЗСТ с Индонезией и ОАЭ в 2026 году",
+      "title_original": "Украина выдала Польше два разрешения на эксгумацию в Волынской области",
+      "title_neutral": "Украина выдала Польше два разрешения на эксгумацию в Волынской области",
+      "excerpt": "Всего, по оценкам Института национальной памяти, в захоронениях могут находиться останки 350 погибших от рук бандеровцев поляков",
+      "recap_neutral": "Всего, по оценкам Института национальной памяти, в захоронениях могут находиться останки 350 погибших от рук бандеровцев поляков",
+      "main_idea": "Украина выдала Польше два разрешения на эксгумацию в Волынской области",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 01:30:55 +0300",
-      "url": "https://tass.ru/ekonomika/27656957",
+      "published_at": "Fri, 05 Jun 2026 02:30:38 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27657257",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "МИД Кубы назвал санкции США против Диас-Канеля планом для оправдания агрессии",
-      "title_neutral": "МИД Кубы назвал санкции США против Диас-Канеля планом для оправдания агрессии",
-      "excerpt": "Министр иностранных дел республики Бруно Родригес Паррилья подчеркнул, что каждое действие Вашингтона, направленное на создание сценария конфликта, \"обречено на провал\"",
-      "recap_neutral": "Министр иностранных дел республики Бруно Родригес Паррилья подчеркнул, что каждое действие Вашингтона, направленное на создание сценария конфликта, \"обречено на провал\"",
-      "main_idea": "МИД Кубы назвал санкции США против Диас-Канеля планом для оправдания агрессии",
+      "title_original": "Песков не знает, будет ли Путин поздравлять Трампа с днем рождения",
+      "title_neutral": "Песков не знает, будет ли Путин поздравлять Трампа с днем рождения",
+      "excerpt": "Президент США отметит свой 80-летний юбилей 14 июня",
+      "recap_neutral": "Президент США отметит свой 80-летний юбилей 14 июня",
+      "main_idea": "Песков не знает, будет ли Путин поздравлять Трампа с днем рождения",
       "tags": [
-        "conflict",
-        "tech"
+        "politics"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 01:30:21 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27656933",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Пензенской области ввели план \"Ковер\"",
-      "title_neutral": "В Пензенской области ввели план \"Ковер\"",
-      "excerpt": "В регионе действуют ограничения на прием и выпуск самолетов",
-      "recap_neutral": "В регионе действуют ограничения на прием и выпуск самолетов",
-      "main_idea": "В Пензенской области ввели план \"Ковер\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 01:30:10 +0300",
-      "url": "https://tass.ru/ekonomika/27656943",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Камчатке в ДТП с пассажирским автобусом пострадали два человека",
-      "title_neutral": "На Камчатке в ДТП с пассажирским автобусом пострадали два человека",
-      "excerpt": "Им оказали медицинскую помощь",
-      "recap_neutral": "Им оказали медицинскую помощь",
-      "main_idea": "На Камчатке в ДТП с пассажирским автобусом пострадали два человека",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 05 Jun 2026 01:29:21 +0300",
-      "url": "https://tass.ru/proisshestviya/27656939",
+      "published_at": "Fri, 05 Jun 2026 02:27:15 +0300",
+      "url": "https://tass.ru/politika/27657239",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
