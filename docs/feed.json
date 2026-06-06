@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T19:15:12.609187+00:00",
+  "last_updated": "2026-06-06T20:38:24.476589+00:00",
   "items": [
     {
       "title_original": "How LLMs work",
@@ -34,8 +34,8 @@
     {
       "title_original": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
       "title_neutral": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
-      "excerpt": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to sanctuaries in Spain or across US Canada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales , ending a saga that has captivated the public and angered animal rights groups. Th…",
-      "recap_neutral": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to sanctuaries in Spain or across US Canada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales , e…",
+      "excerpt": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to aquariums in Spain or across US Canada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales , ending a saga that has captivated the public and angered animal rights groups. The…",
+      "recap_neutral": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to aquariums in Spain or across US Canada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales , end…",
       "main_idea": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
       "tags": [
         "tech"
@@ -134,6 +134,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Lambda isn't leaking memory, your metrics are lying to you",
+      "title_neutral": "Lambda isn't leaking memory, your metrics are lying to you",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Lambda isn't leaking memory, your metrics are lying to you",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 04 Jun 2026 10:03:15 +0000",
+      "url": "https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "WoofWare.PawPrint, a Deterministic .NET Runtime",
       "title_neutral": "WoofWare.PawPrint, a Deterministic .NET Runtime",
       "excerpt": "Comments",
@@ -189,30 +204,166 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Building Rust Procedural Macros from the Grounds Up",
-      "title_neutral": "Building Rust Procedural Macros from the Grounds Up",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Building Rust Procedural Macros from the Grounds Up",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 31 May 2026 19:28:49 +0000",
-      "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "title_original": "В Словакии отметили День русского языка",
+      "title_neutral": "В Словакии отметили День русского языка",
+      "excerpt": "В частности, в деревне Алекшинце в мероприятии, прошедшем в культурно-просветительском центре \"Славянский двор\", приняли участие учащиеся школ и гимназий, педагоги и любители русской культуры",
+      "recap_neutral": "В частности, в деревне Алекшинце в мероприятии, прошедшем в культурно-просветительском центре \"Славянский двор\", приняли участие учащиеся школ и гимназий, педагоги и любители русской культуры",
+      "main_idea": "В Словакии отметили День русского языка",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 06 Jun 2026 23:31:48 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27684341",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Мамедкале приступили к строительству домов для пострадавших от подтоплений",
-      "title_neutral": "В Мамедкале приступили к строительству домов для пострадавших от подтоплений",
-      "excerpt": "Планируется строительство 48 индивидуальных жилых домов",
-      "recap_neutral": "Планируется строительство 48 индивидуальных жилых домов",
-      "main_idea": "В Мамедкале приступили к строительству домов для пострадавших от подтоплений",
+      "title_original": "В Мордовии объявили беспилотную опасность",
+      "title_neutral": "В Мордовии объявили беспилотную опасность",
+      "excerpt": "Об этом сообщили в правительстве республики",
+      "recap_neutral": "Об этом сообщили в правительстве республики",
+      "main_idea": "В Мордовии объявили беспилотную опасность",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 06 Jun 2026 23:21:43 +0300",
+      "url": "https://tass.ru/proisshestviya/27684325",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропортах Внуково, Домодедово и Ярославля сняли ограничения",
+      "title_neutral": "В аэропортах Внуково, Домодедово и Ярославля сняли ограничения",
+      "excerpt": "Об этом сообщили в Росавиации",
+      "recap_neutral": "Об этом сообщили в Росавиации",
+      "main_idea": "В аэропортах Внуково, Домодедово и Ярославля сняли ограничения",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 06 Jun 2026 23:15:27 +0300",
+      "url": "https://tass.ru/ekonomika/27684319",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Армия Израиля заявила, что за два дня атаковала более 150 целей в Ливане",
+      "title_neutral": "Армия Израиля заявила, что за два дня атаковала более 150 целей в Ливане",
+      "excerpt": "Среди них склады с оружием, командные пункты, установки для запуска ракет",
+      "recap_neutral": "Среди них склады с оружием, командные пункты, установки для запуска ракет",
+      "main_idea": "Армия Израиля заявила, что за два дня атаковала более 150 целей в Ливане",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 06 Jun 2026 23:10:06 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27684289",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве наградили лауреатов 10 сезона Литературной премии \"Лицей\"",
+      "title_neutral": "В Москве наградили лауреатов 10 сезона Литературной премии \"Лицей\"",
+      "excerpt": "В 2026 году на премию претендовали 1659 участников",
+      "recap_neutral": "В 2026 году на премию претендовали 1659 участников",
+      "main_idea": "В Москве наградили лауреатов 10 сезона Литературной премии \"Лицей\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 06 Jun 2026 23:01:14 +0300",
+      "url": "https://tass.ru/kultura/27682577",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Израиле прошла новая волна антиправительственных митингов",
+      "title_neutral": "В Израиле прошла новая волна антиправительственных митингов",
+      "excerpt": "В частности, акции протеста прошли в Иерусалиме и Тель-Авиве",
+      "recap_neutral": "В частности, акции протеста прошли в Иерусалиме и Тель-Авиве",
+      "main_idea": "В Израиле прошла новая волна антиправительственных митингов",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 06 Jun 2026 22:59:35 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27684283",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ДР Конго количество умерших от Эболы увеличилось до 86",
+      "title_neutral": "В ДР Конго количество умерших от Эболы увеличилось до 86",
+      "excerpt": "Количество подтвержденных случаев заражения лихорадкой достигло 488",
+      "recap_neutral": "Количество подтвержденных случаев заражения лихорадкой достигло 488",
+      "main_idea": "В ДР Конго количество умерших от Эболы увеличилось до 86",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 06 Jun 2026 22:08:22 +0300",
-      "url": "https://tass.ru/obschestvo/27684095",
+      "published_at": "Sat, 06 Jun 2026 22:56:59 +0300",
+      "url": "https://tass.ru/proisshestviya/27684229",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Яркие стенды, бизнес и технологии. Как проходил ПМЭФ-2026",
+      "title_neutral": "Яркие стенды, бизнес и технологии. Как проходил ПМЭФ-2026",
+      "excerpt": "На площадке форума лидеры государств, министры финансов, руководители компаний, финансисты и ученые встретились для обсуждения экономических вопросов, стоящих перед Россией, рынками развивающихся стран и мира в целом",
+      "recap_neutral": "На площадке форума лидеры государств, министры финансов, руководители компаний, финансисты и ученые встретились для обсуждения экономических вопросов, стоящих перед Россией, рынками развивающихся стран и мира в целом",
+      "main_idea": "Яркие стенды, бизнес и технологии. Как проходил ПМЭФ-2026",
+      "tags": [
+        "economy",
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 06 Jun 2026 22:55:33 +0300",
+      "url": "https://tass.ru/ekonomika/27684179",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Новак: Россия готова к новым отношениям с США",
+      "title_neutral": "Новак: Россия готова к новым отношениям с США",
+      "excerpt": "Москва по-прежнему открыта для улучшения отношений с Вашингтоном, заявил вице-премьер",
+      "recap_neutral": "Москва по-прежнему открыта для улучшения отношений с Вашингтоном, заявил вице-премьер",
+      "main_idea": "Новак: Россия готова к новым отношениям с США",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 06 Jun 2026 22:54:21 +0300",
+      "url": "https://tass.ru/politika/27684267",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Херсонская область подписала соглашение о запуске \"Карты жителя\" региона",
+      "title_neutral": "Херсонская область подписала соглашение о запуске \"Карты жителя\" региона",
+      "excerpt": "Цифровой инструмент объединит социальные льготы, финансовые услуги и доступ к региональным сервисам",
+      "recap_neutral": "Цифровой инструмент объединит социальные льготы, финансовые услуги и доступ к региональным сервисам",
+      "main_idea": "Херсонская область подписала соглашение о запуске \"Карты жителя\" региона",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 06 Jun 2026 22:51:17 +0300",
+      "url": "https://tass.ru/obschestvo/27684235",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
@@ -221,227 +372,117 @@
     {
       "title_original": "В аэропорту Сочи сняли ограничения",
       "title_neutral": "В аэропорту Сочи сняли ограничения",
-      "excerpt": "",
-      "recap_neutral": "В аэропорту Сочи сняли ограничения",
+      "excerpt": "Их вводили для обеспечения безопасности полетов",
+      "recap_neutral": "Их вводили для обеспечения безопасности полетов",
       "main_idea": "В аэропорту Сочи сняли ограничения",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 06 Jun 2026 22:06:30 +0300",
-      "url": "https://tass.ru/ekonomika/27684117",
+      "published_at": "Sat, 06 Jun 2026 22:51:08 +0300",
+      "url": "https://tass.ru/ekonomika/27684237",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Гуров рассказал, что гражданский брак - это \"стрём\"",
-      "title_neutral": "Гуров рассказал, что гражданский брак - это \"стрём\"",
-      "excerpt": "Глава Росмолодежи отметил, что вопрос \"потестить отношения\" для него неприемлем",
-      "recap_neutral": "Глава Росмолодежи отметил, что вопрос \"потестить отношения\" для него неприемлем",
-      "main_idea": "Гуров рассказал, что гражданский брак - это \"стрём\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 06 Jun 2026 22:01:01 +0300",
-      "url": "https://tass.ru/obschestvo/27684049",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Аэропорт Череповца обслуживает рейсы по согласованию",
-      "title_neutral": "Аэропорт Череповца обслуживает рейсы по согласованию",
-      "excerpt": "",
-      "recap_neutral": "Аэропорт Череповца обслуживает рейсы по согласованию",
-      "main_idea": "Аэропорт Череповца обслуживает рейсы по согласованию",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 06 Jun 2026 22:00:03 +0300",
-      "url": "https://tass.ru/ekonomika/27684101",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Дагестане к 1 сентября восстановят образовательные учреждения после стихии",
-      "title_neutral": "В Дагестане к 1 сентября восстановят образовательные учреждения после стихии",
-      "excerpt": "Речь идет о шести школах и об одном детском саде",
-      "recap_neutral": "Речь идет о шести школах и об одном детском саде",
-      "main_idea": "В Дагестане к 1 сентября восстановят образовательные учреждения после стихии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 06 Jun 2026 21:58:47 +0300",
-      "url": "https://tass.ru/obschestvo/27684043",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Сумской области произошли взрывы",
-      "title_neutral": "В Сумской области произошли взрывы",
-      "excerpt": "В регионе действует режим воздушной тревоги",
-      "recap_neutral": "В регионе действует режим воздушной тревоги",
-      "main_idea": "В Сумской области произошли взрывы",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 06 Jun 2026 21:55:59 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27684065",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Футболиста Леау удалили за удар соперника в матче сборных Португалии и Чили",
-      "title_neutral": "Футболиста Леау удалили за удар соперника в матче сборных Португалии и Чили",
-      "excerpt": "Сборная Португалии продолжает подготовку к предстоящему чемпионату мира",
-      "recap_neutral": "Сборная Португалии продолжает подготовку к предстоящему чемпионату мира",
-      "main_idea": "Футболиста Леау удалили за удар соперника в матче сборных Португалии и Чили",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 06 Jun 2026 21:53:15 +0300",
-      "url": "https://tass.ru/sport/27684073",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В ДНР из-за атак ВСУ за сутки пострадали пять человек",
-      "title_neutral": "В ДНР из-за атак ВСУ за сутки пострадали пять человек",
-      "excerpt": "Среди них два ребенка",
-      "recap_neutral": "Среди них два ребенка",
-      "main_idea": "В ДНР из-за атак ВСУ за сутки пострадали пять человек",
+      "title_original": "Армия Израиля сообщила о гибели двух своих военных на юге Ливана",
+      "title_neutral": "Армия Израиля сообщила о гибели двух своих военных на юге Ливана",
+      "excerpt": "По данным портала Ynet, 23-летний капитан Шахар Гамла был тяжело ранен в результате удара беспилотника",
+      "recap_neutral": "По данным портала Ynet, 23-летний капитан Шахар Гамла был тяжело ранен в результате удара беспилотника",
+      "main_idea": "Армия Израиля сообщила о гибели двух своих военных на юге Ливана",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 06 Jun 2026 21:51:41 +0300",
-      "url": "https://tass.ru/proisshestviya/27684053",
+      "published_at": "Sat, 06 Jun 2026 22:43:03 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27684215",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Власти Украины с января эвакуировали свыше 2,9 тыс. жителей Сумской области",
-      "title_neutral": "Власти Украины с января эвакуировали свыше 2,9 тыс. жителей Сумской области",
-      "excerpt": "Глава областной администрации Олег Григоров рассказал, что полностью эвакуированы жители 83 населенных пунктов",
-      "recap_neutral": "Глава областной администрации Олег Григоров рассказал, что полностью эвакуированы жители 83 населенных пунктов",
-      "main_idea": "Власти Украины с января эвакуировали свыше 2,9 тыс. жителей Сумской области",
+      "title_original": "В районе Большой Ижоры в Ленобласти ограничили движение из-за мер безопасности",
+      "title_neutral": "В районе Большой Ижоры в Ленобласти ограничили движение из-за мер безопасности",
+      "excerpt": "Производится подготовка дорожного полотна к безопасному движению автотранспорта, сообщил губернатор региона Александр Дрозденко",
+      "recap_neutral": "Производится подготовка дорожного полотна к безопасному движению автотранспорта, сообщил губернатор региона Александр Дрозденко",
+      "main_idea": "В районе Большой Ижоры в Ленобласти ограничили движение из-за мер безопасности",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 06 Jun 2026 22:41:31 +0300",
+      "url": "https://tass.ru/obschestvo/27684197",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "НСПК: платежные технологии не увеличивают турпоток, но делают туризм удобным и выгодным",
+      "title_neutral": "НСПК: платежные технологии не увеличивают турпоток, но делают туризм удобным и выгодным",
+      "excerpt": "Национальная система платежных карт последовательно интегрирует карты \"Мир\" и Систему быстрых платежей в туристическую, спортивную и культурную инфраструктуру страны",
+      "recap_neutral": "Национальная система платежных карт последовательно интегрирует карты \"Мир\" и Систему быстрых платежей в туристическую, спортивную и культурную инфраструктуру страны",
+      "main_idea": "НСПК: платежные технологии не увеличивают турпоток, но делают туризм удобным и выгодным",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 06 Jun 2026 21:51:22 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27684033",
+      "published_at": "Sat, 06 Jun 2026 22:34:11 +0300",
+      "url": "https://tass.ru/ekonomika/27684181",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Авербух надеется, что разум посетит ISU в момент голосования по фигуристам РФ",
-      "title_neutral": "Авербух надеется, что разум посетит ISU в момент голосования по фигуристам РФ",
-      "excerpt": "С 10 по 12 июня в Испании пройдет конгресс Международного союза конькобежцев",
-      "recap_neutral": "С 10 по 12 июня в Испании пройдет конгресс Международного союза конькобежцев",
-      "main_idea": "Авербух надеется, что разум посетит ISU в момент голосования по фигуристам РФ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 06 Jun 2026 21:48:06 +0300",
-      "url": "https://tass.ru/sport/27684041",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Tasnim: взрыв в районе острова Харк мог быть связан с обезвреживанием боеприпасов",
-      "title_neutral": "Tasnim: взрыв в районе острова Харк мог быть связан с обезвреживанием боеприпасов",
-      "excerpt": "По данным агентства, взрывы являются контролируемыми, и поводов для беспокойства нет",
-      "recap_neutral": "По данным агентства, взрывы являются контролируемыми, и поводов для беспокойства нет",
-      "main_idea": "Tasnim: взрыв в районе острова Харк мог быть связан с обезвреживанием боеприпасов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 06 Jun 2026 21:46:45 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27684025",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Авербух назвал адской несправедливостью недопуск российских фигуристов",
-      "title_neutral": "Авербух назвал адской несправедливостью недопуск российских фигуристов",
-      "excerpt": "С 2022 года на международных соревнованиях по фигурному катанию из россиян выступали только Аделия Петросян и Петр Гуменник, которых Международный союз конькобежцев допустил до отбора на Олимпиаду и на сами Игры",
-      "recap_neutral": "С 2022 года на международных соревнованиях по фигурному катанию из россиян выступали только Аделия Петросян и Петр Гуменник, которых Международный союз конькобежцев допустил до отбора на Олимпиаду и на сами Игры",
-      "main_idea": "Авербух назвал адской несправедливостью недопуск российских фигуристов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 06 Jun 2026 21:42:41 +0300",
-      "url": "https://tass.ru/sport/27684023",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Дагестане завершили обследование жилья после подтоплений",
-      "title_neutral": "В Дагестане завершили обследование жилья после подтоплений",
-      "excerpt": "Серьезная работа ведется в Хасавюртовском и Дербентском районах республики, \"которые наиболее были подвержены удару стихии\"",
-      "recap_neutral": "Серьезная работа ведется в Хасавюртовском и Дербентском районах республики, \"которые наиболее были подвержены удару стихии\"",
-      "main_idea": "В Дагестане завершили обследование жилья после подтоплений",
+      "title_original": "NYT: Израиль перешел черту, пытаясь выяснить позицию США по Ирану",
+      "title_neutral": "NYT: Израиль перешел черту, пытаясь выяснить позицию США по Ирану",
+      "excerpt": "По данным издания, еврейское государство особенно интересуют сведения о стратегии американского лидера Дональда Трампа на переговорах с Тегераном",
+      "recap_neutral": "По данным издания, еврейское государство особенно интересуют сведения о стратегии американского лидера Дональда Трампа на переговорах с Тегераном",
+      "main_idea": "NYT: Израиль перешел черту, пытаясь выяснить позицию США по Ирану",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 06 Jun 2026 21:35:29 +0300",
-      "url": "https://tass.ru/obschestvo/27684017",
+      "published_at": "Sat, 06 Jun 2026 22:23:41 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27684163",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Fars: в районе острова Харк в Иране произошел взрыв",
-      "title_neutral": "Fars: в районе острова Харк в Иране произошел взрыв",
-      "excerpt": "По данным агентства, он произошел за пределами острова",
-      "recap_neutral": "По данным агентства, он произошел за пределами острова",
-      "main_idea": "Fars: в районе острова Харк в Иране произошел взрыв",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 06 Jun 2026 21:27:59 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27684009",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "title_original": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+      "title_neutral": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+      "excerpt": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+      "recap_neutral": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe",
+      "main_idea": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 06 Jun 2026 20:32:08 GMT",
+      "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Плющенко призвал относиться к его сыну \"как к Васе Пупкину\"",
-      "title_neutral": "Плющенко призвал относиться к его сыну \"как к Васе Пупкину\"",
-      "excerpt": "Двукратный олимпийский чемпион сообщил, что его сын после смены гражданства продолжит тренироваться в России",
-      "recap_neutral": "Двукратный олимпийский чемпион сообщил, что его сын после смены гражданства продолжит тренироваться в России",
-      "main_idea": "Плющенко призвал относиться к его сыну \"как к Васе Пупкину\"",
+      "title_original": "Iran says staff blocked from entering US after players given World Cup visas",
+      "title_neutral": "Iran says staff blocked from entering US after players given World Cup visas",
+      "excerpt": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+      "recap_neutral": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country",
+      "main_idea": "Iran says staff blocked from entering US after players given World Cup visas",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 06 Jun 2026 21:26:35 +0300",
-      "url": "https://tass.ru/sport/27684015",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Sat, 06 Jun 2026 20:15:52 GMT",
+      "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -454,11 +495,28 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 06 Jun 2026 18:45:24 +0000",
+      "published_at": "Sat, 06 Jun 2026 20:06:50 +0000",
       "url": "https://www.nytimes.com/2026/06/06/us/politics/cia-officer-gold-fake-spy-program.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
+      "title_neutral": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
+      "excerpt": "The seven-month-old boy's shrouded body was wrapped in a Palestinian flag and carried by his father to the graveyard.",
+      "recap_neutral": "The seven-month-old boy's shrouded body was wrapped in a Palestinian flag and carried by his father to the graveyard",
+      "main_idea": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
+      "tags": [
+        "economy"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 06 Jun 2026 19:57:42 GMT",
+      "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -473,11 +531,61 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 06 Jun 2026 18:36:03 +0000",
+      "published_at": "Sat, 06 Jun 2026 19:28:04 +0000",
       "url": "https://www.nytimes.com/2026/06/06/world/middleeast/israel-west-bank-infant.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "title_neutral": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 06 Jun 2026 19:17:46 +0000",
+      "url": "https://ntsc.rs/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "title_neutral": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sat, 06 Jun 2026 18:35:27 +0000",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Pope begins Spain visit with praise for country's opposition to war and support for migrants",
+      "title_neutral": "Pope begins Spain visit with praise for country's opposition to war and support for migrants",
+      "excerpt": "On the first day of his official seven-day tour of Spain, the Pope praises the country's \"active commitment to peace and solidarity among peoples\".",
+      "recap_neutral": "On the first day of his official seven-day tour of Spain, the Pope praises the country's \"active commitment to peace and solidarity among peoples\"",
+      "main_idea": "Pope begins Spain visit with praise for country's opposition to war and support for migrants",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 06 Jun 2026 18:34:26 GMT",
+      "url": "https://www.bbc.com/news/articles/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -665,21 +773,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Moving beyond fork() + exec()",
-      "title_neutral": "Moving beyond fork() + exec()",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Moving beyond fork() + exec()",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 06 Jun 2026 14:34:20 +0000",
-      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Running Python code in a sandbox with MicroPython and WASM",
       "title_neutral": "Running Python code in a sandbox with MicroPython and WASM",
       "excerpt": "Comments",
@@ -821,23 +914,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran says staff blocked from entering US after players given World Cup visas",
-      "title_neutral": "Iran says staff blocked from entering US after players given World Cup visas",
-      "excerpt": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
-      "recap_neutral": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country",
-      "main_idea": "Iran says staff blocked from entering US after players given World Cup visas",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 06 Jun 2026 11:56:25 GMT",
-      "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -989,23 +1065,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Man dies after shark attack in Western Australia, police say",
-      "title_neutral": "Man dies after shark attack in Western Australia, police say",
-      "excerpt": "The man was spearfishing off Michaelmas Island with his family, according to local reports.",
-      "recap_neutral": "The man was spearfishing off Michaelmas Island with his family, according to local reports",
-      "main_idea": "Man dies after shark attack in Western Australia, police say",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 06 Jun 2026 08:20:50 GMT",
-      "url": "https://www.bbc.com/news/articles/c74yl98kv37o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Despite a competitive market, finding a summer job is highly beneficial for teens",
       "title_neutral": "Despite a competitive market, finding a summer job is highly beneficial for teens",
       "excerpt": "Teenagers looking for summer jobs face a tough labor market. But the personal benefits are huge.",
@@ -1037,23 +1096,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72",
-      "title_neutral": "Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72",
-      "excerpt": "The British actor, who also appeared in Merlin and Little Britain, died of complications from pneumonia.",
-      "recap_neutral": "The British actor, who also appeared in Merlin and Little Britain, died of complications from pneumonia",
-      "main_idea": "Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 06 Jun 2026 07:33:07 GMT",
-      "url": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1172,23 +1214,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "title_neutral": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 06 Jun 2026 04:38:36 +0000",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1341,6 +1366,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
+      "title_neutral": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
+      "excerpt": "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.",
+      "recap_neutral": "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US",
+      "main_idea": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sat, 06 Jun 2026 01:55:03 GMT",
+      "url": "https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "The Stack Behind the Next AI Superpowers",
       "title_neutral": "The Stack Behind the Next AI Superpowers",
       "excerpt": "",
@@ -1375,18 +1415,33 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Palestinian baby killed by Israeli gunfire in West Bank, health ministry says",
-      "title_neutral": "Palestinian baby killed by Israeli gunfire in West Bank, health ministry says",
-      "excerpt": "The Israeli military says Friday's \"incident is under review\", expressing \"deep sorrow for any harm caused\".",
-      "recap_neutral": "The Israeli military says Friday's \"incident is under review\", expressing \"deep sorrow for any harm caused\"",
-      "main_idea": "Palestinian baby killed by Israeli gunfire in West Bank, health ministry says",
+      "title_original": "I wanted to quit Eurovision twice - then won it, says Bangaranga singer Dara",
+      "title_neutral": "I wanted to quit Eurovision twice - then won it, says Bangaranga singer Dara",
+      "excerpt": "The Bulgarian singer says her historic victory in Vienna came close to never happening.",
+      "recap_neutral": "The Bulgarian singer says her historic victory in Vienna came close to never happening",
+      "main_idea": "I wanted to quit Eurovision twice - then won it, says Bangaranga singer Dara",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Fri, 05 Jun 2026 23:26:21 GMT",
+      "url": "https://www.bbc.com/news/articles/c1k2dml10ezo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The cash-in-the-sofa saga that just won't go away for South Africa's president",
+      "title_neutral": "The cash-in-the-sofa saga that just won't go away for South Africa's president",
+      "excerpt": "A committee of MPs has been formed to look at the case against Cyril Ramaphosa, but he may survive a vote.",
+      "recap_neutral": "A committee of MPs has been formed to look at the case against Cyril Ramaphosa, but he may survive a vote",
+      "main_idea": "The cash-in-the-sofa saga that just won't go away for South Africa's president",
       "tags": [
-        "economy",
-        "health"
+        "politics",
+        "tech"
       ],
       "source": "BBC World",
-      "published_at": "Fri, 05 Jun 2026 23:12:24 GMT",
-      "url": "https://www.bbc.com/news/articles/cy828e64vp8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 05 Jun 2026 23:22:18 GMT",
+      "url": "https://www.bbc.com/news/articles/cy429dv9kk0o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -1407,23 +1462,6 @@
       "lang": "en",
       "bias_score": 58,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "US stocks slump as fears over Big Tech shake Wall Street",
-      "title_neutral": "US stocks slump as fears over Big Tech shake Wall Street",
-      "excerpt": "The Nasdaq saw its biggest daily fall since early 2025.",
-      "recap_neutral": "The Nasdaq saw its biggest daily fall since early 2025",
-      "main_idea": "US stocks slump as fears over Big Tech shake Wall Street",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 05 Jun 2026 21:38:13 GMT",
-      "url": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1460,6 +1498,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "From Nescafe to Ted Lasso: Anthony Head's life in pictures",
+      "title_neutral": "From Nescafe to Ted Lasso: Anthony Head's life in pictures",
+      "excerpt": "Anthony Head, who first came to public attention for his role in 1980s Nescafe ads, has died at the age of 72.",
+      "recap_neutral": "Anthony Head, who first came to public attention for his role in 1980s Nescafe ads, has died at the age of 72",
+      "main_idea": "From Nescafe to Ted Lasso: Anthony Head's life in pictures",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Fri, 05 Jun 2026 19:17:48 GMT",
+      "url": "https://www.bbc.com/news/articles/cy42428yx8go?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Flare Just Unlocked Perpetual XRP Yield With a $4.88M Rollover. The $57B Thesis Starts Here",
       "title_neutral": "Flare Just Unlocked Perpetual XRP Yield With a $4.88M Rollover. The $57B Thesis Starts Here",
       "excerpt": "→ Overnight on June 3–4, 2026, ~$4.88M in stXRP liquidity rolled from an expiring fixed-term pool on Spectra Finance directly into a newly launched market — with zero trading interruption. → The rollover was executed through the GamiLabs FXRP MetaVault, which automatically routes LP positions from…",
@@ -1474,25 +1527,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-      "title_neutral": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-      "excerpt": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
-      "recap_neutral": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks",
-      "main_idea": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 05 Jun 2026 18:16:15 GMT",
-      "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1542,39 +1576,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
-      "title_neutral": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
-      "excerpt": "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities.",
-      "recap_neutral": "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities",
-      "main_idea": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 05 Jun 2026 16:00:47 GMT",
-      "url": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ukraine strikes cargo ships and admits Romania drone blast",
-      "title_neutral": "Ukraine strikes cargo ships and admits Romania drone blast",
-      "excerpt": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
-      "recap_neutral": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories",
-      "main_idea": "Ukraine strikes cargo ships and admits Romania drone blast",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 05 Jun 2026 15:29:39 GMT",
-      "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
