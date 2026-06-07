@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T13:43:32.103679+00:00",
+  "last_updated": "2026-06-07T15:21:36.122559+00:00",
   "items": [
     {
       "title_original": "My Software North Star",
@@ -67,21 +67,6 @@
       "lang": "en",
       "bias_score": 54,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
-      "title_neutral": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 04 Jun 2026 13:55:39 +0000",
-      "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -175,249 +160,306 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "ТАСС: израильские дроны нанесли удары по югу Бейрута",
-      "title_neutral": "ТАСС: израильские дроны нанесли удары по югу Бейрута",
-      "excerpt": "Среди жителей есть раненые",
-      "recap_neutral": "Среди жителей есть раненые",
-      "main_idea": "ТАСС: израильские дроны нанесли удары по югу Бейрута",
+      "title_original": "Футбольный клуб \"Ленинградец\" вышел в Первую лигу",
+      "title_neutral": "Футбольный клуб \"Ленинградец\" вышел в Первую лигу",
+      "excerpt": "Петербургская команда повысилась в классе после поражения \"Велеса\" от \"Машука-КМВ\"",
+      "recap_neutral": "Петербургская команда повысилась в классе после поражения \"Велеса\" от \"Машука-КМВ\"",
+      "main_idea": "Футбольный клуб \"Ленинградец\" вышел в Первую лигу",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 18:16:13 +0300",
+      "url": "https://tass.ru/sport/27687579",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп не требует включения Ливана в краткосрочную сделку по Ирану",
+      "title_neutral": "Трамп не требует включения Ливана в краткосрочную сделку по Ирану",
+      "excerpt": "Президент США предположил, что иранская сторона этого бы хотела",
+      "recap_neutral": "Президент США предположил, что иранская сторона этого бы хотела",
+      "main_idea": "Трамп не требует включения Ливана в краткосрочную сделку по Ирану",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 18:12:02 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687549",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Локомотив-Кубань\" обыграл \"Зенит\" в третьем матче серии за бронзу Единой лиги ВТБ",
+      "title_neutral": "\"Локомотив-Кубань\" обыграл \"Зенит\" в третьем матче серии за бронзу Единой лиги ВТБ",
+      "excerpt": "Счет в серии до трех побед стал 2-1 в пользу \"Зенита\"",
+      "recap_neutral": "Счет в серии до трех побед стал 2-1 в пользу \"Зенита\"",
+      "main_idea": "\"Локомотив-Кубань\" обыграл \"Зенит\" в третьем матче серии за бронзу Единой лиги ВТБ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 18:11:32 +0300",
+      "url": "https://tass.ru/sport/27687571",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Кучеров не получил приз лучшему игроку сезона НХЛ по версии профсоюза",
+      "title_neutral": "Кучеров не получил приз лучшему игроку сезона НХЛ по версии профсоюза",
+      "excerpt": "Обладателем награды \"Тед Линдсей эворд\" стал Коннор Макдэвид",
+      "recap_neutral": "Обладателем награды \"Тед Линдсей эворд\" стал Коннор Макдэвид",
+      "main_idea": "Кучеров не получил приз лучшему игроку сезона НХЛ по версии профсоюза",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 18:09:37 +0300",
+      "url": "https://tass.ru/sport/27687563",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Климент Колесников рассказал, что во время заплывов думает о своем рекорде мира",
+      "title_neutral": "Климент Колесников рассказал, что во время заплывов думает о своем рекорде мира",
+      "excerpt": "Рекорд мира на дистанции 50 м на спине принадлежит Колесникову и составляет 23,55 секунды",
+      "recap_neutral": "Рекорд мира на дистанции 50 м на спине принадлежит Колесникову и составляет 23,55 секунды",
+      "main_idea": "Климент Колесников рассказал, что во время заплывов думает о своем рекорде мира",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 18:05:04 +0300",
+      "url": "https://tass.ru/sport/27687547",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп вновь заявил, что США и Иран очень близки к заключению сделки",
+      "title_neutral": "Трамп вновь заявил, что США и Иран очень близки к заключению сделки",
+      "excerpt": "По словам президента Соединенных Штатов, Иран признал, что у него не будет ядерного оружия",
+      "recap_neutral": "По словам президента Соединенных Штатов, Иран признал, что у него не будет ядерного оружия",
+      "main_idea": "Трамп вновь заявил, что США и Иран очень близки к заключению сделки",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 18:04:19 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687519",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп: активы Ирана не будут разморожены сразу после заключения сделки",
+      "title_neutral": "Трамп: активы Ирана не будут разморожены сразу после заключения сделки",
+      "excerpt": "Это \"последует позже\", заявил президент США",
+      "recap_neutral": "Это \"последует позже\", заявил президент США",
+      "main_idea": "Трамп: активы Ирана не будут разморожены сразу после заключения сделки",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 18:01:53 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687501",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Пловец Самусенко раскрыл детали отбора на чемпионат Европы",
+      "title_neutral": "Пловец Самусенко раскрыл детали отбора на чемпионат Европы",
+      "excerpt": "Турнир пройдет с 31 июля по 16 августа в Париже",
+      "recap_neutral": "Турнир пройдет с 31 июля по 16 августа в Париже",
+      "main_idea": "Пловец Самусенко раскрыл детали отбора на чемпионат Европы",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 18:01:40 +0300",
+      "url": "https://tass.ru/sport/27687517",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Галузин: Кишинев действует против граждан, загоняя Молдавию в состав Румынии",
+      "title_neutral": "Галузин: Кишинев действует против граждан, загоняя Молдавию в состав Румынии",
+      "excerpt": "Замглавы МИД РФ указал, что в молдавском обществе идея \"пресловутого объединения\" не пользуется поддержкой",
+      "recap_neutral": "Замглавы МИД РФ указал, что в молдавском обществе идея \"пресловутого объединения\" не пользуется поддержкой",
+      "main_idea": "Галузин: Кишинев действует против граждан, загоняя Молдавию в состав Румынии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 18:00:40 +0300",
+      "url": "https://tass.ru/politika/27687509",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Харьковской области завели дело против боевика ВСУ за убийство мирных жителей",
+      "title_neutral": "В Харьковской области завели дело против боевика ВСУ за убийство мирных жителей",
+      "excerpt": "По версии следствия, Денис Шапарев в 2014 году участвовал в штурме Мариуполя и Волновахи, а также в силовом подавлении там гражданских протестов",
+      "recap_neutral": "По версии следствия, Денис Шапарев в 2014 году участвовал в штурме Мариуполя и Волновахи, а также в силовом подавлении там гражданских протестов",
+      "main_idea": "В Харьковской области завели дело против боевика ВСУ за убийство мирных жителей",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 17:59:19 +0300",
+      "url": "https://tass.ru/proisshestviya/27687451",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве из-за жары начал действовать оранжевый уровень опасности",
+      "title_neutral": "В Москве из-за жары начал действовать оранжевый уровень опасности",
+      "excerpt": "Он будет действовать до 18:00 мск 10 июня",
+      "recap_neutral": "Он будет действовать до 18:00 мск 10 июня",
+      "main_idea": "В Москве из-за жары начал действовать оранжевый уровень опасности",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 17:57:24 +0300",
+      "url": "https://tass.ru/obschestvo/27687473",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Белгородской области при атаке дрона ВСУ погибла женщина",
+      "title_neutral": "В Белгородской области при атаке дрона ВСУ погибла женщина",
+      "excerpt": "Ее муж получил ранения",
+      "recap_neutral": "Ее муж получил ранения",
+      "main_idea": "В Белгородской области при атаке дрона ВСУ погибла женщина",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 16:41:15 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687167",
+      "published_at": "Sun, 07 Jun 2026 17:55:10 +0300",
+      "url": "https://tass.ru/proisshestviya/27687465",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Одессе сотрудники ТЦК похитили клирика УПЦ",
-      "title_neutral": "В Одессе сотрудники ТЦК похитили клирика УПЦ",
-      "excerpt": "По словам жены протодиакона Николая Мазурца, у него диагностированы некоторые заболевания, в частности близорукость и проблемы с позвоночником, подтвержденные медицинскими документами",
-      "recap_neutral": "По словам жены протодиакона Николая Мазурца, у него диагностированы некоторые заболевания, в частности близорукость и проблемы с позвоночником, подтвержденные медицинскими документами",
-      "main_idea": "В Одессе сотрудники ТЦК похитили клирика УПЦ",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 16:40:15 +0300",
-      "url": "https://tass.ru/proisshestviya/27687161",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лидер АдГ Вайдель заявила, что Брюссель душит Европу новыми директивами",
-      "title_neutral": "Лидер АдГ Вайдель заявила, что Брюссель душит Европу новыми директивами",
-      "excerpt": "Сопредседатель партии отметила, что нужно реформировать ЕС и превратить его в союз суверенных национальных государств",
-      "recap_neutral": "Сопредседатель партии отметила, что нужно реформировать ЕС и превратить его в союз суверенных национальных государств",
-      "main_idea": "Лидер АдГ Вайдель заявила, что Брюссель душит Европу новыми директивами",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 16:33:55 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687155",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Ставрополье в ДТП погибли четыре человека",
-      "title_neutral": "На Ставрополье в ДТП погибли четыре человека",
-      "excerpt": "Еще один пострадал",
-      "recap_neutral": "Еще один пострадал",
-      "main_idea": "На Ставрополье в ДТП погибли четыре человека",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 16:27:25 +0300",
-      "url": "https://tass.ru/proisshestviya/27687139",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Премьер Албании заявил, что проект морского курорта реализуют, несмотря на протесты",
-      "title_neutral": "Премьер Албании заявил, что проект морского курорта реализуют, несмотря на протесты",
-      "excerpt": "Эди Рама отметил, что этот проект принесет огромную пользу экономике и \"станет значительным, даже историческим шагом вперед для туризма в Албании\"",
-      "recap_neutral": "Эди Рама отметил, что этот проект принесет огромную пользу экономике и \"станет значительным, даже историческим шагом вперед для туризма в Албании\"",
-      "main_idea": "Премьер Албании заявил, что проект морского курорта реализуют, несмотря на протесты",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 16:23:32 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687113",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Москве прошел фестиваль ходьбы \"10 000 шагов\"",
-      "title_neutral": "В Москве прошел фестиваль ходьбы \"10 000 шагов\"",
-      "excerpt": "Выполнившие все условия маршрута участники получили медали и брелоки",
-      "recap_neutral": "Выполнившие все условия маршрута участники получили медали и брелоки",
-      "main_idea": "В Москве прошел фестиваль ходьбы \"10 000 шагов\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 16:23:18 +0300",
-      "url": "https://tass.ru/obschestvo/27687127",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Над Севастополем сбили 18 БПЛА",
-      "title_neutral": "Над Севастополем сбили 18 БПЛА",
-      "excerpt": "Никто не пострадал",
-      "recap_neutral": "Никто не пострадал",
-      "main_idea": "Над Севастополем сбили 18 БПЛА",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 16:19:42 +0300",
-      "url": "https://tass.ru/proisshestviya/27687121",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Россия и Бразилия обсуждают новые контракты в агрохимии",
-      "title_neutral": "Россия и Бразилия обсуждают новые контракты в агрохимии",
-      "excerpt": "Президент Бразильско-российской палаты по торговле, промышленности и туризму Жилберто Рамос сообщил, что РФ уже имеет значительное присутствие в Бразилии в части экспорта фосфатов, хлорида калия и мочевины",
-      "recap_neutral": "Президент Бразильско-российской палаты по торговле, промышленности и туризму Жилберто Рамос сообщил, что РФ уже имеет значительное присутствие в Бразилии в части экспорта фосфатов, хлорида калия и мочевины",
-      "main_idea": "Россия и Бразилия обсуждают новые контракты в агрохимии",
+      "title_original": "Трамп считает маловероятным проведение наземной операции против Ирана",
+      "title_neutral": "Трамп считает маловероятным проведение наземной операции против Ирана",
+      "excerpt": "По мнению президента США, порядка 50 тыс. переброшенных на Ближний Восток американских военных \"не находятся в опасности\"",
+      "recap_neutral": "По мнению президента США, порядка 50 тыс",
+      "main_idea": "Трамп считает маловероятным проведение наземной операции против Ирана",
       "tags": [
         "politics",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 16:18:06 +0300",
-      "url": "https://tass.ru/ekonomika/27687089",
+      "published_at": "Sun, 07 Jun 2026 17:54:55 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687443",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Четырехкратный чемпион \"Формулы-1\" Ферстаппен сошел после старта Гран-при Монако",
-      "title_neutral": "Четырехкратный чемпион \"Формулы-1\" Ферстаппен сошел после старта Гран-при Монако",
-      "excerpt": "Болид нидерландского пилота команды \"Ред Булл\" заглох на стартовой решетке",
-      "recap_neutral": "Болид нидерландского пилота команды \"Ред Булл\" заглох на стартовой решетке",
-      "main_idea": "Четырехкратный чемпион \"Формулы-1\" Ферстаппен сошел после старта Гран-при Монако",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 16:17:43 +0300",
-      "url": "https://tass.ru/sport/27687107",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "МАГАТЭ будет следить за разминированием территории для ремонта питающей ЗАЭС ЛЭП",
-      "title_neutral": "МАГАТЭ будет следить за разминированием территории для ремонта питающей ЗАЭС ЛЭП",
-      "excerpt": "Ожидается, что ремонт основной линии электропередачи начнется в ближайшие дни после завершения разминирования",
-      "recap_neutral": "Ожидается, что ремонт основной линии электропередачи начнется в ближайшие дни после завершения разминирования",
-      "main_idea": "МАГАТЭ будет следить за разминированием территории для ремонта питающей ЗАЭС ЛЭП",
+      "title_original": "\"Инсайдер\": Залужный купил квартиру премиум-класса в Лондоне",
+      "title_neutral": "\"Инсайдер\": Залужный купил квартиру премиум-класса в Лондоне",
+      "excerpt": "По информации издания, общая стоимость европейской недвижимости и инвестиций экс-главнокомандующего ВСУ достигает как минимум $5 млн",
+      "recap_neutral": "По информации издания, общая стоимость европейской недвижимости и инвестиций экс-главнокомандующего ВСУ достигает как минимум $5 млн",
+      "main_idea": "\"Инсайдер\": Залужный купил квартиру премиум-класса в Лондоне",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 16:17:31 +0300",
-      "url": "https://tass.ru/ekonomika/27687085",
+      "published_at": "Sun, 07 Jun 2026 17:52:05 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687435",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В день выборов часть Еревана оказалась обесточена",
-      "title_neutral": "В день выборов часть Еревана оказалась обесточена",
-      "excerpt": "Эксперт по энергобезопасности, доктор политических наук Ваге Давтян сообщил, что отключение продлится до 17:00 мск",
-      "recap_neutral": "Эксперт по энергобезопасности, доктор политических наук Ваге Давтян сообщил, что отключение продлится до 17:00 мск",
-      "main_idea": "В день выборов часть Еревана оказалась обесточена",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 16:15:54 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687061",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Брат Арсения Федотова не планирует переходить в группу Мишина",
-      "title_neutral": "Брат Арсения Федотова не планирует переходить в группу Мишина",
-      "excerpt": "Ранее стало известно, что Арсений Федотов покинул группу Этери Тутберидзе",
-      "recap_neutral": "Ранее стало известно, что Арсений Федотов покинул группу Этери Тутберидзе",
-      "main_idea": "Брат Арсения Федотова не планирует переходить в группу Мишина",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 16:08:30 +0300",
-      "url": "https://tass.ru/sport/27687059",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В АИРР назвали основной принцип развития инновационной инфраструктуры в регионах",
-      "title_neutral": "В АИРР назвали основной принцип развития инновационной инфраструктуры в регионах",
-      "excerpt": "Он основан на максимизации \"отдачи\" существующих объектов, заявил директор Ассоциации инновационных регионов России Александр Смекалин",
-      "recap_neutral": "Он основан на максимизации \"отдачи\" существующих объектов, заявил директор Ассоциации инновационных регионов России Александр Смекалин",
-      "main_idea": "В АИРР назвали основной принцип развития инновационной инфраструктуры в регионах",
+      "title_original": "Татьяна Куртукова открыла VK Fest в Казани исполнением гимна России",
+      "title_neutral": "Татьяна Куртукова открыла VK Fest в Казани исполнением гимна России",
+      "excerpt": "На главной сцене фестиваля также выступят Feduk, Дима Масленников, Клава Кока, группа \"Сироткин\", Ришат Тухватуллин, Дора и Zivert",
+      "recap_neutral": "На главной сцене фестиваля также выступят Feduk, Дима Масленников, Клава Кока, группа \"Сироткин\", Ришат Тухватуллин, Дора и Zivert",
+      "main_idea": "Татьяна Куртукова открыла VK Fest в Казани исполнением гимна России",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 16:07:53 +0300",
-      "url": "https://tass.ru/ekonomika/27685597",
+      "published_at": "Sun, 07 Jun 2026 17:47:40 +0300",
+      "url": "https://tass.ru/obschestvo/27687221",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Футболистки сборной России во второй раз за неделю обыграли команду Китая",
-      "title_neutral": "Футболистки сборной России во второй раз за неделю обыграли команду Китая",
-      "excerpt": "В воскресенье россиянки победили со счетом 1:0",
-      "recap_neutral": "В воскресенье россиянки победили со счетом 1:0",
-      "main_idea": "Футболистки сборной России во второй раз за неделю обыграли команду Китая",
+      "title_original": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
+      "title_neutral": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
+      "excerpt": "The nearly 100-year-old airport has undergone a rapid $500 million renovation. But experts say it’s not enough.",
+      "recap_neutral": "The nearly 100-year-old airport has undergone a rapid $500 million renovation",
+      "main_idea": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 16:07:46 +0300",
-      "url": "https://tass.ru/sport/27687069",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sun, 07 Jun 2026 14:58:27 +0000",
+      "url": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Запланированную встречу Мадьяра с Зеленским не смогли согласовать",
-      "title_neutral": "Запланированную встречу Мадьяра с Зеленским не смогли согласовать",
-      "excerpt": "В МИД Венгрии утверждают, что \"переговоры о встрече проходят гладко по дипломатическим каналам\"",
-      "recap_neutral": "В МИД Венгрии утверждают, что \"переговоры о встрече проходят гладко по дипломатическим каналам\"",
-      "main_idea": "Запланированную встречу Мадьяра с Зеленским не смогли согласовать",
+      "title_original": "The OnlyFans Economy of American AI",
+      "title_neutral": "The OnlyFans Economy of American AI",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The OnlyFans Economy of American AI",
       "tags": [
+        "economy",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 16:07:44 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687011",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Sun, 07 Jun 2026 14:47:17 +0000",
+      "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Arab Gunman Kills One in Attack on Central Israel",
+      "title_neutral": "Arab Gunman Kills One in Attack on Central Israel",
+      "excerpt": "The assailant, an Arab citizen of Israel, was killed. Hamas, the Palestinian militant group, praised the shooting, but it did not claim responsibility.",
+      "recap_neutral": "The assailant, an Arab citizen of Israel, was killed",
+      "main_idea": "Arab Gunman Kills One in Attack on Central Israel",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 07 Jun 2026 14:12:44 +0000",
+      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -430,7 +472,7 @@
         "tech"
       ],
       "source": "BBC World",
-      "published_at": "Sun, 07 Jun 2026 13:38:28 GMT",
+      "published_at": "Sun, 07 Jun 2026 14:00:16 GMT",
       "url": "https://www.bbc.com/news/articles/ce8j0jn4xjgo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
@@ -462,23 +504,6 @@
       "source": "Hacker News",
       "published_at": "Sun, 07 Jun 2026 13:06:52 +0000",
       "url": "https://github.com/anthropics/claude-code/issues/65697",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them",
-      "title_neutral": "Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sun, 07 Jun 2026 12:54:54 +0000",
-      "url": "https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -536,6 +561,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "title_neutral": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 07 Jun 2026 11:16:46 +0000",
+      "url": "https://github.com/devenjarvis/lathe",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
       "title_neutral": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
       "excerpt": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
@@ -570,39 +612,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Gunman Kills at Least One in Attack on Central Israel",
-      "title_neutral": "Gunman Kills at Least One in Attack on Central Israel",
-      "excerpt": "Israeli authorities described the shootings as a terrorist attack. Hamas, the Palestinian militant group, praised the assault, but did not claim responsibility.",
-      "recap_neutral": "Israeli authorities described the shootings as a terrorist attack",
-      "main_idea": "Gunman Kills at Least One in Attack on Central Israel",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 07 Jun 2026 10:25:33 +0000",
-      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Scientists ejected from diabetes conference for distributing journal reprints",
-      "title_neutral": "Scientists ejected from diabetes conference for distributing journal reprints",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Scientists ejected from diabetes conference for distributing journal reprints",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 07 Jun 2026 10:10:33 +0000",
-      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Peru’s Presidential Runoff Could Swing the Country to the Right: What to Know",
       "title_neutral": "Peru’s Presidential Runoff Could Swing the Country to the Right: What to Know",
       "excerpt": "Facing a surge in violence, voters will choose between a newly moderated left and a right-wing candidate representing an autocrat’s divisive legacy.",
@@ -631,23 +640,6 @@
       "source": "NYTimes World",
       "published_at": "Sun, 07 Jun 2026 09:02:06 +0000",
       "url": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
-      "title_neutral": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
-      "excerpt": "The nearly 100-year-old airport has undergone a rapid $500 million renovation. But experts say it’s not enough.",
-      "recap_neutral": "The nearly 100-year-old airport has undergone a rapid $500 million renovation",
-      "main_idea": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 07 Jun 2026 09:00:26 +0000",
-      "url": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -1041,7 +1033,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 06 Jun 2026 22:01:57 +0000",
+      "published_at": "Sat, 06 Jun 2026 22:01:58 +0000",
       "url": "https://www.nytimes.com/2026/06/06/world/europe/ukraine-drone-strike-st-petersburg.html",
       "lang": "en",
       "bias_score": 55,
@@ -1117,6 +1109,21 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "title_neutral": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 06 Jun 2026 19:17:46 +0000",
+      "url": "https://ntsc.rs/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
