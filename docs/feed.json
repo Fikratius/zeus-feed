@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-06-07T16:50:05.388446+00:00",
+  "last_updated": "2026-06-07T18:00:40.774721+00:00",
   "items": [
-    {
-      "title_original": "How Long Does It Take for a QQuickItem to Become Visible?",
-      "title_neutral": "How Long Does It Take for a QQuickItem to Become Visible?",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "How Long Does It Take for a QQuickItem to Become Visible?",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 04 Jun 2026 19:29:29 +0000",
-      "url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
     {
       "title_original": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
       "title_neutral": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
@@ -64,6 +49,21 @@
       "lang": "en",
       "bias_score": 54,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
+      "title_neutral": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 04 Jun 2026 13:55:39 +0000",
+      "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -138,269 +138,344 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Japan sees shortage of plastic bags, trays and gloves, as Iran war-induced naphtha shortage worsens",
-      "title_neutral": "Japan sees shortage of plastic bags, trays and gloves, as Iran war-induced naphtha shortage worsens",
-      "excerpt": "The Middle East is Japan’s main source of crude oil, from which naphtha is extracted and used to make items including printing ink and plastics Takeaways, supermarkets, and bakeries in Japan are running out of plastic bags, trays and food service gloves amid widening shortages of the key plastic in…",
-      "recap_neutral": "The Middle East is Japan’s main source of crude oil, from which naphtha is extracted and used to make items including printing ink and plastics Takeaways, supermarkets, and bakeries in Japan are running out of plastic b…",
-      "main_idea": "Japan sees shortage of plastic bags, trays and gloves, as Iran war-induced naphtha shortage worsens",
+      "title_original": "Следком Армении завел 59 дел по нарушениям на выборах",
+      "title_neutral": "Следком Армении завел 59 дел по нарушениям на выборах",
+      "excerpt": "Девять граждан задержали",
+      "recap_neutral": "Девять граждан задержали",
+      "main_idea": "Следком Армении завел 59 дел по нарушениям на выборах",
       "tags": [
-        "economy",
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 20:59:08 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27688073",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Тренер сборной по синхронному плаванию объяснила включение мужчин в группу",
+      "title_neutral": "Тренер сборной по синхронному плаванию объяснила включение мужчин в группу",
+      "excerpt": "Никита Бодров и Никита Скляров на юношеском первенстве Европы выступили в дисциплине \"комби\"",
+      "recap_neutral": "Никита Бодров и Никита Скляров на юношеском первенстве Европы выступили в дисциплине \"комби\"",
+      "main_idea": "Тренер сборной по синхронному плаванию объяснила включение мужчин в группу",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 20:52:51 +0300",
+      "url": "https://tass.ru/sport/27688071",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Патриарх Кирилл освятил памятник князю Владимиру в Калининграде",
+      "title_neutral": "Патриарх Кирилл освятил памятник князю Владимиру в Калининграде",
+      "excerpt": "В своей проповеди он обратил внимание на то, какой ценой далось русскому народу появление и укрепление православной веры в области",
+      "recap_neutral": "В своей проповеди он обратил внимание на то, какой ценой далось русскому народу появление и укрепление православной веры в области",
+      "main_idea": "Патриарх Кирилл освятил памятник князю Владимиру в Калининграде",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 20:47:28 +0300",
+      "url": "https://tass.ru/obschestvo/27686733",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Александр Зверев стал победителем Roland Garros",
+      "title_neutral": "Александр Зверев стал победителем Roland Garros",
+      "excerpt": "В финале представитель Германии обыграл итальянца Флавио Коболли",
+      "recap_neutral": "В финале представитель Германии обыграл итальянца Флавио Коболли",
+      "main_idea": "Александр Зверев стал победителем Roland Garros",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 20:44:59 +0300",
+      "url": "https://tass.ru/sport/27688059",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Гармаш приступит к репетициям в театре Мастерская \"12\" 8 июня",
+      "title_neutral": "Гармаш приступит к репетициям в театре Мастерская \"12\" 8 июня",
+      "excerpt": "Актер проходил плановое медицинское обследование",
+      "recap_neutral": "Актер проходил плановое медицинское обследование",
+      "main_idea": "Гармаш приступит к репетициям в театре Мастерская \"12\" 8 июня",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 20:44:27 +0300",
+      "url": "https://tass.ru/kultura/27687835",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Экзитпол: партия премьера непризнанного Косова лидирует на выборах в парламент",
+      "title_neutral": "Экзитпол: партия премьера непризнанного Косова лидирует на выборах в парламент",
+      "excerpt": "Движение \"Самоопределение\" Альбина Курти набирает 42,3%",
+      "recap_neutral": "Движение \"Самоопределение\" Альбина Курти набирает 42,3%",
+      "main_idea": "Экзитпол: партия премьера непризнанного Косова лидирует на выборах в парламент",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 20:42:52 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27688045",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Подмосковье подростки пострадали из-за столкновения питбайка и автомобиля",
+      "title_neutral": "В Подмосковье подростки пострадали из-за столкновения питбайка и автомобиля",
+      "excerpt": "Сотрудники ГАИ устанавливают обстоятельства случившегося",
+      "recap_neutral": "Сотрудники ГАИ устанавливают обстоятельства случившегося",
+      "main_idea": "В Подмосковье подростки пострадали из-за столкновения питбайка и автомобиля",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 20:42:31 +0300",
+      "url": "https://tass.ru/proisshestviya/27688003",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Мальцев прокомментировал выступление синхронистов на первенстве Европы",
+      "title_neutral": "Мальцев прокомментировал выступление синхронистов на первенстве Европы",
+      "excerpt": "На турнире среди юношей в Люксембурге российские спортсмены завоевали золотые медали во всех дисциплинах",
+      "recap_neutral": "На турнире среди юношей в Люксембурге российские спортсмены завоевали золотые медали во всех дисциплинах",
+      "main_idea": "Мальцев прокомментировал выступление синхронистов на первенстве Европы",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 20:41:50 +0300",
+      "url": "https://tass.ru/sport/27688053",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Сочи и Сириусе объявили угрозу атаки БПЛА",
+      "title_neutral": "В Сочи и Сириусе объявили угрозу атаки БПЛА",
+      "excerpt": "На территориях включены сирены",
+      "recap_neutral": "На территориях включены сирены",
+      "main_idea": "В Сочи и Сириусе объявили угрозу атаки БПЛА",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 20:38:30 +0300",
+      "url": "https://tass.ru/proisshestviya/27688029",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: причиной ДТП под Ярославлем могли стать технические неполадки в автобусе",
+      "title_neutral": "ТАСС: причиной ДТП под Ярославлем могли стать технические неполадки в автобусе",
+      "excerpt": "Опрокинувшийся транспорт перевозил группу туристов из Москвы",
+      "recap_neutral": "Опрокинувшийся транспорт перевозил группу туристов из Москвы",
+      "main_idea": "ТАСС: причиной ДТП под Ярославлем могли стать технические неполадки в автобусе",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 20:35:44 +0300",
+      "url": "https://tass.ru/proisshestviya/27687983",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Стройкомплекс Запорожской области перешел на цифровую систему управления проектами",
+      "title_neutral": "Стройкомплекс Запорожской области перешел на цифровую систему управления проектами",
+      "excerpt": "Это гарантирует бесперебойность процессов при сложной логистике, перебоях со связью и иных ограничениях",
+      "recap_neutral": "Это гарантирует бесперебойность процессов при сложной логистике, перебоях со связью и иных ограничениях",
+      "main_idea": "Стройкомплекс Запорожской области перешел на цифровую систему управления проектами",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 20:31:10 +0300",
+      "url": "https://tass.ru/nedvizhimost/27687833",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Над регионами России и над акваторией Черного моря за день сбили 58 БПЛА",
+      "title_neutral": "Над регионами России и над акваторией Черного моря за день сбили 58 БПЛА",
+      "excerpt": "Дроны уничтожили над территориями Белгородской, Брянской, Курской областей, Краснодарского края, Республики Крым",
+      "recap_neutral": "Дроны уничтожили над территориями Белгородской, Брянской, Курской областей, Краснодарского края, Республики Крым",
+      "main_idea": "Над регионами России и над акваторией Черного моря за день сбили 58 БПЛА",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 20:27:55 +0300",
+      "url": "https://tass.ru/proisshestviya/27687989",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Казахстане назвали причину очереди из грузовиков на границе с РФ",
+      "title_neutral": "В Казахстане назвали причину очереди из грузовиков на границе с РФ",
+      "excerpt": "Комитета госдоходов Министерства финансов республики считает, что это связано со снижением темпов их приема сопредельной стороной",
+      "recap_neutral": "Комитета госдоходов Министерства финансов республики считает, что это связано со снижением темпов их приема сопредельной стороной",
+      "main_idea": "В Казахстане назвали причину очереди из грузовиков на границе с РФ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 20:27:39 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687977",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Очередь у Крымского моста сократилась до 530 автомобилей",
+      "title_neutral": "Очередь у Крымского моста сократилась до 530 автомобилей",
+      "excerpt": "Время ожидания составляет около часа",
+      "recap_neutral": "Время ожидания составляет около часа",
+      "main_idea": "Очередь у Крымского моста сократилась до 530 автомобилей",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 20:25:13 +0300",
+      "url": "https://tass.ru/obschestvo/27687965",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Тунисе отметили 70-летие освящения главного храма РПЦ",
+      "title_neutral": "В Тунисе отметили 70-летие освящения главного храма РПЦ",
+      "excerpt": "В церемонии приняли участие представители посольства РФ в Тунисе, Русского дома и православной общины",
+      "recap_neutral": "В церемонии приняли участие представители посольства РФ в Тунисе, Русского дома и православной общины",
+      "main_idea": "В Тунисе отметили 70-летие освящения главного храма РПЦ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 07 Jun 2026 20:24:36 +0300",
+      "url": "https://tass.ru/obschestvo/27687773",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Zelensky arrives in UK for Downing Street talks with European leaders",
+      "title_neutral": "Zelensky arrives in UK for Downing Street talks with European leaders",
+      "excerpt": "Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran.",
+      "recap_neutral": "Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran",
+      "main_idea": "Zelensky arrives in UK for Downing Street talks with European leaders",
+      "tags": [
+        "politics",
         "conflict",
         "tech"
       ],
-      "source": "The Guardian",
-      "published_at": "Thu, 04 Jun 2026 00:12:10 GMT",
-      "url": "https://www.theguardian.com/world/2026/jun/04/japan-naphtha-shortage-plastic-bag",
+      "source": "BBC World",
+      "published_at": "Sun, 07 Jun 2026 17:28:35 GMT",
+      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
-      "bias_score": 60,
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Powering up a module from the IBM 604: an electronic calculator from 1948",
+      "title_neutral": "Powering up a module from the IBM 604: an electronic calculator from 1948",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Powering up a module from the IBM 604: an electronic calculator from 1948",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 07 Jun 2026 17:18:12 +0000",
+      "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Armenia votes as Russia piles pressure on pro-West government",
+      "title_neutral": "Armenia votes as Russia piles pressure on pro-West government",
+      "excerpt": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+      "recap_neutral": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support",
+      "main_idea": "Armenia votes as Russia piles pressure on pro-West government",
+      "tags": [
+        "politics"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 07 Jun 2026 17:11:54 GMT",
+      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Arab Gunman Kills One in Attack on Central Israel",
+      "title_neutral": "Arab Gunman Kills One in Attack on Central Israel",
+      "excerpt": "The assailant, an Arab citizen of Israel, was killed. Hamas, the Palestinian militant group, praised the shooting, but it did not claim responsibility.",
+      "recap_neutral": "The assailant, an Arab citizen of Israel, was killed",
+      "main_idea": "Arab Gunman Kills One in Attack on Central Israel",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 07 Jun 2026 17:03:13 +0000",
+      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Proliferate (YC S25) is hiring to building open source Codex",
+      "title_neutral": "Proliferate (YC S25) is hiring to building open source Codex",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Proliferate (YC S25) is hiring to building open source Codex",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 07 Jun 2026 17:01:17 +0000",
+      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Author of Home Office report on China reveals attempts to compromise him",
+      "title_neutral": "Author of Home Office report on China reveals attempts to compromise him",
+      "excerpt": "Exclusive: Dr David Wilson says former British police officer approached him as part of efforts to influence his work The author of a Home Office-sponsored report on the Chinese state and organised crime in the UK was the target of failed honey traps and a suspected attempt to compromise him by a f…",
+      "recap_neutral": "Exclusive: Dr David Wilson says former British police officer approached him as part of efforts to influence his work The author of a Home Office-sponsored report on the Chinese state and organised crime in the UK was t…",
+      "main_idea": "Author of Home Office report on China reveals attempts to compromise him",
+      "tags": [
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Sun, 07 Jun 2026 17:00:02 GMT",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/07/home-office-china-report-honey-traps-compromise-attempts",
+      "lang": "en",
+      "bias_score": 54,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В блоке \"Сильная Армения\" заявили, что Пашинян проигрывает выборы",
-      "title_neutral": "В блоке \"Сильная Армения\" заявили, что Пашинян проигрывает выборы",
-      "excerpt": "Это показывает исторически высокая явка, заявил Нарек Карапетян",
-      "recap_neutral": "Это показывает исторически высокая явка, заявил Нарек Карапетян",
-      "main_idea": "В блоке \"Сильная Армения\" заявили, что Пашинян проигрывает выборы",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 19:39:19 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687827",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Галибаф: удары по Бейруту превращают базы США и Израиля в законные цели для Ирана",
-      "title_neutral": "Галибаф: удары по Бейруту превращают базы США и Израиля в законные цели для Ирана",
-      "excerpt": "Своими действиями США и Израиль показали, что они не понимают никакого другого языка, кроме языка силы, заявил спикер Меджлиса исламской республики",
-      "recap_neutral": "Своими действиями США и Израиль показали, что они не понимают никакого другого языка, кроме языка силы, заявил спикер Меджлиса исламской республики",
-      "main_idea": "Галибаф: удары по Бейруту превращают базы США и Израиля в законные цели для Ирана",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 19:30:37 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687819",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Призер Олимпиад Ефимова заявила, что задумывалась о завершении карьеры",
-      "title_neutral": "Призер Олимпиад Ефимова заявила, что задумывалась о завершении карьеры",
-      "excerpt": "Ранее она выполнила квалификационный норматив на дистанции 50 м брассом на чемпионате России в Казани",
-      "recap_neutral": "Ранее она выполнила квалификационный норматив на дистанции 50 м брассом на чемпионате России в Казани",
-      "main_idea": "Призер Олимпиад Ефимова заявила, что задумывалась о завершении карьеры",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 19:30:04 +0300",
-      "url": "https://tass.ru/sport/27687801",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Белгородской области из-за детонации дрона ВСУ пострадал мужчина",
-      "title_neutral": "В Белгородской области из-за детонации дрона ВСУ пострадал мужчина",
-      "excerpt": "Медики бригады СМП оказали ему помощь на месте",
-      "recap_neutral": "Медики бригады СМП оказали ему помощь на месте",
-      "main_idea": "В Белгородской области из-за детонации дрона ВСУ пострадал мужчина",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 19:28:06 +0300",
-      "url": "https://tass.ru/proisshestviya/27687811",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Дюплантис прервал серию из 40 побед на соревнованиях по прыжкам с шестом",
-      "title_neutral": "Дюплантис прервал серию из 40 побед на соревнованиях по прыжкам с шестом",
-      "excerpt": "Шведский спортсмен занял второе место на этапе Бриллиантовой лиги в Стокгольме",
-      "recap_neutral": "Шведский спортсмен занял второе место на этапе Бриллиантовой лиги в Стокгольме",
-      "main_idea": "Дюплантис прервал серию из 40 побед на соревнованиях по прыжкам с шестом",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 19:27:45 +0300",
-      "url": "https://tass.ru/sport/27687805",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Bild: ультраправый политик впервые со времен нацистов может стать мэром города в ФРГ",
-      "title_neutral": "Bild: ультраправый политик впервые со времен нацистов может стать мэром города в ФРГ",
-      "excerpt": "Речь идет о небольшом саксонском городе Ауэ-Бад-Шлема",
-      "recap_neutral": "Речь идет о небольшом саксонском городе Ауэ-Бад-Шлема",
-      "main_idea": "Bild: ультраправый политик впервые со времен нацистов может стать мэром города в ФРГ",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 19:25:39 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687795",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лантратова ведет переговоры о возвращении в РФ с Украины членов 10 семей",
-      "title_neutral": "Лантратова ведет переговоры о возвращении в РФ с Украины членов 10 семей",
-      "excerpt": "Первая встреча Яны Лантратовой в должности уполномоченного по правам человека в РФ и ее украинского коллеги Дмитрия Лубинца состоялась 5 июня",
-      "recap_neutral": "Первая встреча Яны Лантратовой в должности уполномоченного по правам человека в РФ и ее украинского коллеги Дмитрия Лубинца состоялась 5 июня",
-      "main_idea": "Лантратова ведет переговоры о возвращении в РФ с Украины членов 10 семей",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 19:21:55 +0300",
-      "url": "https://tass.ru/obschestvo/27687791",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Актер Поднозов находится в реанимации в тяжелом состоянии",
-      "title_neutral": "Актер Поднозов находится в реанимации в тяжелом состоянии",
-      "excerpt": "По словам его жены Алисы Олейник, Дмитрий Поднозов болен раком",
-      "recap_neutral": "По словам его жены Алисы Олейник, Дмитрий Поднозов болен раком",
-      "main_idea": "Актер Поднозов находится в реанимации в тяжелом состоянии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 19:13:06 +0300",
-      "url": "https://tass.ru/obschestvo/27687765",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Украинский омбудсмен сообщил о четырех случаях смерти мобилизованных в военкоматах",
-      "title_neutral": "Украинский омбудсмен сообщил о четырех случаях смерти мобилизованных в военкоматах",
-      "excerpt": "Дмитрий Лубинец также заявил, что \"людей запихивают в микроавтобусы и вывозят в неизвестном направлении\"",
-      "recap_neutral": "Дмитрий Лубинец также заявил, что \"людей запихивают в микроавтобусы и вывозят в неизвестном направлении\"",
-      "main_idea": "Украинский омбудсмен сообщил о четырех случаях смерти мобилизованных в военкоматах",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 19:10:21 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687751",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Ярославской области опрокинулся экскурсионный автобус",
-      "title_neutral": "В Ярославской области опрокинулся экскурсионный автобус",
-      "excerpt": "Пострадали 12 человек, в том числе двое детей",
-      "recap_neutral": "Пострадали 12 человек, в том числе двое детей",
-      "main_idea": "В Ярославской области опрокинулся экскурсионный автобус",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 19:09:42 +0300",
-      "url": "https://tass.ru/proisshestviya/27687739",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мирра Андреева рассказала, почему не встретилась с Брэдом Питтом в Париже",
-      "title_neutral": "Мирра Андреева рассказала, почему не встретилась с Брэдом Питтом в Париже",
-      "excerpt": "Российская теннисистка в субботу выиграла Roland Garros",
-      "recap_neutral": "Российская теннисистка в субботу выиграла Roland Garros",
-      "main_idea": "Мирра Андреева рассказала, почему не встретилась с Брэдом Питтом в Париже",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 19:07:45 +0300",
-      "url": "https://tass.ru/sport/27687749",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В блоке \"Армения\" Кочаряна заявили, что власти используют схему \"выборной карусели\"",
-      "title_neutral": "В блоке \"Армения\" Кочаряна заявили, что власти используют схему \"выборной карусели\"",
-      "excerpt": "Оппозиция и наблюдатели ранее также сообщали о многочисленных нарушениях на проходящих парламентских выборах",
-      "recap_neutral": "Оппозиция и наблюдатели ранее также сообщали о многочисленных нарушениях на проходящих парламентских выборах",
-      "main_idea": "В блоке \"Армения\" Кочаряна заявили, что власти используют схему \"выборной карусели\"",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 19:06:37 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687709",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ефимова оценила отбор на ЧЕ по плаванию",
-      "title_neutral": "Ефимова оценила отбор на ЧЕ по плаванию",
-      "excerpt": "Она выполнила квалификационный норматив на дистанции 50 м брассом на чемпионате России в Казани",
-      "recap_neutral": "Она выполнила квалификационный норматив на дистанции 50 м брассом на чемпионате России в Казани",
-      "main_idea": "Ефимова оценила отбор на ЧЕ по плаванию",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 19:06:34 +0300",
-      "url": "https://tass.ru/sport/27687745",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Focus Online: евродепутаты от партии BSW отправились с визитом в Москву",
-      "title_neutral": "Focus Online: евродепутаты от партии BSW отправились с визитом в Москву",
-      "excerpt": "Рут Фирмених и Михаэль фон дер Шуленбург в общем заявлении подчеркнули, что намерены продолжить переговоры, начатые в 2025 году",
-      "recap_neutral": "Рут Фирмених и Михаэль фон дер Шуленбург в общем заявлении подчеркнули, что намерены продолжить переговоры, начатые в 2025 году",
-      "main_idea": "Focus Online: евродепутаты от партии BSW отправились с визитом в Москву",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 19:05:12 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687725",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В блоке \"Армения\" заявили, что правящая партия привлекла бюджетные учреждения",
-      "title_neutral": "В блоке \"Армения\" заявили, что правящая партия привлекла бюджетные учреждения",
-      "excerpt": "Весь государственный аппарат на позавчерашнем митинге \"Гражданского договора\" был внесен в списки, их принудили явиться, заявил второй номер в списке блока \"Армения\" Ишхан Сагателян",
-      "recap_neutral": "Весь государственный аппарат на позавчерашнем митинге \"Гражданского договора\" был внесен в списки, их принудили явиться, заявил второй номер в списке блока \"Армения\" Ишхан Сагателян",
-      "main_idea": "В блоке \"Армения\" заявили, что правящая партия привлекла бюджетные учреждения",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 07 Jun 2026 19:03:36 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27687649",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
@@ -433,24 +508,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
-      "title_neutral": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
-      "excerpt": "Ukrainian officials say a Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant.",
-      "recap_neutral": "Ukrainian officials say a Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant",
-      "main_idea": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 07 Jun 2026 16:03:38 GMT",
-      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -514,7 +571,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sun, 07 Jun 2026 15:20:58 +0000",
+      "published_at": "Sun, 07 Jun 2026 15:20:59 +0000",
       "url": "https://www.nytimes.com/2026/06/07/world/europe/ukraine-europe-russia-us-peace-talks.html",
       "lang": "en",
       "bias_score": 55,
@@ -554,29 +611,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Arab Gunman Kills One in Attack on Central Israel",
-      "title_neutral": "Arab Gunman Kills One in Attack on Central Israel",
-      "excerpt": "The assailant, an Arab citizen of Israel, was killed. Hamas, the Palestinian militant group, praised the shooting, but it did not claim responsibility.",
-      "recap_neutral": "The assailant, an Arab citizen of Israel, was killed",
-      "main_idea": "Arab Gunman Kills One in Attack on Central Israel",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 07 Jun 2026 14:12:44 +0000",
-      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Podman 6: machine usability improvements",
-      "title_neutral": "Podman 6: machine usability improvements",
+      "title_original": "Podman 6: machine usability improvements (2025)",
+      "title_neutral": "Podman 6: machine usability improvements (2025)",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Podman 6: machine usability improvements",
+      "main_idea": "Podman 6: machine usability improvements (2025)",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Sun, 07 Jun 2026 14:01:27 +0000",
@@ -736,33 +775,21 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "9 Mothers (YC P26) Is Hiring",
-      "title_neutral": "9 Mothers (YC P26) Is Hiring",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "9 Mothers (YC P26) Is Hiring",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 07 Jun 2026 12:00:40 +0000",
-      "url": "https://9mothers.com/careers",
+      "title_original": "U.K. deputy prime minister: JD Vance was wrong to blame teen's murder on immigration",
+      "title_neutral": "U.K. deputy prime minister: JD Vance was wrong to blame teen's murder on immigration",
+      "excerpt": "Britain's deputy prime minister says he told U.S. Vice President JD Vance he was wrong to blame immigration for the death of a university student who was handcuffed as he lay dying from a stab wound.",
+      "recap_neutral": "Britain's deputy prime minister says he told U",
+      "main_idea": "U.K. deputy prime minister: JD Vance was wrong to blame teen's murder on immigration",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Sun, 07 Jun 2026 11:39:52 -0400",
+      "url": "https://www.npr.org/2026/06/07/nx-s1-5849212/u-k-deputy-prime-minister-jd-vance-was-wrong-to-blame-teens-murder-on-immigration",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The best relationships are all-encompassing.",
-      "title_neutral": "The best relationships are all-encompassing.",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The best relationships are all-encompassing.",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 07 Jun 2026 11:55:05 +0000",
-      "url": "https://andys.blog/the-best-relationships/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -936,11 +963,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say",
-      "title_neutral": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say",
-      "excerpt": "Gunfire erupted Saturday near a busy street festival in Ohio, wounding at least 12 people and sending some eventgoers scrambling for cover while others rushed to help the victims.",
-      "recap_neutral": "Gunfire erupted Saturday near a busy street festival in Ohio, wounding at least 12 people and sending some eventgoers scrambling for cover while others rushed to help the victims",
-      "main_idea": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say",
+      "title_original": "Police search for suspects in Ohio shooting that wounded 12 near a street festival",
+      "title_neutral": "Police search for suspects in Ohio shooting that wounded 12 near a street festival",
+      "excerpt": "Police still had no suspects in custody Sunday after a weekend shooting near an Ohio street festival wounded 12 people and sent attendees scrambling for cover in a busy Toledo neighborhood.",
+      "recap_neutral": "Police still had no suspects in custody Sunday after a weekend shooting near an Ohio street festival wounded 12 people and sent attendees scrambling for cover in a busy Toledo neighborhood",
+      "main_idea": "Police search for suspects in Ohio shooting that wounded 12 near a street festival",
       "tags": [],
       "source": "NPR",
       "published_at": "Sun, 07 Jun 2026 06:02:05 -0400",
@@ -1036,23 +1063,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Armenia votes as Russia piles pressure on pro-West government",
-      "title_neutral": "Armenia votes as Russia piles pressure on pro-West government",
-      "excerpt": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
-      "recap_neutral": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support",
-      "main_idea": "Armenia votes as Russia piles pressure on pro-West government",
-      "tags": [
-        "politics"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 07 Jun 2026 04:45:51 GMT",
-      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Member of Neo-Nazi Party Reaches Mayoral Runoff in German Town",
       "title_neutral": "Member of Neo-Nazi Party Reaches Mayoral Runoff in German Town",
       "excerpt": "Since the fall of the Third Reich, German voters have shunned mayoral candidates from neo-Nazi parties. That could change on Sunday in a small town in the country’s east.",
@@ -1132,6 +1142,23 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Public Domain Image Archive",
+      "title_neutral": "Public Domain Image Archive",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Public Domain Image Archive",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 07 Jun 2026 00:22:51 +0000",
+      "url": "https://pdimagearchive.org/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1281,23 +1308,6 @@
       "source": "NPR",
       "published_at": "Sat, 06 Jun 2026 17:05:39 -0400",
       "url": "https://www.npr.org/2026/06/06/nx-s1-5847932/why-one-historian-uses-social-media-to-remember-d-day-in-real-time",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Who will face Karen Bass? LA voters still waiting to find out",
-      "title_neutral": "Who will face Karen Bass? LA voters still waiting to find out",
-      "excerpt": "Results are still coming in from the mayoral primary in Los Angeles. LAist reporter Frank Stoltze discusses who may emerge to face Karen Bass in November.",
-      "recap_neutral": "Results are still coming in from the mayoral primary in Los Angeles",
-      "main_idea": "Who will face Karen Bass? LA voters still waiting to find out",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 06 Jun 2026 17:05:36 -0400",
-      "url": "https://www.npr.org/2026/06/06/nx-s1-5845371/who-will-face-karen-bass-la-voters-still-waiting-to-find-out",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1656,21 +1666,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Yon – a topos-oriented language with a content-addressed lattice heap",
-      "title_neutral": "Yon – a topos-oriented language with a content-addressed lattice heap",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Yon – a topos-oriented language with a content-addressed lattice heap",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 05 Jun 2026 00:28:17 +0000",
-      "url": "https://yon-lang.org/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     }
   ]
