@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T21:13:32.914527+00:00",
+  "last_updated": "2026-06-12T22:55:07.032504+00:00",
   "items": [
     {
       "title_original": "Four days of extreme rain in Indonesia killed 7% of world’s rarest great apes, study finds",
@@ -71,6 +71,25 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Why the economics make this the craziest World Cup ever",
+      "title_neutral": "Why the economics make this the craziest World Cup ever",
+      "excerpt": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.",
+      "recap_neutral": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it",
+      "main_idea": "Why the economics make this the craziest World Cup ever",
+      "tags": [
+        "economy",
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 11 Jun 2026 23:07:52 GMT",
+      "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "U.S. Blocks Deal by Florida-based Vanguard Energy to Supply Fuel to Cuba",
       "title_neutral": "U.S. Blocks Deal by Florida-based Vanguard Energy to Supply Fuel to Cuba",
       "excerpt": "The deal to ship 250,000 barrels of fuel to Cuba could have eased an energy crisis. But the Trump administration says Vanguard Energy lacks the authorization to proceed.",
@@ -117,23 +136,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "There Is Life Before Main in Rust",
-      "title_neutral": "There Is Life Before Main in Rust",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "There Is Life Before Main in Rust",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Thu, 11 Jun 2026 17:32:35 +0000",
-      "url": "https://grack.com/blog/2026/06/11/life-before-main/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -191,23 +193,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Artan to referee Uefa Super Cup after losing World Cup role",
-      "title_neutral": "Artan to referee Uefa Super Cup after losing World Cup role",
-      "excerpt": "Somali referee Omar Artan is appointed to take charge of the Uefa Super Cup match between Paris St-Germain and Aston Villa later this summer after being denied a spot at the World Cup.",
-      "recap_neutral": "Somali referee Omar Artan is appointed to take charge of the Uefa Super Cup match between Paris St-Germain and Aston Villa later this summer after being denied a spot at the World Cup",
-      "main_idea": "Artan to referee Uefa Super Cup after losing World Cup role",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 11 Jun 2026 14:24:58 GMT",
-      "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Thai court sentences two Uyghur men to death for 2015 Bangkok bombing",
       "title_neutral": "Thai court sentences two Uyghur men to death for 2015 Bangkok bombing",
       "excerpt": "Twenty people were killed and 120 injured in the attack at the Erawan Shrine, a popular tourist destination A Thai court has handed out death sentences to two Uyghur men from the north-western Chinese region of Xinjiang for a 2015 bombing in the centre of Bangkok that killed 20 people. The explosio…",
@@ -226,96 +211,253 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Кепки с надписью \"Россия\" и флаги РФ продают в Канаде во время ЧМ по футболу",
-      "title_neutral": "Кепки с надписью \"Россия\" и флаги РФ продают в Канаде во время ЧМ по футболу",
-      "excerpt": "Сборная России по футболу с 2022 года отстранена от участия в международных турнирах",
-      "recap_neutral": "Сборная России по футболу с 2022 года отстранена от участия в международных турнирах",
-      "main_idea": "Кепки с надписью \"Россия\" и флаги РФ продают в Канаде во время ЧМ по футболу",
-      "tags": [
-        "tech"
-      ],
+      "title_original": "Congress Just Rushed Through a Disastrous Copyright Office Overhaul",
+      "title_neutral": "Congress Just Rushed Through a Disastrous Copyright Office Overhaul",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Congress Just Rushed Through a Disastrous Copyright Office Overhaul",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 11 Jun 2026 00:00:42 +0000",
+      "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ГД предложили сократить сроки ожидания записи к врачам по ОМС",
+      "title_neutral": "В ГД предложили сократить сроки ожидания записи к врачам по ОМС",
+      "excerpt": "Лидер ЛДПР Леонид Слуцкий отметил, что многие сталкиваются с ситуацией, когда право на бесплатную медпомощь \"существует только на бумаге\"",
+      "recap_neutral": "Лидер ЛДПР Леонид Слуцкий отметил, что многие сталкиваются с ситуацией, когда право на бесплатную медпомощь \"существует только на бумаге\"",
+      "main_idea": "В ГД предложили сократить сроки ожидания записи к врачам по ОМС",
+      "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 00:09:21 +0300",
-      "url": "https://tass.ru/sport/27745529",
+      "published_at": "Sat, 13 Jun 2026 01:43:08 +0300",
+      "url": "https://tass.ru/obschestvo/27745667",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Додик: Европа требует от Боснии и Герцеговины ввести визы для россиян",
-      "title_neutral": "Додик: Европа требует от Боснии и Герцеговины ввести визы для россиян",
+      "title_original": "Дмитриев: Россия говорила правду о биолабораториях США на Украине",
+      "title_neutral": "Дмитриев: Россия говорила правду о биолабораториях США на Украине",
+      "excerpt": "Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами призвал \"Википедию\" исправить статью об этих объектах, озаглавленную как \"конспирологическая теория\"",
+      "recap_neutral": "Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами призвал \"Википедию\" исправить статью об этих объектах, озаглавленную как \"конспирологическая теория\"",
+      "main_idea": "Дмитриев: Россия говорила правду о биолабораториях США на Украине",
+      "tags": [
+        "politics",
+        "economy"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 01:42:44 +0300",
+      "url": "https://tass.ru/politika/27745657",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Самарской области объявили беспилотную опасность",
+      "title_neutral": "В Самарской области объявили беспилотную опасность",
       "excerpt": "",
-      "recap_neutral": "Додик: Европа требует от Боснии и Герцеговины ввести визы для россиян",
-      "main_idea": "Додик: Европа требует от Боснии и Герцеговины ввести визы для россиян",
+      "recap_neutral": "В Самарской области объявили беспилотную опасность",
+      "main_idea": "В Самарской области объявили беспилотную опасность",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 01:41:01 +0300",
+      "url": "https://tass.ru/proisshestviya/27745651",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Бурдж-Халифу окрасили в цвета российского флага в честь Дня России",
+      "title_neutral": "Бурдж-Халифу окрасили в цвета российского флага в честь Дня России",
+      "excerpt": "Триколор появился на фасаде здания, сообщила газета News of Bahrain",
+      "recap_neutral": "Триколор появился на фасаде здания, сообщила газета News of Bahrain",
+      "main_idea": "Бурдж-Халифу окрасили в цвета российского флага в честь Дня России",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 00:05:41 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27745513",
+      "published_at": "Sat, 13 Jun 2026 01:25:35 +0300",
+      "url": "https://tass.ru/obschestvo/27745645",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Съезд партии ФИДЕС переизберет Орбана на посту председателя",
-      "title_neutral": "Съезд партии ФИДЕС переизберет Орбана на посту председателя",
-      "excerpt": "Ожидается, что бывший премьер Венгрии будет единственным кандидатом, сообщил официальный представитель партии Берталан Хаваши",
-      "recap_neutral": "Ожидается, что бывший премьер Венгрии будет единственным кандидатом, сообщил официальный представитель партии Берталан Хаваши",
-      "main_idea": "Съезд партии ФИДЕС переизберет Орбана на посту председателя",
+      "title_original": "На Камчатке вулкан Шивелуч выбросил пепел",
+      "title_neutral": "На Камчатке вулкан Шивелуч выбросил пепел",
+      "excerpt": "Высота выброса составила около 9 км",
+      "recap_neutral": "Высота выброса составила около 9 км",
+      "main_idea": "На Камчатке вулкан Шивелуч выбросил пепел",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 01:19:21 +0300",
+      "url": "https://tass.ru/proisshestviya/27745641",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп позвонил главному тренеру сборной США перед чемпионатом мира",
+      "title_neutral": "Трамп позвонил главному тренеру сборной США перед чемпионатом мира",
+      "excerpt": "Глава Белого дома выразил уверенность в том, что у команды есть все шансы дойти до конца на домашнем турнире",
+      "recap_neutral": "Глава Белого дома выразил уверенность в том, что у команды есть все шансы дойти до конца на домашнем турнире",
+      "main_idea": "Трамп позвонил главному тренеру сборной США перед чемпионатом мира",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 01:14:31 +0300",
+      "url": "https://tass.ru/sport/27745635",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В РФ в 2025 году заболеваемость геморрагической лихорадкой выросла в 1,6 раза",
+      "title_neutral": "В РФ в 2025 году заболеваемость геморрагической лихорадкой выросла в 1,6 раза",
+      "excerpt": "В то же время она не превысила среднемноголетний уровень, следует из данных Роспотребнадзора",
+      "recap_neutral": "В то же время она не превысила среднемноголетний уровень, следует из данных Роспотребнадзора",
+      "main_idea": "В РФ в 2025 году заболеваемость геморрагической лихорадкой выросла в 1,6 раза",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 01:12:32 +0300",
+      "url": "https://tass.ru/obschestvo/27745629",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МОТ приняла первую в мире конвенцию о защите прав работников цифровых платформ",
+      "title_neutral": "МОТ приняла первую в мире конвенцию о защите прав работников цифровых платформ",
+      "excerpt": "Договор \"задает глобальные правила игры, которые должны обеспечить достойные условия труда в этом быстрорастущем секторе\", говорится в заявлении Международной организации труда",
+      "recap_neutral": "Договор \"задает глобальные правила игры, которые должны обеспечить достойные условия труда в этом быстрорастущем секторе\", говорится в заявлении Международной организации труда",
+      "main_idea": "МОТ приняла первую в мире конвенцию о защите прав работников цифровых платформ",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 00:03:41 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27745497",
+      "published_at": "Sat, 13 Jun 2026 01:11:27 +0300",
+      "url": "https://tass.ru/ekonomika/27745625",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Лейтенант Мокшин вытащил двух раненых солдат из горящей машины",
-      "title_neutral": "Лейтенант Мокшин вытащил двух раненых солдат из горящей машины",
-      "excerpt": "Благодаря действиям офицера удалось сохранить жизни военных",
-      "recap_neutral": "Благодаря действиям офицера удалось сохранить жизни военных",
-      "main_idea": "Лейтенант Мокшин вытащил двух раненых солдат из горящей машины",
+      "title_original": "В Одессе произошли взрывы",
+      "title_neutral": "В Одессе произошли взрывы",
+      "excerpt": "В регионе объявили воздушную тревогу",
+      "recap_neutral": "В регионе объявили воздушную тревогу",
+      "main_idea": "В Одессе произошли взрывы",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 00:02:21 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27745503",
+      "published_at": "Sat, 13 Jun 2026 01:05:01 +0300",
+      "url": "https://tass.ru/proisshestviya/27745619",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Сборная Канады впервые не проиграла в матче чемпионата мира по футболу",
-      "title_neutral": "Сборная Канады впервые не проиграла в матче чемпионата мира по футболу",
-      "excerpt": "В игре группы В канадцы сыграли вничью с боснийцами",
-      "recap_neutral": "В игре группы В канадцы сыграли вничью с боснийцами",
-      "main_idea": "Сборная Канады впервые не проиграла в матче чемпионата мира по футболу",
+      "title_original": "NASA: грузовой космический корабль Cargo Dragon отстыкуется от МКС 16 июня",
+      "title_neutral": "NASA: грузовой космический корабль Cargo Dragon отстыкуется от МКС 16 июня",
+      "excerpt": "Аппарат доставит на Землю результаты проведенных экспериментов, включая напечатанные при помощи биопринтера образцы хрящевой ткани, а также материалы для исследований в области борьбы с онкологическими заболеваниями",
+      "recap_neutral": "Аппарат доставит на Землю результаты проведенных экспериментов, включая напечатанные при помощи биопринтера образцы хрящевой ткани, а также материалы для исследований в области борьбы с онкологическими заболеваниями",
+      "main_idea": "NASA: грузовой космический корабль Cargo Dragon отстыкуется от МКС 16 июня",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 00:00:05 +0300",
-      "url": "https://tass.ru/sport/27745485",
+      "published_at": "Sat, 13 Jun 2026 01:04:40 +0300",
+      "url": "https://tass.ru/kosmos/27745611",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Военная операция на Украине. Онлайн",
-      "title_neutral": "Военная операция на Украине. Онлайн",
-      "excerpt": "",
-      "recap_neutral": "Военная операция на Украине. Онлайн",
-      "main_idea": "Военная операция на Украине. Онлайн",
+      "title_original": "Марочко: Киев усиливает подразделения ВСУ боевиками из \"Айдара\"",
+      "title_neutral": "Марочко: Киев усиливает подразделения ВСУ боевиками из \"Айдара\"",
+      "excerpt": "Военный эксперт сообщил, что при помощи боевиков из националистических подразделений командование пытается \"хоть как-то продлить жизнь\" сформированным из призывников подразделениям",
+      "recap_neutral": "Военный эксперт сообщил, что при помощи боевиков из националистических подразделений командование пытается \"хоть как-то продлить жизнь\" сформированным из призывников подразделениям",
+      "main_idea": "Марочко: Киев усиливает подразделения ВСУ боевиками из \"Айдара\"",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 00:00:01 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27744535",
+      "published_at": "Sat, 13 Jun 2026 01:03:01 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27745599",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Пензенской области ввели режим беспилотной опасности",
+      "title_neutral": "В Пензенской области ввели режим беспилотной опасности",
+      "excerpt": "В регионе временно ограничили мобильный интернет",
+      "recap_neutral": "В регионе временно ограничили мобильный интернет",
+      "main_idea": "В Пензенской области ввели режим беспилотной опасности",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 00:48:35 +0300",
+      "url": "https://tass.ru/proisshestviya/27745593",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Reuters: ОАЭ решили разблокировать активы Ирана на $10 млрд",
+      "title_neutral": "Reuters: ОАЭ решили разблокировать активы Ирана на $10 млрд",
+      "excerpt": "По информации агентства, республике уже передали порядка $3 млрд из этих средств",
+      "recap_neutral": "По информации агентства, республике уже передали порядка $3 млрд из этих средств",
+      "main_idea": "Reuters: ОАЭ решили разблокировать активы Ирана на $10 млрд",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 00:47:01 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27745583",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Неймар не сыграет в первом матче сборной Бразилии на чемпионате мира",
+      "title_neutral": "Неймар не сыграет в первом матче сборной Бразилии на чемпионате мира",
+      "excerpt": "Нападающий пропустит игру с марокканцами из-за травмы икроножной мышцы",
+      "recap_neutral": "Нападающий пропустит игру с марокканцами из-за травмы икроножной мышцы",
+      "main_idea": "Неймар не сыграет в первом матче сборной Бразилии на чемпионате мира",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 00:46:49 +0300",
+      "url": "https://tass.ru/sport/27745591",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Калининграде стартовал фестиваль классической музыки \"Кантата\"",
+      "title_neutral": "В Калининграде стартовал фестиваль классической музыки \"Кантата\"",
+      "excerpt": "Перед зрителями выступил сводный оркестр музыкантов Калининградского симфонического оркестра и Московского государственного академического симфонического оркестра под управлением Фабио Мастранджело",
+      "recap_neutral": "Перед зрителями выступил сводный оркестр музыкантов Калининградского симфонического оркестра и Московского государственного академического симфонического оркестра под управлением Фабио Мастранджело",
+      "main_idea": "В Калининграде стартовал фестиваль классической музыки \"Кантата\"",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 00:40:59 +0300",
+      "url": "https://tass.ru/kultura/27745573",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
@@ -339,153 +481,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Десятки людей пришли к Кеннеди-центру посмотреть на удаление имени Трампа",
-      "title_neutral": "Десятки людей пришли к Кеннеди-центру посмотреть на удаление имени Трампа",
-      "excerpt": "Большинство собравшихся публично выражает несогласие с политикой действующего президента США",
-      "recap_neutral": "Большинство собравшихся публично выражает несогласие с политикой действующего президента США",
-      "main_idea": "Десятки людей пришли к Кеннеди-центру посмотреть на удаление имени Трампа",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 12 Jun 2026 23:58:52 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27745467",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Сборные Канады и Боснии и Герцеговины сыграли вничью в матче чемпионата мира",
-      "title_neutral": "Сборные Канады и Боснии и Герцеговины сыграли вничью в матче чемпионата мира",
-      "excerpt": "Встреча завершилась со счетом 1:1",
-      "recap_neutral": "Встреча завершилась со счетом 1:1",
-      "main_idea": "Сборные Канады и Боснии и Герцеговины сыграли вничью в матче чемпионата мира",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 12 Jun 2026 23:58:49 +0300",
-      "url": "https://tass.ru/sport/27745479",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В порту Сирика на юге Ирана произошли взрывы",
-      "title_neutral": "В порту Сирика на юге Ирана произошли взрывы",
-      "excerpt": "",
-      "recap_neutral": "В порту Сирика на юге Ирана произошли взрывы",
-      "main_idea": "В порту Сирика на юге Ирана произошли взрывы",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 12 Jun 2026 23:58:34 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27745457",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропорту Краснодара ввели дополнительные временные ограничения",
-      "title_neutral": "В аэропорту Краснодара ввели дополнительные временные ограничения",
-      "excerpt": "Они необходимы для обеспечения безопасности полетов",
-      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
-      "main_idea": "В аэропорту Краснодара ввели дополнительные временные ограничения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 12 Jun 2026 23:55:57 +0300",
-      "url": "https://tass.ru/ekonomika/27745451",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Артек\" отметил День России вручением паспортов и парадом",
-      "title_neutral": "\"Артек\" отметил День России вручением паспортов и парадом",
-      "excerpt": "День завершился массовым танцевальным флешмобом",
-      "recap_neutral": "День завершился массовым танцевальным флешмобом",
-      "main_idea": "\"Артек\" отметил День России вручением паспортов и парадом",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 12 Jun 2026 23:55:18 +0300",
-      "url": "https://tass.ru/obschestvo/27745407",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Ночные волки\" доставили в Петрозаводск капсулу с землей из Звездного городка",
-      "title_neutral": "\"Ночные волки\" доставили в Петрозаводск капсулу с землей из Звездного городка",
-      "excerpt": "Она будет находиться в центре сквера Юрия Гагарина",
-      "recap_neutral": "Она будет находиться в центре сквера Юрия Гагарина",
-      "main_idea": "\"Ночные волки\" доставили в Петрозаводск капсулу с землей из Звездного городка",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 12 Jun 2026 23:51:33 +0300",
-      "url": "https://tass.ru/obschestvo/27745379",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Фестиваль \"Топфест\" в День России посетили более 75 тыс. зрителей",
-      "title_neutral": "Фестиваль \"Топфест\" в День России посетили более 75 тыс. зрителей",
-      "excerpt": "На сцене выступили популярные блогеры-миллионники и известные артисты",
-      "recap_neutral": "На сцене выступили популярные блогеры-миллионники и известные артисты",
-      "main_idea": "Фестиваль \"Топфест\" в День России посетили более 75 тыс. зрителей",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 12 Jun 2026 23:49:45 +0300",
-      "url": "https://tass.ru/obschestvo/27745437",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Артемовске военные ко Дню России установили вечный огонь у танка Т-34",
-      "title_neutral": "В Артемовске военные ко Дню России установили вечный огонь у танка Т-34",
-      "excerpt": "Это сделали военнослужащие Южной группировки войск",
-      "recap_neutral": "Это сделали военнослужащие Южной группировки войск",
-      "main_idea": "В Артемовске военные ко Дню России установили вечный огонь у танка Т-34",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 12 Jun 2026 23:48:36 +0300",
-      "url": "https://tass.ru/obschestvo/27745397",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Петрозаводске разыскивают пропавшего несколько дней назад подростка",
-      "title_neutral": "В Петрозаводске разыскивают пропавшего несколько дней назад подростка",
-      "excerpt": "В последний раз его видели с друзьями на берегу Онежского озера, сообщили в МВД Карелии",
-      "recap_neutral": "В последний раз его видели с друзьями на берегу Онежского озера, сообщили в МВД Карелии",
-      "main_idea": "В Петрозаводске разыскивают пропавшего несколько дней назад подростка",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 12 Jun 2026 23:46:58 +0300",
-      "url": "https://tass.ru/proisshestviya/27745433",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Iran War Live Updates: Cease-Fire Deal Appears Within Reach, Officials Say",
       "title_neutral": "Iran War Live Updates: Cease-Fire Deal Appears Within Reach, Officials Say",
       "excerpt": "U.S. and Iranian officials said final details were still being worked out, but President Trump and Iran’s foreign minister both said they were close to an agreement. Previous potential deals have evaporated at the last minute.",
@@ -497,11 +492,76 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Fri, 12 Jun 2026 21:05:10 +0000",
+      "published_at": "Fri, 12 Jun 2026 22:43:34 +0000",
       "url": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "U.S. Says Iran Cease-Fire Deal ‘Very Close’",
+      "title_neutral": "U.S. Says Iran Cease-Fire Deal ‘Very Close’",
+      "excerpt": "A senior administration official said the two sides were “not quite at the finish line yet.”",
+      "recap_neutral": "A senior administration official said the two sides were “not quite at the finish line yet",
+      "main_idea": "U.S. Says Iran Cease-Fire Deal ‘Very Close’",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 12 Jun 2026 22:43:33 +0000",
+      "url": "https://www.nytimes.com/2026/06/12/world/middleeast/us-iran-ceasefire-deal-white-house.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Twenty One Zero-Days in FFmpeg",
+      "title_neutral": "Twenty One Zero-Days in FFmpeg",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Twenty One Zero-Days in FFmpeg",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 12 Jun 2026 22:13:29 +0000",
+      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Renault: Electric motors with no rare earths",
+      "title_neutral": "Renault: Electric motors with no rare earths",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Renault: Electric motors with no rare earths",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 12 Jun 2026 22:08:03 +0000",
+      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+      "title_neutral": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+      "excerpt": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
+      "recap_neutral": "Musk is now worth $1",
+      "main_idea": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 12 Jun 2026 22:00:52 GMT",
+      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -520,44 +580,126 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Western Australia Is Battling a Mouse Plague",
-      "title_neutral": "Western Australia Is Battling a Mouse Plague",
-      "excerpt": "For months, mice have been found in tea kettles, crunched by car tires and even appeared in people’s beds. In one town, the end might be in sight.",
-      "recap_neutral": "For months, mice have been found in tea kettles, crunched by car tires and even appeared in people’s beds",
-      "main_idea": "Western Australia Is Battling a Mouse Plague",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Fri, 12 Jun 2026 21:00:05 +0000",
-      "url": "https://www.nytimes.com/2026/06/12/world/australia/australia-mouse-plague.html",
+      "title_original": "Educational Byte: Why Do We Need Tools for Free Speech and Free Markets?",
+      "title_neutral": "Educational Byte: Why Do We Need Tools for Free Speech and Free Markets?",
+      "excerpt": "Who controls your voice and your money online? A closer look at why new tools are reshaping both, and what that could mean for you.",
+      "recap_neutral": "Who controls your voice and your money online? A closer look at why new tools are reshaping both, and what that could mean for you",
+      "main_idea": "Educational Byte: Why Do We Need Tools for Free Speech and Free Markets?",
+      "tags": [
+        "economy"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 12 Jun 2026 20:49:42 GMT",
+      "url": "https://hackernoon.com/educational-byte-why-do-we-need-tools-for-free-speech-and-free-markets?source=rss",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-      "title_neutral": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-      "excerpt": "Musk's AI and reusable rocket company listed on the Nasdaq stock exchange with a value of $2.2tn.",
-      "recap_neutral": "Musk's AI and reusable rocket company listed on the Nasdaq stock exchange with a value of $2",
-      "main_idea": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+      "title_original": "Palantir loses legal challenge against Swiss investigative magazine",
+      "title_neutral": "Palantir loses legal challenge against Swiss investigative magazine",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Palantir loses legal challenge against Swiss investigative magazine",
       "tags": [
-        "economy",
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Fri, 12 Jun 2026 20:39:36 +0000",
+      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
+      "title_neutral": "Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 12 Jun 2026 20:34:42 +0000",
+      "url": "https://worldofclaudecraft.com/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Fans on concourses instead of in seats, claims Fifa",
+      "title_neutral": "Fans on concourses instead of in seats, claims Fifa",
+      "excerpt": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses.",
+      "recap_neutral": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses",
+      "main_idea": "Fans on concourses instead of in seats, claims Fifa",
+      "tags": [
         "tech"
       ],
       "source": "BBC World",
-      "published_at": "Fri, 12 Jun 2026 20:46:32 GMT",
-      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 12 Jun 2026 20:26:23 GMT",
+      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Swift at Apple: Migrating the TrueType Hinting Interpreter",
-      "title_neutral": "Swift at Apple: Migrating the TrueType Hinting Interpreter",
+      "title_original": "RaccoonLine Publishes an Explanation of Its Decentralized VPN Protocol",
+      "title_neutral": "RaccoonLine Publishes an Explanation of Its Decentralized VPN Protocol",
+      "excerpt": "Rome, Italy, June 12th, 2026/CyberNewswire/-- RaccoonLine has published a new overview of its protocol architecture, outlining how it differs from conventional VPN services. Understanding the difference explains why decentralized VPNs can offer privacy and resilience guarantees that centralized ser…",
+      "recap_neutral": "Rome, Italy, June 12th, 2026/CyberNewswire/-- RaccoonLine has published a new overview of its protocol architecture, outlining how it differs from conventional VPN services",
+      "main_idea": "RaccoonLine Publishes an Explanation of Its Decentralized VPN Protocol",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 12 Jun 2026 20:18:54 GMT",
+      "url": "https://hackernoon.com/raccoonline-publishes-an-explanation-of-its-decentralized-vpn-protocol?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Can I Buy Your KV Cache?",
+      "title_neutral": "Can I Buy Your KV Cache?",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Swift at Apple: Migrating the TrueType Hinting Interpreter",
+      "main_idea": "Can I Buy Your KV Cache?",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 12 Jun 2026 20:14:27 +0000",
+      "url": "https://arxiv.org/abs/2606.13361",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "500 Blog Posts To Learn About Productivity",
+      "title_neutral": "500 Blog Posts To Learn About Productivity",
+      "excerpt": "Let's learn about Productivity via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. Looking for a #LifeHack? You're in the right place. But first ask yourself, how many Pomo…",
+      "recap_neutral": "Let's learn about Productivity via these 500 free blog posts",
+      "main_idea": "500 Blog Posts To Learn About Productivity",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 12 Jun 2026 20:00:15 GMT",
+      "url": "https://hackernoon.com/500-blog-posts-to-learn-about-productivity?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Swift at Apple: Migrating the TrueType hinting interpreter",
+      "title_neutral": "Swift at Apple: Migrating the TrueType hinting interpreter",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Swift at Apple: Migrating the TrueType hinting interpreter",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Fri, 12 Jun 2026 19:54:27 +0000",
@@ -600,18 +742,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Cosmodial Sky Atlas",
-      "title_neutral": "Cosmodial Sky Atlas",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Cosmodial Sky Atlas",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 12 Jun 2026 18:20:17 +0000",
-      "url": "https://killedbyapixel.github.io/Cosmodial/",
+      "title_original": "Justice Dept. approves Paramount's acquisition of Warner Bros. Discovery",
+      "title_neutral": "Justice Dept. approves Paramount's acquisition of Warner Bros. Discovery",
+      "excerpt": "The decision paves the way for a proposed $110 billion merger uniting two rival studio giants — Paramount, owner of CBS, and the much larger Warner, which includes HBO and CNN.",
+      "recap_neutral": "The decision paves the way for a proposed $110 billion merger uniting two rival studio giants — Paramount, owner of CBS, and the much larger Warner, which includes HBO and CNN",
+      "main_idea": "Justice Dept. approves Paramount's acquisition of Warner Bros. Discovery",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NPR",
+      "published_at": "Fri, 12 Jun 2026 18:29:12 -0400",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5856567/paramount-acquisition-warner-bros-discovery-merger",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -632,6 +776,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "A Trump push to cut 'statistical noise' could mean less data from the Census Bureau",
+      "title_neutral": "A Trump push to cut 'statistical noise' could mean less data from the Census Bureau",
+      "excerpt": "New public data for redistricting and other uses may be reduced as Trump officials limit the ways the Census Bureau can protect people's privacy when it releases statistics.",
+      "recap_neutral": "New public data for redistricting and other uses may be reduced as Trump officials limit the ways the Census Bureau can protect people's privacy when it releases statistics",
+      "main_idea": "A Trump push to cut 'statistical noise' could mean less data from the Census Bureau",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Fri, 12 Jun 2026 18:01:19 -0400",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5855734/census-bureau-data-differential-privacy",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Israel Is Building Army Base in Jenin, Flouting 1990s Pact With Palestinians",
       "title_neutral": "Israel Is Building Army Base in Jenin, Flouting 1990s Pact With Palestinians",
       "excerpt": "Critics say the move would help the Israeli military protect increased settlement activity near Palestinian population centers in the West Bank.",
@@ -646,21 +805,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "I Am Not a Reverse Centaur",
-      "title_neutral": "I Am Not a Reverse Centaur",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "I Am Not a Reverse Centaur",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 12 Jun 2026 17:53:20 +0000",
-      "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -708,6 +852,41 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Every Moment Video Is Now Independently Verifiable on NBA Top Shot, Built by Dapper Labs",
+      "title_neutral": "Every Moment Video Is Now Independently Verifiable on NBA Top Shot, Built by Dapper Labs",
+      "excerpt": "NBA Top Shot, built by Dapper Labs on the Flow, has migrated all Moment media assets to IPFS. Videos, thumbnails, and metadata are now independently verifiable through decentralized, content-addressed storage. Collectors can authenticate assets without relying on Dapper Labs, creating a new standar…",
+      "recap_neutral": "NBA Top Shot, built by Dapper Labs on the Flow, has migrated all Moment media assets to IPFS",
+      "main_idea": "Every Moment Video Is Now Independently Verifiable on NBA Top Shot, Built by Dapper Labs",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 12 Jun 2026 17:04:41 GMT",
+      "url": "https://hackernoon.com/every-moment-video-is-now-independently-verifiable-on-nba-top-shot-built-by-dapper-labs?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to Use the CSC GitHub Template for AI-Assisted Software Development",
+      "title_neutral": "How to Use the CSC GitHub Template for AI-Assisted Software Development",
+      "excerpt": "This article introduces the official CSC GitHub Template, a repository scaffold designed to help human developers and AI coding agents share a consistent understanding of system constraints, intent, and operational procedures. Built around the Agentic Trivium of CONTRACT.md, WHY.md, and QUICKSTART.…",
+      "recap_neutral": "This article introduces the official CSC GitHub Template, a repository scaffold designed to help human developers and AI coding agents share a consistent understanding of system constraints, intent, and operational proc…",
+      "main_idea": "How to Use the CSC GitHub Template for AI-Assisted Software Development",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 12 Jun 2026 17:00:52 GMT",
+      "url": "https://hackernoon.com/how-to-use-the-csc-github-template-for-ai-assisted-software-development?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -760,18 +939,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A PDF that changes based on how its read",
-      "title_neutral": "A PDF that changes based on how its read",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "A PDF that changes based on how its read",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 12 Jun 2026 16:32:50 +0000",
-      "url": "https://sgaud.com/texts/pdf",
+      "title_original": "Terminal Velocity",
+      "title_neutral": "Terminal Velocity",
+      "excerpt": "Jet Le Parti argues that digital culture has entered a state of \"saturation,\" where critique, resistance, and identity are absorbed into platform systems before they fully emerge. Building on Debord, Baudrillard, Wark, and Fisher, he introduces Residualism and Exaptism as frameworks for understandi…",
+      "recap_neutral": "Jet Le Parti argues that digital culture has entered a state of \"saturation,\" where critique, resistance, and identity are absorbed into platform systems before they fully emerge",
+      "main_idea": "Terminal Velocity",
+      "tags": [
+        "conflict"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 12 Jun 2026 16:27:44 GMT",
+      "url": "https://hackernoon.com/terminal-velocity?source=rss",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -828,6 +1009,38 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "The HackerNoon Newsletter: How Enterprise AI Systems Simulate Memory Without Breaking the Token Budget (6/12/2026)",
+      "title_neutral": "The HackerNoon Newsletter: How Enterprise AI Systems Simulate Memory Without Breaking the Token Budget (6/12/2026)",
+      "excerpt": "How are you, hacker? 🪐 What’s happening in tech today, June 12, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox. On this day, 3Com and Us Robotics Merged in 1997, The Boeing 777 Made Its Maiden Flight in 1994, The Gas Mask Was Patented in 1849, The Soviet Union…",
+      "recap_neutral": "How are you, hacker? 🪐 What’s happening in tech today, June 12, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox",
+      "main_idea": "The HackerNoon Newsletter: How Enterprise AI Systems Simulate Memory Without Breaking the Token Budget (6/12/2026)",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 12 Jun 2026 16:05:21 GMT",
+      "url": "https://hackernoon.com/6-12-2026-newsletter?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "HackerNoon Projects of the Week: RoyFlow, Skyrim Wellbeing Manager, and Spawnr",
+      "title_neutral": "HackerNoon Projects of the Week: RoyFlow, Skyrim Wellbeing Manager, and Spawnr",
+      "excerpt": "Three startups—RoyFlow, Skyrim Wellbeing Manager, and Spawnr—featured in HackerNoon Projects of the Week for proving real-world usefulness.",
+      "recap_neutral": "Three startups—RoyFlow, Skyrim Wellbeing Manager, and Spawnr—featured in HackerNoon Projects of the Week for proving real-world usefulness",
+      "main_idea": "HackerNoon Projects of the Week: RoyFlow, Skyrim Wellbeing Manager, and Spawnr",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Fri, 12 Jun 2026 16:00:45 GMT",
+      "url": "https://hackernoon.com/hackernoon-projects-of-the-week-royflow-skyrim-wellbeing-manager-and-spawnr?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
       "title_neutral": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
       "excerpt": "José Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery.",
@@ -859,21 +1072,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Where Did Earth Get Its Oceans? Maybe It Made Them Itself",
-      "title_neutral": "Where Did Earth Get Its Oceans? Maybe It Made Them Itself",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Where Did Earth Get Its Oceans? Maybe It Made Them Itself",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 12 Jun 2026 15:32:56 +0000",
-      "url": "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1006,21 +1204,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A dumpster arrived behind my university's library",
-      "title_neutral": "A dumpster arrived behind my university's library",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "A dumpster arrived behind my university's library",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 12 Jun 2026 14:21:22 +0000",
-      "url": "https://yalereview.org/article/sheila-liming-the-end-of-books",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1160,26 +1343,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Indonesian students protest against state spending, fuel price hike",
-      "title_neutral": "Indonesian students protest against state spending, fuel price hike",
-      "excerpt": "The protesters warn wasteful government spending risks driving the country into bankruptcy.",
-      "recap_neutral": "The protesters warn wasteful government spending risks driving the country into bankruptcy",
-      "main_idea": "Indonesian students protest against state spending, fuel price hike",
-      "tags": [
-        "politics",
-        "economy",
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 12 Jun 2026 11:15:32 GMT",
-      "url": "https://www.bbc.com/news/articles/cqx18d47pzjo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
       "title_neutral": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
       "excerpt": "The singer thanks her family as she becomes the youngest woman to be inducted into the Hall of Fame.",
@@ -1257,6 +1420,23 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "David Hockney: Art's great innovator whose vivid paintings made him a household name",
+      "title_neutral": "David Hockney: Art's great innovator whose vivid paintings made him a household name",
+      "excerpt": "The proud Yorkshireman, who also painted iconic pictures of America, was routinely described as Britain's greatest artist.",
+      "recap_neutral": "The proud Yorkshireman, who also painted iconic pictures of America, was routinely described as Britain's greatest artist",
+      "main_idea": "David Hockney: Art's great innovator whose vivid paintings made him a household name",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 12 Jun 2026 09:52:22 GMT",
+      "url": "https://www.bbc.com/news/articles/ck77rg88gd9o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1343,41 +1523,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Rhett Buttle’s Take on America's Most Underrated Policy Tool",
-      "title_neutral": "Rhett Buttle’s Take on America's Most Underrated Policy Tool",
-      "excerpt": "America’s toughest economic challenges, from workforce shortages to small business fragility and regional innovation gaps, increasingly require collaboration between government and the private sector. Through Public Private Strategies, Rhett Buttle has championed partnerships that connect policy de…",
-      "recap_neutral": "America’s toughest economic challenges, from workforce shortages to small business fragility and regional innovation gaps, increasingly require collaboration between government and the private sector",
-      "main_idea": "Rhett Buttle’s Take on America's Most Underrated Policy Tool",
-      "tags": [
-        "politics"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 12 Jun 2026 08:30:06 GMT",
-      "url": "https://hackernoon.com/rhett-buttles-take-on-americas-most-underrated-policy-tool?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Rethinking Design by Contract for the Age of Stateless AI Agents",
-      "title_neutral": "Rethinking Design by Contract for the Age of Stateless AI Agents",
-      "excerpt": "This article revisits Bertrand Meyer's Design by Contract framework through the lens of AI-assisted software development. It argues that classical contracts implicitly assume collaborators possess persistent contextual memory, an assumption that breaks down when stateless AI agents become primary c…",
-      "recap_neutral": "This article revisits Bertrand Meyer's Design by Contract framework through the lens of AI-assisted software development",
-      "main_idea": "Rethinking Design by Contract for the Age of Stateless AI Agents",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 12 Jun 2026 08:00:13 GMT",
-      "url": "https://hackernoon.com/rethinking-design-by-contract-for-the-age-of-stateless-ai-agents?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "‘Spy turtles’ and ‘spy fish’ being used to monitor Chinese waters, Beijing claims",
       "title_neutral": "‘Spy turtles’ and ‘spy fish’ being used to monitor Chinese waters, Beijing claims",
       "excerpt": "Ministry says animals fitted with sensors by foreign agencies collect sensitive sea data, in ‘invisible secret war’ China’s ministry of state security has claimed that foreign espionage and intelligence agencies are using innovative new methods to monitor the country’s waters, including deploying “…",
@@ -1413,138 +1558,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump cancels further Iran strikes. And, U.S. men's soccer takes on Paraguay",
-      "title_neutral": "Trump cancels further Iran strikes. And, U.S. men's soccer takes on Paraguay",
-      "excerpt": "Trump canceled new Iran strikes and signaled that a peace deal could come soon, but Iran says it hasn't been finalized. And, the U.S. men's soccer team plays its first 2026 World Cup match today.",
-      "recap_neutral": "Trump canceled new Iran strikes and signaled that a peace deal could come soon, but Iran says it hasn't been finalized",
-      "main_idea": "Trump cancels further Iran strikes. And, U.S. men's soccer takes on Paraguay",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 12 Jun 2026 06:42:59 -0400",
-      "url": "https://www.npr.org/2026/06/12/g-s1-127711/up-first-newsletter-iran-peace-national-intelligence-director-world-cup",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Building a Fake Solar Plant for Cybersecurity Research — Part 2",
-      "title_neutral": "Building a Fake Solar Plant for Cybersecurity Research — Part 2",
-      "excerpt": "A contained honeypot impersonating a small internet-facing energy site collected 54 days of traffic – roughly 1.7 million events from 16,568 unique sources, discovered within the first hour. Most was commodity automation, but a thin tail spoke real Modbus, including 392 device-identity reads with z…",
-      "recap_neutral": "A contained honeypot impersonating a small internet-facing energy site collected 54 days of traffic – roughly 1",
-      "main_idea": "Building a Fake Solar Plant for Cybersecurity Research — Part 2",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 12 Jun 2026 06:10:14 GMT",
-      "url": "https://hackernoon.com/building-a-fake-solar-plant-for-cybersecurity-research-part-2?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Graph Clustering for Entity Resolution: Why Union-Find Breaks at Web Scale",
-      "title_neutral": "Graph Clustering for Entity Resolution: Why Union-Find Breaks at Web Scale",
-      "excerpt": "Union-Find is fast, but it breaks for real-world entity resolution because it cannot handle safeguards, reversals, or ambiguous matches. A weighted graph approach with constraints, abstention, and incremental updates works much better at web scale.",
-      "recap_neutral": "Union-Find is fast, but it breaks for real-world entity resolution because it cannot handle safeguards, reversals, or ambiguous matches",
-      "main_idea": "Graph Clustering for Entity Resolution: Why Union-Find Breaks at Web Scale",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 12 Jun 2026 06:06:54 GMT",
-      "url": "https://hackernoon.com/graph-clustering-for-entity-resolution-why-union-find-breaks-at-web-scale?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Google’s Quiet Thrift-Shopping Update Signals a Bigger Threat to the Web’s Search Economy",
-      "title_neutral": "Google’s Quiet Thrift-Shopping Update Signals a Bigger Threat to the Web’s Search Economy",
-      "excerpt": "Google’s quiet thrift-shopping update hints at a larger shift in search, where traffic, value, and commerce are pulled away from the open web.",
-      "recap_neutral": "Google’s quiet thrift-shopping update hints at a larger shift in search, where traffic, value, and commerce are pulled away from the open web",
-      "main_idea": "Google’s Quiet Thrift-Shopping Update Signals a Bigger Threat to the Web’s Search Economy",
-      "tags": [
-        "economy"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 12 Jun 2026 05:59:40 GMT",
-      "url": "https://hackernoon.com/googles-quiet-thrift-shopping-update-signals-a-bigger-threat-to-the-webs-search-economy?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How Indonesia's Digital Assets Approach Offers Lessons for Asia's Future in Digital Finance",
-      "title_neutral": "How Indonesia's Digital Assets Approach Offers Lessons for Asia's Future in Digital Finance",
-      "excerpt": "Indonesia is quietly building one of the world's most advanced crypto governance experiments, but not by choosing between Washington and Beijing, and rather, by combining retail adoption, state infrastructure and regulatory oversight.",
-      "recap_neutral": "Indonesia is quietly building one of the world's most advanced crypto governance experiments, but not by choosing between Washington and Beijing, and rather, by combining retail adoption, state infrastructure and regula…",
-      "main_idea": "How Indonesia's Digital Assets Approach Offers Lessons for Asia's Future in Digital Finance",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 12 Jun 2026 05:59:14 GMT",
-      "url": "https://hackernoon.com/how-indonesias-digital-assets-approach-offers-lessons-for-asias-future-in-digital-finance?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The AI Independence Movement: Why the Next Generation of Intelligence Must Be Decentralized",
-      "title_neutral": "The AI Independence Movement: Why the Next Generation of Intelligence Must Be Decentralized",
-      "excerpt": "Artificial intelligence today is controlled by a small number of centralized providers that dominate compute, storage, and inference. This creates risks like vendor lock-in, rising costs, and lack of transparency. This article explores a decentralized AI future where GPU networks, open inference sy…",
-      "recap_neutral": "Artificial intelligence today is controlled by a small number of centralized providers that dominate compute, storage, and inference",
-      "main_idea": "The AI Independence Movement: Why the Next Generation of Intelligence Must Be Decentralized",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 12 Jun 2026 05:57:09 GMT",
-      "url": "https://hackernoon.com/the-ai-independence-movement-why-the-next-generation-of-intelligence-must-be-decentralized?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Building Knowledge Graphs with Gemini",
-      "title_neutral": "Building Knowledge Graphs with Gemini",
-      "excerpt": "Explore how to turn raw, unstructured documents into structured knowledge graphs using Gemini. This practical guide covers everything from initial prototyping and prompt optimization to scaling up for entire books or dense legal contracts.",
-      "recap_neutral": "Explore how to turn raw, unstructured documents into structured knowledge graphs using Gemini",
-      "main_idea": "Building Knowledge Graphs with Gemini",
+      "title_original": "What do Puerto Ricans think of the viral song about their homeland?",
+      "title_neutral": "What do Puerto Ricans think of the viral song about their homeland?",
+      "excerpt": "People from Puerto Rico reflect on how the catchy tune has attracted attention to where they live.",
+      "recap_neutral": "People from Puerto Rico reflect on how the catchy tune has attracted attention to where they live",
+      "main_idea": "What do Puerto Ricans think of the viral song about their homeland?",
       "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Fri, 12 Jun 2026 05:54:17 GMT",
-      "url": "https://hackernoon.com/building-knowledge-graphs-with-gemini?source=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 12 Jun 2026 05:34:56 GMT",
+      "url": "https://www.bbc.com/news/articles/cwy0v85ldyjo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Which billionaire said they learned a 'significant lesson' this week? The quiz knows",
-      "title_neutral": "Which billionaire said they learned a 'significant lesson' this week? The quiz knows",
-      "excerpt": "This week, Knicks fans had a big win after a big loss; fans of inflation were delighted and World Cup fans went broke. How will quiz fans fare?",
-      "recap_neutral": "This week, Knicks fans had a big win after a big loss; fans of inflation were delighted and World Cup fans went broke",
-      "main_idea": "Which billionaire said they learned a 'significant lesson' this week? The quiz knows",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 12 Jun 2026 05:02:00 -0400",
-      "url": "https://www.npr.org/2026/06/12/g-s1-127424/trump-knicks-musk-world-cup-apple-news-quiz",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1592,36 +1617,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "US Supreme Court denies Alabama's request to carry out nitrogen gas execution",
-      "title_neutral": "US Supreme Court denies Alabama's request to carry out nitrogen gas execution",
-      "excerpt": "Jeffery Lee, 49, was scheduled to be executed on Thursday. The state can still seek to have him put to death using another method.",
-      "recap_neutral": "Jeffery Lee, 49, was scheduled to be executed on Thursday",
-      "main_idea": "US Supreme Court denies Alabama's request to carry out nitrogen gas execution",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 12 Jun 2026 03:15:46 GMT",
-      "url": "https://www.bbc.com/news/articles/cn4dx72lwn7o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Do not use my music, Ariana Grande tells White House",
-      "title_neutral": "Do not use my music, Ariana Grande tells White House",
-      "excerpt": "Grande called a White House video using her song Bye \"heinous nonsense\", joining multiple artists demanding Trump's team not use their music.",
-      "recap_neutral": "Grande called a White House video using her song Bye \"heinous nonsense\", joining multiple artists demanding Trump's team not use their music",
-      "main_idea": "Do not use my music, Ariana Grande tells White House",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 12 Jun 2026 01:53:30 GMT",
-      "url": "https://www.bbc.com/news/articles/c9328k7j2n4o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
