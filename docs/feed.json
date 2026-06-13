@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-06-13T14:36:29.943261+00:00",
+  "last_updated": "2026-06-13T16:11:05.780272+00:00",
   "items": [
+    {
+      "title_original": "Show HN: I am building a map of people who lived in the Roman Empire",
+      "title_neutral": "Show HN: I am building a map of people who lived in the Roman Empire",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: I am building a map of people who lived in the Roman Empire",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 10 Jun 2026 19:28:49 +0000",
+      "url": "https://new.roman-names.com/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
     {
       "title_original": "The state of building user interfaces in Rust",
       "title_neutral": "The state of building user interfaces in Rust",
@@ -48,21 +63,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The computer science degree isn’t dead",
-      "title_neutral": "The computer science degree isn’t dead",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The computer science degree isn’t dead",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 10 Jun 2026 01:33:43 +0000",
-      "url": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -118,254 +118,377 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "GlobalSign начал отзыв \"цифровых паспортов\" российских сайтов",
-      "title_neutral": "GlobalSign начал отзыв \"цифровых паспортов\" российских сайтов",
-      "excerpt": "Решение японского удостоверяющего центра связано с обновленными требованиями Международного консорциума CA/Browser Forum, утверждается в письме гендиректора российского подразделения компании \"Джи-Эм-О Глобал Сайн Раша\" Дмитрия Рыжикова партнерам",
-      "recap_neutral": "Решение японского удостоверяющего центра связано с обновленными требованиями Международного консорциума CA/Browser Forum, утверждается в письме гендиректора российского подразделения компании \"Джи-Эм-О Глобал Сайн Раша\"…",
-      "main_idea": "GlobalSign начал отзыв \"цифровых паспортов\" российских сайтов",
-      "tags": [
-        "tech"
-      ],
+      "title_original": "В Москве и Подмосковье снова ожидается гроза с ливнем",
+      "title_neutral": "В Москве и Подмосковье снова ожидается гроза с ливнем",
+      "excerpt": "Также прогнозируют град и усиление ветра в порывах до 17 м/с",
+      "recap_neutral": "Также прогнозируют град и усиление ветра в порывах до 17 м/с",
+      "main_idea": "В Москве и Подмосковье снова ожидается гроза с ливнем",
+      "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 17:30:48 +0300",
-      "url": "https://tass.ru/ekonomika/27749019",
+      "published_at": "Sat, 13 Jun 2026 19:08:23 +0300",
+      "url": "https://tass.ru/obschestvo/27749383",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Сборная Англии нашла часть вещей, украденных на чемпионате мира",
-      "title_neutral": "Сборная Англии нашла часть вещей, украденных на чемпионате мира",
-      "excerpt": "",
-      "recap_neutral": "Сборная Англии нашла часть вещей, украденных на чемпионате мира",
-      "main_idea": "Сборная Англии нашла часть вещей, украденных на чемпионате мира",
+      "title_original": "Зону отдыха в селе Брейтово Ярославской области благоустроят по нацпроекту",
+      "title_neutral": "Зону отдыха в селе Брейтово Ярославской области благоустроят по нацпроекту",
+      "excerpt": "Губернатор Михаил Евраев сообщил, что на берегу Латыгоры установят перголы с деревянным настилом, столы со скамейками и урны, выполнят покрытие территории и монтаж освещения",
+      "recap_neutral": "Губернатор Михаил Евраев сообщил, что на берегу Латыгоры установят перголы с деревянным настилом, столы со скамейками и урны, выполнят покрытие территории и монтаж освещения",
+      "main_idea": "Зону отдыха в селе Брейтово Ярославской области благоустроят по нацпроекту",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 17:23:15 +0300",
-      "url": "https://tass.ru/sport/27749017",
+      "published_at": "Sat, 13 Jun 2026 19:07:09 +0300",
+      "url": "https://tass.ru/obschestvo/27749319",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Трамп опубликовал пост премьера Пакистана о сроке подписания сделки США и Ирана",
-      "title_neutral": "Трамп опубликовал пост премьера Пакистана о сроке подписания сделки США и Ирана",
-      "excerpt": "В сообщении Шахбаза Шарифа говорится, что ее окончательное оформление, вероятно, состоится в течение 24 часов",
-      "recap_neutral": "В сообщении Шахбаза Шарифа говорится, что ее окончательное оформление, вероятно, состоится в течение 24 часов",
-      "main_idea": "Трамп опубликовал пост премьера Пакистана о сроке подписания сделки США и Ирана",
-      "tags": [
-        "tech"
-      ],
+      "title_original": "В Москве отменили оранжевый уровень опасности из-за жары",
+      "title_neutral": "В Москве отменили оранжевый уровень опасности из-за жары",
+      "excerpt": "Он действовал почти шесть суток",
+      "recap_neutral": "Он действовал почти шесть суток",
+      "main_idea": "В Москве отменили оранжевый уровень опасности из-за жары",
+      "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 17:21:11 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27749007",
+      "published_at": "Sat, 13 Jun 2026 19:04:43 +0300",
+      "url": "https://tass.ru/obschestvo/27749361",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Лондоне прошел военный парад по случаю официального дня рождения Карла III",
-      "title_neutral": "В Лондоне прошел военный парад по случаю официального дня рождения Карла III",
-      "excerpt": "Король Великобритании вместе с семьей наблюдал за церемонией с трибуны",
-      "recap_neutral": "Король Великобритании вместе с семьей наблюдал за церемонией с трибуны",
-      "main_idea": "В Лондоне прошел военный парад по случаю официального дня рождения Карла III",
+      "title_original": "Додик: Путин мудр в своих решениях не допускать масштабных ударов по Украине",
+      "title_neutral": "Додик: Путин мудр в своих решениях не допускать масштабных ударов по Украине",
+      "excerpt": "Cпецоперация ведется с огромным вниманием к защите гражданского населения, заявил председатель ведущей политической партии Республики Сербской \"Союз независимых социал-демократов\"",
+      "recap_neutral": "Cпецоперация ведется с огромным вниманием к защите гражданского населения, заявил председатель ведущей политической партии Республики Сербской \"Союз независимых социал-демократов\"",
+      "main_idea": "Додик: Путин мудр в своих решениях не допускать масштабных ударов по Украине",
       "tags": [
+        "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 17:19:50 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27748995",
+      "published_at": "Sat, 13 Jun 2026 19:01:22 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27749353",
       "lang": "ru",
-      "bias_score": 56,
+      "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Роскачестве рассказали о правилах выбора безопасной шаурмы",
-      "title_neutral": "В Роскачестве рассказали о правилах выбора безопасной шаурмы",
-      "excerpt": "В первую очередь необходимо смотреть на внешний вид повара, а также обращать внимание, есть ли в точке кондиционер, раковина и дезинфицирующее средство",
-      "recap_neutral": "В первую очередь необходимо смотреть на внешний вид повара, а также обращать внимание, есть ли в точке кондиционер, раковина и дезинфицирующее средство",
-      "main_idea": "В Роскачестве рассказали о правилах выбора безопасной шаурмы",
+      "title_original": "Милорад Додик: европейцы хотят создать военный союз",
+      "title_neutral": "Милорад Додик: европейцы хотят создать военный союз",
+      "excerpt": "Председатель ведущей политической партии Республики Сербской (энтитет Боснии и Герцеговины) \"Союз независимых социал-демократов\" Милорад Додик в интервью ТАСС рассказал о попытках Брюсселя рассорить сербов с русскими, прокомментировал планы Евросоюза по милитаризации и решительно выступил против вв…",
+      "recap_neutral": "Председатель ведущей политической партии Республики Сербской (энтитет Боснии и Герцеговины) \"Союз независимых социал-демократов\" Милорад Додик в интервью ТАСС рассказал о попытках Брюсселя рассорить сербов с русскими, п…",
+      "main_idea": "Милорад Додик: европейцы хотят создать военный союз",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 19:00:00 +0300",
+      "url": "https://tass.ru/interviews/27744353",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ярославские власти поддерживают развитие туробъектов Рыбинского водохранилища",
+      "title_neutral": "Ярославские власти поддерживают развитие туробъектов Рыбинского водохранилища",
+      "excerpt": "Губернатор региона Михаил Евраев отметил, что в области создают современные гостиничные комплексы и базы отдыха, развивают водный туризм и совершенствуют инфраструктуру",
+      "recap_neutral": "Губернатор региона Михаил Евраев отметил, что в области создают современные гостиничные комплексы и базы отдыха, развивают водный туризм и совершенствуют инфраструктуру",
+      "main_idea": "Ярославские власти поддерживают развитие туробъектов Рыбинского водохранилища",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 18:59:13 +0300",
+      "url": "https://tass.ru/obschestvo/27749211",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Красноярском крае в ДТП погибли два человека",
+      "title_neutral": "В Красноярском крае в ДТП погибли два человека",
+      "excerpt": "Еще трое пострадали",
+      "recap_neutral": "Еще трое пострадали",
+      "main_idea": "В Красноярском крае в ДТП погибли два человека",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 18:59:07 +0300",
+      "url": "https://tass.ru/proisshestviya/27749349",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На некоторых АЗС Татарстана ввели лимиты для избежания искусственного ажиотажа",
+      "title_neutral": "На некоторых АЗС Татарстана ввели лимиты для избежания искусственного ажиотажа",
+      "excerpt": "Глава республики Рустам Минниханов поручил \"самым внимательным образом подойти к решению данного вопроса\"",
+      "recap_neutral": "Глава республики Рустам Минниханов поручил \"самым внимательным образом подойти к решению данного вопроса\"",
+      "main_idea": "На некоторых АЗС Татарстана ввели лимиты для избежания искусственного ажиотажа",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 18:54:30 +0300",
+      "url": "https://tass.ru/obschestvo/27749331",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На ЗАЭС подтвердили восстановление внешнего электроснабжения по линии \"Ферросплавная-1\"",
+      "title_neutral": "На ЗАЭС подтвердили восстановление внешнего электроснабжения по линии \"Ферросплавная-1\"",
+      "excerpt": "Оборудование станции находится в безопасном состоянии, радиационный фон в норме",
+      "recap_neutral": "Оборудование станции находится в безопасном состоянии, радиационный фон в норме",
+      "main_idea": "На ЗАЭС подтвердили восстановление внешнего электроснабжения по линии \"Ферросплавная-1\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 18:49:50 +0300",
+      "url": "https://tass.ru/ekonomika/27749321",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Стармер пообещал опубликовать план оборонных расходов до саммита НАТО в июле",
+      "title_neutral": "Стармер пообещал опубликовать план оборонных расходов до саммита НАТО в июле",
+      "excerpt": "Премьер-министр Соединенного Королевства подтвердил приверженность достижению уровня оборонных расходов в размере 3% ВВП в течение следующего парламентского созыва",
+      "recap_neutral": "Премьер-министр Соединенного Королевства подтвердил приверженность достижению уровня оборонных расходов в размере 3% ВВП в течение следующего парламентского созыва",
+      "main_idea": "Стармер пообещал опубликовать план оборонных расходов до саммита НАТО в июле",
       "tags": [
         "politics"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 17:19:44 +0300",
-      "url": "https://tass.ru/obschestvo/27746267",
+      "published_at": "Sat, 13 Jun 2026 18:46:09 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27749299",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Авиалесоохране назвали причины увеличения пожаров на севере Красноярского края",
-      "title_neutral": "В Авиалесоохране назвали причины увеличения пожаров на севере Красноярского края",
-      "excerpt": "В частности, их тушение осложняет ветер и массовые вспышки из-за гроз",
-      "recap_neutral": "В частности, их тушение осложняет ветер и массовые вспышки из-за гроз",
-      "main_idea": "В Авиалесоохране назвали причины увеличения пожаров на севере Красноярского края",
+      "title_original": "В Краснодаре за сутки выпала полуторамесячная норма осадков",
+      "title_neutral": "В Краснодаре за сутки выпала полуторамесячная норма осадков",
+      "excerpt": "По данным ЕДДС города, поступило 276 обращений на откачку воды",
+      "recap_neutral": "По данным ЕДДС города, поступило 276 обращений на откачку воды",
+      "main_idea": "В Краснодаре за сутки выпала полуторамесячная норма осадков",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 17:19:22 +0300",
-      "url": "https://tass.ru/proisshestviya/27748989",
+      "published_at": "Sat, 13 Jun 2026 18:45:44 +0300",
+      "url": "https://tass.ru/obschestvo/27749279",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Риттер назвал удар ВСУ по колледжу в Старобельске целенаправленным решением",
-      "title_neutral": "Риттер назвал удар ВСУ по колледжу в Старобельске целенаправленным решением",
-      "excerpt": "Беспилотники были оснащены средствами визуального подтверждения, тепловыми и ночными камерами, подчеркнул экс-аналитик разведки Корпуса морской пехоты США",
-      "recap_neutral": "Беспилотники были оснащены средствами визуального подтверждения, тепловыми и ночными камерами, подчеркнул экс-аналитик разведки Корпуса морской пехоты США",
-      "main_idea": "Риттер назвал удар ВСУ по колледжу в Старобельске целенаправленным решением",
+      "title_original": "ВСУ за сутки запустили порядка 40 беспилотников по ЛНР",
+      "title_neutral": "ВСУ за сутки запустили порядка 40 беспилотников по ЛНР",
+      "excerpt": "Большинство дронов сбили",
+      "recap_neutral": "Большинство дронов сбили",
+      "main_idea": "ВСУ за сутки запустили порядка 40 беспилотников по ЛНР",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 18:37:17 +0300",
+      "url": "https://tass.ru/proisshestviya/27749265",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Минздраве рассказали о состоянии пострадавших в ДТП с маршруткой в Одинцове",
+      "title_neutral": "В Минздраве рассказали о состоянии пострадавших в ДТП с маршруткой в Одинцове",
+      "excerpt": "Трое из них находятся в тяжелом состоянии, восемь - в средней степени тяжести",
+      "recap_neutral": "Трое из них находятся в тяжелом состоянии, восемь - в средней степени тяжести",
+      "main_idea": "В Минздраве рассказали о состоянии пострадавших в ДТП с маршруткой в Одинцове",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 18:35:37 +0300",
+      "url": "https://tass.ru/proisshestviya/27749253",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Число погибших в ДТП в Одинцове увеличилось до двух",
+      "title_neutral": "Число погибших в ДТП в Одинцове увеличилось до двух",
+      "excerpt": "В аварии пострадал 21 человек",
+      "recap_neutral": "В аварии пострадал 21 человек",
+      "main_idea": "Число погибших в ДТП в Одинцове увеличилось до двух",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 18:31:01 +0300",
+      "url": "https://tass.ru/proisshestviya/27749237",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Ярославской области открыли выставку работ из собраний 30 музеев и частных коллекций",
+      "title_neutral": "В Ярославской области открыли выставку работ из собраний 30 музеев и частных коллекций",
+      "excerpt": "Увидеть порядка 50 уникальных работ можно будет до 20 сентября",
+      "recap_neutral": "Увидеть порядка 50 уникальных работ можно будет до 20 сентября",
+      "main_idea": "В Ярославской области открыли выставку работ из собраний 30 музеев и частных коллекций",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 18:27:54 +0300",
+      "url": "https://tass.ru/kultura/27748951",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure",
+      "title_neutral": "With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure",
+      "excerpt": "Iran’s new, more militaristic leaders have already survived the worst that America and Israel can deliver, and seem readier to take risks.",
+      "recap_neutral": "Iran’s new, more militaristic leaders have already survived the worst that America and Israel can deliver, and seem readier to take risks",
+      "main_idea": "With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sat, 13 Jun 2026 15:50:57 +0000",
+      "url": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
+      "title_neutral": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
+      "excerpt": "The prime minister of Pakistan, a key intermediary in U.S.-Iran talks, said a deal was “likely expected.” An Iranian official sought to temper expectations but said an agreement could be signed in the coming days.",
+      "recap_neutral": "The prime minister of Pakistan, a key intermediary in U",
+      "main_idea": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 13 Jun 2026 15:50:40 +0000",
+      "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "What to Know About the Ebola Outbreak",
+      "title_neutral": "What to Know About the Ebola Outbreak",
+      "excerpt": "Aid agencies are racing to help health workers in the Democratic Republic of Congo. The virus is known to have killed at least 140 people, but the true toll may be far higher.",
+      "recap_neutral": "Aid agencies are racing to help health workers in the Democratic Republic of Congo",
+      "main_idea": "What to Know About the Ebola Outbreak",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 13 Jun 2026 15:37:08 +0000",
+      "url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Kidnapped Nigerian retired general dies in captivity",
+      "title_neutral": "Kidnapped Nigerian retired general dies in captivity",
+      "excerpt": "Maj Gen Rabe Abubakar's death highlights continuing security challenges facing parts of the country.",
+      "recap_neutral": "Maj Gen Rabe Abubakar's death highlights continuing security challenges facing parts of the country",
+      "main_idea": "Kidnapped Nigerian retired general dies in captivity",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sat, 13 Jun 2026 15:25:09 GMT",
+      "url": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Woman seriously injured in shark attack at Sydney beach",
+      "title_neutral": "Woman seriously injured in shark attack at Sydney beach",
+      "excerpt": "The woman, 35, was pulled from the water by members of the public and then airlifted to hospital, police say.",
+      "recap_neutral": "The woman, 35, was pulled from the water by members of the public and then airlifted to hospital, police say",
+      "main_idea": "Woman seriously injured in shark attack at Sydney beach",
+      "tags": [
+        "conflict",
+        "tech",
+        "health"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 13 Jun 2026 15:24:25 GMT",
+      "url": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Mourners line Bangkok streets to pay respects to Thailand’s Princess Bha",
+      "title_neutral": "Mourners line Bangkok streets to pay respects to Thailand’s Princess Bha",
+      "excerpt": "Funeral procession travels to palace as people remember royal’s campaigning and work for underprivileged As the sun began to set on the golden spires and gilded finials of Bangkok’s Grand Palace, the gates were open, waiting for the return of a princess. Since December 2022, Princess Bajrakitiyabha…",
+      "recap_neutral": "Funeral procession travels to palace as people remember royal’s campaigning and work for underprivileged As the sun began to set on the golden spires and gilded finials of Bangkok’s Grand Palace, the gates were open, wa…",
+      "main_idea": "Mourners line Bangkok streets to pay respects to Thailand’s Princess Bha",
+      "tags": [
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Sat, 13 Jun 2026 15:18:46 GMT",
+      "url": "https://www.theguardian.com/world/2026/jun/13/bangkok-thailand-princess-bha-royal-funeral-procession-mourners",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
+      "title_neutral": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
+      "excerpt": "No longer content with being just “Hollywood North,” the Canadian screen industry is asserting itself and telling its own stories.",
+      "recap_neutral": "No longer content with being just “Hollywood North,” the Canadian screen industry is asserting itself and telling its own stories",
+      "main_idea": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
       "tags": [
         "conflict"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 17:19:20 +0300",
-      "url": "https://tass.ru/obschestvo/27748855",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sat, 13 Jun 2026 14:41:50 +0000",
+      "url": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Домодедово и аэропорту Калуги сняли ограничения",
-      "title_neutral": "В Домодедово и аэропорту Калуги сняли ограничения",
-      "excerpt": "Они были необходимы для обеспечения безопасности полетов",
-      "recap_neutral": "Они были необходимы для обеспечения безопасности полетов",
-      "main_idea": "В Домодедово и аэропорту Калуги сняли ограничения",
+      "title_original": "Here’s the latest.",
+      "title_neutral": "Here’s the latest.",
+      "excerpt": "",
+      "recap_neutral": "Here’s the latest.",
+      "main_idea": "Here’s the latest.",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 17:15:52 +0300",
-      "url": "https://tass.ru/ekonomika/27748991",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Москве IT-преступления составляют 44% от количества противоправных деяний",
-      "title_neutral": "В Москве IT-преступления составляют 44% от количества противоправных деяний",
-      "excerpt": "При этом кибербеступлений стало меньше на 30% с первого квартала 2025 года",
-      "recap_neutral": "При этом кибербеступлений стало меньше на 30% с первого квартала 2025 года",
-      "main_idea": "В Москве IT-преступления составляют 44% от количества противоправных деяний",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 17:14:16 +0300",
-      "url": "https://tass.ru/obschestvo/27748101",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Рубио заявил главе МИД Индии, что США не допустят экспорта нефти Ирана",
-      "title_neutral": "Рубио заявил главе МИД Индии, что США не допустят экспорта нефти Ирана",
-      "excerpt": "Американский госсекретарь также указал, что Вашингтон не потерпит попыток нарушить морскую блокаду",
-      "recap_neutral": "Американский госсекретарь также указал, что Вашингтон не потерпит попыток нарушить морскую блокаду",
-      "main_idea": "Рубио заявил главе МИД Индии, что США не допустят экспорта нефти Ирана",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 17:14:02 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27748973",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Орбана переизбрали на посту председателя ФИДЕС на съезде партии",
-      "title_neutral": "Орбана переизбрали на посту председателя ФИДЕС на съезде партии",
-      "excerpt": "За него проголосовали 729 делегатов",
-      "recap_neutral": "За него проголосовали 729 делегатов",
-      "main_idea": "Орбана переизбрали на посту председателя ФИДЕС на съезде партии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 17:13:05 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27748983",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Карелии организовали проверку после исчезновения ребенка на острове",
-      "title_neutral": "В Карелии организовали проверку после исчезновения ребенка на острове",
-      "excerpt": "Мальчик прибыл туда вместе с семьей в составе четырех взрослых и двоих детей",
-      "recap_neutral": "Мальчик прибыл туда вместе с семьей в составе четырех взрослых и двоих детей",
-      "main_idea": "В Карелии организовали проверку после исчезновения ребенка на острове",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 17:10:42 +0300",
-      "url": "https://tass.ru/proisshestviya/27748963",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Митрофанов оценил матч за женский Суперкубок России по футболу",
-      "title_neutral": "Митрофанов оценил матч за женский Суперкубок России по футболу",
-      "excerpt": "По мнению генерального секретаря РФС, праздник футбола удался",
-      "recap_neutral": "По мнению генерального секретаря РФС, праздник футбола удался",
-      "main_idea": "Митрофанов оценил матч за женский Суперкубок России по футболу",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 17:07:26 +0300",
-      "url": "https://tass.ru/sport/27748961",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В РФС назвали присутствие флага страны главным украшением чемпионата мира",
-      "title_neutral": "В РФС назвали присутствие флага страны главным украшением чемпионата мира",
-      "excerpt": "Флаг России в числе других был под сводами арены \"Ацтека\" на матче открытия турнира в Мехико",
-      "recap_neutral": "Флаг России в числе других был под сводами арены \"Ацтека\" на матче открытия турнира в Мехико",
-      "main_idea": "В РФС назвали присутствие флага страны главным украшением чемпионата мира",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 17:04:32 +0300",
-      "url": "https://tass.ru/sport/27748959",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Рязанской области отменили беспилотную опасность",
-      "title_neutral": "В Рязанской области отменили беспилотную опасность",
-      "excerpt": "Эту информацию сообщили в приложении МЧС",
-      "recap_neutral": "Эту информацию сообщили в приложении МЧС",
-      "main_idea": "В Рязанской области отменили беспилотную опасность",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 17:02:42 +0300",
-      "url": "https://tass.ru/proisshestviya/27748955",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sat, 13 Jun 2026 14:39:47 +0000",
+      "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel/heres-the-latest",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -387,88 +510,65 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure",
-      "title_neutral": "With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure",
-      "excerpt": "The war has produced regime change, but Iran’s new leaders are more willing to take risks and believe they have already absorbed the worst that America and Israel can deliver.",
-      "recap_neutral": "The war has produced regime change, but Iran’s new leaders are more willing to take risks and believe they have already absorbed the worst that America and Israel can deliver",
-      "main_idea": "With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 13 Jun 2026 14:23:36 +0000",
-      "url": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
-      "title_neutral": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
-      "excerpt": "The prime minister of Pakistan, a key intermediary in U.S.-Iran talks, said a deal was “likely expected.” An Iranian official sought to temper expectations but said an agreement could be signed in the coming days.",
-      "recap_neutral": "The prime minister of Pakistan, a key intermediary in U",
-      "main_idea": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 13 Jun 2026 14:21:06 +0000",
-      "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Here’s the latest.",
-      "title_neutral": "Here’s the latest.",
-      "excerpt": "",
-      "recap_neutral": "Here’s the latest.",
-      "main_idea": "Here’s the latest.",
+      "title_original": "Orthodox C++",
+      "title_neutral": "Orthodox C++",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Orthodox C++",
       "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sat, 13 Jun 2026 14:19:23 +0000",
-      "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel/heres-the-latest",
+      "source": "Hacker News",
+      "published_at": "Sat, 13 Jun 2026 13:58:46 +0000",
+      "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "What to Know About the Ebola Outbreak",
-      "title_neutral": "What to Know About the Ebola Outbreak",
-      "excerpt": "Aid agencies are racing to help health workers in the Democratic Republic of Congo. The virus is known to have killed at least 140 people, but the true toll may be far higher.",
-      "recap_neutral": "Aid agencies are racing to help health workers in the Democratic Republic of Congo",
-      "main_idea": "What to Know About the Ebola Outbreak",
-      "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 13 Jun 2026 13:11:33 +0000",
-      "url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
+      "title_original": "US bans differential privacy in Census data",
+      "title_neutral": "US bans differential privacy in Census data",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "US bans differential privacy in Census data",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 13 Jun 2026 13:54:56 +0000",
+      "url": "https://desfontain.es/blog/banning-noise.html",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Mourners line Bangkok streets to pay respects to Thailand’s Princess Bha",
-      "title_neutral": "Mourners line Bangkok streets to pay respects to Thailand’s Princess Bha",
-      "excerpt": "Funeral procession travels to palace as people remember royal’s campaigning and work for underprivileged As the sun began to set on the golden spires and gilded finials of Bangkok’s Grand Palace, the gates waited to open for the return of a princess. Since December 2022, Princess Bajrakitiyabha had…",
-      "recap_neutral": "Funeral procession travels to palace as people remember royal’s campaigning and work for underprivileged As the sun began to set on the golden spires and gilded finials of Bangkok’s Grand Palace, the gates waited to ope…",
-      "main_idea": "Mourners line Bangkok streets to pay respects to Thailand’s Princess Bha",
+      "title_original": "Trump's name being removed from Kennedy Center after judge order",
+      "title_neutral": "Trump's name being removed from Kennedy Center after judge order",
+      "excerpt": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
+      "recap_neutral": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday",
+      "main_idea": "Trump's name being removed from Kennedy Center after judge order",
       "tags": [
-        "tech"
+        "climate"
       ],
-      "source": "The Guardian",
-      "published_at": "Sat, 13 Jun 2026 13:05:31 GMT",
-      "url": "https://www.theguardian.com/world/2026/jun/13/bangkok-thailand-princess-bha-royal-funeral-procession-mourners",
+      "source": "BBC World",
+      "published_at": "Sat, 13 Jun 2026 13:38:32 GMT",
+      "url": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "title_neutral": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 13 Jun 2026 13:34:00 +0000",
+      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -519,38 +619,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
-      "title_neutral": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 13 Jun 2026 12:11:35 +0000",
-      "url": "https://hallucinate.site/gallery",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
-      "title_neutral": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
-      "excerpt": "No longer content with being just “Hollywood North,” the Canadian screen industry is asserting itself and telling its own stories.",
-      "recap_neutral": "No longer content with being just “Hollywood North,” the Canadian screen industry is asserting itself and telling its own stories",
-      "main_idea": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 13 Jun 2026 12:11:08 +0000",
-      "url": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -605,6 +673,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Every Frame Perfect",
+      "title_neutral": "Every Frame Perfect",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Every Frame Perfect",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 13 Jun 2026 11:40:20 +0000",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
       "title_neutral": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
       "excerpt": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
@@ -656,17 +739,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-      "title_neutral": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "title_original": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+      "title_neutral": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-      "tags": [
-        "tech"
-      ],
+      "main_idea": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+      "tags": [],
       "source": "Hacker News",
-      "published_at": "Sat, 13 Jun 2026 09:44:25 +0000",
-      "url": "https://github.com/Paca-AI/paca",
+      "published_at": "Sat, 13 Jun 2026 09:55:32 +0000",
+      "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -785,21 +866,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Leaving Mozilla",
-      "title_neutral": "Leaving Mozilla",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Leaving Mozilla",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 13 Jun 2026 05:57:14 +0000",
-      "url": "https://blog.unitedheroes.net/5751",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Jessie J’s triumphant return puts lucrative Chinese market in spotlight",
       "title_neutral": "Jessie J’s triumphant return puts lucrative Chinese market in spotlight",
       "excerpt": "Other western acts have attempted to crack country’s music scene since singer’s breakout success in 2018 One week after announcing she was “cancer free”, the British pop star Jessie J did what any recovering patient would do and travelled thousands of miles around the world to perform for an audien…",
@@ -914,23 +980,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Open source AI must win",
-      "title_neutral": "Open source AI must win",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Open source AI must win",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 13 Jun 2026 02:14:24 +0000",
-      "url": "https://opensourceaimustwin.com/?share=v2",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1306,21 +1355,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "How to setup a local coding agent on macOS",
-      "title_neutral": "How to setup a local coding agent on macOS",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "How to setup a local coding agent on macOS",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 12 Jun 2026 17:34:55 +0000",
-      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Every Moment Video Is Now Independently Verifiable on NBA Top Shot, Built by Dapper Labs",
       "title_neutral": "Every Moment Video Is Now Independently Verifiable on NBA Top Shot, Built by Dapper Labs",
       "excerpt": "NBA Top Shot, built by Dapper Labs on the Flow, has migrated all Moment media assets to IPFS. Videos, thumbnails, and metadata are now independently verifiable through decentralized, content-addressed storage. Collectors can authenticate assets without relying on Dapper Labs, creating a new standar…",
@@ -1353,23 +1387,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
-      "title_neutral": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
-      "excerpt": "Sylvester Muigai Ndung'u was in Nanyuki to fetch a school uniform on Tuesday, his mother says.",
-      "recap_neutral": "Sylvester Muigai Ndung'u was in Nanyuki to fetch a school uniform on Tuesday, his mother says",
-      "main_idea": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 12 Jun 2026 16:41:53 GMT",
-      "url": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1456,23 +1473,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
-      "title_neutral": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
-      "excerpt": "José Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery.",
-      "recap_neutral": "José Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery",
-      "main_idea": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 12 Jun 2026 15:55:46 GMT",
-      "url": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Trust Wallet Adds bStocks to Put Tokenized Nvidia and Tesla Inside a Self-Custody Wallet",
       "title_neutral": "Trust Wallet Adds bStocks to Put Tokenized Nvidia and Tesla Inside a Self-Custody Wallet",
       "excerpt": "Trust Wallet now supports bStocks, tokenized US securities issued on BNB Chain, accessible directly from the wallet with no traditional brokerage account. Five assets are live at launch: NVDAB (Nvidia), TSLAB (Tesla), CRCLB (Circle Internet Group), MUB (Micron Technology), and SNDKB (SanDisk Corpor…",
@@ -1504,23 +1504,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "More time needed for deadly Air India crash inquiry, officials say",
-      "title_neutral": "More time needed for deadly Air India crash inquiry, officials say",
-      "excerpt": "A statement says \"significant progress\" has been made into investigating the crash, in which 260 people died a year ago.",
-      "recap_neutral": "A statement says \"significant progress\" has been made into investigating the crash, in which 260 people died a year ago",
-      "main_idea": "More time needed for deadly Air India crash inquiry, officials say",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 12 Jun 2026 15:09:40 GMT",
-      "url": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
