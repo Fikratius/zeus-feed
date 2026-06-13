@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T16:11:05.780272+00:00",
+  "last_updated": "2026-06-13T17:51:53.441156+00:00",
   "items": [
     {
       "title_original": "Show HN: I am building a map of people who lived in the Roman Empire",
@@ -66,6 +66,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Appreciating Exif",
+      "title_neutral": "Appreciating Exif",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Appreciating Exif",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 09 Jun 2026 20:41:44 +0000",
+      "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
       "title_neutral": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
       "excerpt": "Police dispersed demonstrators in Nanyuki, 120 miles from Nairobi, amid rising anger at US plans Kenyan police have shot dead a man during a protest against a proposed Ebola quarantine facility for US citizens. Patrick Wahome, who has organised protests in Nanyuki against the centre, told Reuters o…",
@@ -118,243 +133,405 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Москве и Подмосковье снова ожидается гроза с ливнем",
-      "title_neutral": "В Москве и Подмосковье снова ожидается гроза с ливнем",
-      "excerpt": "Также прогнозируют град и усиление ветра в порывах до 17 м/с",
-      "recap_neutral": "Также прогнозируют град и усиление ветра в порывах до 17 м/с",
-      "main_idea": "В Москве и Подмосковье снова ожидается гроза с ливнем",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 19:08:23 +0300",
-      "url": "https://tass.ru/obschestvo/27749383",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Зону отдыха в селе Брейтово Ярославской области благоустроят по нацпроекту",
-      "title_neutral": "Зону отдыха в селе Брейтово Ярославской области благоустроят по нацпроекту",
-      "excerpt": "Губернатор Михаил Евраев сообщил, что на берегу Латыгоры установят перголы с деревянным настилом, столы со скамейками и урны, выполнят покрытие территории и монтаж освещения",
-      "recap_neutral": "Губернатор Михаил Евраев сообщил, что на берегу Латыгоры установят перголы с деревянным настилом, столы со скамейками и урны, выполнят покрытие территории и монтаж освещения",
-      "main_idea": "Зону отдыха в селе Брейтово Ярославской области благоустроят по нацпроекту",
+      "title_original": "В Геленджике открылся первый в России и в мире винный город",
+      "title_neutral": "В Геленджике открылся первый в России и в мире винный город",
+      "excerpt": "В частности, на его территории располагаются музей вина Льва Голицына, дегустационные залы, испытательно-лабораторный центр",
+      "recap_neutral": "В частности, на его территории располагаются музей вина Льва Голицына, дегустационные залы, испытательно-лабораторный центр",
+      "main_idea": "В Геленджике открылся первый в России и в мире винный город",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 19:07:09 +0300",
-      "url": "https://tass.ru/obschestvo/27749319",
+      "published_at": "Sat, 13 Jun 2026 20:50:48 +0300",
+      "url": "https://tass.ru/obschestvo/27749665",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Москве отменили оранжевый уровень опасности из-за жары",
-      "title_neutral": "В Москве отменили оранжевый уровень опасности из-за жары",
-      "excerpt": "Он действовал почти шесть суток",
-      "recap_neutral": "Он действовал почти шесть суток",
-      "main_idea": "В Москве отменили оранжевый уровень опасности из-за жары",
+      "title_original": "В социально-экономическое развитие ЛНР за три года вложили более 900 млрд рублей",
+      "title_neutral": "В социально-экономическое развитие ЛНР за три года вложили более 900 млрд рублей",
+      "excerpt": "В частности, средства пошли на модернизацию жилищно-коммунального хозяйства и благоустройство городов и поселков республики",
+      "recap_neutral": "В частности, средства пошли на модернизацию жилищно-коммунального хозяйства и благоустройство городов и поселков республики",
+      "main_idea": "В социально-экономическое развитие ЛНР за три года вложили более 900 млрд рублей",
+      "tags": [
+        "economy"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 20:47:40 +0300",
+      "url": "https://tass.ru/ekonomika/27749635",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Пропавший несколько дней назад в Петрозаводске подросток вернулся домой",
+      "title_neutral": "Пропавший несколько дней назад в Петрозаводске подросток вернулся домой",
+      "excerpt": "В поисковом отряде \"ЛизаАлерт\" рассказали, что криминальной составляющей в случившемся нет",
+      "recap_neutral": "В поисковом отряде \"ЛизаАлерт\" рассказали, что криминальной составляющей в случившемся нет",
+      "main_idea": "Пропавший несколько дней назад в Петрозаводске подросток вернулся домой",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 19:04:43 +0300",
-      "url": "https://tass.ru/obschestvo/27749361",
+      "published_at": "Sat, 13 Jun 2026 20:41:19 +0300",
+      "url": "https://tass.ru/obschestvo/27749659",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Додик: Путин мудр в своих решениях не допускать масштабных ударов по Украине",
-      "title_neutral": "Додик: Путин мудр в своих решениях не допускать масштабных ударов по Украине",
-      "excerpt": "Cпецоперация ведется с огромным вниманием к защите гражданского населения, заявил председатель ведущей политической партии Республики Сербской \"Союз независимых социал-демократов\"",
-      "recap_neutral": "Cпецоперация ведется с огромным вниманием к защите гражданского населения, заявил председатель ведущей политической партии Республики Сербской \"Союз независимых социал-демократов\"",
-      "main_idea": "Додик: Путин мудр в своих решениях не допускать масштабных ударов по Украине",
+      "title_original": "BFMTV: авианосец Charles de Gaulle возвращается во Францию",
+      "title_neutral": "BFMTV: авианосец Charles de Gaulle возвращается во Францию",
+      "excerpt": "В ближайшие дни он завершит свою миссию в районе Аравийского моря и вернется в порт Тулона для ремонта, утверждает телеканал",
+      "recap_neutral": "В ближайшие дни он завершит свою миссию в районе Аравийского моря и вернется в порт Тулона для ремонта, утверждает телеканал",
+      "main_idea": "BFMTV: авианосец Charles de Gaulle возвращается во Францию",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 20:40:33 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27749649",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Балашихе неизвестный наехал на ребенка на самокате и скрылся",
+      "title_neutral": "В Балашихе неизвестный наехал на ребенка на самокате и скрылся",
+      "excerpt": "Происшествие случилось на детской площадке",
+      "recap_neutral": "Происшествие случилось на детской площадке",
+      "main_idea": "В Балашихе неизвестный наехал на ребенка на самокате и скрылся",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 20:38:46 +0300",
+      "url": "https://tass.ru/proisshestviya/27749645",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Имя Трампа удалили с фасада Кеннеди-центра",
+      "title_neutral": "Имя Трампа удалили с фасада Кеннеди-центра",
+      "excerpt": "Наблюдавшие за демонтажем букв люди реагировали на действия рабочих аплодисментами и одобрительными криками",
+      "recap_neutral": "Наблюдавшие за демонтажем букв люди реагировали на действия рабочих аплодисментами и одобрительными криками",
+      "main_idea": "Имя Трампа удалили с фасада Кеннеди-центра",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 20:34:17 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27749637",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Посольство РФ продолжит поддержку поискового движения в Молдавии",
+      "title_neutral": "Посольство РФ продолжит поддержку поискового движения в Молдавии",
+      "excerpt": "Посол России Олег Озеров отметил его важную миссию по сохранению исторической памяти",
+      "recap_neutral": "Посол России Олег Озеров отметил его важную миссию по сохранению исторической памяти",
+      "main_idea": "Посольство РФ продолжит поддержку поискового движения в Молдавии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 20:24:23 +0300",
+      "url": "https://tass.ru/politika/27749617",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп утверждает, что Иран больше не будет стремиться к ядерному оружию",
+      "title_neutral": "Трамп утверждает, что Иран больше не будет стремиться к ядерному оружию",
+      "excerpt": "Американский лидер также в очередной раз подверг критике Совместный всеобъемлющий план действий по ядерной программе исламской республики",
+      "recap_neutral": "Американский лидер также в очередной раз подверг критике Совместный всеобъемлющий план действий по ядерной программе исламской республики",
+      "main_idea": "Трамп утверждает, что Иран больше не будет стремиться к ядерному оружию",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 20:18:00 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27749609",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве снова объявили оранжевый уровень опасности",
+      "title_neutral": "В Москве снова объявили оранжевый уровень опасности",
+      "excerpt": "Это связано с грозой с ливнем",
+      "recap_neutral": "Это связано с грозой с ливнем",
+      "main_idea": "В Москве снова объявили оранжевый уровень опасности",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 20:17:55 +0300",
+      "url": "https://tass.ru/obschestvo/27749601",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Египте открыли цифровой медкомплекс для диспансеризации с оборудованием из РФ",
+      "title_neutral": "В Египте открыли цифровой медкомплекс для диспансеризации с оборудованием из РФ",
+      "excerpt": "В рамках медосмотра пациентов обследуют на наличие наиболее значимых заболеваний, включая онкологию, глаукому, сахарный диабет и сердечно-сосудистые отклонения",
+      "recap_neutral": "В рамках медосмотра пациентов обследуют на наличие наиболее значимых заболеваний, включая онкологию, глаукому, сахарный диабет и сердечно-сосудистые отклонения",
+      "main_idea": "В Египте открыли цифровой медкомплекс для диспансеризации с оборудованием из РФ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 20:14:47 +0300",
+      "url": "https://tass.ru/ekonomika/27749457",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Журналист Омар: \"Спартак\" интересуется бывшим футболистом \"Зенита\" Малкомом",
+      "title_neutral": "Журналист Омар: \"Спартак\" интересуется бывшим футболистом \"Зенита\" Малкомом",
+      "excerpt": "В настоящее время бразилец выступает за \"Аль-Хиляль\" из Саудовской Аравии",
+      "recap_neutral": "В настоящее время бразилец выступает за \"Аль-Хиляль\" из Саудовской Аравии",
+      "main_idea": "Журналист Омар: \"Спартак\" интересуется бывшим футболистом \"Зенита\" Малкомом",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 20:14:23 +0300",
+      "url": "https://tass.ru/sport/27749605",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На улицах Москвы из-за непогоды дежурят городские службы",
+      "title_neutral": "На улицах Москвы из-за непогоды дежурят городские службы",
+      "excerpt": "В столице дежурят 300 бригад и 290 единиц техники ГУП \"Мосводосток\"",
+      "recap_neutral": "В столице дежурят 300 бригад и 290 единиц техники ГУП \"Мосводосток\"",
+      "main_idea": "На улицах Москвы из-за непогоды дежурят городские службы",
+      "tags": [
+        "tech",
+        "climate"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 20:12:13 +0300",
+      "url": "https://tass.ru/obschestvo/27749599",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Киеве в ходе стрельбы погибли двое иностранцев",
+      "title_neutral": "В Киеве в ходе стрельбы погибли двое иностранцев",
+      "excerpt": "Стрелявший задержан",
+      "recap_neutral": "Стрелявший задержан",
+      "main_idea": "В Киеве в ходе стрельбы погибли двое иностранцев",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 20:11:21 +0300",
+      "url": "https://tass.ru/proisshestviya/27749591",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп: США \"в подходящее время\" извлекут и утилизируют обогащенный уран Ирана",
+      "title_neutral": "Трамп: США \"в подходящее время\" извлекут и утилизируют обогащенный уран Ирана",
+      "excerpt": "Американский лидер не пояснил, как скоро после заключения соглашения это произойдет",
+      "recap_neutral": "Американский лидер не пояснил, как скоро после заключения соглашения это произойдет",
+      "main_idea": "Трамп: США \"в подходящее время\" извлекут и утилизируют обогащенный уран Ирана",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 20:08:30 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27749561",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Теннисист Медведев не смог выйти в финал турнира в Нидерландах",
+      "title_neutral": "Теннисист Медведев не смог выйти в финал турнира в Нидерландах",
+      "excerpt": "В полуфинале россиянин проиграл поляку Камилю Майхшаку в двух сетах",
+      "recap_neutral": "В полуфинале россиянин проиграл поляку Камилю Майхшаку в двух сетах",
+      "main_idea": "Теннисист Медведев не смог выйти в финал турнира в Нидерландах",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 13 Jun 2026 20:03:39 +0300",
+      "url": "https://tass.ru/sport/27749569",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran War Live Updates: Trump Says Peace Deal Will be Signed Sunday, But Iran Disputes Timeline",
+      "title_neutral": "Iran War Live Updates: Trump Says Peace Deal Will be Signed Sunday, But Iran Disputes Timeline",
+      "excerpt": "An Iranian foreign ministry official sought to temper expectations, saying there were no plans for a Sunday signing and an agreement could be inked in the coming days.",
+      "recap_neutral": "An Iranian foreign ministry official sought to temper expectations, saying there were no plans for a Sunday signing and an agreement could be inked in the coming days",
+      "main_idea": "Iran War Live Updates: Trump Says Peace Deal Will be Signed Sunday, But Iran Disputes Timeline",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 13 Jun 2026 17:48:10 +0000",
+      "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Here’s the latest.",
+      "title_neutral": "Here’s the latest.",
+      "excerpt": "",
+      "recap_neutral": "Here’s the latest.",
+      "main_idea": "Here’s the latest.",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sat, 13 Jun 2026 17:32:35 +0000",
+      "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel/heres-the-latest",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
+      "title_neutral": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
+      "excerpt": "No longer content with being just “Hollywood North,” the Canadian screen industry is asserting itself and telling its own stories.",
+      "recap_neutral": "No longer content with being just “Hollywood North,” the Canadian screen industry is asserting itself and telling its own stories",
+      "main_idea": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 13 Jun 2026 17:16:44 +0000",
+      "url": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump's name removed from Kennedy Center after court order",
+      "title_neutral": "Trump's name removed from Kennedy Center after court order",
+      "excerpt": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
+      "recap_neutral": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday",
+      "main_idea": "Trump's name removed from Kennedy Center after court order",
+      "tags": [
+        "climate"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 13 Jun 2026 17:00:23 GMT",
+      "url": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+      "title_neutral": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 13 Jun 2026 16:57:49 +0000",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say",
+      "title_neutral": "A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say",
+      "excerpt": "A strike this week in Venezuela killed a gang leader known as Niño Guerrero who was wanted in the United States, officials in both countries said.",
+      "recap_neutral": "A strike this week in Venezuela killed a gang leader known as Niño Guerrero who was wanted in the United States, officials in both countries said",
+      "main_idea": "A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say",
       "tags": [
         "conflict",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 19:01:22 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27749353",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sat, 13 Jun 2026 16:50:47 +0000",
+      "url": "https://www.nytimes.com/2026/06/13/world/americas/tren-de-aragua-leader-killed-us-venezuela.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Милорад Додик: европейцы хотят создать военный союз",
-      "title_neutral": "Милорад Додик: европейцы хотят создать военный союз",
-      "excerpt": "Председатель ведущей политической партии Республики Сербской (энтитет Боснии и Герцеговины) \"Союз независимых социал-демократов\" Милорад Додик в интервью ТАСС рассказал о попытках Брюсселя рассорить сербов с русскими, прокомментировал планы Евросоюза по милитаризации и решительно выступил против вв…",
-      "recap_neutral": "Председатель ведущей политической партии Республики Сербской (энтитет Боснии и Герцеговины) \"Союз независимых социал-демократов\" Милорад Додик в интервью ТАСС рассказал о попытках Брюсселя рассорить сербов с русскими, п…",
-      "main_idea": "Милорад Додик: европейцы хотят создать военный союз",
+      "title_original": "The adder at the heart of Intel's 8087 floating-point chip",
+      "title_neutral": "The adder at the heart of Intel's 8087 floating-point chip",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The adder at the heart of Intel's 8087 floating-point chip",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 13 Jun 2026 16:49:42 +0000",
+      "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AI Coding at Home Without Going Broke",
+      "title_neutral": "AI Coding at Home Without Going Broke",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "AI Coding at Home Without Going Broke",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 19:00:00 +0300",
-      "url": "https://tass.ru/interviews/27744353",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Sat, 13 Jun 2026 16:45:03 +0000",
+      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ярославские власти поддерживают развитие туробъектов Рыбинского водохранилища",
-      "title_neutral": "Ярославские власти поддерживают развитие туробъектов Рыбинского водохранилища",
-      "excerpt": "Губернатор региона Михаил Евраев отметил, что в области создают современные гостиничные комплексы и базы отдыха, развивают водный туризм и совершенствуют инфраструктуру",
-      "recap_neutral": "Губернатор региона Михаил Евраев отметил, что в области создают современные гостиничные комплексы и базы отдыха, развивают водный туризм и совершенствуют инфраструктуру",
-      "main_idea": "Ярославские власти поддерживают развитие туробъектов Рыбинского водохранилища",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 18:59:13 +0300",
-      "url": "https://tass.ru/obschestvo/27749211",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Красноярском крае в ДТП погибли два человека",
-      "title_neutral": "В Красноярском крае в ДТП погибли два человека",
-      "excerpt": "Еще трое пострадали",
-      "recap_neutral": "Еще трое пострадали",
-      "main_idea": "В Красноярском крае в ДТП погибли два человека",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 18:59:07 +0300",
-      "url": "https://tass.ru/proisshestviya/27749349",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На некоторых АЗС Татарстана ввели лимиты для избежания искусственного ажиотажа",
-      "title_neutral": "На некоторых АЗС Татарстана ввели лимиты для избежания искусственного ажиотажа",
-      "excerpt": "Глава республики Рустам Минниханов поручил \"самым внимательным образом подойти к решению данного вопроса\"",
-      "recap_neutral": "Глава республики Рустам Минниханов поручил \"самым внимательным образом подойти к решению данного вопроса\"",
-      "main_idea": "На некоторых АЗС Татарстана ввели лимиты для избежания искусственного ажиотажа",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 18:54:30 +0300",
-      "url": "https://tass.ru/obschestvo/27749331",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На ЗАЭС подтвердили восстановление внешнего электроснабжения по линии \"Ферросплавная-1\"",
-      "title_neutral": "На ЗАЭС подтвердили восстановление внешнего электроснабжения по линии \"Ферросплавная-1\"",
-      "excerpt": "Оборудование станции находится в безопасном состоянии, радиационный фон в норме",
-      "recap_neutral": "Оборудование станции находится в безопасном состоянии, радиационный фон в норме",
-      "main_idea": "На ЗАЭС подтвердили восстановление внешнего электроснабжения по линии \"Ферросплавная-1\"",
+      "title_original": "Anthropic suspends new AI tools over US government security concerns",
+      "title_neutral": "Anthropic suspends new AI tools over US government security concerns",
+      "excerpt": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
+      "recap_neutral": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking",
+      "main_idea": "Anthropic suspends new AI tools over US government security concerns",
       "tags": [
+        "politics",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 18:49:50 +0300",
-      "url": "https://tass.ru/ekonomika/27749321",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Sat, 13 Jun 2026 16:28:38 GMT",
+      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Стармер пообещал опубликовать план оборонных расходов до саммита НАТО в июле",
-      "title_neutral": "Стармер пообещал опубликовать план оборонных расходов до саммита НАТО в июле",
-      "excerpt": "Премьер-министр Соединенного Королевства подтвердил приверженность достижению уровня оборонных расходов в размере 3% ВВП в течение следующего парламентского созыва",
-      "recap_neutral": "Премьер-министр Соединенного Королевства подтвердил приверженность достижению уровня оборонных расходов в размере 3% ВВП в течение следующего парламентского созыва",
-      "main_idea": "Стармер пообещал опубликовать план оборонных расходов до саммита НАТО в июле",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 18:46:09 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27749299",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Краснодаре за сутки выпала полуторамесячная норма осадков",
-      "title_neutral": "В Краснодаре за сутки выпала полуторамесячная норма осадков",
-      "excerpt": "По данным ЕДДС города, поступило 276 обращений на откачку воды",
-      "recap_neutral": "По данным ЕДДС города, поступило 276 обращений на откачку воды",
-      "main_idea": "В Краснодаре за сутки выпала полуторамесячная норма осадков",
+      "title_original": "GLM 5.2 Is Out",
+      "title_neutral": "GLM 5.2 Is Out",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "GLM 5.2 Is Out",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 18:45:44 +0300",
-      "url": "https://tass.ru/obschestvo/27749279",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ВСУ за сутки запустили порядка 40 беспилотников по ЛНР",
-      "title_neutral": "ВСУ за сутки запустили порядка 40 беспилотников по ЛНР",
-      "excerpt": "Большинство дронов сбили",
-      "recap_neutral": "Большинство дронов сбили",
-      "main_idea": "ВСУ за сутки запустили порядка 40 беспилотников по ЛНР",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 18:37:17 +0300",
-      "url": "https://tass.ru/proisshestviya/27749265",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Минздраве рассказали о состоянии пострадавших в ДТП с маршруткой в Одинцове",
-      "title_neutral": "В Минздраве рассказали о состоянии пострадавших в ДТП с маршруткой в Одинцове",
-      "excerpt": "Трое из них находятся в тяжелом состоянии, восемь - в средней степени тяжести",
-      "recap_neutral": "Трое из них находятся в тяжелом состоянии, восемь - в средней степени тяжести",
-      "main_idea": "В Минздраве рассказали о состоянии пострадавших в ДТП с маршруткой в Одинцове",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 18:35:37 +0300",
-      "url": "https://tass.ru/proisshestviya/27749253",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Число погибших в ДТП в Одинцове увеличилось до двух",
-      "title_neutral": "Число погибших в ДТП в Одинцове увеличилось до двух",
-      "excerpt": "В аварии пострадал 21 человек",
-      "recap_neutral": "В аварии пострадал 21 человек",
-      "main_idea": "Число погибших в ДТП в Одинцове увеличилось до двух",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 18:31:01 +0300",
-      "url": "https://tass.ru/proisshestviya/27749237",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Ярославской области открыли выставку работ из собраний 30 музеев и частных коллекций",
-      "title_neutral": "В Ярославской области открыли выставку работ из собраний 30 музеев и частных коллекций",
-      "excerpt": "Увидеть порядка 50 уникальных работ можно будет до 20 сентября",
-      "recap_neutral": "Увидеть порядка 50 уникальных работ можно будет до 20 сентября",
-      "main_idea": "В Ярославской области открыли выставку работ из собраний 30 музеев и частных коллекций",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 13 Jun 2026 18:27:54 +0300",
-      "url": "https://tass.ru/kultura/27748951",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Sat, 13 Jun 2026 16:18:31 +0000",
+      "url": "https://digg.com/tech/ii9xibgn",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -367,24 +544,6 @@
       "source": "NYTimes World",
       "published_at": "Sat, 13 Jun 2026 15:50:57 +0000",
       "url": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
-      "title_neutral": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
-      "excerpt": "The prime minister of Pakistan, a key intermediary in U.S.-Iran talks, said a deal was “likely expected.” An Iranian official sought to temper expectations but said an agreement could be signed in the coming days.",
-      "recap_neutral": "The prime minister of Pakistan, a key intermediary in U",
-      "main_idea": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 13 Jun 2026 15:50:40 +0000",
-      "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -460,68 +619,87 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
-      "title_neutral": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
-      "excerpt": "No longer content with being just “Hollywood North,” the Canadian screen industry is asserting itself and telling its own stories.",
-      "recap_neutral": "No longer content with being just “Hollywood North,” the Canadian screen industry is asserting itself and telling its own stories",
-      "main_idea": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
+      "title_original": "Markr: Mark the Moment While You Record, Not After",
+      "title_neutral": "Markr: Mark the Moment While You Record, Not After",
+      "excerpt": "I always wanted to do YouTube but hated the part after recording: rewatching a 20-30 minute video once to find my mistakes, then again to pull shorts out of it. It made me quit more than once. I even tried building an AI auto editor, but it never hit the quality I wanted. So I made Markr instead, a…",
+      "recap_neutral": "I always wanted to do YouTube but hated the part after recording: rewatching a 20-30 minute video once to find my mistakes, then again to pull shorts out of it",
+      "main_idea": "Markr: Mark the Moment While You Record, Not After",
       "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 13 Jun 2026 14:41:50 +0000",
-      "url": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Here’s the latest.",
-      "title_neutral": "Here’s the latest.",
-      "excerpt": "",
-      "recap_neutral": "Here’s the latest.",
-      "main_idea": "Here’s the latest.",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sat, 13 Jun 2026 14:39:47 +0000",
-      "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel/heres-the-latest",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Anthropic suspends new AI tools over US government security concerns",
-      "title_neutral": "Anthropic suspends new AI tools over US government security concerns",
-      "excerpt": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
-      "recap_neutral": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking",
-      "main_idea": "Anthropic suspends new AI tools over US government security concerns",
-      "tags": [
-        "politics",
         "tech"
       ],
-      "source": "BBC World",
-      "published_at": "Sat, 13 Jun 2026 14:36:03 GMT",
-      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+      "source": "HackerNoon",
+      "published_at": "Sat, 13 Jun 2026 15:00:43 GMT",
+      "url": "https://hackernoon.com/markr-mark-the-moment-while-you-record-not-after?source=rss",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Orthodox C++",
-      "title_neutral": "Orthodox C++",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Orthodox C++",
+      "title_original": "How to Make A Clicker Game on the Desmos Graphing Calculator",
+      "title_neutral": "How to Make A Clicker Game on the Desmos Graphing Calculator",
+      "excerpt": "What if I told you Desmos has everything you need to build a working arcade game? State variables, conditional logic, randomization, and even clickable objects. No JavaScript. No libraries. Just math doing things math was never meant to do.",
+      "recap_neutral": "What if I told you Desmos has everything you need to build a working arcade game? State variables, conditional logic, randomization, and even clickable objects",
+      "main_idea": "How to Make A Clicker Game on the Desmos Graphing Calculator",
       "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 13 Jun 2026 13:58:46 +0000",
-      "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
+      "source": "HackerNoon",
+      "published_at": "Sat, 13 Jun 2026 15:00:40 GMT",
+      "url": "https://hackernoon.com/how-to-make-a-clicker-game-on-the-desmos-graphing-calculator?source=rss",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Stop Slicing Your Text Like Salami: A Better Approach to Semantic Chunking",
+      "title_neutral": "Stop Slicing Your Text Like Salami: A Better Approach to Semantic Chunking",
+      "excerpt": "You are ruining your vector search by blindly slicing text into arbitrary character limits. This article explains why standard chunking fails and provides a runnable, dependency-free Python script for context-aware sentence grouping that you can test right now.",
+      "recap_neutral": "You are ruining your vector search by blindly slicing text into arbitrary character limits",
+      "main_idea": "Stop Slicing Your Text Like Salami: A Better Approach to Semantic Chunking",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sat, 13 Jun 2026 14:44:59 GMT",
+      "url": "https://hackernoon.com/stop-slicing-your-text-like-salami-a-better-approach-to-semantic-chunking?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The TechBeat: AI Coding Agents Have a Cost Visibility Problem (6/13/2026)",
+      "title_neutral": "The TechBeat: AI Coding Agents Have a Cost Visibility Problem (6/13/2026)",
+      "excerpt": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here . ## Vibe Coding Ends at Localhost By @dmytrochervonyi [ 7 Min read ] AI coding agents got brilliant at w…",
+      "recap_neutral": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here",
+      "main_idea": "The TechBeat: AI Coding Agents Have a Cost Visibility Problem (6/13/2026)",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sat, 13 Jun 2026 14:00:52 GMT",
+      "url": "https://hackernoon.com/6-13-2026-techbeat?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "164 Blog Posts To Learn About Recruiting",
+      "title_neutral": "164 Blog Posts To Learn About Recruiting",
+      "excerpt": "Let's learn about Recruiting via these 164 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. There is immense value in picking the right staff or partners. HackerNoon's diligently cura…",
+      "recap_neutral": "Let's learn about Recruiting via these 164 free blog posts",
+      "main_idea": "164 Blog Posts To Learn About Recruiting",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sat, 13 Jun 2026 14:00:09 GMT",
+      "url": "https://hackernoon.com/164-blog-posts-to-learn-about-recruiting?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -540,23 +718,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump's name being removed from Kennedy Center after judge order",
-      "title_neutral": "Trump's name being removed from Kennedy Center after judge order",
-      "excerpt": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
-      "recap_neutral": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday",
-      "main_idea": "Trump's name being removed from Kennedy Center after judge order",
-      "tags": [
-        "climate"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 13 Jun 2026 13:38:32 GMT",
-      "url": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Treating pancreatic tumours may have revealed cancer's master switch",
       "title_neutral": "Treating pancreatic tumours may have revealed cancer's master switch",
       "excerpt": "Comments",
@@ -569,6 +730,21 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "TextGrad vs. DSPy & ProTeGi: Evolution of Textual Autograd",
+      "title_neutral": "TextGrad vs. DSPy & ProTeGi: Evolution of Textual Autograd",
+      "excerpt": "Compare TextGrad to prompt optimization frameworks like DSPy and ProTeGi. Discover how textual backpropagation unlocks instance optimization for LLM agents.",
+      "recap_neutral": "Compare TextGrad to prompt optimization frameworks like DSPy and ProTeGi",
+      "main_idea": "TextGrad vs. DSPy & ProTeGi: Evolution of Textual Autograd",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sat, 13 Jun 2026 13:30:04 GMT",
+      "url": "https://hackernoon.com/textgrad-vs-dspy-and-protegi-evolution-of-textual-autograd?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -590,6 +766,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Agentic Radiotherapy Planning: Automating Outer-Loop Tuning via TextGrad",
+      "title_neutral": "Agentic Radiotherapy Planning: Automating Outer-Loop Tuning via TextGrad",
+      "excerpt": "Discover how TextGrad automates radiotherapy treatment planning. Learn how language model feedback optimizes hyperparameter weights for precise tumor targeting and tissue sparing.",
+      "recap_neutral": "Discover how TextGrad automates radiotherapy treatment planning",
+      "main_idea": "Agentic Radiotherapy Planning: Automating Outer-Loop Tuning via TextGrad",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sat, 13 Jun 2026 13:00:38 GMT",
+      "url": "https://hackernoon.com/agentic-radiotherapy-planning-automating-outer-loop-tuning-via-textgrad?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Introduction to the experience of rendering Arabic typography&its technical debt",
       "title_neutral": "Introduction to the experience of rendering Arabic typography&its technical debt",
       "excerpt": "Comments",
@@ -607,21 +798,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
-      "title_neutral": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 13 Jun 2026 12:20:05 +0000",
-      "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
       "title_neutral": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
       "excerpt": "Comments",
@@ -633,23 +809,6 @@
       "source": "Hacker News",
       "published_at": "Sat, 13 Jun 2026 12:10:47 +0000",
       "url": "https://github.com/tensorzero/tensorzero",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
-      "title_neutral": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
-      "tags": [
-        "conflict"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 13 Jun 2026 11:55:30 +0000",
-      "url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -706,6 +865,24 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Bybit Lists Tokenized SpaceX on Spot as the Trillion-Dollar IPO Lands on Crypto Rails",
+      "title_neutral": "Bybit Lists Tokenized SpaceX on Spot as the Trillion-Dollar IPO Lands on Crypto Rails",
+      "excerpt": "SpaceX listed on Nasdaq at $135 per share on June 12, 2026, the largest IPO in history at a $1.77 trillion valuation. The stock closed +19% at $160.95 after touching $175.80 intraday. Bybit listed SPCXX, tokenized SpaceX exposure under the xStocks framework, on its Spot market at 16:20 UTC the same…",
+      "recap_neutral": "SpaceX listed on Nasdaq at $135 per share on June 12, 2026, the largest IPO in history at a $1",
+      "main_idea": "Bybit Lists Tokenized SpaceX on Spot as the Trillion-Dollar IPO Lands on Crypto Rails",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sat, 13 Jun 2026 11:01:32 GMT",
+      "url": "https://hackernoon.com/bybit-lists-tokenized-spacex-on-spot-as-the-trillion-dollar-ipo-lands-on-crypto-rails?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Unfinished Business",
       "title_neutral": "Unfinished Business",
       "excerpt": "We like it when projects are completed, but what if we could abide comfortably in the toiling and striving it takes to get them there?",
@@ -715,24 +892,6 @@
       "source": "NYTimes World",
       "published_at": "Sat, 13 Jun 2026 10:12:28 +0000",
       "url": "https://www.nytimes.com/2026/06/13/briefing/unfinished-business.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say",
-      "title_neutral": "A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say",
-      "excerpt": "A strike this week in Venezuela killed a gang leader known as Niño Guerrero who was wanted in the United States, officials in both countries said.",
-      "recap_neutral": "A strike this week in Venezuela killed a gang leader known as Niño Guerrero who was wanted in the United States, officials in both countries said",
-      "main_idea": "A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 13 Jun 2026 10:07:20 +0000",
-      "url": "https://www.nytimes.com/2026/06/13/world/americas/tren-de-aragua-leader-killed-us-venezuela.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -1035,23 +1194,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-      "title_neutral": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-      "tags": [
-        "politics"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 13 Jun 2026 00:51:30 +0000",
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "lang": "en",
-      "bias_score": 40,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Pope Leo XIV's flight home from Spain was grounded so the king came to his aid",
       "title_neutral": "Pope Leo XIV's flight home from Spain was grounded so the king came to his aid",
       "excerpt": "Leo's Iberia charter, due to take him back to Rome after a weeklong visit to Spain, was grounded by a technical problem Friday, prompting Spain's king to offer his private jet instead.",
@@ -1221,17 +1363,17 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Workers begin removing Trump's name from the Kennedy Center",
-      "title_neutral": "Workers begin removing Trump's name from the Kennedy Center",
-      "excerpt": "Workers began removing President Trump's name from the facade of the Kennedy Center early Saturday, hours after a court-ordered Friday deadline to remove references to Trump from the building.",
-      "recap_neutral": "Workers began removing President Trump's name from the facade of the Kennedy Center early Saturday, hours after a court-ordered Friday deadline to remove references to Trump from the building",
-      "main_idea": "Workers begin removing Trump's name from the Kennedy Center",
+      "title_original": "Kennedy Center removes Trump's name from the building",
+      "title_neutral": "Kennedy Center removes Trump's name from the building",
+      "excerpt": "Workers finished removing President Trump's name from the facade of the Kennedy Center early Saturday, hours after a court-ordered Friday deadline to remove references to Trump from the building.",
+      "recap_neutral": "Workers finished removing President Trump's name from the facade of the Kennedy Center early Saturday, hours after a court-ordered Friday deadline to remove references to Trump from the building",
+      "main_idea": "Kennedy Center removes Trump's name from the building",
       "tags": [
         "politics"
       ],
       "source": "NPR",
       "published_at": "Fri, 12 Jun 2026 20:43:32 -0400",
-      "url": "https://www.npr.org/2026/06/12/g-s1-128017/trump-name-kennedy-center",
+      "url": "https://www.npr.org/2026/06/12/g-s1-128017/kennedy-center-trump-name-remove",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1252,40 +1394,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "RaccoonLine Publishes an Explanation of Its Decentralized VPN Protocol",
-      "title_neutral": "RaccoonLine Publishes an Explanation of Its Decentralized VPN Protocol",
-      "excerpt": "Rome, Italy, June 12th, 2026/CyberNewswire/-- RaccoonLine has published a new overview of its protocol architecture, outlining how it differs from conventional VPN services. Understanding the difference explains why decentralized VPNs can offer privacy and resilience guarantees that centralized ser…",
-      "recap_neutral": "Rome, Italy, June 12th, 2026/CyberNewswire/-- RaccoonLine has published a new overview of its protocol architecture, outlining how it differs from conventional VPN services",
-      "main_idea": "RaccoonLine Publishes an Explanation of Its Decentralized VPN Protocol",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 12 Jun 2026 20:18:54 GMT",
-      "url": "https://hackernoon.com/raccoonline-publishes-an-explanation-of-its-decentralized-vpn-protocol?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "500 Blog Posts To Learn About Productivity",
-      "title_neutral": "500 Blog Posts To Learn About Productivity",
-      "excerpt": "Let's learn about Productivity via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. Looking for a #LifeHack? You're in the right place. But first ask yourself, how many Pomo…",
-      "recap_neutral": "Let's learn about Productivity via these 500 free blog posts",
-      "main_idea": "500 Blog Posts To Learn About Productivity",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 12 Jun 2026 20:00:15 GMT",
-      "url": "https://hackernoon.com/500-blog-posts-to-learn-about-productivity?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1355,41 +1463,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Every Moment Video Is Now Independently Verifiable on NBA Top Shot, Built by Dapper Labs",
-      "title_neutral": "Every Moment Video Is Now Independently Verifiable on NBA Top Shot, Built by Dapper Labs",
-      "excerpt": "NBA Top Shot, built by Dapper Labs on the Flow, has migrated all Moment media assets to IPFS. Videos, thumbnails, and metadata are now independently verifiable through decentralized, content-addressed storage. Collectors can authenticate assets without relying on Dapper Labs, creating a new standar…",
-      "recap_neutral": "NBA Top Shot, built by Dapper Labs on the Flow, has migrated all Moment media assets to IPFS",
-      "main_idea": "Every Moment Video Is Now Independently Verifiable on NBA Top Shot, Built by Dapper Labs",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 12 Jun 2026 17:04:41 GMT",
-      "url": "https://hackernoon.com/every-moment-video-is-now-independently-verifiable-on-nba-top-shot-built-by-dapper-labs?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How to Use the CSC GitHub Template for AI-Assisted Software Development",
-      "title_neutral": "How to Use the CSC GitHub Template for AI-Assisted Software Development",
-      "excerpt": "This article introduces the official CSC GitHub Template, a repository scaffold designed to help human developers and AI coding agents share a consistent understanding of system constraints, intent, and operational procedures. Built around the Agentic Trivium of CONTRACT.md, WHY.md, and QUICKSTART.…",
-      "recap_neutral": "This article introduces the official CSC GitHub Template, a repository scaffold designed to help human developers and AI coding agents share a consistent understanding of system constraints, intent, and operational proc…",
-      "main_idea": "How to Use the CSC GitHub Template for AI-Assisted Software Development",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 12 Jun 2026 17:00:52 GMT",
-      "url": "https://hackernoon.com/how-to-use-the-csc-github-template-for-ai-assisted-software-development?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Anti-Immigrant Riots after Belfast Stabbing Leave City on Edge",
       "title_neutral": "Anti-Immigrant Riots after Belfast Stabbing Leave City on Edge",
       "excerpt": "In two nights of violence in Northern Ireland after a brutal stabbing, people were targeted because of their skin color, the authorities said.",
@@ -1407,23 +1480,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Terminal Velocity",
-      "title_neutral": "Terminal Velocity",
-      "excerpt": "Jet Le Parti argues that digital culture has entered a state of \"saturation,\" where critique, resistance, and identity are absorbed into platform systems before they fully emerge. Building on Debord, Baudrillard, Wark, and Fisher, he introduces Residualism and Exaptism as frameworks for understandi…",
-      "recap_neutral": "Jet Le Parti argues that digital culture has entered a state of \"saturation,\" where critique, resistance, and identity are absorbed into platform systems before they fully emerge",
-      "main_idea": "Terminal Velocity",
-      "tags": [
-        "conflict"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 12 Jun 2026 16:27:44 GMT",
-      "url": "https://hackernoon.com/terminal-velocity?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "French town buries murdered child as questions mount over police failings",
       "title_neutral": "French town buries murdered child as questions mount over police failings",
       "excerpt": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
@@ -1438,72 +1494,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The HackerNoon Newsletter: How Enterprise AI Systems Simulate Memory Without Breaking the Token Budget (6/12/2026)",
-      "title_neutral": "The HackerNoon Newsletter: How Enterprise AI Systems Simulate Memory Without Breaking the Token Budget (6/12/2026)",
-      "excerpt": "How are you, hacker? 🪐 What’s happening in tech today, June 12, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox. On this day, 3Com and Us Robotics Merged in 1997, The Boeing 777 Made Its Maiden Flight in 1994, The Gas Mask Was Patented in 1849, The Soviet Union…",
-      "recap_neutral": "How are you, hacker? 🪐 What’s happening in tech today, June 12, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox",
-      "main_idea": "The HackerNoon Newsletter: How Enterprise AI Systems Simulate Memory Without Breaking the Token Budget (6/12/2026)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 12 Jun 2026 16:05:21 GMT",
-      "url": "https://hackernoon.com/6-12-2026-newsletter?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "HackerNoon Projects of the Week: RoyFlow, Skyrim Wellbeing Manager, and Spawnr",
-      "title_neutral": "HackerNoon Projects of the Week: RoyFlow, Skyrim Wellbeing Manager, and Spawnr",
-      "excerpt": "Three startups—RoyFlow, Skyrim Wellbeing Manager, and Spawnr—featured in HackerNoon Projects of the Week for proving real-world usefulness.",
-      "recap_neutral": "Three startups—RoyFlow, Skyrim Wellbeing Manager, and Spawnr—featured in HackerNoon Projects of the Week for proving real-world usefulness",
-      "main_idea": "HackerNoon Projects of the Week: RoyFlow, Skyrim Wellbeing Manager, and Spawnr",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Fri, 12 Jun 2026 16:00:45 GMT",
-      "url": "https://hackernoon.com/hackernoon-projects-of-the-week-royflow-skyrim-wellbeing-manager-and-spawnr?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trust Wallet Adds bStocks to Put Tokenized Nvidia and Tesla Inside a Self-Custody Wallet",
-      "title_neutral": "Trust Wallet Adds bStocks to Put Tokenized Nvidia and Tesla Inside a Self-Custody Wallet",
-      "excerpt": "Trust Wallet now supports bStocks, tokenized US securities issued on BNB Chain, accessible directly from the wallet with no traditional brokerage account. Five assets are live at launch: NVDAB (Nvidia), TSLAB (Tesla), CRCLB (Circle Internet Group), MUB (Micron Technology), and SNDKB (SanDisk Corpor…",
-      "recap_neutral": "Trust Wallet now supports bStocks, tokenized US securities issued on BNB Chain, accessible directly from the wallet with no traditional brokerage account",
-      "main_idea": "Trust Wallet Adds bStocks to Put Tokenized Nvidia and Tesla Inside a Self-Custody Wallet",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 12 Jun 2026 15:48:34 GMT",
-      "url": "https://hackernoon.com/trust-wallet-adds-bstocks-to-put-tokenized-nvidia-and-tesla-inside-a-self-custody-wallet?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "title_neutral": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Fri, 12 Jun 2026 15:15:24 +0000",
-      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
