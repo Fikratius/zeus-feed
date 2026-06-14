@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T20:46:03.146460+00:00",
+  "last_updated": "2026-06-14T22:05:22.293602+00:00",
   "items": [
     {
       "title_original": "Trump targeting immigrants from countries hit most by climate shocks",
@@ -68,6 +68,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "The only scalable delete in Postgres is DROP TABLE",
+      "title_neutral": "The only scalable delete in Postgres is DROP TABLE",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The only scalable delete in Postgres is DROP TABLE",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 11 Jun 2026 16:48:49 +0000",
+      "url": "https://planetscale.com/blog/the-only-scalable-delete",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "London council seizes social housing flat rented by Sierra Leone first lady",
       "title_neutral": "London council seizes social housing flat rented by Sierra Leone first lady",
       "excerpt": "Fatima Jabbe-Bio kept tenancy in Southwark despite living for much of year at presidential lodge in Freetown A social housing flat rented by Sierra Leone’s first lady has been seized by a London council. Southwark council confirmed it had repossessed the two-bedroom home in Walworth previously occu…",
@@ -131,246 +146,71 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В ДРК заявили, что число умерших от Эболы превысило 180",
-      "title_neutral": "В ДРК заявили, что число умерших от Эболы превысило 180",
-      "excerpt": "Количество лабораторно подтвержденных случаев заболевания достигло 782",
-      "recap_neutral": "Количество лабораторно подтвержденных случаев заболевания достигло 782",
-      "main_idea": "В ДРК заявили, что число умерших от Эболы превысило 180",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 14 Jun 2026 23:43:10 +0300",
-      "url": "https://tass.ru/obschestvo/27754809",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Москве прошел концерт американского артиста Джейсона Деруло",
-      "title_neutral": "В Москве прошел концерт американского артиста Джейсона Деруло",
-      "excerpt": "В программу концерта композиции Wiggle, Swalla, Whatcha Say",
-      "recap_neutral": "В программу концерта композиции Wiggle, Swalla, Whatcha Say",
-      "main_idea": "В Москве прошел концерт американского артиста Джейсона Деруло",
+      "title_original": "Iran War Live Updates: Trump Announces Cease-Fire Agreement",
+      "title_neutral": "Iran War Live Updates: Trump Announces Cease-Fire Agreement",
+      "excerpt": "There was no immediate official confirmation from Iran after President Trump’s statement on social media.",
+      "recap_neutral": "There was no immediate official confirmation from Iran after President Trump’s statement on social media",
+      "main_idea": "Iran War Live Updates: Trump Announces Cease-Fire Agreement",
       "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 14 Jun 2026 23:39:35 +0300",
-      "url": "https://tass.ru/kultura/27754769",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Сборная Германии обогнала бразильцев по количеству голов в истории ЧМ",
-      "title_neutral": "Сборная Германии обогнала бразильцев по количеству голов в истории ЧМ",
-      "excerpt": "В воскресенье немцы разгромили команду Кюрасао со счетом 7:1",
-      "recap_neutral": "В воскресенье немцы разгромили команду Кюрасао со счетом 7:1",
-      "main_idea": "Сборная Германии обогнала бразильцев по количеству голов в истории ЧМ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 14 Jun 2026 23:39:31 +0300",
-      "url": "https://tass.ru/sport/27754807",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В доме в Самаре ликвидировали открытое горение",
-      "title_neutral": "В доме в Самаре ликвидировали открытое горение",
-      "excerpt": "В здании произошел взрыв газа",
-      "recap_neutral": "В здании произошел взрыв газа",
-      "main_idea": "В доме в Самаре ликвидировали открытое горение",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 14 Jun 2026 23:27:20 +0300",
-      "url": "https://tass.ru/proisshestviya/27754791",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Деруло исполнил ИИ-кавер на \"Седую ночь\" на концерте в Москве",
-      "title_neutral": "Деруло исполнил ИИ-кавер на \"Седую ночь\" на концерте в Москве",
-      "excerpt": "Этот кавер создал российский работник сферы туризма Август Септемберов с помощью искусственного интеллекта",
-      "recap_neutral": "Этот кавер создал российский работник сферы туризма Август Септемберов с помощью искусственного интеллекта",
-      "main_idea": "Деруло исполнил ИИ-кавер на \"Седую ночь\" на концерте в Москве",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 14 Jun 2026 23:25:25 +0300",
-      "url": "https://tass.ru/kultura/27754741",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Новгородской области отменили опасность БПЛА",
-      "title_neutral": "В Новгородской области отменили опасность БПЛА",
-      "excerpt": "Жителей призвали не приближаться к обломкам при их обнаружении",
-      "recap_neutral": "Жителей призвали не приближаться к обломкам при их обнаружении",
-      "main_idea": "В Новгородской области отменили опасность БПЛА",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 14 Jun 2026 23:22:48 +0300",
-      "url": "https://tass.ru/proisshestviya/27754777",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "С жителями дома в Самаре, где произошел пожар, работают психологи",
-      "title_neutral": "С жителями дома в Самаре, где произошел пожар, работают психологи",
-      "excerpt": "Соцслужбы окажут помощь пострадавшим",
-      "recap_neutral": "Соцслужбы окажут помощь пострадавшим",
-      "main_idea": "С жителями дома в Самаре, где произошел пожар, работают психологи",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 14 Jun 2026 23:18:26 +0300",
-      "url": "https://tass.ru/obschestvo/27754747",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропорту Волгограда ввели ограничения",
-      "title_neutral": "В аэропорту Волгограда ввели ограничения",
-      "excerpt": "Они необходимы для обеспечения безопасности полетов",
-      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
-      "main_idea": "В аэропорту Волгограда ввели ограничения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 14 Jun 2026 23:13:47 +0300",
-      "url": "https://tass.ru/obschestvo/27754755",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Росавиация запретила ночные вылеты из РФ в Иран до 24 июня",
-      "title_neutral": "Росавиация запретила ночные вылеты из РФ в Иран до 24 июня",
-      "excerpt": "Уточняется, что в остальное время, с 11:01 до 22:59 мск, решение о полетах в Иран должно приниматься на основании произведенной оценки рисков, в том числе с учетом рекомендаций ICAO",
-      "recap_neutral": "Уточняется, что в остальное время, с 11:01 до 22:59 мск, решение о полетах в Иран должно приниматься на основании произведенной оценки рисков, в том числе с учетом рекомендаций ICAO",
-      "main_idea": "Росавиация запретила ночные вылеты из РФ в Иран до 24 июня",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 14 Jun 2026 23:11:54 +0300",
-      "url": "https://tass.ru/ekonomika/27754735",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На концерте Деруло в Москве состоялась мировая премьера его песни Chicko",
-      "title_neutral": "На концерте Деруло в Москве состоялась мировая премьера его песни Chicko",
-      "excerpt": "Певец также исполнил хиты Wiggle, Swalla и Komasav",
-      "recap_neutral": "Певец также исполнил хиты Wiggle, Swalla и Komasav",
-      "main_idea": "На концерте Деруло в Москве состоялась мировая премьера его песни Chicko",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 14 Jun 2026 22:57:57 +0300",
-      "url": "https://tass.ru/kultura/27754677",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропортах Калуги, Тамбова и Нижнего Новгорода сняли ограничения",
-      "title_neutral": "В аэропортах Калуги, Тамбова и Нижнего Новгорода сняли ограничения",
-      "excerpt": "Их вводили для обеспечения безопасности полетов",
-      "recap_neutral": "Их вводили для обеспечения безопасности полетов",
-      "main_idea": "В аэропортах Калуги, Тамбова и Нижнего Новгорода сняли ограничения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 14 Jun 2026 22:57:02 +0300",
-      "url": "https://tass.ru/obschestvo/27754717",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Российские дзюдоисты выиграли 12 золотых медалей на турнире в Красноярске",
-      "title_neutral": "Российские дзюдоисты выиграли 12 золотых медалей на турнире в Красноярске",
-      "excerpt": "Всего в активе сборной России 38 наград",
-      "recap_neutral": "Всего в активе сборной России 38 наград",
-      "main_idea": "Российские дзюдоисты выиграли 12 золотых медалей на турнире в Красноярске",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 14 Jun 2026 22:54:02 +0300",
-      "url": "https://tass.ru/sport/27754713",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Рязанской области отменили беспилотную опасность",
-      "title_neutral": "В Рязанской области отменили беспилотную опасность",
-      "excerpt": "Эту информацию сообщили в РСЧС региона",
-      "recap_neutral": "Эту информацию сообщили в РСЧС региона",
-      "main_idea": "В Рязанской области отменили беспилотную опасность",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 14 Jun 2026 22:52:14 +0300",
-      "url": "https://tass.ru/proisshestviya/27754709",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Мордовии отменили беспилотную опасность",
-      "title_neutral": "В Мордовии отменили беспилотную опасность",
-      "excerpt": "Эту информацию сообщили в правительстве республики",
-      "recap_neutral": "Эту информацию сообщили в правительстве республики",
-      "main_idea": "В Мордовии отменили беспилотную опасность",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 14 Jun 2026 22:50:56 +0300",
-      "url": "https://tass.ru/proisshestviya/27754705",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Тульской области отменили опасность атаки БПЛА",
-      "title_neutral": "В Тульской области отменили опасность атаки БПЛА",
-      "excerpt": "Эту информацию сообщил губернатор региона Дмитрий Миляев",
-      "recap_neutral": "Эту информацию сообщил губернатор региона Дмитрий Миляев",
-      "main_idea": "В Тульской области отменили опасность атаки БПЛА",
-      "tags": [
+        "politics",
         "conflict"
       ],
-      "source": "ТАСС",
-      "published_at": "Sun, 14 Jun 2026 22:49:25 +0300",
-      "url": "https://tass.ru/proisshestviya/27754693",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sun, 14 Jun 2026 22:02:29 +0000",
+      "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The New AI Power Struggle",
+      "title_neutral": "The New AI Power Struggle",
+      "excerpt": "AI geopolitics is shifting from chip denial to system control, with compute, energy, cloud, and sovereign AI reshaping global power.",
+      "recap_neutral": "AI geopolitics is shifting from chip denial to system control, with compute, energy, cloud, and sovereign AI reshaping global power",
+      "main_idea": "The New AI Power Struggle",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 14 Jun 2026 21:59:59 GMT",
+      "url": "https://hackernoon.com/the-new-ai-power-struggle?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "War and the World Cup",
+      "title_neutral": "War and the World Cup",
+      "excerpt": "The Iranian government has always used the national team to project soft power. That puts players and fans who oppose the regime in a tough spot.",
+      "recap_neutral": "The Iranian government has always used the national team to project soft power",
+      "main_idea": "War and the World Cup",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 14 Jun 2026 21:11:16 +0000",
+      "url": "https://www.nytimes.com/2026/06/14/world/world-cup-iran-lebanon-trump-birthday.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Zinnia: A modular 64-bit Unix-like kernel written in Rust",
+      "title_neutral": "Zinnia: A modular 64-bit Unix-like kernel written in Rust",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Zinnia: A modular 64-bit Unix-like kernel written in Rust",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 14 Jun 2026 21:04:46 +0000",
+      "url": "https://zinnia-os.org/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -389,40 +229,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran War Live Updates: Trump Calls for Restraint After Israel Strikes Beirut Suburbs",
-      "title_neutral": "Iran War Live Updates: Trump Calls for Restraint After Israel Strikes Beirut Suburbs",
-      "excerpt": "President Trump said “all sides should stand down,” as the conflict in Lebanon between Israel and the Iranian-backed militant group Hezbollah complicated efforts to finalize a cease-fire agreement with Tehran.",
-      "recap_neutral": "President Trump said “all sides should stand down,” as the conflict in Lebanon between Israel and the Iranian-backed militant group Hezbollah complicated efforts to finalize a cease-fire agreement with Tehran",
-      "main_idea": "Iran War Live Updates: Trump Calls for Restraint After Israel Strikes Beirut Suburbs",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 14 Jun 2026 20:14:57 +0000",
-      "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "In Israel, Broad Discontent Over the Emerging U.S. Deal With Iran",
-      "title_neutral": "In Israel, Broad Discontent Over the Emerging U.S. Deal With Iran",
-      "excerpt": "Israelis across the political spectrum say the deal appears to leave fundamental security threats posed by Iran unaddressed.",
-      "recap_neutral": "Israelis across the political spectrum say the deal appears to leave fundamental security threats posed by Iran unaddressed",
-      "main_idea": "In Israel, Broad Discontent Over the Emerging U.S. Deal With Iran",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sun, 14 Jun 2026 20:07:05 +0000",
-      "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-us-iran-deal.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Deadlocked Wars: How Major Powers Misread the Regions They Attacked",
       "title_neutral": "Deadlocked Wars: How Major Powers Misread the Regions They Attacked",
       "excerpt": "Russia and the United States projected their own centralized views onto Ukraine and Iran, analysts said. As a result, the smaller countries trapped larger ones in a costly confrontation.",
@@ -438,6 +244,122 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "500 Blog Posts To Learn About Saas",
+      "title_neutral": "500 Blog Posts To Learn About Saas",
+      "excerpt": "Let's learn about Saas via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. All SaaS related stories sorted in one nice internet space. From growth stories, lessons on entre…",
+      "recap_neutral": "Let's learn about Saas via these 500 free blog posts",
+      "main_idea": "500 Blog Posts To Learn About Saas",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 14 Jun 2026 20:00:33 GMT",
+      "url": "https://hackernoon.com/500-blog-posts-to-learn-about-saas?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Search You Didn't Know You Signed Up For",
+      "title_neutral": "The Search You Didn't Know You Signed Up For",
+      "excerpt": "Startups succeed not by launching a perfect product, but by persistently searching for the right product and message through a slow, ambiguous process of testing, listening to customers, and revising their initial ideas.",
+      "recap_neutral": "Startups succeed not by launching a perfect product, but by persistently searching for the right product and message through a slow, ambiguous process of testing, listening to customers, and revising their initial ideas",
+      "main_idea": "The Search You Didn't Know You Signed Up For",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sun, 14 Jun 2026 19:48:17 GMT",
+      "url": "https://hackernoon.com/the-search-you-didnt-know-you-signed-up-for?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Protesters clash with police ahead of G7 summit in Geneva",
+      "title_neutral": "Protesters clash with police ahead of G7 summit in Geneva",
+      "excerpt": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.",
+      "recap_neutral": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes",
+      "main_idea": "Protesters clash with police ahead of G7 summit in Geneva",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sun, 14 Jun 2026 19:46:36 GMT",
+      "url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to Build AI-Powered Kubernetes Operators for Troubleshooting, Scaling, and Incident Response",
+      "title_neutral": "How to Build AI-Powered Kubernetes Operators for Troubleshooting, Scaling, and Incident Response",
+      "excerpt": "In this tutorial, you will learn how to build a Kubernetes AI agent using Python, integrate it with cluster data and monitoring systems, and explore real-world use cases such as incident response, performance troubleshooting, and cost optimization. Moreover, you will also learn key security practic…",
+      "recap_neutral": "In this tutorial, you will learn how to build a Kubernetes AI agent using Python, integrate it with cluster data and monitoring systems, and explore real-world use cases such as incident response, performance troublesho…",
+      "main_idea": "How to Build AI-Powered Kubernetes Operators for Troubleshooting, Scaling, and Incident Response",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 14 Jun 2026 19:41:08 GMT",
+      "url": "https://hackernoon.com/how-to-build-ai-powered-kubernetes-operators-for-troubleshooting-scaling-and-incident-response?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why the War on VPNs Will Be Lost",
+      "title_neutral": "Why the War on VPNs Will Be Lost",
+      "excerpt": "VPN bans are the latest version of an old censorship pattern: governments try to control information infrastructure, users find workarounds, and the technology adapts. History shows that circumvention tools rarely disappear — they become more distributed, resilient, and necessary.",
+      "recap_neutral": "VPN bans are the latest version of an old censorship pattern: governments try to control information infrastructure, users find workarounds, and the technology adapts",
+      "main_idea": "Why the War on VPNs Will Be Lost",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 14 Jun 2026 19:34:19 GMT",
+      "url": "https://hackernoon.com/why-the-war-on-vpns-will-be-lost?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Washington Shows Anthropic and the AI Industry What It Can Do to Them",
+      "title_neutral": "Washington Shows Anthropic and the AI Industry What It Can Do to Them",
+      "excerpt": "The Trump administration is creating a precdent for government restricting an AI company's ability to devleop new products under the guise of national security.",
+      "recap_neutral": "The Trump administration is creating a precdent for government restricting an AI company's ability to devleop new products under the guise of national security",
+      "main_idea": "Washington Shows Anthropic and the AI Industry What It Can Do to Them",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 14 Jun 2026 19:30:50 GMT",
+      "url": "https://hackernoon.com/washington-shows-anthropic-and-the-ai-industry-what-it-can-do-to-them?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Under the Hood: Evaluating NetSuite's Scalability as a Modern ERP",
+      "title_neutral": "Under the Hood: Evaluating NetSuite's Scalability as a Modern ERP",
+      "excerpt": "Deep dive into NetSuite's scalability. Explore how this modern ERP system handles growth and complex demands, making it a powerful solution for businesses.",
+      "recap_neutral": "Deep dive into NetSuite's scalability",
+      "main_idea": "Under the Hood: Evaluating NetSuite's Scalability as a Modern ERP",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sun, 14 Jun 2026 19:28:58 GMT",
+      "url": "https://hackernoon.com/under-the-hood-evaluating-netsuites-scalability-as-a-modern-erp?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -471,6 +393,36 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Yserver: A modern X11 server written in Rust",
+      "title_neutral": "Yserver: A modern X11 server written in Rust",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Yserver: A modern X11 server written in Rust",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 14 Jun 2026 19:10:35 +0000",
+      "url": "https://github.com/joske/yserver",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "TextGrad Autograd Engine: Variables, Roles, & PyTorch-Style Textual Backpropagation",
+      "title_neutral": "TextGrad Autograd Engine: Variables, Roles, & PyTorch-Style Textual Backpropagation",
+      "excerpt": "Master the inner workings of TextGrad's computation graphs. Learn how text-based variables, role descriptions, and the tg.sum operation replicate PyTorch backpropagation to optimize blackbox LLMs.",
+      "recap_neutral": "Master the inner workings of TextGrad's computation graphs",
+      "main_idea": "TextGrad Autograd Engine: Variables, Roles, & PyTorch-Style Textual Backpropagation",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sun, 14 Jun 2026 19:00:12 GMT",
+      "url": "https://hackernoon.com/textgrad-autograd-engine-variables-roles-and-pytorch-style-textual-backpropagation?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Swiss voters reject 10 million population cap",
       "title_neutral": "Swiss voters reject 10 million population cap",
       "excerpt": "Nearly 55% of participants voted against the proposal to cap population by cutting migration, results show.",
@@ -482,24 +434,6 @@
       "source": "BBC World",
       "published_at": "Sun, 14 Jun 2026 18:23:52 GMT",
       "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Israeli military says Hezbollah targets struck in Beirut",
-      "title_neutral": "Israeli military says Hezbollah targets struck in Beirut",
-      "excerpt": "Israel says it targeted the Iran-backed armed group Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
-      "recap_neutral": "Israel says it targeted the Iran-backed armed group Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting",
-      "main_idea": "Israeli military says Hezbollah targets struck in Beirut",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 14 Jun 2026 17:52:36 GMT",
-      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -518,6 +452,23 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Your Encrypted Traffic Is Not as Hidden as You Think",
+      "title_neutral": "Your Encrypted Traffic Is Not as Hidden as You Think",
+      "excerpt": "Here is something most VPN marketing never tells you: the moment your device connects through a VPN, the network on the other end often knows. Not what you are doing. But that you are doing it.",
+      "recap_neutral": "Here is something most VPN marketing never tells you: the moment your device connects through a VPN, the network on the other end often knows",
+      "main_idea": "Your Encrypted Traffic Is Not as Hidden as You Think",
+      "tags": [
+        "economy"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 14 Jun 2026 16:59:59 GMT",
+      "url": "https://hackernoon.com/your-encrypted-traffic-is-not-as-hidden-as-you-think?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -555,6 +506,24 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Former Republican Senate Majority Leader Mitch McConnell hospitalized",
+      "title_neutral": "Former Republican Senate Majority Leader Mitch McConnell hospitalized",
+      "excerpt": "A spokesman for former Senate Majority Leader Mitch McConnell said the Kentucky republican was admitted to a hospital on Sunday.",
+      "recap_neutral": "A spokesman for former Senate Majority Leader Mitch McConnell said the Kentucky republican was admitted to a hospital on Sunday",
+      "main_idea": "Former Republican Senate Majority Leader Mitch McConnell hospitalized",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "NPR",
+      "published_at": "Sun, 14 Jun 2026 16:45:20 -0400",
+      "url": "https://www.npr.org/2026/06/14/g-s1-128089/mitch-mcconnell-hospital",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Ask HN: What are you working on? (June 2026)",
       "title_neutral": "Ask HN: What are you working on? (June 2026)",
       "excerpt": "Comments",
@@ -567,6 +536,38 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The HackerNoon Newsletter: What is the A.G.E.N.T.I.C. Framework? (6/14/2026)",
+      "title_neutral": "The HackerNoon Newsletter: What is the A.G.E.N.T.I.C. Framework? (6/14/2026)",
+      "excerpt": "How are you, hacker? 🪐 What’s happening in tech today, June 14, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox. On this day, The US Census Dedicated the UNIVAC I Computer in 1956, Mauchly Met Atanasoff in a Historic Meeting in 1941, The Disneyland Monorail Ope…",
+      "recap_neutral": "How are you, hacker? 🪐 What’s happening in tech today, June 14, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox",
+      "main_idea": "The HackerNoon Newsletter: What is the A.G.E.N.T.I.C. Framework? (6/14/2026)",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 14 Jun 2026 16:04:58 GMT",
+      "url": "https://hackernoon.com/6-14-2026-newsletter?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Zero-Day Exploit Clock: What Is It and Why Is It Still Ticking?",
+      "title_neutral": "The Zero-Day Exploit Clock: What Is It and Why Is It Still Ticking?",
+      "excerpt": "The threat landscape has transformed over three decades, and the window between vulnerability disclosure and active exploitation is collapsing.",
+      "recap_neutral": "The threat landscape has transformed over three decades, and the window between vulnerability disclosure and active exploitation is collapsing",
+      "main_idea": "The Zero-Day Exploit Clock: What Is It and Why Is It Still Ticking?",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sun, 14 Jun 2026 16:00:34 GMT",
+      "url": "https://hackernoon.com/the-zero-day-exploit-clock-what-is-it-and-why-is-it-still-ticking?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -600,26 +601,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
-      "title_neutral": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+      "title_original": "Perlisisms (1982)",
+      "title_neutral": "Perlisisms (1982)",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 14 Jun 2026 15:13:57 +0000",
-      "url": "https://news.ycombinator.com/item?id=48528029",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Perlisisms",
-      "title_neutral": "Perlisisms",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Perlisisms",
+      "main_idea": "Perlisisms (1982)",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Sun, 14 Jun 2026 14:56:56 +0000",
@@ -642,21 +628,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "FarOutCompany",
-      "title_neutral": "FarOutCompany",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "FarOutCompany",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 14 Jun 2026 14:09:29 +0000",
-      "url": "https://faroutcompany.com/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -784,21 +755,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Birth and Death of JavaScript (2014)",
-      "title_neutral": "The Birth and Death of JavaScript (2014)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The Birth and Death of JavaScript (2014)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 14 Jun 2026 12:38:31 +0000",
-      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1089,23 +1045,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "213 Blog Posts To Learn About Remote Working",
-      "title_neutral": "213 Blog Posts To Learn About Remote Working",
-      "excerpt": "Let's learn about Remote Working via these 213 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. Welcome to working from home! The place where the hours you work are entirely made up a…",
-      "recap_neutral": "Let's learn about Remote Working via these 213 free blog posts",
-      "main_idea": "213 Blog Posts To Learn About Remote Working",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 14 Jun 2026 02:00:10 GMT",
-      "url": "https://hackernoon.com/213-blog-posts-to-learn-about-remote-working?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Author Chimamanda Adichie accuses hospital of stalling review into son's death",
       "title_neutral": "Author Chimamanda Adichie accuses hospital of stalling review into son's death",
       "excerpt": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
@@ -1221,23 +1160,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "500 Blog Posts To Learn About Remote Work",
-      "title_neutral": "500 Blog Posts To Learn About Remote Work",
-      "excerpt": "Let's learn about Remote Work via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. Welcome to working from home! The place where the hours you work are entirely made up and…",
-      "recap_neutral": "Let's learn about Remote Work via these 500 free blog posts",
-      "main_idea": "500 Blog Posts To Learn About Remote Work",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 13 Jun 2026 20:00:15 GMT",
-      "url": "https://hackernoon.com/500-blog-posts-to-learn-about-remote-work?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure",
       "title_neutral": "With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure",
       "excerpt": "Iran’s new, more militaristic leaders have already survived the worst that America and Israel can deliver, and seem readier to take risks.",
@@ -1302,76 +1224,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A Lebanon town's grief in the aftermath of a deadly Israeli airstrike",
-      "title_neutral": "A Lebanon town's grief in the aftermath of a deadly Israeli airstrike",
-      "excerpt": "More than 3,700 people in Lebanon have died in the war between Israel and Hezbollah. In a village in southern Lebanon, one airstrike last month killed 14 people, including 10 women and children.",
-      "recap_neutral": "More than 3,700 people in Lebanon have died in the war between Israel and Hezbollah",
-      "main_idea": "A Lebanon town's grief in the aftermath of a deadly Israeli airstrike",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 13 Jun 2026 17:02:53 -0400",
-      "url": "https://www.npr.org/2026/06/13/nx-s1-5848614/a-lebanon-towns-grief-in-the-aftermath-of-a-deadly-israeli-airstrike",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Global Trade Is Growing, but the Interface Is Aging",
-      "title_neutral": "Global Trade Is Growing, but the Interface Is Aging",
-      "excerpt": "Global trade isn't suffering from a lack of suppliers or products—it's suffering from poor matching. Traditional B2B platforms help buyers find suppliers, but they do little to determine which suppliers are actually the best fit. AI-native matching can understand buyer intent, evaluate supplier cap…",
-      "recap_neutral": "Global trade isn't suffering from a lack of suppliers or products—it's suffering from poor matching",
-      "main_idea": "Global Trade Is Growing, but the Interface Is Aging",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 13 Jun 2026 16:18:34 GMT",
-      "url": "https://hackernoon.com/global-trade-is-growing-but-the-interface-is-aging?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The HackerNoon Newsletter: How to Make A Clicker Game on the Desmos Graphing Calculator (6/13/2026)",
-      "title_neutral": "The HackerNoon Newsletter: How to Make A Clicker Game on the Desmos Graphing Calculator (6/13/2026)",
-      "excerpt": "How are you, hacker? 🪐 What’s happening in tech today, June 13, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox. On this day, Pioneer 10 Crossed the Orbit of Neptune in 1983, Leonard Kleinrock Was Born in 1934, Microsoft Partnered With Time-Warner and Tele-Comm…",
-      "recap_neutral": "How are you, hacker? 🪐 What’s happening in tech today, June 13, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox",
-      "main_idea": "The HackerNoon Newsletter: How to Make A Clicker Game on the Desmos Graphing Calculator (6/13/2026)",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 13 Jun 2026 16:04:05 GMT",
-      "url": "https://hackernoon.com/6-13-2026-newsletter?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "AI Coding Tip 024 - Force a Criteria Check Before the Task Ends",
-      "title_neutral": "AI Coding Tip 024 - Force a Criteria Check Before the Task Ends",
-      "excerpt": "Spawn a fresh subagent after every task to check your rules, because the AI that did the work can't audit itself.",
-      "recap_neutral": "Spawn a fresh subagent after every task to check your rules, because the AI that did the work can't audit itself",
-      "main_idea": "AI Coding Tip 024 - Force a Criteria Check Before the Task Ends",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 13 Jun 2026 16:00:39 GMT",
-      "url": "https://hackernoon.com/ai-coding-tip-024-force-a-criteria-check-before-the-task-ends?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "What to Know About the Ebola Outbreak",
       "title_neutral": "What to Know About the Ebola Outbreak",
       "excerpt": "Aid agencies are racing to help health workers in the Democratic Republic of Congo. The virus is known to have killed at least 140 people, but the true toll may be far higher.",
@@ -1404,105 +1256,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Markr: Mark the Moment While You Record, Not After",
-      "title_neutral": "Markr: Mark the Moment While You Record, Not After",
-      "excerpt": "I always wanted to do YouTube but hated the part after recording: rewatching a 20-30 minute video once to find my mistakes, then again to pull shorts out of it. It made me quit more than once. I even tried building an AI auto editor, but it never hit the quality I wanted. So I made Markr instead, a…",
-      "recap_neutral": "I always wanted to do YouTube but hated the part after recording: rewatching a 20-30 minute video once to find my mistakes, then again to pull shorts out of it",
-      "main_idea": "Markr: Mark the Moment While You Record, Not After",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 13 Jun 2026 15:00:43 GMT",
-      "url": "https://hackernoon.com/markr-mark-the-moment-while-you-record-not-after?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How to Make A Clicker Game on the Desmos Graphing Calculator",
-      "title_neutral": "How to Make A Clicker Game on the Desmos Graphing Calculator",
-      "excerpt": "What if I told you Desmos has everything you need to build a working arcade game? State variables, conditional logic, randomization, and even clickable objects. No JavaScript. No libraries. Just math doing things math was never meant to do.",
-      "recap_neutral": "What if I told you Desmos has everything you need to build a working arcade game? State variables, conditional logic, randomization, and even clickable objects",
-      "main_idea": "How to Make A Clicker Game on the Desmos Graphing Calculator",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sat, 13 Jun 2026 15:00:40 GMT",
-      "url": "https://hackernoon.com/how-to-make-a-clicker-game-on-the-desmos-graphing-calculator?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Stop Slicing Your Text Like Salami: A Better Approach to Semantic Chunking",
-      "title_neutral": "Stop Slicing Your Text Like Salami: A Better Approach to Semantic Chunking",
-      "excerpt": "You are ruining your vector search by blindly slicing text into arbitrary character limits. This article explains why standard chunking fails and provides a runnable, dependency-free Python script for context-aware sentence grouping that you can test right now.",
-      "recap_neutral": "You are ruining your vector search by blindly slicing text into arbitrary character limits",
-      "main_idea": "Stop Slicing Your Text Like Salami: A Better Approach to Semantic Chunking",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 13 Jun 2026 14:44:59 GMT",
-      "url": "https://hackernoon.com/stop-slicing-your-text-like-salami-a-better-approach-to-semantic-chunking?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The TechBeat: AI Coding Agents Have a Cost Visibility Problem (6/13/2026)",
-      "title_neutral": "The TechBeat: AI Coding Agents Have a Cost Visibility Problem (6/13/2026)",
-      "excerpt": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here . ## Vibe Coding Ends at Localhost By @dmytrochervonyi [ 7 Min read ] AI coding agents got brilliant at w…",
-      "recap_neutral": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here",
-      "main_idea": "The TechBeat: AI Coding Agents Have a Cost Visibility Problem (6/13/2026)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 13 Jun 2026 14:00:52 GMT",
-      "url": "https://hackernoon.com/6-13-2026-techbeat?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "164 Blog Posts To Learn About Recruiting",
-      "title_neutral": "164 Blog Posts To Learn About Recruiting",
-      "excerpt": "Let's learn about Recruiting via these 164 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. There is immense value in picking the right staff or partners. HackerNoon's diligently cura…",
-      "recap_neutral": "Let's learn about Recruiting via these 164 free blog posts",
-      "main_idea": "164 Blog Posts To Learn About Recruiting",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 13 Jun 2026 14:00:09 GMT",
-      "url": "https://hackernoon.com/164-blog-posts-to-learn-about-recruiting?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "TextGrad vs. DSPy & ProTeGi: Evolution of Textual Autograd",
-      "title_neutral": "TextGrad vs. DSPy & ProTeGi: Evolution of Textual Autograd",
-      "excerpt": "Compare TextGrad to prompt optimization frameworks like DSPy and ProTeGi. Discover how textual backpropagation unlocks instance optimization for LLM agents.",
-      "recap_neutral": "Compare TextGrad to prompt optimization frameworks like DSPy and ProTeGi",
-      "main_idea": "TextGrad vs. DSPy & ProTeGi: Evolution of Textual Autograd",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sat, 13 Jun 2026 13:30:04 GMT",
-      "url": "https://hackernoon.com/textgrad-vs-dspy-and-protegi-evolution-of-textual-autograd?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1589,6 +1342,254 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Tasnim: замглавы МИД Ирана подтвердил достижение соглашения с США",
+      "title_neutral": "Tasnim: замглавы МИД Ирана подтвердил достижение соглашения с США",
+      "excerpt": "",
+      "recap_neutral": "Tasnim: замглавы МИД Ирана подтвердил достижение соглашения с США",
+      "main_idea": "Tasnim: замглавы МИД Ирана подтвердил достижение соглашения с США",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 15 Jun 2026 01:01:43 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27755133",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Сборные Нидерландов и Японии сыграли вничью в матче чемпионата мира",
+      "title_neutral": "Сборные Нидерландов и Японии сыграли вничью в матче чемпионата мира",
+      "excerpt": "Встреча завершилась со счетом 2:2",
+      "recap_neutral": "Встреча завершилась со счетом 2:2",
+      "main_idea": "Сборные Нидерландов и Японии сыграли вничью в матче чемпионата мира",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 15 Jun 2026 00:57:22 +0300",
+      "url": "https://tass.ru/sport/27755127",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Мирошник: США стремятся участвовать в урегулировании украинского кризиса",
+      "title_neutral": "Мирошник: США стремятся участвовать в урегулировании украинского кризиса",
+      "excerpt": "Посол по особым поручениям МИД России отметил, что у Соединенных Штатов при этом есть рычаги давления на ЕС и Украину",
+      "recap_neutral": "Посол по особым поручениям МИД России отметил, что у Соединенных Штатов при этом есть рычаги давления на ЕС и Украину",
+      "main_idea": "Мирошник: США стремятся участвовать в урегулировании украинского кризиса",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 15 Jun 2026 00:55:22 +0300",
+      "url": "https://tass.ru/politika/27755113",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Алиев назвал мирное соглашение с Арменией результатом усилий США",
+      "title_neutral": "Алиев назвал мирное соглашение с Арменией результатом усилий США",
+      "excerpt": "Президент Азербайджана уверен, что совместная работа двух стран по мирной повестке будет продолжена",
+      "recap_neutral": "Президент Азербайджана уверен, что совместная работа двух стран по мирной повестке будет продолжена",
+      "main_idea": "Алиев назвал мирное соглашение с Арменией результатом усилий США",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 15 Jun 2026 00:48:22 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27755097",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Снятие блокады Ирана и открытие Ормуза. Трамп заявил о заключении сделки с Тегераном",
+      "title_neutral": "Снятие блокады Ирана и открытие Ормуза. Трамп заявил о заключении сделки с Тегераном",
+      "excerpt": "Церемония подписания соглашения состоится 19 июня в Швейцарии, сообщил премьер Пакистана Шахбаз Шариф",
+      "recap_neutral": "Церемония подписания соглашения состоится 19 июня в Швейцарии, сообщил премьер Пакистана Шахбаз Шариф",
+      "main_idea": "Снятие блокады Ирана и открытие Ормуза. Трамп заявил о заключении сделки с Тегераном",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 15 Jun 2026 00:48:03 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27755051",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Геленджика сняли временные ограничения",
+      "title_neutral": "В аэропорту Геленджика сняли временные ограничения",
+      "excerpt": "Об этом сообщили в Росавиации",
+      "recap_neutral": "Об этом сообщили в Росавиации",
+      "main_idea": "В аэропорту Геленджика сняли временные ограничения",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 15 Jun 2026 00:42:57 +0300",
+      "url": "https://tass.ru/ekonomika/27755093",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Киеве протест против мобилизации привел к столкновению с ТЦК и полицией",
+      "title_neutral": "В Киеве протест против мобилизации привел к столкновению с ТЦК и полицией",
+      "excerpt": "Противостояние началось из-за \"бусификации\" молодого мужчины",
+      "recap_neutral": "Противостояние началось из-за \"бусификации\" молодого мужчины",
+      "main_idea": "В Киеве протест против мобилизации привел к столкновению с ТЦК и полицией",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 15 Jun 2026 00:40:59 +0300",
+      "url": "https://tass.ru/obschestvo/27755061",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Швейцарцы не поддержали идею ограничить численность населения 10 миллионами",
+      "title_neutral": "Швейцарцы не поддержали идею ограничить численность населения 10 миллионами",
+      "excerpt": "Против инициативы высказались 54,79% избирателей",
+      "recap_neutral": "Против инициативы высказались 54,79% избирателей",
+      "main_idea": "Швейцарцы не поддержали идею ограничить численность населения 10 миллионами",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 15 Jun 2026 00:39:58 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27755037",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Калуги ввели временные ограничения",
+      "title_neutral": "В аэропорту Калуги ввели временные ограничения",
+      "excerpt": "Об этом сообщили в Росавиации",
+      "recap_neutral": "Об этом сообщили в Росавиации",
+      "main_idea": "В аэропорту Калуги ввели временные ограничения",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 15 Jun 2026 00:39:38 +0300",
+      "url": "https://tass.ru/ekonomika/27755069",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Посол в РФ: Филиппины запросили первую личную встречу Маркоса-младшего с Путиным",
+      "title_neutral": "Посол в РФ: Филиппины запросили первую личную встречу Маркоса-младшего с Путиным",
+      "excerpt": "",
+      "recap_neutral": "Посол в РФ: Филиппины запросили первую личную встречу Маркоса-младшего с Путиным",
+      "main_idea": "Посол в РФ: Филиппины запросили первую личную встречу Маркоса-младшего с Путиным",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 15 Jun 2026 00:34:53 +0300",
+      "url": "https://tass.ru/politika/27755027",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп заявил о снятии блокады с Ирана",
+      "title_neutral": "Трамп заявил о снятии блокады с Ирана",
+      "excerpt": "Американский президент также сообщил, что \"дает разрешение\" на возобновление судоходства по Ормузскому проливу",
+      "recap_neutral": "Американский президент также сообщил, что \"дает разрешение\" на возобновление судоходства по Ормузскому проливу",
+      "main_idea": "Трамп заявил о снятии блокады с Ирана",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 15 Jun 2026 00:34:26 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27755043",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп заявил, что США и Иран заключили сделку",
+      "title_neutral": "Трамп заявил, что США и Иран заключили сделку",
+      "excerpt": "Американский президент отметил, что \"поздравляет всех\"",
+      "recap_neutral": "Американский президент отметил, что \"поздравляет всех\"",
+      "main_idea": "Трамп заявил, что США и Иран заключили сделку",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 15 Jun 2026 00:32:12 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27755017",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Самаре после пожара три жилых дома отключили от газоснабжения",
+      "title_neutral": "В Самаре после пожара три жилых дома отключили от газоснабжения",
+      "excerpt": "Отключения прошли на улице 22-го Партсъезда",
+      "recap_neutral": "Отключения прошли на улице 22-го Партсъезда",
+      "main_idea": "В Самаре после пожара три жилых дома отключили от газоснабжения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 15 Jun 2026 00:26:35 +0300",
+      "url": "https://tass.ru/proisshestviya/27754989",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Премьер Пакистана заявил о достижении соглашения между США и Ираном",
+      "title_neutral": "Премьер Пакистана заявил о достижении соглашения между США и Ираном",
+      "excerpt": "Шахбаз Шариф заявил, что обе стороны объявили о немедленном прекращении военных операций на всех фронтах",
+      "recap_neutral": "Шахбаз Шариф заявил, что обе стороны объявили о немедленном прекращении военных операций на всех фронтах",
+      "main_idea": "Премьер Пакистана заявил о достижении соглашения между США и Ираном",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 15 Jun 2026 00:21:48 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27754975",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Кабардино-Балкарии отменили беспилотную опасность",
+      "title_neutral": "В Кабардино-Балкарии отменили беспилотную опасность",
+      "excerpt": "Об этом сообщил глава республики Казбек Коков",
+      "recap_neutral": "Об этом сообщил глава республики Казбек Коков",
+      "main_idea": "В Кабардино-Балкарии отменили беспилотную опасность",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 15 Jun 2026 00:20:38 +0300",
+      "url": "https://tass.ru/proisshestviya/27754965",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
