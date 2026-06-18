@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T18:40:12.926540+00:00",
+  "last_updated": "2026-06-18T21:20:48.721560+00:00",
   "items": [
     {
       "title_original": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
@@ -48,6 +48,21 @@
       "lang": "en",
       "bias_score": 54,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Agentic Resource Discovery Specification",
+      "title_neutral": "Agentic Resource Discovery Specification",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Agentic Resource Discovery Specification",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 17 Jun 2026 17:03:17 +0000",
+      "url": "https://agenticresourcediscovery.org/introduction/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -129,21 +144,6 @@
       "source": "The Guardian",
       "published_at": "Wed, 17 Jun 2026 05:00:23 GMT",
       "url": "https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ghana to advance reparatory justice at first major gathering since landmark UN resolution",
-      "title_neutral": "Ghana to advance reparatory justice at first major gathering since landmark UN resolution",
-      "excerpt": "Heads of state and participants from more than 80 countries at three-day event in Accra to pursue actionable commitments to reconciliation and restitution Ghana is hosting a conference to advance the continent’s push for reparatory justice after the adoption of the landmark United Nations (UN) reso…",
-      "recap_neutral": "Heads of state and participants from more than 80 countries at three-day event in Accra to pursue actionable commitments to reconciliation and restitution Ghana is hosting a conference to advance the continent’s push fo…",
-      "main_idea": "Ghana to advance reparatory justice at first major gathering since landmark UN resolution",
-      "tags": [],
-      "source": "The Guardian",
-      "published_at": "Wed, 17 Jun 2026 05:00:22 GMT",
-      "url": "https://www.theguardian.com/news/2026/jun/17/ghana-to-advance-reparatory-justice-at-first-major-gathering-since-landmark-un-resolution",
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
@@ -241,259 +241,21 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids",
-      "title_neutral": "Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Tue, 16 Jun 2026 09:36:30 +0000",
-      "url": "https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин отметил хорошие показатели по строительству в Татарстане",
-      "title_neutral": "Путин отметил хорошие показатели по строительству в Татарстане",
-      "excerpt": "Глава региона Рустам Минниханов доложил о ситуации в экономике",
-      "recap_neutral": "Глава региона Рустам Минниханов доложил о ситуации в экономике",
-      "main_idea": "Путин отметил хорошие показатели по строительству в Татарстане",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 18 Jun 2026 21:37:20 +0300",
-      "url": "https://tass.ru/ekonomika/27807827",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ТЦ \"Мега Белая Дача\" в Котельниках возобновит работу в обычном режиме с 19 июня",
-      "title_neutral": "ТЦ \"Мега Белая Дача\" в Котельниках возобновит работу в обычном режиме с 19 июня",
-      "excerpt": "",
-      "recap_neutral": "ТЦ \"Мега Белая Дача\" в Котельниках возобновит работу в обычном режиме с 19 июня",
-      "main_idea": "ТЦ \"Мега Белая Дача\" в Котельниках возобновит работу в обычном режиме с 19 июня",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 18 Jun 2026 21:35:35 +0300",
-      "url": "https://tass.ru/obschestvo/27807823",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Петербурге водителя зажало между двумя автобусами из-за ДТП",
-      "title_neutral": "В Петербурге водителя зажало между двумя автобусами из-за ДТП",
-      "excerpt": "Мужчину госпитализировали в крайне тяжелом состоянии",
-      "recap_neutral": "Мужчину госпитализировали в крайне тяжелом состоянии",
-      "main_idea": "В Петербурге водителя зажало между двумя автобусами из-за ДТП",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 18 Jun 2026 21:34:34 +0300",
-      "url": "https://tass.ru/proisshestviya/27807807",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Cyprus Mail: украинку, которая ввезла на Кипр около €8 млн, осудили на 20 месяцев",
-      "title_neutral": "Cyprus Mail: украинку, которая ввезла на Кипр около €8 млн, осудили на 20 месяцев",
-      "excerpt": "Поводом для проведения расследования по делу гражданки Украины послужило ее собственное обращение в полицию в 2024 году с утверждением о том, что двое неизвестных на мотоцикле ограбили ее на €420 тыс.",
-      "recap_neutral": "Поводом для проведения расследования по делу гражданки Украины послужило ее собственное обращение в полицию в 2024 году с утверждением о том, что двое неизвестных на мотоцикле ограбили ее на €420 тыс",
-      "main_idea": "Cyprus Mail: украинку, которая ввезла на Кипр около €8 млн, осудили на 20 месяцев",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 18 Jun 2026 21:34:33 +0300",
-      "url": "https://tass.ru/proisshestviya/27807765",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Открытый в Татарстане завод уже изготовил компрессорный агрегат для \"Балтийского СПГ\"",
-      "title_neutral": "Открытый в Татарстане завод уже изготовил компрессорный агрегат для \"Балтийского СПГ\"",
-      "excerpt": "Общий объем инвестиций в проект составил 10,7 млрд рублей",
-      "recap_neutral": "Общий объем инвестиций в проект составил 10,7 млрд рублей",
-      "main_idea": "Открытый в Татарстане завод уже изготовил компрессорный агрегат для \"Балтийского СПГ\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 18 Jun 2026 21:32:32 +0300",
-      "url": "https://tass.ru/ekonomika/27807791",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин назвал Татарстан одним из лидеров технологического развития",
-      "title_neutral": "Путин назвал Татарстан одним из лидеров технологического развития",
-      "excerpt": "Глава государства отметил, что запуска нового завода в республике - это еще один шаг в укреплении технологической независимости",
-      "recap_neutral": "Глава государства отметил, что запуска нового завода в республике - это еще один шаг в укреплении технологической независимости",
-      "main_idea": "Путин назвал Татарстан одним из лидеров технологического развития",
+      "title_original": "Gunmen Attack a Major Airport in Niger",
+      "title_neutral": "Gunmen Attack a Major Airport in Niger",
+      "excerpt": "A militant group claimed responsibility for the early-morning assault on Niamey airport, the second such attack in the West African country this year.",
+      "recap_neutral": "A militant group claimed responsibility for the early-morning assault on Niamey airport, the second such attack in the West African country this year",
+      "main_idea": "Gunmen Attack a Major Airport in Niger",
       "tags": [
         "conflict",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Thu, 18 Jun 2026 21:30:17 +0300",
-      "url": "https://tass.ru/ekonomika/27807783",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин отметил душевное отношение команды \"Защитников Отечества\" к работе",
-      "title_neutral": "Путин отметил душевное отношение команды \"Защитников Отечества\" к работе",
-      "excerpt": "Руководитель фонда Анна Цивилева смогла собрать в нем людей, которые занимаются своим делом искренне, заявил российский президент",
-      "recap_neutral": "Руководитель фонда Анна Цивилева смогла собрать в нем людей, которые занимаются своим делом искренне, заявил российский президент",
-      "main_idea": "Путин отметил душевное отношение команды \"Защитников Отечества\" к работе",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 18 Jun 2026 21:29:33 +0300",
-      "url": "https://tass.ru/obschestvo/27807775",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Нидерландах назвали бессмысленным разговор о сроках вступления Украины в ЕС",
-      "title_neutral": "В Нидерландах назвали бессмысленным разговор о сроках вступления Украины в ЕС",
-      "excerpt": "Премьер-министр королевства Роб Йеттен заявил, что Амстердам помогает Киеву проводить реформы",
-      "recap_neutral": "Премьер-министр королевства Роб Йеттен заявил, что Амстердам помогает Киеву проводить реформы",
-      "main_idea": "В Нидерландах назвали бессмысленным разговор о сроках вступления Украины в ЕС",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 18 Jun 2026 21:28:02 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27807731",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Депутат Салаева предложила готовить гидов под туристические маршруты",
-      "title_neutral": "Депутат Салаева предложила готовить гидов под туристические маршруты",
-      "excerpt": "По словам члена комитета Госдумы по туризму и развитию туристической инфраструктуры, экскурсовод становится одним из главных участников туристического продукта, а качество его работы напрямую влияет на впечатление о регионе",
-      "recap_neutral": "По словам члена комитета Госдумы по туризму и развитию туристической инфраструктуры, экскурсовод становится одним из главных участников туристического продукта, а качество его работы напрямую влияет на впечатление о рег…",
-      "main_idea": "Депутат Салаева предложила готовить гидов под туристические маршруты",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 18 Jun 2026 21:24:33 +0300",
-      "url": "https://tass.ru/obschestvo/27807739",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Чебоксарах при поддержке ПСБ планируют построить легкоатлетический манеж",
-      "title_neutral": "В Чебоксарах при поддержке ПСБ планируют построить легкоатлетический манеж",
-      "excerpt": "Новый спортивный объект расширит городскую инфраструктуру для тренировок и проведения соревнований, а также будет способствовать развитию массового спорта и подготовке спортсменов в регионе",
-      "recap_neutral": "Новый спортивный объект расширит городскую инфраструктуру для тренировок и проведения соревнований, а также будет способствовать развитию массового спорта и подготовке спортсменов в регионе",
-      "main_idea": "В Чебоксарах при поддержке ПСБ планируют построить легкоатлетический манеж",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 18 Jun 2026 21:23:04 +0300",
-      "url": "https://tass.ru/obschestvo/27807691",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Нойер заявил, что не намерен выступать за сборную Германии после ЧМ",
-      "title_neutral": "Нойер заявил, что не намерен выступать за сборную Германии после ЧМ",
-      "excerpt": "Голкипер не вызывался в национальную команду после чемпионата Европы - 2024, но вернулся в нее ради участия в мировом первенстве",
-      "recap_neutral": "Голкипер не вызывался в национальную команду после чемпионата Европы - 2024, но вернулся в нее ради участия в мировом первенстве",
-      "main_idea": "Нойер заявил, что не намерен выступать за сборную Германии после ЧМ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 18 Jun 2026 21:22:11 +0300",
-      "url": "https://tass.ru/sport/27807763",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин назвал форум \"Россия - Исламский мир\" очень полезным для всей страны",
-      "title_neutral": "Путин назвал форум \"Россия - Исламский мир\" очень полезным для всей страны",
-      "excerpt": "Российский лидер отметил, что это было \"очень хорошее мероприятие\"",
-      "recap_neutral": "Российский лидер отметил, что это было \"очень хорошее мероприятие\"",
-      "main_idea": "Путин назвал форум \"Россия - Исламский мир\" очень полезным для всей страны",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 18 Jun 2026 21:21:30 +0300",
-      "url": "https://tass.ru/ekonomika/27807749",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Токмаке при пожаре в доме пострадали четыре человека",
-      "title_neutral": "В Токмаке при пожаре в доме пострадали четыре человека",
-      "excerpt": "Среди пострадавших есть дети",
-      "recap_neutral": "Среди пострадавших есть дети",
-      "main_idea": "В Токмаке при пожаре в доме пострадали четыре человека",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 18 Jun 2026 21:20:32 +0300",
-      "url": "https://tass.ru/proisshestviya/27807759",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Эхо\" от землетрясения 2011 года сдвинуло Японию",
-      "title_neutral": "\"Эхо\" от землетрясения 2011 года сдвинуло Японию",
-      "excerpt": "По данным сейсмологов страна сместилась примерно на 5-6 миллиметров на восток",
-      "recap_neutral": "По данным сейсмологов страна сместилась примерно на 5-6 миллиметров на восток",
-      "main_idea": "\"Эхо\" от землетрясения 2011 года сдвинуло Японию",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 18 Jun 2026 21:20:06 +0300",
-      "url": "https://tass.ru/nauka/27807607",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Эксперт Мильская отметила важность информирования детей об угрозах в интернете",
-      "title_neutral": "Эксперт Мильская отметила важность информирования детей об угрозах в интернете",
-      "excerpt": "Председатель попечительского совета Национального центра помощи пропавшим и пострадавшим детям считает, что также важно рассказывать детям и об опасностях, которые могут ждать их в реальной жизни",
-      "recap_neutral": "Председатель попечительского совета Национального центра помощи пропавшим и пострадавшим детям считает, что также важно рассказывать детям и об опасностях, которые могут ждать их в реальной жизни",
-      "main_idea": "Эксперт Мильская отметила важность информирования детей об угрозах в интернете",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 18 Jun 2026 21:19:51 +0300",
-      "url": "https://tass.ru/obschestvo/27807379",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Thu, 18 Jun 2026 21:15:20 +0000",
+      "url": "https://www.nytimes.com/2026/06/18/world/africa/niger-armed-attack-airport.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -507,7 +269,7 @@
         "conflict"
       ],
       "source": "NYTimes World",
-      "published_at": "Thu, 18 Jun 2026 18:31:50 +0000",
+      "published_at": "Thu, 18 Jun 2026 21:14:34 +0000",
       "url": "https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal",
       "lang": "en",
       "bias_score": 55,
@@ -515,21 +277,184 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Gunmen Attack a Major Airport in Niger",
-      "title_neutral": "Gunmen Attack a Major Airport in Niger",
-      "excerpt": "An early morning assault on Niamey airport was the second such attack in the West African country this year.",
-      "recap_neutral": "An early morning assault on Niamey airport was the second such attack in the West African country this year",
-      "main_idea": "Gunmen Attack a Major Airport in Niger",
+      "title_original": "Fallout From the Iran Deal",
+      "title_neutral": "Fallout From the Iran Deal",
+      "excerpt": "Trump’s agreement reads like a list of concessions to Iran. Will it damage him politically?",
+      "recap_neutral": "Trump’s agreement reads like a list of concessions to Iran",
+      "main_idea": "Fallout From the Iran Deal",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Thu, 18 Jun 2026 21:03:28 +0000",
+      "url": "https://www.nytimes.com/2026/06/18/world/iran-trump-us-ukraine-moscow-world-cup.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "'Living celebration of community': Obamas host star-studded opening of Chicago presidential centre",
+      "title_neutral": "'Living celebration of community': Obamas host star-studded opening of Chicago presidential centre",
+      "excerpt": "The campus opens to the public this weekend with a museum, community amenities and more to honour the 44th US president.",
+      "recap_neutral": "The campus opens to the public this weekend with a museum, community amenities and more to honour the 44th US president",
+      "main_idea": "'Living celebration of community': Obamas host star-studded opening of Chicago presidential centre",
+      "tags": [
+        "politics"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 18 Jun 2026 21:02:18 GMT",
+      "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Hegseth renews Nato criticism and says US will review presence in Europe",
+      "title_neutral": "Hegseth renews Nato criticism and says US will review presence in Europe",
+      "excerpt": "The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance.",
+      "recap_neutral": "The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance",
+      "main_idea": "Hegseth renews Nato criticism and says US will review presence in Europe",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Thu, 18 Jun 2026 20:27:31 GMT",
+      "url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "What Iran and US get from deal and why both could struggle to keep it",
+      "title_neutral": "What Iran and US get from deal and why both could struggle to keep it",
+      "excerpt": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
+      "recap_neutral": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war",
+      "main_idea": "What Iran and US get from deal and why both could struggle to keep it",
       "tags": [
         "conflict",
         "tech"
       ],
+      "source": "BBC World",
+      "published_at": "Thu, 18 Jun 2026 20:04:40 GMT",
+      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why the By-Election in Makerfield Will Have Giant Consequences for the UK",
+      "title_neutral": "Why the By-Election in Makerfield Will Have Giant Consequences for the UK",
+      "excerpt": "Here is what to know about the by-election on Thursday in Makerfield, the outcome of which could lead to Prime Minister Keir Starmer’s ouster.",
+      "recap_neutral": "Here is what to know about the by-election on Thursday in Makerfield, the outcome of which could lead to Prime Minister Keir Starmer’s ouster",
+      "main_idea": "Why the By-Election in Makerfield Will Have Giant Consequences for the UK",
+      "tags": [
+        "politics"
+      ],
       "source": "NYTimes World",
-      "published_at": "Thu, 18 Jun 2026 18:29:31 +0000",
-      "url": "https://www.nytimes.com/2026/06/18/world/africa/niger-armed-attack-airport.html",
+      "published_at": "Thu, 18 Jun 2026 19:56:58 +0000",
+      "url": "https://www.nytimes.com/2026/06/18/world/europe/uk-makerfield-by-election-burnham-starmer.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+      "title_neutral": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+      "excerpt": "Iran's supreme leader says he disagrees with the deal and Donald Trump signed it \"out of desperation\".",
+      "recap_neutral": "Iran's supreme leader says he disagrees with the deal and Donald Trump signed it \"out of desperation\"",
+      "main_idea": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Thu, 18 Jun 2026 19:54:42 GMT",
+      "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Critics of Russia Say This Critic Isn’t Critical Enough",
+      "title_neutral": "Critics of Russia Say This Critic Isn’t Critical Enough",
+      "excerpt": "Alexander Sokurov has questioned the Russian president about government repression, but he is still controversial among his country’s exiles.",
+      "recap_neutral": "Alexander Sokurov has questioned the Russian president about government repression, but he is still controversial among his country’s exiles",
+      "main_idea": "Critics of Russia Say This Critic Isn’t Critical Enough",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 18 Jun 2026 19:51:06 +0000",
+      "url": "https://www.nytimes.com/2026/06/18/world/europe/alexander-sokurov-russia-director.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
+      "title_neutral": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
+      "excerpt": "Number of people infected now tops 1,000 though health officials say the global risk remains low Sign up for the Breaking News US newsletter email The Centers for Disease Control and Prevention (CDC) will tap $107m in emergency funding for Ebola outbreak response in the Democratic Republic of the C…",
+      "recap_neutral": "Number of people infected now tops 1,000 though health officials say the global risk remains low Sign up for the Breaking News US newsletter email The Centers for Disease Control and Prevention (CDC) will tap $107m in e…",
+      "main_idea": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "The Guardian",
+      "published_at": "Thu, 18 Jun 2026 18:55:09 GMT",
+      "url": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Parents of Serbia's teenage school shooter given jail terms in retrial",
+      "title_neutral": "Parents of Serbia's teenage school shooter given jail terms in retrial",
+      "excerpt": "The boy was 13 when he killed eight girls, a boy and a school guard at Vladislav Ribnikar school in Belgrade in 2023.",
+      "recap_neutral": "The boy was 13 when he killed eight girls, a boy and a school guard at Vladislav Ribnikar school in Belgrade in 2023",
+      "main_idea": "Parents of Serbia's teenage school shooter given jail terms in retrial",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 18 Jun 2026 18:36:19 GMT",
+      "url": "https://www.bbc.com/news/articles/c14ykj2nr8lo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "19-Year-Old Suspect in Consulate Shooting Arrested at Toronto Airport",
+      "title_neutral": "19-Year-Old Suspect in Consulate Shooting Arrested at Toronto Airport",
+      "excerpt": "The teen had fled from the police during a raid at an apartment building that set off a shootout, which left an officer dead and another suspect injured.",
+      "recap_neutral": "The teen had fled from the police during a raid at an apartment building that set off a shootout, which left an officer dead and another suspect injured",
+      "main_idea": "19-Year-Old Suspect in Consulate Shooting Arrested at Toronto Airport",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 18 Jun 2026 18:36:06 +0000",
+      "url": "https://www.nytimes.com/2026/06/18/world/canada/toronto-police-shooting-suspect-arrest.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+      "title_neutral": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 18 Jun 2026 18:31:23 +0000",
+      "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -545,21 +470,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Hegseth renews Nato criticism and says US will review presence in Europe",
-      "title_neutral": "Hegseth renews Nato criticism and says US will review presence in Europe",
-      "excerpt": "The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance.",
-      "recap_neutral": "The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance",
-      "main_idea": "Hegseth renews Nato criticism and says US will review presence in Europe",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Thu, 18 Jun 2026 17:51:35 GMT",
-      "url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -596,23 +506,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Teen-aged Suspect in U.S. Consulate Shooting Is Arrested at Toronto Airport",
-      "title_neutral": "Teen-aged Suspect in U.S. Consulate Shooting Is Arrested at Toronto Airport",
-      "excerpt": "The teen had fled from the police during a raid at an apartment building that set off a shootout, which left an officer dead and another suspect injured.",
-      "recap_neutral": "The teen had fled from the police during a raid at an apartment building that set off a shootout, which left an officer dead and another suspect injured",
-      "main_idea": "Teen-aged Suspect in U.S. Consulate Shooting Is Arrested at Toronto Airport",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 18 Jun 2026 17:02:46 +0000",
-      "url": "https://www.nytimes.com/2026/06/18/world/canada/toronto-police-shooting-suspect-arrest.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "In Ancient Pits Near Stonehenge, Scientists See Hints of Solstice Ritual",
       "title_neutral": "In Ancient Pits Near Stonehenge, Scientists See Hints of Solstice Ritual",
       "excerpt": "British archaeologists may have found the remains of a site where people celebrated the solstice thousands of years ago, a few miles from the famed stone circle.",
@@ -624,21 +517,6 @@
       "source": "NYTimes World",
       "published_at": "Thu, 18 Jun 2026 16:57:11 +0000",
       "url": "https://www.nytimes.com/2026/06/18/world/europe/uk-pits-stonehenge-britain-discovery.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Many World Cup Fans Would Rather Skip the Hydration Breaks",
-      "title_neutral": "Many World Cup Fans Would Rather Skip the Hydration Breaks",
-      "excerpt": "It’s hot in North America in June, but fans are griping that the breaks that have been added to each half are an excuse for the networks to show more ads.",
-      "recap_neutral": "It’s hot in North America in June, but fans are griping that the breaks that have been added to each half are an excuse for the networks to show more ads",
-      "main_idea": "Many World Cup Fans Would Rather Skip the Hydration Breaks",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Thu, 18 Jun 2026 16:56:23 +0000",
-      "url": "https://www.nytimes.com/2026/06/18/us/world-cup-hydration-breaks.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -731,21 +609,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The Harajuku Moment",
-      "title_neutral": "The Harajuku Moment",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The Harajuku Moment",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 18 Jun 2026 16:05:58 +0000",
-      "url": "https://tim.blog/2024/02/09/harajuku-moment/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Bowen: US-Iran deal raises inescapable question of what the war was for",
       "title_neutral": "Bowen: US-Iran deal raises inescapable question of what the war was for",
       "excerpt": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
@@ -776,23 +639,6 @@
       "source": "BBC World",
       "published_at": "Thu, 18 Jun 2026 15:46:36 GMT",
       "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Why Iran believes deal with US leaves it stronger than before",
-      "title_neutral": "Why Iran believes deal with US leaves it stronger than before",
-      "excerpt": "Iran has come out of the war's first chapter stronger than many expected, but its next challenge may be harder, the BBC Persian Service's Amir Azimi writes.",
-      "recap_neutral": "Iran has come out of the war's first chapter stronger than many expected, but its next challenge may be harder, the BBC Persian Service's Amir Azimi writes",
-      "main_idea": "Why Iran believes deal with US leaves it stronger than before",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 18 Jun 2026 15:38:18 GMT",
-      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -831,36 +677,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants",
-      "title_neutral": "TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 18 Jun 2026 15:13:26 +0000",
-      "url": "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A website that lists websites to submit your website to",
-      "title_neutral": "A website that lists websites to submit your website to",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "A website that lists websites to submit your website to",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 18 Jun 2026 15:12:43 +0000",
-      "url": "https://www.submission.directory/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -978,6 +794,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "title_neutral": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 18 Jun 2026 14:24:30 +0000",
+      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Swiss parliament lifts ban on new nuclear power plants",
       "title_neutral": "Swiss parliament lifts ban on new nuclear power plants",
       "excerpt": "Comments",
@@ -987,38 +818,6 @@
       "source": "Hacker News",
       "published_at": "Thu, 18 Jun 2026 14:17:07 +0000",
       "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Weapons, money and ships: How is this Iran deal different from others?",
-      "title_neutral": "Weapons, money and ships: How is this Iran deal different from others?",
-      "excerpt": "BBC Verify examines how the new deal between the US and Iran affects three key areas.",
-      "recap_neutral": "BBC Verify examines how the new deal between the US and Iran affects three key areas",
-      "main_idea": "Weapons, money and ships: How is this Iran deal different from others?",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Thu, 18 Jun 2026 14:16:42 GMT",
-      "url": "https://www.bbc.com/news/articles/c74ynmnrwmeo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-      "title_neutral": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Thu, 18 Jun 2026 14:16:25 +0000",
-      "url": "https://gerrymandle.cc/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -1142,11 +941,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Has W Social switched to closed source?",
-      "title_neutral": "Has W Social switched to closed source?",
+      "title_original": "W Social, public institutions and the theater of European digital sovereignty",
+      "title_neutral": "W Social, public institutions and the theater of European digital sovereignty",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Has W Social switched to closed source?",
+      "main_idea": "W Social, public institutions and the theater of European digital sovereignty",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Thu, 18 Jun 2026 12:46:04 +0000",
@@ -1157,20 +956,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Why the By-Election in Makerfield Will Have Giant Consequences for the UK",
-      "title_neutral": "Why the By-Election in Makerfield Will Have Giant Consequences for the UK",
-      "excerpt": "Here is what to know about the by-election on Thursday in Makerfield, the outcome of which could lead to Prime Minister Keir Starmer’s ouster.",
-      "recap_neutral": "Here is what to know about the by-election on Thursday in Makerfield, the outcome of which could lead to Prime Minister Keir Starmer’s ouster",
-      "main_idea": "Why the By-Election in Makerfield Will Have Giant Consequences for the UK",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 18 Jun 2026 12:45:29 +0000",
-      "url": "https://www.nytimes.com/2026/06/18/world/europe/uk-makerfield-by-election-burnham-starmer.html",
+      "title_original": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+      "title_neutral": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 18 Jun 2026 12:44:09 +0000",
+      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 56,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1209,27 +1006,10 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Critics of Russia Say This Critic Isn’t Critical Enough",
-      "title_neutral": "Critics of Russia Say This Critic Isn’t Critical Enough",
-      "excerpt": "Alexander Sokurov has questioned the Russian president about government repression, but he is still controversial among his country’s exiles.",
-      "recap_neutral": "Alexander Sokurov has questioned the Russian president about government repression, but he is still controversial among his country’s exiles",
-      "main_idea": "Critics of Russia Say This Critic Isn’t Critical Enough",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 18 Jun 2026 12:16:30 +0000",
-      "url": "https://www.nytimes.com/2026/06/18/world/europe/alexander-sokurov-russia-director.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
       "title_neutral": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
-      "excerpt": "Ukraine launched a new wave of drone attacks on Russia early Thursday, amounting to one of the largest attacks on the Russian capital since the Kremlin ordered the invasion of Ukraine more than four years ago.",
-      "recap_neutral": "Ukraine launched a new wave of drone attacks on Russia early Thursday, amounting to one of the largest attacks on the Russian capital since the Kremlin ordered the invasion of Ukraine more than four years ago",
+      "excerpt": "Ukraine launched a wave of drone attacks on Russia early Thursday — one of the largest attacks on Russia's capital since the Kremlin ordered the invasion of Ukraine more than four years ago.",
+      "recap_neutral": "Ukraine launched a wave of drone attacks on Russia early Thursday — one of the largest attacks on Russia's capital since the Kremlin ordered the invasion of Ukraine more than four years ago",
       "main_idea": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
       "tags": [
         "conflict",
@@ -1241,23 +1021,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Emacs 31 is around the corner: The changes I'm daily driving",
-      "title_neutral": "Emacs 31 is around the corner: The changes I'm daily driving",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Emacs 31 is around the corner: The changes I'm daily driving",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Thu, 18 Jun 2026 12:10:53 +0000",
-      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1345,26 +1108,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Modos Color Monitor Pushes E-Paper Displays Further",
-      "title_neutral": "Modos Color Monitor Pushes E-Paper Displays Further",
+      "title_original": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+      "title_neutral": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Modos Color Monitor Pushes E-Paper Displays Further",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 18 Jun 2026 11:41:21 +0000",
-      "url": "https://spectrum.ieee.org/modos-e-paper-monitor",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Advanced Compilers: The Self-Guided Online Course",
-      "title_neutral": "Advanced Compilers: The Self-Guided Online Course",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Advanced Compilers: The Self-Guided Online Course",
+      "main_idea": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Thu, 18 Jun 2026 11:04:31 +0000",
@@ -1392,11 +1140,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Hospitals and universities repurposing drugs at 90% lower cost",
-      "title_neutral": "Hospitals and universities repurposing drugs at 90% lower cost",
+      "title_original": "Hospitals and universities repurposing drugs at lower cost",
+      "title_neutral": "Hospitals and universities repurposing drugs at lower cost",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Hospitals and universities repurposing drugs at 90% lower cost",
+      "main_idea": "Hospitals and universities repurposing drugs at lower cost",
       "tags": [
         "health"
       ],
@@ -1509,20 +1257,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Lil Nas X says he's 'feeling better' after rehab and bipolar diagnosis",
-      "title_neutral": "Lil Nas X says he's 'feeling better' after rehab and bipolar diagnosis",
-      "excerpt": "The Old Town Road star was arrested last year for attacking police officers and later entered rehab.",
-      "recap_neutral": "The Old Town Road star was arrested last year for attacking police officers and later entered rehab",
-      "main_idea": "Lil Nas X says he's 'feeling better' after rehab and bipolar diagnosis",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 18 Jun 2026 08:45:37 GMT",
-      "url": "https://www.bbc.com/news/articles/cn4dqyn94vdo?at_medium=RSS&at_campaign=rss",
+      "title_original": "Ask HN: Is anyone using the A2A protocol?",
+      "title_neutral": "Ask HN: Is anyone using the A2A protocol?",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Ask HN: Is anyone using the A2A protocol?",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 18 Jun 2026 08:52:45 +0000",
+      "url": "https://news.ycombinator.com/item?id=48582679",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1539,6 +1285,21 @@
       "source": "NPR",
       "published_at": "Thu, 18 Jun 2026 07:11:34 -0400",
       "url": "https://www.npr.org/2026/06/18/g-s1-128755/up-first-newsletter-iran-agreement-jay-clayton-bill-pulte-trump-approval",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump's FISA threat is like 'cutting off your nose to spite your face,' says Sen. Slotkin",
+      "title_neutral": "Trump's FISA threat is like 'cutting off your nose to spite your face,' says Sen. Slotkin",
+      "excerpt": "Sen. Elissa Slotkin, D-Mich., says Trump's threat to block FISA reauthorization is like \"cutting off your nose to spite your face.\"",
+      "recap_neutral": "Sen",
+      "main_idea": "Trump's FISA threat is like 'cutting off your nose to spite your face,' says Sen. Slotkin",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Thu, 18 Jun 2026 06:51:07 -0400",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5861734/slotkin-trump-pulte-intelligence-chief-confirmation-hearing",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1614,23 +1375,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The Obama Presidential Center will be dedicated Thursday. Here's what to expect",
-      "title_neutral": "The Obama Presidential Center will be dedicated Thursday. Here's what to expect",
-      "excerpt": "The Obama Presidential Center's grand opening ceremony will be a star-studded event. The center's museum highlights the legacy of the former president, but it is not a traditional presidential library.",
-      "recap_neutral": "The Obama Presidential Center's grand opening ceremony will be a star-studded event",
-      "main_idea": "The Obama Presidential Center will be dedicated Thursday. Here's what to expect",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 18 Jun 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/06/18/nx-s1-5861803/obama-presidential-center-dedication-chicago",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Bird flu kills more than 75% of baby seals on remote Australian island, study finds",
       "title_neutral": "Bird flu kills more than 75% of baby seals on remote Australian island, study finds",
       "excerpt": "Scientists say 13,000 southern elephant seal pups on Heard Island have died of the H5N1 strain.",
@@ -1648,18 +1392,271 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Teenager dies in horse-drawn carriage accident in New York",
-      "title_neutral": "Teenager dies in horse-drawn carriage accident in New York",
-      "excerpt": "The horse bolted and toppled over after the carriage driver stepped down to take a picture of the passengers.",
-      "recap_neutral": "The horse bolted and toppled over after the carriage driver stepped down to take a picture of the passengers",
-      "main_idea": "Teenager dies in horse-drawn carriage accident in New York",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Thu, 18 Jun 2026 02:39:28 GMT",
-      "url": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&at_campaign=rss",
+      "title_original": "Noam Shazeer Joins OpenAI",
+      "title_neutral": "Noam Shazeer Joins OpenAI",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Noam Shazeer Joins OpenAI",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Thu, 18 Jun 2026 00:26:06 +0000",
+      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Dutch Railways offers unlimited off-peak train travel nationwide for €49/month",
+      "title_neutral": "Dutch Railways offers unlimited off-peak train travel nationwide for €49/month",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Dutch Railways offers unlimited off-peak train travel nationwide for €49/month",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Mon, 15 Jun 2026 16:44:54 +0000",
+      "url": "https://www.ns.nl/en/season-tickets/dal-vrij",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: РФ предпочитает достичь целей СВО дипломатией",
+      "title_neutral": "Лавров: РФ предпочитает достичь целей СВО дипломатией",
+      "excerpt": "",
+      "recap_neutral": "Лавров: РФ предпочитает достичь целей СВО дипломатией",
+      "main_idea": "Лавров: РФ предпочитает достичь целей СВО дипломатией",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 19 Jun 2026 00:15:37 +0300",
+      "url": "https://tass.ru/politika/27808591",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: принцип неделимой безопасности можно воплотить в новой евразийской архитектуре",
+      "title_neutral": "Лавров: принцип неделимой безопасности можно воплотить в новой евразийской архитектуре",
+      "excerpt": "",
+      "recap_neutral": "Лавров: принцип неделимой безопасности можно воплотить в новой евразийской архитектуре",
+      "main_idea": "Лавров: принцип неделимой безопасности можно воплотить в новой евразийской архитектуре",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 19 Jun 2026 00:13:39 +0300",
+      "url": "https://tass.ru/politika/27808555",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: планы Парижа поделиться \"ядерным зонтиком\" не укрепят ничью безопасность",
+      "title_neutral": "Лавров: планы Парижа поделиться \"ядерным зонтиком\" не укрепят ничью безопасность",
+      "excerpt": "",
+      "recap_neutral": "Лавров: планы Парижа поделиться \"ядерным зонтиком\" не укрепят ничью безопасность",
+      "main_idea": "Лавров: планы Парижа поделиться \"ядерным зонтиком\" не укрепят ничью безопасность",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 19 Jun 2026 00:13:07 +0300",
+      "url": "https://tass.ru/politika/27808519",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: последние годы показали, что переговоры с РФ для ЕС - обман и прикрытие",
+      "title_neutral": "Лавров: последние годы показали, что переговоры с РФ для ЕС - обман и прикрытие",
+      "excerpt": "",
+      "recap_neutral": "Лавров: последние годы показали, что переговоры с РФ для ЕС - обман и прикрытие",
+      "main_idea": "Лавров: последние годы показали, что переговоры с РФ для ЕС - обман и прикрытие",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 19 Jun 2026 00:09:47 +0300",
+      "url": "https://tass.ru/politika/27808455",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: целью визита послов в МИД РФ 11 июня было подтверждение ультиматума в адрес РФ",
+      "title_neutral": "Лавров: целью визита послов в МИД РФ 11 июня было подтверждение ультиматума в адрес РФ",
+      "excerpt": "",
+      "recap_neutral": "Лавров: целью визита послов в МИД РФ 11 июня было подтверждение ультиматума в адрес РФ",
+      "main_idea": "Лавров: целью визита послов в МИД РФ 11 июня было подтверждение ультиматума в адрес РФ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 19 Jun 2026 00:09:18 +0300",
+      "url": "https://tass.ru/politika/27808445",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: Европа приписывает РФ \"агрессивные планы\"",
+      "title_neutral": "Лавров: Европа приписывает РФ \"агрессивные планы\"",
+      "excerpt": "",
+      "recap_neutral": "Лавров: Европа приписывает РФ \"агрессивные планы\"",
+      "main_idea": "Лавров: Европа приписывает РФ \"агрессивные планы\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 19 Jun 2026 00:09:10 +0300",
+      "url": "https://tass.ru/politika/27808437",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: Европа заинтересована в поражении России в конфликте",
+      "title_neutral": "Лавров: Европа заинтересована в поражении России в конфликте",
+      "excerpt": "",
+      "recap_neutral": "Лавров: Европа заинтересована в поражении России в конфликте",
+      "main_idea": "Лавров: Европа заинтересована в поражении России в конфликте",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 19 Jun 2026 00:09:01 +0300",
+      "url": "https://tass.ru/politika/27808421",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: для содержательного диалога с РФ Европе необходимо восстановить доверие",
+      "title_neutral": "Лавров: для содержательного диалога с РФ Европе необходимо восстановить доверие",
+      "excerpt": "",
+      "recap_neutral": "Лавров: для содержательного диалога с РФ Европе необходимо восстановить доверие",
+      "main_idea": "Лавров: для содержательного диалога с РФ Европе необходимо восстановить доверие",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 19 Jun 2026 00:09:00 +0300",
+      "url": "https://tass.ru/politika/27808429",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: Европа грезит экспансией и намерена осваивать Украину и Молдавию",
+      "title_neutral": "Лавров: Европа грезит экспансией и намерена осваивать Украину и Молдавию",
+      "excerpt": "",
+      "recap_neutral": "Лавров: Европа грезит экспансией и намерена осваивать Украину и Молдавию",
+      "main_idea": "Лавров: Европа грезит экспансией и намерена осваивать Украину и Молдавию",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 19 Jun 2026 00:08:43 +0300",
+      "url": "https://tass.ru/politika/27808409",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: Европа хочет \"подморозить\" конфликт на Украине",
+      "title_neutral": "Лавров: Европа хочет \"подморозить\" конфликт на Украине",
+      "excerpt": "",
+      "recap_neutral": "Лавров: Европа хочет \"подморозить\" конфликт на Украине",
+      "main_idea": "Лавров: Европа хочет \"подморозить\" конфликт на Украине",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 19 Jun 2026 00:08:38 +0300",
+      "url": "https://tass.ru/politika/27808401",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: Европа хочет достичь боеготовности для конфликта с Россией к 2030 году",
+      "title_neutral": "Лавров: Европа хочет достичь боеготовности для конфликта с Россией к 2030 году",
+      "excerpt": "",
+      "recap_neutral": "Лавров: Европа хочет достичь боеготовности для конфликта с Россией к 2030 году",
+      "main_idea": "Лавров: Европа хочет достичь боеготовности для конфликта с Россией к 2030 году",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 19 Jun 2026 00:08:23 +0300",
+      "url": "https://tass.ru/politika/27808385",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: реальная цель европейских лидеров - спасение режима Зеленского",
+      "title_neutral": "Лавров: реальная цель европейских лидеров - спасение режима Зеленского",
+      "excerpt": "",
+      "recap_neutral": "Лавров: реальная цель европейских лидеров - спасение режима Зеленского",
+      "main_idea": "Лавров: реальная цель европейских лидеров - спасение режима Зеленского",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 19 Jun 2026 00:08:21 +0300",
+      "url": "https://tass.ru/politika/27808393",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: столкновение между НАТО и РФ может быстро перерасти в обмен ядерными ударами",
+      "title_neutral": "Лавров: столкновение между НАТО и РФ может быстро перерасти в обмен ядерными ударами",
+      "excerpt": "",
+      "recap_neutral": "Лавров: столкновение между НАТО и РФ может быстро перерасти в обмен ядерными ударами",
+      "main_idea": "Лавров: столкновение между НАТО и РФ может быстро перерасти в обмен ядерными ударами",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 19 Jun 2026 00:08:10 +0300",
+      "url": "https://tass.ru/politika/27808377",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Politico Europe в последний момент отменило публикацию статьи Лаврова",
+      "title_neutral": "Politico Europe в последний момент отменило публикацию статьи Лаврова",
+      "excerpt": "",
+      "recap_neutral": "Politico Europe в последний момент отменило публикацию статьи Лаврова",
+      "main_idea": "Politico Europe в последний момент отменило публикацию статьи Лаврова",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 19 Jun 2026 00:07:02 +0300",
+      "url": "https://tass.ru/politika/27808357",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве капитально отремонтировали три дома из фильма \"Еще люблю, еще надеюсь\"",
+      "title_neutral": "В Москве капитально отремонтировали три дома из фильма \"Еще люблю, еще надеюсь\"",
+      "excerpt": "Специалисты обновили фасады, произвели работы по ремонту цоколей и привели в порядок балконы",
+      "recap_neutral": "Специалисты обновили фасады, произвели работы по ремонту цоколей и привели в порядок балконы",
+      "main_idea": "В Москве капитально отремонтировали три дома из фильма \"Еще люблю, еще надеюсь\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 19 Jun 2026 00:05:43 +0300",
+      "url": "https://tass.ru/obschestvo/27808325",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     }
   ]
