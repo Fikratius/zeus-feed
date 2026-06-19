@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T21:05:49.734689+00:00",
+  "last_updated": "2026-06-19T22:30:05.010427+00:00",
   "items": [
     {
       "title_original": "Cannabis commercialisation not decriminalisation drives up usage, study finds",
@@ -173,11 +173,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-      "title_neutral": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+      "title_original": "DuckDB Internals Part 1",
+      "title_neutral": "DuckDB Internals Part 1",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+      "main_idea": "DuckDB Internals Part 1",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Tue, 16 Jun 2026 11:07:08 +0000",
@@ -197,21 +197,6 @@
       "source": "Hacker News",
       "published_at": "Tue, 16 Jun 2026 10:34:10 +0000",
       "url": "https://kottke.org/26/06/telescope-ranchers",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Tell HN: A new Nginx 0-day just dropped",
-      "title_neutral": "Tell HN: A new Nginx 0-day just dropped",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Tell HN: A new Nginx 0-day just dropped",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 18 Jun 2026 22:55:30 +0000",
-      "url": "https://news.ycombinator.com/item?id=48592738",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -286,128 +271,239 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Москве пройдет десятикилометровый Ночной забег",
-      "title_neutral": "В Москве пройдет десятикилометровый Ночной забег",
-      "excerpt": "",
-      "recap_neutral": "В Москве пройдет десятикилометровый Ночной забег",
-      "main_idea": "В Москве пройдет десятикилометровый Ночной забег",
+      "title_original": "В аэропорту Домодедово ввели временные ограничения",
+      "title_neutral": "В аэропорту Домодедово ввели временные ограничения",
+      "excerpt": "Они необходимы для обеспечения безопасности полетов",
+      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
+      "main_idea": "В аэропорту Домодедово ввели временные ограничения",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 20 Jun 2026 00:02:30 +0300",
-      "url": "https://tass.ru/obschestvo/27820461",
+      "published_at": "Sat, 20 Jun 2026 01:25:29 +0300",
+      "url": "https://tass.ru/ekonomika/27820669",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ефрейтор Шабанов сбил два тяжелых БПЛА и десять FPV-дронов ВСУ",
-      "title_neutral": "Ефрейтор Шабанов сбил два тяжелых БПЛА и десять FPV-дронов ВСУ",
+      "title_original": "Канадский футболист Коне сумеет полностью восстановиться после перелома ноги",
+      "title_neutral": "Канадский футболист Коне сумеет полностью восстановиться после перелома ноги",
       "excerpt": "",
-      "recap_neutral": "Ефрейтор Шабанов сбил два тяжелых БПЛА и десять FPV-дронов ВСУ",
-      "main_idea": "Ефрейтор Шабанов сбил два тяжелых БПЛА и десять FPV-дронов ВСУ",
+      "recap_neutral": "Канадский футболист Коне сумеет полностью восстановиться после перелома ноги",
+      "main_idea": "Канадский футболист Коне сумеет полностью восстановиться после перелома ноги",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 20 Jun 2026 00:02:19 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27820477",
+      "published_at": "Sat, 20 Jun 2026 01:25:02 +0300",
+      "url": "https://tass.ru/sport/27820663",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Большом театре открывается фестиваль \"Прокофьев - наш!\"",
-      "title_neutral": "В Большом театре открывается фестиваль \"Прокофьев - наш!\"",
-      "excerpt": "",
-      "recap_neutral": "В Большом театре открывается фестиваль \"Прокофьев - наш!\"",
-      "main_idea": "В Большом театре открывается фестиваль \"Прокофьев - наш!\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 20 Jun 2026 00:01:53 +0300",
-      "url": "https://tass.ru/kultura/27820453",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В России началась приемная кампания в вузы",
-      "title_neutral": "В России началась приемная кампания в вузы",
-      "excerpt": "Общее количество бюджетных мест в 2026 году составляет 620 480",
-      "recap_neutral": "Общее количество бюджетных мест в 2026 году составляет 620 480",
-      "main_idea": "В России началась приемная кампания в вузы",
+      "title_original": "Prodamus: 44% самозанятых в сфере онлайн-услуг регистрируют ИП в первый год",
+      "title_neutral": "Prodamus: 44% самозанятых в сфере онлайн-услуг регистрируют ИП в первый год",
+      "excerpt": "Это связано с быстрым ростом дохода, говорится в исследовании",
+      "recap_neutral": "Это связано с быстрым ростом дохода, говорится в исследовании",
+      "main_idea": "Prodamus: 44% самозанятых в сфере онлайн-услуг регистрируют ИП в первый год",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 20 Jun 2026 00:01:24 +0300",
-      "url": "https://tass.ru/obschestvo/27820439",
+      "published_at": "Sat, 20 Jun 2026 01:19:52 +0300",
+      "url": "https://tass.ru/ekonomika/27820651",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Международном военном центре МО РФ обсудили вопросы применения беспилотников",
-      "title_neutral": "В Международном военном центре МО РФ обсудили вопросы применения беспилотников",
-      "excerpt": "В заседании приняли участие представители оборонных ведомств России, Белоруссии, Казахстана, Кыргызской Республики, Таджикистана, Узбекистана и Секретариата Совета министров обороны СНГ",
-      "recap_neutral": "В заседании приняли участие представители оборонных ведомств России, Белоруссии, Казахстана, Кыргызской Республики, Таджикистана, Узбекистана и Секретариата Совета министров обороны СНГ",
-      "main_idea": "В Международном военном центре МО РФ обсудили вопросы применения беспилотников",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 20 Jun 2026 00:01:10 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27820423",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Нальчике пройдет окружной форум Комитета семей воинов Отечества",
-      "title_neutral": "В Нальчике пройдет окружной форум Комитета семей воинов Отечества",
-      "excerpt": "",
-      "recap_neutral": "В Нальчике пройдет окружной форум Комитета семей воинов Отечества",
-      "main_idea": "В Нальчике пройдет окружной форум Комитета семей воинов Отечества",
+      "title_original": "В Пензенской области ввели режим беспилотной опасности",
+      "title_neutral": "В Пензенской области ввели режим беспилотной опасности",
+      "excerpt": "Об этом сообщил глава региона Олег Мельниченко",
+      "recap_neutral": "Об этом сообщил глава региона Олег Мельниченко",
+      "main_idea": "В Пензенской области ввели режим беспилотной опасности",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 20 Jun 2026 00:01:01 +0300",
-      "url": "https://tass.ru/obschestvo/27820449",
+      "published_at": "Sat, 20 Jun 2026 01:19:43 +0300",
+      "url": "https://tass.ru/proisshestviya/27820645",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Воронежской области объявили опасность атаки БПЛА",
-      "title_neutral": "В Воронежской области объявили опасность атаки БПЛА",
-      "excerpt": "",
-      "recap_neutral": "В Воронежской области объявили опасность атаки БПЛА",
-      "main_idea": "В Воронежской области объявили опасность атаки БПЛА",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 20 Jun 2026 00:00:49 +0300",
-      "url": "https://tass.ru/proisshestviya/27820433",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Военная операция на Украине. Онлайн",
-      "title_neutral": "Военная операция на Украине. Онлайн",
-      "excerpt": "Над регионами России и Черным морем сбили 216 украинских БПЛА",
-      "recap_neutral": "Над регионами России и Черным морем сбили 216 украинских БПЛА",
-      "main_idea": "Военная операция на Украине. Онлайн",
+      "title_original": "Названы регионы России с самой высокой средней пенсией",
+      "title_neutral": "Названы регионы России с самой высокой средней пенсией",
+      "excerpt": "Ими стали Чукотка, Ненецкий АО и Камчатский край",
+      "recap_neutral": "Ими стали Чукотка, Ненецкий АО и Камчатский край",
+      "main_idea": "Названы регионы России с самой высокой средней пенсией",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 20 Jun 2026 00:00:01 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27810753",
+      "published_at": "Sat, 20 Jun 2026 01:12:37 +0300",
+      "url": "https://tass.ru/obschestvo/27820635",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Тень будет самой короткой в полдень 21 июня в Москве",
+      "title_neutral": "Тень будет самой короткой в полдень 21 июня в Москве",
+      "excerpt": "Люди, здания и автомобили будут отбрасывать самые короткие в году тени в первый день астрономического лета из-за рекордно высокого солнца",
+      "recap_neutral": "Люди, здания и автомобили будут отбрасывать самые короткие в году тени в первый день астрономического лета из-за рекордно высокого солнца",
+      "main_idea": "Тень будет самой короткой в полдень 21 июня в Москве",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 20 Jun 2026 01:05:12 +0300",
+      "url": "https://tass.ru/nauka/27820607",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Инсульт у дирижера Владимира Спивакова не подтвердился",
+      "title_neutral": "Инсульт у дирижера Владимира Спивакова не подтвердился",
+      "excerpt": "Народный артист СССР находится в одной из московских больниц, сообщили в его окружении",
+      "recap_neutral": "Народный артист СССР находится в одной из московских больниц, сообщили в его окружении",
+      "main_idea": "Инсульт у дирижера Владимира Спивакова не подтвердился",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 20 Jun 2026 01:03:34 +0300",
+      "url": "https://tass.ru/proisshestviya/27820615",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В МЧС рассказали, как домашние собаки могут начать работать спасателями",
+      "title_neutral": "В МЧС рассказали, как домашние собаки могут начать работать спасателями",
+      "excerpt": "Если животное пройдет специальную подготовку, оно получит статус служебного и сможет участвовать в поисковых операциях вместе с хозяином, сообщили в ведомстве",
+      "recap_neutral": "Если животное пройдет специальную подготовку, оно получит статус служебного и сможет участвовать в поисковых операциях вместе с хозяином, сообщили в ведомстве",
+      "main_idea": "В МЧС рассказали, как домашние собаки могут начать работать спасателями",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 20 Jun 2026 01:03:03 +0300",
+      "url": "https://tass.ru/obschestvo/27820591",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Марочко: силы РФ охватывают ВСУ в Краматорске с севера и юга",
+      "title_neutral": "Марочко: силы РФ охватывают ВСУ в Краматорске с севера и юга",
+      "excerpt": "В славянско-краматорской-дружковской агломерации \"очень сложный рельеф местности\", отметил военный эксперт",
+      "recap_neutral": "В славянско-краматорской-дружковской агломерации \"очень сложный рельеф местности\", отметил военный эксперт",
+      "main_idea": "Марочко: силы РФ охватывают ВСУ в Краматорске с севера и юга",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 20 Jun 2026 01:00:41 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27820581",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Расстояние между Землей и Солнцем достигнет годового максимума 6 июля",
+      "title_neutral": "Расстояние между Землей и Солнцем достигнет годового максимума 6 июля",
+      "excerpt": "Наибольшее расстояние между планетой и звездой - свыше 152 млн км",
+      "recap_neutral": "Наибольшее расстояние между планетой и звездой - свыше 152 млн км",
+      "main_idea": "Расстояние между Землей и Солнцем достигнет годового максимума 6 июля",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 20 Jun 2026 00:58:35 +0300",
+      "url": "https://tass.ru/kosmos/27820577",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Экс-лидер Филиппин Дутерте отказался участвовать в слушании МУС по своему делу",
+      "title_neutral": "Экс-лидер Филиппин Дутерте отказался участвовать в слушании МУС по своему делу",
+      "excerpt": "Судебная палата удовлетворила его просьбу, сообщили в инстанции",
+      "recap_neutral": "Судебная палата удовлетворила его просьбу, сообщили в инстанции",
+      "main_idea": "Экс-лидер Филиппин Дутерте отказался участвовать в слушании МУС по своему делу",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 20 Jun 2026 00:57:33 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27820569",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Аэропорт Домодедово обслуживает рейсы по согласованию",
+      "title_neutral": "Аэропорт Домодедово обслуживает рейсы по согласованию",
+      "excerpt": "В расписании рейсов возможны корректировки",
+      "recap_neutral": "В расписании рейсов возможны корректировки",
+      "main_idea": "Аэропорт Домодедово обслуживает рейсы по согласованию",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 20 Jun 2026 00:49:55 +0300",
+      "url": "https://tass.ru/ekonomika/27820561",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Жуковский ввели временные ограничения",
+      "title_neutral": "В аэропорту Жуковский ввели временные ограничения",
+      "excerpt": "Они необходимы для обеспечения безопасности полетов",
+      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
+      "main_idea": "В аэропорту Жуковский ввели временные ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 20 Jun 2026 00:47:49 +0300",
+      "url": "https://tass.ru/ekonomika/27820553",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Шлеменко заявил, что хочет драться за титул ACA",
+      "title_neutral": "Шлеменко заявил, что хочет драться за титул ACA",
+      "excerpt": "Ранее российский боец победил Николу Дипчикова на турнире ACA",
+      "recap_neutral": "Ранее российский боец победил Николу Дипчикова на турнире ACA",
+      "main_idea": "Шлеменко заявил, что хочет драться за титул ACA",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 20 Jun 2026 00:45:49 +0300",
+      "url": "https://tass.ru/sport/27820551",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Мордовии объявили беспилотную опасность",
+      "title_neutral": "В Мордовии объявили беспилотную опасность",
+      "excerpt": "Об угрозе жителей региона предупредили в ГУ МЧС республики",
+      "recap_neutral": "Об угрозе жителей региона предупредили в ГУ МЧС республики",
+      "main_idea": "В Мордовии объявили беспилотную опасность",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 20 Jun 2026 00:44:16 +0300",
+      "url": "https://tass.ru/proisshestviya/27820545",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
@@ -429,11 +525,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "This 1976 University Experiment Spun Up the U.S. Wind Industry",
-      "title_neutral": "This 1976 University Experiment Spun Up the U.S. Wind Industry",
+      "title_original": "A 1976 university experiment spun up the U.S. wind industry",
+      "title_neutral": "A 1976 university experiment spun up the U.S. wind industry",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "This 1976 University Experiment Spun Up the U.S. Wind Industry",
+      "main_idea": "A 1976 university experiment spun up the U.S. wind industry",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Mon, 15 Jun 2026 14:25:51 +0000",
@@ -444,116 +540,71 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Нижегородской области отменили беспилотную опасность",
-      "title_neutral": "В Нижегородской области отменили беспилотную опасность",
-      "excerpt": "Режим вводили около 11:00 мск",
-      "recap_neutral": "Режим вводили около 11:00 мск",
-      "main_idea": "В Нижегородской области отменили беспилотную опасность",
+      "title_original": "The UK's New Under-16 Social Media Ban Will Cause More Harm Than It Prevents",
+      "title_neutral": "The UK's New Under-16 Social Media Ban Will Cause More Harm Than It Prevents",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The UK's New Under-16 Social Media Ban Will Cause More Harm Than It Prevents",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 19 Jun 2026 23:58:31 +0300",
-      "url": "https://tass.ru/proisshestviya/27820417",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Fri, 19 Jun 2026 21:58:22 +0000",
+      "url": "https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Трамп допустил использование госконтроля над разработчиками ИИ",
-      "title_neutral": "Трамп допустил использование госконтроля над разработчиками ИИ",
-      "excerpt": "Недавний конфликт с компанией Anthropic об ограничении доступа иностранных пользователей к ее моделям искусственного интеллекта Mythos 5 и Fable 5 был быстро урегулирован, сообщил президент США",
-      "recap_neutral": "Недавний конфликт с компанией Anthropic об ограничении доступа иностранных пользователей к ее моделям искусственного интеллекта Mythos 5 и Fable 5 был быстро урегулирован, сообщил президент США",
-      "main_idea": "Трамп допустил использование госконтроля над разработчиками ИИ",
+      "title_original": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
+      "title_neutral": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
+      "excerpt": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
+      "recap_neutral": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\"",
+      "main_idea": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
       "tags": [
-        "politics",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 19 Jun 2026 21:46:07 GMT",
+      "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Mideast Live Updates: Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain",
+      "title_neutral": "Mideast Live Updates: Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain",
+      "excerpt": "The fighting between Israel and Hezbollah in Lebanon had delayed the next stage of talks to end the U.S.-Iranian war. Hezbollah did not immediately comment.",
+      "recap_neutral": "The fighting between Israel and Hezbollah in Lebanon had delayed the next stage of talks to end the U",
+      "main_idea": "Mideast Live Updates: Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain",
+      "tags": [
         "conflict",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Fri, 19 Jun 2026 23:57:58 +0300",
-      "url": "https://tass.ru/obschestvo/27820407",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Fri, 19 Jun 2026 21:37:28 +0000",
+      "url": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В аэропорту Калуги ввели ограничения",
-      "title_neutral": "В аэропорту Калуги ввели ограничения",
-      "excerpt": "",
-      "recap_neutral": "В аэропорту Калуги ввели ограничения",
-      "main_idea": "В аэропорту Калуги ввели ограничения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 19 Jun 2026 23:56:56 +0300",
-      "url": "https://tass.ru/ekonomika/27820413",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Axios: Рубио на следующей неделе посетит Бахрейн, Кувейт и ОАЭ",
-      "title_neutral": "Axios: Рубио на следующей неделе посетит Бахрейн, Кувейт и ОАЭ",
-      "excerpt": "Корреспондент портала Барак Равид написал об этом в Х",
-      "recap_neutral": "Корреспондент портала Барак Равид написал об этом в Х",
-      "main_idea": "Axios: Рубио на следующей неделе посетит Бахрейн, Кувейт и ОАЭ",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 19 Jun 2026 23:54:29 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27820381",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Le Figaro: Макрон может распустить парламент перед выборами президента 2027 года",
-      "title_neutral": "Le Figaro: Макрон может распустить парламент перед выборами президента 2027 года",
-      "excerpt": "Неназванный парламентарий рассказал газете, что такой шаг рассматривается как способ помешать преемнику действующего французского лидера самостоятельно определять время проведения парламентских выборов",
-      "recap_neutral": "Неназванный парламентарий рассказал газете, что такой шаг рассматривается как способ помешать преемнику действующего французского лидера самостоятельно определять время проведения парламентских выборов",
-      "main_idea": "Le Figaro: Макрон может распустить парламент перед выборами президента 2027 года",
+      "title_original": "PremiumBlock Launches Non-Custodial Risk Hub for User-Created Prediction Markets, Perps and Web3 Pok",
+      "title_neutral": "PremiumBlock Launches Non-Custodial Risk Hub for User-Created Prediction Markets, Perps and Web3 Pok",
+      "excerpt": "Stockholm, Sweden, June 19th, 2026/Chainwire/--PremiumBlock brings leveraged prediction markets, liquid 24/7 FX perpetuals and Web3 poker together in one wallet-native platform via premiumblock.org PremiumBlock today announced the launch of its non-custodial risk hub for decentralized prediction ma…",
+      "recap_neutral": "Stockholm, Sweden, June 19th, 2026/Chainwire/--PremiumBlock brings leveraged prediction markets, liquid 24/7 FX perpetuals and Web3 poker together in one wallet-native platform via premiumblock",
+      "main_idea": "PremiumBlock Launches Non-Custodial Risk Hub for User-Created Prediction Markets, Perps and Web3 Pok",
       "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 19 Jun 2026 23:53:03 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27820375",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Утверждена программа изучения арабского языка в российских школах с 1 сентября",
-      "title_neutral": "Утверждена программа изучения арабского языка в российских школах с 1 сентября",
-      "excerpt": "Подготовлены и переведены русские народные сказки, книга о России и книги писателей, которые передали в Объединенные Арабские Эмираты",
-      "recap_neutral": "Подготовлены и переведены русские народные сказки, книга о России и книги писателей, которые передали в Объединенные Арабские Эмираты",
-      "main_idea": "Утверждена программа изучения арабского языка в российских школах с 1 сентября",
-      "tags": [
+        "economy",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Fri, 19 Jun 2026 23:50:15 +0300",
-      "url": "https://tass.ru/obschestvo/27820371",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Новая медицинская проверка подтвердила наличие онкозаболевания у Лерчек",
-      "title_neutral": "Новая медицинская проверка подтвердила наличие онкозаболевания у Лерчек",
-      "excerpt": "Адвокат блогера Константин Третьяков заявил, что защита спокойно относится к инициативе надзорного органа",
-      "recap_neutral": "Адвокат блогера Константин Третьяков заявил, что защита спокойно относится к инициативе надзорного органа",
-      "main_idea": "Новая медицинская проверка подтвердила наличие онкозаболевания у Лерчек",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 19 Jun 2026 23:45:51 +0300",
-      "url": "https://tass.ru/obschestvo/27820361",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "HackerNoon",
+      "published_at": "Fri, 19 Jun 2026 21:20:14 GMT",
+      "url": "https://hackernoon.com/premiumblock-launches-non-custodial-risk-hub-for-user-created-prediction-markets-perps-and-web3-pok?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -574,55 +625,51 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Mideast Live Updates: Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain",
-      "title_neutral": "Mideast Live Updates: Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain",
-      "excerpt": "The fighting between Israel and Hezbollah in Lebanon had delayed the next stage of talks to end the U.S.-Iranian war. Hezbollah did not immediately comment.",
-      "recap_neutral": "The fighting between Israel and Hezbollah in Lebanon had delayed the next stage of talks to end the U",
-      "main_idea": "Mideast Live Updates: Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 19 Jun 2026 20:14:55 +0000",
-      "url": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
-      "title_neutral": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
+      "title_original": "Surprising Economics of Load-Balanced Systems",
+      "title_neutral": "Surprising Economics of Load-Balanced Systems",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
-      "tags": [
-        "tech"
-      ],
+      "main_idea": "Surprising Economics of Load-Balanced Systems",
+      "tags": [],
       "source": "Hacker News",
-      "published_at": "Fri, 19 Jun 2026 20:03:16 +0000",
-      "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
+      "published_at": "Fri, 19 Jun 2026 20:30:59 +0000",
+      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "'We created a monster': companies rein in AI usage as costs strain budgets",
-      "title_neutral": "'We created a monster': companies rein in AI usage as costs strain budgets",
+      "title_original": "Think of the Children: How to Force Real ID for All Internet Traffic (2023)",
+      "title_neutral": "Think of the Children: How to Force Real ID for All Internet Traffic (2023)",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "'We created a monster': companies rein in AI usage as costs strain budgets",
-      "tags": [
-        "tech"
-      ],
+      "main_idea": "Think of the Children: How to Force Real ID for All Internet Traffic (2023)",
+      "tags": [],
       "source": "Hacker News",
-      "published_at": "Fri, 19 Jun 2026 19:57:18 +0000",
-      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
+      "published_at": "Fri, 19 Jun 2026 20:19:57 +0000",
+      "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "183 Blog Posts To Learn About Stock Market",
+      "title_neutral": "183 Blog Posts To Learn About Stock Market",
+      "excerpt": "Let's learn about Stock Market via these 183 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. The stock market is a marketplace where shares of publicly traded companies are bought an…",
+      "recap_neutral": "Let's learn about Stock Market via these 183 free blog posts",
+      "main_idea": "183 Blog Posts To Learn About Stock Market",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 19 Jun 2026 20:00:11 GMT",
+      "url": "https://hackernoon.com/183-blog-posts-to-learn-about-stock-market?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -691,21 +738,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times",
-      "title_neutral": "Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 19 Jun 2026 18:14:11 +0000",
-      "url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -781,6 +813,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Court Records Should Be Free",
+      "title_neutral": "Court Records Should Be Free",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Court Records Should Be Free",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 19 Jun 2026 17:34:18 +0000",
+      "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Burnham’s Stunning Victory in Makerfield Election May Trigger Starmer’s Last Stand",
       "title_neutral": "Burnham’s Stunning Victory in Makerfield Election May Trigger Starmer’s Last Stand",
       "excerpt": "Andy Burnham, a Labour mayor, won a resounding majority in a special election on Thursday, making him eligible to challenge Prime Minister Keir Starmer for the country’s leadership.",
@@ -815,7 +862,7 @@
     {
       "title_original": "Global framework for reparatory justice adopted at landmark conference in Ghana",
       "title_neutral": "Global framework for reparatory justice adopted at landmark conference in Ghana",
-      "excerpt": "Ensuring fair compensation for those affected by legacies of enslavement and measures to address debt burdens, part of 18-point strategic roadmap More than money: the logic of slavery reparations A global framework for reparatory justice has been adopted at a conference in Ghana. Heads of state, go…",
+      "excerpt": "Ensuring fair compensation for those affected by legacies of enslavement and measures to address debt burdens, part of 18-point strategic roadmap More than money: the logic of slavery reparations A global framework for reparatory justice has been adopted at a conference in Ghana. Heads of state and…",
       "recap_neutral": "Ensuring fair compensation for those affected by legacies of enslavement and measures to address debt burdens, part of 18-point strategic roadmap More than money: the logic of slavery reparations A global framework for…",
       "main_idea": "Global framework for reparatory justice adopted at landmark conference in Ghana",
       "tags": [
@@ -827,6 +874,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "James Burrows, director of classic shows 'Cheers' and 'Friends,' dies at 85",
+      "title_neutral": "James Burrows, director of classic shows 'Cheers' and 'Friends,' dies at 85",
+      "excerpt": "Burrows spent his career behind the camera specializing in situation comedies. Few viewers recognized him or knew his name, other than to see it flash quickly on the screen in the opening credits. But they knew his work.",
+      "recap_neutral": "Burrows spent his career behind the camera specializing in situation comedies",
+      "main_idea": "James Burrows, director of classic shows 'Cheers' and 'Friends,' dies at 85",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Fri, 19 Jun 2026 17:16:15 -0400",
+      "url": "https://www.npr.org/2026/06/19/g-s1-129137/james-burrows-death-obit-cheers-friends",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -844,6 +906,24 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews",
+      "title_neutral": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews",
+      "excerpt": "The luxury Boeing 747, initially valued at $400 million, arrived ahead of schedule on Friday. The jet caused controversy as one of the biggest foreign gifts ever received by the U.S. government.",
+      "recap_neutral": "The luxury Boeing 747, initially valued at $400 million, arrived ahead of schedule on Friday",
+      "main_idea": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Fri, 19 Jun 2026 17:01:21 -0400",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5864503/air-force-one-trump-qatar",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -882,11 +962,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump and Italy's Giorgia Meloni used to be buds. But a rift is widening",
-      "title_neutral": "Trump and Italy's Giorgia Meloni used to be buds. But a rift is widening",
+      "title_original": "Italy's Meloni, once Trump's closest ally in Europe, says he made up a story about her",
+      "title_neutral": "Italy's Meloni, once Trump's closest ally in Europe, says he made up a story about her",
       "excerpt": "\"Italy and I do not beg,\" Meloni said in a video rebuke posted on social media Friday. Italy's top diplomat, meanwhile, said he was cancelling a visit to the U.S because of the alleged remarks.",
       "recap_neutral": "\"Italy and I do not beg,\" Meloni said in a video rebuke posted on social media Friday",
-      "main_idea": "Trump and Italy's Giorgia Meloni used to be buds. But a rift is widening",
+      "main_idea": "Italy's Meloni, once Trump's closest ally in Europe, says he made up a story about her",
       "tags": [
         "tech"
       ],
@@ -931,18 +1011,54 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Amateur may have cracked Linear A",
-      "title_neutral": "Amateur may have cracked Linear A",
+      "title_original": "The HackerNoon Newsletter: 5 Hackathons You Can Enter Right Now 🤫 (6/19/2026)",
+      "title_neutral": "The HackerNoon Newsletter: 5 Hackathons You Can Enter Right Now 🤫 (6/19/2026)",
+      "excerpt": "How are you, hacker? 🪐 What’s happening in tech today, June 19, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox. On this day, Michael Pupin Patented Long-Distance Telephony in 1900, The First Commercial Photoelectric Cell Was Installed in 1931, Blaise Pascal Wa…",
+      "recap_neutral": "How are you, hacker? 🪐 What’s happening in tech today, June 19, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox",
+      "main_idea": "The HackerNoon Newsletter: 5 Hackathons You Can Enter Right Now 🤫 (6/19/2026)",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 19 Jun 2026 16:05:31 GMT",
+      "url": "https://hackernoon.com/6-19-2026-newsletter?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Norway imposes near ban on AI in elementary school",
+      "title_neutral": "Norway imposes near ban on AI in elementary school",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Amateur may have cracked Linear A",
-      "tags": [],
+      "main_idea": "Norway imposes near ban on AI in elementary school",
+      "tags": [
+        "tech"
+      ],
       "source": "Hacker News",
-      "published_at": "Fri, 19 Jun 2026 16:04:42 +0000",
-      "url": "https://aiclambake.com/clamtakes/linear-a/",
+      "published_at": "Fri, 19 Jun 2026 16:03:15 +0000",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Here's What You Should Know About AI Agent Scopes And Tool Lifecycles",
+      "title_neutral": "Here's What You Should Know About AI Agent Scopes And Tool Lifecycles",
+      "excerpt": "Learn how agent.tool() integrates budgets (CostBudget, OpenAITokens, AgentToolCalls), retries, timeouts, and AbortSignal propagation into a single composable API—without generators, DSLs, or external tracing setup. Every tool call emits typed, ordered events for replay, audit, and debugging. Parent…",
+      "recap_neutral": "Learn how agent",
+      "main_idea": "Here's What You Should Know About AI Agent Scopes And Tool Lifecycles",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 19 Jun 2026 16:01:58 GMT",
+      "url": "https://hackernoon.com/heres-what-you-should-know-about-ai-agent-scopes-and-tool-lifecycles?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1243,40 +1359,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "I Downgraded My AI and Output Got Better",
-      "title_neutral": "I Downgraded My AI and Output Got Better",
-      "excerpt": "I tested Claude Opus 4.6, 4.7, and 4.8 across real production workflows. The newer models score higher on benchmarks but break file creation, Excel parsing, and code execution. 4.6 does what you ask it to do. Newer is not always better when reliability matters more than reasoning scores.",
-      "recap_neutral": "I tested Claude Opus 4",
-      "main_idea": "I Downgraded My AI and Output Got Better",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 19 Jun 2026 12:17:45 GMT",
-      "url": "https://hackernoon.com/i-downgraded-my-ai-and-output-got-better?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Hyperliquid Has Moved Beyond Crypto Perp Exchange Territory",
-      "title_neutral": "Hyperliquid Has Moved Beyond Crypto Perp Exchange Territory",
-      "excerpt": "Hyperliquid has evolved beyond crypto-native perpetuals. Driven by the HIP-3 framework, RWA markets now account for a significant share of platform volume, while Portfolio Margin and hourly funding have changed the economics of trading. For traders and bot operators, assumptions built around BTC an…",
-      "recap_neutral": "Hyperliquid has evolved beyond crypto-native perpetuals",
-      "main_idea": "Hyperliquid Has Moved Beyond Crypto Perp Exchange Territory",
-      "tags": [
-        "economy"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 19 Jun 2026 12:10:25 GMT",
-      "url": "https://hackernoon.com/hyperliquid-has-moved-beyond-crypto-perp-exchange-territory?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Algae clouded Trump's vision for the Reflecting Pool. But scientists aren't surprised",
       "title_neutral": "Algae clouded Trump's vision for the Reflecting Pool. But scientists aren't surprised",
       "excerpt": "The shallow, sunny waters of the reflecting pool are an ideal incubator for algae growth in the summertime. Experts say the recent renovation may have helped accelerate it.",
@@ -1289,24 +1371,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "7 of the Best ITAM Software For Hardware Asset Tracking in 2026",
-      "title_neutral": "7 of the Best ITAM Software For Hardware Asset Tracking in 2026",
-      "excerpt": "Hardware inventories have outgrown spreadsheets. This guide compares seven leading IT asset management platforms, examining their strengths in hardware discovery, lifecycle management, compliance, integrations, and financial tracking to help IT teams choose the right ITAM solution for 2026.",
-      "recap_neutral": "Hardware inventories have outgrown spreadsheets",
-      "main_idea": "7 of the Best ITAM Software For Hardware Asset Tracking in 2026",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 19 Jun 2026 11:32:50 GMT",
-      "url": "https://hackernoon.com/7-of-the-best-itam-software-for-hardware-asset-tracking-in-2026?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1355,24 +1419,6 @@
       "source": "BBC World",
       "published_at": "Fri, 19 Jun 2026 10:13:41 GMT",
       "url": "https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Thirty-five killed as gunmen attack Niger's biggest airport",
-      "title_neutral": "Thirty-five killed as gunmen attack Niger's biggest airport",
-      "excerpt": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
-      "recap_neutral": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport",
-      "main_idea": "Thirty-five killed as gunmen attack Niger's biggest airport",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 19 Jun 2026 09:43:30 GMT",
-      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -1480,21 +1526,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "What Healthcare Engineers Know About Building Reliable Systems That Web Engineers Don’t",
-      "title_neutral": "What Healthcare Engineers Know About Building Reliable Systems That Web Engineers Don’t",
-      "excerpt": "Web engineering prizes speed and scale, but healthcare engineering offers a deeper lesson: silent failure is the worst kind of failure.",
-      "recap_neutral": "Web engineering prizes speed and scale, but healthcare engineering offers a deeper lesson: silent failure is the worst kind of failure",
-      "main_idea": "What Healthcare Engineers Know About Building Reliable Systems That Web Engineers Don’t",
+      "title_original": "Some local police have access to an ICE facial recognition app",
+      "title_neutral": "Some local police have access to an ICE facial recognition app",
+      "excerpt": "A document from the Department of Homeland Security outlines plans to issue local police facial recognition technology used by federal immigration agents, a move that will expand the scope of ICE surveillance.",
+      "recap_neutral": "A document from the Department of Homeland Security outlines plans to issue local police facial recognition technology used by federal immigration agents, a move that will expand the scope of ICE surveillance",
+      "main_idea": "Some local police have access to an ICE facial recognition app",
       "tags": [
-        "tech",
-        "health"
+        "tech"
       ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 19 Jun 2026 05:58:55 GMT",
-      "url": "https://hackernoon.com/what-healthcare-engineers-know-about-building-reliable-systems-that-web-engineers-dont?source=rss",
+      "source": "NPR",
+      "published_at": "Fri, 19 Jun 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5863058/homeland-security-local-police-facial-recognition-identify-immigrants",
       "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1541,58 +1586,6 @@
       "source": "NPR",
       "published_at": "Fri, 19 Jun 2026 05:00:00 -0400",
       "url": "https://www.npr.org/2026/06/19/nx-s1-5860711/world-cup-america-tourists",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How the 1874 Freedman's Bank collapse connects to economic disparities we see today",
-      "title_neutral": "How the 1874 Freedman's Bank collapse connects to economic disparities we see today",
-      "excerpt": "In Savings and Trust , historian Justene Hill Edwards tells the story of the Freedman's Bank, which was created for formerly enslaved people following the Civil War. Originally broadcast Nov. 7, 2024.",
-      "recap_neutral": "In Savings and Trust , historian Justene Hill Edwards tells the story of the Freedman's Bank, which was created for formerly enslaved people following the Civil War",
-      "main_idea": "How the 1874 Freedman's Bank collapse connects to economic disparities we see today",
-      "tags": [
-        "economy",
-        "conflict"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 19 Jun 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5862645/how-the-1874-freedmans-bank-collapse-connects-to-economic-disparities-we-see-today",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Some local police have access to an ICE facial recognition app",
-      "title_neutral": "Some local police have access to an ICE facial recognition app",
-      "excerpt": "A document from the Department of Homeland Security outlines plans to issue local police facial recognition technology used by federal immigration agents, a move that will expand the scope of ICE surveillance.",
-      "recap_neutral": "A document from the Department of Homeland Security outlines plans to issue local police facial recognition technology used by federal immigration agents, a move that will expand the scope of ICE surveillance",
-      "main_idea": "Some local police have access to an ICE facial recognition app",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 19 Jun 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5863058/homeland-security-local-police-facial-recognition-identify-immigrants",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "These Wisconsin swing voters say Trump's war in Iran wasn't worth it",
-      "title_neutral": "These Wisconsin swing voters say Trump's war in Iran wasn't worth it",
-      "excerpt": "The war in Iran was a costly blunder, according to Wisconsin swing voters who participated in two online focus groups that NPR observed.",
-      "recap_neutral": "The war in Iran was a costly blunder, according to Wisconsin swing voters who participated in two online focus groups that NPR observed",
-      "main_idea": "These Wisconsin swing voters say Trump's war in Iran wasn't worth it",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 19 Jun 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5861751/wisconsin-focus-groups-iran-trump",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
