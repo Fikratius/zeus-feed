@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T11:28:30.385261+00:00",
+  "last_updated": "2026-06-21T13:22:40.949362+00:00",
   "items": [
     {
       "title_original": "Cannabis commercialisation not decriminalisation drives up usage, study finds",
@@ -148,6 +148,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Two Qwen3 models on one DGX Spark: the residency math",
+      "title_neutral": "Two Qwen3 models on one DGX Spark: the residency math",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Two Qwen3 models on one DGX Spark: the residency math",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 18 Jun 2026 16:29:52 +0000",
+      "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
       "title_neutral": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
       "excerpt": "‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrest Two traffickers of rhino horns have been sentenced by a South African court in what police said was the world’s largest such case, partly bringing to an end an almost two-decade legal saga. Dawie…",
@@ -165,35 +180,284 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "15-minute at-home Lyme disease tick test",
-      "title_neutral": "15-minute at-home Lyme disease tick test",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "15-minute at-home Lyme disease tick test",
+      "title_original": "Вэнс: переговоры США и Ирана в Швейцарии не смогут решить все разногласия",
+      "title_neutral": "Вэнс: переговоры США и Ирана в Швейцарии не смогут решить все разногласия",
+      "excerpt": "При этом американский вице-президент отметил, что они дадут участникам возможность разобраться с наиболее важными для каждой стороны вопросами",
+      "recap_neutral": "При этом американский вице-президент отметил, что они дадут участникам возможность разобраться с наиболее важными для каждой стороны вопросами",
+      "main_idea": "Вэнс: переговоры США и Ирана в Швейцарии не смогут решить все разногласия",
       "tags": [
-        "health"
+        "politics",
+        "tech"
       ],
-      "source": "Hacker News",
-      "published_at": "Thu, 18 Jun 2026 12:22:36 +0000",
-      "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "source": "ТАСС",
+      "published_at": "Sun, 21 Jun 2026 16:20:23 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27829221",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Mideast Live Updates: New Round of U.S.-Iran Talks Set to Start in Switzerland",
-      "title_neutral": "Mideast Live Updates: New Round of U.S.-Iran Talks Set to Start in Switzerland",
-      "excerpt": "Vice President JD Vance was expected to talk with Iranian negotiators. But the conflict in Lebanon threatens efforts to reach a broader peace and keep the Strait of Hormuz open.",
-      "recap_neutral": "Vice President JD Vance was expected to talk with Iranian negotiators",
-      "main_idea": "Mideast Live Updates: New Round of U.S.-Iran Talks Set to Start in Switzerland",
+      "title_original": "Собянин сообщил о модернизации корпусов колледжей имени И. А. Лихачева и \"Царицыно\"",
+      "title_neutral": "Собянин сообщил о модернизации корпусов колледжей имени И. А. Лихачева и \"Царицыно\"",
+      "excerpt": "В зданиях заменят инженерные коммуникации, отремонтируют фасады, кровлю и окна, обустроят новые кабинеты",
+      "recap_neutral": "В зданиях заменят инженерные коммуникации, отремонтируют фасады, кровлю и окна, обустроят новые кабинеты",
+      "main_idea": "Собянин сообщил о модернизации корпусов колледжей имени И. А. Лихачева и \"Царицыно\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 21 Jun 2026 16:16:40 +0300",
+      "url": "https://tass.ru/obschestvo/27829219",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Индии из-за утечки аммиака на предприятии погибли семь человек",
+      "title_neutral": "В Индии из-за утечки аммиака на предприятии погибли семь человек",
+      "excerpt": "Пострадали более 40, сообщило издание The Times of India",
+      "recap_neutral": "Пострадали более 40, сообщило издание The Times of India",
+      "main_idea": "В Индии из-за утечки аммиака на предприятии погибли семь человек",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 21 Jun 2026 16:15:46 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27829211",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Яровая: в Киеве и Одессе есть много людей, которые зажгут свечу памяти",
+      "title_neutral": "Яровая: в Киеве и Одессе есть много людей, которые зажгут свечу памяти",
+      "excerpt": "Вице-спикер Госдумы отметила, что многие жители Киева и Одессы ненавидят нацизм и не предают память предков",
+      "recap_neutral": "Вице-спикер Госдумы отметила, что многие жители Киева и Одессы ненавидят нацизм и не предают память предков",
+      "main_idea": "Яровая: в Киеве и Одессе есть много людей, которые зажгут свечу памяти",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 21 Jun 2026 16:15:30 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27829189",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве и Подмосковье объявили желтый уровень опасности из-за грозы",
+      "title_neutral": "В Москве и Подмосковье объявили желтый уровень опасности из-за грозы",
+      "excerpt": "Непогода ожидается 22 июня",
+      "recap_neutral": "Непогода ожидается 22 июня",
+      "main_idea": "В Москве и Подмосковье объявили желтый уровень опасности из-за грозы",
+      "tags": [
+        "climate"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 21 Jun 2026 16:12:27 +0300",
+      "url": "https://tass.ru/obschestvo/27829171",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Саратовской области в ДТП с грузовиком погибли женщина и ребенок",
+      "title_neutral": "В Саратовской области в ДТП с грузовиком погибли женщина и ребенок",
+      "excerpt": "На месте работают спасатели областной службы спасения, медики центра медицины катастроф и сотрудники ДПС",
+      "recap_neutral": "На месте работают спасатели областной службы спасения, медики центра медицины катастроф и сотрудники ДПС",
+      "main_idea": "В Саратовской области в ДТП с грузовиком погибли женщина и ребенок",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 21 Jun 2026 16:09:55 +0300",
+      "url": "https://tass.ru/proisshestviya/27829149",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Молодые педагоги ГИТИСа представили в Индии два дипломных спектакля",
+      "title_neutral": "Молодые педагоги ГИТИСа представили в Индии два дипломных спектакля",
+      "excerpt": "Режиссеры Наталья Шурганова и Александр Хухлин поставили со студентами индийского вуза спектакли по пьесе современного российского драматурга Елены Исаевой \"Двор как уходящая натура\" и драме Александра Островского \"Гроза\"",
+      "recap_neutral": "Режиссеры Наталья Шурганова и Александр Хухлин поставили со студентами индийского вуза спектакли по пьесе современного российского драматурга Елены Исаевой \"Двор как уходящая натура\" и драме Александра Островского \"Гроз…",
+      "main_idea": "Молодые педагоги ГИТИСа представили в Индии два дипломных спектакля",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 21 Jun 2026 16:09:39 +0300",
+      "url": "https://tass.ru/kultura/27829085",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Туск назвал стратегической ошибкой углубление конфликта между Варшавой и Киевом",
+      "title_neutral": "Туск назвал стратегической ошибкой углубление конфликта между Варшавой и Киевом",
+      "excerpt": "Премьер-министр Польши считает, что обе стороны пострадают в деловом, геополитическом плане и с точки зрения репутации",
+      "recap_neutral": "Премьер-министр Польши считает, что обе стороны пострадают в деловом, геополитическом плане и с точки зрения репутации",
+      "main_idea": "Туск назвал стратегической ошибкой углубление конфликта между Варшавой и Киевом",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 21 Jun 2026 16:09:27 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27829153",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Вертолет в Приморье пропал после сообщения о планируемой посадке",
+      "title_neutral": "Вертолет в Приморье пропал после сообщения о планируемой посадке",
+      "excerpt": "Robinson R44 выполнял лесоавиационные работы",
+      "recap_neutral": "Robinson R44 выполнял лесоавиационные работы",
+      "main_idea": "Вертолет в Приморье пропал после сообщения о планируемой посадке",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 21 Jun 2026 16:06:23 +0300",
+      "url": "https://tass.ru/proisshestviya/27829135",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Херсонской области из-за атак ВСУ погибли два человека",
+      "title_neutral": "В Херсонской области из-за атак ВСУ погибли два человека",
+      "excerpt": "Еще девять получили ранения",
+      "recap_neutral": "Еще девять получили ранения",
+      "main_idea": "В Херсонской области из-за атак ВСУ погибли два человека",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 21 Jun 2026 16:05:32 +0300",
+      "url": "https://tass.ru/proisshestviya/27829127",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: Израильские дроны-разведчики летают над Бейрутом",
+      "title_neutral": "ТАСС: Израильские дроны-разведчики летают над Бейрутом",
+      "excerpt": "Дроны были замечены в небе над районами Бурдж-эль-Бараджна, Гобейри, Джнах, Хадас и Харет-Хорейк, сообщил источник",
+      "recap_neutral": "Дроны были замечены в небе над районами Бурдж-эль-Бараджна, Гобейри, Джнах, Хадас и Харет-Хорейк, сообщил источник",
+      "main_idea": "ТАСС: Израильские дроны-разведчики летают над Бейрутом",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 21 Jun 2026 16:05:32 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27829115",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Калуги сняли ограничения",
+      "title_neutral": "В аэропорту Калуги сняли ограничения",
+      "excerpt": "Они необходимы для обеспечения безопасности полетов",
+      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
+      "main_idea": "В аэропорту Калуги сняли ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 21 Jun 2026 16:03:59 +0300",
+      "url": "https://tass.ru/obschestvo/27829121",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве дали старт 18-й международной мемориальной акции \"Свеча памяти\"",
+      "title_neutral": "В Москве дали старт 18-й международной мемориальной акции \"Свеча памяти\"",
+      "excerpt": "В Елоховском Богоявленском кафедральном соборе зажгли свечи памяти всех бывших республик СССР, Городов-Героев и городов воинской славы России",
+      "recap_neutral": "В Елоховском Богоявленском кафедральном соборе зажгли свечи памяти всех бывших республик СССР, Городов-Героев и городов воинской славы России",
+      "main_idea": "В Москве дали старт 18-й международной мемориальной акции \"Свеча памяти\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 21 Jun 2026 16:03:17 +0300",
+      "url": "https://tass.ru/obschestvo/27829057",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Бегунья Погребняк стала 45-м представителем России, выполнившим норматив на ЧЕ",
+      "title_neutral": "Бегунья Погребняк стала 45-м представителем России, выполнившим норматив на ЧЕ",
+      "excerpt": "На Кубке России в Чебоксарах она показала результат 12,78 секунды в беге на 100 метров с барьерами",
+      "recap_neutral": "На Кубке России в Чебоксарах она показала результат 12,78 секунды в беге на 100 метров с барьерами",
+      "main_idea": "Бегунья Погребняк стала 45-м представителем России, выполнившим норматив на ЧЕ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 21 Jun 2026 16:03:11 +0300",
+      "url": "https://tass.ru/sport/27829081",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Узбекистане умер старейший ветеран Великой Отечественной войны в стране",
+      "title_neutral": "В Узбекистане умер старейший ветеран Великой Отечественной войны в стране",
+      "excerpt": "Розибою Сатторову было 116 лет",
+      "recap_neutral": "Розибою Сатторову было 116 лет",
+      "main_idea": "В Узбекистане умер старейший ветеран Великой Отечественной войны в стране",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 21 Jun 2026 15:59:37 +0300",
+      "url": "https://tass.ru/obschestvo/27829041",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Bitter Historical Feud Threatens Ukraine-Poland Alliance",
+      "title_neutral": "Bitter Historical Feud Threatens Ukraine-Poland Alliance",
+      "excerpt": "President Volodymyr Zelensky of Ukraine signed a decree honoring World War II partisan fighters that has inflamed tensions with Warsaw.",
+      "recap_neutral": "President Volodymyr Zelensky of Ukraine signed a decree honoring World War II partisan fighters that has inflamed tensions with Warsaw",
+      "main_idea": "Bitter Historical Feud Threatens Ukraine-Poland Alliance",
       "tags": [
         "politics",
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sun, 21 Jun 2026 11:19:31 +0000",
+      "published_at": "Sun, 21 Jun 2026 13:18:03 +0000",
+      "url": "https://www.nytimes.com/2026/06/21/world/europe/ukraine-poland-alliance-russia.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Mideast Live Updates: New Round of U.S.-Iran Talks Begins in Switzerland",
+      "title_neutral": "Mideast Live Updates: New Round of U.S.-Iran Talks Begins in Switzerland",
+      "excerpt": "An American delegation, led by Vice President JD Vance, was attending the talks along with Iranian negotiators. The conflict in Lebanon is complicating efforts to reach a broader peace and keep the Strait of Hormuz open.",
+      "recap_neutral": "An American delegation, led by Vice President JD Vance, was attending the talks along with Iranian negotiators",
+      "main_idea": "Mideast Live Updates: New Round of U.S.-Iran Talks Begins in Switzerland",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 21 Jun 2026 13:02:14 +0000",
       "url": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
       "lang": "en",
       "bias_score": 55,
@@ -201,18 +465,80 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Israel directs its military to limit its actions in Lebanon, though tensions persist.",
-      "title_neutral": "Israel directs its military to limit its actions in Lebanon, though tensions persist.",
-      "excerpt": "",
-      "recap_neutral": "Israel directs its military to limit its actions in Lebanon, though tensions persist.",
-      "main_idea": "Israel directs its military to limit its actions in Lebanon, though tensions persist.",
+      "title_original": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
+      "title_neutral": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 21 Jun 2026 12:44:13 +0000",
+      "url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Three Men Are Key to Iran’s Approach to U.S. Talks",
+      "title_neutral": "Three Men Are Key to Iran’s Approach to U.S. Talks",
+      "excerpt": "Iran’s supreme leader, foreign minister and parliament speaker all play central roles in hammering out an agreement with Washington.",
+      "recap_neutral": "Iran’s supreme leader, foreign minister and parliament speaker all play central roles in hammering out an agreement with Washington",
+      "main_idea": "Three Men Are Key to Iran’s Approach to U.S. Talks",
       "tags": [],
       "source": "NYTimes World",
-      "published_at": "Sun, 21 Jun 2026 11:19:29 +0000",
-      "url": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon/israel-directs-its-military-to-limit-its-actions-in-lebanon-though-tensions-persist",
+      "published_at": "Sun, 21 Jun 2026 12:37:59 +0000",
+      "url": "https://www.nytimes.com/2026/06/21/world/middleeast/three-men-are-key-to-irans-approach-to-us-talks.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Keir Starmer Reflects on ‘Political Challenges’ as Pressure to Resign Mounts",
+      "title_neutral": "Keir Starmer Reflects on ‘Political Challenges’ as Pressure to Resign Mounts",
+      "excerpt": "An ally of Keir Starmer’s told the BBC on Sunday that Mr. Starmer was “taking the time to think through what the political realities are today compared to last week.”",
+      "recap_neutral": "An ally of Keir Starmer’s told the BBC on Sunday that Mr",
+      "main_idea": "Keir Starmer Reflects on ‘Political Challenges’ as Pressure to Resign Mounts",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sun, 21 Jun 2026 12:13:24 +0000",
+      "url": "https://www.nytimes.com/2026/06/21/world/europe/keir-starmer-andy-burnham-uk.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "David Ahl's Basic Computer Games Ported to C",
+      "title_neutral": "David Ahl's Basic Computer Games Ported to C",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "David Ahl's Basic Computer Games Ported to C",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 21 Jun 2026 12:11:29 +0000",
+      "url": "https://github.com/proteanthread/bcg",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "title_neutral": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 21 Jun 2026 11:38:01 +0000",
+      "url": "https://www.beyondallreason.info",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -233,20 +559,87 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "CTOs Agree: Cognitive Debt Is the New Technical Debt",
-      "title_neutral": "CTOs Agree: Cognitive Debt Is the New Technical Debt",
+      "title_original": "Indian cricketer, 15, hits record-breaking 50 in just 11 balls",
+      "title_neutral": "Indian cricketer, 15, hits record-breaking 50 in just 11 balls",
+      "excerpt": "Vaibhav Sooryavanshi breaks the record for the fastest 50-over List A half-century in history on the same day he was not included in India's one-day international squad.",
+      "recap_neutral": "Vaibhav Sooryavanshi breaks the record for the fastest 50-over List A half-century in history on the same day he was not included in India's one-day international squad",
+      "main_idea": "Indian cricketer, 15, hits record-breaking 50 in just 11 balls",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 21 Jun 2026 11:10:21 GMT",
+      "url": "https://www.bbc.com/sport/cricket/articles/czdev6lp8p9o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The case against geometric algebra (2024)",
+      "title_neutral": "The case against geometric algebra (2024)",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "CTOs Agree: Cognitive Debt Is the New Technical Debt",
+      "main_idea": "The case against geometric algebra (2024)",
       "tags": [
         "tech"
       ],
       "source": "Hacker News",
-      "published_at": "Sun, 21 Jun 2026 09:53:57 +0000",
-      "url": "https://shiftmag.dev/ctos-agree-cognitive-debt-is-the-new-technical-debt-10229/",
+      "published_at": "Sun, 21 Jun 2026 11:06:55 +0000",
+      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Tight security as Indian students resit medical exam after alleged paper leak",
+      "title_neutral": "Tight security as Indian students resit medical exam after alleged paper leak",
+      "excerpt": "Millions of candidates face biometric checks and frisking as air force deployed to secure exam papers.",
+      "recap_neutral": "Millions of candidates face biometric checks and frisking as air force deployed to secure exam papers",
+      "main_idea": "Tight security as Indian students resit medical exam after alleged paper leak",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 21 Jun 2026 11:06:31 GMT",
+      "url": "https://www.bbc.com/news/articles/cwy0gjqv783o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+      "title_neutral": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+      "excerpt": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
+      "recap_neutral": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories",
+      "main_idea": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 21 Jun 2026 10:55:05 GMT",
+      "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Dutch royals enjoy two big results in one World Cup day",
+      "title_neutral": "Dutch royals enjoy two big results in one World Cup day",
+      "excerpt": "There may be about 5,000 miles between the Netherlands and their former colony Curacao but members of the Dutch royal family managed to see both sides play on Saturday.",
+      "recap_neutral": "There may be about 5,000 miles between the Netherlands and their former colony Curacao but members of the Dutch royal family managed to see both sides play on Saturday",
+      "main_idea": "Dutch royals enjoy two big results in one World Cup day",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sun, 21 Jun 2026 09:45:57 GMT",
+      "url": "https://www.bbc.com/sport/football/articles/c4gydq973nqo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -260,7 +653,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sun, 21 Jun 2026 09:02:03 +0000",
+      "published_at": "Sun, 21 Jun 2026 09:02:04 +0000",
       "url": "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html",
       "lang": "en",
       "bias_score": 55,
@@ -397,21 +790,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Windows UI evolution: Clicking an unassociated file",
-      "title_neutral": "Windows UI evolution: Clicking an unassociated file",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Windows UI evolution: Clicking an unassociated file",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 21 Jun 2026 06:24:52 +0000",
-      "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Freed from Cambodia's scam compounds, trafficking victims face a new crisis",
       "title_neutral": "Freed from Cambodia's scam compounds, trafficking victims face a new crisis",
       "excerpt": "Cambodia's crackdown on scam centers has created a secondary crisis: thousands of stranded foreign workers are now roaming the streets of Phnom Penh.",
@@ -462,11 +840,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
-      "title_neutral": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "title_original": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "title_neutral": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
       "excerpt": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
       "recap_neutral": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon",
-      "main_idea": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "main_idea": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
       "tags": [
         "conflict",
         "tech"
@@ -732,66 +1110,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Tourist dies in Dominican Republic luxury resort fire",
-      "title_neutral": "Tourist dies in Dominican Republic luxury resort fire",
-      "excerpt": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
-      "recap_neutral": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast",
-      "main_idea": "Tourist dies in Dominican Republic luxury resort fire",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 20 Jun 2026 17:33:25 GMT",
-      "url": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "title_neutral": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 20 Jun 2026 17:04:24 +0000",
-      "url": "https://www.lispm.net/apps/uhf-x11/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "SMPTE Makes Its Standards Freely Accessible",
-      "title_neutral": "SMPTE Makes Its Standards Freely Accessible",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "SMPTE Makes Its Standards Freely Accessible",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 20 Jun 2026 17:01:36 +0000",
-      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
-      "title_neutral": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
-      "excerpt": "Travelling with a humanitarian convoy, BBC's Hugo Bachega has been given rare access to a part of Lebanon under Israeli occupation.",
-      "recap_neutral": "Travelling with a humanitarian convoy, BBC's Hugo Bachega has been given rare access to a part of Lebanon under Israeli occupation",
-      "main_idea": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 20 Jun 2026 16:37:03 GMT",
-      "url": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Zelensky returns highest Polish honour after award stripped",
       "title_neutral": "Zelensky returns highest Polish honour after award stripped",
       "excerpt": "Ukraine's president said his country was open to \"engagement\" about \"difficult and painful chapters of our shared past\".",
@@ -854,23 +1172,6 @@
       "source": "BBC World",
       "published_at": "Sat, 20 Jun 2026 15:31:12 GMT",
       "url": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Bolivian president declares state of emergency",
-      "title_neutral": "Bolivian president declares state of emergency",
-      "excerpt": "The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia.",
-      "recap_neutral": "The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia",
-      "main_idea": "Bolivian president declares state of emergency",
-      "tags": [
-        "politics"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 20 Jun 2026 15:27:09 GMT",
-      "url": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -994,43 +1295,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "World Leaders Awaited Iran Deal for Months. Here’s Why They’re Still Wary.",
-      "title_neutral": "World Leaders Awaited Iran Deal for Months. Here’s Why They’re Still Wary.",
-      "excerpt": "President Trump’s interim agreement with Iran raises hopes for the calming of the world economy. But it leaves many details for future negotiations, putting the world on edge.",
-      "recap_neutral": "President Trump’s interim agreement with Iran raises hopes for the calming of the world economy",
-      "main_idea": "World Leaders Awaited Iran Deal for Months. Here’s Why They’re Still Wary.",
-      "tags": [
-        "politics",
-        "economy",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 20 Jun 2026 09:02:41 +0000",
-      "url": "https://www.nytimes.com/2026/06/20/world/europe/world-iran-reaction.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trump Called Iván Cepeda a ‘Radical Left Marxist.’ Can He Be Colombia’s President?",
-      "title_neutral": "Trump Called Iván Cepeda a ‘Radical Left Marxist.’ Can He Be Colombia’s President?",
-      "excerpt": "Iván Cepeda was caught off guard by a right-wing outsider and anti-leftist anger. He tells The Times he is not giving up.",
-      "recap_neutral": "Iván Cepeda was caught off guard by a right-wing outsider and anti-leftist anger",
-      "main_idea": "Trump Called Iván Cepeda a ‘Radical Left Marxist.’ Can He Be Colombia’s President?",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 20 Jun 2026 09:00:34 +0000",
-      "url": "https://www.nytimes.com/2026/06/20/world/americas/ivan-cepeda-colombia-president-election.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Opinion: Algae doesn't care about our party lines",
       "title_neutral": "Opinion: Algae doesn't care about our party lines",
       "excerpt": "President Trump's beautification project of the Lincoln Memorial Reflecting Pool has become plagued with a robust algae bloom, despite a $14 million investment and a coating of \"American flag blue.\"",
@@ -1066,13 +1330,13 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran says Strait of Hormuz shut as U.S.-Iran talks set for Sunday in Switzerland",
-      "title_neutral": "Iran says Strait of Hormuz shut as U.S.-Iran talks set for Sunday in Switzerland",
-      "excerpt": "U.S. and Iranian teams are set to hold \"technical-level\" talks, according to Pakistan's foreign ministry. But fighting in Lebanon and claims over the Strait of Hormuz threaten a tentative agreement.",
-      "recap_neutral": "U",
-      "main_idea": "Iran says Strait of Hormuz shut as U.S.-Iran talks set for Sunday in Switzerland",
+      "title_original": "JD Vance arrives in Switzerland for talks with Iran over fragile peace deal",
+      "title_neutral": "JD Vance arrives in Switzerland for talks with Iran over fragile peace deal",
+      "excerpt": "JD Vance arrived in Switzerland on Sunday for talks with Iranian officials, hoping to consolidate the fragile interim deal to end the war and kickstart fresh discussions over Tehran's nuclear program.",
+      "recap_neutral": "JD Vance arrived in Switzerland on Sunday for talks with Iranian officials, hoping to consolidate the fragile interim deal to end the war and kickstart fresh discussions over Tehran's nuclear program",
+      "main_idea": "JD Vance arrives in Switzerland for talks with Iran over fragile peace deal",
       "tags": [
-        "tech"
+        "conflict"
       ],
       "source": "NPR",
       "published_at": "Sat, 20 Jun 2026 06:02:05 -0400",
@@ -1214,21 +1478,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
-      "title_neutral": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
-      "excerpt": "Best-known as co-creator of sitcom Cheers, Burrows directed more than 1,000 episodes of other classics including the Big Bang Theory and Will and Grace.",
-      "recap_neutral": "Best-known as co-creator of sitcom Cheers, Burrows directed more than 1,000 episodes of other classics including the Big Bang Theory and Will and Grace",
-      "main_idea": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 20 Jun 2026 00:23:46 GMT",
-      "url": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
