@@ -1,6 +1,56 @@
 {
-  "last_updated": "2026-06-24T21:19:27.040448+00:00",
+  "last_updated": "2026-06-24T22:44:59.964641+00:00",
   "items": [
+    {
+      "title_original": "Elastic lays off 7% of employees",
+      "title_neutral": "Elastic lays off 7% of employees",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Elastic lays off 7% of employees",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 24 Jun 2026 21:57:30 +0000",
+      "url": "https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+      "title_neutral": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+      "excerpt": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.",
+      "recap_neutral": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent",
+      "main_idea": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 24 Jun 2026 21:39:18 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "France Identifies Its First Case of Ebola",
+      "title_neutral": "France Identifies Its First Case of Ebola",
+      "excerpt": "A doctor who had traveled to the Democratic Republic of Congo was infected, the French health ministry said. The authorities said the risk to the wider population was low.",
+      "recap_neutral": "A doctor who had traveled to the Democratic Republic of Congo was infected, the French health ministry said",
+      "main_idea": "France Identifies Its First Case of Ebola",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Wed, 24 Jun 2026 21:37:56 +0000",
+      "url": "https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
     {
       "title_original": "Iran’s Loyalists Promote a Wider Nationalism, Unveiled Women Included",
       "title_neutral": "Iran’s Loyalists Promote a Wider Nationalism, Unveiled Women Included",
@@ -19,18 +69,50 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
-      "title_neutral": "Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
+      "title_original": "GCOIN Goes Live on XT.COM: Looking Past the Listings to the Engine Underneath",
+      "title_neutral": "GCOIN Goes Live on XT.COM: Looking Past the Listings to the Engine Underneath",
+      "excerpt": "\\ A token listing is the easiest milestone in crypto to announce and the hardest to interpret, because it tells you a great deal about a project's distribution strategy and almost nothing about whether the project works. Playnance , the Tel Aviv Web3 iGaming company founded in 2020, added another o…",
+      "recap_neutral": "\\ A token listing is the easiest milestone in crypto to announce and the hardest to interpret, because it tells you a great deal about a project's distribution strategy and almost nothing about whether the project works",
+      "main_idea": "GCOIN Goes Live on XT.COM: Looking Past the Listings to the Engine Underneath",
       "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 24 Jun 2026 20:20:33 +0000",
-      "url": "https://statusdude.com/blog/zero-downtime-docker-compose",
+      "source": "HackerNoon",
+      "published_at": "Wed, 24 Jun 2026 21:00:08 GMT",
+      "url": "https://hackernoon.com/gcoin-goes-live-on-xtcom-looking-past-the-listings-to-the-engine-underneath?source=rss",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Green Unit Tests: Why Are They a Comfort Blanket?",
+      "title_neutral": "Green Unit Tests: Why Are They a Comfort Blanket?",
+      "excerpt": "If your tool reads a file someone else made, your unit tests are a comfort blanket. Spend twenty lines on a property test before you trust them.",
+      "recap_neutral": "If your tool reads a file someone else made, your unit tests are a comfort blanket",
+      "main_idea": "Green Unit Tests: Why Are They a Comfort Blanket?",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Wed, 24 Jun 2026 20:56:53 GMT",
+      "url": "https://hackernoon.com/green-unit-tests-why-are-they-a-comfort-blanket?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "World Expands AgentKit so AI Agents Can Prove a Unique Human Is Behind Them",
+      "title_neutral": "World Expands AgentKit so AI Agents Can Prove a Unique Human Is Behind Them",
+      "excerpt": "World expanded AgentKit, its framework that lets a verified person delegate their World ID to an AI agent so the agent can prove, via zero-knowledge proof, that a unique human stands behind it. It now supports agents like Claude Code, Codex, and Cursor and integrates with Okta, Shopify, and Vercel,…",
+      "recap_neutral": "World expanded AgentKit, its framework that lets a verified person delegate their World ID to an AI agent so the agent can prove, via zero-knowledge proof, that a unique human stands behind it",
+      "main_idea": "World Expands AgentKit so AI Agents Can Prove a Unique Human Is Behind Them",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 24 Jun 2026 20:24:45 GMT",
+      "url": "https://hackernoon.com/world-expands-agentkit-so-ai-agents-can-prove-a-unique-human-is-behind-them?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -52,6 +134,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "243 Blog Posts To Learn About Cryptography",
+      "title_neutral": "243 Blog Posts To Learn About Cryptography",
+      "excerpt": "Let's learn about Cryptography via these 243 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. The art and science of encrypting your messages before sending them out. From Hitler's En…",
+      "recap_neutral": "Let's learn about Cryptography via these 243 free blog posts",
+      "main_idea": "243 Blog Posts To Learn About Cryptography",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 24 Jun 2026 20:00:08 GMT",
+      "url": "https://hackernoon.com/243-blog-posts-to-learn-about-cryptography?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "ICC Judges Sue Trump Administration Over Sanctions",
       "title_neutral": "ICC Judges Sue Trump Administration Over Sanctions",
       "excerpt": "Kimberly Prost, a Canadian judge at the International Criminal Court, and two colleagues are suing the administration, saying the sanctions were a form of retaliation.",
@@ -64,6 +163,42 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "From Volatility to Yield: BASIS.pro Reports Rising Arbitrage Opportunity Flow as Bitcoin Nears $62K",
+      "title_neutral": "From Volatility to Yield: BASIS.pro Reports Rising Arbitrage Opportunity Flow as Bitcoin Nears $62K",
+      "excerpt": "Victoria, Seychelles, June 24th, 2026/Chainwire/--Following new Base58 Labs market-structure research, BASIS says widening cross-venue dispersion is expanding the pool of screened market-neutral opportunities and strengthening dynamic staking reward conditions across BTC, ETH, SOL and PAXG. Bitcoin…",
+      "recap_neutral": "Victoria, Seychelles, June 24th, 2026/Chainwire/--Following new Base58 Labs market-structure research, BASIS says widening cross-venue dispersion is expanding the pool of screened market-neutral opportunities and streng…",
+      "main_idea": "From Volatility to Yield: BASIS.pro Reports Rising Arbitrage Opportunity Flow as Bitcoin Nears $62K",
+      "tags": [
+        "economy",
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 24 Jun 2026 18:57:37 GMT",
+      "url": "https://hackernoon.com/from-volatility-to-yield-basispro-reports-rising-arbitrage-opportunity-flow-as-bitcoin-nears-$62k?source=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Virell Trade Launches Stabliq Wallet For Stablecoin Management on Ethereum And TRON",
+      "title_neutral": "Virell Trade Launches Stabliq Wallet For Stablecoin Management on Ethereum And TRON",
+      "excerpt": "Ras Al Khaimah, UAE, June 24th, 2026/Chainwire/--Fintech developer Virell Trade has officially announced the launch of Stabliq Wallet , a secure, non-custodial cryptocurrency wallet engineered specifically for the management of stablecoins across the Ethereum and TRON networks. Designed to enhance…",
+      "recap_neutral": "Ras Al Khaimah, UAE, June 24th, 2026/Chainwire/--Fintech developer Virell Trade has officially announced the launch of Stabliq Wallet , a secure, non-custodial cryptocurrency wallet engineered specifically for the manag…",
+      "main_idea": "Virell Trade Launches Stabliq Wallet For Stablecoin Management on Ethereum And TRON",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 24 Jun 2026 18:45:35 GMT",
+      "url": "https://hackernoon.com/virell-trade-launches-stabliq-wallet-for-stablecoin-management-on-ethereum-and-tron?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -86,21 +221,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "France Identifies Its First Case of Ebola",
-      "title_neutral": "France Identifies Its First Case of Ebola",
-      "excerpt": "A doctor who had traveled to the Democratic Republic of Congo was infected, the French health ministry said. The authorities said the risk to the wider population was low.",
-      "recap_neutral": "A doctor who had traveled to the Democratic Republic of Congo was infected, the French health ministry said",
-      "main_idea": "France Identifies Its First Case of Ebola",
-      "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Wed, 24 Jun 2026 18:29:33 +0000",
-      "url": "https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html",
+      "title_original": "Inside the Motamot Dataset: Annotation & Quality Control for Bangla NLP",
+      "title_neutral": "Inside the Motamot Dataset: Annotation & Quality Control for Bangla NLP",
+      "excerpt": "Explore the curation, structure, and quality control of the Motamot dataset—a manually annotated 7,058-instance corpus for Bengali political opinion mining.",
+      "recap_neutral": "Explore the curation, structure, and quality control of the Motamot dataset—a manually annotated 7,058-instance corpus for Bengali political opinion mining",
+      "main_idea": "Inside the Motamot Dataset: Annotation & Quality Control for Bangla NLP",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Wed, 24 Jun 2026 18:30:04 GMT",
+      "url": "https://hackernoon.com/inside-the-motamot-dataset-annotation-and-quality-control-for-bangla-nlp?source=rss",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -122,18 +254,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
-      "title_neutral": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 24 Jun 2026 18:05:33 +0000",
-      "url": "https://posthog.com/blog/sql-parser",
+      "title_original": "Bangla NLP Architecture Guide: Pre-trained Transformers vs. Frontier LLMs",
+      "title_neutral": "Bangla NLP Architecture Guide: Pre-trained Transformers vs. Frontier LLMs",
+      "excerpt": "Compare the architectures of modern Bengali language models. Discover how localized PLMs like BanglaBERT and SahajBERT match up against the multi-lingual context windows of Gemini 1.5 Pro and GPT-3.5 Turbo.",
+      "recap_neutral": "Compare the architectures of modern Bengali language models",
+      "main_idea": "Bangla NLP Architecture Guide: Pre-trained Transformers vs. Frontier LLMs",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 24 Jun 2026 18:00:05 GMT",
+      "url": "https://hackernoon.com/bangla-nlp-architecture-guide-pre-trained-transformers-vs-frontier-llms?source=rss",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -206,23 +340,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Power outages hit France as it records hottest day since measurements began",
-      "title_neutral": "Power outages hit France as it records hottest day since measurements began",
-      "excerpt": "France has recorded it hottest day since records began in 1947, its national weather agency says, breaking a record set on Tuesday.",
-      "recap_neutral": "France has recorded it hottest day since records began in 1947, its national weather agency says, breaking a record set on Tuesday",
-      "main_idea": "Power outages hit France as it records hottest day since measurements began",
-      "tags": [
-        "climate"
-      ],
-      "source": "BBC World",
-      "published_at": "Wed, 24 Jun 2026 17:29:55 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Computer use in Gemini 3.5 Flash",
       "title_neutral": "Computer use in Gemini 3.5 Flash",
       "excerpt": "Comments",
@@ -285,6 +402,39 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Prompt Engineering Is Dead. Long Live Loop Engineering. | Fractera Blog",
+      "title_neutral": "Prompt Engineering Is Dead. Long Live Loop Engineering. | Fractera Blog",
+      "excerpt": "Boris Cherny doesn't prompt Claude anymore. He writes loops. Here's what that means for every engineer still optimizing their chat window prompts in 2026.",
+      "recap_neutral": "Boris Cherny doesn't prompt Claude anymore",
+      "main_idea": "Prompt Engineering Is Dead. Long Live Loop Engineering. | Fractera Blog",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Wed, 24 Jun 2026 16:15:10 GMT",
+      "url": "https://hackernoon.com/prompt-engineering-is-dead-long-live-loop-engineering-or-fractera-blog?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ransomware's New Math: Inside the £1.9 Billion Season That Redefined Critical-Infrastructure Risk",
+      "title_neutral": "Ransomware's New Math: Inside the £1.9 Billion Season That Redefined Critical-Infrastructure Risk",
+      "excerpt": "The 2025 attacks on Jaguar Land Rover and Collins Aerospace revealed that ransomware has evolved from a company-level threat into a systemic economic risk. JLR's disruption contributed to an estimated £1.9 billion in losses across the UK economy, while the compromise of Collins Aerospace's MUSE pla…",
+      "recap_neutral": "The 2025 attacks on Jaguar Land Rover and Collins Aerospace revealed that ransomware has evolved from a company-level threat into a systemic economic risk",
+      "main_idea": "Ransomware's New Math: Inside the £1.9 Billion Season That Redefined Critical-Infrastructure Risk",
+      "tags": [
+        "economy",
+        "conflict"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 24 Jun 2026 16:15:04 GMT",
+      "url": "https://hackernoon.com/ransomwares-new-math-inside-the-pound19-billion-season-that-redefined-critical-infrastructure-risk?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Myanmar’s Civil War Has Become an Apocalypse",
       "title_neutral": "Myanmar’s Civil War Has Become an Apocalypse",
       "excerpt": "Overshadowed by conflicts in Ukraine, Gaza and Lebanon, the fighting in Myanmar’s isolated heartland has reached new depths.",
@@ -332,6 +482,23 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The HackerNoon Newsletter: Code Smell 320 - Brushing Over Real Problems (6/24/2026)",
+      "title_neutral": "The HackerNoon Newsletter: Code Smell 320 - Brushing Over Real Problems (6/24/2026)",
+      "excerpt": "How are you, hacker? 🪐 What’s happening in tech today, June 24, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox. On this day, The NOAA-17 Satellite Was Launched in 2003, HP Released New ATM Capacities in 1996, The First French Astronaut Launched With the Soviet…",
+      "recap_neutral": "How are you, hacker? 🪐 What’s happening in tech today, June 24, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox",
+      "main_idea": "The HackerNoon Newsletter: Code Smell 320 - Brushing Over Real Problems (6/24/2026)",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 24 Jun 2026 16:04:32 GMT",
+      "url": "https://hackernoon.com/6-24-2026-newsletter?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -485,23 +652,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The Future Belongs to AI Products, Not AI Wrappers",
-      "title_neutral": "The Future Belongs to AI Products, Not AI Wrappers",
-      "excerpt": "Most AI agents are thin wrappers around foundation models, making them easy to build but difficult to defend. While wrappers can improve accessibility and user experience, their capabilities remain dependent on underlying model providers. Sustainable competitive advantage comes from proprietary dat…",
-      "recap_neutral": "Most AI agents are thin wrappers around foundation models, making them easy to build but difficult to defend",
-      "main_idea": "The Future Belongs to AI Products, Not AI Wrappers",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 24 Jun 2026 15:01:01 GMT",
-      "url": "https://hackernoon.com/the-future-belongs-to-ai-products-not-ai-wrappers?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "France confirms first Ebola case",
       "title_neutral": "France confirms first Ebola case",
       "excerpt": "The French doctor had been working in DR Congo, where more than 260 people are known to have died.",
@@ -531,23 +681,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Hormuz Disruption Is an Ecommerce Problem, Not Just a Logistics One",
-      "title_neutral": "The Hormuz Disruption Is an Ecommerce Problem, Not Just a Logistics One",
-      "excerpt": "A routine beauty purchase became a lesson in how global supply chain disruptions affect everyday consumers. While the Strait of Hormuz crisis created genuine shipping delays and inventory challenges, the article argues that the bigger problem for ecommerce brands is poor communication. Customers ar…",
-      "recap_neutral": "A routine beauty purchase became a lesson in how global supply chain disruptions affect everyday consumers",
-      "main_idea": "The Hormuz Disruption Is an Ecommerce Problem, Not Just a Logistics One",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 24 Jun 2026 14:55:20 GMT",
-      "url": "https://hackernoon.com/the-hormuz-disruption-is-an-ecommerce-problem-not-just-a-logistics-one?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -633,20 +766,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Building Enterprise AI Agents with Oracle Integration Cloud",
-      "title_neutral": "Building Enterprise AI Agents with Oracle Integration Cloud",
-      "excerpt": "Oracle Integration Cloud's new agentic AI capabilities allow organizations to transform existing integrations into AI-callable tools. Rather than rebuilding business logic inside new AI frameworks, enterprises can expose governed integrations, connect them to knowledge bases, enforce human oversigh…",
-      "recap_neutral": "Oracle Integration Cloud's new agentic AI capabilities allow organizations to transform existing integrations into AI-callable tools",
-      "main_idea": "Building Enterprise AI Agents with Oracle Integration Cloud",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 24 Jun 2026 14:06:11 GMT",
-      "url": "https://hackernoon.com/building-enterprise-ai-agents-with-oracle-integration-cloud?source=rss",
+      "title_original": "45°C cooling design cuts data center water use to near zero",
+      "title_neutral": "45°C cooling design cuts data center water use to near zero",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "45°C cooling design cuts data center water use to near zero",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 24 Jun 2026 14:10:11 +0000",
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
       "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -662,40 +793,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The TechBeat: Web Scraping as a Data Migration Strategy in 2026 (6/24/2026)",
-      "title_neutral": "The TechBeat: Web Scraping as a Data Migration Strategy in 2026 (6/24/2026)",
-      "excerpt": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here . ## When Copying The Physical World Helps The UI, and When It Doesn't By @laumski [ 6 Min read ] The iPh…",
-      "recap_neutral": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here",
-      "main_idea": "The TechBeat: Web Scraping as a Data Migration Strategy in 2026 (6/24/2026)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 24 Jun 2026 14:01:18 GMT",
-      "url": "https://hackernoon.com/6-24-2026-techbeat?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "133 Blog Posts To Learn About Blockchain Security",
-      "title_neutral": "133 Blog Posts To Learn About Blockchain Security",
-      "excerpt": "Let's learn about Blockchain Security via these 133 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. Blockchain security refers to the measures and protocols implemented to protect bl…",
-      "recap_neutral": "Let's learn about Blockchain Security via these 133 free blog posts",
-      "main_idea": "133 Blog Posts To Learn About Blockchain Security",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 24 Jun 2026 14:00:58 GMT",
-      "url": "https://hackernoon.com/133-blog-posts-to-learn-about-blockchain-security?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -731,23 +828,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "How We Built a Per-Plant CO2 Dataset for 4,551 Power Stations Worldwide",
-      "title_neutral": "How We Built a Per-Plant CO2 Dataset for 4,551 Power Stations Worldwide",
-      "excerpt": "The authors built and openly published a dataset covering 4,551 power stations worldwide, combining emissions, ownership, capacity, fuel type, and climate-zone data into a single schema. The project's central finding is that only about 15% of plant-level emissions data comes from direct measurement…",
-      "recap_neutral": "The authors built and openly published a dataset covering 4,551 power stations worldwide, combining emissions, ownership, capacity, fuel type, and climate-zone data into a single schema",
-      "main_idea": "How We Built a Per-Plant CO2 Dataset for 4,551 Power Stations Worldwide",
-      "tags": [
-        "climate"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 24 Jun 2026 13:37:30 GMT",
-      "url": "https://hackernoon.com/how-we-built-a-per-plant-co2-dataset-for-4551-power-stations-worldwide?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
       "title_neutral": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
       "excerpt": "Comments",
@@ -757,21 +837,6 @@
       "source": "Hacker News",
       "published_at": "Wed, 24 Jun 2026 13:29:18 +0000",
       "url": "https://lookaway.com",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Stealing Is a Skill",
-      "title_neutral": "Stealing Is a Skill",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Stealing Is a Skill",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 24 Jun 2026 13:08:52 +0000",
-      "url": "https://ben-mini.com/2026/stealing-is-a-skill",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -793,40 +858,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How to Secure a Self-Hosted CI/CD Runner on a VPS Without Turning It Into a Backdoor",
-      "title_neutral": "How to Secure a Self-Hosted CI/CD Runner on a VPS Without Turning It Into a Backdoor",
-      "excerpt": "A self-hosted CI/CD runner on a VPS should be treated like part of your production delivery chain, not just a build machine. Before using it, harden the server, disable risky SSH access, limit inbound traffic, isolate runners by trust level, keep secrets out of the VPS, avoid giving Docker jobs exc…",
-      "recap_neutral": "A self-hosted CI/CD runner on a VPS should be treated like part of your production delivery chain, not just a build machine",
-      "main_idea": "How to Secure a Self-Hosted CI/CD Runner on a VPS Without Turning It Into a Backdoor",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 24 Jun 2026 12:30:34 GMT",
-      "url": "https://hackernoon.com/how-to-secure-a-self-hosted-cicd-runner-on-a-vps-without-turning-it-into-a-backdoor?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Avmira Earns a 21.71 Proof of Usefulness Score by Building a Next-Generation Digital Education Platform",
-      "title_neutral": "Avmira Earns a 21.71 Proof of Usefulness Score by Building a Next-Generation Digital Education Platform",
-      "excerpt": "Avmira is an upcoming AI-powered education platform focused on practical technology learning, project-based developer education, and career-ready digital skills. Built with Next.js, TypeScript, Supabase, PostgreSQL, Cloudflare, and Vercel, the platform aims to help aspiring developers gain real-wor…",
-      "recap_neutral": "Avmira is an upcoming AI-powered education platform focused on practical technology learning, project-based developer education, and career-ready digital skills",
-      "main_idea": "Avmira Earns a 21.71 Proof of Usefulness Score by Building a Next-Generation Digital Education Platform",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 24 Jun 2026 12:20:57 GMT",
-      "url": "https://hackernoon.com/avmira-earns-a-2171-proof-of-usefulness-score-by-building-a-next-generation-digital-education-platform?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -862,41 +893,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "AI Doesn't Have a Data Problem—It Has a Decision Problem",
-      "title_neutral": "AI Doesn't Have a Data Problem—It Has a Decision Problem",
-      "excerpt": "Enterprises have spent years building data platforms and analytics systems, but many still struggle to turn insights into timely action. A new category, Decision Intelligence, combines real-time data, predictive models, AI agents, governance, and automation to shorten the distance between observati…",
-      "recap_neutral": "Enterprises have spent years building data platforms and analytics systems, but many still struggle to turn insights into timely action",
-      "main_idea": "AI Doesn't Have a Data Problem—It Has a Decision Problem",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 24 Jun 2026 12:06:56 GMT",
-      "url": "https://hackernoon.com/ai-doesnt-have-a-data-problemit-has-a-decision-problem?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Mobile Coding Is No Longer About Writing Code on Your Phone",
-      "title_neutral": "Mobile Coding Is No Longer About Writing Code on Your Phone",
-      "excerpt": "AI coding agents have changed software development from a synchronous activity into a long-running workflow that occasionally requires human input. Instead of coding directly on a phone, developers can use mobile devices as control surfaces for monitoring, reviewing, and approving work happening on…",
-      "recap_neutral": "AI coding agents have changed software development from a synchronous activity into a long-running workflow that occasionally requires human input",
-      "main_idea": "Mobile Coding Is No Longer About Writing Code on Your Phone",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 24 Jun 2026 11:58:08 GMT",
-      "url": "https://hackernoon.com/mobile-coding-is-no-longer-about-writing-code-on-your-phone?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -998,23 +994,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The End of Tech Media as We Knew It and What Is Replacing It",
-      "title_neutral": "The End of Tech Media as We Knew It and What Is Replacing It",
-      "excerpt": "Google AI is killing tech websites. A former media group owner explains why the classic online media model is broken and what is replacing it.",
-      "recap_neutral": "Google AI is killing tech websites",
-      "main_idea": "The End of Tech Media as We Knew It and What Is Replacing It",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 24 Jun 2026 10:00:01 GMT",
-      "url": "https://hackernoon.com/the-end-of-tech-media-as-we-knew-it-and-what-is-replacing-it?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1250,21 +1229,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Krea 2: SOTA open-weights 12B image model",
-      "title_neutral": "Krea 2: SOTA open-weights 12B image model",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Krea 2: SOTA open-weights 12B image model",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 23 Jun 2026 15:31:21 +0000",
-      "url": "https://www.krea.ai/blog/krea-2-technical-report",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Former Pinochet agents convicted over 1976 Washington DC carbomb murder",
       "title_neutral": "Former Pinochet agents convicted over 1976 Washington DC carbomb murder",
       "excerpt": "Attack targeted former Chile ambassador Orlando Letelier and his US colleague Ronni Karpen Moffitt Fifty years after Gen Augusto Pinochet ’s secret police detonated a car bomb in the heart of Washington DC , killing Orlando Letelier, a former Chilean minister and ambassador to the US, and his Ameri…",
@@ -1336,6 +1300,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "GLM-5.2 is a step change for open agents",
+      "title_neutral": "GLM-5.2 is a step change for open agents",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "GLM-5.2 is a step change for open agents",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 23 Jun 2026 03:23:28 +0000",
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Lost memoir of Hiroshima survivor found after decades in US archive",
       "title_neutral": "Lost memoir of Hiroshima survivor found after decades in US archive",
       "excerpt": "Written in 1947, Kiyoshi Tanimoto’s account of the horrors of the atomic bomb attack will be published in August and is being made into a film The memoir of a man who survived the horrors of Hiroshima is to be published for the first time this summer after its discovery in a US archive. The 230-pag…",
@@ -1353,240 +1332,242 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Директор РТДС: РФ и Таиланд будут двигаться к переводу торговли в нацвалюты",
-      "title_neutral": "Директор РТДС: РФ и Таиланд будут двигаться к переводу торговли в нацвалюты",
+      "title_original": "Трамп: в США проверят, завышают ли стоимость бензина Exxon, Chevron, Shell и BP",
+      "title_neutral": "Трамп: в США проверят, завышают ли стоимость бензина Exxon, Chevron, Shell и BP",
       "excerpt": "",
-      "recap_neutral": "Директор РТДС: РФ и Таиланд будут двигаться к переводу торговли в нацвалюты",
-      "main_idea": "Директор РТДС: РФ и Таиланд будут двигаться к переводу торговли в нацвалюты",
+      "recap_neutral": "Трамп: в США проверят, завышают ли стоимость бензина Exxon, Chevron, Shell и BP",
+      "main_idea": "Трамп: в США проверят, завышают ли стоимость бензина Exxon, Chevron, Shell и BP",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Thu, 25 Jun 2026 00:16:16 +0300",
-      "url": "https://tass.ru/ekonomika/27854117",
+      "published_at": "Thu, 25 Jun 2026 01:38:19 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27854177",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "СП: расходы на обслуживание госдолга в 2025 году составили 3,21 трлн рублей",
-      "title_neutral": "СП: расходы на обслуживание госдолга в 2025 году составили 3,21 трлн рублей",
-      "excerpt": "Это на 882,9 млрд рублей больше, чем годом ранее, следует из заключения Счетной палаты",
-      "recap_neutral": "Это на 882,9 млрд рублей больше, чем годом ранее, следует из заключения Счетной палаты",
-      "main_idea": "СП: расходы на обслуживание госдолга в 2025 году составили 3,21 трлн рублей",
+      "title_original": "В Венесуэле зафиксировали землетрясение магнитудой 7,1",
+      "title_neutral": "В Венесуэле зафиксировали землетрясение магнитудой 7,1",
+      "excerpt": "Информация о пострадавших и разрушениях не поступала",
+      "recap_neutral": "Информация о пострадавших и разрушениях не поступала",
+      "main_idea": "В Венесуэле зафиксировали землетрясение магнитудой 7,1",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Thu, 25 Jun 2026 00:15:22 +0300",
-      "url": "https://tass.ru/ekonomika/27854103",
+      "published_at": "Thu, 25 Jun 2026 01:36:56 +0300",
+      "url": "https://tass.ru/proisshestviya/27854173",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В СФ призвали усилить информирование школьников о телефонном мошенничестве",
-      "title_neutral": "В СФ призвали усилить информирование школьников о телефонном мошенничестве",
-      "excerpt": "Сенатор Айрат Гибатдинов считает, что школьные психологи, педагоги и классные руководители должны регулярно проводить с детьми разъяснительную работу в рамках \"Разговоров о важном\", уроков ОБЗР и других воспитательных мероприятий",
-      "recap_neutral": "Сенатор Айрат Гибатдинов считает, что школьные психологи, педагоги и классные руководители должны регулярно проводить с детьми разъяснительную работу в рамках \"Разговоров о важном\", уроков ОБЗР и других воспитательных м…",
-      "main_idea": "В СФ призвали усилить информирование школьников о телефонном мошенничестве",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 25 Jun 2026 00:08:58 +0300",
-      "url": "https://tass.ru/obschestvo/27854113",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Самолет радиолокационного обнаружения НАТО кружит у румынско-украинской границы",
-      "title_neutral": "Самолет радиолокационного обнаружения НАТО кружит у румынско-украинской границы",
+      "title_original": "В Японии произошло землетрясение магнитудой 6,9",
+      "title_neutral": "В Японии произошло землетрясение магнитудой 6,9",
       "excerpt": "",
-      "recap_neutral": "Самолет радиолокационного обнаружения НАТО кружит у румынско-украинской границы",
-      "main_idea": "Самолет радиолокационного обнаружения НАТО кружит у румынско-украинской границы",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 25 Jun 2026 00:07:51 +0300",
-      "url": "https://tass.ru/obschestvo/27854115",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Политолог Тети: Россия пережила ренессанс гуманизма при Путине",
-      "title_neutral": "Политолог Тети: Россия пережила ренессанс гуманизма при Путине",
-      "excerpt": "",
-      "recap_neutral": "Политолог Тети: Россия пережила ренессанс гуманизма при Путине",
-      "main_idea": "Политолог Тети: Россия пережила ренессанс гуманизма при Путине",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 25 Jun 2026 00:06:18 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27854111",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Трамп заявил, что удар по школе в Минабе в начале войны с Ираном нанесли не США",
-      "title_neutral": "Трамп заявил, что удар по школе в Минабе в начале войны с Ираном нанесли не США",
-      "excerpt": "Американский лидер отметил, что \"в то время выпускалось много ракет\"",
-      "recap_neutral": "Американский лидер отметил, что \"в то время выпускалось много ракет\"",
-      "main_idea": "Трамп заявил, что удар по школе в Минабе в начале войны с Ираном нанесли не США",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 25 Jun 2026 00:06:02 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27854109",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "СП выявила недостатки Минфина при исполнении бюджетных полномочий в 2025 году",
-      "title_neutral": "СП выявила недостатки Минфина при исполнении бюджетных полномочий в 2025 году",
-      "excerpt": "",
-      "recap_neutral": "СП выявила недостатки Минфина при исполнении бюджетных полномочий в 2025 году",
-      "main_idea": "СП выявила недостатки Минфина при исполнении бюджетных полномочий в 2025 году",
+      "recap_neutral": "В Японии произошло землетрясение магнитудой 6,9",
+      "main_idea": "В Японии произошло землетрясение магнитудой 6,9",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 25 Jun 2026 00:05:18 +0300",
-      "url": "https://tass.ru/ekonomika/27854099",
+      "published_at": "Thu, 25 Jun 2026 01:36:53 +0300",
+      "url": "https://tass.ru/proisshestviya/27854175",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Кабмин обсудит исполнение бюджета и законопроект о поддержке развития ИИ",
-      "title_neutral": "Кабмин обсудит исполнение бюджета и законопроект о поддержке развития ИИ",
-      "excerpt": "Правительство также рассмотрит поправки к законопроекту \"О внесении изменений в Уголовный кодекс РФ и Уголовно-процессуальный кодекс РФ\".",
-      "recap_neutral": "Правительство также рассмотрит поправки к законопроекту \"О внесении изменений в Уголовный кодекс РФ и Уголовно-процессуальный кодекс РФ\"",
-      "main_idea": "Кабмин обсудит исполнение бюджета и законопроект о поддержке развития ИИ",
+      "title_original": "Вирусолог Альтштейн: случай Эболы во Франции не несет рисков для России",
+      "title_neutral": "Вирусолог Альтштейн: случай Эболы во Франции не несет рисков для России",
+      "excerpt": "Для заражения необходим тесный контакт между здоровым и больным человеком, отметил главный научный сотрудник НИЦ эпидемиологии и микробиологии им. Н. Ф. Гамалеи",
+      "recap_neutral": "Для заражения необходим тесный контакт между здоровым и больным человеком, отметил главный научный сотрудник НИЦ эпидемиологии и микробиологии им",
+      "main_idea": "Вирусолог Альтштейн: случай Эболы во Франции не несет рисков для России",
       "tags": [
-        "politics",
-        "tech"
+        "tech",
+        "health"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 25 Jun 2026 00:03:37 +0300",
-      "url": "https://tass.ru/obschestvo/27854091",
+      "published_at": "Thu, 25 Jun 2026 01:33:42 +0300",
+      "url": "https://tass.ru/obschestvo/27854169",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В ГД предложили включить сайты социально ориентированных НКО в белые списки",
-      "title_neutral": "В ГД предложили включить сайты социально ориентированных НКО в белые списки",
-      "excerpt": "Письмо с таким предложением министру цифрового развития Максуту Шадаеву направил первый зампред комитета по контролю Дмитрий Гусев",
-      "recap_neutral": "Письмо с таким предложением министру цифрового развития Максуту Шадаеву направил первый зампред комитета по контролю Дмитрий Гусев",
-      "main_idea": "В ГД предложили включить сайты социально ориентированных НКО в белые списки",
+      "title_original": "Эксперт Гринь: массового выхода на пенсию по старости в 2027 году не будет",
+      "title_neutral": "Эксперт Гринь: массового выхода на пенсию по старости в 2027 году не будет",
+      "excerpt": "Лектор общества \"Знание\" отметила, что завершение переходного периода не повлияет на назначение выплат по досрочным основаниям",
+      "recap_neutral": "Лектор общества \"Знание\" отметила, что завершение переходного периода не повлияет на назначение выплат по досрочным основаниям",
+      "main_idea": "Эксперт Гринь: массового выхода на пенсию по старости в 2027 году не будет",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Thu, 25 Jun 2026 00:02:53 +0300",
-      "url": "https://tass.ru/obschestvo/27854093",
+      "published_at": "Thu, 25 Jun 2026 01:32:02 +0300",
+      "url": "https://tass.ru/obschestvo/27854171",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Расчет РЭБ ефрейтора Вахрушева нейтрализовал беспилотники ВСУ",
-      "title_neutral": "Расчет РЭБ ефрейтора Вахрушева нейтрализовал беспилотники ВСУ",
-      "excerpt": "Благодаря действиям военного удалось избежать потерь среди личного состава и техники подразделения ВС РФ",
-      "recap_neutral": "Благодаря действиям военного удалось избежать потерь среди личного состава и техники подразделения ВС РФ",
-      "main_idea": "Расчет РЭБ ефрейтора Вахрушева нейтрализовал беспилотники ВСУ",
+      "title_original": "На Камчатке для поиска пропавших рыбаков подняли вертолет компании",
+      "title_neutral": "На Камчатке для поиска пропавших рыбаков подняли вертолет компании",
+      "excerpt": "Трое рыбаков пропали 23 июня в Авачинском заливе после опрокидывания катера",
+      "recap_neutral": "Трое рыбаков пропали 23 июня в Авачинском заливе после опрокидывания катера",
+      "main_idea": "На Камчатке для поиска пропавших рыбаков подняли вертолет компании",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 25 Jun 2026 00:02:32 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27854105",
+      "published_at": "Thu, 25 Jun 2026 01:22:52 +0300",
+      "url": "https://tass.ru/proisshestviya/27854167",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Рютте устроил Трампу маркетинговую презентацию НАТО и пообещал ему $1 трлн",
-      "title_neutral": "Рютте устроил Трампу маркетинговую презентацию НАТО и пообещал ему $1 трлн",
-      "excerpt": "Обратившись к американским журналистам, генсек альянса назвал лидера США \"великолепным президентом\" и сравнил его с Дуайтом Эйзенхауэром",
-      "recap_neutral": "Обратившись к американским журналистам, генсек альянса назвал лидера США \"великолепным президентом\" и сравнил его с Дуайтом Эйзенхауэром",
-      "main_idea": "Рютте устроил Трампу маркетинговую презентацию НАТО и пообещал ему $1 трлн",
+      "title_original": "Директор РТДС: Таиланд заинтересован в закупке российских энергоресурсов",
+      "title_neutral": "Директор РТДС: Таиланд заинтересован в закупке российских энергоресурсов",
+      "excerpt": "Россия является крупнейшим и наиболее надежным поставщиком энергоресурсов на рынки третьих стран, отметил Владимир Ковалев",
+      "recap_neutral": "Россия является крупнейшим и наиболее надежным поставщиком энергоресурсов на рынки третьих стран, отметил Владимир Ковалев",
+      "main_idea": "Директор РТДС: Таиланд заинтересован в закупке российских энергоресурсов",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 25 Jun 2026 01:16:31 +0300",
+      "url": "https://tass.ru/ekonomika/27854161",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Сочи ввели временные ограничения",
+      "title_neutral": "В аэропорту Сочи ввели временные ограничения",
+      "excerpt": "Они необходимы для обеспечения безопасности полетов",
+      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
+      "main_idea": "В аэропорту Сочи ввели временные ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 25 Jun 2026 01:14:34 +0300",
+      "url": "https://tass.ru/ekonomika/27854157",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В России появился новый ГОСТ на защитную экипировку для игры в хоккей",
+      "title_neutral": "В России появился новый ГОСТ на защитную экипировку для игры в хоккей",
+      "excerpt": "Стандарт устанавливает термины и их определения, требования к эргономике, безопасности, маркировке, а также информации изготовителя",
+      "recap_neutral": "Стандарт устанавливает термины и их определения, требования к эргономике, безопасности, маркировке, а также информации изготовителя",
+      "main_idea": "В России появился новый ГОСТ на защитную экипировку для игры в хоккей",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 25 Jun 2026 01:12:38 +0300",
+      "url": "https://tass.ru/sport/27854155",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ДР Конго количество умерших от Эболы превысило 290",
+      "title_neutral": "В ДР Конго количество умерших от Эболы превысило 290",
+      "excerpt": "В больницах и медицинских изоляторах находятся 408 пациентов",
+      "recap_neutral": "В больницах и медицинских изоляторах находятся 408 пациентов",
+      "main_idea": "В ДР Конго количество умерших от Эболы превысило 290",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 25 Jun 2026 01:11:39 +0300",
+      "url": "https://tass.ru/obschestvo/27854153",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Петербурге в день праздника \"Алые паруса\" прогнозируют теплую погоду без дождя",
+      "title_neutral": "В Петербурге в день праздника \"Алые паруса\" прогнозируют теплую погоду без дождя",
+      "excerpt": "Температура воздуха вечером составит плюс 20 градусов, сообщил главный синоптик города Александр Колесов",
+      "recap_neutral": "Температура воздуха вечером составит плюс 20 градусов, сообщил главный синоптик города Александр Колесов",
+      "main_idea": "В Петербурге в день праздника \"Алые паруса\" прогнозируют теплую погоду без дождя",
+      "tags": [
+        "climate"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 25 Jun 2026 01:03:46 +0300",
+      "url": "https://tass.ru/obschestvo/27854147",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Марочко: силы РФ на 15 км вклинились в оборону ВСУ в Сумской области",
+      "title_neutral": "Марочко: силы РФ на 15 км вклинились в оборону ВСУ в Сумской области",
+      "excerpt": "Это стало возможным после взятия под контроль Иволжанского, сообщил военный эксперт",
+      "recap_neutral": "Это стало возможным после взятия под контроль Иволжанского, сообщил военный эксперт",
+      "main_idea": "Марочко: силы РФ на 15 км вклинились в оборону ВСУ в Сумской области",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 25 Jun 2026 01:03:01 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27854145",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп заявил, что лично вручит кубок победителям чемпионата мира по футболу",
+      "title_neutral": "Трамп заявил, что лично вручит кубок победителям чемпионата мира по футболу",
+      "excerpt": "Американский лидер отметил, что президент ФИФА Джанни Инфантино проделал фантастическую работу",
+      "recap_neutral": "Американский лидер отметил, что президент ФИФА Джанни Инфантино проделал фантастическую работу",
+      "main_idea": "Трамп заявил, что лично вручит кубок победителям чемпионата мира по футболу",
       "tags": [
         "politics"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 25 Jun 2026 00:02:30 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27854085",
+      "published_at": "Thu, 25 Jun 2026 00:56:51 +0300",
+      "url": "https://tass.ru/sport/27854143",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Казначейство РФ исполнило расходы бюджета в 2025 году на высоком уровне",
-      "title_neutral": "Казначейство РФ исполнило расходы бюджета в 2025 году на высоком уровне",
-      "excerpt": "Неисполненные бюджетные назначения составили 14,5 млн рублей, говорится в заключении Счетной палаты",
-      "recap_neutral": "Неисполненные бюджетные назначения составили 14,5 млн рублей, говорится в заключении Счетной палаты",
-      "main_idea": "Казначейство РФ исполнило расходы бюджета в 2025 году на высоком уровне",
+      "title_original": "Трамп не поехал бы на саммит НАТО, если бы не Эрдоган",
+      "title_neutral": "Трамп не поехал бы на саммит НАТО, если бы не Эрдоган",
+      "excerpt": "Американский лидер разочарован тем, что союзники США по альянсу не оказали помощь Вашингтону во время конфликта с Ираном",
+      "recap_neutral": "Американский лидер разочарован тем, что союзники США по альянсу не оказали помощь Вашингтону во время конфликта с Ираном",
+      "main_idea": "Трамп не поехал бы на саммит НАТО, если бы не Эрдоган",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 25 Jun 2026 00:54:29 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27854139",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: трое судей МУС подали иск в суд США, оспаривая санкции",
+      "title_neutral": "ТАСС: трое судей МУС подали иск в суд США, оспаривая санкции",
+      "excerpt": "Судьи утверждают, что указ американского лидера Дональда Трампа о рестрикциях выходит за пределы его полномочий, сообщил дипломатический источник",
+      "recap_neutral": "Судьи утверждают, что указ американского лидера Дональда Трампа о рестрикциях выходит за пределы его полномочий, сообщил дипломатический источник",
+      "main_idea": "ТАСС: трое судей МУС подали иск в суд США, оспаривая санкции",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 25 Jun 2026 00:01:46 +0300",
-      "url": "https://tass.ru/ekonomika/27854101",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Санкт-Петербурге стартует X Международный Невский форум",
-      "title_neutral": "В Санкт-Петербурге стартует X Международный Невский форум",
-      "excerpt": "В нем примут участие около 1,7 тыс. человек",
-      "recap_neutral": "В нем примут участие около 1,7 тыс",
-      "main_idea": "В Санкт-Петербурге стартует X Международный Невский форум",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 25 Jun 2026 00:01:46 +0300",
-      "url": "https://tass.ru/obschestvo/27854095",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Сборная Катара лишилась шансов на выход в плей-офф чемпионата мира по футболу",
-      "title_neutral": "Сборная Катара лишилась шансов на выход в плей-офф чемпионата мира по футболу",
-      "excerpt": "В заключительном туре катарцы проиграли команде Боснии и Герцеговины со счетом 1:3",
-      "recap_neutral": "В заключительном туре катарцы проиграли команде Боснии и Герцеговины со счетом 1:3",
-      "main_idea": "Сборная Катара лишилась шансов на выход в плей-офф чемпионата мира по футболу",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 25 Jun 2026 00:00:23 +0300",
-      "url": "https://tass.ru/sport/27854087",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Военная операция на Украине. Онлайн",
-      "title_neutral": "Военная операция на Украине. Онлайн",
-      "excerpt": "",
-      "recap_neutral": "Военная операция на Украине. Онлайн",
-      "main_idea": "Военная операция на Украине. Онлайн",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 25 Jun 2026 00:00:01 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27850741",
+      "published_at": "Thu, 25 Jun 2026 00:50:04 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27854141",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
@@ -1610,6 +1591,36 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
+      "title_neutral": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 21 Jun 2026 14:12:48 +0000",
+      "url": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Robotics Teams Are Rebuilding the Data Stack from Scratch",
+      "title_neutral": "Robotics Teams Are Rebuilding the Data Stack from Scratch",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Robotics Teams Are Rebuilding the Data Stack from Scratch",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 21 Jun 2026 12:57:10 +0000",
+      "url": "https://rerun.io/blog/data-layer-tax",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
       "title_neutral": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
       "excerpt": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the haunting swell of Shosholoza , first sung by Zimbabwean migrant…",
@@ -1624,21 +1635,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Pull request limits are cutting down the noise",
-      "title_neutral": "Pull request limits are cutting down the noise",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Pull request limits are cutting down the noise",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 19 Jun 2026 10:03:10 +0000",
-      "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
