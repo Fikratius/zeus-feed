@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-06-27T00:01:33.493189+00:00",
+  "last_updated": "2026-06-27T04:32:33.256774+00:00",
   "items": [
+    {
+      "title_original": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+      "title_neutral": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 24 Jun 2026 17:20:48 +0000",
+      "url": "https://github.com/dbos-inc/dbosify-py",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
     {
       "title_original": "France confirms first Ebola case in doctor who had worked in DRC",
       "title_neutral": "France confirms first Ebola case in doctor who had worked in DRC",
@@ -20,15 +35,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
-      "title_neutral": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
+      "title_original": "Making Sense of Proof by Contradiction [pdf]",
+      "title_neutral": "Making Sense of Proof by Contradiction [pdf]",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
+      "main_idea": "Making Sense of Proof by Contradiction [pdf]",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Tue, 23 Jun 2026 12:45:09 +0000",
-      "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
+      "published_at": "Tue, 23 Jun 2026 12:00:13 +0000",
+      "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -85,21 +100,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A Tiny Compiler for Data-Parallel Kernels",
-      "title_neutral": "A Tiny Compiler for Data-Parallel Kernels",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "A Tiny Compiler for Data-Parallel Kernels",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 25 Jun 2026 13:32:12 +0000",
-      "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Papua New Guinea at risk of food shortages as El Niño brings frost and drought",
       "title_neutral": "Papua New Guinea at risk of food shortages as El Niño brings frost and drought",
       "excerpt": "Oxfam predicts PNG will be worst-hit country in Pacific from the weather pattern, with up to 3 million people affected nationwide Families across Papua New Guinea’s Highlands are facing depleted harvests and the threat of hunger after the El Niño weather pattern brought frost and prolonged dry cond…",
@@ -117,247 +117,268 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Родригес поблагодарила США за помощь в ликвидации последствий землетрясения",
-      "title_neutral": "Родригес поблагодарила США за помощь в ликвидации последствий землетрясения",
-      "excerpt": "Уполномоченный президент Венесуэлы заявила, что президент США Дональд Трамп и государственный секретарь Марко Рубио заявили о готовности поддержать усилия по ликвидации последствий стихийного бедствия",
-      "recap_neutral": "Уполномоченный президент Венесуэлы заявила, что президент США Дональд Трамп и государственный секретарь Марко Рубио заявили о готовности поддержать усилия по ликвидации последствий стихийного бедствия",
-      "main_idea": "Родригес поблагодарила США за помощь в ликвидации последствий землетрясения",
+      "title_original": "В Приморье арестовали одного из трех обвиняемых в похищении ребенка",
+      "title_neutral": "В Приморье арестовали одного из трех обвиняемых в похищении ребенка",
+      "excerpt": "Как сообщили в следственном управлении СК по региону, двоим из трех фигурантов 17 лет, третьему 18 лет",
+      "recap_neutral": "Как сообщили в следственном управлении СК по региону, двоим из трех фигурантов 17 лет, третьему 18 лет",
+      "main_idea": "В Приморье арестовали одного из трех обвиняемых в похищении ребенка",
       "tags": [
-        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 07:27:54 +0300",
+      "url": "https://tass.ru/proisshestviya/27862813",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Над Тульской областью сбили семь украинских БПЛА",
+      "title_neutral": "Над Тульской областью сбили семь украинских БПЛА",
+      "excerpt": "Пострадавших нет, сообщил губернатор региона Дмитрий Миляев",
+      "recap_neutral": "Пострадавших нет, сообщил губернатор региона Дмитрий Миляев",
+      "main_idea": "Над Тульской областью сбили семь украинских БПЛА",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 07:26:10 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27862831",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МО публикует кадры удара \"Геранью-2 Сикер\" по объектам энергоинфраструктуры ВСУ",
+      "title_neutral": "МО публикует кадры удара \"Геранью-2 Сикер\" по объектам энергоинфраструктуры ВСУ",
+      "excerpt": "По данным ведомства, в результате обесточены несколько промышленных объектов противника",
+      "recap_neutral": "По данным ведомства, в результате обесточены несколько промышленных объектов противника",
+      "main_idea": "МО публикует кадры удара \"Геранью-2 Сикер\" по объектам энергоинфраструктуры ВСУ",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 07:26:03 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27862823",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ГД рассказали о новой схеме мошенников с кражей сайтов под видом проверок РКН",
+      "title_neutral": "В ГД рассказали о новой схеме мошенников с кражей сайтов под видом проверок РКН",
+      "excerpt": "Злоумышленники пугают владельцев сайтов штрафами за нарушения требований к идентификации доменов, получают доступ к административной панели, а затем требуют деньги за возврат контроля над ним, сообщил заместитель председателя комитета по бюджету и налогам Каплан Панеш",
+      "recap_neutral": "Злоумышленники пугают владельцев сайтов штрафами за нарушения требований к идентификации доменов, получают доступ к административной панели, а затем требуют деньги за возврат контроля над ним, сообщил заместитель предсе…",
+      "main_idea": "В ГД рассказали о новой схеме мошенников с кражей сайтов под видом проверок РКН",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 07:24:38 +0300",
+      "url": "https://tass.ru/obschestvo/27862829",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Эксперт Коложвари рассказал, каким компаниям актуален выход на IPO в 2026 году",
+      "title_neutral": "Эксперт Коложвари рассказал, каким компаниям актуален выход на IPO в 2026 году",
+      "excerpt": "Речь о крупных организациях, экспортерах и технологичных компаниях, отметил кандидат экономических наук, руководитель Высшей школы бизнеса Новосибирского государственного университета экономики и управления",
+      "recap_neutral": "Речь о крупных организациях, экспортерах и технологичных компаниях, отметил кандидат экономических наук, руководитель Высшей школы бизнеса Новосибирского государственного университета экономики и управления",
+      "main_idea": "Эксперт Коложвари рассказал, каким компаниям актуален выход на IPO в 2026 году",
+      "tags": [
+        "economy",
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 02:51:33 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27862523",
+      "published_at": "Sat, 27 Jun 2026 07:21:20 +0300",
+      "url": "https://tass.ru/ekonomika/27862795",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Нетаньяху назвал соглашение по Ливану \"ударом для Ирана\"",
-      "title_neutral": "Нетаньяху назвал соглашение по Ливану \"ударом для Ирана\"",
-      "excerpt": "Премьер-министр Израиля заявил, что страна пока не будет выводить войска из Южного Ливана по соображениям безопасности",
-      "recap_neutral": "Премьер-министр Израиля заявил, что страна пока не будет выводить войска из Южного Ливана по соображениям безопасности",
-      "main_idea": "Нетаньяху назвал соглашение по Ливану \"ударом для Ирана\"",
+      "title_original": "Российского игрока на драфте НХЛ снова выбрали под 20-м номером",
+      "title_neutral": "Российского игрока на драфте НХЛ снова выбрали под 20-м номером",
+      "excerpt": "\"Баффало\" выбрал нападающего Илью Морозова",
+      "recap_neutral": "\"Баффало\" выбрал нападающего Илью Морозова",
+      "main_idea": "Российского игрока на драфте НХЛ снова выбрали под 20-м номером",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 07:19:40 +0300",
+      "url": "https://tass.ru/sport/27862817",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Brand Analytics назвал профессии, которые сможет заменить ИИ",
+      "title_neutral": "Brand Analytics назвал профессии, которые сможет заменить ИИ",
+      "excerpt": "По данным исследования, нейросети способны заменить лингвистов, переводчиков, копирайтеров и начинающих программистов",
+      "recap_neutral": "По данным исследования, нейросети способны заменить лингвистов, переводчиков, копирайтеров и начинающих программистов",
+      "main_idea": "Brand Analytics назвал профессии, которые сможет заменить ИИ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 07:18:01 +0300",
+      "url": "https://tass.ru/ekonomika/27862793",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МИД РФ: Запад поставил Ближний Восток на грань масштабной войны и взялся за Балканы",
+      "title_neutral": "МИД РФ: Запад поставил Ближний Восток на грань масштабной войны и взялся за Балканы",
+      "excerpt": "",
+      "recap_neutral": "МИД РФ: Запад поставил Ближний Восток на грань масштабной войны и взялся за Балканы",
+      "main_idea": "МИД РФ: Запад поставил Ближний Восток на грань масштабной войны и взялся за Балканы",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 02:38:37 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27862521",
+      "published_at": "Sat, 27 Jun 2026 07:16:45 +0300",
+      "url": "https://tass.ru/politika/27862805",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Месси начнет матч против команды Иордании на скамейке запасных",
-      "title_neutral": "Месси начнет матч против команды Иордании на скамейке запасных",
-      "excerpt": "Главный тренер аргентинцев Лионель Скалони сообщил, что форвард выйдет на поле во втором тайме",
-      "recap_neutral": "Главный тренер аргентинцев Лионель Скалони сообщил, что форвард выйдет на поле во втором тайме",
-      "main_idea": "Месси начнет матч против команды Иордании на скамейке запасных",
+      "title_original": "В России с 1 июля упростят сбор данных для больничных и детских пособий",
+      "title_neutral": "В России с 1 июля упростят сбор данных для больничных и детских пособий",
+      "excerpt": "",
+      "recap_neutral": "В России с 1 июля упростят сбор данных для больничных и детских пособий",
+      "main_idea": "В России с 1 июля упростят сбор данных для больничных и детских пособий",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 02:31:26 +0300",
-      "url": "https://tass.ru/sport/27862517",
+      "published_at": "Sat, 27 Jun 2026 07:16:41 +0300",
+      "url": "https://tass.ru/obschestvo/27862809",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Маккенна выбран \"Торонто\" под первым номером на драфте НХЛ",
-      "title_neutral": "Маккенна выбран \"Торонто\" под первым номером на драфте НХЛ",
-      "excerpt": "Под вторым номером \"Сан-Хосе\" выбрал Ивара Стенберга, третьим номером драфта стал Калеба Малотра (\"Ванкувер\")",
-      "recap_neutral": "Под вторым номером \"Сан-Хосе\" выбрал Ивара Стенберга, третьим номером драфта стал Калеба Малотра (\"Ванкувер\")",
-      "main_idea": "Маккенна выбран \"Торонто\" под первым номером на драфте НХЛ",
+      "title_original": "Посол МИД РФ: НАТО милитаризирует Арктику и стремится зайти туда со всеми инструментами",
+      "title_neutral": "Посол МИД РФ: НАТО милитаризирует Арктику и стремится зайти туда со всеми инструментами",
+      "excerpt": "",
+      "recap_neutral": "Посол МИД РФ: НАТО милитаризирует Арктику и стремится зайти туда со всеми инструментами",
+      "main_idea": "Посол МИД РФ: НАТО милитаризирует Арктику и стремится зайти туда со всеми инструментами",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 02:28:55 +0300",
-      "url": "https://tass.ru/sport/27862515",
+      "published_at": "Sat, 27 Jun 2026 07:15:47 +0300",
+      "url": "https://tass.ru/politika/27862807",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Сумах произошли взрывы",
-      "title_neutral": "В Сумах произошли взрывы",
-      "excerpt": "В регионе действует режим воздушной тревоги",
-      "recap_neutral": "В регионе действует режим воздушной тревоги",
-      "main_idea": "В Сумах произошли взрывы",
-      "tags": [],
+      "title_original": "МИД РФ: Запад разжигает конфликты во всех частях Евразии",
+      "title_neutral": "МИД РФ: Запад разжигает конфликты во всех частях Евразии",
+      "excerpt": "",
+      "recap_neutral": "МИД РФ: Запад разжигает конфликты во всех частях Евразии",
+      "main_idea": "МИД РФ: Запад разжигает конфликты во всех частях Евразии",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
       "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 02:24:00 +0300",
-      "url": "https://tass.ru/proisshestviya/27862513",
+      "published_at": "Sat, 27 Jun 2026 07:15:46 +0300",
+      "url": "https://tass.ru/politika/27862803",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Домодедове сняли временные ограничения",
-      "title_neutral": "В Домодедове сняли временные ограничения",
-      "excerpt": "Их вводили для обеспечения безопасности полетов",
-      "recap_neutral": "Их вводили для обеспечения безопасности полетов",
-      "main_idea": "В Домодедове сняли временные ограничения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 02:23:31 +0300",
-      "url": "https://tass.ru/ekonomika/27862509",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Внуково и Домодедово обслуживают рейсы по согласованию",
-      "title_neutral": "Внуково и Домодедово обслуживают рейсы по согласованию",
-      "excerpt": "Меры приняты для обеспечения безопасности полетов, пояснили в Росавиации",
-      "recap_neutral": "Меры приняты для обеспечения безопасности полетов, пояснили в Росавиации",
-      "main_idea": "Внуково и Домодедово обслуживают рейсы по согласованию",
+      "title_original": "\"Авито услуги\": в России вырос спрос на детских футбольных тренеров",
+      "title_neutral": "\"Авито услуги\": в России вырос спрос на детских футбольных тренеров",
+      "excerpt": "Интерес к специалистам поднялся на фоне чемпионата мира, отметили в сервисе",
+      "recap_neutral": "Интерес к специалистам поднялся на фоне чемпионата мира, отметили в сервисе",
+      "main_idea": "\"Авито услуги\": в России вырос спрос на детских футбольных тренеров",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 02:14:54 +0300",
-      "url": "https://tass.ru/ekonomika/27862507",
+      "published_at": "Sat, 27 Jun 2026 07:15:42 +0300",
+      "url": "https://tass.ru/sport/27862801",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Число пострадавших из-за землетрясения вблизи Токио выросло до шести",
-      "title_neutral": "Число пострадавших из-за землетрясения вблизи Токио выросло до шести",
-      "excerpt": "В нескольких районах городов Кофу и Фудзиёсида зафиксировано обрушение стен и частичное разрушение некоторых зданий",
-      "recap_neutral": "В нескольких районах городов Кофу и Фудзиёсида зафиксировано обрушение стен и частичное разрушение некоторых зданий",
-      "main_idea": "Число пострадавших из-за землетрясения вблизи Токио выросло до шести",
+      "title_original": "Эксперт Коршунов: ремонт квартир с начала года подорожал на 5-6%",
+      "title_neutral": "Эксперт Коршунов: ремонт квартир с начала года подорожал на 5-6%",
+      "excerpt": "",
+      "recap_neutral": "Эксперт Коршунов: ремонт квартир с начала года подорожал на 5-6%",
+      "main_idea": "Эксперт Коршунов: ремонт квартир с начала года подорожал на 5-6%",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 02:13:54 +0300",
-      "url": "https://tass.ru/proisshestviya/27862503",
+      "published_at": "Sat, 27 Jun 2026 07:13:52 +0300",
+      "url": "https://tass.ru/ekonomika/27862797",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Опрошенные россияне считают, что молодость длится до 42 лет",
-      "title_neutral": "Опрошенные россияне считают, что молодость длится до 42 лет",
-      "excerpt": "По данным центра исследований Российского общества \"Знание\", каждый восьмой респондент уверен, что молодые годы могут продолжаться до 60 лет и дольше",
-      "recap_neutral": "По данным центра исследований Российского общества \"Знание\", каждый восьмой респондент уверен, что молодые годы могут продолжаться до 60 лет и дольше",
-      "main_idea": "Опрошенные россияне считают, что молодость длится до 42 лет",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 02:07:26 +0300",
-      "url": "https://tass.ru/obschestvo/27862499",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Марочко: ВС РФ зачищают местность у ж/д дороги по всему Красному Лиману",
-      "title_neutral": "Марочко: ВС РФ зачищают местность у ж/д дороги по всему Красному Лиману",
-      "excerpt": "Российские войска в том числе продвигаются в лесополосе юго-западнее города, отметил военный эксперт",
-      "recap_neutral": "Российские войска в том числе продвигаются в лесополосе юго-западнее города, отметил военный эксперт",
-      "main_idea": "Марочко: ВС РФ зачищают местность у ж/д дороги по всему Красному Лиману",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 02:01:27 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27862497",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "МИД РФ: западные попытки финансово-экономического удушения России безуспешны",
-      "title_neutral": "МИД РФ: западные попытки финансово-экономического удушения России безуспешны",
-      "excerpt": "Подобные меры со стороны Запада являются инструментом, \"который используется против геополитических конкурентов\", отметил посол по особым поручениям российского дипведомства Александр Трофимов",
-      "recap_neutral": "Подобные меры со стороны Запада являются инструментом, \"который используется против геополитических конкурентов\", отметил посол по особым поручениям российского дипведомства Александр Трофимов",
-      "main_idea": "МИД РФ: западные попытки финансово-экономического удушения России безуспешны",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 02:00:50 +0300",
-      "url": "https://tass.ru/politika/27862495",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Названа доля праворульных машин в России",
-      "title_neutral": "Названа доля праворульных машин в России",
-      "excerpt": "Доцент кафедры информатики РЭУ имени Плеханова Александр Тимофеев заявил, что их число достигло 4 млн, или более 8% от всего автопарка",
-      "recap_neutral": "Доцент кафедры информатики РЭУ имени Плеханова Александр Тимофеев заявил, что их число достигло 4 млн, или более 8% от всего автопарка",
-      "main_idea": "Названа доля праворульных машин в России",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 01:47:35 +0300",
-      "url": "https://tass.ru/ekonomika/27862485",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Эксперт Сафонов рассказал, у каких категорий россиян с 1 июля вырастет пенсия",
-      "title_neutral": "Эксперт Сафонов рассказал, у каких категорий россиян с 1 июля вырастет пенсия",
-      "excerpt": "Речь идет о гражданах, которым исполнилось 80 лет, а также о получивших I группу инвалидности, сообщил профессор Финансового университета при правительстве РФ",
-      "recap_neutral": "Речь идет о гражданах, которым исполнилось 80 лет, а также о получивших I группу инвалидности, сообщил профессор Финансового университета при правительстве РФ",
-      "main_idea": "Эксперт Сафонов рассказал, у каких категорий россиян с 1 июля вырастет пенсия",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 01:43:10 +0300",
-      "url": "https://tass.ru/ekonomika/27862493",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Венесуэле зафиксировали землетрясение магнитудой 4,9",
-      "title_neutral": "В Венесуэле зафиксировали землетрясение магнитудой 4,9",
-      "excerpt": "Информации о пострадавших и разрушениях не поступало",
-      "recap_neutral": "Информации о пострадавших и разрушениях не поступало",
-      "main_idea": "В Венесуэле зафиксировали землетрясение магнитудой 4,9",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 01:41:10 +0300",
-      "url": "https://tass.ru/proisshestviya/27862491",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Сочи объявили угрозу атаки БПЛА",
-      "title_neutral": "В Сочи объявили угрозу атаки БПЛА",
-      "excerpt": "Об этом сообщил мэр города Андрей Прошунин",
-      "recap_neutral": "Об этом сообщил мэр города Андрей Прошунин",
-      "main_idea": "В Сочи объявили угрозу атаки БПЛА",
+      "title_original": "ВС РФ поразили энергообъект и обесточили работавшие с ВСУ предприятия в Конотопе",
+      "title_neutral": "ВС РФ поразили энергообъект и обесточили работавшие с ВСУ предприятия в Конотопе",
+      "excerpt": "Удар нанесли при помощи БПЛА \"Герань-2 Сикер\"",
+      "recap_neutral": "Удар нанесли при помощи БПЛА \"Герань-2 Сикер\"",
+      "main_idea": "ВС РФ поразили энергообъект и обесточили работавшие с ВСУ предприятия в Конотопе",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 01:40:38 +0300",
-      "url": "https://tass.ru/proisshestviya/27862489",
+      "published_at": "Sat, 27 Jun 2026 07:12:50 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27862799",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Петербурге откроется фестиваль этнической музыки \"ЭтоЭтно\"",
+      "title_neutral": "В Петербурге откроется фестиваль этнической музыки \"ЭтоЭтно\"",
+      "excerpt": "В нем примут участие российские исполнители, а также артисты из Индии, КНР, Сербии и Узбекистана",
+      "recap_neutral": "В нем примут участие российские исполнители, а также артисты из Индии, КНР, Сербии и Узбекистана",
+      "main_idea": "В Петербурге откроется фестиваль этнической музыки \"ЭтоЭтно\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 07:12:36 +0300",
+      "url": "https://tass.ru/obschestvo/27862789",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+      "title_neutral": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+      "excerpt": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
+      "recap_neutral": "Hundreds are still feared trapped under the rubble, as families desperate for news",
+      "main_idea": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sat, 27 Jun 2026 04:09:24 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -371,11 +392,73 @@
         "health"
       ],
       "source": "NYTimes World",
-      "published_at": "Fri, 26 Jun 2026 23:56:52 +0000",
+      "published_at": "Sat, 27 Jun 2026 04:08:02 +0000",
       "url": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "At the Stadium and Far Away, Cape Verde Fans Embrace the Possible",
+      "title_neutral": "At the Stadium and Far Away, Cape Verde Fans Embrace the Possible",
+      "excerpt": "Cape Verdeans were ecstatic when their country qualified for the World Cup. Their joy has now been supercharged by what seemed unthinkable before the tournament: a spot in the knockouts.",
+      "recap_neutral": "Cape Verdeans were ecstatic when their country qualified for the World Cup",
+      "main_idea": "At the Stadium and Far Away, Cape Verde Fans Embrace the Possible",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sat, 27 Jun 2026 04:06:42 +0000",
+      "url": "https://www.nytimes.com/2026/06/27/world/africa/world-cup-cape-verde-fans.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "WordStar: A Writer's Word Processor (1996)",
+      "title_neutral": "WordStar: A Writer's Word Processor (1996)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "WordStar: A Writer's Word Processor (1996)",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 27 Jun 2026 03:30:01 +0000",
+      "url": "https://www.sfwriter.com/wordstar.htm",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "title_neutral": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "excerpt": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
+      "recap_neutral": "Bolton faces a prison sentence of up to five years and has agreed to pay $2",
+      "main_idea": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sat, 27 Jun 2026 02:57:20 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US conducts strikes on Iran after attack on cargo ship",
+      "title_neutral": "US conducts strikes on Iran after attack on cargo ship",
+      "excerpt": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+      "recap_neutral": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions",
+      "main_idea": "US conducts strikes on Iran after attack on cargo ship",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 27 Jun 2026 02:48:12 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -390,7 +473,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Fri, 26 Jun 2026 22:58:06 +0000",
+      "published_at": "Sat, 27 Jun 2026 01:36:11 +0000",
       "url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
       "lang": "en",
       "bias_score": 55,
@@ -398,17 +481,97 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "US conducts strikes on Iran after attack on cargo ship",
-      "title_neutral": "US conducts strikes on Iran after attack on cargo ship",
-      "excerpt": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
-      "recap_neutral": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions",
-      "main_idea": "US conducts strikes on Iran after attack on cargo ship",
+      "title_original": "Show HN: Hacker News on a train station-style flip board",
+      "title_neutral": "Show HN: Hacker News on a train station-style flip board",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: Hacker News on a train station-style flip board",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sat, 27 Jun 2026 00:43:39 +0000",
+      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Religion row as Texas makes Bible stories required reading in schools",
+      "title_neutral": "Religion row as Texas makes Bible stories required reading in schools",
+      "excerpt": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
+      "recap_neutral": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state",
+      "main_idea": "Religion row as Texas makes Bible stories required reading in schools",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sat, 27 Jun 2026 00:31:42 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "U.S. strikes Iran in response to a drone attack on a ship",
+      "title_neutral": "U.S. strikes Iran in response to a drone attack on a ship",
+      "excerpt": "The U.S. struck Iran on Friday in response to a drone attack a day earlier on a cargo ship in the Strait of Hormuz. It's the most significant test yet to an interim understanding reached a week ago by the two countries.",
+      "recap_neutral": "The U",
+      "main_idea": "U.S. strikes Iran in response to a drone attack on a ship",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 27 Jun 2026 00:12:23 -0400",
+      "url": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Hellishly Slow Level 13 Deflate Compression",
+      "title_neutral": "Hellishly Slow Level 13 Deflate Compression",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Hellishly Slow Level 13 Deflate Compression",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 22 Jun 2026 18:17:20 +0000",
+      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Om",
+      "title_neutral": "Om",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Om",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 26 Jun 2026 23:33:46 +0000",
+      "url": "https://daringfireball.net/2026/06/om",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+      "title_neutral": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+      "excerpt": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
+      "recap_neutral": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults",
+      "main_idea": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
       "tags": [
         "conflict"
       ],
       "source": "BBC World",
-      "published_at": "Fri, 26 Jun 2026 22:57:30 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 26 Jun 2026 23:01:50 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -433,35 +596,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "US allows Anthropic to release Mythos to 'trusted partners'",
-      "title_neutral": "US allows Anthropic to release Mythos to 'trusted partners'",
+      "title_original": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "title_neutral": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "US allows Anthropic to release Mythos to 'trusted partners'",
-      "tags": [],
+      "main_idea": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "tags": [
+        "tech"
+      ],
       "source": "Hacker News",
       "published_at": "Fri, 26 Jun 2026 22:48:28 +0000",
-      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Scenes of Collapse: The Emergency at Venezuela’s Hospitals",
-      "title_neutral": "Scenes of Collapse: The Emergency at Venezuela’s Hospitals",
-      "excerpt": "A snapshot of the toll of the country’s twin quakes.",
-      "recap_neutral": "A snapshot of the toll of the country’s twin quakes",
-      "main_idea": "Scenes of Collapse: The Emergency at Venezuela’s Hospitals",
-      "tags": [
-        "health"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 26 Jun 2026 22:44:56 +0000",
-      "url": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-hospitals-earthquake-collapse.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -529,21 +677,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Venezuela earthquakes kill 920 people as families desperate for news",
-      "title_neutral": "Venezuela earthquakes kill 920 people as families desperate for news",
-      "excerpt": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
-      "recap_neutral": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive",
-      "main_idea": "Venezuela earthquakes kill 920 people as families desperate for news",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 26 Jun 2026 21:15:37 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "The gap between open weights LLMs and closed source LLMs",
       "title_neutral": "The gap between open weights LLMs and closed source LLMs",
       "excerpt": "Comments",
@@ -574,21 +707,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Hightouch (YC S19) Is Hiring",
-      "title_neutral": "Hightouch (YC S19) Is Hiring",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Hightouch (YC S19) Is Hiring",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 26 Jun 2026 21:00:50 +0000",
-      "url": "https://hightouch.com/careers#open-positions",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Small Plane Crashes Into Tallest Building in Beijing",
       "title_neutral": "Small Plane Crashes Into Tallest Building in Beijing",
       "excerpt": "Crowds in the capital’s central business district fled as the crash sent debris falling into the streets below.",
@@ -596,11 +714,28 @@
       "main_idea": "Small Plane Crashes Into Tallest Building in Beijing",
       "tags": [],
       "source": "NYTimes World",
-      "published_at": "Fri, 26 Jun 2026 20:32:01 +0000",
+      "published_at": "Fri, 26 Jun 2026 20:32:02 +0000",
       "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Pete Buttigieg and his kids subject to CPS, police investigation after false report",
+      "title_neutral": "Pete Buttigieg and his kids subject to CPS, police investigation after false report",
+      "excerpt": "Buttigieg, a potential 2028 Democratic presidential contender, shared his family's experience when police and Child Protective Services came to his home investigating an anonymous tip that was false.",
+      "recap_neutral": "Buttigieg, a potential 2028 Democratic presidential contender, shared his family's experience when police and Child Protective Services came to his home investigating an anonymous tip that was false",
+      "main_idea": "Pete Buttigieg and his kids subject to CPS, police investigation after false report",
+      "tags": [
+        "politics"
+      ],
+      "source": "NPR",
+      "published_at": "Fri, 26 Jun 2026 20:26:52 -0400",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5872821/pete-buttigieg-cps-police-swatting",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -737,21 +872,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "What Is a Nomogram and Why Would It Interest Me?",
-      "title_neutral": "What Is a Nomogram and Why Would It Interest Me?",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "What Is a Nomogram and Why Would It Interest Me?",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 26 Jun 2026 17:24:25 +0000",
-      "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "A day after Alito's testy response to Sotomayor's dissent, court says it was a 'misunderstanding'",
       "title_neutral": "A day after Alito's testy response to Sotomayor's dissent, court says it was a 'misunderstanding'",
       "excerpt": "During Supreme Court opinions Thursday, Justice Samuel Alito, who wrote the majority opinion in an asylum case, appeared to rebut Justice Sonia Sotomayor, who wrote the dissent. The move was highly unusual — and on Friday there was a coda.",
@@ -767,6 +887,24 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
+      "title_neutral": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
+      "excerpt": "Weeks of intense strikes by Ukraine have rattled everyday life in Crimea to an extent unseen since Russia illegally annexed the peninsula in 2014.",
+      "recap_neutral": "Weeks of intense strikes by Ukraine have rattled everyday life in Crimea to an extent unseen since Russia illegally annexed the peninsula in 2014",
+      "main_idea": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 26 Jun 2026 17:06:55 +0000",
+      "url": "https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Previewing GPT‑5.6 Sol: a next-generation model",
       "title_neutral": "Previewing GPT‑5.6 Sol: a next-generation model",
       "excerpt": "Comments",
@@ -779,24 +917,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
-      "title_neutral": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
-      "excerpt": "Weeks of intense strikes by Ukraine have rattled everyday life in Crimea to an extent unseen since Russia illegally annexed the peninsula in 2014.",
-      "recap_neutral": "Weeks of intense strikes by Ukraine have rattled everyday life in Crimea to an extent unseen since Russia illegally annexed the peninsula in 2014",
-      "main_idea": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 26 Jun 2026 17:06:54 +0000",
-      "url": "https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -819,7 +939,7 @@
     {
       "title_original": "It's not just Cape Verde: African soccer is having a World Cup moment",
       "title_neutral": "It's not just Cape Verde: African soccer is having a World Cup moment",
-      "excerpt": "The soccer greats — Brazil, England, Spain — have been giving uneven performances out on the pitch during this World Cup. Meanwhile, team from Africa have been relentless.",
+      "excerpt": "The soccer greats — Brazil, England, Spain — have been giving uneven performances out on the pitch during this World Cup. Meanwhile, teams from Africa have been relentless.",
       "recap_neutral": "The soccer greats — Brazil, England, Spain — have been giving uneven performances out on the pitch during this World Cup",
       "main_idea": "It's not just Cape Verde: African soccer is having a World Cup moment",
       "tags": [
@@ -831,36 +951,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "title_neutral": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "excerpt": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
-      "recap_neutral": "Bolton faces a prison sentence of up to five years and has agreed to pay $2",
-      "main_idea": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 26 Jun 2026 16:45:21 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "title_neutral": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 26 Jun 2026 16:40:11 +0000",
-      "url": "https://github.com/workweave/router",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1260,7 +1350,7 @@
         "health"
       ],
       "source": "NYTimes World",
-      "published_at": "Fri, 26 Jun 2026 12:27:36 +0000",
+      "published_at": "Fri, 26 Jun 2026 12:27:37 +0000",
       "url": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
       "lang": "en",
       "bias_score": 55,
@@ -1297,23 +1387,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ultrasound imaging of the brain",
-      "title_neutral": "Ultrasound imaging of the brain",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Ultrasound imaging of the brain",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Fri, 26 Jun 2026 11:51:11 +0000",
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1388,39 +1461,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Plane crashes into Beijing's tallest building; damage reported",
-      "title_neutral": "Plane crashes into Beijing's tallest building; damage reported",
-      "excerpt": "The cause of the damage could not be independently verified, and authorities did not immediately issue a statement on the incident.",
-      "recap_neutral": "The cause of the damage could not be independently verified, and authorities did not immediately issue a statement on the incident",
-      "main_idea": "Plane crashes into Beijing's tallest building; damage reported",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Fri, 26 Jun 2026 11:05:48 -0400",
-      "url": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "John Bolton, former Trump national security adviser, pleads guilty in classified documents case",
-      "title_neutral": "John Bolton, former Trump national security adviser, pleads guilty in classified documents case",
-      "excerpt": "Bolton pleaded guilty to one count of retaining national defense information while he was a national security adviser during President Trump's first term, saying: \"And I am sorry for it.\"",
-      "recap_neutral": "Bolton pleaded guilty to one count of retaining national defense information while he was a national security adviser during President Trump's first term, saying: \"And I am sorry for it",
-      "main_idea": "John Bolton, former Trump national security adviser, pleads guilty in classified documents case",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 26 Jun 2026 11:00:18 -0400",
-      "url": "https://www.npr.org/2026/06/26/nx-s1-5871292/john-bolton-national-security-classified-documents",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
       "title_neutral": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
       "excerpt": "Fears over ‘huge community transmission’ as modelling predicts thousands of deaths in DRC by September The whereabouts of almost 300 people who have tested positive for Ebola in the Democratic Republic of the Congo is unknown, according to Africa’s top public health official. The humanitarian crisi…",
@@ -1492,21 +1532,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Housing board votes to freeze New York rents in victory for Mamdani",
-      "title_neutral": "Housing board votes to freeze New York rents in victory for Mamdani",
-      "excerpt": "The decision was welcomed by many tenants - but landlords fear it will worsen housing conditions.",
-      "recap_neutral": "The decision was welcomed by many tenants - but landlords fear it will worsen housing conditions",
-      "main_idea": "Housing board votes to freeze New York rents in victory for Mamdani",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 26 Jun 2026 09:42:26 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "How Three Months of War Changed the Gulf Forever",
       "title_neutral": "How Three Months of War Changed the Gulf Forever",
       "excerpt": "Facing an emerging U.S.-Iran deal that leaves them vulnerable, Gulf Arab countries are reshaping their defense strategies, economies and trade routes.",
@@ -1556,24 +1581,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Asia stock markets slide as tech shares slump",
-      "title_neutral": "Asia stock markets slide as tech shares slump",
-      "excerpt": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
-      "recap_neutral": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling",
-      "main_idea": "Asia stock markets slide as tech shares slump",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 26 Jun 2026 07:33:10 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
