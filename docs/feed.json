@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T22:43:06.996191+00:00",
+  "last_updated": "2026-06-27T00:01:33.493189+00:00",
   "items": [
     {
       "title_original": "France confirms first Ebola case in doctor who had worked in DRC",
@@ -29,21 +29,6 @@
       "source": "Hacker News",
       "published_at": "Tue, 23 Jun 2026 12:45:09 +0000",
       "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Modern GPU Programming for MLSys",
-      "title_neutral": "Modern GPU Programming for MLSys",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Modern GPU Programming for MLSys",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 23 Jun 2026 11:38:25 +0000",
-      "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -100,15 +85,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Show HN: Autofit2 – End-to-end pipeline for multilingual text classification",
-      "title_neutral": "Show HN: Autofit2 – End-to-end pipeline for multilingual text classification",
+      "title_original": "A Tiny Compiler for Data-Parallel Kernels",
+      "title_neutral": "A Tiny Compiler for Data-Parallel Kernels",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Show HN: Autofit2 – End-to-end pipeline for multilingual text classification",
+      "main_idea": "A Tiny Compiler for Data-Parallel Kernels",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Thu, 25 Jun 2026 13:58:21 +0000",
-      "url": "https://github.com/neospe/autofit2",
+      "published_at": "Thu, 25 Jun 2026 13:32:12 +0000",
+      "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -129,6 +114,216 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Родригес поблагодарила США за помощь в ликвидации последствий землетрясения",
+      "title_neutral": "Родригес поблагодарила США за помощь в ликвидации последствий землетрясения",
+      "excerpt": "Уполномоченный президент Венесуэлы заявила, что президент США Дональд Трамп и государственный секретарь Марко Рубио заявили о готовности поддержать усилия по ликвидации последствий стихийного бедствия",
+      "recap_neutral": "Уполномоченный президент Венесуэлы заявила, что президент США Дональд Трамп и государственный секретарь Марко Рубио заявили о готовности поддержать усилия по ликвидации последствий стихийного бедствия",
+      "main_idea": "Родригес поблагодарила США за помощь в ликвидации последствий землетрясения",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 02:51:33 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27862523",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Нетаньяху назвал соглашение по Ливану \"ударом для Ирана\"",
+      "title_neutral": "Нетаньяху назвал соглашение по Ливану \"ударом для Ирана\"",
+      "excerpt": "Премьер-министр Израиля заявил, что страна пока не будет выводить войска из Южного Ливана по соображениям безопасности",
+      "recap_neutral": "Премьер-министр Израиля заявил, что страна пока не будет выводить войска из Южного Ливана по соображениям безопасности",
+      "main_idea": "Нетаньяху назвал соглашение по Ливану \"ударом для Ирана\"",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 02:38:37 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27862521",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Месси начнет матч против команды Иордании на скамейке запасных",
+      "title_neutral": "Месси начнет матч против команды Иордании на скамейке запасных",
+      "excerpt": "Главный тренер аргентинцев Лионель Скалони сообщил, что форвард выйдет на поле во втором тайме",
+      "recap_neutral": "Главный тренер аргентинцев Лионель Скалони сообщил, что форвард выйдет на поле во втором тайме",
+      "main_idea": "Месси начнет матч против команды Иордании на скамейке запасных",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 02:31:26 +0300",
+      "url": "https://tass.ru/sport/27862517",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Маккенна выбран \"Торонто\" под первым номером на драфте НХЛ",
+      "title_neutral": "Маккенна выбран \"Торонто\" под первым номером на драфте НХЛ",
+      "excerpt": "Под вторым номером \"Сан-Хосе\" выбрал Ивара Стенберга, третьим номером драфта стал Калеба Малотра (\"Ванкувер\")",
+      "recap_neutral": "Под вторым номером \"Сан-Хосе\" выбрал Ивара Стенберга, третьим номером драфта стал Калеба Малотра (\"Ванкувер\")",
+      "main_idea": "Маккенна выбран \"Торонто\" под первым номером на драфте НХЛ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 02:28:55 +0300",
+      "url": "https://tass.ru/sport/27862515",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Сумах произошли взрывы",
+      "title_neutral": "В Сумах произошли взрывы",
+      "excerpt": "В регионе действует режим воздушной тревоги",
+      "recap_neutral": "В регионе действует режим воздушной тревоги",
+      "main_idea": "В Сумах произошли взрывы",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 02:24:00 +0300",
+      "url": "https://tass.ru/proisshestviya/27862513",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Домодедове сняли временные ограничения",
+      "title_neutral": "В Домодедове сняли временные ограничения",
+      "excerpt": "Их вводили для обеспечения безопасности полетов",
+      "recap_neutral": "Их вводили для обеспечения безопасности полетов",
+      "main_idea": "В Домодедове сняли временные ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 02:23:31 +0300",
+      "url": "https://tass.ru/ekonomika/27862509",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Внуково и Домодедово обслуживают рейсы по согласованию",
+      "title_neutral": "Внуково и Домодедово обслуживают рейсы по согласованию",
+      "excerpt": "Меры приняты для обеспечения безопасности полетов, пояснили в Росавиации",
+      "recap_neutral": "Меры приняты для обеспечения безопасности полетов, пояснили в Росавиации",
+      "main_idea": "Внуково и Домодедово обслуживают рейсы по согласованию",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 02:14:54 +0300",
+      "url": "https://tass.ru/ekonomika/27862507",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Число пострадавших из-за землетрясения вблизи Токио выросло до шести",
+      "title_neutral": "Число пострадавших из-за землетрясения вблизи Токио выросло до шести",
+      "excerpt": "В нескольких районах городов Кофу и Фудзиёсида зафиксировано обрушение стен и частичное разрушение некоторых зданий",
+      "recap_neutral": "В нескольких районах городов Кофу и Фудзиёсида зафиксировано обрушение стен и частичное разрушение некоторых зданий",
+      "main_idea": "Число пострадавших из-за землетрясения вблизи Токио выросло до шести",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 02:13:54 +0300",
+      "url": "https://tass.ru/proisshestviya/27862503",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Опрошенные россияне считают, что молодость длится до 42 лет",
+      "title_neutral": "Опрошенные россияне считают, что молодость длится до 42 лет",
+      "excerpt": "По данным центра исследований Российского общества \"Знание\", каждый восьмой респондент уверен, что молодые годы могут продолжаться до 60 лет и дольше",
+      "recap_neutral": "По данным центра исследований Российского общества \"Знание\", каждый восьмой респондент уверен, что молодые годы могут продолжаться до 60 лет и дольше",
+      "main_idea": "Опрошенные россияне считают, что молодость длится до 42 лет",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 02:07:26 +0300",
+      "url": "https://tass.ru/obschestvo/27862499",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Марочко: ВС РФ зачищают местность у ж/д дороги по всему Красному Лиману",
+      "title_neutral": "Марочко: ВС РФ зачищают местность у ж/д дороги по всему Красному Лиману",
+      "excerpt": "Российские войска в том числе продвигаются в лесополосе юго-западнее города, отметил военный эксперт",
+      "recap_neutral": "Российские войска в том числе продвигаются в лесополосе юго-западнее города, отметил военный эксперт",
+      "main_idea": "Марочко: ВС РФ зачищают местность у ж/д дороги по всему Красному Лиману",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 02:01:27 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27862497",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МИД РФ: западные попытки финансово-экономического удушения России безуспешны",
+      "title_neutral": "МИД РФ: западные попытки финансово-экономического удушения России безуспешны",
+      "excerpt": "Подобные меры со стороны Запада являются инструментом, \"который используется против геополитических конкурентов\", отметил посол по особым поручениям российского дипведомства Александр Трофимов",
+      "recap_neutral": "Подобные меры со стороны Запада являются инструментом, \"который используется против геополитических конкурентов\", отметил посол по особым поручениям российского дипведомства Александр Трофимов",
+      "main_idea": "МИД РФ: западные попытки финансово-экономического удушения России безуспешны",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 02:00:50 +0300",
+      "url": "https://tass.ru/politika/27862495",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Названа доля праворульных машин в России",
+      "title_neutral": "Названа доля праворульных машин в России",
+      "excerpt": "Доцент кафедры информатики РЭУ имени Плеханова Александр Тимофеев заявил, что их число достигло 4 млн, или более 8% от всего автопарка",
+      "recap_neutral": "Доцент кафедры информатики РЭУ имени Плеханова Александр Тимофеев заявил, что их число достигло 4 млн, или более 8% от всего автопарка",
+      "main_idea": "Названа доля праворульных машин в России",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 01:47:35 +0300",
+      "url": "https://tass.ru/ekonomika/27862485",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Эксперт Сафонов рассказал, у каких категорий россиян с 1 июля вырастет пенсия",
+      "title_neutral": "Эксперт Сафонов рассказал, у каких категорий россиян с 1 июля вырастет пенсия",
+      "excerpt": "Речь идет о гражданах, которым исполнилось 80 лет, а также о получивших I группу инвалидности, сообщил профессор Финансового университета при правительстве РФ",
+      "recap_neutral": "Речь идет о гражданах, которым исполнилось 80 лет, а также о получивших I группу инвалидности, сообщил профессор Финансового университета при правительстве РФ",
+      "main_idea": "Эксперт Сафонов рассказал, у каких категорий россиян с 1 июля вырастет пенсия",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 27 Jun 2026 01:43:10 +0300",
+      "url": "https://tass.ru/ekonomika/27862493",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
@@ -166,209 +361,21 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Крыму отменили ракетную опасность",
-      "title_neutral": "В Крыму отменили ракетную опасность",
-      "excerpt": "Об этом сообщили в ГУ МЧС России по региону",
-      "recap_neutral": "Об этом сообщили в ГУ МЧС России по региону",
-      "main_idea": "В Крыму отменили ракетную опасность",
+      "title_original": "Venezuela Live Updates: Trump’s Vow to ‘Run’ Venezuela Is Tested After Quakes",
+      "title_neutral": "Venezuela Live Updates: Trump’s Vow to ‘Run’ Venezuela Is Tested After Quakes",
+      "excerpt": "The U.S. dispatched hundreds of rescue workers to help the Venezuelan government, as the injured overwhelmed hospitals and the death toll rose to 920. The Pentagon sent two ships, transport planes and helicopters.",
+      "recap_neutral": "The U",
+      "main_idea": "Venezuela Live Updates: Trump’s Vow to ‘Run’ Venezuela Is Tested After Quakes",
       "tags": [
-        "tech"
+        "politics",
+        "health"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 01:37:54 +0300",
-      "url": "https://tass.ru/proisshestviya/27862487",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Очередей на автоподходах к Крымскому мосту нет",
-      "title_neutral": "Очередей на автоподходах к Крымскому мосту нет",
-      "excerpt": "Движение транспорта по мосту приостанавливали с 23:50 мск 25 июня до 06:14 мск 26 июня",
-      "recap_neutral": "Движение транспорта по мосту приостанавливали с 23:50 мск 25 июня до 06:14 мск 26 июня",
-      "main_idea": "Очередей на автоподходах к Крымскому мосту нет",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 01:31:24 +0300",
-      "url": "https://tass.ru/obschestvo/27862477",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Армия Ливана пресекла протесты в Бейруте против подписания соглашения с Израилем",
-      "title_neutral": "Армия Ливана пресекла протесты в Бейруте против подписания соглашения с Израилем",
-      "excerpt": "",
-      "recap_neutral": "Армия Ливана пресекла протесты в Бейруте против подписания соглашения с Израилем",
-      "main_idea": "Армия Ливана пресекла протесты в Бейруте против подписания соглашения с Израилем",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 01:30:12 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27862481",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В России подтвердили заседание СБ ООН из-за удара ВСУ по автобусу с белорусами",
-      "title_neutral": "В России подтвердили заседание СБ ООН из-за удара ВСУ по автобусу с белорусами",
-      "excerpt": "",
-      "recap_neutral": "В России подтвердили заседание СБ ООН из-за удара ВСУ по автобусу с белорусами",
-      "main_idea": "В России подтвердили заседание СБ ООН из-за удара ВСУ по автобусу с белорусами",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 01:28:23 +0300",
-      "url": "https://tass.ru/politika/27862479",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Полезный Мбаппе и хет-трик Дембеле. Французы прибили норвежцев на ЧМ",
-      "title_neutral": "Полезный Мбаппе и хет-трик Дембеле. Французы прибили норвежцев на ЧМ",
-      "excerpt": "Встреча завершилась со счетом 4:1, обе команды ранее гарантировали выход в плей-офф",
-      "recap_neutral": "Встреча завершилась со счетом 4:1, обе команды ранее гарантировали выход в плей-офф",
-      "main_idea": "Полезный Мбаппе и хет-трик Дембеле. Французы прибили норвежцев на ЧМ",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 01:26:44 +0300",
-      "url": "https://tass.ru/sport/27862461",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Харькове произошел взрыв",
-      "title_neutral": "В Харькове произошел взрыв",
-      "excerpt": "В городе объявлена воздушная тревога",
-      "recap_neutral": "В городе объявлена воздушная тревога",
-      "main_idea": "В Харькове произошел взрыв",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 01:23:04 +0300",
-      "url": "https://tass.ru/proisshestviya/27862473",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Сочи и Сириусе отменили угрозу атаки БПЛА",
-      "title_neutral": "В Сочи и Сириусе отменили угрозу атаки БПЛА",
-      "excerpt": "Опасности для жителей и гостей города-курорта нет, отметил мэр Сочи Андрей Прошунин",
-      "recap_neutral": "Опасности для жителей и гостей города-курорта нет, отметил мэр Сочи Андрей Прошунин",
-      "main_idea": "В Сочи и Сириусе отменили угрозу атаки БПЛА",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 01:22:46 +0300",
-      "url": "https://tass.ru/proisshestviya/27862471",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Сборная Сенегала со счетом 5:0 разгромила команду Ирака на ЧМ по футболу",
-      "title_neutral": "Сборная Сенегала со счетом 5:0 разгромила команду Ирака на ЧМ по футболу",
-      "excerpt": "Африканская команда заняла третье место в группе I и сохраняет шансы на выход в 1/16 финала",
-      "recap_neutral": "Африканская команда заняла третье место в группе I и сохраняет шансы на выход в 1/16 финала",
-      "main_idea": "Сборная Сенегала со счетом 5:0 разгромила команду Ирака на ЧМ по футболу",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 01:18:32 +0300",
-      "url": "https://tass.ru/sport/27862469",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "США могут подать заявку на проведение ЧМ по футболу в 2038 году",
-      "title_neutral": "США могут подать заявку на проведение ЧМ по футболу в 2038 году",
-      "excerpt": "Исполнительный директор рабочей группы Белого дома по чемпионату мира 2026 года Эндрю Джулиани отметил, что сначала нужно успешно завершить текущий турнир",
-      "recap_neutral": "Исполнительный директор рабочей группы Белого дома по чемпионату мира 2026 года Эндрю Джулиани отметил, что сначала нужно успешно завершить текущий турнир",
-      "main_idea": "США могут подать заявку на проведение ЧМ по футболу в 2038 году",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 01:14:57 +0300",
-      "url": "https://tass.ru/sport/27862465",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Вэнс: США готовы обсуждать с Ираном разногласия по меморандуму",
-      "title_neutral": "Вэнс: США готовы обсуждать с Ираном разногласия по меморандуму",
-      "excerpt": "При этом Вашингтон ответит насилием на насилие, добавил американский вице-президент",
-      "recap_neutral": "При этом Вашингтон ответит насилием на насилие, добавил американский вице-президент",
-      "main_idea": "Вэнс: США готовы обсуждать с Ираном разногласия по меморандуму",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 01:12:43 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27862463",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Марочко: ВС РФ взяли под огневой контроль ж/д станцию у Красного Лимана",
-      "title_neutral": "Марочко: ВС РФ взяли под огневой контроль ж/д станцию у Красного Лимана",
-      "excerpt": "Российские бойцы также контролируют несколько зон города и зачистили \"большое количество домостроений\", сообщил военный эксперт",
-      "recap_neutral": "Российские бойцы также контролируют несколько зон города и зачистили \"большое количество домостроений\", сообщил военный эксперт",
-      "main_idea": "Марочко: ВС РФ взяли под огневой контроль ж/д станцию у Красного Лимана",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 01:02:31 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27862457",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "МИД РФ: Запад не намерен отказываться от санкций против РФ",
-      "title_neutral": "МИД РФ: Запад не намерен отказываться от санкций против РФ",
-      "excerpt": "Посол по особым поручениям российского дипведомства Александр Трофимов заявил, что никто не собирается прекращать санкционную политику ни в среднесрочной, ни в долгосрочной перспективе",
-      "recap_neutral": "Посол по особым поручениям российского дипведомства Александр Трофимов заявил, что никто не собирается прекращать санкционную политику ни в среднесрочной, ни в долгосрочной перспективе",
-      "main_idea": "МИД РФ: Запад не намерен отказываться от санкций против РФ",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 01:00:41 +0300",
-      "url": "https://tass.ru/politika/27862455",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Крупнейший вуз Камчатки представил концепцию \"Университета первооткрывателей\"",
-      "title_neutral": "Крупнейший вуз Камчатки представил концепцию \"Университета первооткрывателей\"",
-      "excerpt": "В основе модели концепции - образование как исследовательское путешествие, сообщила проректор по учебной работе вуза Наталья Рогова",
-      "recap_neutral": "В основе модели концепции - образование как исследовательское путешествие, сообщила проректор по учебной работе вуза Наталья Рогова",
-      "main_idea": "Крупнейший вуз Камчатки представил концепцию \"Университета первооткрывателей\"",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 27 Jun 2026 00:58:19 +0300",
-      "url": "https://tass.ru/obschestvo/27862453",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Fri, 26 Jun 2026 23:56:52 +0000",
+      "url": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -383,7 +390,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Fri, 26 Jun 2026 22:35:16 +0000",
+      "published_at": "Fri, 26 Jun 2026 22:58:06 +0000",
       "url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
       "lang": "en",
       "bias_score": 55,
@@ -400,7 +407,7 @@
         "conflict"
       ],
       "source": "BBC World",
-      "published_at": "Fri, 26 Jun 2026 22:32:53 GMT",
+      "published_at": "Fri, 26 Jun 2026 22:57:30 GMT",
       "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
@@ -408,69 +415,102 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Venezuela Live Updates: Trump’s Vow to ‘Run’ Venezuela Is Tested After Quakes",
-      "title_neutral": "Venezuela Live Updates: Trump’s Vow to ‘Run’ Venezuela Is Tested After Quakes",
-      "excerpt": "The U.S. dispatched hundreds of rescue workers to help the Venezuelan government, as the injured overwhelmed hospitals and the death toll rose to 920. The Pentagon sent two ships, transport planes and helicopters.",
-      "recap_neutral": "The U",
-      "main_idea": "Venezuela Live Updates: Trump’s Vow to ‘Run’ Venezuela Is Tested After Quakes",
-      "tags": [
-        "politics",
-        "health"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 26 Jun 2026 22:09:17 +0000",
-      "url": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Here’s the latest.",
-      "title_neutral": "Here’s the latest.",
-      "excerpt": "",
-      "recap_neutral": "Here’s the latest.",
-      "main_idea": "Here’s the latest.",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Fri, 26 Jun 2026 21:57:30 +0000",
-      "url": "https://www.nytimes.com/live/2026/06/26/world/us-iran-strikes-hormuz/heres-the-latest",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
-      "title_neutral": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 26 Jun 2026 21:54:59 +0000",
-      "url": "https://news.ycombinator.com/item?id=48692474",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Israel and Lebanon sign framework agreement after US-brokered talks",
       "title_neutral": "Israel and Lebanon sign framework agreement after US-brokered talks",
-      "excerpt": "Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes",
-      "recap_neutral": "Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes",
+      "excerpt": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
+      "recap_neutral": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes",
       "main_idea": "Israel and Lebanon sign framework agreement after US-brokered talks",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "BBC World",
-      "published_at": "Fri, 26 Jun 2026 21:33:34 GMT",
+      "published_at": "Fri, 26 Jun 2026 22:55:28 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US allows Anthropic to release Mythos to 'trusted partners'",
+      "title_neutral": "US allows Anthropic to release Mythos to 'trusted partners'",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "US allows Anthropic to release Mythos to 'trusted partners'",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 26 Jun 2026 22:48:28 +0000",
+      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Scenes of Collapse: The Emergency at Venezuela’s Hospitals",
+      "title_neutral": "Scenes of Collapse: The Emergency at Venezuela’s Hospitals",
+      "excerpt": "A snapshot of the toll of the country’s twin quakes.",
+      "recap_neutral": "A snapshot of the toll of the country’s twin quakes",
+      "main_idea": "Scenes of Collapse: The Emergency at Venezuela’s Hospitals",
+      "tags": [
+        "health"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 26 Jun 2026 22:44:56 +0000",
+      "url": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-hospitals-earthquake-collapse.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
+      "title_neutral": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
+      "excerpt": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resources Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on Venezuela’s interim president, Delcy Rodríguez, has vowed to fight to save “as many people as possible”…",
+      "recap_neutral": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resources Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on Venezuela’s interim pres…",
+      "main_idea": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
+      "tags": [
+        "politics"
+      ],
+      "source": "The Guardian",
+      "published_at": "Fri, 26 Jun 2026 22:44:43 GMT",
+      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "title_neutral": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 26 Jun 2026 22:43:29 +0000",
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AI in mathematics is forcing big questions",
+      "title_neutral": "AI in mathematics is forcing big questions",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "AI in mathematics is forcing big questions",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Fri, 26 Jun 2026 22:36:51 +0000",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -519,11 +559,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "We Can Still Stop California's 3D Printer Surveillance Scheme",
-      "title_neutral": "We Can Still Stop California's 3D Printer Surveillance Scheme",
+      "title_original": "We can still stop California's 3D printer surveillance scheme",
+      "title_neutral": "We can still stop California's 3D printer surveillance scheme",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "We Can Still Stop California's 3D Printer Surveillance Scheme",
+      "main_idea": "We can still stop California's 3D printer surveillance scheme",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Fri, 26 Jun 2026 21:13:50 +0000",
@@ -564,21 +604,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
-      "title_neutral": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 26 Jun 2026 20:07:18 +0000",
-      "url": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "500 Blog Posts To Learn About Cybersecurity",
       "title_neutral": "500 Blog Posts To Learn About Cybersecurity",
       "excerpt": "Let's learn about Cybersecurity via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. Hacking is not a crime! Or is it? Well, it depends on which hat you are wearing. Find al…",
@@ -611,6 +636,23 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "5 million have dropped ACA insurance after Trump and the GOP let prices skyrocket",
+      "title_neutral": "5 million have dropped ACA insurance after Trump and the GOP let prices skyrocket",
+      "excerpt": "The number of people who signed up for a health plan and then didn't pay their premium fell much more sharply than it has in years past. Trump officials blame fraud. Health policy experts blame costs.",
+      "recap_neutral": "The number of people who signed up for a health plan and then didn't pay their premium fell much more sharply than it has in years past",
+      "main_idea": "5 million have dropped ACA insurance after Trump and the GOP let prices skyrocket",
+      "tags": [
+        "health"
+      ],
+      "source": "NPR",
+      "published_at": "Fri, 26 Jun 2026 18:54:23 -0400",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5860746/aca-health-insurance-subsidies-rates-premiums",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -695,23 +737,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
-      "title_neutral": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
-      "excerpt": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resources Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on Venezuela’s interim president, Delcy Rodríguez, has vowed to fight to save “as many people as possible”…",
-      "recap_neutral": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resources Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on Venezuela’s interim pres…",
-      "main_idea": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
-      "tags": [
-        "politics"
-      ],
-      "source": "The Guardian",
-      "published_at": "Fri, 26 Jun 2026 17:36:39 GMT",
-      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "What Is a Nomogram and Why Would It Interest Me?",
       "title_neutral": "What Is a Nomogram and Why Would It Interest Me?",
       "excerpt": "Comments",
@@ -789,6 +814,23 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "It's not just Cape Verde: African soccer is having a World Cup moment",
+      "title_neutral": "It's not just Cape Verde: African soccer is having a World Cup moment",
+      "excerpt": "The soccer greats — Brazil, England, Spain — have been giving uneven performances out on the pitch during this World Cup. Meanwhile, team from Africa have been relentless.",
+      "recap_neutral": "The soccer greats — Brazil, England, Spain — have been giving uneven performances out on the pitch during this World Cup",
+      "main_idea": "It's not just Cape Verde: African soccer is having a World Cup moment",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Fri, 26 Jun 2026 16:49:57 -0400",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5867404/2026-world-cup-fifa-africa-cape-verde-senegal-morocco-congo",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1462,39 +1504,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Australia plans to strengthen laws banning children from social media",
-      "title_neutral": "Australia plans to strengthen laws banning children from social media",
-      "excerpt": "Observers said on Friday the government is responding to evidence that the ban on young children holding accounts on platforms including Facebook, Instagram and YouTube had failed since it came into force in December year.",
-      "recap_neutral": "Observers said on Friday the government is responding to evidence that the ban on young children holding accounts on platforms including Facebook, Instagram and YouTube had failed since it came into force in December ye…",
-      "main_idea": "Australia plans to strengthen laws banning children from social media",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 26 Jun 2026 09:09:30 -0400",
-      "url": "https://www.npr.org/2026/06/26/g-s1-130375/australia-plans-to-strengthen-laws-banning-children-from-social-media",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "South Korean ex-first lady sentenced to 7 years for bribery scandal",
-      "title_neutral": "South Korean ex-first lady sentenced to 7 years for bribery scandal",
-      "excerpt": "The former first lady had previously been sentenced to four years in a separate case involving the Unification Church.",
-      "recap_neutral": "The former first lady had previously been sentenced to four years in a separate case involving the Unification Church",
-      "main_idea": "South Korean ex-first lady sentenced to 7 years for bribery scandal",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Fri, 26 Jun 2026 09:03:20 -0400",
-      "url": "https://www.npr.org/2026/06/26/g-s1-130372/south-korean-ex-first-lady-sentenced-to-7-years-for-bribery-scandal",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
