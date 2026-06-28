@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T13:27:12.585043+00:00",
+  "last_updated": "2026-06-28T15:03:26.290778+00:00",
   "items": [
     {
       "title_original": "France confirms first Ebola case in doctor who had worked in DRC",
@@ -17,21 +17,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A stray \"j\" ruined my evening",
-      "title_neutral": "A stray \"j\" ruined my evening",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "A stray \"j\" ruined my evening",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 23 Jun 2026 21:56:33 +0000",
-      "url": "https://napkins.mtmn.name/posts/stray-jay.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -53,6 +38,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Do Babies Dream of Baby Sheep?",
+      "title_neutral": "Do Babies Dream of Baby Sheep?",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Do Babies Dream of Baby Sheep?",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 25 Jun 2026 14:48:07 +0000",
+      "url": "https://devz.cl/posts/do-babies-dream-of-electric-sheep/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Bringing Swift to the Apple ][",
       "title_neutral": "Bringing Swift to the Apple ][",
       "excerpt": "Comments",
@@ -68,254 +68,474 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Медведев поставил \"Единой России\" цель безоговорочной победы на выборах",
-      "title_neutral": "Медведев поставил \"Единой России\" цель безоговорочной победы на выборах",
-      "excerpt": "",
-      "recap_neutral": "Медведев поставил \"Единой России\" цель безоговорочной победы на выборах",
-      "main_idea": "Медведев поставил \"Единой России\" цель безоговорочной победы на выборах",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 28 Jun 2026 16:22:18 +0300",
-      "url": "https://tass.ru/politika/27865397",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Медведев: враги хотят, чтобы РФ исчезла с карты мира",
-      "title_neutral": "Медведев: враги хотят, чтобы РФ исчезла с карты мира",
-      "excerpt": "",
-      "recap_neutral": "Медведев: враги хотят, чтобы РФ исчезла с карты мира",
-      "main_idea": "Медведев: враги хотят, чтобы РФ исчезла с карты мира",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 28 Jun 2026 16:20:17 +0300",
-      "url": "https://tass.ru/politika/27865393",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Медведев: поддержка Западом нацистского режима в Киеве привела к распаду Украины",
-      "title_neutral": "Медведев: поддержка Западом нацистского режима в Киеве привела к распаду Украины",
-      "excerpt": "",
-      "recap_neutral": "Медведев: поддержка Западом нацистского режима в Киеве привела к распаду Украины",
-      "main_idea": "Медведев: поддержка Западом нацистского режима в Киеве привела к распаду Украины",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 28 Jun 2026 16:19:43 +0300",
-      "url": "https://tass.ru/politika/27865385",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Суперкомпьютер Opta назвал нового фаворита ЧМ-2026 перед стартом плей-офф",
-      "title_neutral": "Суперкомпьютер Opta назвал нового фаворита ЧМ-2026 перед стартом плей-офф",
-      "excerpt": "Главным фаворитом является сборная Франции",
-      "recap_neutral": "Главным фаворитом является сборная Франции",
-      "main_idea": "Суперкомпьютер Opta назвал нового фаворита ЧМ-2026 перед стартом плей-офф",
+      "title_original": "Республика Корея заявила протест КНР и РФ из-за воздушного патрулирования",
+      "title_neutral": "Республика Корея заявила протест КНР и РФ из-за воздушного патрулирования",
+      "excerpt": "В Сеуле заявили, что авиация России и Китая вошла в так называемую опознавательную зону ПВО, установленную в одностороннем порядке",
+      "recap_neutral": "В Сеуле заявили, что авиация России и Китая вошла в так называемую опознавательную зону ПВО, установленную в одностороннем порядке",
+      "main_idea": "Республика Корея заявила протест КНР и РФ из-за воздушного патрулирования",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 28 Jun 2026 16:18:44 +0300",
-      "url": "https://tass.ru/sport/27865379",
+      "published_at": "Sun, 28 Jun 2026 18:02:46 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27865643",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Медведев: единство России сильнее западной цивилизации",
-      "title_neutral": "Медведев: единство России сильнее западной цивилизации",
-      "excerpt": "",
-      "recap_neutral": "Медведев: единство России сильнее западной цивилизации",
-      "main_idea": "Медведев: единство России сильнее западной цивилизации",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 28 Jun 2026 16:18:14 +0300",
-      "url": "https://tass.ru/politika/27865381",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Медведев: эмоции должны быть сегодня выверенными и сдержанными",
-      "title_neutral": "Медведев: эмоции должны быть сегодня выверенными и сдержанными",
-      "excerpt": "",
-      "recap_neutral": "Медведев: эмоции должны быть сегодня выверенными и сдержанными",
-      "main_idea": "Медведев: эмоции должны быть сегодня выверенными и сдержанными",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 28 Jun 2026 16:17:55 +0300",
-      "url": "https://tass.ru/politika/27865377",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "СК организовал проверку по информации о смерти матери и младенца в роддоме в Иркутске",
-      "title_neutral": "СК организовал проверку по информации о смерти матери и младенца в роддоме в Иркутске",
-      "excerpt": "Следователи выясняют все обстоятельства произошедшего",
-      "recap_neutral": "Следователи выясняют все обстоятельства произошедшего",
-      "main_idea": "СК организовал проверку по информации о смерти матери и младенца в роддоме в Иркутске",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 28 Jun 2026 16:17:45 +0300",
-      "url": "https://tass.ru/proisshestviya/27865371",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Медведев не исключил попытки врагов нарушить ход предвыборной кампании в России",
-      "title_neutral": "Медведев не исключил попытки врагов нарушить ход предвыборной кампании в России",
-      "excerpt": "",
-      "recap_neutral": "Медведев не исключил попытки врагов нарушить ход предвыборной кампании в России",
-      "main_idea": "Медведев не исключил попытки врагов нарушить ход предвыборной кампании в России",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 28 Jun 2026 16:16:03 +0300",
-      "url": "https://tass.ru/politika/27865373",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Глава института Forsa: Мерц совершает много ошибок на посту канцлера ФРГ",
-      "title_neutral": "Глава института Forsa: Мерц совершает много ошибок на посту канцлера ФРГ",
-      "excerpt": "Глава правительства никогда не пользовался поддержкой среди женщин, молодежи и жителей Восточной Германии, отметил Манфред Гюлльнер",
-      "recap_neutral": "Глава правительства никогда не пользовался поддержкой среди женщин, молодежи и жителей Восточной Германии, отметил Манфред Гюлльнер",
-      "main_idea": "Глава института Forsa: Мерц совершает много ошибок на посту канцлера ФРГ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 28 Jun 2026 16:14:21 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27865353",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин заявил, что у него очень добрые отношения со всеми фракциями Госдумы",
-      "title_neutral": "Путин заявил, что у него очень добрые отношения со всеми фракциями Госдумы",
-      "excerpt": "",
-      "recap_neutral": "Путин заявил, что у него очень добрые отношения со всеми фракциями Госдумы",
-      "main_idea": "Путин заявил, что у него очень добрые отношения со всеми фракциями Госдумы",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 28 Jun 2026 16:13:30 +0300",
-      "url": "https://tass.ru/politika/27865363",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин пожелал \"Единой России\" удачи на выборах",
-      "title_neutral": "Путин пожелал \"Единой России\" удачи на выборах",
-      "excerpt": "",
-      "recap_neutral": "Путин пожелал \"Единой России\" удачи на выборах",
-      "main_idea": "Путин пожелал \"Единой России\" удачи на выборах",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 28 Jun 2026 16:13:13 +0300",
-      "url": "https://tass.ru/politika/27865359",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин призвал кандидатов на выборах \"поменьше сидеть в кабинетах и мессенджерах\"",
-      "title_neutral": "Путин призвал кандидатов на выборах \"поменьше сидеть в кабинетах и мессенджерах\"",
-      "excerpt": "",
-      "recap_neutral": "Путин призвал кандидатов на выборах \"поменьше сидеть в кабинетах и мессенджерах\"",
-      "main_idea": "Путин призвал кандидатов на выборах \"поменьше сидеть в кабинетах и мессенджерах\"",
+      "title_original": "Трамп ознакомился с ходом реставрационных работ в Вашингтоне",
+      "title_neutral": "Трамп ознакомился с ходом реставрационных работ в Вашингтоне",
+      "excerpt": "Президента США сопровождал министр внутренних дел Дуглас Бергам, сообщила помощница американского лидера Марго Мартин",
+      "recap_neutral": "Президента США сопровождал министр внутренних дел Дуглас Бергам, сообщила помощница американского лидера Марго Мартин",
+      "main_idea": "Трамп ознакомился с ходом реставрационных работ в Вашингтоне",
       "tags": [
         "politics"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 28 Jun 2026 16:11:48 +0300",
-      "url": "https://tass.ru/politika/27865351",
+      "published_at": "Sun, 28 Jun 2026 18:00:09 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27865651",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "От первых списков до \"народной программы\". История предвыборных съездов \"Единой России\"",
-      "title_neutral": "От первых списков до \"народной программы\". История предвыборных съездов \"Единой России\"",
-      "excerpt": "В Москве 28 июня 2026 года открылся первый этап предвыборного съезда партии \"Единая Россия\"",
-      "recap_neutral": "В Москве 28 июня 2026 года открылся первый этап предвыборного съезда партии \"Единая Россия\"",
-      "main_idea": "От первых списков до \"народной программы\". История предвыборных съездов \"Единой России\"",
+      "title_original": "Володин возглавит региональную группу на выборах в Госдуму по Саратовской области",
+      "title_neutral": "Володин возглавит региональную группу на выборах в Госдуму по Саратовской области",
+      "excerpt": "Данные огласил секретарь генсовета \"Единой России\" Владимир Якушев на полях первого этапа предвыборного съезда партии",
+      "recap_neutral": "Данные огласил секретарь генсовета \"Единой России\" Владимир Якушев на полях первого этапа предвыборного съезда партии",
+      "main_idea": "Володин возглавит региональную группу на выборах в Госдуму по Саратовской области",
       "tags": [
         "politics",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 28 Jun 2026 16:11:27 +0300",
-      "url": "https://tass.ru/info/27864765",
+      "published_at": "Sun, 28 Jun 2026 17:59:38 +0300",
+      "url": "https://tass.ru/politika/27865647",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Путин: Россию \"пробуют на зуб\" и пытаются от нее избавиться",
-      "title_neutral": "Путин: Россию \"пробуют на зуб\" и пытаются от нее избавиться",
-      "excerpt": "",
-      "recap_neutral": "Путин: Россию \"пробуют на зуб\" и пытаются от нее избавиться",
-      "main_idea": "Путин: Россию \"пробуют на зуб\" и пытаются от нее избавиться",
-      "tags": [],
+      "title_original": "Ирак заявил о готовности принять встречу Ирана и арабских стран Персидского залива",
+      "title_neutral": "Ирак заявил о готовности принять встречу Ирана и арабских стран Персидского залива",
+      "excerpt": "Багдад выражает готовность помочь как Тегерану, так и Вашингтону положить конец состоянию войны между ними, отметил иракский министр иностранных дел Фуад Хусейн",
+      "recap_neutral": "Багдад выражает готовность помочь как Тегерану, так и Вашингтону положить конец состоянию войны между ними, отметил иракский министр иностранных дел Фуад Хусейн",
+      "main_idea": "Ирак заявил о готовности принять встречу Ирана и арабских стран Персидского залива",
+      "tags": [
+        "conflict"
+      ],
       "source": "ТАСС",
-      "published_at": "Sun, 28 Jun 2026 16:10:53 +0300",
-      "url": "https://tass.ru/politika/27865345",
+      "published_at": "Sun, 28 Jun 2026 17:57:21 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27865641",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Путин: Россия может быть только сильной, или не будет никакой России",
-      "title_neutral": "Путин: Россия может быть только сильной, или не будет никакой России",
-      "excerpt": "",
-      "recap_neutral": "Путин: Россия может быть только сильной, или не будет никакой России",
-      "main_idea": "Путин: Россия может быть только сильной, или не будет никакой России",
+      "title_original": "Поддубный: Запад прекрасно понимает, что победить Россию на поле боя невозможно",
+      "title_neutral": "Поддубный: Запад прекрасно понимает, что победить Россию на поле боя невозможно",
+      "excerpt": "Военный корреспондент отметил, что сейчас очень часто технологическое превосходство определяет исход на поле боя",
+      "recap_neutral": "Военный корреспондент отметил, что сейчас очень часто технологическое превосходство определяет исход на поле боя",
+      "main_idea": "Поддубный: Запад прекрасно понимает, что победить Россию на поле боя невозможно",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 28 Jun 2026 16:10:25 +0300",
-      "url": "https://tass.ru/politika/27865341",
+      "published_at": "Sun, 28 Jun 2026 17:55:32 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27865631",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "L'Est r publicain: три человека выпрыгнули из самолета при крушении во Франции",
+      "title_neutral": "L'Est r publicain: три человека выпрыгнули из самолета при крушении во Франции",
+      "excerpt": "По данным издания, в районе, где где произошла авиакатастрофа, массово отключилось электричество",
+      "recap_neutral": "По данным издания, в районе, где где произошла авиакатастрофа, массово отключилось электричество",
+      "main_idea": "L'Est r publicain: три человека выпрыгнули из самолета при крушении во Франции",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 17:54:22 +0300",
+      "url": "https://tass.ru/proisshestviya/27865629",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Медведев: только исполненные обещания дают партии право вести за собой людей",
+      "title_neutral": "Медведев: только исполненные обещания дают партии право вести за собой людей",
+      "excerpt": "Кампания, организованная партией для обсуждения достигнутого, оказалась беспрецедентной по масштабам, отметил председатель ЕР",
+      "recap_neutral": "Кампания, организованная партией для обсуждения достигнутого, оказалась беспрецедентной по масштабам, отметил председатель ЕР",
+      "main_idea": "Медведев: только исполненные обещания дают партии право вести за собой людей",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 17:54:10 +0300",
+      "url": "https://tass.ru/politika/27865635",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Омской области ввели режим неблагоприятных метеорологических условий",
+      "title_neutral": "В Омской области ввели режим неблагоприятных метеорологических условий",
+      "excerpt": "Промышленные предприятия обязали снизить выбросы",
+      "recap_neutral": "Промышленные предприятия обязали снизить выбросы",
+      "main_idea": "В Омской области ввели режим неблагоприятных метеорологических условий",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 17:51:40 +0300",
+      "url": "https://tass.ru/obschestvo/27865625",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трутнев возглавил группу списка \"Единой России\" в регионах Дальнего Востока",
+      "title_neutral": "Трутнев возглавил группу списка \"Единой России\" в регионах Дальнего Востока",
+      "excerpt": "Также в группу вошли, в частности, губернатор ЕАО Мария Костюк и Герой России Балдан Цыдыпов",
+      "recap_neutral": "Также в группу вошли, в частности, губернатор ЕАО Мария Костюк и Герой России Балдан Цыдыпов",
+      "main_idea": "Трутнев возглавил группу списка \"Единой России\" в регионах Дальнего Востока",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 17:48:29 +0300",
+      "url": "https://tass.ru/politika/27865609",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Эксперт Бхадаурия назвал ЗРК С-400 основой ПВО Индии",
+      "title_neutral": "Эксперт Бхадаурия назвал ЗРК С-400 основой ПВО Индии",
+      "excerpt": "Говоря о перспективах военного сотрудничества с РФ, директор Центра стратегических исследований Объединенного института оборонных исследований напомнил о недавно вступившем в силу российско-индийском соглашении RELOS",
+      "recap_neutral": "Говоря о перспективах военного сотрудничества с РФ, директор Центра стратегических исследований Объединенного института оборонных исследований напомнил о недавно вступившем в силу российско-индийском соглашении RELOS",
+      "main_idea": "Эксперт Бхадаурия назвал ЗРК С-400 основой ПВО Индии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 17:47:26 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27865621",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Стратегические цели, доверие избирателей и безопасность РФ. Путин на съезде единороссов",
+      "title_neutral": "Стратегические цели, доверие избирателей и безопасность РФ. Путин на съезде единороссов",
+      "excerpt": "Сентябрьские выборы в Государственную думу \"пройдут в установленные сроки и в строгом соответствии с законом\", указал президент",
+      "recap_neutral": "Сентябрьские выборы в Государственную думу \"пройдут в установленные сроки и в строгом соответствии с законом\", указал президент",
+      "main_idea": "Стратегические цели, доверие избирателей и безопасность РФ. Путин на съезде единороссов",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 17:44:47 +0300",
+      "url": "https://tass.ru/politika/27865613",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Шуваев возглавит белгородский список кандидатов ГД от \"Единой России\" на выборах",
+      "title_neutral": "Шуваев возглавит белгородский список кандидатов ГД от \"Единой России\" на выборах",
+      "excerpt": "Всего в группу вошли 18 человек",
+      "recap_neutral": "Всего в группу вошли 18 человек",
+      "main_idea": "Шуваев возглавит белгородский список кандидатов ГД от \"Единой России\" на выборах",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 17:44:08 +0300",
+      "url": "https://tass.ru/politika/27865619",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ковальчук возглавит региональный список \"Единой России\" на выборах в Госдуму",
+      "title_neutral": "Ковальчук возглавит региональный список \"Единой России\" на выборах в Госдуму",
+      "excerpt": "",
+      "recap_neutral": "Ковальчук возглавит региональный список \"Единой России\" на выборах в Госдуму",
+      "main_idea": "Ковальчук возглавит региональный список \"Единой России\" на выборах в Госдуму",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 17:43:37 +0300",
+      "url": "https://tass.ru/politika/27865615",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Роснефть\" увеличила отпуск бензина на АЗС Иркутской области до 2,7 тыс. тонн",
+      "title_neutral": "\"Роснефть\" увеличила отпуск бензина на АЗС Иркутской области до 2,7 тыс. тонн",
+      "excerpt": "В регионе работают 76 заправок, принадлежащих компании",
+      "recap_neutral": "В регионе работают 76 заправок, принадлежащих компании",
+      "main_idea": "\"Роснефть\" увеличила отпуск бензина на АЗС Иркутской области до 2,7 тыс. тонн",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 17:42:46 +0300",
+      "url": "https://tass.ru/sibir-news/27865559",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Хинштейн возглавит региональную группу \"Единой России\" на выборах Госдуму",
+      "title_neutral": "Хинштейн возглавит региональную группу \"Единой России\" на выборах Госдуму",
+      "excerpt": "Губернатор Курской области ранее сообщал, что одним из лидеров партийного списка в ГД стал участник СВО, замкомандира бригады \"БАРС-Курск\" Антон Цветков",
+      "recap_neutral": "Губернатор Курской области ранее сообщал, что одним из лидеров партийного списка в ГД стал участник СВО, замкомандира бригады \"БАРС-Курск\" Антон Цветков",
+      "main_idea": "Хинштейн возглавит региональную группу \"Единой России\" на выборах Госдуму",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 17:41:58 +0300",
+      "url": "https://tass.ru/politika/27865611",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
+      "title_neutral": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
+      "excerpt": "More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding survivors diminished.",
+      "recap_neutral": "More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding survivors diminished",
+      "main_idea": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sun, 28 Jun 2026 14:59:56 +0000",
+      "url": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
+      "title_neutral": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
+      "excerpt": "President Trump and Iran’s Revolutionary Guards exchanged threats and U.S. allies in the Gulf said they had intercepted Iranian drones, as hostilities entered a fourth day.",
+      "recap_neutral": "President Trump and Iran’s Revolutionary Guards exchanged threats and U",
+      "main_idea": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 28 Jun 2026 14:48:05 +0000",
+      "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Here’s What to Know About the Standoff in the Strait of Hormuz",
+      "title_neutral": "Here’s What to Know About the Standoff in the Strait of Hormuz",
+      "excerpt": "The United States and Iran have engaged in rounds of attacks and counterattacks in recent days, eroding hopes for a quick return to normalcy in the Middle East.",
+      "recap_neutral": "The United States and Iran have engaged in rounds of attacks and counterattacks in recent days, eroding hopes for a quick return to normalcy in the Middle East",
+      "main_idea": "Here’s What to Know About the Standoff in the Strait of Hormuz",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 28 Jun 2026 14:45:15 +0000",
+      "url": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
+      "title_neutral": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
+      "excerpt": "Five instructors, five students and a pilot died when the plane crashed on Sunday morning in a field near the northeastern city of Nancy.",
+      "recap_neutral": "Five instructors, five students and a pilot died when the plane crashed on Sunday morning in a field near the northeastern city of Nancy",
+      "main_idea": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sun, 28 Jun 2026 14:42:59 +0000",
+      "url": "https://www.nytimes.com/2026/06/28/world/europe/france-skydiving-plane-crash-nancy.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Venezuela Government Accused of Politicizing Quake Relief",
+      "title_neutral": "Venezuela Government Accused of Politicizing Quake Relief",
+      "excerpt": "Critics say the country’s interim president, Delcy Rodríguez, is trying to exploit the tragedy for her political benefit. Her supporters accuse the opposition of doing the same.",
+      "recap_neutral": "Critics say the country’s interim president, Delcy Rodríguez, is trying to exploit the tragedy for her political benefit",
+      "main_idea": "Venezuela Government Accused of Politicizing Quake Relief",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 28 Jun 2026 14:35:33 +0000",
+      "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Flock cameras track more than your license plate, and they're spreading fast",
+      "title_neutral": "Flock cameras track more than your license plate, and they're spreading fast",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Flock cameras track more than your license plate, and they're spreading fast",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 28 Jun 2026 14:35:26 +0000",
+      "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Australian man charged with murder after girl found dead in suitcase in Thailand",
+      "title_neutral": "Australian man charged with murder after girl found dead in suitcase in Thailand",
+      "excerpt": "The 17-year-old's body was found discarded near a railway track on Saturday, police say.",
+      "recap_neutral": "The 17-year-old's body was found discarded near a railway track on Saturday, police say",
+      "main_idea": "Australian man charged with murder after girl found dead in suitcase in Thailand",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 28 Jun 2026 14:30:05 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ask HN: Is there a bad employers (who have a records of not paying) list?",
+      "title_neutral": "Ask HN: Is there a bad employers (who have a records of not paying) list?",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Ask HN: Is there a bad employers (who have a records of not paying) list?",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 28 Jun 2026 14:21:48 +0000",
+      "url": "https://news.ycombinator.com/item?id=48707536",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "EU Open Sources Ten-Year Network Development Planning Tools",
+      "title_neutral": "EU Open Sources Ten-Year Network Development Planning Tools",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "EU Open Sources Ten-Year Network Development Planning Tools",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 28 Jun 2026 14:05:47 +0000",
+      "url": "https://github.com/open-energy-transition/open-tyndp",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Dozens of Dogs Join Search for Venezuela Quake Survivors",
+      "title_neutral": "Dozens of Dogs Join Search for Venezuela Quake Survivors",
+      "excerpt": "Specially trained canines can pick up the scent of survivors beneath mounds of collapsed debris, indicating where clearance teams should begin digging.",
+      "recap_neutral": "Specially trained canines can pick up the scent of survivors beneath mounds of collapsed debris, indicating where clearance teams should begin digging",
+      "main_idea": "Dozens of Dogs Join Search for Venezuela Quake Survivors",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 28 Jun 2026 14:03:29 +0000",
+      "url": "https://www.nytimes.com/2026/06/28/world/americas/rescue-dogs-canine-units-earthquake-venezuela.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
+      "title_neutral": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
+      "excerpt": "An agreement between the U.S. and Kazakhstan has given a group of American investors with ties to the president and the commerce secretary access to one of the world’s largest untapped reserves of tungsten.",
+      "recap_neutral": "An agreement between the U",
+      "main_idea": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 28 Jun 2026 13:52:38 +0000",
+      "url": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Austria Lobbies EU to Host Anthropic After US Access Curbs",
+      "title_neutral": "Austria Lobbies EU to Host Anthropic After US Access Curbs",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Austria Lobbies EU to Host Anthropic After US Access Curbs",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 28 Jun 2026 13:34:14 +0000",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Google limits Meta's use of its Gemini AI models",
+      "title_neutral": "Google limits Meta's use of its Gemini AI models",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Google limits Meta's use of its Gemini AI models",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 28 Jun 2026 13:30:06 +0000",
+      "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -336,36 +556,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
-      "title_neutral": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
-      "excerpt": "President Trump and Iran’s Revolutionary Guards exchanged threats and U.S. allies in the Gulf said they had intercepted Iranian drones, as hostilities entered a fourth day.",
-      "recap_neutral": "President Trump and Iran’s Revolutionary Guards exchanged threats and U",
-      "main_idea": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 28 Jun 2026 13:00:18 +0000",
-      "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The origins of the school system aimed to produce independent, critical thinkers",
-      "title_neutral": "The origins of the school system aimed to produce independent, critical thinkers",
+      "title_original": "The curious case of the disappearing Polish S",
+      "title_neutral": "The curious case of the disappearing Polish S",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "The origins of the school system aimed to produce independent, critical thinkers",
-      "tags": [
-        "tech"
-      ],
+      "main_idea": "The curious case of the disappearing Polish S",
+      "tags": [],
       "source": "Hacker News",
-      "published_at": "Sun, 28 Jun 2026 12:55:36 +0000",
-      "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
+      "published_at": "Sun, 28 Jun 2026 12:44:24 +0000",
+      "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -404,21 +603,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
-      "title_neutral": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
-      "excerpt": "More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding survivors diminished.",
-      "recap_neutral": "More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding survivors diminished",
-      "main_idea": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sun, 28 Jun 2026 12:28:53 +0000",
-      "url": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "A way to exclude sensitive files issue still open for OpenAI Codex",
       "title_neutral": "A way to exclude sensitive files issue still open for OpenAI Codex",
       "excerpt": "Comments",
@@ -430,38 +614,6 @@
       "source": "Hacker News",
       "published_at": "Sun, 28 Jun 2026 12:27:33 +0000",
       "url": "https://github.com/openai/codex/issues/2847",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
-      "title_neutral": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
-      "excerpt": "An agreement between the U.S. and Kazakhstan has given a group of American investors with ties to the president and the commerce secretary access to one of the world’s largest untapped reserves of tungsten.",
-      "recap_neutral": "An agreement between the U",
-      "main_idea": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 28 Jun 2026 11:57:56 +0000",
-      "url": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Kids act would require age checks to get online",
-      "title_neutral": "Kids act would require age checks to get online",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Kids act would require age checks to get online",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 28 Jun 2026 11:56:16 +0000",
-      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -483,18 +635,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Here’s the latest.",
-      "title_neutral": "Here’s the latest.",
-      "excerpt": "",
-      "recap_neutral": "Here’s the latest.",
-      "main_idea": "Here’s the latest.",
+      "title_original": "Three firefighters killed on Colorado-Utah border as wildfires intensify",
+      "title_neutral": "Three firefighters killed on Colorado-Utah border as wildfires intensify",
+      "excerpt": "The deaths occurred as crews battled multiple blazes across a parched region. Two other firefighters were also injured.",
+      "recap_neutral": "The deaths occurred as crews battled multiple blazes across a parched region",
+      "main_idea": "Three firefighters killed on Colorado-Utah border as wildfires intensify",
       "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sun, 28 Jun 2026 11:24:11 +0000",
-      "url": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake/heres-the-latest",
+      "source": "NPR",
+      "published_at": "Sun, 28 Jun 2026 10:46:48 -0400",
+      "url": "https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -579,23 +731,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Venezuela Government Accused of Politicizing Quake Relief",
-      "title_neutral": "Venezuela Government Accused of Politicizing Quake Relief",
-      "excerpt": "Critics say the country’s interim president, Delcy Rodríguez, is trying to exploit the tragedy for her political benefit. Her supporters accuse the opposition of doing the same.",
-      "recap_neutral": "Critics say the country’s interim president, Delcy Rodríguez, is trying to exploit the tragedy for her political benefit",
-      "main_idea": "Venezuela Government Accused of Politicizing Quake Relief",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 28 Jun 2026 09:00:58 +0000",
-      "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -709,6 +844,21 @@
       "source": "NPR",
       "published_at": "Sun, 28 Jun 2026 06:00:00 -0400",
       "url": "https://www.npr.org/2026/06/28/nx-s1-5869604/dc-fireworks-trump-250-world-record",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Tips for taking care of your pets when fireworks are booming",
+      "title_neutral": "Tips for taking care of your pets when fireworks are booming",
+      "excerpt": "Communities around the U.S. are putting on epic fireworks shows for America's 250th birthday — but that spells trouble for dogs and cats. Here's a guide to help the animals in your life.",
+      "recap_neutral": "Communities around the U",
+      "main_idea": "Tips for taking care of your pets when fireworks are booming",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sun, 28 Jun 2026 06:00:00 -0400",
+      "url": "https://www.npr.org/2026/06/28/g-s1-130446/fireworks-pets-dogs-cats",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -829,21 +979,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "title_neutral": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 28 Jun 2026 04:31:18 +0000",
-      "url": "https://github.com/itsthelore/wayfinder-router",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "A Mayor Is Taking Maternity Leave in Japan. Some Men Are Furious.",
       "title_neutral": "A Mayor Is Taking Maternity Leave in Japan. Some Men Are Furious.",
       "excerpt": "Shoko Kawata is the first mayor to take maternity leave in Japan’s history. Her decision has prompted debate about gender discrimination in the work force.",
@@ -878,11 +1013,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Onto the knockout round: 4 takeaways from the FIFA World Cup so far",
-      "title_neutral": "Onto the knockout round: 4 takeaways from the FIFA World Cup so far",
+      "title_original": "On to the knockout round: 4 takeaways from the FIFA World Cup so far",
+      "title_neutral": "On to the knockout round: 4 takeaways from the FIFA World Cup so far",
       "excerpt": "The anxieties before the World Cup were many. But with the knockout round set to begin Sunday, it's fair to say: The North American World Cup has been a thrill.",
       "recap_neutral": "The anxieties before the World Cup were many",
-      "main_idea": "Onto the knockout round: 4 takeaways from the FIFA World Cup so far",
+      "main_idea": "On to the knockout round: 4 takeaways from the FIFA World Cup so far",
       "tags": [
         "tech"
       ],
@@ -944,21 +1079,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-      "title_neutral": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 28 Jun 2026 01:21:20 +0000",
-      "url": "https://decomp-academy.dev",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "AMD Strix Halo RDMA Cluster Setup Guide",
       "title_neutral": "AMD Strix Halo RDMA Cluster Setup Guide",
       "excerpt": "Comments",
@@ -1016,21 +1136,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Choosing a Public DNS Resolver",
-      "title_neutral": "Choosing a Public DNS Resolver",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Choosing a Public DNS Resolver",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 27 Jun 2026 22:11:28 +0000",
-      "url": "https://evilbit.de/dns-resolver-guide.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1285,24 +1390,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
-      "title_neutral": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
-      "excerpt": "Criticism of Israel’s war in Gaza, anger over the Iran war and election results in New York all suggest Israel’s solid support from Washington may be on borrowed time.",
-      "recap_neutral": "Criticism of Israel’s war in Gaza, anger over the Iran war and election results in New York all suggest Israel’s solid support from Washington may be on borrowed time",
-      "main_idea": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
-      "tags": [
-        "politics",
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 27 Jun 2026 15:16:58 +0000",
-      "url": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Resolving WGTS Rear Wall Scattering in the Troitsk Nu-Mass Experiment",
       "title_neutral": "Resolving WGTS Rear Wall Scattering in the Troitsk Nu-Mass Experiment",
       "excerpt": "Learn how rear wall electron scattering inside windowless gaseous tritium sources introduces beta-spectrum contamination, providing crucial data corrections for the TRISTAN and KATRIN sterile neutrino searches.",
@@ -1380,21 +1467,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Once He Wanted to Lead FIFA. This Is Much Better.",
-      "title_neutral": "Once He Wanted to Lead FIFA. This Is Much Better.",
-      "excerpt": "Jordan’s arrival at the World Cup is the culmination of decades of patient effort by one man, but also a moment of solidarity for his nation and its diaspora.",
-      "recap_neutral": "Jordan’s arrival at the World Cup is the culmination of decades of patient effort by one man, but also a moment of solidarity for his nation and its diaspora",
-      "main_idea": "Once He Wanted to Lead FIFA. This Is Much Better.",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sat, 27 Jun 2026 13:55:44 +0000",
-      "url": "https://www.nytimes.com/2026/06/27/world/middleeast/jordan-prince-ali-al-hussein-world-cup.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Mexican Officials Have Become Informants for the Trump Administration",
       "title_neutral": "Mexican Officials Have Become Informants for the Trump Administration",
       "excerpt": "President Claudia Sheinbaum of Mexico has pushed back against U.S. investigations into Mexican politicians. Now some politicians want to cooperate.",
@@ -1410,38 +1482,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Uzbekistan makes its World Cup debut, a first for Central Asia",
-      "title_neutral": "Uzbekistan makes its World Cup debut, a first for Central Asia",
-      "excerpt": "The country is the first Central Asian nation to qualify for the World Cup, and Uzbek fans have reveled in showcasing their country and culture. The country's president calls the team a symbol of the \"new Uzbekistan.\"",
-      "recap_neutral": "The country is the first Central Asian nation to qualify for the World Cup, and Uzbek fans have reveled in showcasing their country and culture",
-      "main_idea": "Uzbekistan makes its World Cup debut, a first for Central Asia",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 27 Jun 2026 09:45:19 -0400",
-      "url": "https://www.npr.org/2026/06/27/g-s1-129705/uzbekistan-world-cup",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Opinion: Ranch dressing is a winner at the World Cup games",
-      "title_neutral": "Opinion: Ranch dressing is a winner at the World Cup games",
-      "excerpt": "NPR's Scott Simon reflects on the popularity of ranch dressing among international visitors to the U.S. during the World Cup games.",
-      "recap_neutral": "NPR's Scott Simon reflects on the popularity of ranch dressing among international visitors to the U",
-      "main_idea": "Opinion: Ranch dressing is a winner at the World Cup games",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Sat, 27 Jun 2026 08:00:00 -0400",
-      "url": "https://www.npr.org/2026/06/27/nx-s1-5865082/opinion-ranch-dressing-is-a-winner-at-the-world-cup-games",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1471,23 +1511,6 @@
       "source": "BBC World",
       "published_at": "Sat, 27 Jun 2026 00:31:42 GMT",
       "url": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-      "title_neutral": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-      "excerpt": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
-      "recap_neutral": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults",
-      "main_idea": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 26 Jun 2026 23:01:50 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -1540,21 +1563,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Engineering for Bounded Cognition",
-      "title_neutral": "Engineering for Bounded Cognition",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Engineering for Bounded Cognition",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 26 Jun 2026 12:41:31 +0000",
-      "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
