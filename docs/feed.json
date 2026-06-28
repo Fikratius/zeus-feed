@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T09:39:58.994390+00:00",
+  "last_updated": "2026-06-28T11:44:35.358800+00:00",
   "items": [
     {
       "title_original": "France confirms first Ebola case in doctor who had worked in DRC",
@@ -17,6 +17,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A stray \"j\" ruined my evening",
+      "title_neutral": "A stray \"j\" ruined my evening",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "A stray \"j\" ruined my evening",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 23 Jun 2026 21:56:33 +0000",
+      "url": "https://napkins.mtmn.name/posts/stray-jay.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -38,18 +53,398 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Regular expressions that work \"everywhere\"",
-      "title_neutral": "Regular expressions that work \"everywhere\"",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Regular expressions that work \"everywhere\"",
+      "title_original": "Капитан \"Динамо\" Фомин назвал Роналду и Месси уникумами",
+      "title_neutral": "Капитан \"Динамо\" Фомин назвал Роналду и Месси уникумами",
+      "excerpt": "Месси с шестью голами стал лучшим бомбардиром группового этапа чемпионата мира, Роналду забил два мяча",
+      "recap_neutral": "Месси с шестью голами стал лучшим бомбардиром группового этапа чемпионата мира, Роналду забил два мяча",
+      "main_idea": "Капитан \"Динамо\" Фомин назвал Роналду и Месси уникумами",
       "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 25 Jun 2026 12:13:24 +0000",
-      "url": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 14:41:46 +0300",
+      "url": "https://tass.ru/sport/27865103",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Участники протеста в Кишиневе потребовали отставки президента и правительства",
+      "title_neutral": "Участники протеста в Кишиневе потребовали отставки президента и правительства",
+      "excerpt": "Акция проходит на фоне коррупционного скандала вокруг родственников Санду и предложений правительства по бюджетно-налоговой политике",
+      "recap_neutral": "Акция проходит на фоне коррупционного скандала вокруг родственников Санду и предложений правительства по бюджетно-налоговой политике",
+      "main_idea": "Участники протеста в Кишиневе потребовали отставки президента и правительства",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 14:41:46 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27865099",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Гендиректор \"Ахмата\" Айдамиров оценил формат ЧМ-2026",
+      "title_neutral": "Гендиректор \"Ахмата\" Айдамиров оценил формат ЧМ-2026",
+      "excerpt": "На чемпионате мира 2026 года впервые выступают 48 сборных",
+      "recap_neutral": "На чемпионате мира 2026 года впервые выступают 48 сборных",
+      "main_idea": "Гендиректор \"Ахмата\" Айдамиров оценил формат ЧМ-2026",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 14:40:56 +0300",
+      "url": "https://tass.ru/sport/27865095",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "При крушении самолета на северо-востоке Франции погибли 11 человек",
+      "title_neutral": "При крушении самолета на северо-востоке Франции погибли 11 человек",
+      "excerpt": "",
+      "recap_neutral": "При крушении самолета на северо-востоке Франции погибли 11 человек",
+      "main_idea": "При крушении самолета на северо-востоке Франции погибли 11 человек",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 14:38:07 +0300",
+      "url": "https://tass.ru/proisshestviya/27865093",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ЦАХАЛ сообщил о гибели командира взвода бригады \"Голани\" на юге Ливана",
+      "title_neutral": "ЦАХАЛ сообщил о гибели командира взвода бригады \"Голани\" на юге Ливана",
+      "excerpt": "Еще один солдат ранен, уточнила Армия обороны Израиля",
+      "recap_neutral": "Еще один солдат ранен, уточнила Армия обороны Израиля",
+      "main_idea": "ЦАХАЛ сообщил о гибели командира взвода бригады \"Голани\" на юге Ливана",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 14:34:47 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27865091",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Дзюдоист Башаев победил на этапе Гран-при в Китае",
+      "title_neutral": "Дзюдоист Башаев победил на этапе Гран-при в Китае",
+      "excerpt": "Он завоевал золото в весовой категории свыше 100 кг",
+      "recap_neutral": "Он завоевал золото в весовой категории свыше 100 кг",
+      "main_idea": "Дзюдоист Башаев победил на этапе Гран-при в Китае",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 14:32:01 +0300",
+      "url": "https://tass.ru/sport/27865089",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Антон Миранчук считает, что сборная России вышла бы из группы на ЧМ-2026",
+      "title_neutral": "Антон Миранчук считает, что сборная России вышла бы из группы на ЧМ-2026",
+      "excerpt": "Команда России отстранена от международных турниров с 2022 года",
+      "recap_neutral": "Команда России отстранена от международных турниров с 2022 года",
+      "main_idea": "Антон Миранчук считает, что сборная России вышла бы из группы на ЧМ-2026",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 14:27:40 +0300",
+      "url": "https://tass.ru/sport/27865085",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Путин похвалил новый самолет Ил-114-300",
+      "title_neutral": "Путин похвалил новый самолет Ил-114-300",
+      "excerpt": "Президент РФ осмотрел новинки отечественного авиастроения в Жуковском",
+      "recap_neutral": "Президент РФ осмотрел новинки отечественного авиастроения в Жуковском",
+      "main_idea": "Путин похвалил новый самолет Ил-114-300",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 14:26:31 +0300",
+      "url": "https://tass.ru/ekonomika/27865083",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Астраханской области сальмонеллу подтвердили у 26 человек",
+      "title_neutral": "В Астраханской области сальмонеллу подтвердили у 26 человек",
+      "excerpt": "Предварительной причиной массового отравления стало изготовление рыбных котлет в антисанитарных условиях",
+      "recap_neutral": "Предварительной причиной массового отравления стало изготовление рыбных котлет в антисанитарных условиях",
+      "main_idea": "В Астраханской области сальмонеллу подтвердили у 26 человек",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 14:20:16 +0300",
+      "url": "https://tass.ru/proisshestviya/27865081",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Дзюдоистка Старцева стала победительницей этапа Гран-при в Китае",
+      "title_neutral": "Дзюдоистка Старцева стала победительницей этапа Гран-при в Китае",
+      "excerpt": "Россиянка первенствовала в весовой категории свыше 78 кг",
+      "recap_neutral": "Россиянка первенствовала в весовой категории свыше 78 кг",
+      "main_idea": "Дзюдоистка Старцева стала победительницей этапа Гран-при в Китае",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 14:19:24 +0300",
+      "url": "https://tass.ru/sport/27865079",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AFP: во Франции значительно выросла смертность из-за жары",
+      "title_neutral": "AFP: во Франции значительно выросла смертность из-за жары",
+      "excerpt": "Наибольший рост смертей наблюдается в парижском регионе Иль-де-Франс, сообщило агентство",
+      "recap_neutral": "Наибольший рост смертей наблюдается в парижском регионе Иль-де-Франс, сообщило агентство",
+      "main_idea": "AFP: во Франции значительно выросла смертность из-за жары",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 14:19:17 +0300",
+      "url": "https://tass.ru/obschestvo/27865075",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Геленджика сняли временные ограничения",
+      "title_neutral": "В аэропорту Геленджика сняли временные ограничения",
+      "excerpt": "Об этом сообщили в Росавиации",
+      "recap_neutral": "Об этом сообщили в Росавиации",
+      "main_idea": "В аэропорту Геленджика сняли временные ограничения",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 14:18:17 +0300",
+      "url": "https://tass.ru/ekonomika/27865073",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Соколов предложил включить проект \"зарплат\" бабушкам по уходу за внуками в программу ЕР",
+      "title_neutral": "Соколов предложил включить проект \"зарплат\" бабушкам по уходу за внуками в программу ЕР",
+      "excerpt": "Ежемесячные выплаты для бабушек и дедушек, которые ухаживают за ребенком в возрасте до трех лет, могут составить до 45,7 тыс. рублей",
+      "recap_neutral": "Ежемесячные выплаты для бабушек и дедушек, которые ухаживают за ребенком в возрасте до трех лет, могут составить до 45,7 тыс",
+      "main_idea": "Соколов предложил включить проект \"зарплат\" бабушкам по уходу за внуками в программу ЕР",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 14:17:56 +0300",
+      "url": "https://tass.ru/obschestvo/27865065",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Путин уверен, что Ил-114-300 будет востребованным на Дальнем Востоке",
+      "title_neutral": "Путин уверен, что Ил-114-300 будет востребованным на Дальнем Востоке",
+      "excerpt": "Главе государства рассказали, что первые самолеты поставят на северное направление, а следующими заинтересовалась авиакомпания \"Аврора\"",
+      "recap_neutral": "Главе государства рассказали, что первые самолеты поставят на северное направление, а следующими заинтересовалась авиакомпания \"Аврора\"",
+      "main_idea": "Путин уверен, что Ил-114-300 будет востребованным на Дальнем Востоке",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 14:17:06 +0300",
+      "url": "https://tass.ru/ekonomika/27865071",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Томенко назвал поддержку участников СВО задачей для всего общества",
+      "title_neutral": "Томенко назвал поддержку участников СВО задачей для всего общества",
+      "excerpt": "По словам губернатора Алтайского края, в регионе выстроена многоуровневая система поддержки каждого участника специальной военной операции",
+      "recap_neutral": "По словам губернатора Алтайского края, в регионе выстроена многоуровневая система поддержки каждого участника специальной военной операции",
+      "main_idea": "Томенко назвал поддержку участников СВО задачей для всего общества",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 28 Jun 2026 14:14:05 +0300",
+      "url": "https://tass.ru/obschestvo/27865061",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
+      "title_neutral": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
+      "excerpt": "President Trump and Iran’s Revolutionary Guards exchanged threats and U.S. allies in the Gulf said they had intercepted Iranian drones, as hostilities entered a fourth day.",
+      "recap_neutral": "President Trump and Iran’s Revolutionary Guards exchanged threats and U",
+      "main_idea": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 28 Jun 2026 11:34:36 +0000",
+      "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
+      "title_neutral": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
+      "excerpt": "More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding survivors diminished.",
+      "recap_neutral": "More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding survivors diminished",
+      "main_idea": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sun, 28 Jun 2026 11:34:36 +0000",
+      "url": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Heat Starts to Break in Western Europe, as Central Europe Begins to Broil",
+      "title_neutral": "Heat Starts to Break in Western Europe, as Central Europe Begins to Broil",
+      "excerpt": "After days of record temperatures in Western Europe, the extreme heat is easing there. Now, Central Europe is facing days of dangerous swelter.",
+      "recap_neutral": "After days of record temperatures in Western Europe, the extreme heat is easing there",
+      "main_idea": "Heat Starts to Break in Western Europe, as Central Europe Begins to Broil",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sun, 28 Jun 2026 11:26:26 +0000",
+      "url": "https://www.nytimes.com/2026/06/28/world/europe/central-europe-heat-wave.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Here’s the latest.",
+      "title_neutral": "Here’s the latest.",
+      "excerpt": "",
+      "recap_neutral": "Here’s the latest.",
+      "main_idea": "Here’s the latest.",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sun, 28 Jun 2026 11:24:11 +0000",
+      "url": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake/heres-the-latest",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
+      "title_neutral": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
+      "excerpt": "An agreement between the U.S. and Kazakhstan has given a group of American investors with ties to the president and the commerce secretary access to one of the world’s largest untapped reserves of tungsten.",
+      "recap_neutral": "An agreement between the U",
+      "main_idea": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 28 Jun 2026 10:26:19 +0000",
+      "url": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Uganda's leading media outlets shut down by army chief",
+      "title_neutral": "Uganda's leading media outlets shut down by army chief",
+      "excerpt": "NTV and Daily Monitor say their offices in the capital are under \"military siege\".",
+      "recap_neutral": "NTV and Daily Monitor say their offices in the capital are under \"military siege\"",
+      "main_idea": "Uganda's leading media outlets shut down by army chief",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 28 Jun 2026 10:11:35 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Kazakhstan’s Leader Deepens U.S. Ties, Saying Trump Was ‘Sent by Heaven’",
+      "title_neutral": "Kazakhstan’s Leader Deepens U.S. Ties, Saying Trump Was ‘Sent by Heaven’",
+      "excerpt": "The Central Asian nation is aggressively courting President Trump’s Washington to counterbalance its powerful neighbors, Russia and China.",
+      "recap_neutral": "The Central Asian nation is aggressively courting President Trump’s Washington to counterbalance its powerful neighbors, Russia and China",
+      "main_idea": "Kazakhstan’s Leader Deepens U.S. Ties, Saying Trump Was ‘Sent by Heaven’",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 28 Jun 2026 09:39:19 +0000",
+      "url": "https://www.nytimes.com/2026/06/28/world/asia/kazakhstan-trump.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Venezuelan earthquakes test Trump’s new western hemisphere policy after gutting of USAID",
+      "title_neutral": "Venezuelan earthquakes test Trump’s new western hemisphere policy after gutting of USAID",
+      "excerpt": "Marco Rubio is scrambling to provide effective disaster response to country whose president US deposed in January This week’s dual earthquakes in Venezuela are a test for the new era of American power in the western hemisphere, as the Trump administration scrambles to provide an effective disaster…",
+      "recap_neutral": "Marco Rubio is scrambling to provide effective disaster response to country whose president US deposed in January This week’s dual earthquakes in Venezuela are a test for the new era of American power in the western hem…",
+      "main_idea": "Venezuelan earthquakes test Trump’s new western hemisphere policy after gutting of USAID",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Sun, 28 Jun 2026 09:32:47 GMT",
+      "url": "https://www.theguardian.com/us-news/2026/jun/28/venezuelan-earthquakes-test-trumps-new-western-hemisphere-policy-after-gutting-of-usaid",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Australian man charged with murder in Thailand after teenage girl’s body found in suitcase",
+      "title_neutral": "Australian man charged with murder in Thailand after teenage girl’s body found in suitcase",
+      "excerpt": "Simon Peter Carman, 46, has denied the charges against him Get our breaking news email , free app or daily news podcast An Australian man has been charged with the murder of a teenage girl whose naked body was found in a suitcase in Thailand. Pattaya City police told the Guardian the man, identifie…",
+      "recap_neutral": "Simon Peter Carman, 46, has denied the charges against him Get our breaking news email , free app or daily news podcast An Australian man has been charged with the murder of a teenage girl whose naked body was found in…",
+      "main_idea": "Australian man charged with murder in Thailand after teenage girl’s body found in suitcase",
+      "tags": [
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Sun, 28 Jun 2026 09:25:27 GMT",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/28/australian-man-charged-thailand-teenage-girl-body-found-in-suitcase-pattaya-city-ntwnfb",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
       "confidence": "heuristic"
     },
     {
@@ -88,18 +483,54 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Can China build its own ASML?",
-      "title_neutral": "Can China build its own ASML?",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Can China build its own ASML?",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 28 Jun 2026 07:45:23 +0000",
-      "url": "https://nikkei.shorthandstories.com/can-china-build-its-own-asml/",
+      "title_original": "Exile Vector",
+      "title_neutral": "Exile Vector",
+      "excerpt": "After imprisoning Edmond Dantès to protect his political future and conceal his father’s ties to Bonapartists, Villefort rushes back to the Saint-Mérans and secretly prepares for a career-making trip to Paris. Mercédès desperately seeks answers but is turned away. Villefort briefly feels crushing g…",
+      "recap_neutral": "After imprisoning Edmond Dantès to protect his political future and conceal his father’s ties to Bonapartists, Villefort rushes back to the Saint-Mérans and secretly prepares for a career-making trip to Paris",
+      "main_idea": "Exile Vector",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 28 Jun 2026 08:45:21 GMT",
+      "url": "https://hackernoon.com/exile-vector?source=rss",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Best Usage-Based Billing Platforms for AI Companies in 2026: Metronome, Orb, Stripe, & Alternatives",
+      "title_neutral": "Best Usage-Based Billing Platforms for AI Companies in 2026: Metronome, Orb, Stripe, & Alternatives",
+      "excerpt": "AI products break traditional SaaS billing because infrastructure costs happen before invoices are generated. This guide compares six usage-based billing platforms across real-time authorization, invoice-based metering, pricing flexibility, contracts, and self-hosting. Credyt leads for real-time ba…",
+      "recap_neutral": "AI products break traditional SaaS billing because infrastructure costs happen before invoices are generated",
+      "main_idea": "Best Usage-Based Billing Platforms for AI Companies in 2026: Metronome, Orb, Stripe, & Alternatives",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 28 Jun 2026 08:30:48 GMT",
+      "url": "https://hackernoon.com/best-usage-based-billing-platforms-for-ai-companies-in-2026-metronome-orb-stripe-and-alternatives?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Prison of Château d’If",
+      "title_neutral": "Prison of Château d’If",
+      "excerpt": "After trusting Villefort’s promise of release, Edmond Dantès is escorted through dark corridors and secretly transferred by night across the harbor to the feared Château d’If. Realizing too late that he has been betrayed, he briefly considers escape but submits, believing justice will prevail. Lock…",
+      "recap_neutral": "After trusting Villefort’s promise of release, Edmond Dantès is escorted through dark corridors and secretly transferred by night across the harbor to the feared Château d’If",
+      "main_idea": "Prison of Château d’If",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 28 Jun 2026 07:30:44 GMT",
+      "url": "https://hackernoon.com/prison-of-chateau-dif?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -115,6 +546,38 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "These church members disagree on politics. Together they're wiping out medical debt",
+      "title_neutral": "These church members disagree on politics. Together they're wiping out medical debt",
+      "excerpt": "Trinity Moravian Church, a politically diverse congregation in Winston-Salem, N. C., has been raising money to retire medical debt in the surrounding community.",
+      "recap_neutral": "Trinity Moravian Church, a politically diverse congregation in Winston-Salem, N",
+      "main_idea": "These church members disagree on politics. Together they're wiping out medical debt",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Sun, 28 Jun 2026 07:00:00 -0400",
+      "url": "https://www.npr.org/2026/06/28/nx-s1-5847966/medical-debt-politics-republican-democrat",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "July 4th fireworks in Washington: What's different for America's 250th?",
+      "title_neutral": "July 4th fireworks in Washington: What's different for America's 250th?",
+      "excerpt": "This year's fireworks display in Washington, D.C., is scheduled toWhat to know about the massive July 4 firework show for America's 250th",
+      "recap_neutral": "This year's fireworks display in Washington, D",
+      "main_idea": "July 4th fireworks in Washington: What's different for America's 250th?",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sun, 28 Jun 2026 06:00:00 -0400",
+      "url": "https://www.npr.org/2026/06/28/nx-s1-5869604/dc-fireworks-trump-250-world-record",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -135,18 +598,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Will the new student loan limits actually drive down tuition? Economists weigh in",
-      "title_neutral": "Will the new student loan limits actually drive down tuition? Economists weigh in",
-      "excerpt": "The idea that there's a connection between federal student loans and what colleges charge dates back almost four decades. But it's unclear that link can lead to lower costs.",
-      "recap_neutral": "The idea that there's a connection between federal student loans and what colleges charge dates back almost four decades",
-      "main_idea": "Will the new student loan limits actually drive down tuition? Economists weigh in",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Sun, 28 Jun 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/06/28/nx-s1-5805988/cost-education-student-loan-tuition-graduate-school",
+      "title_original": "Policy-Driven Security and Governance in Kubernetes AI Platforms",
+      "title_neutral": "Policy-Driven Security and Governance in Kubernetes AI Platforms",
+      "excerpt": "Policy-driven security in Kubernetes AI platforms enables organizations to enforce governance automatically across AI workloads, including LLMs, RAG systems, and vector databases. By using RBAC, network policies, admission controllers, Kyverno, and OPA Gatekeeper, teams can implement policy-as-code…",
+      "recap_neutral": "Policy-driven security in Kubernetes AI platforms enables organizations to enforce governance automatically across AI workloads, including LLMs, RAG systems, and vector databases",
+      "main_idea": "Policy-Driven Security and Governance in Kubernetes AI Platforms",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 28 Jun 2026 05:00:31 GMT",
+      "url": "https://hackernoon.com/policy-driven-security-and-governance-in-kubernetes-ai-platforms?source=rss",
       "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -159,6 +624,21 @@
       "source": "NPR",
       "published_at": "Sun, 28 Jun 2026 05:00:00 -0400",
       "url": "https://www.npr.org/2026/06/28/nx-s1-5843114/250-colonial-america-1776-food-anniversary",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Will the new student loan limits actually drive down tuition? Economists weigh in",
+      "title_neutral": "Will the new student loan limits actually drive down tuition? Economists weigh in",
+      "excerpt": "The idea that there's a connection between federal student loans and what colleges charge dates back almost four decades. But it's unclear that link can lead to lower costs.",
+      "recap_neutral": "The idea that there's a connection between federal student loans and what colleges charge dates back almost four decades",
+      "main_idea": "Will the new student loan limits actually drive down tuition? Economists weigh in",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sun, 28 Jun 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/06/28/nx-s1-5805988/cost-education-student-loan-tuition-graduate-school",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -264,23 +744,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ford hired AI and sacked humans. It backfired badly",
-      "title_neutral": "Ford hired AI and sacked humans. It backfired badly",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Ford hired AI and sacked humans. It backfired badly",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sun, 28 Jun 2026 03:09:13 +0000",
-      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Onto the knockout round: 4 takeaways from the FIFA World Cup so far",
       "title_neutral": "Onto the knockout round: 4 takeaways from the FIFA World Cup so far",
       "excerpt": "The anxieties before the World Cup were many. But with the knockout round set to begin Sunday, it's fair to say: The North American World Cup has been a thrill.",
@@ -295,23 +758,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "U.S. Officials Said to Be Frustrated With Machado’s Call for Help",
-      "title_neutral": "U.S. Officials Said to Be Frustrated With Machado’s Call for Help",
-      "excerpt": "María Corina Machado, the exiled leader of the Venezuelan opposition, hopes to go home. U.S. officials say her wishes to do so come at an inopportune time.",
-      "recap_neutral": "María Corina Machado, the exiled leader of the Venezuelan opposition, hopes to go home",
-      "main_idea": "U.S. Officials Said to Be Frustrated With Machado’s Call for Help",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 28 Jun 2026 02:30:02 +0000",
-      "url": "https://www.nytimes.com/2026/06/27/world/americas/us-officials-frustrated-with-exiled-venezuelan-leaders-call-for-help.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -347,6 +793,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "399 Blog Posts To Learn About Growth Hacking",
+      "title_neutral": "399 Blog Posts To Learn About Growth Hacking",
+      "excerpt": "Let's learn about Growth Hacking via these 399 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. Learn, from people that walk the walk, how best to help new and existing companies acqu…",
+      "recap_neutral": "Let's learn about Growth Hacking via these 399 free blog posts",
+      "main_idea": "399 Blog Posts To Learn About Growth Hacking",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 28 Jun 2026 02:01:04 GMT",
+      "url": "https://hackernoon.com/399-blog-posts-to-learn-about-growth-hacking?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
       "title_neutral": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
       "excerpt": "Comments",
@@ -374,6 +837,21 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+      "title_neutral": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+      "excerpt": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds.",
+      "recap_neutral": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds",
+      "main_idea": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sun, 28 Jun 2026 00:06:19 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -407,18 +885,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A Sculptor Rushes to Finish a Lionel Messi Statue During the World Cup",
-      "title_neutral": "A Sculptor Rushes to Finish a Lionel Messi Statue During the World Cup",
-      "excerpt": "As Lionel Messi chases another World Cup title, an artist is rushing to finish a gigantic statue of the soccer star in the middle of the Patagonian desert.",
-      "recap_neutral": "As Lionel Messi chases another World Cup title, an artist is rushing to finish a gigantic statue of the soccer star in the middle of the Patagonian desert",
-      "main_idea": "A Sculptor Rushes to Finish a Lionel Messi Statue During the World Cup",
+      "title_original": "Australia to double maximum penalty for platforms in breach of social media ban",
+      "title_neutral": "Australia to double maximum penalty for platforms in breach of social media ban",
+      "excerpt": "Children under the age of 16 have been prevented from 10 key social media platforms in Australia since December 2025.",
+      "recap_neutral": "Children under the age of 16 have been prevented from 10 key social media platforms in Australia since December 2025",
+      "main_idea": "Australia to double maximum penalty for platforms in breach of social media ban",
       "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sat, 27 Jun 2026 22:15:42 +0000",
-      "url": "https://www.nytimes.com/2026/06/27/world/americas/lionel-messi-argentina-statue.html",
+      "source": "BBC World",
+      "published_at": "Sat, 27 Jun 2026 22:34:11 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -448,6 +926,23 @@
       "source": "BBC World",
       "published_at": "Sat, 27 Jun 2026 21:35:40 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Budapest's first Pride since Orban left power",
+      "title_neutral": "Budapest's first Pride since Orban left power",
+      "excerpt": "Budapest held its first Pride march since the end of former prime minister Viktor Orban's 16-year government with thousands turning out to celebrate.",
+      "recap_neutral": "Budapest held its first Pride march since the end of former prime minister Viktor Orban's 16-year government with thousands turning out to celebrate",
+      "main_idea": "Budapest's first Pride since Orban left power",
+      "tags": [
+        "politics"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 27 Jun 2026 21:28:04 GMT",
+      "url": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -623,24 +1118,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Venezuela’s Economy Was On the Rise. Then the Earthquakes Struck.",
-      "title_neutral": "Venezuela’s Economy Was On the Rise. Then the Earthquakes Struck.",
-      "excerpt": "Expectations are now rising over the role the United States will play in helping Venezuela, which had already been laid low by decades of misrule.",
-      "recap_neutral": "Expectations are now rising over the role the United States will play in helping Venezuela, which had already been laid low by decades of misrule",
-      "main_idea": "Venezuela’s Economy Was On the Rise. Then the Earthquakes Struck.",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 27 Jun 2026 17:25:27 +0000",
-      "url": "https://www.nytimes.com/2026/06/27/world/americas/venezuelas-economy-earthquake.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Hallucinations of \"People From Humanity\" After Communicating With \"Artificial Intelligence\"",
       "title_neutral": "Hallucinations of \"People From Humanity\" After Communicating With \"Artificial Intelligence\"",
       "excerpt": "There are meticulous, tenacious people who have learned to squeeze genuinely serious answers out of smart chats. They're in no hurry to share their method — for each of them, it's a personal competitive advantage, a source of professional authority. And there's a huge mass of users who mostly mess…",
@@ -801,40 +1278,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The TechBeat: We brought Hermes Agent to iMessage, even on Linux and Windows (6/27/2026)",
-      "title_neutral": "The TechBeat: We brought Hermes Agent to iMessage, even on Linux and Windows (6/27/2026)",
-      "excerpt": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here . ## AI Made Your Engineers 10x Faster and Your Product 10x Worse By @qatech [ 6 Min read ] AI coding too…",
-      "recap_neutral": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here",
-      "main_idea": "The TechBeat: We brought Hermes Agent to iMessage, even on Linux and Windows (6/27/2026)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 27 Jun 2026 14:00:49 GMT",
-      "url": "https://hackernoon.com/6-27-2026-techbeat?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "90 Blog Posts To Learn About Ethical Hacking",
-      "title_neutral": "90 Blog Posts To Learn About Ethical Hacking",
-      "excerpt": "Let's learn about Ethical Hacking via these 90 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. Ethical hacking is the practice of identifying vulnerabilities in computer systems and…",
-      "recap_neutral": "Let's learn about Ethical Hacking via these 90 free blog posts",
-      "main_idea": "90 Blog Posts To Learn About Ethical Hacking",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 27 Jun 2026 14:00:06 GMT",
-      "url": "https://hackernoon.com/90-blog-posts-to-learn-about-ethical-hacking?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Once He Wanted to Lead FIFA. This Is Much Better.",
       "title_neutral": "Once He Wanted to Lead FIFA. This Is Much Better.",
       "excerpt": "Jordan’s arrival at the World Cup is the culmination of decades of patient effort by one man, but also a moment of solidarity for his nation and its diaspora.",
@@ -844,57 +1287,6 @@
       "source": "NYTimes World",
       "published_at": "Sat, 27 Jun 2026 13:55:44 +0000",
       "url": "https://www.nytimes.com/2026/06/27/world/middleeast/jordan-prince-ali-al-hussein-world-cup.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Central and Eastern Europe Are Feeling the Heat Now",
-      "title_neutral": "Central and Eastern Europe Are Feeling the Heat Now",
-      "excerpt": "Much of Germany and Poland were under extreme heat warnings on Saturday as the weather phenomenon driving this week’s record-breaking temperatures moved east.",
-      "recap_neutral": "Much of Germany and Poland were under extreme heat warnings on Saturday as the weather phenomenon driving this week’s record-breaking temperatures moved east",
-      "main_idea": "Central and Eastern Europe Are Feeling the Heat Now",
-      "tags": [
-        "conflict",
-        "climate"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 27 Jun 2026 13:09:59 +0000",
-      "url": "https://www.nytimes.com/2026/06/27/world/europe/heat-wave-central-eastern-europe.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Exiled Chefs From Myanmar Give Burmese Food Chance to Shine on International Stage",
-      "title_neutral": "Exiled Chefs From Myanmar Give Burmese Food Chance to Shine on International Stage",
-      "excerpt": "Much of the world is unfamiliar with the cuisine, but an exodus from Myanmar after a coup has made it more visible on the international stage.",
-      "recap_neutral": "Much of the world is unfamiliar with the cuisine, but an exodus from Myanmar after a coup has made it more visible on the international stage",
-      "main_idea": "Exiled Chefs From Myanmar Give Burmese Food Chance to Shine on International Stage",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sat, 27 Jun 2026 13:01:52 +0000",
-      "url": "https://www.nytimes.com/2026/06/27/world/asia/burmese-food-myanmar.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Australia Says It Will Toughen Its Social Media Ban for Children",
-      "title_neutral": "Australia Says It Will Toughen Its Social Media Ban for Children",
-      "excerpt": "Saying tech companies were “not doing enough” to keep youths under 16 off their platforms, the government announced tougher fines and new powers for a regulator.",
-      "recap_neutral": "Saying tech companies were “not doing enough” to keep youths under 16 off their platforms, the government announced tougher fines and new powers for a regulator",
-      "main_idea": "Australia Says It Will Toughen Its Social Media Ban for Children",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 27 Jun 2026 12:30:04 +0000",
-      "url": "https://www.nytimes.com/2026/06/27/world/australia/social-media-ban-children.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -934,23 +1326,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Protocol Elba",
-      "title_neutral": "Protocol Elba",
-      "excerpt": "After leaving his engagement celebration, Villefort questions Edmond Dantès, expecting to uncover a dangerous Bonapartist plot. Instead, he finds an honest young sailor carrying out a dead captain’s final request. Ready to release him, Villefort changes course when he discovers the letter is addres…",
-      "recap_neutral": "After leaving his engagement celebration, Villefort questions Edmond Dantès, expecting to uncover a dangerous Bonapartist plot",
-      "main_idea": "Protocol Elba",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 27 Jun 2026 11:15:07 GMT",
-      "url": "https://hackernoon.com/protocol-elba?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Fintech Engineering Handbook",
       "title_neutral": "Fintech Engineering Handbook",
       "excerpt": "Comments",
@@ -985,40 +1360,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Classified by the Crown",
-      "title_neutral": "Classified by the Crown",
-      "excerpt": "While Dantès’ ruined wedding leaves loved ones in despair, another celebration unfolds among Marseille’s royalist elite at Villefort’s betrothal feast. Political conversations reveal fierce anti-Napoleonic sentiment and Villefort’s ambition to distance himself from his Bonapartist father. Mid-celeb…",
-      "recap_neutral": "While Dantès’ ruined wedding leaves loved ones in despair, another celebration unfolds among Marseille’s royalist elite at Villefort’s betrothal feast",
-      "main_idea": "Classified by the Crown",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 27 Jun 2026 09:00:06 GMT",
-      "url": "https://hackernoon.com/classified-by-the-crown?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Dantès Protocol",
-      "title_neutral": "The Dantès Protocol",
-      "excerpt": "Edmond Dantès arrives at his wedding feast glowing with happiness, expecting promotion to captain and marriage to Mercédès. Unknown to him, Fernand and Danglars’ earlier conspiracy has already been set in motion. Just before the ceremony, officials arrive and arrest Dantès as a Bonapartist agent. S…",
-      "recap_neutral": "Edmond Dantès arrives at his wedding feast glowing with happiness, expecting promotion to captain and marriage to Mercédès",
-      "main_idea": "The Dantès Protocol",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sat, 27 Jun 2026 08:00:45 GMT",
-      "url": "https://hackernoon.com/the-dantes-protocol?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Opinion: Ranch dressing is a winner at the World Cup games",
       "title_neutral": "Opinion: Ranch dressing is a winner at the World Cup games",
       "excerpt": "NPR's Scott Simon reflects on the popularity of ranch dressing among international visitors to the U.S. during the World Cup games.",
@@ -1028,41 +1369,6 @@
       "source": "NPR",
       "published_at": "Sat, 27 Jun 2026 08:00:00 -0400",
       "url": "https://www.npr.org/2026/06/27/nx-s1-5865082/opinion-ranch-dressing-is-a-winner-at-the-world-cup-games",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
-      "title_neutral": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
-      "excerpt": "The U.S. government is asserting a new level of influence over AI, controlling which companies can access Anthropic's new models. OpenAI agreed to let the administration screen users of its new model.",
-      "recap_neutral": "The U",
-      "main_idea": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 27 Jun 2026 07:40:32 -0400",
-      "url": "https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters",
-      "title_neutral": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters",
-      "excerpt": "Drugmakers are working on a potential new shot to prevent the tick-borne illness. How might it fare in the era of vaccine skepticism?",
-      "recap_neutral": "Drugmakers are working on a potential new shot to prevent the tick-borne illness",
-      "main_idea": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters",
-      "tags": [
-        "health"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 27 Jun 2026 06:30:00 -0400",
-      "url": "https://www.npr.org/2026/06/27/nx-s1-5859907/lyme-disease-vaccine-hesitancy-rural-hunters",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1099,36 +1405,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "title_neutral": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "excerpt": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
-      "recap_neutral": "Bolton faces a prison sentence of up to five years and has agreed to pay $2",
-      "main_idea": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 27 Jun 2026 02:57:20 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Pete Buttigieg briefly separated from children after false police report",
-      "title_neutral": "Pete Buttigieg briefly separated from children after false police report",
-      "excerpt": "Buttigieg says the day he spent separated from his twins was \"among the darkest hours of my life\".",
-      "recap_neutral": "Buttigieg says the day he spent separated from his twins was \"among the darkest hours of my life\"",
-      "main_idea": "Pete Buttigieg briefly separated from children after false police report",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 27 Jun 2026 00:40:44 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cwydx95kjx0o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 36,
       "left_right_index": -5,
       "confidence": "heuristic"
     },
@@ -1182,35 +1458,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Mother dies saving daughter in Venezuela earthquakes",
-      "title_neutral": "Mother dies saving daughter in Venezuela earthquakes",
-      "excerpt": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
-      "recap_neutral": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people",
-      "main_idea": "Mother dies saving daughter in Venezuela earthquakes",
+      "title_original": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
+      "title_neutral": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
       "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 26 Jun 2026 18:36:32 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "source": "Hacker News",
+      "published_at": "Fri, 26 Jun 2026 17:32:35 +0000",
+      "url": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "DR Congo takes Rwanda to international court over decades of conflict",
-      "title_neutral": "DR Congo takes Rwanda to international court over decades of conflict",
-      "excerpt": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
-      "recap_neutral": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide",
-      "main_idea": "DR Congo takes Rwanda to international court over decades of conflict",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 26 Jun 2026 17:05:22 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1246,24 +1505,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Venezuela earthquakes: 589 confirmed dead so far as international rescue teams arrive – as it happened",
-      "title_neutral": "Venezuela earthquakes: 589 confirmed dead so far as international rescue teams arrive – as it happened",
-      "excerpt": "This blog is now closed, you can read more on this story here China’s president Xi Jinping said Beijing was ready to provide Venezuela with “disaster relief and reconstruction” assistance. Xi sent a message of condolence to Venezuela’s interim president Delcy Rodríguez today, according to Chinese s…",
-      "recap_neutral": "This blog is now closed, you can read more on this story here China’s president Xi Jinping said Beijing was ready to provide Venezuela with “disaster relief and reconstruction” assistance",
-      "main_idea": "Venezuela earthquakes: 589 confirmed dead so far as international rescue teams arrive – as it happened",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Fri, 26 Jun 2026 15:00:07 GMT",
-      "url": "https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Reflecting to optimise",
       "title_neutral": "Reflecting to optimise",
       "excerpt": "Comments",
@@ -1273,6 +1514,21 @@
       "source": "Hacker News",
       "published_at": "Fri, 26 Jun 2026 14:07:41 +0000",
       "url": "https://magnusross.github.io/posts/reflecting-to-optimise/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Space Shuttle Endeavour's 20-story vertical display",
+      "title_neutral": "Space Shuttle Endeavour's 20-story vertical display",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Space Shuttle Endeavour's 20-story vertical display",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 26 Jun 2026 12:49:48 +0000",
+      "url": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -1375,21 +1631,6 @@
       "source": "The Guardian",
       "published_at": "Fri, 26 Jun 2026 06:04:05 GMT",
       "url": "https://www.theguardian.com/world/2026/jun/26/south-korea-drone-warriors-military-training",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Xi Jinping has hosted more than a dozen leaders this year, as ‘middle powers’ look beyond the US",
-      "title_neutral": "Xi Jinping has hosted more than a dozen leaders this year, as ‘middle powers’ look beyond the US",
-      "excerpt": "China’s leader wants to promote his alternative to the current world order, and his efforts are being assisted by a capricious US Xi Jinping meets Bangladesh’s new prime minister on Friday, the latest in a wave of world leaders to visit Beijing this year as the Chinese leader builds his influence a…",
-      "recap_neutral": "China’s leader wants to promote his alternative to the current world order, and his efforts are being assisted by a capricious US Xi Jinping meets Bangladesh’s new prime minister on Friday, the latest in a wave of world…",
-      "main_idea": "Xi Jinping has hosted more than a dozen leaders this year, as ‘middle powers’ look beyond the US",
-      "tags": [],
-      "source": "The Guardian",
-      "published_at": "Fri, 26 Jun 2026 01:28:11 GMT",
-      "url": "https://www.theguardian.com/world/2026/jun/26/xi-jinping-china-host-of-world-leaders-middle-powers",
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
