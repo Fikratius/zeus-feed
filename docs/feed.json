@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T07:21:16.862729+00:00",
+  "last_updated": "2026-07-04T09:34:27.700863+00:00",
   "items": [
     {
       "title_original": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
@@ -14,6 +14,23 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "title_neutral": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Wed, 01 Jul 2026 12:48:56 +0000",
+      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -34,24 +51,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
-      "title_neutral": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
-      "excerpt": "Fears of resurgence of HIV/Aids amid loss of access to PrEP drugs as at least 40 people arrested in ‘toxic’ climate A “witch-hunt” is under way in Niger, where dozens of people have been arrested for homosexuality in the west African state following the introduction of a new penal code earlier this…",
-      "recap_neutral": "Fears of resurgence of HIV/Aids amid loss of access to PrEP drugs as at least 40 people arrested in ‘toxic’ climate A “witch-hunt” is under way in Niger, where dozens of people have been arrested for homosexuality in th…",
-      "main_idea": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
-      "tags": [
-        "tech",
-        "climate"
-      ],
-      "source": "The Guardian",
-      "published_at": "Wed, 01 Jul 2026 07:00:29 GMT",
-      "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Mir Books – Books from the Soviet Era",
       "title_neutral": "Mir Books – Books from the Soviet Era",
       "excerpt": "Comments",
@@ -64,21 +63,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Man Rescued 8 Days After Quake, a Ray of Joy in Stricken Venezuela",
-      "title_neutral": "Man Rescued 8 Days After Quake, a Ray of Joy in Stricken Venezuela",
-      "excerpt": "The 44-year-old security guard was pulled alive from a pancaked basement, offering a fleeting moment of hope amid a soaring death toll.",
-      "recap_neutral": "The 44-year-old security guard was pulled alive from a pancaked basement, offering a fleeting moment of hope amid a soaring death toll",
-      "main_idea": "Man Rescued 8 Days After Quake, a Ray of Joy in Stricken Venezuela",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Thu, 02 Jul 2026 22:34:11 +0000",
-      "url": "https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-survivor.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -250,247 +234,360 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Медведев: РФ предлагала мирные решения вопроса с иранскими ядерными материалами",
-      "title_neutral": "Медведев: РФ предлагала мирные решения вопроса с иранскими ядерными материалами",
-      "excerpt": "Зампред Совбеза России отметил, что поводом для агрессии США \"была некая ядерная программа Ирана\"",
-      "recap_neutral": "Зампред Совбеза России отметил, что поводом для агрессии США \"была некая ядерная программа Ирана\"",
-      "main_idea": "Медведев: РФ предлагала мирные решения вопроса с иранскими ядерными материалами",
+      "title_original": "Власти Индии потребовали от Telegram принять меры против пиратского контента",
+      "title_neutral": "Власти Индии потребовали от Telegram принять меры против пиратского контента",
+      "excerpt": "Платформа обязана проявлять должную осмотрительность в соответствии с законом и правилами в сфере информационных технологий, сообщили в Министерстве информации и телерадиовещания республики",
+      "recap_neutral": "Платформа обязана проявлять должную осмотрительность в соответствии с законом и правилами в сфере информационных технологий, сообщили в Министерстве информации и телерадиовещания республики",
+      "main_idea": "Власти Индии потребовали от Telegram принять меры против пиратского контента",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 04 Jul 2026 10:17:33 +0300",
-      "url": "https://tass.ru/politika/27885231",
+      "published_at": "Sat, 04 Jul 2026 12:32:17 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27885575",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Путин поздравил жителей Калининградской области с 80-летием региона",
-      "title_neutral": "Путин поздравил жителей Калининградской области с 80-летием региона",
-      "excerpt": "Российский лидер отметил, что область по праву славится своей историей, разнообразием и красотой природных ландшафтов",
-      "recap_neutral": "Российский лидер отметил, что область по праву славится своей историей, разнообразием и красотой природных ландшафтов",
-      "main_idea": "Путин поздравил жителей Калининградской области с 80-летием региона",
+      "title_original": "В Курской области в ДТП погибли четыре человека",
+      "title_neutral": "В Курской области в ДТП погибли четыре человека",
+      "excerpt": "",
+      "recap_neutral": "В Курской области в ДТП погибли четыре человека",
+      "main_idea": "В Курской области в ДТП погибли четыре человека",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 04 Jul 2026 10:15:43 +0300",
-      "url": "https://tass.ru/obschestvo/27885213",
+      "published_at": "Sat, 04 Jul 2026 12:28:48 +0300",
+      "url": "https://tass.ru/proisshestviya/27885573",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Медведев назвал Баб-эль-Мандебский пролив \"термоядерным оружием\" Ирана",
-      "title_neutral": "Медведев назвал Баб-эль-Мандебский пролив \"термоядерным оружием\" Ирана",
-      "excerpt": "Зампред Совбеза РФ отметил, что Тегеран может использовать его в случае возникновения военных конфликтов",
-      "recap_neutral": "Зампред Совбеза РФ отметил, что Тегеран может использовать его в случае возникновения военных конфликтов",
-      "main_idea": "Медведев назвал Баб-эль-Мандебский пролив \"термоядерным оружием\" Ирана",
+      "title_original": "В СК напомнили детям правила безопасности в интернете",
+      "title_neutral": "В СК напомнили детям правила безопасности в интернете",
+      "excerpt": "Не следует выполнять просьбы незнакомцев, соглашаться на сомнительные задания, пересылать подозрительные сообщения, распространять призывы к насилию, экстремистские материалы и инструкции по совершению противоправных действий, заявили в ведомстве",
+      "recap_neutral": "Не следует выполнять просьбы незнакомцев, соглашаться на сомнительные задания, пересылать подозрительные сообщения, распространять призывы к насилию, экстремистские материалы и инструкции по совершению противоправных де…",
+      "main_idea": "В СК напомнили детям правила безопасности в интернете",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 04 Jul 2026 12:24:50 +0300",
+      "url": "https://tass.ru/obschestvo/27885563",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров поздравил жителей Калининградской области с 80-летием региона",
+      "title_neutral": "Лавров поздравил жителей Калининградской области с 80-летием региона",
+      "excerpt": "Глава МИД России подчеркнул, что за прошедшие десятилетия область достигла значительных успехов в сфере промышленности, сельского хозяйства, туризма, культуры и образования",
+      "recap_neutral": "Глава МИД России подчеркнул, что за прошедшие десятилетия область достигла значительных успехов в сфере промышленности, сельского хозяйства, туризма, культуры и образования",
+      "main_idea": "Лавров поздравил жителей Калининградской области с 80-летием региона",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 04 Jul 2026 12:24:37 +0300",
+      "url": "https://tass.ru/obschestvo/27885559",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Щербакова хотела бы, чтобы ISU допустил россиян раньше",
+      "title_neutral": "Щербакова хотела бы, чтобы ISU допустил россиян раньше",
+      "excerpt": "ISU допустил российских спортсменов до турниров под эгидой организации в нейтральном статусе с сезона-2026/27",
+      "recap_neutral": "ISU допустил российских спортсменов до турниров под эгидой организации в нейтральном статусе с сезона-2026/27",
+      "main_idea": "Щербакова хотела бы, чтобы ISU допустил россиян раньше",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 04 Jul 2026 12:24:17 +0300",
+      "url": "https://tass.ru/sport/27885567",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Мыскина уверена, что Даниил Медведев еще способен выиграть турнир Большого шлема",
+      "title_neutral": "Мыскина уверена, что Даниил Медведев еще способен выиграть турнир Большого шлема",
+      "excerpt": "Ранее россиянин уступил в третьем круге Уимблдона",
+      "recap_neutral": "Ранее россиянин уступил в третьем круге Уимблдона",
+      "main_idea": "Мыскина уверена, что Даниил Медведев еще способен выиграть турнир Большого шлема",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 04 Jul 2026 12:23:29 +0300",
+      "url": "https://tass.ru/sport/27885565",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Казахстане ввели круглосуточное патрулирование для недопуска вывоза ГСМ",
+      "title_neutral": "В Казахстане ввели круглосуточное патрулирование для недопуска вывоза ГСМ",
+      "excerpt": "Органами государственных доходов республики анализируется деятельность 62 автозаправочных станций и 22 мини НПЗ",
+      "recap_neutral": "Органами государственных доходов республики анализируется деятельность 62 автозаправочных станций и 22 мини НПЗ",
+      "main_idea": "В Казахстане ввели круглосуточное патрулирование для недопуска вывоза ГСМ",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 04 Jul 2026 10:13:23 +0300",
-      "url": "https://tass.ru/politika/27885219",
+      "published_at": "Sat, 04 Jul 2026 12:21:05 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27885499",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Херсонской области сбили 26 воздушных целей при отражении ночной атаки ВСУ",
-      "title_neutral": "В Херсонской области сбили 26 воздушных целей при отражении ночной атаки ВСУ",
-      "excerpt": "Киев пытался атаковать логистическую инфраструктуру региона",
-      "recap_neutral": "Киев пытался атаковать логистическую инфраструктуру региона",
-      "main_idea": "В Херсонской области сбили 26 воздушных целей при отражении ночной атаки ВСУ",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 04 Jul 2026 10:12:10 +0300",
-      "url": "https://tass.ru/proisshestviya/27885227",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Медведев: гибель множества людей в Иране не делает чести США",
-      "title_neutral": "Медведев: гибель множества людей в Иране не делает чести США",
-      "excerpt": "",
-      "recap_neutral": "Медведев: гибель множества людей в Иране не делает чести США",
-      "main_idea": "Медведев: гибель множества людей в Иране не делает чести США",
+      "title_original": "Euractiv опубликовал сатирическую статью о 137-м пакете антироссийских санкций",
+      "title_neutral": "Euractiv опубликовал сатирическую статью о 137-м пакете антироссийских санкций",
+      "excerpt": "Текст назвали \"Европейская тупость, необлагаемая санкциями\"",
+      "recap_neutral": "Текст назвали \"Европейская тупость, необлагаемая санкциями\"",
+      "main_idea": "Euractiv опубликовал сатирическую статью о 137-м пакете антироссийских санкций",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 04 Jul 2026 10:10:43 +0300",
-      "url": "https://tass.ru/politika/27885217",
+      "published_at": "Sat, 04 Jul 2026 12:20:38 +0300",
+      "url": "https://tass.ru/obschestvo/27885551",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Медведев: действия США против Ирана говорят о разрушении международного права",
-      "title_neutral": "Медведев: действия США против Ирана говорят о разрушении международного права",
-      "excerpt": "Зампред Совбеза РФ заявил, что агрессия Вашингтона была абсолютно не спровоцированной",
-      "recap_neutral": "Зампред Совбеза РФ заявил, что агрессия Вашингтона была абсолютно не спровоцированной",
-      "main_idea": "Медведев: действия США против Ирана говорят о разрушении международного права",
+      "title_original": "Футболист сборной Франции Тчуамени пропустит матч ЧМ с парагвайцами из-за травмы",
+      "title_neutral": "Футболист сборной Франции Тчуамени пропустит матч ЧМ с парагвайцами из-за травмы",
+      "excerpt": "Игрок почувствовал дискомфорт в бедре во время пятничной тренировки",
+      "recap_neutral": "Игрок почувствовал дискомфорт в бедре во время пятничной тренировки",
+      "main_idea": "Футболист сборной Франции Тчуамени пропустит матч ЧМ с парагвайцами из-за травмы",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 04 Jul 2026 10:08:31 +0300",
-      "url": "https://tass.ru/politika/27885209",
+      "published_at": "Sat, 04 Jul 2026 12:19:39 +0300",
+      "url": "https://tass.ru/sport/27885555",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Медведев обсудил с президентом Ирана противодействие санкциям",
-      "title_neutral": "Медведев обсудил с президентом Ирана противодействие санкциям",
+      "title_original": "Лантратова обратилась в ООН после новых атак ВСУ на мирных граждан РФ",
+      "title_neutral": "Лантратова обратилась в ООН после новых атак ВСУ на мирных граждан РФ",
       "excerpt": "",
-      "recap_neutral": "Медведев обсудил с президентом Ирана противодействие санкциям",
-      "main_idea": "Медведев обсудил с президентом Ирана противодействие санкциям",
+      "recap_neutral": "Лантратова обратилась в ООН после новых атак ВСУ на мирных граждан РФ",
+      "main_idea": "Лантратова обратилась в ООН после новых атак ВСУ на мирных граждан РФ",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 04 Jul 2026 12:19:24 +0300",
+      "url": "https://tass.ru/politika/27885553",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Нилов призвал объединить водительские права и другие документы в одну ID-карту",
+      "title_neutral": "Нилов призвал объединить водительские права и другие документы в одну ID-карту",
+      "excerpt": "Глава комитета Госдумы по труду, соцполитике и делам ветеранов считает, что в нее можно \"вшить\" водительское удостоверение, свидетельство о регистрации транспортного средства, выписки из ЕГРН и прочее",
+      "recap_neutral": "Глава комитета Госдумы по труду, соцполитике и делам ветеранов считает, что в нее можно \"вшить\" водительское удостоверение, свидетельство о регистрации транспортного средства, выписки из ЕГРН и прочее",
+      "main_idea": "Нилов призвал объединить водительские права и другие документы в одну ID-карту",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 04 Jul 2026 12:19:17 +0300",
+      "url": "https://tass.ru/obschestvo/27885545",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Посольство РФ возьмет на себя работу закрывшегося в Кишиневе Русского дома",
+      "title_neutral": "Посольство РФ возьмет на себя работу закрывшегося в Кишиневе Русского дома",
+      "excerpt": "Никакие ограничения и меры давления не ослабят колоссальный интерес к русской культуре, которая всегда служила делу мира, заявили российские дипломаты",
+      "recap_neutral": "Никакие ограничения и меры давления не ослабят колоссальный интерес к русской культуре, которая всегда служила делу мира, заявили российские дипломаты",
+      "main_idea": "Посольство РФ возьмет на себя работу закрывшегося в Кишиневе Русского дома",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 04 Jul 2026 12:18:49 +0300",
+      "url": "https://tass.ru/obschestvo/27885539",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Военные в Севастополе проведут мероприятия по борьбе с подводными диверсантами",
+      "title_neutral": "Военные в Севастополе проведут мероприятия по борьбе с подводными диверсантами",
+      "excerpt": "Запланированы стрельбы из различных видов оружия, гранатометание и реактивное бомбометание",
+      "recap_neutral": "Запланированы стрельбы из различных видов оружия, гранатометание и реактивное бомбометание",
+      "main_idea": "Военные в Севастополе проведут мероприятия по борьбе с подводными диверсантами",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 04 Jul 2026 12:17:10 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27885485",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Число жертв ДТП на трассе Одесса - Николаев выросло до 12",
+      "title_neutral": "Число жертв ДТП на трассе Одесса - Николаев выросло до 12",
+      "excerpt": "По предварительным данным, микроавтобус выехал на встречную полосу, перевернулся и врезался в ехавшую навстречу фуру",
+      "recap_neutral": "По предварительным данным, микроавтобус выехал на встречную полосу, перевернулся и врезался в ехавшую навстречу фуру",
+      "main_idea": "Число жертв ДТП на трассе Одесса - Николаев выросло до 12",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 04 Jul 2026 12:15:51 +0300",
+      "url": "https://tass.ru/proisshestviya/27885541",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Появились кадры задержания подозреваемого в убийстве девочки в Ленобласти",
+      "title_neutral": "Появились кадры задержания подозреваемого в убийстве девочки в Ленобласти",
+      "excerpt": "Мужчина признал вину",
+      "recap_neutral": "Мужчина признал вину",
+      "main_idea": "Появились кадры задержания подозреваемого в убийстве девочки в Ленобласти",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 04 Jul 2026 12:13:16 +0300",
+      "url": "https://tass.ru/proisshestviya/27885515",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Mexico’s Secret 12th Man in the World Cup: Baby Jesus",
+      "title_neutral": "Mexico’s Secret 12th Man in the World Cup: Baby Jesus",
+      "excerpt": "The tradition of dressing up a baby Jesus statue began in a Mexico City church nearly 60 years ago. It moved to the cathedral for this World Cup and Mexico hasn’t lost yet.",
+      "recap_neutral": "The tradition of dressing up a baby Jesus statue began in a Mexico City church nearly 60 years ago",
+      "main_idea": "Mexico’s Secret 12th Man in the World Cup: Baby Jesus",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sat, 04 Jul 2026 09:24:53 +0000",
+      "url": "https://www.nytimes.com/2026/07/04/world/americas/mexicos-secret-12th-man-in-the-world-cup-baby-jesus.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "In Rwanda, July 4 Is Liberation Day From Genocide",
+      "title_neutral": "In Rwanda, July 4 Is Liberation Day From Genocide",
+      "excerpt": "The Central African nation remembers the end of a murderous campaign against ethnic Tutsis that killed hundreds of thousands of people.",
+      "recap_neutral": "The Central African nation remembers the end of a murderous campaign against ethnic Tutsis that killed hundreds of thousands of people",
+      "main_idea": "In Rwanda, July 4 Is Liberation Day From Genocide",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 04 Jul 2026 09:01:42 +0000",
+      "url": "https://www.nytimes.com/2026/07/04/world/africa/rwanda-july-4-liberation-day.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Momentary Unity at a Funeral Masks Deep Divisions Among Iran’s Leaders",
+      "title_neutral": "Momentary Unity at a Funeral Masks Deep Divisions Among Iran’s Leaders",
+      "excerpt": "Ayatollah Mojtaba Khamenei’s absence has raised questions inside Iranian political circles about who is really running the country and allowed open divisions to fester.",
+      "recap_neutral": "Ayatollah Mojtaba Khamenei’s absence has raised questions inside Iranian political circles about who is really running the country and allowed open divisions to fester",
+      "main_idea": "Momentary Unity at a Funeral Masks Deep Divisions Among Iran’s Leaders",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 04 Jul 2026 09:01:35 +0000",
+      "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
+      "title_neutral": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
+      "excerpt": "While critics question just how much the World Cup will benefit tourism long term, Mexican officials believe it can help boost the country to fifth most visited in the world.",
+      "recap_neutral": "While critics question just how much the World Cup will benefit tourism long term, Mexican officials believe it can help boost the country to fifth most visited in the world",
+      "main_idea": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sat, 04 Jul 2026 09:00:07 +0000",
+      "url": "https://www.nytimes.com/2026/07/04/world/americas/world-cup-mexico-tourism-trump.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran, projecting unity to the world, pursues a crackdown at home.",
+      "title_neutral": "Iran, projecting unity to the world, pursues a crackdown at home.",
+      "excerpt": "A string of",
+      "recap_neutral": "A string of",
+      "main_idea": "Iran, projecting unity to the world, pursues a crackdown at home.",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sat, 04 Jul 2026 08:57:41 +0000",
+      "url": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/iran-projecting-unity-to-the-world-pursues-a-crackdown-at-home",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Overseas education project for women and girls axed by UK after two years",
+      "title_neutral": "Overseas education project for women and girls axed by UK after two years",
+      "excerpt": "The programme, aimed at keeping 1m girls in school across Africa, Asia and the Middle East, withdrawn after aid cuts A leading higher education programme, aimed at keeping 1 million girls in school across Africa, Asia and the Middle East, has been axed by the British government just two years after…",
+      "recap_neutral": "The programme, aimed at keeping 1m girls in school across Africa, Asia and the Middle East, withdrawn after aid cuts A leading higher education programme, aimed at keeping 1 million girls in school across Africa, Asia a…",
+      "main_idea": "Overseas education project for women and girls axed by UK after two years",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Sat, 04 Jul 2026 08:00:08 GMT",
+      "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "title_neutral": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "excerpt": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+      "recap_neutral": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place",
+      "main_idea": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
       "tags": [
         "politics"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 04 Jul 2026 10:04:40 +0300",
-      "url": "https://tass.ru/politika/27885179",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Медведев не исключил создания сообщества стран, подвергшихся незаконным санкциям",
-      "title_neutral": "Медведев не исключил создания сообщества стран, подвергшихся незаконным санкциям",
-      "excerpt": "",
-      "recap_neutral": "Медведев не исключил создания сообщества стран, подвергшихся незаконным санкциям",
-      "main_idea": "Медведев не исключил создания сообщества стран, подвергшихся незаконным санкциям",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 04 Jul 2026 10:04:07 +0300",
-      "url": "https://tass.ru/politika/27885177",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Медведев желает успеха переговорам США с Ираном, но не исключает \"иного развития\"",
-      "title_neutral": "Медведев желает успеха переговорам США с Ираном, но не исключает \"иного развития\"",
-      "excerpt": "",
-      "recap_neutral": "Медведев желает успеха переговорам США с Ираном, но не исключает \"иного развития\"",
-      "main_idea": "Медведев желает успеха переговорам США с Ираном, но не исключает \"иного развития\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 04 Jul 2026 10:03:45 +0300",
-      "url": "https://tass.ru/politika/27885175",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Медведев: далеко не все в США горят желанием снять санкции с Ирана",
-      "title_neutral": "Медведев: далеко не все в США горят желанием снять санкции с Ирана",
-      "excerpt": "",
-      "recap_neutral": "Медведев: далеко не все в США горят желанием снять санкции с Ирана",
-      "main_idea": "Медведев: далеко не все в США горят желанием снять санкции с Ирана",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 04 Jul 2026 10:03:33 +0300",
-      "url": "https://tass.ru/politika/27885173",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Медведев назвал незаконными все санкции против России",
-      "title_neutral": "Медведев назвал незаконными все санкции против России",
-      "excerpt": "Зампред Совбеза РФ заявил, что ограничения не предусмотрен Уставом ООН",
-      "recap_neutral": "Зампред Совбеза РФ заявил, что ограничения не предусмотрен Уставом ООН",
-      "main_idea": "Медведев назвал незаконными все санкции против России",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 04 Jul 2026 10:03:15 +0300",
-      "url": "https://tass.ru/politika/27885165",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Медведев назвал неспровоцированной агрессию США против Ирана",
-      "title_neutral": "Медведев назвал неспровоцированной агрессию США против Ирана",
-      "excerpt": "",
-      "recap_neutral": "Медведев назвал неспровоцированной агрессию США против Ирана",
-      "main_idea": "Медведев назвал неспровоцированной агрессию США против Ирана",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 04 Jul 2026 10:03:13 +0300",
-      "url": "https://tass.ru/politika/27885171",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Новгородской области отменили беспилотную опасность",
-      "title_neutral": "В Новгородской области отменили беспилотную опасность",
-      "excerpt": "В МЧС призвали жителей не приближаться к обломкам БПЛА при их обнаружении",
-      "recap_neutral": "В МЧС призвали жителей не приближаться к обломкам БПЛА при их обнаружении",
-      "main_idea": "В Новгородской области отменили беспилотную опасность",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 04 Jul 2026 10:03:06 +0300",
-      "url": "https://tass.ru/proisshestviya/27885181",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Медведев: выход на договоренности между США и Ираном будет \"архисложный\"",
-      "title_neutral": "Медведев: выход на договоренности между США и Ираном будет \"архисложный\"",
-      "excerpt": "Достигнуть компромиссов было весьма и весьма непросто, отметил зампред Совбеза РФ",
-      "recap_neutral": "Достигнуть компромиссов было весьма и весьма непросто, отметил зампред Совбеза РФ",
-      "main_idea": "Медведев: выход на договоренности между США и Ираном будет \"архисложный\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 04 Jul 2026 10:02:59 +0300",
-      "url": "https://tass.ru/politika/27885169",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Медведев рассказал о благоприятном впечатлении от обстановки в Тегеране",
-      "title_neutral": "Медведев рассказал о благоприятном впечатлении от обстановки в Тегеране",
-      "excerpt": "Город живет, развивается, даже несмотря на то, что на его территории появились целые кварталы, уничтоженные в ходе бомбардировок США, отметил зампред Совбеза РФ",
-      "recap_neutral": "Город живет, развивается, даже несмотря на то, что на его территории появились целые кварталы, уничтоженные в ходе бомбардировок США, отметил зампред Совбеза РФ",
-      "main_idea": "Медведев рассказал о благоприятном впечатлении от обстановки в Тегеране",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 04 Jul 2026 10:02:41 +0300",
-      "url": "https://tass.ru/obschestvo/27885167",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Sat, 04 Jul 2026 07:52:55 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -511,35 +608,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "David Beazley – Programming Courses",
-      "title_neutral": "David Beazley – Programming Courses",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "David Beazley – Programming Courses",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 04 Jul 2026 05:43:01 +0000",
-      "url": "https://www.dabeaz.com/courses.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "2026 Unslop AI-Written Fiction Contest Results",
-      "title_neutral": "2026 Unslop AI-Written Fiction Contest Results",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "2026 Unslop AI-Written Fiction Contest Results",
+      "title_original": "'Cautiously optimistic': Swing voters describe their view of America at 250",
+      "title_neutral": "'Cautiously optimistic': Swing voters describe their view of America at 250",
+      "excerpt": "As America turns 250, voters from our Swing Shift project talk about the state of the country. Their views ranged from \"uncertain\" and \"concerned\" to \"excited\" and \"cautiously optimistic.\"",
+      "recap_neutral": "As America turns 250, voters from our Swing Shift project talk about the state of the country",
+      "main_idea": "'Cautiously optimistic': Swing voters describe their view of America at 250",
       "tags": [
         "tech"
       ],
-      "source": "Hacker News",
-      "published_at": "Sat, 04 Jul 2026 05:37:25 +0000",
-      "url": "https://www.hyperstitionai.com/unslop-results",
+      "source": "NPR",
+      "published_at": "Sat, 04 Jul 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/07/04/nx-s1-5877727/swing-voters-america-250-midterms",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -590,6 +672,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Maybe you should learn something",
+      "title_neutral": "Maybe you should learn something",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Maybe you should learn something",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 04 Jul 2026 03:36:03 +0000",
+      "url": "https://www.marginalia.nu/log/a_135_learn/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
       "title_neutral": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
       "excerpt": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
@@ -622,8 +719,8 @@
     {
       "title_original": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
       "title_neutral": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-      "excerpt": "It was the bash of the century, with celebrities from singer Benson Boone and actor Hugh Grant to model Gigi Hadid and actor Ethan Hawke in attendence.",
-      "recap_neutral": "It was the bash of the century, with celebrities from singer Benson Boone and actor Hugh Grant to model Gigi Hadid and actor Ethan Hawke in attendence",
+      "excerpt": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena.",
+      "recap_neutral": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena",
       "main_idea": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
       "tags": [],
       "source": "BBC World",
@@ -727,21 +824,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Odin, Wikipedia and engagement farming",
-      "title_neutral": "Odin, Wikipedia and engagement farming",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Odin, Wikipedia and engagement farming",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 03 Jul 2026 23:24:35 +0000",
-      "url": "https://katamari64.se/posts/2026/odin-wikipedia/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1148,23 +1230,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "It’s Day 1 of the Supreme Leader’s Funeral, and Allies Gather in Iran",
-      "title_neutral": "It’s Day 1 of the Supreme Leader’s Funeral, and Allies Gather in Iran",
-      "excerpt": "Foreign dignitaries paid their respects to Ayatollah Ali Khamenei on Friday as days of ceremonies got underway.",
-      "recap_neutral": "Foreign dignitaries paid their respects to Ayatollah Ali Khamenei on Friday as days of ceremonies got underway",
-      "main_idea": "It’s Day 1 of the Supreme Leader’s Funeral, and Allies Gather in Iran",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 03 Jul 2026 15:39:00 +0000",
-      "url": "https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "I Built a Local AI Linux Assistant That Doesn't Rely on the Cloud",
       "title_neutral": "I Built a Local AI Linux Assistant That Doesn't Rely on the Cloud",
       "excerpt": "The article explains how the author built zkzkAgent, a local AI assistant for Linux using LangGraph and Ollama. It covers the move from a monolithic ReAct-style agent to a graph-based architecture, discusses routing, shared state, safety mechanisms for system commands, and introduces the project's…",
@@ -1253,6 +1318,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Jamesob's guide to running SOTA LLMs locally",
+      "title_neutral": "Jamesob's guide to running SOTA LLMs locally",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Jamesob's guide to running SOTA LLMs locally",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 03 Jul 2026 15:03:43 +0000",
+      "url": "https://github.com/jamesob/local-llm",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Denmark Has a Big Fourth of July Party. This Year, the U.S. Is Uninvited.",
       "title_neutral": "Denmark Has a Big Fourth of July Party. This Year, the U.S. Is Uninvited.",
       "excerpt": "Furious at President Trump over Greenland, Danish officials took the unprecedented step of pressuring organizers to cut American officials from the program.",
@@ -1305,25 +1385,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Four Reasons Crimea Has Become Crucial in the Ukraine War",
-      "title_neutral": "Four Reasons Crimea Has Become Crucial in the Ukraine War",
-      "excerpt": "Escalating drone strikes, fuel shortages and power cuts in the region Russia annexed are among the factors turning up the heat on President Vladimir V. Putin.",
-      "recap_neutral": "Escalating drone strikes, fuel shortages and power cuts in the region Russia annexed are among the factors turning up the heat on President Vladimir V",
-      "main_idea": "Four Reasons Crimea Has Become Crucial in the Ukraine War",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 03 Jul 2026 14:54:04 +0000",
-      "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "The WebSocket Testing Gap Chrome DevTools Doesn't Fill",
       "title_neutral": "The WebSocket Testing Gap Chrome DevTools Doesn't Fill",
       "excerpt": "The article argues that existing browser tools are excellent for observing WebSocket traffic but fall short for testing real-world edge cases. It introduces a Chrome extension that wraps the native WebSocket API, allowing developers to inspect and modify outbound frames directly in the browser, red…",
@@ -1370,23 +1431,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "US withdraws troops from Nigeria after Islamic State mission",
-      "title_neutral": "US withdraws troops from Nigeria after Islamic State mission",
-      "excerpt": "The US said the joint operation, which began in December last year, was a success.",
-      "recap_neutral": "The US said the joint operation, which began in December last year, was a success",
-      "main_idea": "US withdraws troops from Nigeria after Islamic State mission",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 03 Jul 2026 14:00:50 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1556,23 +1600,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Former USAID head grieves its closure while hoping for its future",
-      "title_neutral": "Former USAID head grieves its closure while hoping for its future",
-      "excerpt": "Former USAID administrator reflects on a year since USAID's shutdown and the new direction of US foreign aid.",
-      "recap_neutral": "Former USAID administrator reflects on a year since USAID's shutdown and the new direction of US foreign aid",
-      "main_idea": "Former USAID head grieves its closure while hoping for its future",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 03 Jul 2026 07:00:00 -0400",
-      "url": "https://www.npr.org/2026/07/03/nx-s1-5877408/former-usaid-head-grieves-its-closure-while-hoping-for-its-future",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "China says man who flew plane into Beijing skyscraper had mental health problems",
       "title_neutral": "China says man who flew plane into Beijing skyscraper had mental health problems",
       "excerpt": "Official statement offers the most detailed official account yet of the highly unusual and fatal incident in Beijing Chinese authorities said the man who flew a small plane into Beijing’s tallest skyscraper last week was a 66-year-old who had mental health problems. The statement published on Thurs…",
@@ -1588,38 +1615,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Carney Unveils Multibillion Dollar Oil Pipeline Project to Boost Trade With Asia",
-      "title_neutral": "Carney Unveils Multibillion Dollar Oil Pipeline Project to Boost Trade With Asia",
-      "excerpt": "Multibillion dollar investments, including a new oil pipeline from Alberta to the Pacific Coast, and natural gas facilities, aim to diversify trade away from the United States.",
-      "recap_neutral": "Multibillion dollar investments, including a new oil pipeline from Alberta to the Pacific Coast, and natural gas facilities, aim to diversify trade away from the United States",
-      "main_idea": "Carney Unveils Multibillion Dollar Oil Pipeline Project to Boost Trade With Asia",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 03 Jul 2026 01:43:33 +0000",
-      "url": "https://www.nytimes.com/2026/07/02/world/canada/carney-trade-oil-pipeline-alberta-british-columbia.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "U.K. Lawmakers Demand Deportation of ‘Grooming Gang’ Leader",
-      "title_neutral": "U.K. Lawmakers Demand Deportation of ‘Grooming Gang’ Leader",
-      "excerpt": "Shabir Ahmed was handed a lengthy prison sentence in 2012 for his ties to a sexual exploitation ring.",
-      "recap_neutral": "Shabir Ahmed was handed a lengthy prison sentence in 2012 for his ties to a sexual exploitation ring",
-      "main_idea": "U.K. Lawmakers Demand Deportation of ‘Grooming Gang’ Leader",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Fri, 03 Jul 2026 00:19:38 +0000",
-      "url": "https://www.nytimes.com/2026/07/02/world/europe/uk-deport-leader-grooming-gang.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
