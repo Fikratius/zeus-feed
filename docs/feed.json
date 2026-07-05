@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T15:47:44.532482+00:00",
+  "last_updated": "2026-07-05T17:04:11.781060+00:00",
   "items": [
     {
       "title_original": "The GNU Emacs Architecture: Unlocking the Core [pdf]",
@@ -26,6 +26,21 @@
       "source": "Hacker News",
       "published_at": "Wed, 01 Jul 2026 13:49:59 +0000",
       "url": "https://www.economist.com/middle-east-and-africa/2026/06/25/medieval-style-fortifications-are-back-in-the-sahel",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Rayfish, Peer-to-peer mesh VPN with no server to trust",
+      "title_neutral": "Rayfish, Peer-to-peer mesh VPN with no server to trust",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Rayfish, Peer-to-peer mesh VPN with no server to trust",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 01 Jul 2026 13:01:56 +0000",
+      "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -113,279 +128,349 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Столтенберг: нет никакой гарантии, что НАТО будет существовать вечно",
-      "title_neutral": "Столтенберг: нет никакой гарантии, что НАТО будет существовать вечно",
-      "excerpt": "Бывший генсек альянса также считает, что европейским странам - членам НАТО следовало бы \"гораздо раньше начать больше инвестировать в оборону\"",
-      "recap_neutral": "Бывший генсек альянса также считает, что европейским странам - членам НАТО следовало бы \"гораздо раньше начать больше инвестировать в оборону\"",
-      "main_idea": "Столтенберг: нет никакой гарантии, что НАТО будет существовать вечно",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Jul 2026 18:42:35 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27887637",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Новгородской области объявили опасность БПЛА",
-      "title_neutral": "В Новгородской области объявили опасность БПЛА",
-      "excerpt": "Возможны перебои в работе мобильного интернета",
-      "recap_neutral": "Возможны перебои в работе мобильного интернета",
-      "main_idea": "В Новгородской области объявили опасность БПЛА",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Jul 2026 18:42:04 +0300",
-      "url": "https://tass.ru/proisshestviya/27887635",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Площадь стенда Индонезии на выставке \"Иннопром\" составила более 1,5 тыс. кв. м",
-      "title_neutral": "Площадь стенда Индонезии на выставке \"Иннопром\" составила более 1,5 тыс. кв. м",
-      "excerpt": "На нем представлены порядка 50 компаний, сообщил гендиректор по промышленной устойчивости, региональному развитию и международному промышленному доступу министерства промышленности страны Три Супонди",
-      "recap_neutral": "На нем представлены порядка 50 компаний, сообщил гендиректор по промышленной устойчивости, региональному развитию и международному промышленному доступу министерства промышленности страны Три Супонди",
-      "main_idea": "Площадь стенда Индонезии на выставке \"Иннопром\" составила более 1,5 тыс. кв. м",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Jul 2026 18:34:09 +0300",
-      "url": "https://tass.ru/ekonomika/27887627",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Леклер выиграл Гран-при Великобритании \"Формулы-1\"",
-      "title_neutral": "Леклер выиграл Гран-при Великобритании \"Формулы-1\"",
-      "excerpt": "Второе место занял Джордж Расселл, третье - Льюис Хэмилтон",
-      "recap_neutral": "Второе место занял Джордж Расселл, третье - Льюис Хэмилтон",
-      "main_idea": "Леклер выиграл Гран-при Великобритании \"Формулы-1\"",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Jul 2026 18:31:50 +0300",
-      "url": "https://tass.ru/sport/27887625",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ферстаппен не смог завершить гонку на Гран-при Великобритании",
-      "title_neutral": "Ферстаппен не смог завершить гонку на Гран-при Великобритании",
-      "excerpt": "Гонщик вылетел с трассы, после чего на нее выехала машина безопасности",
-      "recap_neutral": "Гонщик вылетел с трассы, после чего на нее выехала машина безопасности",
-      "main_idea": "Ферстаппен не смог завершить гонку на Гран-при Великобритании",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Jul 2026 18:29:41 +0300",
-      "url": "https://tass.ru/sport/27887621",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Вологодской области вновь ввели режим беспилотной опасности",
-      "title_neutral": "В Вологодской области вновь ввели режим беспилотной опасности",
-      "excerpt": "Об этом сообщил губернатор Георгий Филимонов",
-      "recap_neutral": "Об этом сообщил губернатор Георгий Филимонов",
-      "main_idea": "В Вологодской области вновь ввели режим беспилотной опасности",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Jul 2026 18:27:14 +0300",
-      "url": "https://tass.ru/proisshestviya/27887615",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Запорожье произошел взрыв",
-      "title_neutral": "В Запорожье произошел взрыв",
-      "excerpt": "В подконтрольной украинским властям части Запорожской области действует воздушная тревога",
-      "recap_neutral": "В подконтрольной украинским властям части Запорожской области действует воздушная тревога",
-      "main_idea": "В Запорожье произошел взрыв",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Jul 2026 18:27:08 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27887617",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Нижнем Новгороде на остановившейся канатной дороге застряли 16 человек",
-      "title_neutral": "В Нижнем Новгороде на остановившейся канатной дороге застряли 16 человек",
-      "excerpt": "В их числе четверо детей",
-      "recap_neutral": "В их числе четверо детей",
-      "main_idea": "В Нижнем Новгороде на остановившейся канатной дороге застряли 16 человек",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Jul 2026 18:26:49 +0300",
-      "url": "https://tass.ru/proisshestviya/27887613",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мишустин на неофициальной встрече с Турчиным обсудил проекты РФ и Белоруссии",
-      "title_neutral": "Мишустин на неофициальной встрече с Турчиным обсудил проекты РФ и Белоруссии",
-      "excerpt": "Как отметил председатель правительства России, премьеры собрались, чтобы обсудить поставленные президентами вопросы двусторонней повестки",
-      "recap_neutral": "Как отметил председатель правительства России, премьеры собрались, чтобы обсудить поставленные президентами вопросы двусторонней повестки",
-      "main_idea": "Мишустин на неофициальной встрече с Турчиным обсудил проекты РФ и Белоруссии",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Jul 2026 18:24:28 +0300",
-      "url": "https://tass.ru/politika/27887611",
-      "lang": "ru",
-      "bias_score": 56,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Нижнем Новгороде несколько кабин канатной дороги застряли вместе с людьми",
-      "title_neutral": "В Нижнем Новгороде несколько кабин канатной дороги застряли вместе с людьми",
-      "excerpt": "На место происшествия направили экстренные службы",
-      "recap_neutral": "На место происшествия направили экстренные службы",
-      "main_idea": "В Нижнем Новгороде несколько кабин канатной дороги застряли вместе с людьми",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Jul 2026 18:23:06 +0300",
-      "url": "https://tass.ru/proisshestviya/27887609",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Кабмин поддержит проект медицинского кластера в Свердловской области",
-      "title_neutral": "Кабмин поддержит проект медицинского кластера в Свердловской области",
-      "excerpt": "Губернатор региона Денис Паслер отметил, что Уральский государственный медицинский университет имеет хорошие традиции",
-      "recap_neutral": "Губернатор региона Денис Паслер отметил, что Уральский государственный медицинский университет имеет хорошие традиции",
-      "main_idea": "Кабмин поддержит проект медицинского кластера в Свердловской области",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Jul 2026 18:17:05 +0300",
-      "url": "https://tass.ru/obschestvo/27887607",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Эксперт Сырцов: современные журналисты более прагматично смотрят на свою работу",
-      "title_neutral": "Эксперт Сырцов: современные журналисты более прагматично смотрят на свою работу",
-      "excerpt": "Заместитель гендиректора медиахолдинга \"Пари\" отметил, что зарплата стала больше значить при выборе этой профессии",
-      "recap_neutral": "Заместитель гендиректора медиахолдинга \"Пари\" отметил, что зарплата стала больше значить при выборе этой профессии",
-      "main_idea": "Эксперт Сырцов: современные журналисты более прагматично смотрят на свою работу",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Jul 2026 18:07:38 +0300",
-      "url": "https://tass.ru/obschestvo/27887601",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Российские специалисты зачистили город в ЦАР, на который напали боевики из Судана",
-      "title_neutral": "Российские специалисты зачистили город в ЦАР, на который напали боевики из Судана",
-      "excerpt": "Ам-Дафок полностью перешел под контроль правительственных сил, сообщили в Содружестве офицеров за международную безопасность",
-      "recap_neutral": "Ам-Дафок полностью перешел под контроль правительственных сил, сообщили в Содружестве офицеров за международную безопасность",
-      "main_idea": "Российские специалисты зачистили город в ЦАР, на который напали боевики из Судана",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Jul 2026 18:05:51 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27887597",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Пострадавшему при атаке ВСУ главе Грайворонского округа провели операцию",
-      "title_neutral": "Пострадавшему при атаке ВСУ главе Грайворонского округа провели операцию",
-      "excerpt": "Здоровью Дмитрия Панкова ничего не угрожает",
-      "recap_neutral": "Здоровью Дмитрия Панкова ничего не угрожает",
-      "main_idea": "Пострадавшему при атаке ВСУ главе Грайворонского округа провели операцию",
-      "tags": [
-        "conflict",
-        "health"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Jul 2026 18:05:19 +0300",
-      "url": "https://tass.ru/obschestvo/27887599",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Во Владимирской области отменили угрозу атаки БПЛА",
-      "title_neutral": "Во Владимирской области отменили угрозу атаки БПЛА",
-      "excerpt": "Об этом сообщает РСЧС по региону",
-      "recap_neutral": "Об этом сообщает РСЧС по региону",
-      "main_idea": "Во Владимирской области отменили угрозу атаки БПЛА",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 05 Jul 2026 18:03:14 +0300",
-      "url": "https://tass.ru/proisshestviya/27887595",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show your hands honor for the power they bring you",
-      "title_neutral": "Show your hands honor for the power they bring you",
+      "title_original": "The Great Blogging Collapse: What Happened to 100 Successful Blogs?",
+      "title_neutral": "The Great Blogging Collapse: What Happened to 100 Successful Blogs?",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Show your hands honor for the power they bring you",
+      "main_idea": "The Great Blogging Collapse: What Happened to 100 Successful Blogs?",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Sun, 05 Jul 2026 15:06:09 +0000",
-      "url": "https://aresluna.org/show-your-hands-honor/",
+      "published_at": "Thu, 02 Jul 2026 09:36:04 +0000",
+      "url": "https://danielstanica.com/posts/Great-Blogging-Collapse",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Train and run transformers directly on Apple's Neural Engine",
-      "title_neutral": "Train and run transformers directly on Apple's Neural Engine",
+      "title_original": "В Петербурге умерла искусствовед и писатель Ирада Берг",
+      "title_neutral": "В Петербурге умерла искусствовед и писатель Ирада Берг",
+      "excerpt": "Ей было 53 года",
+      "recap_neutral": "Ей было 53 года",
+      "main_idea": "В Петербурге умерла искусствовед и писатель Ирада Берг",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Jul 2026 20:02:55 +0300",
+      "url": "https://tass.ru/kultura/27887717",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Депутат Рады Гончаренко: ТЦК вымогают у студентов деньги, угрожая снять бронь",
+      "title_neutral": "Депутат Рады Гончаренко: ТЦК вымогают у студентов деньги, угрожая снять бронь",
+      "excerpt": "",
+      "recap_neutral": "Депутат Рады Гончаренко: ТЦК вымогают у студентов деньги, угрожая снять бронь",
+      "main_idea": "Депутат Рады Гончаренко: ТЦК вымогают у студентов деньги, угрожая снять бронь",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Jul 2026 19:59:03 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27887711",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Днепропетровске произошли взрывы",
+      "title_neutral": "В Днепропетровске произошли взрывы",
+      "excerpt": "В регионе объявлена воздушная тревога",
+      "recap_neutral": "В регионе объявлена воздушная тревога",
+      "main_idea": "В Днепропетровске произошли взрывы",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Jul 2026 19:58:13 +0300",
+      "url": "https://tass.ru/proisshestviya/27887713",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Сьерра: футболист Кордоба больше не сыграет на ЧМ-2026 из-за травмы",
+      "title_neutral": "Сьерра: футболист Кордоба больше не сыграет на ЧМ-2026 из-за травмы",
+      "excerpt": "Он получил повреждение в матче 1/16 финала против команды Ганы",
+      "recap_neutral": "Он получил повреждение в матче 1/16 финала против команды Ганы",
+      "main_idea": "Сьерра: футболист Кордоба больше не сыграет на ЧМ-2026 из-за травмы",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Jul 2026 19:56:57 +0300",
+      "url": "https://tass.ru/sport/27887709",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ici: на юге Франции мужчина с ножом напал на прохожих",
+      "title_neutral": "Ici: на юге Франции мужчина с ножом напал на прохожих",
+      "excerpt": "Трое пострадавших госпитализированы, сообщила радиостанция",
+      "recap_neutral": "Трое пострадавших госпитализированы, сообщила радиостанция",
+      "main_idea": "Ici: на юге Франции мужчина с ножом напал на прохожих",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Jul 2026 19:53:12 +0300",
+      "url": "https://tass.ru/proisshestviya/27887703",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Во Владимирской области утонул ребенок",
+      "title_neutral": "Во Владимирской области утонул ребенок",
+      "excerpt": "Тело пятилетнего мальчика обнаружили спасатели гороховецкой спасательной станции аварийно-спасательной службы региона",
+      "recap_neutral": "Тело пятилетнего мальчика обнаружили спасатели гороховецкой спасательной станции аварийно-спасательной службы региона",
+      "main_idea": "Во Владимирской области утонул ребенок",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Jul 2026 19:52:52 +0300",
+      "url": "https://tass.ru/proisshestviya/27887707",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Глава NASA назвал возможную причину взрыва ракеты New Glenn",
+      "title_neutral": "Глава NASA назвал возможную причину взрыва ракеты New Glenn",
+      "excerpt": "Это могли быть неполадки в работе силовой установки, сообщил Джаред Айзекман",
+      "recap_neutral": "Это могли быть неполадки в работе силовой установки, сообщил Джаред Айзекман",
+      "main_idea": "Глава NASA назвал возможную причину взрыва ракеты New Glenn",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Jul 2026 19:50:13 +0300",
+      "url": "https://tass.ru/kosmos/27887705",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве на внутренней стороне 34-го км МКАД произошло ДТП",
+      "title_neutral": "В Москве на внутренней стороне 34-го км МКАД произошло ДТП",
+      "excerpt": "Обстоятельства произошедшего и информация о пострадавших уточняются",
+      "recap_neutral": "Обстоятельства произошедшего и информация о пострадавших уточняются",
+      "main_idea": "В Москве на внутренней стороне 34-го км МКАД произошло ДТП",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Jul 2026 19:42:51 +0300",
+      "url": "https://tass.ru/proisshestviya/27887701",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Горловке беспилотник ВСУ атаковал гражданский автомобиль",
+      "title_neutral": "В Горловке беспилотник ВСУ атаковал гражданский автомобиль",
+      "excerpt": "Машина полностью уничтожена",
+      "recap_neutral": "Машина полностью уничтожена",
+      "main_idea": "В Горловке беспилотник ВСУ атаковал гражданский автомобиль",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Jul 2026 19:38:04 +0300",
+      "url": "https://tass.ru/proisshestviya/27887699",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Минтранс: более 90% региональных трасс Новгородской области привели к нормативу",
+      "title_neutral": "Минтранс: более 90% региональных трасс Новгородской области привели к нормативу",
+      "excerpt": "По словам министра транспорта Андрея Никитина, до конца 2027 года к нормативу планируется привести 379 км федеральных автодорог региона",
+      "recap_neutral": "По словам министра транспорта Андрея Никитина, до конца 2027 года к нормативу планируется привести 379 км федеральных автодорог региона",
+      "main_idea": "Минтранс: более 90% региональных трасс Новгородской области привели к нормативу",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Jul 2026 19:34:34 +0300",
+      "url": "https://tass.ru/obschestvo/27887669",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Нетаньяху заявил, что у Израиля есть друзья в мире помимо США",
+      "title_neutral": "Нетаньяху заявил, что у Израиля есть друзья в мире помимо США",
+      "excerpt": "Так израильский премьер-министр ответил на критику американского вице-президента Джей Ди Вэнса, призвавшего еврейское государство помнить, что Соединенные Штаты остались его \"единственным мощным союзником\"",
+      "recap_neutral": "Так израильский премьер-министр ответил на критику американского вице-президента Джей Ди Вэнса, призвавшего еврейское государство помнить, что Соединенные Штаты остались его \"единственным мощным союзником\"",
+      "main_idea": "Нетаньяху заявил, что у Израиля есть друзья в мире помимо США",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Jul 2026 19:31:43 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27887695",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Тарпищев считает, что операция помешала Сафиуллину стать великим теннисистом",
+      "title_neutral": "Тарпищев считает, что операция помешала Сафиуллину стать великим теннисистом",
+      "excerpt": "Россиянин дошел до четвертого круга Уимблдона, где уступил сербу Новаку Джоковичу",
+      "recap_neutral": "Россиянин дошел до четвертого круга Уимблдона, где уступил сербу Новаку Джоковичу",
+      "main_idea": "Тарпищев считает, что операция помешала Сафиуллину стать великим теннисистом",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Jul 2026 19:29:59 +0300",
+      "url": "https://tass.ru/sport/27887691",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Джокович похвалил Сафиуллина за выступление на Уимблдоне",
+      "title_neutral": "Джокович похвалил Сафиуллина за выступление на Уимблдоне",
+      "excerpt": "Россиянин дошел на турнире до четвертого круга",
+      "recap_neutral": "Россиянин дошел на турнире до четвертого круга",
+      "main_idea": "Джокович похвалил Сафиуллина за выступление на Уимблдоне",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Jul 2026 19:28:24 +0300",
+      "url": "https://tass.ru/sport/27887689",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Участники шествия в Тегеране уверены в успешном будущем отношений Ирана и РФ",
+      "title_neutral": "Участники шествия в Тегеране уверены в успешном будущем отношений Ирана и РФ",
+      "excerpt": "Это будет очень полезно для обеих сторон и может способствовать установлению баланса сил между Востоком и Западом, считает музыкант и дирижер симфонического оркестра города Мохсен Кухестани Нежад",
+      "recap_neutral": "Это будет очень полезно для обеих сторон и может способствовать установлению баланса сил между Востоком и Западом, считает музыкант и дирижер симфонического оркестра города Мохсен Кухестани Нежад",
+      "main_idea": "Участники шествия в Тегеране уверены в успешном будущем отношений Ирана и РФ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Jul 2026 19:25:31 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27887679",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Нижнем Новгороде эвакуировали застрявших на канатной дороге пассажиров",
+      "title_neutral": "В Нижнем Новгороде эвакуировали застрявших на канатной дороге пассажиров",
+      "excerpt": "В кабинках находились 16 человек, в том числе 4 ребенка",
+      "recap_neutral": "В кабинках находились 16 человек, в том числе 4 ребенка",
+      "main_idea": "В Нижнем Новгороде эвакуировали застрявших на канатной дороге пассажиров",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 05 Jul 2026 19:22:41 +0300",
+      "url": "https://tass.ru/proisshestviya/27887685",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral",
+      "title_neutral": "Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral",
+      "excerpt": "Throughout the capital, the government is using Ayatollah Ali Khamenei’s funeral to project strength at a time of great uncertainty for Iran.",
+      "recap_neutral": "Throughout the capital, the government is using Ayatollah Ali Khamenei’s funeral to project strength at a time of great uncertainty for Iran",
+      "main_idea": "Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 05 Jul 2026 16:18:24 +0000",
+      "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Plight of the Martian Farmer",
+      "title_neutral": "The Plight of the Martian Farmer",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Train and run transformers directly on Apple's Neural Engine",
+      "main_idea": "The Plight of the Martian Farmer",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 05 Jul 2026 16:04:23 +0000",
+      "url": "https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "At Site Where Iran’s Slain Leader Lies, Some See a Symbol of His Failures",
+      "title_neutral": "At Site Where Iran’s Slain Leader Lies, Some See a Symbol of His Failures",
+      "excerpt": "The complex where mourners are paying their respects to Ayatollah Ali Khamenei this weekend is unfinished after nearly 40 years. Critics say it is emblematic of the unfulfilled promises of his rule.",
+      "recap_neutral": "The complex where mourners are paying their respects to Ayatollah Ali Khamenei this weekend is unfinished after nearly 40 years",
+      "main_idea": "At Site Where Iran’s Slain Leader Lies, Some See a Symbol of His Failures",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 05 Jul 2026 16:02:47 +0000",
+      "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-grand-mosalla-khamenei.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "title_neutral": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "excerpt": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
+      "recap_neutral": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran",
+      "main_idea": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 05 Jul 2026 15:48:55 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+      "title_neutral": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+      "excerpt": "Some of the famous guests have been posting on social media about the big day in New York.",
+      "recap_neutral": "Some of the famous guests have been posting on social media about the big day in New York",
+      "main_idea": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sun, 05 Jul 2026 15:48:20 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
+      "title_neutral": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
       "tags": [
         "tech"
       ],
       "source": "Hacker News",
-      "published_at": "Sun, 05 Jul 2026 15:02:43 +0000",
-      "url": "https://github.com/christopherkarani/Espresso",
+      "published_at": "Sun, 05 Jul 2026 15:00:21 +0000",
+      "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -427,6 +512,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Solar rail could become common in Europe after successful trial in Switzerland",
+      "title_neutral": "Solar rail could become common in Europe after successful trial in Switzerland",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Solar rail could become common in Europe after successful trial in Switzerland",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 05 Jul 2026 14:49:42 +0000",
+      "url": "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Organic Maps",
       "title_neutral": "Organic Maps",
       "excerpt": "Comments",
@@ -439,6 +541,41 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The TechBeat: Vibe Coding Starts at Localhost (7/5/2026)",
+      "title_neutral": "The TechBeat: Vibe Coding Starts at Localhost (7/5/2026)",
+      "excerpt": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here . ## London Tech Week 2026: From Sovereign AI to AI Adoption By @jonstojanjournalist [ 3 Min read ] Londo…",
+      "recap_neutral": "How are you, hacker? 🪐 Want to know what's trending right now?: The Techbeat by HackerNoon has got you covered with fresh content from our trending stories of the day! Set email preference here",
+      "main_idea": "The TechBeat: Vibe Coding Starts at Localhost (7/5/2026)",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 05 Jul 2026 14:00:55 GMT",
+      "url": "https://hackernoon.com/7-5-2026-techbeat?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "173 Blog Posts To Learn About Agile Software Development",
+      "title_neutral": "173 Blog Posts To Learn About Agile Software Development",
+      "excerpt": "Let's learn about Agile Software Development via these 173 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. An iterative approach to software development, emphasizing flexibility, col…",
+      "recap_neutral": "Let's learn about Agile Software Development via these 173 free blog posts",
+      "main_idea": "173 Blog Posts To Learn About Agile Software Development",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 05 Jul 2026 14:00:40 GMT",
+      "url": "https://hackernoon.com/173-blog-posts-to-learn-about-agile-software-development?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -474,21 +611,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Phosh 0.56.0",
-      "title_neutral": "Phosh 0.56.0",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Phosh 0.56.0",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 05 Jul 2026 13:28:11 +0000",
-      "url": "https://phosh.mobi/releases/rel-0.56.0/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
       "title_neutral": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
       "excerpt": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
@@ -505,21 +627,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Guam and Northern Mariana Islands Prepare for Typhoon Bavi",
-      "title_neutral": "Guam and Northern Mariana Islands Prepare for Typhoon Bavi",
-      "excerpt": "Typhoon Bavi, a tropical cyclone barreling through the Pacific Ocean, was forecast to pass near the U.S. territories on Monday with the force of a Category 5 hurricane.",
-      "recap_neutral": "Typhoon Bavi, a tropical cyclone barreling through the Pacific Ocean, was forecast to pass near the U",
-      "main_idea": "Guam and Northern Mariana Islands Prepare for Typhoon Bavi",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sun, 05 Jul 2026 13:08:07 +0000",
-      "url": "https://www.nytimes.com/2026/07/05/us/guam-typhoon-bavi-marianas.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -553,23 +660,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "title_neutral": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "excerpt": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the onset of the US-Israel war with Iran.",
-      "recap_neutral": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the onset of the US-Israel war with Iran",
-      "main_idea": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 05 Jul 2026 12:29:18 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Show HN: KiCad in the Browser",
       "title_neutral": "Show HN: KiCad in the Browser",
       "excerpt": "Comments",
@@ -600,18 +690,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Pi square is nearly 10",
-      "title_neutral": "Pi square is nearly 10",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Pi square is nearly 10",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 05 Jul 2026 10:50:53 +0000",
-      "url": "https://mihai.page/pi-square-is-10/",
+      "title_original": "AIR Kit Deep Dive: Is AIR Kit the Best ZK Identity SDK in Web3? A Developer's Hands-On Review",
+      "title_neutral": "AIR Kit Deep Dive: Is AIR Kit the Best ZK Identity SDK in Web3? A Developer's Hands-On Review",
+      "excerpt": "AIR Kit is Moca Network's SDK for Web3 login, embedded smart accounts, and zero-knowledge verifiable credentials, anchored to Moca Chain — the identity-purpose Layer 1 from Animoca Brands' flagship project. This piece does two jobs: it explains, in plain engineering terms, how the system actually w…",
+      "recap_neutral": "AIR Kit is Moca Network's SDK for Web3 login, embedded smart accounts, and zero-knowledge verifiable credentials, anchored to Moca Chain — the identity-purpose Layer 1 from Animoca Brands' flagship project",
+      "main_idea": "AIR Kit Deep Dive: Is AIR Kit the Best ZK Identity SDK in Web3? A Developer's Hands-On Review",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 05 Jul 2026 10:40:18 GMT",
+      "url": "https://hackernoon.com/air-kit-deep-dive-is-air-kit-the-best-zk-identity-sdk-in-web3-a-developers-hands-on-review?source=rss",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -783,24 +875,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Fast Software, the Best Software (2019)",
-      "title_neutral": "Fast Software, the Best Software (2019)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Fast Software, the Best Software (2019)",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sun, 05 Jul 2026 07:25:25 +0000",
-      "url": "https://craigmod.com/essays/fast_software/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1082,23 +1156,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Denmark’s century-old Fourth of July party looks different this year.",
-      "title_neutral": "Denmark’s century-old Fourth of July party looks different this year.",
-      "excerpt": "Overshadowed by President Trump’s threats to seize Greenland, a Danish territory, the event removed U.S. officials from the program and saw protests arrive.",
-      "recap_neutral": "Overshadowed by President Trump’s threats to seize Greenland, a Danish territory, the event removed U",
-      "main_idea": "Denmark’s century-old Fourth of July party looks different this year.",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 04 Jul 2026 21:40:49 +0000",
-      "url": "https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/denmarks-century-old-fourth-of-july-party-looks-different-this-year",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1392,21 +1449,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Pope urges Europe to do more for migrants as he visits gateway island",
-      "title_neutral": "Pope urges Europe to do more for migrants as he visits gateway island",
-      "excerpt": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
-      "recap_neutral": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa",
-      "main_idea": "Pope urges Europe to do more for migrants as he visits gateway island",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 04 Jul 2026 11:25:57 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "China's military promotes 2 new generals after anti-corruption purge thins ranks",
       "title_neutral": "China's military promotes 2 new generals after anti-corruption purge thins ranks",
       "excerpt": "The shake-up is believed to be an effort to ensure the military's loyalty to the Communist Party and its leader, Xi Jinping.",
@@ -1515,59 +1557,6 @@
       "source": "HackerNoon",
       "published_at": "Fri, 03 Jul 2026 18:59:01 GMT",
       "url": "https://hackernoon.com/building-sustainable-digital-growth-through-cloud-architecture-and-platform-engineering?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The HackerNoon Newsletter: Today’s AI Is a Mathematical Scam (7/3/2026)",
-      "title_neutral": "The HackerNoon Newsletter: Today’s AI Is a Mathematical Scam (7/3/2026)",
-      "excerpt": "How are you, hacker? 🪐 What’s happening in tech today, July 3, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox. On this day, Back to the Future was Released in 1985, The First Color TV was Demonstrated in London in 1928, The U.S. Union Won the Battle of Gettysb…",
-      "recap_neutral": "How are you, hacker? 🪐 What’s happening in tech today, July 3, 2026? The HackerNoon Newsletter brings the HackerNoon homepage straight to your inbox",
-      "main_idea": "The HackerNoon Newsletter: Today’s AI Is a Mathematical Scam (7/3/2026)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 03 Jul 2026 16:05:08 GMT",
-      "url": "https://hackernoon.com/7-3-2026-newsletter?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Spec-Driven Development Is the New Developer Superpower",
-      "title_neutral": "Spec-Driven Development Is the New Developer Superpower",
-      "excerpt": "The article argues that as AI makes implementation cheaper, the quality of specifications becomes the primary determinant of software quality. It introduces a framework built around Specs, Skills, Workflows, and Proof, showing how structured engineering artifacts help AI agents produce safer, more…",
-      "recap_neutral": "The article argues that as AI makes implementation cheaper, the quality of specifications becomes the primary determinant of software quality",
-      "main_idea": "Spec-Driven Development Is the New Developer Superpower",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 03 Jul 2026 15:49:04 GMT",
-      "url": "https://hackernoon.com/spec-driven-development-is-the-new-developer-superpower?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "What Building a Self-Paced Math System Taught Me About Software Design",
-      "title_neutral": "What Building a Self-Paced Math System Taught Me About Software Design",
-      "excerpt": "I built an automated math learning system called Mathewmatician's Dictionary, and the deeper I went, the more it stopped feeling like an education problem and started looking like a software design problem. Three lessons carried over directly. First, when a student fails a topic, the real cause is…",
-      "recap_neutral": "I built an automated math learning system called Mathewmatician's Dictionary, and the deeper I went, the more it stopped feeling like an education problem and started looking like a software design problem",
-      "main_idea": "What Building a Self-Paced Math System Taught Me About Software Design",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 03 Jul 2026 15:42:21 GMT",
-      "url": "https://hackernoon.com/what-building-a-self-paced-math-system-taught-me-about-software-design?source=rss",
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
