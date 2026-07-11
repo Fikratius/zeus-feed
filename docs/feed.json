@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T14:34:34.555552+00:00",
+  "last_updated": "2026-07-11T15:51:13.976851+00:00",
   "items": [
     {
       "title_original": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
@@ -115,23 +115,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "AI 2040: Plan A",
-      "title_neutral": "AI 2040: Plan A",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "AI 2040: Plan A",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Thu, 09 Jul 2026 16:21:44 +0000",
-      "url": "https://ai-2040.com/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Furore in Nigeria over fake federal agency set up in government HQ",
       "title_neutral": "Furore in Nigeria over fake federal agency set up in government HQ",
       "excerpt": "President orders investigation after fictitious body given funding, triggering renewed scrutiny of alleged corruption A fictitious federal entity that was allocated 1.3bn naira (£700,000) in Nigeria’s 2026 budget has precipitated a political storm in Africa’s largest democracy in the run-up to a ge…",
@@ -215,258 +198,399 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
-      "title_neutral": "The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
+      "title_original": "В Анапе объявили угрозу атаки БПЛА",
+      "title_neutral": "В Анапе объявили угрозу атаки БПЛА",
+      "excerpt": "Об этом предупредила мэрия города",
+      "recap_neutral": "Об этом предупредила мэрия города",
+      "main_idea": "В Анапе объявили угрозу атаки БПЛА",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 18:47:31 +0300",
+      "url": "https://tass.ru/proisshestviya/27908625",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Рубио: США будут применять против Кубы любые меры для устранения якобы угроз",
+      "title_neutral": "Рубио: США будут применять против Кубы любые меры для устранения якобы угроз",
+      "excerpt": "Госсекретарь заявил, что экономика республики находится в состоянии \"свободного падения\"",
+      "recap_neutral": "Госсекретарь заявил, что экономика республики находится в состоянии \"свободного падения\"",
+      "main_idea": "Рубио: США будут применять против Кубы любые меры для устранения якобы угроз",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 18:47:11 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27908623",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Бастрыкин потребовал доклад по делу о нападении собаки на ребенка под Новгородом",
+      "title_neutral": "Бастрыкин потребовал доклад по делу о нападении собаки на ребенка под Новгородом",
+      "excerpt": "Мальчик получил укушенные раны руки и плеча",
+      "recap_neutral": "Мальчик получил укушенные раны руки и плеча",
+      "main_idea": "Бастрыкин потребовал доклад по делу о нападении собаки на ребенка под Новгородом",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 18:45:41 +0300",
+      "url": "https://tass.ru/proisshestviya/27908619",
+      "lang": "ru",
+      "bias_score": 56,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Адвокат Постанджян пожаловалась послу РФ на распространяемый властями Армении страх",
+      "title_neutral": "Адвокат Постанджян пожаловалась послу РФ на распространяемый властями Армении страх",
+      "excerpt": "Когда адвокаты или журналисты публикуют материалы дела или указывают на процессуальные нарушения, это должно рассматриваться как общественный контроль, а не как оскорбление или клевета, заявила юрист",
+      "recap_neutral": "Когда адвокаты или журналисты публикуют материалы дела или указывают на процессуальные нарушения, это должно рассматриваться как общественный контроль, а не как оскорбление или клевета, заявила юрист",
+      "main_idea": "Адвокат Постанджян пожаловалась послу РФ на распространяемый властями Армении страх",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 18:45:22 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27908617",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Каливод признался, что не ждал высоких результатов от юниоров на Уимблдоне",
+      "title_neutral": "Каливод признался, что не ждал высоких результатов от юниоров на Уимблдоне",
+      "excerpt": "Победительницей юниорского Уимблдона стала Анна Пушкарева",
+      "recap_neutral": "Победительницей юниорского Уимблдона стала Анна Пушкарева",
+      "main_idea": "Каливод признался, что не ждал высоких результатов от юниоров на Уимблдоне",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 18:39:28 +0300",
+      "url": "https://tass.ru/sport/27908615",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Тайфун \"Бави\" обрушился на восток Китая со скоростью ветра 40 м/с",
+      "title_neutral": "Тайфун \"Бави\" обрушился на восток Китая со скоростью ветра 40 м/с",
+      "excerpt": "В преддверии стихи эвакуировали почти 2 млн человек",
+      "recap_neutral": "В преддверии стихи эвакуировали почти 2 млн человек",
+      "main_idea": "Тайфун \"Бави\" обрушился на восток Китая со скоростью ветра 40 м/с",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 18:37:49 +0300",
+      "url": "https://tass.ru/proisshestviya/27908613",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Ингушетии арестовали подозреваемого в нанесении ножевого ранения несовершеннолетнему",
+      "title_neutral": "В Ингушетии арестовали подозреваемого в нанесении ножевого ранения несовершеннолетнему",
+      "excerpt": "Пострадавший был доставлен в больницу",
+      "recap_neutral": "Пострадавший был доставлен в больницу",
+      "main_idea": "В Ингушетии арестовали подозреваемого в нанесении ножевого ранения несовершеннолетнему",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 18:35:24 +0300",
+      "url": "https://tass.ru/proisshestviya/27908583",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Кафельников высказался о перспективах Пушкаревой во взрослом теннисе",
+      "title_neutral": "Кафельников высказался о перспективах Пушкаревой во взрослом теннисе",
+      "excerpt": "Российская теннисистка стала победительницей юниорского Уимблдона",
+      "recap_neutral": "Российская теннисистка стала победительницей юниорского Уимблдона",
+      "main_idea": "Кафельников высказался о перспективах Пушкаревой во взрослом теннисе",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 18:35:04 +0300",
+      "url": "https://tass.ru/sport/27908611",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Член \"Новых людей\" подала документы на регистрацию кандидатом в главы Ульяновской области",
+      "title_neutral": "Член \"Новых людей\" подала документы на регистрацию кандидатом в главы Ульяновской области",
+      "excerpt": "Речь идет о Юлии Ясайтис",
+      "recap_neutral": "Речь идет о Юлии Ясайтис",
+      "main_idea": "Член \"Новых людей\" подала документы на регистрацию кандидатом в главы Ульяновской области",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 18:32:40 +0300",
+      "url": "https://tass.ru/politika/27908585",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Москвичей призвали быть внимательными на улицах во время непогоды",
+      "title_neutral": "Москвичей призвали быть внимательными на улицах во время непогоды",
+      "excerpt": "До конца суток 11 июля прогнозируется ливень, гроза, град и ветер с порывами до 15-20 м/с",
+      "recap_neutral": "До конца суток 11 июля прогнозируется ливень, гроза, град и ветер с порывами до 15-20 м/с",
+      "main_idea": "Москвичей призвали быть внимательными на улицах во время непогоды",
+      "tags": [
+        "climate"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 18:32:16 +0300",
+      "url": "https://tass.ru/obschestvo/27908597",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Команда из Абхазии стала победителем футбольного турнира на Кубок дружбы",
+      "title_neutral": "Команда из Абхазии стала победителем футбольного турнира на Кубок дружбы",
+      "excerpt": "Второе место занял донецкий \"Шахтер\", третье - московский \"Луч\"",
+      "recap_neutral": "Второе место занял донецкий \"Шахтер\", третье - московский \"Луч\"",
+      "main_idea": "Команда из Абхазии стала победителем футбольного турнира на Кубок дружбы",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 18:30:54 +0300",
+      "url": "https://tass.ru/sport/27908607",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ведерников: в Пскове возобновили работу АЗС \"Татнефть\"",
+      "title_neutral": "Ведерников: в Пскове возобновили работу АЗС \"Татнефть\"",
+      "excerpt": "Глава региона заявил, что в область начало поступать больше топлива",
+      "recap_neutral": "Глава региона заявил, что в область начало поступать больше топлива",
+      "main_idea": "Ведерников: в Пскове возобновили работу АЗС \"Татнефть\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 18:29:24 +0300",
+      "url": "https://tass.ru/ekonomika/27908601",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Белгородской области при атаке ВСУ пострадали три человека",
+      "title_neutral": "В Белгородской области при атаке ВСУ пострадали три человека",
+      "excerpt": "Одному из пострадавших диагностировали травматическую ампутацию руки",
+      "recap_neutral": "Одному из пострадавших диагностировали травматическую ампутацию руки",
+      "main_idea": "В Белгородской области при атаке ВСУ пострадали три человека",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 18:27:13 +0300",
+      "url": "https://tass.ru/proisshestviya/27908603",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Янчук назвал победу Пушкаревой подтверждением традиций российского тенниса",
+      "title_neutral": "Янчук назвал победу Пушкаревой подтверждением традиций российского тенниса",
+      "excerpt": "Российская теннисистка выиграла юниорский Уимблдон",
+      "recap_neutral": "Российская теннисистка выиграла юниорский Уимблдон",
+      "main_idea": "Янчук назвал победу Пушкаревой подтверждением традиций российского тенниса",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 18:24:31 +0300",
+      "url": "https://tass.ru/sport/27908599",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Times: в НАТО опровергли предположения о подготовке РФ к атаке на Прибалтику",
+      "title_neutral": "Times: в НАТО опровергли предположения о подготовке РФ к атаке на Прибалтику",
+      "excerpt": "Газета пишет, что западные лидеры используют мнимую российскую угрозу для оправдания роста военных расходов",
+      "recap_neutral": "Газета пишет, что западные лидеры используют мнимую российскую угрозу для оправдания роста военных расходов",
+      "main_idea": "Times: в НАТО опровергли предположения о подготовке РФ к атаке на Прибалтику",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 18:24:05 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27908595",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "title_neutral": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "excerpt": "US media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\".",
+      "recap_neutral": "US media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\"",
+      "main_idea": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 11 Jul 2026 15:45:31 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "title_neutral": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "excerpt": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+      "recap_neutral": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar",
+      "main_idea": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 11 Jul 2026 15:40:23 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 36,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "England and Norway Resurrect a Rivalry for the World Cup",
+      "title_neutral": "England and Norway Resurrect a Rivalry for the World Cup",
+      "excerpt": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side.",
+      "recap_neutral": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway",
+      "main_idea": "England and Norway Resurrect a Rivalry for the World Cup",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sat, 11 Jul 2026 15:38:09 +0000",
+      "url": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "15 Killed as Speedboat Capsizes in Vietnam",
+      "title_neutral": "15 Killed as Speedboat Capsizes in Vietnam",
+      "excerpt": "A speedboat was carrying 36 people when it overturned near the island of Phu Quoc in southern Vietnam. The other people onboard were rescued alive.",
+      "recap_neutral": "A speedboat was carrying 36 people when it overturned near the island of Phu Quoc in southern Vietnam",
+      "main_idea": "15 Killed as Speedboat Capsizes in Vietnam",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sat, 11 Jul 2026 15:29:40 +0000",
+      "url": "https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "We scaled PgBouncer to 4x throughput",
+      "title_neutral": "We scaled PgBouncer to 4x throughput",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
+      "main_idea": "We scaled PgBouncer to 4x throughput",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Sun, 05 Jul 2026 22:33:08 +0000",
-      "url": "https://questdb.com/blog/jvm-jit-known-bits/",
+      "published_at": "Sat, 11 Jul 2026 15:28:02 +0000",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "АПУ обнаружил атлантическую ветвь с высокой температурой в Баренцевом море",
-      "title_neutral": "АПУ обнаружил атлантическую ветвь с высокой температурой в Баренцевом море",
-      "excerpt": "В ходе еще одного разреза океанологи рассчитывают зафиксировать так называемую фрамовскую ветвь атлантических вод, которая заходит в Баренцево море с севера",
-      "recap_neutral": "В ходе еще одного разреза океанологи рассчитывают зафиксировать так называемую фрамовскую ветвь атлантических вод, которая заходит в Баренцево море с севера",
-      "main_idea": "АПУ обнаружил атлантическую ветвь с высокой температурой в Баренцевом море",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 17:30:46 +0300",
-      "url": "https://tass.ru/nauka/27908531",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Сибири определили победителей окружного этапа игры \"Зарница 2.0\"",
-      "title_neutral": "В Сибири определили победителей окружного этапа игры \"Зарница 2.0\"",
-      "excerpt": "Отряды-победители окружного этапа получили право представить СФО в финале военно-патриотической игры",
-      "recap_neutral": "Отряды-победители окружного этапа получили право представить СФО в финале военно-патриотической игры",
-      "main_idea": "В Сибири определили победителей окружного этапа игры \"Зарница 2.0\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 17:27:26 +0300",
-      "url": "https://tass.ru/obschestvo/27908537",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Татарстане задержали мужчину за публикацию видео последствий атаки БПЛА",
-      "title_neutral": "В Татарстане задержали мужчину за публикацию видео последствий атаки БПЛА",
-      "excerpt": "Жителю Нижнекамска вынесли предостережение",
-      "recap_neutral": "Жителю Нижнекамска вынесли предостережение",
-      "main_idea": "В Татарстане задержали мужчину за публикацию видео последствий атаки БПЛА",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 17:25:19 +0300",
-      "url": "https://tass.ru/proisshestviya/27908535",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Запорожье произошли взрывы",
-      "title_neutral": "В Запорожье произошли взрывы",
-      "excerpt": "На подконтрольной киевским властям части Запорожской области объявлена воздушная тревога",
-      "recap_neutral": "На подконтрольной киевским властям части Запорожской области объявлена воздушная тревога",
-      "main_idea": "В Запорожье произошли взрывы",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 17:24:57 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27908541",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Умер телеведущий Дермот Мернэхэн",
-      "title_neutral": "Умер телеведущий Дермот Мернэхэн",
-      "excerpt": "Ему было 68 лет",
-      "recap_neutral": "Ему было 68 лет",
-      "main_idea": "Умер телеведущий Дермот Мернэхэн",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 17:24:15 +0300",
-      "url": "https://tass.ru/kultura/27908539",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Риге возложили цветы к памятнику погибшим во время Северной войны",
-      "title_neutral": "В Риге возложили цветы к памятнику погибшим во время Северной войны",
-      "excerpt": "В мероприятии приняли участие российские дипломаты",
-      "recap_neutral": "В мероприятии приняли участие российские дипломаты",
-      "main_idea": "В Риге возложили цветы к памятнику погибшим во время Северной войны",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 17:22:10 +0300",
-      "url": "https://tass.ru/obschestvo/27908529",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Комбат Бизон: ВСУ отказывают в отступлении оставшимся в Константиновке военным",
-      "title_neutral": "Комбат Бизон: ВСУ отказывают в отступлении оставшимся в Константиновке военным",
-      "excerpt": "",
-      "recap_neutral": "Комбат Бизон: ВСУ отказывают в отступлении оставшимся в Константиновке военным",
-      "main_idea": "Комбат Бизон: ВСУ отказывают в отступлении оставшимся в Константиновке военным",
+      "title_original": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "title_neutral": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "excerpt": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+      "recap_neutral": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing",
+      "main_idea": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 17:20:21 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27908533",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Sat, 11 Jul 2026 15:03:45 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Собянин поздравил работников московского транспорта с профессиональным праздником",
-      "title_neutral": "Собянин поздравил работников московского транспорта с профессиональным праздником",
-      "excerpt": "Мэр назвал стремительное развитие транспорта в Москве отличительной чертой столицы",
-      "recap_neutral": "Мэр назвал стремительное развитие транспорта в Москве отличительной чертой столицы",
-      "main_idea": "Собянин поздравил работников московского транспорта с профессиональным праздником",
+      "title_original": "South Africa World Cup midfielder Adams dies aged 25",
+      "title_neutral": "South Africa World Cup midfielder Adams dies aged 25",
+      "excerpt": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
+      "recap_neutral": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup",
+      "main_idea": "South Africa World Cup midfielder Adams dies aged 25",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 17:20:06 +0300",
-      "url": "https://tass.ru/obschestvo/27908521",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Sat, 11 Jul 2026 14:47:47 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Памфилова нашла \"потенциальных жениха и невесту\" среди кандидатов \"Коммунистов России\"",
-      "title_neutral": "Памфилова нашла \"потенциальных жениха и невесту\" среди кандидатов \"Коммунистов России\"",
-      "excerpt": "Избирательная кампания - хороший повод устроить свою личную жизнь, заявила глава ЦИК",
-      "recap_neutral": "Избирательная кампания - хороший повод устроить свою личную жизнь, заявила глава ЦИК",
-      "main_idea": "Памфилова нашла \"потенциальных жениха и невесту\" среди кандидатов \"Коммунистов России\"",
+      "title_original": "A Wildfire Killed 12 People in Southern Spain. Here’s the Latest.",
+      "title_neutral": "A Wildfire Killed 12 People in Southern Spain. Here’s the Latest.",
+      "excerpt": "Officials said more than 20 people were still missing because of the fire, one of the deadliest in Spain’s history. Most of those confirmed to have been killed were from Belgium or Britain.",
+      "recap_neutral": "Officials said more than 20 people were still missing because of the fire, one of the deadliest in Spain’s history",
+      "main_idea": "A Wildfire Killed 12 People in Southern Spain. Here’s the Latest.",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 17:14:40 +0300",
-      "url": "https://tass.ru/obschestvo/27908527",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sat, 11 Jul 2026 14:46:11 +0000",
+      "url": "https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Пентагон обнародовал четвертый блок архивных данных об НЛО",
-      "title_neutral": "Пентагон обнародовал четвертый блок архивных данных об НЛО",
-      "excerpt": "В сообщении военного министерства США говорится, что оно продолжит публиковать дополнительные файлы на постоянной основе",
-      "recap_neutral": "В сообщении военного министерства США говорится, что оно продолжит публиковать дополнительные файлы на постоянной основе",
-      "main_idea": "Пентагон обнародовал четвертый блок архивных данных об НЛО",
+      "title_original": "Iran’s Top Diplomat Is in Oman for Talks on Strait as Ayatollah Vows Revenge",
+      "title_neutral": "Iran’s Top Diplomat Is in Oman for Talks on Strait as Ayatollah Vows Revenge",
+      "excerpt": "The visit comes after heavy clashes this week between the U.S. and Iran. The country’s supreme leader pledged to avenge his father’s killing, trading threats with President Trump.",
+      "recap_neutral": "The visit comes after heavy clashes this week between the U",
+      "main_idea": "Iran’s Top Diplomat Is in Oman for Talks on Strait as Ayatollah Vows Revenge",
       "tags": [
+        "politics",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 17:11:26 +0300",
-      "url": "https://tass.ru/obschestvo/27908525",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Пермском крае после подтопления домов в ПВР разместили более 20 человек",
-      "title_neutral": "В Пермском крае после подтопления домов в ПВР разместили более 20 человек",
-      "excerpt": "В их числе двое детей",
-      "recap_neutral": "В их числе двое детей",
-      "main_idea": "В Пермском крае после подтопления домов в ПВР разместили более 20 человек",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 17:10:56 +0300",
-      "url": "https://tass.ru/obschestvo/27908513",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Подозреваемый в шпионаже в пользу РФ итальянец отверг передачу документов",
-      "title_neutral": "Подозреваемый в шпионаже в пользу РФ итальянец отверг передачу документов",
-      "excerpt": "Адвокат Франческо Ваккаро заявил, что защита пока не ходатайствовала об отмене меры пресечения для Гавино Рауля Пираса, который содержится под домашним арестом",
-      "recap_neutral": "Адвокат Франческо Ваккаро заявил, что защита пока не ходатайствовала об отмене меры пресечения для Гавино Рауля Пираса, который содержится под домашним арестом",
-      "main_idea": "Подозреваемый в шпионаже в пользу РФ итальянец отверг передачу документов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 17:10:31 +0300",
-      "url": "https://tass.ru/proisshestviya/27908523",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Зеленский признал, что система ПВО Украины не смогла перехватить ракеты РФ",
-      "title_neutral": "Зеленский признал, что система ПВО Украины не смогла перехватить ракеты РФ",
-      "excerpt": "По словам Владимира Зеленского, в ночь на 11 июля средства противовоздушной обороны оказались неспособны справиться с ударами",
-      "recap_neutral": "По словам Владимира Зеленского, в ночь на 11 июля средства противовоздушной обороны оказались неспособны справиться с ударами",
-      "main_idea": "Зеленский признал, что система ПВО Украины не смогла перехватить ракеты РФ",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 17:07:15 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27908517",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Тысячи людей собрались у памятника жертвам Волынской резни в Домоставе",
-      "title_neutral": "Тысячи людей собрались у памятника жертвам Волынской резни в Домоставе",
-      "excerpt": "Среди участников памятных мероприятий - представители ветеранских организаций, байкерских и исторических клубов, бой-скауты",
-      "recap_neutral": "Среди участников памятных мероприятий - представители ветеранских организаций, байкерских и исторических клубов, бой-скауты",
-      "main_idea": "Тысячи людей собрались у памятника жертвам Волынской резни в Домоставе",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 17:03:38 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27908515",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Пассажиры транспорта Москвы за полгода совершили 31 млн поездок по биометрии",
-      "title_neutral": "Пассажиры транспорта Москвы за полгода совершили 31 млн поездок по биометрии",
-      "excerpt": "Также уже около 900 тыс. человек подключились к биометрии в мобильном приложении \"Метро Москвы\"",
-      "recap_neutral": "Также уже около 900 тыс",
-      "main_idea": "Пассажиры транспорта Москвы за полгода совершили 31 млн поездок по биометрии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 16:59:25 +0300",
-      "url": "https://tass.ru/obschestvo/27908507",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sat, 11 Jul 2026 14:40:19 +0000",
+      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -485,42 +609,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "title_neutral": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "excerpt": "US media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\".",
-      "recap_neutral": "US media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\"",
-      "main_idea": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 11 Jul 2026 14:08:07 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran’s Top Diplomat Is in Oman for Talks on Strait as Ayatollah Vows Revenge",
-      "title_neutral": "Iran’s Top Diplomat Is in Oman for Talks on Strait as Ayatollah Vows Revenge",
-      "excerpt": "The visit comes after heavy clashes this week between the U.S. and Iran. The country’s supreme leader pledged to avenge his father’s killing, trading threats with President Trump.",
-      "recap_neutral": "The visit comes after heavy clashes this week between the U",
-      "main_idea": "Iran’s Top Diplomat Is in Oman for Talks on Strait as Ayatollah Vows Revenge",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 11 Jul 2026 14:02:00 +0000",
-      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
       "title_neutral": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
       "excerpt": "Local media say 21 people were saved after the boat overturned in rough seas near an island in south Vietnam.",
@@ -533,21 +621,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "England and Norway Resurrect a Rivalry for the World Cup",
-      "title_neutral": "England and Norway Resurrect a Rivalry for the World Cup",
-      "excerpt": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side.",
-      "recap_neutral": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway",
-      "main_idea": "England and Norway Resurrect a Rivalry for the World Cup",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sat, 11 Jul 2026 13:37:16 +0000",
-      "url": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -583,21 +656,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "South Africa World Cup midfielder Adams dies aged 25",
-      "title_neutral": "South Africa World Cup midfielder Adams dies aged 25",
-      "excerpt": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
-      "recap_neutral": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup",
-      "main_idea": "South Africa World Cup midfielder Adams dies aged 25",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 11 Jul 2026 13:29:51 GMT",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -652,21 +710,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Boat Carrying Dozens of Tourists Capsizes in Vietnam",
-      "title_neutral": "Boat Carrying Dozens of Tourists Capsizes in Vietnam",
-      "excerpt": "A speedboat carrying 36 people overturned near the island of Phu Quoc in southern Vietnam. Local media reported that 15 people had died and that the others had been rescued.",
-      "recap_neutral": "A speedboat carrying 36 people overturned near the island of Phu Quoc in southern Vietnam",
-      "main_idea": "Boat Carrying Dozens of Tourists Capsizes in Vietnam",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sat, 11 Jul 2026 13:10:09 +0000",
-      "url": "https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Networking and the Internet, from First Principles",
       "title_neutral": "Networking and the Internet, from First Principles",
       "excerpt": "Comments",
@@ -676,6 +719,21 @@
       "source": "Hacker News",
       "published_at": "Sat, 11 Jul 2026 12:30:40 +0000",
       "url": "https://fazamhd.com/mental-models/networking/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "FCC approves test of space mirror to light night sky",
+      "title_neutral": "FCC approves test of space mirror to light night sky",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "FCC approves test of space mirror to light night sky",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 11 Jul 2026 12:12:34 +0000",
+      "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -734,6 +792,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "The biggest steam locomotive is whistle-stopping across the U.S.",
+      "title_neutral": "The biggest steam locomotive is whistle-stopping across the U.S.",
+      "excerpt": "Huge crowds of train fans turn out as the 1940s era Big Boy steam locomotive is making a rare trip cross country.",
+      "recap_neutral": "Huge crowds of train fans turn out as the 1940s era Big Boy steam locomotive is making a rare trip cross country",
+      "main_idea": "The biggest steam locomotive is whistle-stopping across the U.S.",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 11 Jul 2026 11:14:42 -0400",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5872656/big-boy-locomotive-steam",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Your code is fast – if you're lucky",
       "title_neutral": "Your code is fast – if you're lucky",
       "excerpt": "Comments",
@@ -764,20 +839,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "title_neutral": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "excerpt": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
-      "recap_neutral": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing",
-      "main_idea": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "title_original": "Ghost Font: A font that humans can read but AI cannot",
+      "title_neutral": "Ghost Font: A font that humans can read but AI cannot",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Ghost Font: A font that humans can read but AI cannot",
       "tags": [
         "tech"
       ],
-      "source": "BBC World",
-      "published_at": "Sat, 11 Jul 2026 09:01:15 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "source": "Hacker News",
+      "published_at": "Sat, 11 Jul 2026 09:36:53 +0000",
+      "url": "https://www.mixfont.com/ghost-font",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1186,23 +1261,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "New species named after Cape Verde goalkeeper Vozinha",
-      "title_neutral": "New species named after Cape Verde goalkeeper Vozinha",
-      "excerpt": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
-      "recap_neutral": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup",
-      "main_idea": "New species named after Cape Verde goalkeeper Vozinha",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 10 Jul 2026 19:30:06 GMT",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Pace Layers: What Urban Planning Knows About Your Software Boundaries",
       "title_neutral": "Pace Layers: What Urban Planning Knows About Your Software Boundaries",
       "excerpt": "How pace layers, an idea from urban planning, apply to software architecture boundaries: sort by rate of change and point dependencies at the slow layer.",
@@ -1270,24 +1328,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Mediators Trying to Pull U.S. and Iran Back From Brink, Officials Say",
-      "title_neutral": "Mediators Trying to Pull U.S. and Iran Back From Brink, Officials Say",
-      "excerpt": "Qatari mediators were in Iran seeking to salvage the tattered truce. President Trump said talks with Tehran would continue, even if the cease-fire was “over.”",
-      "recap_neutral": "Qatari mediators were in Iran seeking to salvage the tattered truce",
-      "main_idea": "Mediators Trying to Pull U.S. and Iran Back From Brink, Officials Say",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 10 Jul 2026 16:15:28 +0000",
-      "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "The HackerNoon Newsletter: Why Cost Per Token Is the Wrong AI Metric (7/10/2026)",
       "title_neutral": "The HackerNoon Newsletter: Why Cost Per Token Is the Wrong AI Metric (7/10/2026)",
       "excerpt": "7/10/2026: Top 5 stories on the HackerNoon homepage!",
@@ -1336,23 +1376,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Patriotic art gets the spotlight as NEA funding shifts. Cue 'The Ronald Reagan Overture'",
-      "title_neutral": "Patriotic art gets the spotlight as NEA funding shifts. Cue 'The Ronald Reagan Overture'",
-      "excerpt": "Patriotic art and music is taking center stage this year under the Trump Administration, as funds shift away from DEI. For some orgs, like the Reagan Presidential Library, this is their wheelhouse.",
-      "recap_neutral": "Patriotic art and music is taking center stage this year under the Trump Administration, as funds shift away from DEI",
-      "main_idea": "Patriotic art gets the spotlight as NEA funding shifts. Cue 'The Ronald Reagan Overture'",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 10 Jul 2026 16:00:00 -0400",
-      "url": "https://www.npr.org/2026/07/10/nx-s1-5870578/ronald-reagan-250th-patriotic-art",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1450,21 +1473,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Good Tools Are Invisible",
-      "title_neutral": "Good Tools Are Invisible",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Good Tools Are Invisible",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 10 Jul 2026 10:32:41 +0000",
-      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
