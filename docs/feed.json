@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T09:06:20.285214+00:00",
+  "last_updated": "2026-07-11T10:40:25.344076+00:00",
   "items": [
     {
       "title_original": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
@@ -16,6 +16,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Otary – Image and Geometry Python Library Now Has Tutorials",
+      "title_neutral": "Otary – Image and Geometry Python Library Now Has Tutorials",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Otary – Image and Geometry Python Library Now Has Tutorials",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 08 Jul 2026 11:30:12 +0000",
+      "url": "https://alexandrepoupeau.com/otary/learn/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -46,21 +61,6 @@
       "source": "Hacker News",
       "published_at": "Tue, 07 Jul 2026 23:06:09 +0000",
       "url": "https://alephneuro.com/blog/silent-speech",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Documentation is still in your Mum's filing cabinet",
-      "title_neutral": "Documentation is still in your Mum's filing cabinet",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Documentation is still in your Mum's filing cabinet",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 07 Jul 2026 15:58:20 +0000",
-      "url": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -215,261 +215,308 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Combustion engine web-based simulator",
-      "title_neutral": "Combustion engine web-based simulator",
+      "title_original": "В Харькове и области с начала СВО разрушены 74 АЗС",
+      "title_neutral": "В Харькове и области с начала СВО разрушены 74 АЗС",
+      "excerpt": "В регионе только за первую неделю июля сгорело не менее 10 автозаправочных станций",
+      "recap_neutral": "В регионе только за первую неделю июля сгорело не менее 10 автозаправочных станций",
+      "main_idea": "В Харькове и области с начала СВО разрушены 74 АЗС",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 13:36:09 +0300",
+      "url": "https://tass.ru/proisshestviya/27908251",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Собянин осмотрел новый корпус Единого диспетчерского центра московского транспорта",
+      "title_neutral": "Собянин осмотрел новый корпус Единого диспетчерского центра московского транспорта",
+      "excerpt": "Мэр столицы также поздравил горожан с Днем московского транспорта",
+      "recap_neutral": "Мэр столицы также поздравил горожан с Днем московского транспорта",
+      "main_idea": "Собянин осмотрел новый корпус Единого диспетчерского центра московского транспорта",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 13:23:05 +0300",
+      "url": "https://tass.ru/obschestvo/27908239",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МО РФ: взятие под контроль Бачевска способствует расширению полосы безопасности",
+      "title_neutral": "МО РФ: взятие под контроль Бачевска способствует расширению полосы безопасности",
+      "excerpt": "Подразделения группировки \"Север\" ежедневно продвигаются вперед, вытесняя противника все дальше от государственной границы",
+      "recap_neutral": "Подразделения группировки \"Север\" ежедневно продвигаются вперед, вытесняя противника все дальше от государственной границы",
+      "main_idea": "МО РФ: взятие под контроль Бачевска способствует расширению полосы безопасности",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 13:22:58 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27908247",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Fars: Иран не вернется к переговорам с США, пока они не изменят свою позицию",
+      "title_neutral": "Fars: Иран не вернется к переговорам с США, пока они не изменят свою позицию",
+      "excerpt": "По информации агентства, возобновление переговоров в ближайшее время маловероятно",
+      "recap_neutral": "По информации агентства, возобновление переговоров в ближайшее время маловероятно",
+      "main_idea": "Fars: Иран не вернется к переговорам с США, пока они не изменят свою позицию",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 13:20:08 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27908243",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Депутат Рады Гончаренко: на Украине объявляют в розыск врачей-интернов",
+      "title_neutral": "Депутат Рады Гончаренко: на Украине объявляют в розыск врачей-интернов",
+      "excerpt": "Это делается, чтобы помешать продлению брони, сообщил депутат",
+      "recap_neutral": "Это делается, чтобы помешать продлению брони, сообщил депутат",
+      "main_idea": "Депутат Рады Гончаренко: на Украине объявляют в розыск врачей-интернов",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 13:18:53 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27908241",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Свердловской области финансирование соцгазификации выросло на 6,6 млрд рублей",
+      "title_neutral": "В Свердловской области финансирование соцгазификации выросло на 6,6 млрд рублей",
+      "excerpt": "По программе к газу подключили более 49,6 тыс. домовладений в регионе",
+      "recap_neutral": "По программе к газу подключили более 49,6 тыс",
+      "main_idea": "В Свердловской области финансирование соцгазификации выросло на 6,6 млрд рублей",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 13:14:44 +0300",
+      "url": "https://tass.ru/obschestvo/27908221",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Нигматуллин отметил высокий уровень игры вратарей на чемпионате мира",
+      "title_neutral": "Нигматуллин отметил высокий уровень игры вратарей на чемпионате мира",
+      "excerpt": "Бывший голкипер выделил несколько игроков из разных сборных",
+      "recap_neutral": "Бывший голкипер выделил несколько игроков из разных сборных",
+      "main_idea": "Нигматуллин отметил высокий уровень игры вратарей на чемпионате мира",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 13:14:29 +0300",
+      "url": "https://tass.ru/sport/27908235",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Онищенко: в России будет расти число случаев \"болезней-всадников\"",
+      "title_neutral": "Онищенко: в России будет расти число случаев \"болезней-всадников\"",
+      "excerpt": "Это связано с малоподвижным образом жизни, перегрузками для мозга и стрессом, заявил заместитель президента Российской академии образования",
+      "recap_neutral": "Это связано с малоподвижным образом жизни, перегрузками для мозга и стрессом, заявил заместитель президента Российской академии образования",
+      "main_idea": "Онищенко: в России будет расти число случаев \"болезней-всадников\"",
+      "tags": [
+        "politics",
+        "tech",
+        "health"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 13:14:06 +0300",
+      "url": "https://tass.ru/obschestvo/27908237",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ДНР при сбросе взрывчатки с дрона ВСУ пострадал мужчина",
+      "title_neutral": "В ДНР при сбросе взрывчатки с дрона ВСУ пострадал мужчина",
+      "excerpt": "Это произошло между городом Красногоровка и селом Желанное",
+      "recap_neutral": "Это произошло между городом Красногоровка и селом Желанное",
+      "main_idea": "В ДНР при сбросе взрывчатки с дрона ВСУ пострадал мужчина",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 13:13:41 +0300",
+      "url": "https://tass.ru/proisshestviya/27908233",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Житель Первомайска ранен из-за атаки ВСУ по парковке",
+      "title_neutral": "Житель Первомайска ранен из-за атаки ВСУ по парковке",
+      "excerpt": "Также повреждены два легковых автомобиля",
+      "recap_neutral": "Также повреждены два легковых автомобиля",
+      "main_idea": "Житель Первомайска ранен из-за атаки ВСУ по парковке",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 13:08:06 +0300",
+      "url": "https://tass.ru/proisshestviya/27908231",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Глава МО Польши посетил Волынскую область в день памяти жертв резни",
+      "title_neutral": "Глава МО Польши посетил Волынскую область в день памяти жертв резни",
+      "excerpt": "Владислав Косиняк-Камыш в своей речи, обращенной к украинцам, заявил, что дружба - это понимание этой трудной правды, это умение идти вместе вперед, несмотря на опыт прошлого",
+      "recap_neutral": "Владислав Косиняк-Камыш в своей речи, обращенной к украинцам, заявил, что дружба - это понимание этой трудной правды, это умение идти вместе вперед, несмотря на опыт прошлого",
+      "main_idea": "Глава МО Польши посетил Волынскую область в день памяти жертв резни",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 13:06:43 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27908229",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В МВД Франции сообщили о задержании более 30 человек за поджоги",
+      "title_neutral": "В МВД Франции сообщили о задержании более 30 человек за поджоги",
+      "excerpt": "Глава МВД республики Лоран Нуньес заявил, что они ставят под угрозу жизни французских пожарных",
+      "recap_neutral": "Глава МВД республики Лоран Нуньес заявил, что они ставят под угрозу жизни французских пожарных",
+      "main_idea": "В МВД Франции сообщили о задержании более 30 человек за поджоги",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 13:05:43 +0300",
+      "url": "https://tass.ru/proisshestviya/27908219",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Крыму из-за аварии на сетях ограничили водоснабжение",
+      "title_neutral": "В Крыму из-за аварии на сетях ограничили водоснабжение",
+      "excerpt": "В частности, работы по восстановлению водоснабжения проводят в Красногвардейском, Красноперекопском, Нижнегорском, Раздольненском районах",
+      "recap_neutral": "В частности, работы по восстановлению водоснабжения проводят в Красногвардейском, Красноперекопском, Нижнегорском, Раздольненском районах",
+      "main_idea": "В Крыму из-за аварии на сетях ограничили водоснабжение",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 13:04:15 +0300",
+      "url": "https://tass.ru/obschestvo/27908227",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На юге Вьетнама при крушении лодки с туристами погибли 15 человек",
+      "title_neutral": "На юге Вьетнама при крушении лодки с туристами погибли 15 человек",
+      "excerpt": "Еще 21 удалось спасти",
+      "recap_neutral": "Еще 21 удалось спасти",
+      "main_idea": "На юге Вьетнама при крушении лодки с туристами погибли 15 человек",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 13:00:47 +0300",
+      "url": "https://tass.ru/proisshestviya/27908225",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Выжить на Енисее: как выдра Кэди-Федор из Сибири оказалась в 9 км от дома и вернулась",
+      "title_neutral": "Выжить на Енисее: как выдра Кэди-Федор из Сибири оказалась в 9 км от дома и вернулась",
+      "excerpt": "В июле под Красноярском из центра дикой природы исчезла выдра Кэди-Федор. Неизвестные разбили окно, и ручной зверь оказался на воле. Кто-то из \"жалости\" выпустил кричащее животное, не зная, что лес для него — это гибель. Спустя двое суток беглеца нашли в 9 км от места исчезновения, где он доедал ов…",
+      "recap_neutral": "В июле под Красноярском из центра дикой природы исчезла выдра Кэди-Федор",
+      "main_idea": "Выжить на Енисее: как выдра Кэди-Федор из Сибири оказалась в 9 км от дома и вернулась",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 11 Jul 2026 13:00:00 +0300",
+      "url": "https://tass.ru/obschestvo/27907951",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Gravitational Pull",
+      "title_neutral": "Gravitational Pull",
+      "excerpt": "We think and dream and fuss and project entire worlds into existence. Meanwhile, the earth’s orbit continues and the sun goes on shining.",
+      "recap_neutral": "We think and dream and fuss and project entire worlds into existence",
+      "main_idea": "Gravitational Pull",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sat, 11 Jul 2026 10:06:19 +0000",
+      "url": "https://www.nytimes.com/2026/07/11/briefing/gravitational-pull.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A font that humans can read but AI cannot",
+      "title_neutral": "A font that humans can read but AI cannot",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Combustion engine web-based simulator",
-      "tags": [],
+      "main_idea": "A font that humans can read but AI cannot",
+      "tags": [
+        "tech"
+      ],
       "source": "Hacker News",
-      "published_at": "Sun, 05 Jul 2026 17:11:38 +0000",
-      "url": "https://combustionlab.net",
+      "published_at": "Sat, 11 Jul 2026 09:36:53 +0000",
+      "url": "https://www.mixfont.com/ghost-font",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Пушилин: в окрестностях Дружковки действуют российские штурмовики и разведчики",
-      "title_neutral": "Пушилин: в окрестностях Дружковки действуют российские штурмовики и разведчики",
-      "excerpt": "",
-      "recap_neutral": "Пушилин: в окрестностях Дружковки действуют российские штурмовики и разведчики",
-      "main_idea": "Пушилин: в окрестностях Дружковки действуют российские штурмовики и разведчики",
+      "title_original": "Almost $1B Later, the US Still Can't Make a Medical Glove",
+      "title_neutral": "Almost $1B Later, the US Still Can't Make a Medical Glove",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Almost $1B Later, the US Still Can't Make a Medical Glove",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 12:00:55 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27908125",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Sat, 11 Jul 2026 09:16:10 +0000",
+      "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Командир Бизон: ВСУ делают вид, что контролируют Константиновку",
-      "title_neutral": "Командир Бизон: ВСУ делают вид, что контролируют Константиновку",
-      "excerpt": "Российский военный рассказал, что командование Вооруженных сил Украины бросило разрозненные группы личного состава в городе",
-      "recap_neutral": "Российский военный рассказал, что командование Вооруженных сил Украины бросило разрозненные группы личного состава в городе",
-      "main_idea": "Командир Бизон: ВСУ делают вид, что контролируют Константиновку",
+      "title_original": "England and Norway, Old Friends, Resurrect a Rivalry for the World Cup",
+      "title_neutral": "England and Norway, Old Friends, Resurrect a Rivalry for the World Cup",
+      "excerpt": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side.",
+      "recap_neutral": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway",
+      "main_idea": "England and Norway, Old Friends, Resurrect a Rivalry for the World Cup",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 11:59:09 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27908121",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Участников митинга в здании мэрии Москвы привлекли к ответственности",
-      "title_neutral": "Участников митинга в здании мэрии Москвы привлекли к ответственности",
-      "excerpt": "Они получили административные штрафы и аресты",
-      "recap_neutral": "Они получили административные штрафы и аресты",
-      "main_idea": "Участников митинга в здании мэрии Москвы привлекли к ответственности",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 11:58:17 +0300",
-      "url": "https://tass.ru/proisshestviya/27908111",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Омске ищут водителя электросамоката, сбившего девочку",
-      "title_neutral": "В Омске ищут водителя электросамоката, сбившего девочку",
-      "excerpt": "Она шла по пешеходному переходу на зеленый сигнал светофора",
-      "recap_neutral": "Она шла по пешеходному переходу на зеленый сигнал светофора",
-      "main_idea": "В Омске ищут водителя электросамоката, сбившего девочку",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 11:56:31 +0300",
-      "url": "https://tass.ru/proisshestviya/27908119",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Ачинске похоронили девочку, убитую матерью",
-      "title_neutral": "В Ачинске похоронили девочку, убитую матерью",
-      "excerpt": "По словам местной жительницы, пришло много людей с цветами и игрушками",
-      "recap_neutral": "По словам местной жительницы, пришло много людей с цветами и игрушками",
-      "main_idea": "В Ачинске похоронили девочку, убитую матерью",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 11:55:13 +0300",
-      "url": "https://tass.ru/proisshestviya/27908113",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Командир Бизон: ВС РФ контролируют все передвижения ВСУ в Константиновке",
-      "title_neutral": "Командир Бизон: ВС РФ контролируют все передвижения ВСУ в Константиновке",
-      "excerpt": "Как только наблюдается передвижение, его сразу начинают отрабатывать, заявил командир 3-го мотострелкового батальона 4-й отдельной мотострелковой бригады Южной группировки войск",
-      "recap_neutral": "Как только наблюдается передвижение, его сразу начинают отрабатывать, заявил командир 3-го мотострелкового батальона 4-й отдельной мотострелковой бригады Южной группировки войск",
-      "main_idea": "Командир Бизон: ВС РФ контролируют все передвижения ВСУ в Константиновке",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 11:54:54 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27908117",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мишустин поздравил Эдгарда Запашного с 50-летием",
-      "title_neutral": "Мишустин поздравил Эдгарда Запашного с 50-летием",
-      "excerpt": "Премьер-министр отметил вклад народного артиста России в развитие отечественного циркового искусства",
-      "recap_neutral": "Премьер-министр отметил вклад народного артиста России в развитие отечественного циркового искусства",
-      "main_idea": "Мишустин поздравил Эдгарда Запашного с 50-летием",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 11:51:55 +0300",
-      "url": "https://tass.ru/obschestvo/27908109",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лидера турок-киприотов выписали из больницы",
-      "title_neutral": "Лидера турок-киприотов выписали из больницы",
-      "excerpt": "Туфан Эрхюрман будет некоторое время находиться на отдыхе в соответствии с рекомендациями медиков",
-      "recap_neutral": "Туфан Эрхюрман будет некоторое время находиться на отдыхе в соответствии с рекомендациями медиков",
-      "main_idea": "Лидера турок-киприотов выписали из больницы",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 11:48:42 +0300",
-      "url": "https://tass.ru/obschestvo/27908103",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Британии отпустили подозреваемого в убийстве экс-депутата Энн Уиддикомб",
-      "title_neutral": "В Британии отпустили подозреваемого в убийстве экс-депутата Энн Уиддикомб",
-      "excerpt": "Он более не является фигурантом расследования",
-      "recap_neutral": "Он более не является фигурантом расследования",
-      "main_idea": "В Британии отпустили подозреваемого в убийстве экс-депутата Энн Уиддикомб",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 11:47:47 +0300",
-      "url": "https://tass.ru/proisshestviya/27908105",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Ростовской области потушили пожары после атак ВСУ",
-      "title_neutral": "В Ростовской области потушили пожары после атак ВСУ",
-      "excerpt": "Эвакуированные жители Таганрога и Азова могут вернуться домой",
-      "recap_neutral": "Эвакуированные жители Таганрога и Азова могут вернуться домой",
-      "main_idea": "В Ростовской области потушили пожары после атак ВСУ",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 11:45:59 +0300",
-      "url": "https://tass.ru/obschestvo/27908101",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Ереване проходит акция протеста из-за запрета на работу спорткомплекса Царукяна",
-      "title_neutral": "В Ереване проходит акция протеста из-за запрета на работу спорткомплекса Царукяна",
-      "excerpt": "Генеральный директор спорткомплекса Арман Пироян заявил, что сотрудники остались без работы",
-      "recap_neutral": "Генеральный директор спорткомплекса Арман Пироян заявил, что сотрудники остались без работы",
-      "main_idea": "В Ереване проходит акция протеста из-за запрета на работу спорткомплекса Царукяна",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 11:41:51 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27908097",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Эксперт Востриков: Россия уже прошла пик сезона минимальных цен на клубнику",
-      "title_neutral": "Эксперт Востриков: Россия уже прошла пик сезона минимальных цен на клубнику",
-      "excerpt": "Исполнительный директор ассоциации \"Руспродсоюз\" сообщил, что средние оптовые цены на эту ягоду в РФ к 1 июля снизились на 30,5% по сравнению с 2025 годом из-за высокого урожая",
-      "recap_neutral": "Исполнительный директор ассоциации \"Руспродсоюз\" сообщил, что средние оптовые цены на эту ягоду в РФ к 1 июля снизились на 30,5% по сравнению с 2025 годом из-за высокого урожая",
-      "main_idea": "Эксперт Востриков: Россия уже прошла пик сезона минимальных цен на клубнику",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 11:40:03 +0300",
-      "url": "https://tass.ru/ekonomika/27907595",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Дмитрий Васильев считает, что федерации должны брать пример с World Gymnastics",
-      "title_neutral": "Дмитрий Васильев считает, что федерации должны брать пример с World Gymnastics",
-      "excerpt": "World Gymnastics поприветствовала решение МОК снять ограничения с российских спортсменов",
-      "recap_neutral": "World Gymnastics поприветствовала решение МОК снять ограничения с российских спортсменов",
-      "main_idea": "Дмитрий Васильев считает, что федерации должны брать пример с World Gymnastics",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 11:37:34 +0300",
-      "url": "https://tass.ru/sport/27908093",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Сочи объявили угрозу атаки БПЛА",
-      "title_neutral": "В Сочи объявили угрозу атаки БПЛА",
-      "excerpt": "Эту информацию сообщил глава города Андрей Прошунин",
-      "recap_neutral": "Эту информацию сообщил глава города Андрей Прошунин",
-      "main_idea": "В Сочи объявили угрозу атаки БПЛА",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 11:37:28 +0300",
-      "url": "https://tass.ru/proisshestviya/27908091",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Росстандарт утвердил новые ГОСТы на йогурты для детей",
-      "title_neutral": "Росстандарт утвердил новые ГОСТы на йогурты для детей",
-      "excerpt": "Утверждены также новые редакции стандартов на сливочное масло и мягкие сыры",
-      "recap_neutral": "Утверждены также новые редакции стандартов на сливочное масло и мягкие сыры",
-      "main_idea": "Росстандарт утвердил новые ГОСТы на йогурты для детей",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 11 Jul 2026 11:35:47 +0300",
-      "url": "https://tass.ru/ekonomika/27908089",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sat, 11 Jul 2026 09:02:19 +0000",
+      "url": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -490,6 +537,42 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+      "title_neutral": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+      "excerpt": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy.",
+      "recap_neutral": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy",
+      "main_idea": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+      "tags": [
+        "economy",
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 11 Jul 2026 09:00:17 +0000",
+      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Man Arrested in Killing of U.K. Ex-Lawmaker Is Released",
+      "title_neutral": "Man Arrested in Killing of U.K. Ex-Lawmaker Is Released",
+      "excerpt": "The police said the 26-year-old was no longer part of the investigation into the death of Ann Widdecombe and urged anyone with information about the crime to come forward.",
+      "recap_neutral": "The police said the 26-year-old was no longer part of the investigation into the death of Ann Widdecombe and urged anyone with information about the crime to come forward",
+      "main_idea": "Man Arrested in Killing of U.K. Ex-Lawmaker Is Released",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 11 Jul 2026 08:36:56 +0000",
+      "url": "https://www.nytimes.com/2026/07/11/world/europe/uk-ann-widdecombe-suspect-released.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "New dinosaur species as long as cricket pitch discovered in Thailand",
       "title_neutral": "New dinosaur species as long as cricket pitch discovered in Thailand",
       "excerpt": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
@@ -504,6 +587,24 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+      "title_neutral": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+      "excerpt": "The American works for a humanitarian organization in Congo, the Centers for Disease Control and Prevention said.",
+      "recap_neutral": "The American works for a humanitarian organization in Congo, the Centers for Disease Control and Prevention said",
+      "main_idea": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 11 Jul 2026 06:25:20 +0000",
+      "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -522,6 +623,24 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
+      "title_neutral": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
+      "excerpt": "Minnesota Gov. Tim Walz is pulling his National Guard early from Washington, D.C. as the chorus against Democratic governors sending troops to the city amid President Trump's ongoing deployment grows louder.",
+      "recap_neutral": "Minnesota Gov",
+      "main_idea": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 11 Jul 2026 06:00:00 -0400",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "The vintage beauty of Soviet control rooms (2018)",
       "title_neutral": "The vintage beauty of Soviet control rooms (2018)",
       "excerpt": "Comments",
@@ -534,6 +653,38 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "With the white nationalist group Patriot Front, what you see is not what you get",
+      "title_neutral": "With the white nationalist group Patriot Front, what you see is not what you get",
+      "excerpt": "Hundreds of masked white nationalists marched in the nation's capital on July Fourth. Who were they and where does their funding come from?",
+      "recap_neutral": "Hundreds of masked white nationalists marched in the nation's capital on July Fourth",
+      "main_idea": "With the white nationalist group Patriot Front, what you see is not what you get",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sat, 11 Jul 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5888571/patriot-front-washington-dc",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove",
+      "title_neutral": "Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove",
+      "excerpt": "VR dance lesson apps like Dance Guru and Trip the Light offer a judgment-free way to learn partner dancing.",
+      "recap_neutral": "VR dance lesson apps like Dance Guru and Trip the Light offer a judgment-free way to learn partner dancing",
+      "main_idea": "Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 11 Jul 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5882228/dance-virtual-reality-vr-app-augmented-world-expo-weddings",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -602,6 +753,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Is Supergirl Worth Watching? Here's What The Reviews Say",
+      "title_neutral": "Is Supergirl Worth Watching? Here's What The Reviews Say",
+      "excerpt": "Supergirl isn't doing too hot, but let's dig deeper: What exactly are the critics saying?",
+      "recap_neutral": "Supergirl isn't doing too hot, but let's dig deeper: What exactly are the critics saying?",
+      "main_idea": "Is Supergirl Worth Watching? Here's What The Reviews Say",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sat, 11 Jul 2026 02:41:06 GMT",
+      "url": "https://hackernoon.com/is-supergirl-worth-watching-heres-what-the-reviews-say?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
       "title_neutral": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
       "excerpt": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open.",
@@ -616,6 +782,21 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "118 Blog Posts To Learn About Aws Services",
+      "title_neutral": "118 Blog Posts To Learn About Aws Services",
+      "excerpt": "Learn everything you need to know about Aws Services via these 118 free HackerNoon blog posts.",
+      "recap_neutral": "Learn everything you need to know about Aws Services via these 118 free HackerNoon blog posts",
+      "main_idea": "118 Blog Posts To Learn About Aws Services",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sat, 11 Jul 2026 02:00:57 GMT",
+      "url": "https://hackernoon.com/118-blog-posts-to-learn-about-aws-services?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -695,21 +876,6 @@
       "source": "BBC World",
       "published_at": "Sat, 11 Jul 2026 00:17:15 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c4gy12gqzpvo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
-      "title_neutral": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
-      "excerpt": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future.",
-      "recap_neutral": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future",
-      "main_idea": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 11 Jul 2026 00:00:42 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -832,23 +998,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Man Arrested on Suspicion of Murdering Ann Widdecombe, Former U.K. Politician",
-      "title_neutral": "Man Arrested on Suspicion of Murdering Ann Widdecombe, Former U.K. Politician",
-      "excerpt": "The police said they had arrested a 26-year-old British man after Ann Widdecombe, a 78-year-old former lawmaker, was found dead with serious injuries on Thursday.",
-      "recap_neutral": "The police said they had arrested a 26-year-old British man after Ann Widdecombe, a 78-year-old former lawmaker, was found dead with serious injuries on Thursday",
-      "main_idea": "Man Arrested on Suspicion of Murdering Ann Widdecombe, Former U.K. Politician",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 10 Jul 2026 21:23:19 +0000",
-      "url": "https://www.nytimes.com/2026/07/10/world/europe/murder-investigation-uk-ann-widdecombe.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "87% of Companies Were Hit by an AI Cyber Attack. The Fix Is a Skills Problem, Not a Headcount One",
       "title_neutral": "87% of Companies Were Hit by an AI Cyber Attack. The Fix Is a Skills Problem, Not a Headcount One",
       "excerpt": "AI-driven attacks hit 87% of organizations last year. Why the cybersecurity bottleneck is now skills, not headcount and how AI security became its own discipl",
@@ -914,6 +1063,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "New species named after Cape Verde goalkeeper Vozinha",
+      "title_neutral": "New species named after Cape Verde goalkeeper Vozinha",
+      "excerpt": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
+      "recap_neutral": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup",
+      "main_idea": "New species named after Cape Verde goalkeeper Vozinha",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 10 Jul 2026 19:30:06 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Pace Layers: What Urban Planning Knows About Your Software Boundaries",
       "title_neutral": "Pace Layers: What Urban Planning Knows About Your Software Boundaries",
       "excerpt": "How pace layers, an idea from urban planning, apply to software architecture boundaries: sort by rate of change and point dependencies at the slow layer.",
@@ -932,23 +1098,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Can Hungarian Holocaust Survivors Find Justice in the U.S.?",
-      "title_neutral": "Can Hungarian Holocaust Survivors Find Justice in the U.S.?",
-      "excerpt": "For more than a decade, a group of survivors have fought a legal battle to get American courts to hear their suit against Hungary’s national railroad over its role in the atrocities.",
-      "recap_neutral": "For more than a decade, a group of survivors have fought a legal battle to get American courts to hear their suit against Hungary’s national railroad over its role in the atrocities",
-      "main_idea": "Can Hungarian Holocaust Survivors Find Justice in the U.S.?",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 10 Jul 2026 18:59:19 +0000",
-      "url": "https://www.nytimes.com/2026/07/10/world/europe/hungarian-holocaust-us-lawsuit.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "At Least 12 People Die in Southern Spain Wildfire",
       "title_neutral": "At Least 12 People Die in Southern Spain Wildfire",
       "excerpt": "The blaze in Andalusia, one of the deadliest on record in the country, also left more than 20 people missing. Many of the victims were foreign tourists, the Spanish authorities said.",
@@ -960,36 +1109,6 @@
       "source": "NYTimes World",
       "published_at": "Fri, 10 Jul 2026 18:45:03 +0000",
       "url": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "title_neutral": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 10 Jul 2026 18:29:19 +0000",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Sexual Assault and Killing of Girl Set Off Days of Protest in West Bengal",
-      "title_neutral": "Sexual Assault and Killing of Girl Set Off Days of Protest in West Bengal",
-      "excerpt": "After promising to improve safety for women in the Indian state, the party of Prime Minister Narendra Modi is facing public anger after the death of an 11-year-old girl.",
-      "recap_neutral": "After promising to improve safety for women in the Indian state, the party of Prime Minister Narendra Modi is facing public anger after the death of an 11-year-old girl",
-      "main_idea": "Sexual Assault and Killing of Girl Set Off Days of Protest in West Bengal",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Fri, 10 Jul 2026 17:56:37 +0000",
-      "url": "https://www.nytimes.com/2026/07/10/world/asia/girl-riots-west-bengal-baruipur.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -1310,24 +1429,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Greece Arrests 3 in Connection With Bombings Targeting Governing Party",
-      "title_neutral": "Greece Arrests 3 in Connection With Bombings Targeting Governing Party",
-      "excerpt": "The attacks killed one person and injured others. The Greek authorities said an investigation would continue.",
-      "recap_neutral": "The attacks killed one person and injured others",
-      "main_idea": "Greece Arrests 3 in Connection With Bombings Targeting Governing Party",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 10 Jul 2026 11:26:02 +0000",
-      "url": "https://www.nytimes.com/2026/07/10/world/europe/greece-bombing-arrests.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Largest housing affordability bill in decades becomes law without Trump's signature",
       "title_neutral": "Largest housing affordability bill in decades becomes law without Trump's signature",
       "excerpt": "President Trump refused to sign the bill without Congress first passing his sweeping voter ID bill.",
@@ -1410,57 +1511,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
-      "title_neutral": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
-      "excerpt": "Fighting between the U.S. and Iran appears to have paused after two days of clashing amid a shaky ceasefire. And, a look at what life is like inside Israel's expanding zone of control in Gaza.",
-      "recap_neutral": "Fighting between the U",
-      "main_idea": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Fri, 10 Jul 2026 07:43:38 -0400",
-      "url": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "China Launches Reusable Rocket, Clearing a Key Hurdle in Race With SpaceX",
-      "title_neutral": "China Launches Reusable Rocket, Clearing a Key Hurdle in Race With SpaceX",
-      "excerpt": "The launch and recovery of the Long March 10B could represent a long-awaited breakthrough for Chinese satellite companies.",
-      "recap_neutral": "The launch and recovery of the Long March 10B could represent a long-awaited breakthrough for Chinese satellite companies",
-      "main_idea": "China Launches Reusable Rocket, Clearing a Key Hurdle in Race With SpaceX",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 10 Jul 2026 07:39:12 +0000",
-      "url": "https://www.nytimes.com/2026/07/10/world/asia/china-space-reusable-rocket-launch-spacex.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Taliban declares war on smartphones",
-      "title_neutral": "Taliban declares war on smartphones",
-      "excerpt": "A newly announced ban on smartphones for government workers, police and military personnel is spilling over into healthcare and educational facilities. Ordinary citizens worry they'll be next.",
-      "recap_neutral": "A newly announced ban on smartphones for government workers, police and military personnel is spilling over into healthcare and educational facilities",
-      "main_idea": "Taliban declares war on smartphones",
-      "tags": [
-        "politics",
-        "conflict",
-        "health"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 10 Jul 2026 07:12:39 -0400",
-      "url": "https://www.npr.org/2026/07/10/g-s1-132396/smartphones-taliban-afghanistan-ban",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Developing countries spend more repaying foreign debt than on education, UN reveals",
       "title_neutral": "Developing countries spend more repaying foreign debt than on education, UN reveals",
       "excerpt": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same time as global aid to education is predicted to decline by up…",
@@ -1530,23 +1580,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Waymo called the cops on teen riders, raising privacy concerns",
-      "title_neutral": "Waymo called the cops on teen riders, raising privacy concerns",
-      "excerpt": "Two 15-year-olds were allegedly drinking alcohol and shooting toy guns from a driverless taxi when the company disabled it and alerted police.",
-      "recap_neutral": "Two 15-year-olds were allegedly drinking alcohol and shooting toy guns from a driverless taxi when the company disabled it and alerted police",
-      "main_idea": "Waymo called the cops on teen riders, raising privacy concerns",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 10 Jul 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/07/10/nx-s1-5886113/waymo-police-privacy-driverless-autonomous-vehicles",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Meet Neil, Australia’s Celebrity Seal",
       "title_neutral": "Meet Neil, Australia’s Celebrity Seal",
       "excerpt": "The young elephant seal has gained fans around the world. But the authorities warn he could be in danger of being loved to death.",
@@ -1593,40 +1626,6 @@
       "source": "HackerNoon",
       "published_at": "Fri, 10 Jul 2026 03:37:38 GMT",
       "url": "https://hackernoon.com/i-built-a-framework-to-keep-coding-agents-disciplined?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "DeepSeek’s Inference Chips Push AI Power Into the Deployment Stack",
-      "title_neutral": "DeepSeek’s Inference Chips Push AI Power Into the Deployment Stack",
-      "excerpt": "DeepSeek has been exploring in-house AI accelerators focused on inference workloads.",
-      "recap_neutral": "DeepSeek has been exploring in-house AI accelerators focused on inference workloads",
-      "main_idea": "DeepSeek’s Inference Chips Push AI Power Into the Deployment Stack",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 10 Jul 2026 03:34:21 GMT",
-      "url": "https://hackernoon.com/deepseeks-inference-chips-push-ai-power-into-the-deployment-stack?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Hidden Cost of Overriding Your Trading Plan",
-      "title_neutral": "The Hidden Cost of Overriding Your Trading Plan",
-      "excerpt": "Trading rules often fail because traders override them under pressure. Learn why systematic execution can close the gap between planning and action.",
-      "recap_neutral": "Trading rules often fail because traders override them under pressure",
-      "main_idea": "The Hidden Cost of Overriding Your Trading Plan",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 10 Jul 2026 03:27:58 GMT",
-      "url": "https://hackernoon.com/the-hidden-cost-of-overriding-your-trading-plan?source=rss",
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
