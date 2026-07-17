@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T09:05:42.726827+00:00",
+  "last_updated": "2026-07-17T11:04:07.392356+00:00",
   "items": [
     {
       "title_original": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
@@ -38,23 +38,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "China’s economy grows at 4.3%, one of its lowest rates on record",
-      "title_neutral": "China’s economy grows at 4.3%, one of its lowest rates on record",
-      "excerpt": "Worse-than-expected figures for three months to June come amid concerns over lopsided economy Business live – latest updates China has posted worse-than-expected growth figures for the three months to June as its economy expanded by just 4.3% – one of its lowest quarterly readings on record. The ra…",
-      "recap_neutral": "Worse-than-expected figures for three months to June come amid concerns over lopsided economy Business live – latest updates China has posted worse-than-expected growth figures for the three months to June as its econom…",
-      "main_idea": "China’s economy grows at 4.3%, one of its lowest rates on record",
-      "tags": [
-        "economy"
-      ],
-      "source": "The Guardian",
-      "published_at": "Wed, 15 Jul 2026 10:48:27 GMT",
-      "url": "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "New US Ebola patient arrives in Germany for treatment",
       "title_neutral": "New US Ebola patient arrives in Germany for treatment",
       "excerpt": "Aid worker flown to Berlin as Trump administration bars Americans from traveling to US on commercial flights A US national who contracted Ebola in the Democratic Republic of the Congo has arrived in Germany for treatment, the health ministry in Berlin said on Monday, weeks after another American in…",
@@ -70,6 +53,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "SQLite Is All You Need",
+      "title_neutral": "SQLite Is All You Need",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "SQLite Is All You Need",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 14 Jul 2026 12:07:06 +0000",
+      "url": "https://www.dbpro.app/blog/sqlite-is-all-you-need",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -105,55 +103,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Your Plugin Call Doesn't Need an Isolate",
-      "title_neutral": "Your Plugin Call Doesn't Need an Isolate",
-      "excerpt": "I answered a Flutter isolate question in 2024. Two years later I benchmarked it: the plugin call cost 1.8 ms, the Dart pipeline froze the UI for 5 seconds.",
-      "recap_neutral": "I answered a Flutter isolate question in 2024",
-      "main_idea": "Your Plugin Call Doesn't Need an Isolate",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 16 Jul 2026 22:00:10 GMT",
-      "url": "https://hackernoon.com/your-plugin-call-doesnt-need-an-isolate?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "An analysis of President Trump's address",
-      "title_neutral": "An analysis of President Trump's address",
-      "excerpt": "President Trump gave a primetime address Thursday night in which he spoke about the integrity of U.S. elections — a topic he has spread disinformation about for much of his political career.",
-      "recap_neutral": "President Trump gave a primetime address Thursday night in which he spoke about the integrity of U",
-      "main_idea": "An analysis of President Trump's address",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 16 Jul 2026 21:38:04 -0400",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5896487/an-analysis-of-president-trumps-address",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The AI That Can Re-Write Its Own Brain: Why Inkling is the New Frontier for Open Weights",
-      "title_neutral": "The AI That Can Re-Write Its Own Brain: Why Inkling is the New Frontier for Open Weights",
-      "excerpt": "The release of Inkling marks the end of the \"static model\" era. It is a foundation meant for \"Tinkering,\"",
-      "recap_neutral": "The release of Inkling marks the end of the \"static model\" era",
-      "main_idea": "The AI That Can Re-Write Its Own Brain: Why Inkling is the New Frontier for Open Weights",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 16 Jul 2026 20:49:33 GMT",
-      "url": "https://hackernoon.com/the-ai-that-can-re-write-its-own-brain-why-inkling-is-the-new-frontier-for-open-weights?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Pele's 1958 World Cup final shirt sells for $4.9m",
       "title_neutral": "Pele's 1958 World Cup final shirt sells for $4.9m",
       "excerpt": "A shirt worn by Pele during the 1958 World Cup final has sold for $4.9m (£3.6m) at a Sotheby's auction in New York.",
@@ -166,21 +115,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A Beginner's Guide to the Seedream-5-pro Model by Bytedance: What You Need to Know",
-      "title_neutral": "A Beginner's Guide to the Seedream-5-pro Model by Bytedance: What You Need to Know",
-      "excerpt": "seedream-5-pro is ByteDance's flagship text-to-image and image-to-image generation model capable of producing sharp images at 1K and 2K resolutions.",
-      "recap_neutral": "seedream-5-pro is ByteDance's flagship text-to-image and image-to-image generation model capable of producing sharp images at 1K and 2K resolutions",
-      "main_idea": "A Beginner's Guide to the Seedream-5-pro Model by Bytedance: What You Need to Know",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 16 Jul 2026 20:23:04 GMT",
-      "url": "https://hackernoon.com/a-beginners-guide-to-the-seedream-5-pro-model-by-bytedance-what-you-need-to-know?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -201,23 +135,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Orphanage Fire Kills Eleven in Algeria",
-      "title_neutral": "Orphanage Fire Kills Eleven in Algeria",
-      "excerpt": "The fire on Thursday morning at an orphanage near the nation’s capital killed 11 people, including children, and injured a dozen, the authorities said.",
-      "recap_neutral": "The fire on Thursday morning at an orphanage near the nation’s capital killed 11 people, including children, and injured a dozen, the authorities said",
-      "main_idea": "Orphanage Fire Kills Eleven in Algeria",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 16 Jul 2026 20:03:38 +0000",
-      "url": "https://www.nytimes.com/2026/07/16/world/africa/algeria-orphanage-fire.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
       "title_neutral": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
       "excerpt": "Comments",
@@ -232,39 +149,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "232 Blog Posts To Learn About Cicd",
-      "title_neutral": "232 Blog Posts To Learn About Cicd",
-      "excerpt": "Learn everything you need to know about Cicd via these 232 free HackerNoon blog posts.",
-      "recap_neutral": "Learn everything you need to know about Cicd via these 232 free HackerNoon blog posts",
-      "main_idea": "232 Blog Posts To Learn About Cicd",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 16 Jul 2026 20:00:12 GMT",
-      "url": "https://hackernoon.com/232-blog-posts-to-learn-about-cicd?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "What to Know About Mykhailo Fedorov, Ukraine’s Ousted Defense Minister",
-      "title_neutral": "What to Know About Mykhailo Fedorov, Ukraine’s Ousted Defense Minister",
-      "excerpt": "Mr. Fedorov became the youthful face of Ukraine’s successful drone warfare program. The move to replace him has prompted street protests.",
-      "recap_neutral": "Mr",
-      "main_idea": "What to Know About Mykhailo Fedorov, Ukraine’s Ousted Defense Minister",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 16 Jul 2026 19:54:22 +0000",
-      "url": "https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -283,72 +167,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "White House says ICE traffic stops will continue after deadly shootings",
-      "title_neutral": "White House says ICE traffic stops will continue after deadly shootings",
-      "excerpt": "The comments came following widespread reports earlier in the week that those stops would be put on pause after two immigrants were fatally shot by ICE agents in early July.",
-      "recap_neutral": "The comments came following widespread reports earlier in the week that those stops would be put on pause after two immigrants were fatally shot by ICE agents in early July",
-      "main_idea": "White House says ICE traffic stops will continue after deadly shootings",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Thu, 16 Jul 2026 17:31:23 -0400",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5896396/ice-traffic-stops-shootings",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Flood sirens blare in South Central Texas as rivers reach perilous heights",
-      "title_neutral": "Flood sirens blare in South Central Texas as rivers reach perilous heights",
-      "excerpt": "Flood sirens blared early Thursday in Comfort, Texas, as the Guadalupe River rose more than 30 feet in three hours, the U.S. Geological Survey said. The storm could bring even more rainfall than last year's deadly Fourth of July floods.",
-      "recap_neutral": "Flood sirens blared early Thursday in Comfort, Texas, as the Guadalupe River rose more than 30 feet in three hours, the U",
-      "main_idea": "Flood sirens blare in South Central Texas as rivers reach perilous heights",
-      "tags": [
-        "tech",
-        "climate"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 16 Jul 2026 17:30:03 -0400",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5896458/flood-sirens-texas-rivers-reach-dangerous-heights",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Highway Executive Given 12-Year Sentence Over Deadly Bridge Collapse in Italy",
-      "title_neutral": "Highway Executive Given 12-Year Sentence Over Deadly Bridge Collapse in Italy",
-      "excerpt": "Giovanni Castellucci oversaw a company that managed the Morandi Bridge in Genoa when it fell down in 2018, killing 43 people.",
-      "recap_neutral": "Giovanni Castellucci oversaw a company that managed the Morandi Bridge in Genoa when it fell down in 2018, killing 43 people",
-      "main_idea": "Highway Executive Given 12-Year Sentence Over Deadly Bridge Collapse in Italy",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Thu, 16 Jul 2026 17:15:21 +0000",
-      "url": "https://www.nytimes.com/2026/07/16/world/europe/italy-bridge-verdict-morandi-collapse.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "In primetime speech, Trump doesn't provide evidence for illegal voting",
-      "title_neutral": "In primetime speech, Trump doesn't provide evidence for illegal voting",
-      "excerpt": "President Trump raised claims that the country's voting systems are vulnerable to being \"rigged and stolen,\" without providing new evidence of a single fraudulent vote cast in any election.",
-      "recap_neutral": "President Trump raised claims that the country's voting systems are vulnerable to being \"rigged and stolen,\" without providing new evidence of a single fraudulent vote cast in any election",
-      "main_idea": "In primetime speech, Trump doesn't provide evidence for illegal voting",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 16 Jul 2026 16:50:26 -0400",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
       "title_neutral": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
       "excerpt": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
@@ -363,23 +181,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Dangerous wildfire smoke continues to blanket parts of the U.S.",
-      "title_neutral": "Dangerous wildfire smoke continues to blanket parts of the U.S.",
-      "excerpt": "Orange skies and heavy smoke covered large parts of the U.S. on Thursday as Canada and Minnesota grapple with wildfires. Hazardous air quality is expected to continue.",
-      "recap_neutral": "Orange skies and heavy smoke covered large parts of the U",
-      "main_idea": "Dangerous wildfire smoke continues to blanket parts of the U.S.",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 16 Jul 2026 16:32:27 -0400",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5894857/wildfire-smoke-fires-ontario-minnesota",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -446,21 +247,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The HackerNoon Newsletter: The Power of Primes and How to Harness It (7/16/2026)",
-      "title_neutral": "The HackerNoon Newsletter: The Power of Primes and How to Harness It (7/16/2026)",
-      "excerpt": "7/16/2026: Top 5 stories on the HackerNoon homepage!",
-      "recap_neutral": "7/16/2026: Top 5 stories on the HackerNoon homepage!",
-      "main_idea": "The HackerNoon Newsletter: The Power of Primes and How to Harness It (7/16/2026)",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 16 Jul 2026 16:04:37 GMT",
-      "url": "https://hackernoon.com/7-16-2026-newsletter?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
       "title_neutral": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
       "excerpt": "Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’ Labour’s foreign aid cuts mean reductions of as much as 90% in the bilateral support the UK will give to some African countries, Foreign Office figures show. The department’s ann…",
@@ -475,21 +261,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Something Important to Always Remember: You Are Not the Player",
-      "title_neutral": "Something Important to Always Remember: You Are Not the Player",
-      "excerpt": "The discipline of designing for people who don't share your taste...",
-      "recap_neutral": "The discipline of designing for people who don't share your taste",
-      "main_idea": "Something Important to Always Remember: You Are Not the Player",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 16 Jul 2026 15:00:03 GMT",
-      "url": "https://hackernoon.com/something-important-to-always-remember-you-are-not-the-player?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -508,68 +279,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The TechBeat: AI Coding Tip 026 - Assign a Persona to Every Skill Definition (7/16/2026)",
-      "title_neutral": "The TechBeat: AI Coding Tip 026 - Assign a Persona to Every Skill Definition (7/16/2026)",
-      "excerpt": "7/16/2026: Trending stories on Hackernoon today!",
-      "recap_neutral": "7/16/2026: Trending stories on Hackernoon today!",
-      "main_idea": "The TechBeat: AI Coding Tip 026 - Assign a Persona to Every Skill Definition (7/16/2026)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 16 Jul 2026 14:01:16 GMT",
-      "url": "https://hackernoon.com/7-16-2026-techbeat?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Power of Primes and How to Harness It",
-      "title_neutral": "The Power of Primes and How to Harness It",
-      "excerpt": "The Power of Prime Numbers in animation and automation.",
-      "recap_neutral": "The Power of Prime Numbers in animation and automation",
-      "main_idea": "The Power of Primes and How to Harness It",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 16 Jul 2026 14:00:56 GMT",
-      "url": "https://hackernoon.com/the-power-of-primes-and-how-to-harness-it?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "164 Blog Posts To Learn About Career Development",
-      "title_neutral": "164 Blog Posts To Learn About Career Development",
-      "excerpt": "Learn everything you need to know about Career Development via these 164 free HackerNoon blog posts.",
-      "recap_neutral": "Learn everything you need to know about Career Development via these 164 free HackerNoon blog posts",
-      "main_idea": "164 Blog Posts To Learn About Career Development",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 16 Jul 2026 14:00:49 GMT",
-      "url": "https://hackernoon.com/164-blog-posts-to-learn-about-career-development?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Why Orthodox Jews are opposing the new daylight saving bill in Congress",
-      "title_neutral": "Why Orthodox Jews are opposing the new daylight saving bill in Congress",
-      "excerpt": "Orthodox Jewish organizations say the bill, if passed, would force morning prayer services to start after 9 a.m. in some parts of the country, making observant Jews late for work and school.",
-      "recap_neutral": "Orthodox Jewish organizations say the bill, if passed, would force morning prayer services to start after 9 a",
-      "main_idea": "Why Orthodox Jews are opposing the new daylight saving bill in Congress",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Thu, 16 Jul 2026 13:24:31 -0400",
-      "url": "https://www.npr.org/2026/07/16/g-s1-133961/why-orthodox-jews-are-opposing-the-new-daylight-saving-bill-in-congress",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "In Iran war, Trump Risks Another American ‘Forever War’",
       "title_neutral": "In Iran war, Trump Risks Another American ‘Forever War’",
       "excerpt": "President Trump, who promised to “end wars,” not start them, may have fallen into a familiar presidential trap.",
@@ -582,57 +291,6 @@
       "source": "NYTimes World",
       "published_at": "Thu, 16 Jul 2026 13:20:24 +0000",
       "url": "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Aina Raises $5.5M Led by Redstart Labs and 360 ONE to Build the Interface for the Age of AI",
-      "title_neutral": "Aina Raises $5.5M Led by Redstart Labs and 360 ONE to Build the Interface for the Age of AI",
-      "excerpt": "Aina raises $5.5M led by Redstart Labs and 360 ONE Asset to build a general-purpose hardware interface for the AI era, beyond touchscreens and keyboards.",
-      "recap_neutral": "Aina raises $5",
-      "main_idea": "Aina Raises $5.5M Led by Redstart Labs and 360 ONE to Build the Interface for the Age of AI",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 16 Jul 2026 13:15:58 GMT",
-      "url": "https://hackernoon.com/aina-raises-$55m-led-by-redstart-labs-and-360-one-to-build-the-interface-for-the-age-of-ai?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A Creative Startup Is Still A Business: 3 Things to Keep in Mind",
-      "title_neutral": "A Creative Startup Is Still A Business: 3 Things to Keep in Mind",
-      "excerpt": "This week's HackerNoon's Startups of the Week are Le Magazine du Mali, Animatory, and Baros.",
-      "recap_neutral": "This week's HackerNoon's Startups of the Week are Le Magazine du Mali, Animatory, and Baros",
-      "main_idea": "A Creative Startup Is Still A Business: 3 Things to Keep in Mind",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 16 Jul 2026 13:12:47 GMT",
-      "url": "https://hackernoon.com/a-creative-startup-is-still-a-business-3-things-to-keep-in-mind?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
-      "title_neutral": "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
-      "excerpt": "Mykhailo Fedorov announced he was leaving the ministry on Wednesday after conflicts with generals and military contractors over the role of innovative weaponry.",
-      "recap_neutral": "Mykhailo Fedorov announced he was leaving the ministry on Wednesday after conflicts with generals and military contractors over the role of innovative weaponry",
-      "main_idea": "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 16 Jul 2026 11:41:48 +0000",
-      "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -656,91 +314,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Global Opinion Shifts Toward Favoring China Over the U.S., Poll Finds",
-      "title_neutral": "Global Opinion Shifts Toward Favoring China Over the U.S., Poll Finds",
-      "excerpt": "An annual survey from the Pew Research Center found that more countries felt positively about China than America.",
-      "recap_neutral": "An annual survey from the Pew Research Center found that more countries felt positively about China than America",
-      "main_idea": "Global Opinion Shifts Toward Favoring China Over the U.S., Poll Finds",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 16 Jul 2026 10:43:35 +0000",
-      "url": "https://www.nytimes.com/2026/07/16/world/asia/pew-opinion-survey-china-united-states.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ray Zhang Leads the Smart Contract Work Where Small Decisions Can Move Real Markets",
-      "title_neutral": "Ray Zhang Leads the Smart Contract Work Where Small Decisions Can Move Real Markets",
-      "excerpt": "Discover how Ellipsis Labs engineer Ray Zhang builds secure, high-performance Solana smart contract infrastructure powering production DeFi markets.",
-      "recap_neutral": "Discover how Ellipsis Labs engineer Ray Zhang builds secure, high-performance Solana smart contract infrastructure powering production DeFi markets",
-      "main_idea": "Ray Zhang Leads the Smart Contract Work Where Small Decisions Can Move Real Markets",
-      "tags": [
-        "economy"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 16 Jul 2026 09:15:28 GMT",
-      "url": "https://hackernoon.com/ray-zhang-leads-the-smart-contract-work-where-small-decisions-can-move-real-markets?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Vamsee Pamisetty on Building Decision Intelligence That Stakeholders Can Actually Trust",
-      "title_neutral": "Vamsee Pamisetty on Building Decision Intelligence That Stakeholders Can Actually Trust",
-      "excerpt": "Vamsee Pamisetty introduces an explainable AI framework that brings transparency, auditability, and trust to enterprise decision intelligence.",
-      "recap_neutral": "Vamsee Pamisetty introduces an explainable AI framework that brings transparency, auditability, and trust to enterprise decision intelligence",
-      "main_idea": "Vamsee Pamisetty on Building Decision Intelligence That Stakeholders Can Actually Trust",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 16 Jul 2026 09:00:48 GMT",
-      "url": "https://hackernoon.com/vamsee-pamisetty-on-building-decision-intelligence-that-stakeholders-can-actually-trust?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Let the Agent Complain: A Feedback Loop for Better AI Tools",
-      "title_neutral": "Let the Agent Complain: A Feedback Loop for Better AI Tools",
-      "excerpt": "When AI agents fail, logs show what happened, but complaints reveal why. Learn how agent feedback uncovers missing tools, context gaps and product issues.",
-      "recap_neutral": "When AI agents fail, logs show what happened, but complaints reveal why",
-      "main_idea": "Let the Agent Complain: A Feedback Loop for Better AI Tools",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 16 Jul 2026 08:58:12 GMT",
-      "url": "https://hackernoon.com/let-the-agent-complain-a-feedback-loop-for-better-ai-tools?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Apple v. OpenAI Trade Secrets Lawsuit: The 42 Most Explosive Allegations & The Internet's Reactions",
-      "title_neutral": "Apple v. OpenAI Trade Secrets Lawsuit: The 42 Most Explosive Allegations & The Internet's Reactions",
-      "excerpt": "42 verbatim quotes from Apple's trade secret complaint against OpenAI — stolen laptops, 'LOL' texts, show-and-tell interviews — plus the internet's reactions.",
-      "recap_neutral": "42 verbatim quotes from Apple's trade secret complaint against OpenAI — stolen laptops, 'LOL' texts, show-and-tell interviews — plus the internet's reactions",
-      "main_idea": "Apple v. OpenAI Trade Secrets Lawsuit: The 42 Most Explosive Allegations & The Internet's Reactions",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 16 Jul 2026 08:54:16 GMT",
-      "url": "https://hackernoon.com/apple-v-openai-trade-secrets-lawsuit-the-42-most-explosive-allegations-and-the-internets-reactions?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner",
       "title_neutral": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner",
       "excerpt": "Banner refers to Falkland Islands conflict in 1982 UK business secretary calls for Fifa investigation The Argentina players celebrated their World Cup win over England with a banner saying “ Las Malvinas son Argentinas ”, making reference to the 1982 Falklands war . Argentina were 1-0 down with fiv…",
@@ -755,23 +328,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "India Is Moving Fast to Build A.I. Data Centers. A Coastal City May Pay the Price.",
-      "title_neutral": "India Is Moving Fast to Build A.I. Data Centers. A Coastal City May Pay the Price.",
-      "excerpt": "With India lagging in the technology, officials are embracing giant data centers. But critics say the megaprojects will use up energy and water, without providing long-term jobs.",
-      "recap_neutral": "With India lagging in the technology, officials are embracing giant data centers",
-      "main_idea": "India Is Moving Fast to Build A.I. Data Centers. A Coastal City May Pay the Price.",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 16 Jul 2026 05:24:49 +0000",
-      "url": "https://www.nytimes.com/2026/07/16/world/asia/india-ai-data-centers-google.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -861,21 +417,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Old Icons",
-      "title_neutral": "Old Icons",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Old Icons",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 12 Jul 2026 00:24:24 +0000",
-      "url": "https://leancrew.com/all-this/2026/07/old-icons/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Starlink from 1984",
       "title_neutral": "Starlink from 1984",
       "excerpt": "Comments",
@@ -906,261 +447,444 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Орешкин: финансовая система обречена на умирание, если не будет изменена",
-      "title_neutral": "Орешкин: финансовая система обречена на умирание, если не будет изменена",
-      "excerpt": "Издержки ее функционирования слишком высоки для экономики, отметил замглавы администрации президента",
-      "recap_neutral": "Издержки ее функционирования слишком высоки для экономики, отметил замглавы администрации президента",
-      "main_idea": "Орешкин: финансовая система обречена на умирание, если не будет изменена",
-      "tags": [
-        "politics",
-        "economy",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 12:02:34 +0300",
-      "url": "https://tass.ru/ekonomika/27926001",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "РАН разработала кодекс этики российского ученого почти на 80%",
-      "title_neutral": "РАН разработала кодекс этики российского ученого почти на 80%",
-      "excerpt": "Научный руководитель химического факультета МГУ имени М.В. Ломоносова Степан Калмыков рассказал, что документ затрагивает вопросы применения ИИ в исследованиях, биоэтики и экспериментов с животными",
-      "recap_neutral": "Научный руководитель химического факультета МГУ имени М",
-      "main_idea": "РАН разработала кодекс этики российского ученого почти на 80%",
+      "title_original": "СФ одобрил закон о предоставлении производителем документации на сложную технику",
+      "title_neutral": "СФ одобрил закон о предоставлении производителем документации на сложную технику",
+      "excerpt": "Обязанность будет действовать в течение срока производства товара",
+      "recap_neutral": "Обязанность будет действовать в течение срока производства товара",
+      "main_idea": "СФ одобрил закон о предоставлении производителем документации на сложную технику",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 12:02:27 +0300",
-      "url": "https://tass.ru/nauka/27925497",
+      "published_at": "Fri, 17 Jul 2026 14:01:03 +0300",
+      "url": "https://tass.ru/ekonomika/27926533",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Трутнев: работа с молодыми учеными станет одной из тем ВЭФ",
-      "title_neutral": "Трутнев: работа с молодыми учеными станет одной из тем ВЭФ",
-      "excerpt": "Вице-премьер - полномочный представитель президента РФ в Дальневосточном федеральном округе назвал хорошим желание ученых остаться работать в ИНТЦ на острове Русский в Приморском крае",
-      "recap_neutral": "Вице-премьер - полномочный представитель президента РФ в Дальневосточном федеральном округе назвал хорошим желание ученых остаться работать в ИНТЦ на острове Русский в Приморском крае",
-      "main_idea": "Трутнев: работа с молодыми учеными станет одной из тем ВЭФ",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 12:02:26 +0300",
-      "url": "https://tass.ru/ekonomika/27925997",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В США за время ЧМ по футболу возле спортобъектов перехватили свыше 700 БПЛА",
-      "title_neutral": "В США за время ЧМ по футболу возле спортобъектов перехватили свыше 700 БПЛА",
-      "excerpt": "Дроны находились в закрытом для полетов воздушном пространстве",
-      "recap_neutral": "Дроны находились в закрытом для полетов воздушном пространстве",
-      "main_idea": "В США за время ЧМ по футболу возле спортобъектов перехватили свыше 700 БПЛА",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 12:02:17 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27925979",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Более 80 пляжей Анапы получили разрешение на открытие сезона",
-      "title_neutral": "Более 80 пляжей Анапы получили разрешение на открытие сезона",
-      "excerpt": "Еще 12 проходят экспертизу",
-      "recap_neutral": "Еще 12 проходят экспертизу",
-      "main_idea": "Более 80 пляжей Анапы получили разрешение на открытие сезона",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 12:01:11 +0300",
-      "url": "https://tass.ru/obschestvo/27926007",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Претенденты на золото. Главное о матче \"Зенита\" и \"Спартака\" за суперкубок",
-      "title_neutral": "Претенденты на золото. Главное о матче \"Зенита\" и \"Спартака\" за суперкубок",
-      "excerpt": "Чемпион России по футболу сразится обладателем национального кубка. О состоянии команд и их статусе главных претендентов на чемпионство - в материале ТАСС",
-      "recap_neutral": "Чемпион России по футболу сразится обладателем национального кубка",
-      "main_idea": "Претенденты на золото. Главное о матче \"Зенита\" и \"Спартака\" за суперкубок",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 12:00:01 +0300",
-      "url": "https://tass.ru/sport/27925245",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Разработка устной части ЕГЭ для гуманитарных предметов начнется в ближайшее время",
-      "title_neutral": "Разработка устной части ЕГЭ для гуманитарных предметов начнется в ближайшее время",
+      "title_original": "Бумажным рецептом на лекарства больше нельзя воспользоваться. Это правда?",
+      "title_neutral": "Бумажным рецептом на лекарства больше нельзя воспользоваться. Это правда?",
       "excerpt": "",
-      "recap_neutral": "Разработка устной части ЕГЭ для гуманитарных предметов начнется в ближайшее время",
-      "main_idea": "Разработка устной части ЕГЭ для гуманитарных предметов начнется в ближайшее время",
+      "recap_neutral": "Бумажным рецептом на лекарства больше нельзя воспользоваться. Это правда?",
+      "main_idea": "Бумажным рецептом на лекарства больше нельзя воспользоваться. Это правда?",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 11:59:52 +0300",
-      "url": "https://tass.ru/obschestvo/27925985",
+      "published_at": "Fri, 17 Jul 2026 14:00:00 +0300",
+      "url": "https://tass.ru/obschestvo/27926331",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Казахстан на полгода ввел запрет на ввоз пшеницы",
-      "title_neutral": "Казахстан на полгода ввел запрет на ввоз пшеницы",
-      "excerpt": "Запрет не распространяется на зерно, ввозимое на территорию страны в рамках железнодорожных транзитных перевозок",
-      "recap_neutral": "Запрет не распространяется на зерно, ввозимое на территорию страны в рамках железнодорожных транзитных перевозок",
-      "main_idea": "Казахстан на полгода ввел запрет на ввоз пшеницы",
+      "title_original": "В Москве ликвидирован узел связи телефонных мошенников с более 1000 sim-карт",
+      "title_neutral": "В Москве ликвидирован узел связи телефонных мошенников с более 1000 sim-карт",
+      "excerpt": "Подозреваемый заключен под стражу",
+      "recap_neutral": "Подозреваемый заключен под стражу",
+      "main_idea": "В Москве ликвидирован узел связи телефонных мошенников с более 1000 sim-карт",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 11:59:05 +0300",
-      "url": "https://tass.ru/ekonomika/27925361",
+      "published_at": "Fri, 17 Jul 2026 13:59:39 +0300",
+      "url": "https://tass.ru/proisshestviya/27926527",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Лихачев дал старт студенческому трудовому сезону на объектах Росатома",
-      "title_neutral": "Лихачев дал старт студенческому трудовому сезону на объектах Росатома",
-      "excerpt": "Открытие состоялось в Озерске Челябинской области",
-      "recap_neutral": "Открытие состоялось в Озерске Челябинской области",
-      "main_idea": "Лихачев дал старт студенческому трудовому сезону на объектах Росатома",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 11:58:40 +0300",
-      "url": "https://tass.ru/obschestvo/27925981",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Заседание суда по делу Бориса Надеждина прервали для вызова ему \"скорой\"",
-      "title_neutral": "Заседание суда по делу Бориса Надеждина прервали для вызова ему \"скорой\"",
-      "excerpt": "Ему грозит арест до 15 суток",
-      "recap_neutral": "Ему грозит арест до 15 суток",
-      "main_idea": "Заседание суда по делу Бориса Надеждина прервали для вызова ему \"скорой\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 11:56:59 +0300",
-      "url": "https://tass.ru/obschestvo/27925977",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Движение первых запускает конкурс детских инженерных изобретений",
-      "title_neutral": "Движение первых запускает конкурс детских инженерных изобретений",
-      "excerpt": "Принять участие могут школьники и студенты колледжей от 9 до 20 лет",
-      "recap_neutral": "Принять участие могут школьники и студенты колледжей от 9 до 20 лет",
-      "main_idea": "Движение первых запускает конкурс детских инженерных изобретений",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 11:55:04 +0300",
-      "url": "https://tass.ru/obschestvo/27925967",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Более 60% опрошенных немцев скептически относятся к реформам правительства Мерца",
-      "title_neutral": "Более 60% опрошенных немцев скептически относятся к реформам правительства Мерца",
-      "excerpt": "При этом 81% респондентов уверены, что предусмотренная нагрузка на граждан распределена несправедливо, свидетельствуют результаты опроса, проведенного исследовательской группой Wahlen",
-      "recap_neutral": "При этом 81% респондентов уверены, что предусмотренная нагрузка на граждан распределена несправедливо, свидетельствуют результаты опроса, проведенного исследовательской группой Wahlen",
-      "main_idea": "Более 60% опрошенных немцев скептически относятся к реформам правительства Мерца",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 11:54:43 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27925957",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Подмосковье более 2 тыс. медработников трудоустроились по программе \"Приведи друга\"",
-      "title_neutral": "В Подмосковье более 2 тыс. медработников трудоустроились по программе \"Приведи друга\"",
-      "excerpt": "Размер премии за привлечение новых специалистов составляет до 128 тыс. рублей и зависит от специальности, категории и стажа нового работника",
-      "recap_neutral": "Размер премии за привлечение новых специалистов составляет до 128 тыс",
-      "main_idea": "В Подмосковье более 2 тыс. медработников трудоустроились по программе \"Приведи друга\"",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 11:53:54 +0300",
-      "url": "https://tass.ru/obschestvo/27925969",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Греф: никто в мире не готов противостоять сложным киберугрозам в эпоху ИИ",
-      "title_neutral": "Греф: никто в мире не готов противостоять сложным киберугрозам в эпоху ИИ",
-      "excerpt": "Развитие квантовых технологий усугубит ситуацию, отметил глава Сбербанка",
-      "recap_neutral": "Развитие квантовых технологий усугубит ситуацию, отметил глава Сбербанка",
-      "main_idea": "Греф: никто в мире не готов противостоять сложным киберугрозам в эпоху ИИ",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 11:53:49 +0300",
-      "url": "https://tass.ru/ekonomika/27925965",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Харьковской области поврежден газодобывающий объект \"Нафтогаза\"",
-      "title_neutral": "В Харьковской области поврежден газодобывающий объект \"Нафтогаза\"",
-      "excerpt": "Был зафиксирован удар, сообщили в компании",
-      "recap_neutral": "Был зафиксирован удар, сообщили в компании",
-      "main_idea": "В Харьковской области поврежден газодобывающий объект \"Нафтогаза\"",
+      "title_original": "\"Информзащита\": в России число мошеннических атак на соискателей выросло на 38%",
+      "title_neutral": "\"Информзащита\": в России число мошеннических атак на соискателей выросло на 38%",
+      "excerpt": "Около 37% из них начинались с контакта в соцсетях или мессенджерах после публикации резюме, сообщили в компании",
+      "recap_neutral": "Около 37% из них начинались с контакта в соцсетях или мессенджерах после публикации резюме, сообщили в компании",
+      "main_idea": "\"Информзащита\": в России число мошеннических атак на соискателей выросло на 38%",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 11:51:20 +0300",
-      "url": "https://tass.ru/proisshestviya/27925939",
+      "published_at": "Fri, 17 Jul 2026 13:58:56 +0300",
+      "url": "https://tass.ru/ekonomika/27926523",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran War Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz",
-      "title_neutral": "Iran War Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz",
-      "excerpt": "American forces appeared to be focused on infrastructure, hitting bridges and a railway junction, Iranian state media reported.",
-      "recap_neutral": "American forces appeared to be focused on infrastructure, hitting bridges and a railway junction, Iranian state media reported",
-      "main_idea": "Iran War Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz",
+      "title_original": "Эксперт Патаман: новый премьер Украины будет выполнять волю Европы",
+      "title_neutral": "Эксперт Патаман: новый премьер Украины будет выполнять волю Европы",
+      "excerpt": "Руководитель секретариата регионального отделения международной общественной организации \"Всемирный русский народный собор\" по Запорожской области отметил, что кадровые перестановки в украинском правительстве являются следствием борьбы за влияние внутри страны между киевским режимом с одной стороны…",
+      "recap_neutral": "Руководитель секретариата регионального отделения международной общественной организации \"Всемирный русский народный собор\" по Запорожской области отметил, что кадровые перестановки в украинском правительстве являются с…",
+      "main_idea": "Эксперт Патаман: новый премьер Украины будет выполнять волю Европы",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 13:58:45 +0300",
+      "url": "https://tass.ru/politika/27926515",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На выставке в штаб-квартире ЮНЕСКО показали вклад России и СССР в мировую науку",
+      "title_neutral": "На выставке в штаб-квартире ЮНЕСКО показали вклад России и СССР в мировую науку",
+      "excerpt": "Центральное место в экспозиции занимает личность Дмитрия Менделеева",
+      "recap_neutral": "Центральное место в экспозиции занимает личность Дмитрия Менделеева",
+      "main_idea": "На выставке в штаб-квартире ЮНЕСКО показали вклад России и СССР в мировую науку",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 13:56:41 +0300",
+      "url": "https://tass.ru/obschestvo/27926447",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В \"Атлетико\" заявили, что футболист Альварес не покинет клуб этим летом",
+      "title_neutral": "В \"Атлетико\" заявили, что футболист Альварес не покинет клуб этим летом",
+      "excerpt": "Он выступает за команду с 2024 года",
+      "recap_neutral": "Он выступает за команду с 2024 года",
+      "main_idea": "В \"Атлетико\" заявили, что футболист Альварес не покинет клуб этим летом",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 13:55:51 +0300",
+      "url": "https://tass.ru/sport/27926521",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Зеленский: объекты \"Нафтогаза\" существенно повреждены из-за взрывов",
+      "title_neutral": "Зеленский: объекты \"Нафтогаза\" существенно повреждены из-за взрывов",
+      "excerpt": "В компании ранее сообщили о повреждении газодобывающего объекта в Харьковской области",
+      "recap_neutral": "В компании ранее сообщили о повреждении газодобывающего объекта в Харьковской области",
+      "main_idea": "Зеленский: объекты \"Нафтогаза\" существенно повреждены из-за взрывов",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 13:55:32 +0300",
+      "url": "https://tass.ru/proisshestviya/27926511",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Politico: в НАТО \"любили\" Федорова и недовольны его отставкой",
+      "title_neutral": "Politico: в НАТО \"любили\" Федорова и недовольны его отставкой",
+      "excerpt": "Один из чиновников Североатлантического альянса в беседе с изданием отметил, что никто не ожидал увольнения бывшего министра обороны Украины",
+      "recap_neutral": "Один из чиновников Североатлантического альянса в беседе с изданием отметил, что никто не ожидал увольнения бывшего министра обороны Украины",
+      "main_idea": "Politico: в НАТО \"любили\" Федорова и недовольны его отставкой",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 13:55:28 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27926507",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Журналиста Бабченко приговорили к 1,5 года колонии заочно",
+      "title_neutral": "Журналиста Бабченко приговорили к 1,5 года колонии заочно",
+      "excerpt": "Он обвиняется в нарушении правил иноагента",
+      "recap_neutral": "Он обвиняется в нарушении правил иноагента",
+      "main_idea": "Журналиста Бабченко приговорили к 1,5 года колонии заочно",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 13:54:38 +0300",
+      "url": "https://tass.ru/proisshestviya/27926513",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "СФ одобрил закон о замене штрафов для бизнеса на соглашение об исправлении",
+      "title_neutral": "СФ одобрил закон о замене штрафов для бизнеса на соглашение об исправлении",
+      "excerpt": "Новая норма, в частности, не будет распространяться на случаи подачи ходатайства о заключении соглашения после направления материалов дела судье",
+      "recap_neutral": "Новая норма, в частности, не будет распространяться на случаи подачи ходатайства о заключении соглашения после направления материалов дела судье",
+      "main_idea": "СФ одобрил закон о замене штрафов для бизнеса на соглашение об исправлении",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 13:54:31 +0300",
+      "url": "https://tass.ru/ekonomika/27926509",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ИИ научили оценивать когнитивные перегрузки по голосу",
+      "title_neutral": "ИИ научили оценивать когнитивные перегрузки по голосу",
+      "excerpt": "Программный модуль может быть использован при разработке систем мониторинга состояния операторов, диспетчеров, водителей, сотрудников служб безопасности и других специалистов, работающих в условиях высокой умственной нагрузки, рассказали ученые ННГУ",
+      "recap_neutral": "Программный модуль может быть использован при разработке систем мониторинга состояния операторов, диспетчеров, водителей, сотрудников служб безопасности и других специалистов, работающих в условиях высокой умственной на…",
+      "main_idea": "ИИ научили оценивать когнитивные перегрузки по голосу",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 13:47:44 +0300",
+      "url": "https://tass.ru/nauka/27926337",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Замглавы Минобороны РФ обсудил сотрудничество с послом Индии",
+      "title_neutral": "Замглавы Минобороны РФ обсудил сотрудничество с послом Индии",
+      "excerpt": "В российском оборонном ведомстве отметили, что встреча прошла в традиционной для российско-индийских отношений дружественной обстановке",
+      "recap_neutral": "В российском оборонном ведомстве отметили, что встреча прошла в традиционной для российско-индийских отношений дружественной обстановке",
+      "main_idea": "Замглавы Минобороны РФ обсудил сотрудничество с послом Индии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 13:46:28 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27926483",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве арестовали депутата из Хабаровска, задержанного в пьяном виде у метро",
+      "title_neutral": "В Москве арестовали депутата из Хабаровска, задержанного в пьяном виде у метро",
+      "excerpt": "Он утверждал, что состояния опьянения у него не было, что опровергается представленными материалами дела",
+      "recap_neutral": "Он утверждал, что состояния опьянения у него не было, что опровергается представленными материалами дела",
+      "main_idea": "В Москве арестовали депутата из Хабаровска, задержанного в пьяном виде у метро",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 13:45:22 +0300",
+      "url": "https://tass.ru/proisshestviya/27926491",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Карякин хотел бы, чтобы Овечкин быстрее вернулся в Россию выступать",
+      "title_neutral": "Карякин хотел бы, чтобы Овечкин быстрее вернулся в Россию выступать",
+      "excerpt": "Ранее российский форвард на год продлил контракт с \"Вашингтоном\"",
+      "recap_neutral": "Ранее российский форвард на год продлил контракт с \"Вашингтоном\"",
+      "main_idea": "Карякин хотел бы, чтобы Овечкин быстрее вернулся в Россию выступать",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 13:44:31 +0300",
+      "url": "https://tass.ru/sport/27926497",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US launches new strikes as Iran says civilian infrastructure hit",
+      "title_neutral": "US launches new strikes as Iran says civilian infrastructure hit",
+      "excerpt": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
+      "recap_neutral": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz",
+      "main_idea": "US launches new strikes as Iran says civilian infrastructure hit",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 17 Jul 2026 10:57:50 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The 20-Somethings Running Ukraine’s War Machine",
+      "title_neutral": "The 20-Somethings Running Ukraine’s War Machine",
+      "excerpt": "A new generation has been cutting red tape to speed weapons to the front. But the old guard pushed back, and now Ukraine’s young defense minister is out.",
+      "recap_neutral": "A new generation has been cutting red tape to speed weapons to the front",
+      "main_idea": "The 20-Somethings Running Ukraine’s War Machine",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Fri, 17 Jul 2026 08:51:57 +0000",
-      "url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
+      "published_at": "Fri, 17 Jul 2026 10:29:24 +0000",
+      "url": "https://www.nytimes.com/2026/07/17/world/europe/youth-ukraine-defense-innovation.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Here’s the latest.",
+      "title_neutral": "Here’s the latest.",
+      "excerpt": "",
+      "recap_neutral": "Here’s the latest.",
+      "main_idea": "Here’s the latest.",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Fri, 17 Jul 2026 10:29:22 +0000",
+      "url": "https://www.nytimes.com/live/2026/07/17/world/uk-burnham-starmer-labour/heres-the-latest",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran War Live Updates: U.S. Hits Bridges and a Port in Country’s South, Iranian Media says",
+      "title_neutral": "Iran War Live Updates: U.S. Hits Bridges and a Port in Country’s South, Iranian Media says",
+      "excerpt": "The U.S. military’s Central Command said the latest round of attacks had “hit dozens of Iranian military targets” but made no mention of civilian infrastructure.",
+      "recap_neutral": "The U",
+      "main_idea": "Iran War Live Updates: U.S. Hits Bridges and a Port in Country’s South, Iranian Media says",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 17 Jul 2026 10:27:54 +0000",
+      "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "School bus crash kills at least 20 pupils in Uganda",
+      "title_neutral": "School bus crash kills at least 20 pupils in Uganda",
+      "excerpt": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault.",
+      "recap_neutral": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault",
+      "main_idea": "School bus crash kills at least 20 pupils in Uganda",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Fri, 17 Jul 2026 10:04:27 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "I Owe My Life to the Commodore 64",
+      "title_neutral": "I Owe My Life to the Commodore 64",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "I Owe My Life to the Commodore 64",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 17 Jul 2026 09:44:25 +0000",
+      "url": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ICE arrests human rights lawyer who fled Chinese crackdown",
+      "title_neutral": "ICE arrests human rights lawyer who fled Chinese crackdown",
+      "excerpt": "Arrest in Pennsylvania of Wu Shaoping, who is awaiting asylum decision, raises fears of deportation and persecution A Chinese human rights lawyer has been arrested by US Immigration and Customs Enforcement (ICE), raising concerns he could be deported to China where he would face persecution. Wu Sha…",
+      "recap_neutral": "Arrest in Pennsylvania of Wu Shaoping, who is awaiting asylum decision, raises fears of deportation and persecution A Chinese human rights lawyer has been arrested by US Immigration and Customs Enforcement (ICE), raisin…",
+      "main_idea": "ICE arrests human rights lawyer who fled Chinese crackdown",
+      "tags": [
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Fri, 17 Jul 2026 09:20:57 GMT",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/ice-arrests-human-rights-lawyer-wu-shaoping-fled-chinese-crackdown",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "title_neutral": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "excerpt": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+      "recap_neutral": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections",
+      "main_idea": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 17 Jul 2026 09:12:06 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
+      "title_neutral": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
+      "excerpt": "In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping.",
+      "recap_neutral": "In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping",
+      "main_idea": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 17 Jul 2026 09:03:36 +0000",
+      "url": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "As Blazes Spread Near Paris, Extreme Heat Is Changing How France Fights Fires",
+      "title_neutral": "As Blazes Spread Near Paris, Extreme Heat Is Changing How France Fights Fires",
+      "excerpt": "Until recently, France’s forest fires were mostly in the south. This week, fires are raging much farther north. France is having to rethink its firefighting strategy.",
+      "recap_neutral": "Until recently, France’s forest fires were mostly in the south",
+      "main_idea": "As Blazes Spread Near Paris, Extreme Heat Is Changing How France Fights Fires",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Fri, 17 Jul 2026 09:01:52 +0000",
+      "url": "https://www.nytimes.com/2026/07/17/france-forest-fires-extreme-heat.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
+      "title_neutral": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
+      "excerpt": "Mass migration, which defines modern Venezuela, has heavily marked the earthquake, too, saving many who had left, but also making their grief harder.",
+      "recap_neutral": "Mass migration, which defines modern Venezuela, has heavily marked the earthquake, too, saving many who had left, but also making their grief harder",
+      "main_idea": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Fri, 17 Jul 2026 09:01:42 +0000",
+      "url": "https://www.nytimes.com/2026/07/17/world/americas/venezuela-earthquakes-families-migration.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Dubai Migrant Worker Layoffs Reveal Costs of Middle East War",
+      "title_neutral": "Dubai Migrant Worker Layoffs Reveal Costs of Middle East War",
+      "excerpt": "The Persian Gulf city attracted migrant workers with the promise of opportunity. Many now say the war has brought job losses and salary cuts.",
+      "recap_neutral": "The Persian Gulf city attracted migrant workers with the promise of opportunity",
+      "main_idea": "Dubai Migrant Worker Layoffs Reveal Costs of Middle East War",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 17 Jul 2026 09:00:33 +0000",
+      "url": "https://www.nytimes.com/2026/07/17/world/middleeast/dubai-iran-war-migrant-workers-layoffs.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -1169,7 +893,7 @@
     {
       "title_original": "Weather tracker: Thunderstorms strike across Europe amid record heatwave",
       "title_neutral": "Weather tracker: Thunderstorms strike across Europe amid record heatwave",
-      "excerpt": "Storms are typical during intense heat but this week’s have been extreme. Plus, deadly monsoon rains in Bangladesh Hailstones the size of golf balls have been seen in French villages as, on top of the exceptional European heatwave, thunderstorms struck across certain parts of Europe. While thunders…",
+      "excerpt": "Storms are typical during intense heat but this week’s have been extreme. Plus, deadly monsoon rains in Bangladesh Hailstones the size of golf balls have been seen in French villages as, on top of the exceptional European heatwave, thunderstorms have struck across parts of Europe. While thunderstor…",
       "recap_neutral": "Storms are typical during intense heat but this week’s have been extreme",
       "main_idea": "Weather tracker: Thunderstorms strike across Europe amid record heatwave",
       "tags": [
@@ -1196,7 +920,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Fri, 17 Jul 2026 08:31:14 +0000",
+      "published_at": "Fri, 17 Jul 2026 08:31:15 +0000",
       "url": "https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html",
       "lang": "en",
       "bias_score": 55,
@@ -1221,6 +945,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Inside the Mind of a Commerce Architect: Indrajit Sen on Technology Overhaul and Retail Leadership",
+      "title_neutral": "Inside the Mind of a Commerce Architect: Indrajit Sen on Technology Overhaul and Retail Leadership",
+      "excerpt": "Discover how IBM's Indrajit Sen approaches retail platform modernization, AI governance, cloud architecture, and global engineering leadership.",
+      "recap_neutral": "Discover how IBM's Indrajit Sen approaches retail platform modernization, AI governance, cloud architecture, and global engineering leadership",
+      "main_idea": "Inside the Mind of a Commerce Architect: Indrajit Sen on Technology Overhaul and Retail Leadership",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 08:30:45 GMT",
+      "url": "https://hackernoon.com/inside-the-mind-of-a-commerce-architect-indrajit-sen-on-technology-overhaul-and-retail-leadership?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "China hits out at British Steel nationalisation",
       "title_neutral": "China hits out at British Steel nationalisation",
       "excerpt": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
@@ -1233,24 +974,6 @@
       "source": "BBC World",
       "published_at": "Fri, 17 Jul 2026 08:25:55 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "US launches new strikes as Iran says civilian infrastructure hit",
-      "title_neutral": "US launches new strikes as Iran says civilian infrastructure hit",
-      "excerpt": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
-      "recap_neutral": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz",
-      "main_idea": "US launches new strikes as Iran says civilian infrastructure hit",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 17 Jul 2026 08:10:12 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -1329,7 +1052,7 @@
     {
       "title_original": "China ‘strongly dissatisfied’ with nationalisation of British Steel",
       "title_neutral": "China ‘strongly dissatisfied’ with nationalisation of British Steel",
-      "excerpt": "Move dealt ‘severe blow to Chinese companies’ confidence in investing in the UK’, says Ministry of Commerce China’s government has said it is “strongly dissatisfied” with the decision to nationalise British Steel this week, 15 months after the UK government stepped in to prevent the closure of its…",
+      "excerpt": "Move dealt ‘severe blow to Chinese companies’ confidence in investing in the UK’, says Ministry of Commerce China’s government has said it is “strongly dissatisfied” with the decision to nationalise British Steel this week, 15 months after the UK government intervened to prevent the closure of its…",
       "recap_neutral": "Move dealt ‘severe blow to Chinese companies’ confidence in investing in the UK’, says Ministry of Commerce China’s government has said it is “strongly dissatisfied” with the decision to nationalise British Steel this w…",
       "main_idea": "China ‘strongly dissatisfied’ with nationalisation of British Steel",
       "tags": [
@@ -1342,6 +1065,40 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump's team says 'no children' died from USAID cuts. Consider these 3 cases",
+      "title_neutral": "Trump's team says 'no children' died from USAID cuts. Consider these 3 cases",
+      "excerpt": "Both Marco Rubio and Elon Musk, who led the effort to sunset the foreign aid agency, have said that no deaths have been linked to the cutting of its funding. These parents tell a different story.",
+      "recap_neutral": "Both Marco Rubio and Elon Musk, who led the effort to sunset the foreign aid agency, have said that no deaths have been linked to the cutting of its funding",
+      "main_idea": "Trump's team says 'no children' died from USAID cuts. Consider these 3 cases",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Fri, 17 Jul 2026 06:37:02 -0400",
+      "url": "https://www.npr.org/2026/07/17/g-s1-133651/usaid-elon-musk-rubio-deaths",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The AI Layoff Story Was Always a Sales Pitch",
+      "title_neutral": "The AI Layoff Story Was Always a Sales Pitch",
+      "excerpt": "The same people who sold you the fear are now selling you the relief. The story follows their money. Here’s how to read it, whichever way it swings....",
+      "recap_neutral": "The same people who sold you the fear are now selling you the relief",
+      "main_idea": "The AI Layoff Story Was Always a Sales Pitch",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 06:15:11 GMT",
+      "url": "https://hackernoon.com/the-ai-layoff-story-was-always-a-sales-pitch?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1362,18 +1119,198 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "School bus crash kills at least 20 pupils in Uganda",
-      "title_neutral": "School bus crash kills at least 20 pupils in Uganda",
-      "excerpt": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault.",
-      "recap_neutral": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault",
-      "main_idea": "School bus crash kills at least 20 pupils in Uganda",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 17 Jul 2026 05:36:22 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+      "title_original": "Your Git Mirror Is a Recovery Tool Only If You Test the Failure Path",
+      "title_neutral": "Your Git Mirror Is a Recovery Tool Only If You Test the Failure Path",
+      "excerpt": "A practical look at Git mirrors, second remotes, LFS checks, CI recovery, and why backup policies need restore tests.",
+      "recap_neutral": "A practical look at Git mirrors, second remotes, LFS checks, CI recovery, and why backup policies need restore tests",
+      "main_idea": "Your Git Mirror Is a Recovery Tool Only If You Test the Failure Path",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 05:50:43 GMT",
+      "url": "https://hackernoon.com/your-git-mirror-is-a-recovery-tool-only-if-you-test-the-failure-path?source=rss",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "8 Psychology Principles Behind Amazon, Costco, and Trader Joe's Biggest Wins",
+      "title_neutral": "8 Psychology Principles Behind Amazon, Costco, and Trader Joe's Biggest Wins",
+      "excerpt": "Anchoring, loss aversion, social proof, and five more psychology principles behind Amazon, Costco, and Trader Joe's biggest conversion wins.",
+      "recap_neutral": "Anchoring, loss aversion, social proof, and five more psychology principles behind Amazon, Costco, and Trader Joe's biggest conversion wins",
+      "main_idea": "8 Psychology Principles Behind Amazon, Costco, and Trader Joe's Biggest Wins",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 05:49:28 GMT",
+      "url": "https://hackernoon.com/8-psychology-principles-behind-amazon-costco-and-trader-joes-biggest-wins?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Platform Engineering for AI Teams: The Missing Layer That Makes AI Actually Work in Your Org",
+      "title_neutral": "Platform Engineering for AI Teams: The Missing Layer That Makes AI Actually Work in Your Org",
+      "excerpt": "Every AI team is rebuilding the same thing from scratch. Platform engineering fixes that. Here's the complete guide, with real code your org can use today.",
+      "recap_neutral": "Every AI team is rebuilding the same thing from scratch",
+      "main_idea": "Platform Engineering for AI Teams: The Missing Layer That Makes AI Actually Work in Your Org",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 05:42:05 GMT",
+      "url": "https://hackernoon.com/platform-engineering-for-ai-teams-the-missing-layer-that-makes-ai-actually-work-in-your-org?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Next Big Social Media Platform Won't Look Like the Current Ones",
+      "title_neutral": "The Next Big Social Media Platform Won't Look Like the Current Ones",
+      "excerpt": "A year of conversations with people reveals the same frustrations with algorithmic feeds, misinformation, and lost privacy.",
+      "recap_neutral": "A year of conversations with people reveals the same frustrations with algorithmic feeds, misinformation, and lost privacy",
+      "main_idea": "The Next Big Social Media Platform Won't Look Like the Current Ones",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 05:40:03 GMT",
+      "url": "https://hackernoon.com/the-next-big-social-media-platform-wont-look-like-the-current-ones?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "I Built 80+ Browser Tools. Here Are 9 Engineering Lessons I Learned the Hard Way",
+      "title_neutral": "I Built 80+ Browser Tools. Here Are 9 Engineering Lessons I Learned the Hard Way",
+      "excerpt": "Nine engineering lessons from building 80+ browser utilities, covering memory, file validation, concurrency, dependencies, errors, and performance.",
+      "recap_neutral": "Nine engineering lessons from building 80+ browser utilities, covering memory, file validation, concurrency, dependencies, errors, and performance",
+      "main_idea": "I Built 80+ Browser Tools. Here Are 9 Engineering Lessons I Learned the Hard Way",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 05:39:15 GMT",
+      "url": "https://hackernoon.com/i-built-80-browser-tools-here-are-9-engineering-lessons-i-learned-the-hard-way?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to Organize AI-Generated Video Clips Before You Lose Track of 200 Files",
+      "title_neutral": "How to Organize AI-Generated Video Clips Before You Lose Track of 200 Files",
+      "excerpt": "AI video tools can generate hundreds of near-identical clips fast. Here's the naming and tracking system that keeps them from turning into chaos.",
+      "recap_neutral": "AI video tools can generate hundreds of near-identical clips fast",
+      "main_idea": "How to Organize AI-Generated Video Clips Before You Lose Track of 200 Files",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 05:36:20 GMT",
+      "url": "https://hackernoon.com/how-to-organize-ai-generated-video-clips-before-you-lose-track-of-200-files?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Unicode Transliteration Rules Are Secretly Turing-Complete",
+      "title_neutral": "Unicode Transliteration Rules Are Secretly Turing-Complete",
+      "excerpt": "Unicode’s UTS #35 transliteration rules are Turing-complete, revealing hidden computing power and new security risks inside the ICU library.",
+      "recap_neutral": "Unicode’s UTS #35 transliteration rules are Turing-complete, revealing hidden computing power and new security risks inside the ICU library",
+      "main_idea": "Unicode Transliteration Rules Are Secretly Turing-Complete",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 05:35:56 GMT",
+      "url": "https://hackernoon.com/unicode-transliteration-rules-are-secretly-turing-complete?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Your AI Should Be Your Lifelong Intelligence Layer, Not a Rented Chat Window",
+      "title_neutral": "Your AI Should Be Your Lifelong Intelligence Layer, Not a Rented Chat Window",
+      "excerpt": "AI models come and go. Your knowledge shouldn't. Learn how a memory protocol could make your intelligence portable, persistent, and truly yours.",
+      "recap_neutral": "AI models come and go",
+      "main_idea": "Your AI Should Be Your Lifelong Intelligence Layer, Not a Rented Chat Window",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 05:32:45 GMT",
+      "url": "https://hackernoon.com/your-ai-should-be-your-lifelong-intelligence-layer-not-a-rented-chat-window?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Speak Dev Without Writing Code: My Career’s Biggest Unlock",
+      "title_neutral": "Speak Dev Without Writing Code: My Career’s Biggest Unlock",
+      "excerpt": "For the first time in my career, I can meaningfully participate in conversations about software development without being a software engineer",
+      "recap_neutral": "For the first time in my career, I can meaningfully participate in conversations about software development without being a software engineer",
+      "main_idea": "Speak Dev Without Writing Code: My Career’s Biggest Unlock",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 05:30:46 GMT",
+      "url": "https://hackernoon.com/speak-dev-without-writing-code-my-careers-biggest-unlock?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to Use AI Without Becoming a Vibe Coder",
+      "title_neutral": "How to Use AI Without Becoming a Vibe Coder",
+      "excerpt": "Learn how to use ChatGPT as a coding tutor without becoming dependent on AI or sacrificing foundational programming skills.",
+      "recap_neutral": "Learn how to use ChatGPT as a coding tutor without becoming dependent on AI or sacrificing foundational programming skills",
+      "main_idea": "How to Use AI Without Becoming a Vibe Coder",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 05:29:45 GMT",
+      "url": "https://hackernoon.com/how-to-use-ai-without-becoming-a-vibe-coder?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How AI Transforms Ecommerce Search Into a Revenue Driver",
+      "title_neutral": "How AI Transforms Ecommerce Search Into a Revenue Driver",
+      "excerpt": "AI transforms ecommerce search by improving relevance, personalization, and revenue through better intent understanding, ranking and learning from user behavior",
+      "recap_neutral": "AI transforms ecommerce search by improving relevance, personalization, and revenue through better intent understanding, ranking and learning from user behavior",
+      "main_idea": "How AI Transforms Ecommerce Search Into a Revenue Driver",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 05:21:19 GMT",
+      "url": "https://hackernoon.com/how-ai-transforms-ecommerce-search-into-a-revenue-driver?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How DeepSeek Helped Ship Two Offline Desktop Search Tools",
+      "title_neutral": "How DeepSeek Helped Ship Two Offline Desktop Search Tools",
+      "excerpt": "See how DeepSeek helped build, test, document, and ship two privacy-focused desktop search applications in six months.",
+      "recap_neutral": "See how DeepSeek helped build, test, document, and ship two privacy-focused desktop search applications in six months",
+      "main_idea": "How DeepSeek Helped Ship Two Offline Desktop Search Tools",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 05:19:00 GMT",
+      "url": "https://hackernoon.com/how-deepseek-helped-ship-two-offline-desktop-search-tools?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1394,6 +1331,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "EigenQ and Intel Partner to Harden Deployed Xeon Systems Against Quantum Threats",
+      "title_neutral": "EigenQ and Intel Partner to Harden Deployed Xeon Systems Against Quantum Threats",
+      "excerpt": "Quantum technology company EigenQ has announced a major strategic security integration with Intel Corporation to enable scalable post-quantum cryptography.",
+      "recap_neutral": "Quantum technology company EigenQ has announced a major strategic security integration with Intel Corporation to enable scalable post-quantum cryptography",
+      "main_idea": "EigenQ and Intel Partner to Harden Deployed Xeon Systems Against Quantum Threats",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 05:14:20 GMT",
+      "url": "https://hackernoon.com/eigenq-and-intel-partner-to-harden-deployed-xeon-systems-against-quantum-threats?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Olympic cyclist admits to driving despite ban after crash that killed wife",
       "title_neutral": "Olympic cyclist admits to driving despite ban after crash that killed wife",
       "excerpt": "Rohan Dennis pleaded guilty to driving while disqualified after police pulled him over last month.",
@@ -1409,20 +1363,85 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
-      "title_neutral": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
-      "excerpt": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
-      "recap_neutral": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence",
-      "main_idea": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
+      "title_original": "What will the Pentagon begin screening 'war fighters' for? The quiz knows",
+      "title_neutral": "What will the Pentagon begin screening 'war fighters' for? The quiz knows",
+      "excerpt": "Plus: Jurassic Park , U.K. politics, conspiracy theories, Pete Hegseth and numismatics.",
+      "recap_neutral": "Plus: Jurassic Park , U",
+      "main_idea": "What will the Pentagon begin screening 'war fighters' for? The quiz knows",
       "tags": [
-        "politics"
+        "conflict"
       ],
-      "source": "BBC World",
-      "published_at": "Fri, 17 Jul 2026 04:08:27 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "source": "NPR",
+      "published_at": "Fri, 17 Jul 2026 05:02:00 -0400",
+      "url": "https://www.npr.org/2026/07/17/g-s1-133804/pentagon-trump-world-cup-netflix-sam-neill-news-quiz",
       "lang": "en",
       "bias_score": 52,
-      "left_right_index": -5,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Republican campaigns see immigration as a winning issue for midterms",
+      "title_neutral": "Republican campaigns see immigration as a winning issue for midterms",
+      "excerpt": "Republicans are spending more money and running more ads on immigration than Democrats are ahead of the November midterm elections, according to an NPR analysis of advertisement data.",
+      "recap_neutral": "Republicans are spending more money and running more ads on immigration than Democrats are ahead of the November midterm elections, according to an NPR analysis of advertisement data",
+      "main_idea": "Republican campaigns see immigration as a winning issue for midterms",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Fri, 17 Jul 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/07/17/g-s1-133702/midterm-election-ads-immigration-republicans-democrats",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Kalshi says it's not a sportsbook even as World Cup bets surge",
+      "title_neutral": "Kalshi says it's not a sportsbook even as World Cup bets surge",
+      "excerpt": "The betting site Kalshi emerged as a dominant sports betting platform during the World Cup. But the company avoids billions of dollars in taxes by insisting it is not a sports gambling operator.",
+      "recap_neutral": "The betting site Kalshi emerged as a dominant sports betting platform during the World Cup",
+      "main_idea": "Kalshi says it's not a sportsbook even as World Cup bets surge",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Fri, 17 Jul 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5884848/kalshi-sports-betting-prediction-markets-draftkings-fanduel-world-cup",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin tool maker",
+      "title_neutral": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin tool maker",
+      "excerpt": "Business is booming for Snap-on, a Wisconsin company that has made tools for professional mechanics for more than a century. It recently got a fact-finding visit from the head of the Chicago Federal Reserve Bank.",
+      "recap_neutral": "Business is booming for Snap-on, a Wisconsin company that has made tools for professional mechanics for more than a century",
+      "main_idea": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin tool maker",
+      "tags": [
+        "economy"
+      ],
+      "source": "NPR",
+      "published_at": "Fri, 17 Jul 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "For one father and son, Alaskan blanket toss is a family tradition",
+      "title_neutral": "For one father and son, Alaskan blanket toss is a family tradition",
+      "excerpt": "A father and son discuss an old Alaskan whaling tradition known as the blanket toss.",
+      "recap_neutral": "A father and son discuss an old Alaskan whaling tradition known as the blanket toss",
+      "main_idea": "For one father and son, Alaskan blanket toss is a family tradition",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Fri, 17 Jul 2026 04:41:48 -0400",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5891637/father-and-son-reminisce-on-their-high-flying-sport",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1601,30 +1620,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "GrapheneOS recommended for domestic abuse victims",
-      "title_neutral": "GrapheneOS recommended for domestic abuse victims",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "GrapheneOS recommended for domestic abuse victims",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 17 Jul 2026 01:36:52 +0000",
-      "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Japan revises law to ensure supply of (male) heirs to the imperial throne",
-      "title_neutral": "Japan revises law to ensure supply of (male) heirs to the imperial throne",
+      "title_original": "Japan revises law on royals, keeps blocking women from throne",
+      "title_neutral": "Japan revises law on royals, keeps blocking women from throne",
       "excerpt": "A popular princess drives support for having a female Japanese Emperor. But the country's first female prime minister opposes it.",
       "recap_neutral": "A popular princess drives support for having a female Japanese Emperor",
-      "main_idea": "Japan revises law to ensure supply of (male) heirs to the imperial throne",
+      "main_idea": "Japan revises law on royals, keeps blocking women from throne",
       "tags": [],
       "source": "NPR",
       "published_at": "Fri, 17 Jul 2026 01:29:46 -0400",
-      "url": "https://www.npr.org/2026/07/17/g-s1-133536/japan-revises-law-to-ensure-supply-of-male-heirs-to-the-imperial-throne",
+      "url": "https://www.npr.org/2026/07/17/g-s1-133536/japan-law-male-heirs-imperial-throne",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
