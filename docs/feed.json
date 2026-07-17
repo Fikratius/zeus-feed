@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T17:35:47.449455+00:00",
+  "last_updated": "2026-07-17T19:00:28.753257+00:00",
   "items": [
     {
       "title_original": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
@@ -33,53 +33,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Pele's 1958 World Cup final shirt sells for $4.9m",
-      "title_neutral": "Pele's 1958 World Cup final shirt sells for $4.9m",
-      "excerpt": "A shirt worn by Pele during the 1958 World Cup final has sold for $4.9m (£3.6m) at a Sotheby's auction in New York.",
-      "recap_neutral": "A shirt worn by Pele during the 1958 World Cup final has sold for $4",
-      "main_idea": "Pele's 1958 World Cup final shirt sells for $4.9m",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Thu, 16 Jul 2026 20:42:30 GMT",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8n7dejqy2o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "White House teleprompter operator accused of making $100k from Trump speech bets",
-      "title_neutral": "White House teleprompter operator accused of making $100k from Trump speech bets",
-      "excerpt": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
-      "recap_neutral": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi",
-      "main_idea": "White House teleprompter operator accused of making $100k from Trump speech bets",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Thu, 16 Jul 2026 18:52:35 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
-      "title_neutral": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
-      "excerpt": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
-      "recap_neutral": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision",
-      "main_idea": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 16 Jul 2026 16:36:21 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -203,263 +156,394 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Над регионами России уничтожили 105 украинских БПЛА",
-      "title_neutral": "Над регионами России уничтожили 105 украинских БПЛА",
+      "title_original": "Frank Lloyd Wright's First Home",
+      "title_neutral": "Frank Lloyd Wright's First Home",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Frank Lloyd Wright's First Home",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 13 Jul 2026 02:23:19 +0000",
+      "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Развожаев прокомментировал ситуацию с топливом в Севастополе",
+      "title_neutral": "Развожаев прокомментировал ситуацию с топливом в Севастополе",
+      "excerpt": "По словам губернатора города, положение стабилизировалось, однако остается напряженным",
+      "recap_neutral": "По словам губернатора города, положение стабилизировалось, однако остается напряженным",
+      "main_idea": "Развожаев прокомментировал ситуацию с топливом в Севастополе",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 21:56:31 +0300",
+      "url": "https://tass.ru/obschestvo/27928221",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Rolling Stones в 15-й раз стали лидерами британского хит-парада альбомов",
+      "title_neutral": "The Rolling Stones в 15-й раз стали лидерами британского хит-парада альбомов",
+      "excerpt": "По этому показателю группа сумела догнать The Beatles",
+      "recap_neutral": "По этому показателю группа сумела догнать The Beatles",
+      "main_idea": "The Rolling Stones в 15-й раз стали лидерами британского хит-парада альбомов",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 21:51:33 +0300",
+      "url": "https://tass.ru/kultura/27928209",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Зеленский назначил первого зампредседателя СБУ Поклада врио главы спецслужбы",
+      "title_neutral": "Зеленский назначил первого зампредседателя СБУ Поклада врио главы спецслужбы",
       "excerpt": "",
-      "recap_neutral": "Над регионами России уничтожили 105 украинских БПЛА",
-      "main_idea": "Над регионами России уничтожили 105 украинских БПЛА",
+      "recap_neutral": "Зеленский назначил первого зампредседателя СБУ Поклада врио главы спецслужбы",
+      "main_idea": "Зеленский назначил первого зампредседателя СБУ Поклада врио главы спецслужбы",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 21:49:57 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27928219",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Ладогу выпустили пятерых спасенных самцов краснокнижной нерпы",
+      "title_neutral": "В Ладогу выпустили пятерых спасенных самцов краснокнижной нерпы",
+      "excerpt": "За время восстановления животные набрали массу до 13-15 кг, научились добывать рыбу и полностью утратили привязанность к человеку",
+      "recap_neutral": "За время восстановления животные набрали массу до 13-15 кг, научились добывать рыбу и полностью утратили привязанность к человеку",
+      "main_idea": "В Ладогу выпустили пятерых спасенных самцов краснокнижной нерпы",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 21:47:32 +0300",
+      "url": "https://tass.ru/obschestvo/27928145",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Брылин, помимо работы в минском \"Динамо\", будет возглавлять сборную Белоруссии",
+      "title_neutral": "Брылин, помимо работы в минском \"Динамо\", будет возглавлять сборную Белоруссии",
+      "excerpt": "Российский специалист подписал с \"Динамо\" контракт на три сезона",
+      "recap_neutral": "Российский специалист подписал с \"Динамо\" контракт на три сезона",
+      "main_idea": "Брылин, помимо работы в минском \"Динамо\", будет возглавлять сборную Белоруссии",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 20:31:59 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27928059",
+      "published_at": "Fri, 17 Jul 2026 21:47:31 +0300",
+      "url": "https://tass.ru/sport/27928215",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Российский рынок акций закрылся снижением основных индексов",
-      "title_neutral": "Российский рынок акций закрылся снижением основных индексов",
-      "excerpt": "Индекс Мосбиржи снизился до 1 958,43 пункта",
-      "recap_neutral": "Индекс Мосбиржи снизился до 1 958,43 пункта",
-      "main_idea": "Российский рынок акций закрылся снижением основных индексов",
+      "title_original": "Биологи выявили мутации в нейронах, связанные с чрезмерным потоотделением",
+      "title_neutral": "Биологи выявили мутации в нейронах, связанные с чрезмерным потоотделением",
+      "excerpt": "Понимание этого позволит создать первые лекарства от потливости",
+      "recap_neutral": "Понимание этого позволит создать первые лекарства от потливости",
+      "main_idea": "Биологи выявили мутации в нейронах, связанные с чрезмерным потоотделением",
       "tags": [
-        "economy"
+        "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 20:31:47 +0300",
-      "url": "https://tass.ru/ekonomika/27928049",
+      "published_at": "Fri, 17 Jul 2026 21:47:16 +0300",
+      "url": "https://tass.ru/nauka/27928123",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Axios: США перебрасывают в Израиль еще десятки воздушных заправщиков",
-      "title_neutral": "Axios: США перебрасывают в Израиль еще десятки воздушных заправщиков",
-      "excerpt": "По данным портала, американский лидер Дональд Трамп рассматривает вариант значительной эскалации ударов по Ирану",
-      "recap_neutral": "По данным портала, американский лидер Дональд Трамп рассматривает вариант значительной эскалации ударов по Ирану",
-      "main_idea": "Axios: США перебрасывают в Израиль еще десятки воздушных заправщиков",
+      "title_original": "Поддубный назвал задержание Новиковой политически мотивированным делом",
+      "title_neutral": "Поддубный назвал задержание Новиковой политически мотивированным делом",
+      "excerpt": "Заместитель генерального директора ВГТРК считает, что основательницу ассоциации SOS Donbass преследуют за привлечение внимания европейской общественности к военным преступлениям",
+      "recap_neutral": "Заместитель генерального директора ВГТРК считает, что основательницу ассоциации SOS Donbass преследуют за привлечение внимания европейской общественности к военным преступлениям",
+      "main_idea": "Поддубный назвал задержание Новиковой политически мотивированным делом",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 21:45:47 +0300",
+      "url": "https://tass.ru/politika/27928199",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Орловской области при атаке БПЛА пострадал человек",
+      "title_neutral": "В Орловской области при атаке БПЛА пострадал человек",
+      "excerpt": "Мужчина находится в реанимации",
+      "recap_neutral": "Мужчина находится в реанимации",
+      "main_idea": "В Орловской области при атаке БПЛА пострадал человек",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 20:26:37 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27928043",
+      "published_at": "Fri, 17 Jul 2026 21:44:55 +0300",
+      "url": "https://tass.ru/proisshestviya/27928185",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "На трассе Башкирии после ДТП разлилось дизельное топливо",
-      "title_neutral": "На трассе Башкирии после ДТП разлилось дизельное топливо",
-      "excerpt": "Площадь составила 150 кв. м",
-      "recap_neutral": "Площадь составила 150 кв",
-      "main_idea": "На трассе Башкирии после ДТП разлилось дизельное топливо",
+      "title_original": "В столичном регионе Франции смертность выросла вдвое из-за жары в июне",
+      "title_neutral": "В столичном регионе Франции смертность выросла вдвое из-за жары в июне",
+      "excerpt": "С 22 по 28 июня в Иль-де-Франс умерло около 3 тыс. человек",
+      "recap_neutral": "С 22 по 28 июня в Иль-де-Франс умерло около 3 тыс",
+      "main_idea": "В столичном регионе Франции смертность выросла вдвое из-за жары в июне",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 20:26:20 +0300",
-      "url": "https://tass.ru/proisshestviya/27928037",
+      "published_at": "Fri, 17 Jul 2026 21:43:07 +0300",
+      "url": "https://tass.ru/proisshestviya/27928143",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Фетисов считает, что приход Брылина в минское \"Динамо\" пойдет на пользу КХЛ",
-      "title_neutral": "Фетисов считает, что приход Брылина в минское \"Динамо\" пойдет на пользу КХЛ",
-      "excerpt": "Сергей Брылин подписал контракт с белорусским клубом на три сезона",
-      "recap_neutral": "Сергей Брылин подписал контракт с белорусским клубом на три сезона",
-      "main_idea": "Фетисов считает, что приход Брылина в минское \"Динамо\" пойдет на пользу КХЛ",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 20:25:29 +0300",
-      "url": "https://tass.ru/sport/27928051",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Захарова: Запад понял, что его планы по России на Украине провалились",
-      "title_neutral": "Захарова: Запад понял, что его планы по России на Украине провалились",
-      "excerpt": "Все будет так, как сказала Москва, заявила официальный представитель МИД РФ",
-      "recap_neutral": "Все будет так, как сказала Москва, заявила официальный представитель МИД РФ",
-      "main_idea": "Захарова: Запад понял, что его планы по России на Украине провалились",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 20:25:24 +0300",
-      "url": "https://tass.ru/politika/27928041",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Самедов считает, что Джикия может стать основным защитником \"Локомотива\"",
-      "title_neutral": "Самедов считает, что Джикия может стать основным защитником \"Локомотива\"",
-      "excerpt": "Защитник подписал контракт с железнодорожниками до июня 2027 года",
-      "recap_neutral": "Защитник подписал контракт с железнодорожниками до июня 2027 года",
-      "main_idea": "Самедов считает, что Джикия может стать основным защитником \"Локомотива\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 20:21:52 +0300",
-      "url": "https://tass.ru/sport/27928035",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В районе Харькова произошли взрывы",
-      "title_neutral": "В районе Харькова произошли взрывы",
-      "excerpt": "В Харьковской области действует режим воздушной тревоги",
-      "recap_neutral": "В Харьковской области действует режим воздушной тревоги",
-      "main_idea": "В районе Харькова произошли взрывы",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 20:20:59 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27928033",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Урале рассмотрят введение дифференцированного маткапитала за третьего ребенка",
-      "title_neutral": "На Урале рассмотрят введение дифференцированного маткапитала за третьего ребенка",
-      "excerpt": "По словам губернатора Свердловской области Дениса Паслера, также отдельное внимание уделят инфраструктуре для многодетных семей и корпоративным стандартам",
-      "recap_neutral": "По словам губернатора Свердловской области Дениса Паслера, также отдельное внимание уделят инфраструктуре для многодетных семей и корпоративным стандартам",
-      "main_idea": "На Урале рассмотрят введение дифференцированного маткапитала за третьего ребенка",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 20:20:44 +0300",
-      "url": "https://tass.ru/obschestvo/27927981",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Семак считает, что желание и заряд Месси помогают сборной Аргентины на ЧМ",
-      "title_neutral": "Семак считает, что желание и заряд Месси помогают сборной Аргентины на ЧМ",
-      "excerpt": "Аргентинцы в финале турнира сыграют с командой Испании",
-      "recap_neutral": "Аргентинцы в финале турнира сыграют с командой Испании",
-      "main_idea": "Семак считает, что желание и заряд Месси помогают сборной Аргентины на ЧМ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 20:19:42 +0300",
-      "url": "https://tass.ru/sport/27928031",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Днепропетровске произошел взрыв",
-      "title_neutral": "В Днепропетровске произошел взрыв",
-      "excerpt": "В нескольких регионах Украины объявлена воздушная тревога",
-      "recap_neutral": "В нескольких регионах Украины объявлена воздушная тревога",
-      "main_idea": "В Днепропетровске произошел взрыв",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 20:18:43 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27928027",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Kathimerini: Киев требует от Афин передать ему ЗРК Patriot и до 200 ракет PAC-2",
-      "title_neutral": "Kathimerini: Киев требует от Афин передать ему ЗРК Patriot и до 200 ракет PAC-2",
-      "excerpt": "По данным газеты, Греция находятся под новым давлением со стороны партнеров по НАТО и ЕС с требованием предоставить Украине часть батарей из шести зенитно-ракетных комплексов",
-      "recap_neutral": "По данным газеты, Греция находятся под новым давлением со стороны партнеров по НАТО и ЕС с требованием предоставить Украине часть батарей из шести зенитно-ракетных комплексов",
-      "main_idea": "Kathimerini: Киев требует от Афин передать ему ЗРК Patriot и до 200 ракет PAC-2",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 20:17:41 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27928025",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Петербурге задержали подростка за поджог автозаправки",
-      "title_neutral": "В Петербурге задержали подростка за поджог автозаправки",
-      "excerpt": "Колонка полностью уничтожена огнем, газовый модуль станции частично поврежден",
-      "recap_neutral": "Колонка полностью уничтожена огнем, газовый модуль станции частично поврежден",
-      "main_idea": "В Петербурге задержали подростка за поджог автозаправки",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 20:10:54 +0300",
-      "url": "https://tass.ru/proisshestviya/27928019",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Кадыров сообщил о завершении капремонта поврежденного при пожаре дома в Грозном",
-      "title_neutral": "Кадыров сообщил о завершении капремонта поврежденного при пожаре дома в Грозном",
-      "excerpt": "По словам главы Чечни, все поврежденные квартиры восстановлены, оснащены новой мебелью и готовы к заселению",
-      "recap_neutral": "По словам главы Чечни, все поврежденные квартиры восстановлены, оснащены новой мебелью и готовы к заселению",
-      "main_idea": "Кадыров сообщил о завершении капремонта поврежденного при пожаре дома в Грозном",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 20:09:15 +0300",
-      "url": "https://tass.ru/obschestvo/27928017",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ФАС разработала новые правила возврата ж/д билетов",
-      "title_neutral": "ФАС разработала новые правила возврата ж/д билетов",
-      "excerpt": "Решение принято для повышения их доступности и для снижения рисков покупки перекупщиками",
-      "recap_neutral": "Решение принято для повышения их доступности и для снижения рисков покупки перекупщиками",
-      "main_idea": "ФАС разработала новые правила возврата ж/д билетов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 17 Jul 2026 20:09:12 +0300",
-      "url": "https://tass.ru/ekonomika/27928021",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran War Live Updates: U.S. Hits Bridges and a Control Tower in Country’s South",
-      "title_neutral": "Iran War Live Updates: U.S. Hits Bridges and a Control Tower in Country’s South",
-      "excerpt": "The U.S. military’s Central Command said the latest round of attacks had “hit dozens of Iranian military targets” but made no mention of civilian infrastructure.",
-      "recap_neutral": "The U",
-      "main_idea": "Iran War Live Updates: U.S. Hits Bridges and a Control Tower in Country’s South",
+      "title_original": "Tasnim: Иран атаковал судно за попытку пройти Ормузский пролив",
+      "title_neutral": "Tasnim: Иран атаковал судно за попытку пройти Ормузский пролив",
+      "excerpt": "По данным агентства, корабль проигнорировал предупреждение со стороны иранских ВМС и попыталось продолжить путь в акватории пролива",
+      "recap_neutral": "По данным агентства, корабль проигнорировал предупреждение со стороны иранских ВМС и попыталось продолжить путь в акватории пролива",
+      "main_idea": "Tasnim: Иран атаковал судно за попытку пройти Ормузский пролив",
       "tags": [
         "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 21:38:37 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27928151",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На юге Кувейта из-за ударов Ирана произошли пожары",
+      "title_neutral": "На юге Кувейта из-за ударов Ирана произошли пожары",
+      "excerpt": "Пострадавших нет",
+      "recap_neutral": "Пострадавших нет",
+      "main_idea": "На юге Кувейта из-за ударов Ирана произошли пожары",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 21:36:36 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27928197",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Беспрозванных учредил медаль за содействие СВО",
+      "title_neutral": "Беспрозванных учредил медаль за содействие СВО",
+      "excerpt": "Награду уже получили директор Музея героев нового времени \"Z\" Юлия Соколова и председатель наблюдательного совета АО \"Форпост Балтики Плюс\" Станислав Миронов",
+      "recap_neutral": "Награду уже получили директор Музея героев нового времени \"Z\" Юлия Соколова и председатель наблюдательного совета АО \"Форпост Балтики Плюс\" Станислав Миронов",
+      "main_idea": "Беспрозванных учредил медаль за содействие СВО",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 21:36:08 +0300",
+      "url": "https://tass.ru/obschestvo/27928193",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ВСУ атаковали дом в центре Васильевки",
+      "title_neutral": "ВСУ атаковали дом в центре Васильевки",
+      "excerpt": "Пострадали две женщины",
+      "recap_neutral": "Пострадали две женщины",
+      "main_idea": "ВСУ атаковали дом в центре Васильевки",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 21:30:35 +0300",
+      "url": "https://tass.ru/proisshestviya/27928195",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Сумах произошел взрыв",
+      "title_neutral": "В Сумах произошел взрыв",
+      "excerpt": "В Сумской области была объявлена воздушная тревога",
+      "recap_neutral": "В Сумской области была объявлена воздушная тревога",
+      "main_idea": "В Сумах произошел взрыв",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 21:30:14 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27928183",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Бойца UFC Оздемира дисквалифицировали на 16 месяцев за допинг",
+      "title_neutral": "Бойца UFC Оздемира дисквалифицировали на 16 месяцев за допинг",
+      "excerpt": "В пробе спортсмена был обнаружен эритропоэтин",
+      "recap_neutral": "В пробе спортсмена был обнаружен эритропоэтин",
+      "main_idea": "Бойца UFC Оздемира дисквалифицировали на 16 месяцев за допинг",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 17 Jul 2026 21:29:23 +0300",
+      "url": "https://tass.ru/sport/27928191",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister",
+      "title_neutral": "Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister",
+      "excerpt": "At a time of political upheaval and economic stagnation, Andy Burnham will on Monday become the seventh prime minister in a decade.",
+      "recap_neutral": "At a time of political upheaval and economic stagnation, Andy Burnham will on Monday become the seventh prime minister in a decade",
+      "main_idea": "Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister",
+      "tags": [
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Fri, 17 Jul 2026 17:29:51 +0000",
+      "published_at": "Fri, 17 Jul 2026 18:53:00 +0000",
+      "url": "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
+      "title_neutral": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
+      "excerpt": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the US Sign up for the Breaking News US newsletter email Tens of millions of Americans are enduring another day of smoky skies, irritated eyes and bad air quality, as Canadian wildfire smoke spread a…",
+      "recap_neutral": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the US Sign up for the Breaking News US newsletter email Tens of millions of Americans are enduring another day of smok…",
+      "main_idea": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
+      "tags": [
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Fri, 17 Jul 2026 18:39:51 GMT",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran War Live Updates: Bridges and Water Plants Hit in Latest Escalation",
+      "title_neutral": "Iran War Live Updates: Bridges and Water Plants Hit in Latest Escalation",
+      "excerpt": "Iran reported U.S. strikes on infrastructure that can serve civilian purposes and has tried to attack similar targets in Gulf countries that host American bases.",
+      "recap_neutral": "Iran reported U",
+      "main_idea": "Iran War Live Updates: Bridges and Water Plants Hit in Latest Escalation",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 17 Jul 2026 18:36:57 +0000",
       "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "title_neutral": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "excerpt": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.",
+      "recap_neutral": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output",
+      "main_idea": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Fri, 17 Jul 2026 18:34:04 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
+      "title_neutral": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
+      "excerpt": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
+      "recap_neutral": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\"",
+      "main_idea": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 17 Jul 2026 18:33:12 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+      "title_neutral": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+      "excerpt": "The US Tsunami Warning Center issued a warning and has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico.",
+      "recap_neutral": "The US Tsunami Warning Center issued a warning and has recorded waves 0",
+      "main_idea": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 17 Jul 2026 18:12:54 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "7.3-Magnitude Earthquake Off Coast of Mexico and Guatemala Poses Tsunami Threat",
+      "title_neutral": "7.3-Magnitude Earthquake Off Coast of Mexico and Guatemala Poses Tsunami Threat",
+      "excerpt": "A powerful earthquake near the border of Mexico and Guatemala raised fears of a tsunami and shook buildings across three countries.",
+      "recap_neutral": "A powerful earthquake near the border of Mexico and Guatemala raised fears of a tsunami and shook buildings across three countries",
+      "main_idea": "7.3-Magnitude Earthquake Off Coast of Mexico and Guatemala Poses Tsunami Threat",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 17 Jul 2026 17:53:44 +0000",
+      "url": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Learning a few things about running SQLite",
+      "title_neutral": "Learning a few things about running SQLite",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Learning a few things about running SQLite",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 17 Jul 2026 17:45:41 +0000",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -499,6 +583,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
+      "title_neutral": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
+      "excerpt": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback.",
+      "recap_neutral": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback",
+      "main_idea": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 17 Jul 2026 17:01:16 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "China hits out at British Steel nationalisation",
       "title_neutral": "China hits out at British Steel nationalisation",
       "excerpt": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
@@ -517,20 +618,35 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "7.3-Magnitude Earthquake in Central America Sets Off Tsunami Threat",
-      "title_neutral": "7.3-Magnitude Earthquake in Central America Sets Off Tsunami Threat",
-      "excerpt": "A powerful earthquake near the border of Mexico and Guatemala raised fears of a tsunami and shook buildings across three countries.",
-      "recap_neutral": "A powerful earthquake near the border of Mexico and Guatemala raised fears of a tsunami and shook buildings across three countries",
-      "main_idea": "7.3-Magnitude Earthquake in Central America Sets Off Tsunami Threat",
+      "title_original": "Designing emoji for the way we communicate today",
+      "title_neutral": "Designing emoji for the way we communicate today",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Designing emoji for the way we communicate today",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 17 Jul 2026 16:24:13 +0000",
+      "url": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Air conditioner sparked deadly blaze at children's orphanage - police",
+      "title_neutral": "Air conditioner sparked deadly blaze at children's orphanage - police",
+      "excerpt": "Eleven people, including children, died in the fire that also injured 19 others.",
+      "recap_neutral": "Eleven people, including children, died in the fire that also injured 19 others",
+      "main_idea": "Air conditioner sparked deadly blaze at children's orphanage - police",
       "tags": [
         "tech"
       ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 17 Jul 2026 16:42:47 +0000",
-      "url": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html",
+      "source": "BBC World",
+      "published_at": "Fri, 17 Jul 2026 16:20:45 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -545,21 +661,6 @@
       "source": "NYTimes World",
       "published_at": "Fri, 17 Jul 2026 16:03:37 +0000",
       "url": "https://www.nytimes.com/2026/07/17/world/africa/uganda-bus-crash-children.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "E.U. Proposes Changes to Emissions Trading System",
-      "title_neutral": "E.U. Proposes Changes to Emissions Trading System",
-      "excerpt": "The European Union is facing a green backlash as emissions cuts become harder and require bigger overhauls to industry and livelihoods",
-      "recap_neutral": "The European Union is facing a green backlash as emissions cuts become harder and require bigger overhauls to industry and livelihoods",
-      "main_idea": "E.U. Proposes Changes to Emissions Trading System",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Fri, 17 Jul 2026 15:48:47 +0000",
-      "url": "https://www.nytimes.com/2026/07/17/climate/european-union-emissions-rollback.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -628,6 +729,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "The new $1 Trump coin doesn't just buck norms. Experts say it also breaks laws",
+      "title_neutral": "The new $1 Trump coin doesn't just buck norms. Experts say it also breaks laws",
+      "excerpt": "President Trump's face will appear on a new commemorative coin honoring the nation's 250th birthday. It's one of the many unusual places his likeness has popped up this year.",
+      "recap_neutral": "President Trump's face will appear on a new commemorative coin honoring the nation's 250th birthday",
+      "main_idea": "The new $1 Trump coin doesn't just buck norms. Experts say it also breaks laws",
+      "tags": [
+        "politics"
+      ],
+      "source": "NPR",
+      "published_at": "Fri, 17 Jul 2026 14:59:36 -0400",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5897380/trump-coin-face-laws-treasury-250",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
       "title_neutral": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
       "excerpt": "Mass migration, which defines modern Venezuela, has heavily marked the earthquake, too, saving many who had left, but also making their grief harder.",
@@ -640,23 +758,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran accuses US of hitting civilian infrastructure",
-      "title_neutral": "Iran accuses US of hitting civilian infrastructure",
-      "excerpt": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
-      "recap_neutral": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\"",
-      "main_idea": "Iran accuses US of hitting civilian infrastructure",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 17 Jul 2026 14:32:07 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -848,23 +949,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
-      "title_neutral": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
-      "excerpt": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the US Sign up for the Breaking News US newsletter email Tens of millions of Americans face another day of smoky skies, irritated eyes and bad air quality, as Canadian wildfire smoke spread again ove…",
-      "recap_neutral": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the US Sign up for the Breaking News US newsletter email Tens of millions of Americans face another day of smoky skies,…",
-      "main_idea": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
-      "tags": [
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Fri, 17 Jul 2026 13:49:33 GMT",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Uganda suspends school trips after 20 pupils die in bus crash",
       "title_neutral": "Uganda suspends school trips after 20 pupils die in bus crash",
       "excerpt": "Thousands are killed on Uganda's roads each year but this is one of its deadliest accidents involving children.",
@@ -889,21 +973,6 @@
       "source": "Hacker News",
       "published_at": "Fri, 17 Jul 2026 13:32:11 +0000",
       "url": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
-      "title_neutral": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 17 Jul 2026 13:22:33 +0000",
-      "url": "https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -995,23 +1064,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Apple targets dozens of OpenAI employees with legal letters",
-      "title_neutral": "Apple targets dozens of OpenAI employees with legal letters",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Apple targets dozens of OpenAI employees with legal letters",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Fri, 17 Jul 2026 12:02:39 +0000",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1342,23 +1394,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump's team says 'no children' died from USAID cuts. Consider these 3 cases",
-      "title_neutral": "Trump's team says 'no children' died from USAID cuts. Consider these 3 cases",
-      "excerpt": "Both Marco Rubio and Elon Musk, who led the effort to sunset the foreign aid agency, have said that no deaths have been linked to the cutting of its funding. These parents tell a different story.",
-      "recap_neutral": "Both Marco Rubio and Elon Musk, who led the effort to sunset the foreign aid agency, have said that no deaths have been linked to the cutting of its funding",
-      "main_idea": "Trump's team says 'no children' died from USAID cuts. Consider these 3 cases",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 17 Jul 2026 06:37:02 -0400",
-      "url": "https://www.npr.org/2026/07/17/g-s1-133651/usaid-elon-musk-rubio-deaths",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "The AI Layoff Story Was Always a Sales Pitch",
       "title_neutral": "The AI Layoff Story Was Always a Sales Pitch",
       "excerpt": "The same people who sold you the fear are now selling you the relief. The story follows their money. Here’s how to read it, whichever way it swings....",
@@ -1547,36 +1582,6 @@
       "source": "BBC World",
       "published_at": "Fri, 17 Jul 2026 05:09:14 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Pebble Mega Update – July 2026",
-      "title_neutral": "Pebble Mega Update – July 2026",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Pebble Mega Update – July 2026",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 17 Jul 2026 03:53:38 +0000",
-      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea",
-      "title_neutral": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea",
-      "excerpt": "Lettuce from one supplier is being removed indefinitely \"out of an abundance of caution\", the company says.",
-      "recap_neutral": "Lettuce from one supplier is being removed indefinitely \"out of an abundance of caution\", the company says",
-      "main_idea": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 17 Jul 2026 03:09:55 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
