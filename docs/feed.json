@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T10:58:21.662186+00:00",
+  "last_updated": "2026-07-18T11:54:39.235390+00:00",
   "items": [
     {
       "title_original": "Funny item co-occurrences in 3.2M Instacart orders",
@@ -116,269 +116,356 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Waldi: A quiet place to write, and to be read",
-      "title_neutral": "Waldi: A quiet place to write, and to be read",
+      "title_original": "Daily News: 90-летний американец может стать самым пожилым покорителем Килиманджаро",
+      "title_neutral": "Daily News: 90-летний американец может стать самым пожилым покорителем Килиманджаро",
+      "excerpt": "Достижение Арта Улена пока не подтверждено Книгой рекордов Гиннесса",
+      "recap_neutral": "Достижение Арта Улена пока не подтверждено Книгой рекордов Гиннесса",
+      "main_idea": "Daily News: 90-летний американец может стать самым пожилым покорителем Килиманджаро",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 14:50:52 +0300",
+      "url": "https://tass.ru/obschestvo/27929685",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Черновцах лестницу в центре города отремонтировали гранитом с надгробий",
+      "title_neutral": "В Черновцах лестницу в центре города отремонтировали гранитом с надгробий",
+      "excerpt": "На некоторых ступенях были видны части фотографий умерших",
+      "recap_neutral": "На некоторых ступенях были видны части фотографий умерших",
+      "main_idea": "В Черновцах лестницу в центре города отремонтировали гранитом с надгробий",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 14:47:00 +0300",
+      "url": "https://tass.ru/obschestvo/27929683",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Электростали и Богородском не выявили загрязнение воздуха",
+      "title_neutral": "В Электростали и Богородском не выявили загрязнение воздуха",
+      "excerpt": "Чтобы оградить себя от вдыхания сажи, жителям Московской области рекомендовали минимизировать пребывание на улице",
+      "recap_neutral": "Чтобы оградить себя от вдыхания сажи, жителям Московской области рекомендовали минимизировать пребывание на улице",
+      "main_idea": "В Электростали и Богородском не выявили загрязнение воздуха",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 14:46:27 +0300",
+      "url": "https://tass.ru/obschestvo/27929681",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Слуцкий: Киев заплатит за каждую погибшую семью и каждого раненного",
+      "title_neutral": "Слуцкий: Киев заплатит за каждую погибшую семью и каждого раненного",
+      "excerpt": "Председатель комитета Госдумы по международным делам заявил, что киевский режим давно не разбирает, где военный объект, а где \"спящий город\"",
+      "recap_neutral": "Председатель комитета Госдумы по международным делам заявил, что киевский режим давно не разбирает, где военный объект, а где \"спящий город\"",
+      "main_idea": "Слуцкий: Киев заплатит за каждую погибшую семью и каждого раненного",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 14:43:27 +0300",
+      "url": "https://tass.ru/politika/27929677",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Ленинградском зоопарке спустя три года вновь поселились скунсы",
+      "title_neutral": "В Ленинградском зоопарке спустя три года вновь поселились скунсы",
+      "excerpt": "Самка и самец прошли карантин",
+      "recap_neutral": "Самка и самец прошли карантин",
+      "main_idea": "В Ленинградском зоопарке спустя три года вновь поселились скунсы",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 14:42:43 +0300",
+      "url": "https://tass.ru/obschestvo/27929673",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Оппозиция Молдавии считает, что правительство Тофана продержится около полугода",
+      "title_neutral": "Оппозиция Молдавии считает, что правительство Тофана продержится около полугода",
+      "excerpt": "Лидер оппозиционной \"Нашей партии\" Ренато Усатый отметил, что кабмин республики на три четверти состоит из прежних министров, которые ввергли страну в кризис",
+      "recap_neutral": "Лидер оппозиционной \"Нашей партии\" Ренато Усатый отметил, что кабмин республики на три четверти состоит из прежних министров, которые ввергли страну в кризис",
+      "main_idea": "Оппозиция Молдавии считает, что правительство Тофана продержится около полугода",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 14:41:13 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929667",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Захарова назвала ремилитаризацию фашизма следствием общезападной логики",
+      "title_neutral": "Захарова назвала ремилитаризацию фашизма следствием общезападной логики",
+      "excerpt": "",
+      "recap_neutral": "Захарова назвала ремилитаризацию фашизма следствием общезападной логики",
+      "main_idea": "Захарова назвала ремилитаризацию фашизма следствием общезападной логики",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 14:41:03 +0300",
+      "url": "https://tass.ru/politika/27929675",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Тамбовской области потушили пожар после атаки БПЛА на склад Wildberries",
+      "title_neutral": "В Тамбовской области потушили пожар после атаки БПЛА на склад Wildberries",
+      "excerpt": "Открытое горение ликвидировали в 04:08 мск",
+      "recap_neutral": "Открытое горение ликвидировали в 04:08 мск",
+      "main_idea": "В Тамбовской области потушили пожар после атаки БПЛА на склад Wildberries",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 14:38:03 +0300",
+      "url": "https://tass.ru/proisshestviya/27929669",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Посольство Франции в Ереване подтвердило отравление гостей на приеме 14 июля",
+      "title_neutral": "Посольство Франции в Ереване подтвердило отравление гостей на приеме 14 июля",
+      "excerpt": "Данных о числе пострадавших нет",
+      "recap_neutral": "Данных о числе пострадавших нет",
+      "main_idea": "Посольство Франции в Ереване подтвердило отравление гостей на приеме 14 июля",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 14:36:21 +0300",
+      "url": "https://tass.ru/obschestvo/27929661",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В МЧС предупредили о сильной жаре в Москве",
+      "title_neutral": "В МЧС предупредили о сильной жаре в Москве",
+      "excerpt": "В столице 19 и 20 июля ожидают 30 градусов в дневные часы",
+      "recap_neutral": "В столице 19 и 20 июля ожидают 30 градусов в дневные часы",
+      "main_idea": "В МЧС предупредили о сильной жаре в Москве",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 14:35:36 +0300",
+      "url": "https://tass.ru/obschestvo/27929659",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В КБР фестиваль народных промыслов посвятили заздравной чаше",
+      "title_neutral": "В КБР фестиваль народных промыслов посвятили заздравной чаше",
+      "excerpt": "На выставке представили образцы, хранящиеся в семьях и музеях",
+      "recap_neutral": "На выставке представили образцы, хранящиеся в семьях и музеях",
+      "main_idea": "В КБР фестиваль народных промыслов посвятили заздравной чаше",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 14:31:33 +0300",
+      "url": "https://tass.ru/obschestvo/27929657",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Соловьев оказался в эпицентре атаки украинского БПЛА на трассе \"Новороссия\"",
+      "title_neutral": "Соловьев оказался в эпицентре атаки украинского БПЛА на трассе \"Новороссия\"",
+      "excerpt": "Телеведущий с командой работал там над документальным проектом",
+      "recap_neutral": "Телеведущий с командой работал там над документальным проектом",
+      "main_idea": "Соловьев оказался в эпицентре атаки украинского БПЛА на трассе \"Новороссия\"",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 14:29:39 +0300",
+      "url": "https://tass.ru/obschestvo/27929665",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Сутки отдыха на базе в Ставрополье, где отравились люди, стоят до 25 тыс. рублей",
+      "title_neutral": "Сутки отдыха на базе в Ставрополье, где отравились люди, стоят до 25 тыс. рублей",
+      "excerpt": "В стоимость входит завтрак, обед и ужин",
+      "recap_neutral": "В стоимость входит завтрак, обед и ужин",
+      "main_idea": "Сутки отдыха на базе в Ставрополье, где отравились люди, стоят до 25 тыс. рублей",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 14:28:20 +0300",
+      "url": "https://tass.ru/obschestvo/27929663",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Минске считают неоправданным раздувание темы трудовой миграции в Белоруссию",
+      "title_neutral": "В Минске считают неоправданным раздувание темы трудовой миграции в Белоруссию",
+      "excerpt": "Глава администрации белорусского президента Дмитрий Крутой назвал это \"горячим хайпом\" для беглой оппозиции",
+      "recap_neutral": "Глава администрации белорусского президента Дмитрий Крутой назвал это \"горячим хайпом\" для беглой оппозиции",
+      "main_idea": "В Минске считают неоправданным раздувание темы трудовой миграции в Белоруссию",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 14:22:19 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929615",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В столице заработали еще три участка новых выделенных полос",
+      "title_neutral": "В столице заработали еще три участка новых выделенных полос",
+      "excerpt": "В 2026 году заработали девять участков общей протяженностью почти 4 км",
+      "recap_neutral": "В 2026 году заработали девять участков общей протяженностью почти 4 км",
+      "main_idea": "В столице заработали еще три участка новых выделенных полос",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 14:21:14 +0300",
+      "url": "https://tass.ru/obschestvo/27929567",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US strikes hit Iran for seventh consecutive night",
+      "title_neutral": "US strikes hit Iran for seventh consecutive night",
+      "excerpt": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+      "recap_neutral": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit",
+      "main_idea": "US strikes hit Iran for seventh consecutive night",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 18 Jul 2026 11:48:44 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "They Called Sam Neill ‘Skux.’ (It Was a Compliment.)",
+      "title_neutral": "They Called Sam Neill ‘Skux.’ (It Was a Compliment.)",
+      "excerpt": "The New Zealand slang word, dating back to the 1990s, was pulled back into circulation in tributes to the actor, who died on Tuesday.",
+      "recap_neutral": "The New Zealand slang word, dating back to the 1990s, was pulled back into circulation in tributes to the actor, who died on Tuesday",
+      "main_idea": "They Called Sam Neill ‘Skux.’ (It Was a Compliment.)",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sat, 18 Jul 2026 11:26:00 +0000",
+      "url": "https://www.nytimes.com/2026/07/18/world/australia/new-zealand-sam-neill-skux-meaning.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
+      "title_neutral": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
+      "excerpt": "In the days since the cease-fire unraveled, the U.S. and Iran have expanded the scope of their attacks, with reports of water facilities and other structures coming under fire.",
+      "recap_neutral": "In the days since the cease-fire unraveled, the U",
+      "main_idea": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 18 Jul 2026 11:18:01 +0000",
+      "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "In Bangladesh, Argentina’s Soccer Team Finds a Huge Fan Base",
+      "title_neutral": "In Bangladesh, Argentina’s Soccer Team Finds a Huge Fan Base",
+      "excerpt": "Bangladesh has never qualified for the World Cup. But every four years, many in the country adopt Argentina’s team as their own.",
+      "recap_neutral": "Bangladesh has never qualified for the World Cup",
+      "main_idea": "In Bangladesh, Argentina’s Soccer Team Finds a Huge Fan Base",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sat, 18 Jul 2026 11:16:32 +0000",
+      "url": "https://www.nytimes.com/2026/07/18/world/asia/world-cup-bangladesh-argentina-fans.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "What AI did to stackoverflow in a graph",
+      "title_neutral": "What AI did to stackoverflow in a graph",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Waldi: A quiet place to write, and to be read",
-      "tags": [],
+      "main_idea": "What AI did to stackoverflow in a graph",
+      "tags": [
+        "tech"
+      ],
       "source": "Hacker News",
-      "published_at": "Sun, 12 Jul 2026 11:26:46 +0000",
-      "url": "https://github.com/waaldev/waldi",
+      "published_at": "Sat, 18 Jul 2026 11:12:46 +0000",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Политик Мема: ФРГ приблизится к войне с Россией, разместив у себя Tomahawk",
-      "title_neutral": "Политик Мема: ФРГ приблизится к войне с Россией, разместив у себя Tomahawk",
-      "excerpt": "По мнению члена финской национально-консервативной партии \"Альянс свободы\", Берлин вместо дипломатии хочет показать Москве свои \"зубы\"",
-      "recap_neutral": "По мнению члена финской национально-консервативной партии \"Альянс свободы\", Берлин вместо дипломатии хочет показать Москве свои \"зубы\"",
-      "main_idea": "Политик Мема: ФРГ приблизится к войне с Россией, разместив у себя Tomahawk",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 13:56:58 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929631",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Учителя против учеников. Красивые сюжеты финала чемпионата мира по футболу",
-      "title_neutral": "Учителя против учеников. Красивые сюжеты финала чемпионата мира по футболу",
-      "excerpt": "Наставник сборной Испании Луис де ла Фуэнте на тренерских курсах был преподавателем Лионеля Скалони, возглавляющего сейчас команду Аргентины",
-      "recap_neutral": "Наставник сборной Испании Луис де ла Фуэнте на тренерских курсах был преподавателем Лионеля Скалони, возглавляющего сейчас команду Аргентины",
-      "main_idea": "Учителя против учеников. Красивые сюжеты финала чемпионата мира по футболу",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 13:56:53 +0300",
-      "url": "https://tass.ru/sport/27929619",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ВСУ обстреляли свинокомплекс в Брянской области",
-      "title_neutral": "ВСУ обстреляли свинокомплекс в Брянской области",
-      "excerpt": "Повреждены несколько производственных корпусов",
-      "recap_neutral": "Повреждены несколько производственных корпусов",
-      "main_idea": "ВСУ обстреляли свинокомплекс в Брянской области",
+      "title_original": "Laos says it can't determine cause of tourist deaths linked to methanol",
+      "title_neutral": "Laos says it can't determine cause of tourist deaths linked to methanol",
+      "excerpt": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
+      "recap_neutral": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted",
+      "main_idea": "Laos says it can't determine cause of tourist deaths linked to methanol",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 13:53:35 +0300",
-      "url": "https://tass.ru/proisshestviya/27929627",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Sat, 18 Jul 2026 11:10:20 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В ФРГ назвали обоснованным возвращение молодых украинцев в зону боевых действий",
-      "title_neutral": "В ФРГ назвали обоснованным возвращение молодых украинцев в зону боевых действий",
-      "excerpt": "Уклонение от военной службы не является основанием для предоставления убежища, заявил министр внутренних дел Германии Александер Добриндт",
-      "recap_neutral": "Уклонение от военной службы не является основанием для предоставления убежища, заявил министр внутренних дел Германии Александер Добриндт",
-      "main_idea": "В ФРГ назвали обоснованным возвращение молодых украинцев в зону боевых действий",
+      "title_original": "Why do AI company logos look like buttholes?",
+      "title_neutral": "Why do AI company logos look like buttholes?",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Why do AI company logos look like buttholes?",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 13:49:56 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929623",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Китай предупредил о готовности принять меры из-за национализации British Steel",
-      "title_neutral": "Китай предупредил о готовности принять меры из-за национализации British Steel",
-      "excerpt": "МИД КНР заявил, что действия Лондона напрямую повлияют на оценку китайскими инвесторами деловой среды Великобритании",
-      "recap_neutral": "МИД КНР заявил, что действия Лондона напрямую повлияют на оценку китайскими инвесторами деловой среды Великобритании",
-      "main_idea": "Китай предупредил о готовности принять меры из-за национализации British Steel",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 13:48:27 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929613",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Подмосковье открыли экспозицию ракетных войск стратегического назначения",
-      "title_neutral": "В Подмосковье открыли экспозицию ракетных войск стратегического назначения",
-      "excerpt": "На выставке представили макеты техники разных периодов",
-      "recap_neutral": "На выставке представили макеты техники разных периодов",
-      "main_idea": "В Подмосковье открыли экспозицию ракетных войск стратегического назначения",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 13:45:50 +0300",
-      "url": "https://tass.ru/obschestvo/27929611",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Партия социалистов Молдавии намерена потребовать на протестах отставки власти",
-      "title_neutral": "Партия социалистов Молдавии намерена потребовать на протестах отставки власти",
-      "excerpt": "Лидер крупнейшей в стране оппозиционной политической силы Игорь Додон заявил, что жители республики возмущены намерением правительства повысить тариф на газ",
-      "recap_neutral": "Лидер крупнейшей в стране оппозиционной политической силы Игорь Додон заявил, что жители республики возмущены намерением правительства повысить тариф на газ",
-      "main_idea": "Партия социалистов Молдавии намерена потребовать на протестах отставки власти",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 13:45:37 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929601",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Глава МВД Германии заявил о высокой угрозе терактов в стране",
-      "title_neutral": "Глава МВД Германии заявил о высокой угрозе терактов в стране",
-      "excerpt": "Александер Добриндт утверждает, что планы нападений на ФРГ \"четко прослеживаются - причем не только против немецкой инфраструктуры, но и против отдельных лиц или учреждений\"",
-      "recap_neutral": "Александер Добриндт утверждает, что планы нападений на ФРГ \"четко прослеживаются - причем не только против немецкой инфраструктуры, но и против отдельных лиц или учреждений\"",
-      "main_idea": "Глава МВД Германии заявил о высокой угрозе терактов в стране",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 13:43:55 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929609",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Ингушетии нашли древний головной убор девушки со следами убийства",
-      "title_neutral": "В Ингушетии нашли древний головной убор девушки со следами убийства",
-      "excerpt": "Предположительно, ее убили копьем",
-      "recap_neutral": "Предположительно, ее убили копьем",
-      "main_idea": "В Ингушетии нашли древний головной убор девушки со следами убийства",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 13:42:47 +0300",
-      "url": "https://tass.ru/obschestvo/27929607",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Иран обвинил США в желании нарушить его транзитные маршруты с другими странами",
-      "title_neutral": "Иран обвинил США в желании нарушить его транзитные маршруты с другими странами",
-      "excerpt": "Противник пытается изолировать республику от региональной и международной коммуникационной сети, сообщила иранский министр дорог и городского развития Фарзане Садег",
-      "recap_neutral": "Противник пытается изолировать республику от региональной и международной коммуникационной сети, сообщила иранский министр дорог и городского развития Фарзане Садег",
-      "main_idea": "Иран обвинил США в желании нарушить его транзитные маршруты с другими странами",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 13:41:02 +0300",
-      "url": "https://tass.ru/ekonomika/27929599",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "По направлению Московского региона с 11 июля по 18 июля летели 1 892 БПЛА",
-      "title_neutral": "По направлению Московского региона с 11 июля по 18 июля летели 1 892 БПЛА",
-      "excerpt": "Большую часть из них нейтрализовали силы ПВО на дальних подступах",
-      "recap_neutral": "Большую часть из них нейтрализовали силы ПВО на дальних подступах",
-      "main_idea": "По направлению Московского региона с 11 июля по 18 июля летели 1 892 БПЛА",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 13:40:47 +0300",
-      "url": "https://tass.ru/proisshestviya/27929605",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Во Франции назвали причину остановки реакторов АЭС",
-      "title_neutral": "Во Франции назвали причину остановки реакторов АЭС",
-      "excerpt": "Французская государственная энергокомпания EDF указала, что причиной стала экстремальная жара",
-      "recap_neutral": "Французская государственная энергокомпания EDF указала, что причиной стала экстремальная жара",
-      "main_idea": "Во Франции назвали причину остановки реакторов АЭС",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 13:39:55 +0300",
-      "url": "https://tass.ru/ekonomika/27929589",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Еврейская община: Молдавия игнорирует протесты против героизации нацизма",
-      "title_neutral": "Еврейская община: Молдавия игнорирует протесты против героизации нацизма",
-      "excerpt": "В новых школьных учебниках приводятся лишь общие фразы, которые скрывают жестокость событий и преуменьшают роль Румынии как союзника Третьего рейха, а задания подталкивают школьников к поиску положительных сторон фашистских организаций",
-      "recap_neutral": "В новых школьных учебниках приводятся лишь общие фразы, которые скрывают жестокость событий и преуменьшают роль Румынии как союзника Третьего рейха, а задания подталкивают школьников к поиску положительных сторон фашист…",
-      "main_idea": "Еврейская община: Молдавия игнорирует протесты против героизации нацизма",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 13:37:20 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929571",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ТАСС: в Москве арестовали главу ЧВК \"Паладин\" Закревского",
-      "title_neutral": "ТАСС: в Москве арестовали главу ЧВК \"Паладин\" Закревского",
-      "excerpt": "Его отправили под стражу по делу об оправдании терроризма",
-      "recap_neutral": "Его отправили под стражу по делу об оправдании терроризма",
-      "main_idea": "ТАСС: в Москве арестовали главу ЧВК \"Паладин\" Закревского",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 13:35:52 +0300",
-      "url": "https://tass.ru/proisshestviya/27929585",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Головин забил гол за \"Монако\" в первом предсезонном матче",
-      "title_neutral": "Головин забил гол за \"Монако\" в первом предсезонном матче",
-      "excerpt": "\"Монако\" со счетом 5:2 обыграл французский \"Сен-При\"",
-      "recap_neutral": "\"Монако\" со счетом 5:2 обыграл французский \"Сен-При\"",
-      "main_idea": "Головин забил гол за \"Монако\" в первом предсезонном матче",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 13:33:48 +0300",
-      "url": "https://tass.ru/sport/27929597",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Sat, 18 Jul 2026 11:06:50 +0000",
+      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -416,20 +503,21 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
-      "title_neutral": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
-      "excerpt": "In the days since the cease-fire unraveled, the U.S. and Iran have expanded the scope of their attacks, with reports of water facilities and other structures coming under fire.",
-      "recap_neutral": "In the days since the cease-fire unraveled, the U",
-      "main_idea": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
+      "title_original": "LG monitors silently install software through Windows Update without consent",
+      "title_neutral": "LG monitors silently install software through Windows Update without consent",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "LG monitors silently install software through Windows Update without consent",
       "tags": [
-        "conflict"
+        "conflict",
+        "tech"
       ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 18 Jul 2026 10:43:06 +0000",
-      "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+      "source": "Hacker News",
+      "published_at": "Sat, 18 Jul 2026 10:21:19 +0000",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -460,21 +548,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Laos says it can't determine cause of tourist deaths linked to methanol",
-      "title_neutral": "Laos says it can't determine cause of tourist deaths linked to methanol",
-      "excerpt": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
-      "recap_neutral": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted",
-      "main_idea": "Laos says it can't determine cause of tourist deaths linked to methanol",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 18 Jul 2026 09:30:32 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -627,24 +700,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "US strikes hit Iran for seventh consecutive night",
-      "title_neutral": "US strikes hit Iran for seventh consecutive night",
-      "excerpt": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
-      "recap_neutral": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit",
-      "main_idea": "US strikes hit Iran for seventh consecutive night",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 18 Jul 2026 07:33:40 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Space start-up launches India’s first commercial rocket designed for orbit",
       "title_neutral": "Space start-up launches India’s first commercial rocket designed for orbit",
       "excerpt": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
@@ -762,21 +817,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "They Called Sam Neill ‘Skux.’ (It Was a Compliment.)",
-      "title_neutral": "They Called Sam Neill ‘Skux.’ (It Was a Compliment.)",
-      "excerpt": "The New Zealand slang word, dating back to the 1990s, was pulled back into circulation in tributes to the actor, who died on Tuesday.",
-      "recap_neutral": "The New Zealand slang word, dating back to the 1990s, was pulled back into circulation in tributes to the actor, who died on Tuesday",
-      "main_idea": "They Called Sam Neill ‘Skux.’ (It Was a Compliment.)",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sat, 18 Jul 2026 04:01:05 +0000",
-      "url": "https://www.nytimes.com/2026/07/18/world/australia/new-zealand-sam-neill-skux-meaning.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
       "title_neutral": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
       "excerpt": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra, Heavy J dipped a brush into red oil paint and dabbed it carefull…",
@@ -840,11 +880,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "U.S. and Iran escalate strikes across Mideast",
-      "title_neutral": "U.S. and Iran escalate strikes across Mideast",
+      "title_original": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
+      "title_neutral": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
       "excerpt": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified.",
       "recap_neutral": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified",
-      "main_idea": "U.S. and Iran escalate strikes across Mideast",
+      "main_idea": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
       "tags": [
         "conflict",
         "tech"
@@ -953,21 +993,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "title_neutral": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 17 Jul 2026 21:42:43 +0000",
-      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1276,21 +1301,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Learning a few things about running SQLite",
-      "title_neutral": "Learning a few things about running SQLite",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Learning a few things about running SQLite",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 17 Jul 2026 17:45:41 +0000",
-      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
       "title_neutral": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
       "excerpt": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback.",
@@ -1424,21 +1434,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
-      "title_neutral": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
-      "excerpt": "Mass migration, which defines modern Venezuela, has heavily marked the earthquake, too, saving many who had left, but also making their grief harder.",
-      "recap_neutral": "Mass migration, which defines modern Venezuela, has heavily marked the earthquake, too, saving many who had left, but also making their grief harder",
-      "main_idea": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Fri, 17 Jul 2026 14:50:01 +0000",
-      "url": "https://www.nytimes.com/2026/07/17/world/americas/venezuela-earthquakes-families-migration.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
