@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-07-18T09:53:43.974698+00:00",
+  "last_updated": "2026-07-18T10:58:21.662186+00:00",
   "items": [
+    {
+      "title_original": "Funny item co-occurrences in 3.2M Instacart orders",
+      "title_neutral": "Funny item co-occurrences in 3.2M Instacart orders",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Funny item co-occurrences in 3.2M Instacart orders",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 15 Jul 2026 17:06:43 +0000",
+      "url": "https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
     {
       "title_original": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
       "title_neutral": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
@@ -83,23 +98,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner",
-      "title_neutral": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner",
-      "excerpt": "Banner refers to Falkland Islands conflict in 1982 UK business secretary calls for Fifa investigation The Argentina players celebrated their World Cup win over England with a banner saying “ Las Malvinas son Argentinas ”, making reference to the 1982 Falklands war . Argentina were 1-0 down with fiv…",
-      "recap_neutral": "Banner refers to Falkland Islands conflict in 1982 UK business secretary calls for Fifa investigation The Argentina players celebrated their World Cup win over England with a banner saying “ Las Malvinas son Argentinas…",
-      "main_idea": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner",
-      "tags": [
-        "conflict"
-      ],
-      "source": "The Guardian",
-      "published_at": "Thu, 16 Jul 2026 08:13:50 GMT",
-      "url": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
       "title_neutral": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
       "excerpt": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targets A former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insight into how the north African state used hacking software – including Pegasus…",
@@ -133,243 +131,335 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Число отравившихся на базе отдыха на Ставрополье увеличилось до 80",
-      "title_neutral": "Число отравившихся на базе отдыха на Ставрополье увеличилось до 80",
-      "excerpt": "Среди них более 20 детей",
-      "recap_neutral": "Среди них более 20 детей",
-      "main_idea": "Число отравившихся на базе отдыха на Ставрополье увеличилось до 80",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 12:49:09 +0300",
-      "url": "https://tass.ru/proisshestviya/27929493",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Глазьев рассказал, из-за чего Украина потеряла 50% экономического потенциала",
-      "title_neutral": "Глазьев рассказал, из-за чего Украина потеряла 50% экономического потенциала",
-      "excerpt": "Государственный секретарь Союзного государства объяснил, что это произошло из-за отказа от интеграции с Росией",
-      "recap_neutral": "Государственный секретарь Союзного государства объяснил, что это произошло из-за отказа от интеграции с Росией",
-      "main_idea": "Глазьев рассказал, из-за чего Украина потеряла 50% экономического потенциала",
-      "tags": [
-        "economy",
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 12:47:45 +0300",
-      "url": "https://tass.ru/politika/27929449",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Херсонской области при атаках ВСУ погиб один человек",
-      "title_neutral": "В Херсонской области при атаках ВСУ погиб один человек",
-      "excerpt": "Также ранены восемь мирных жителей",
-      "recap_neutral": "Также ранены восемь мирных жителей",
-      "main_idea": "В Херсонской области при атаках ВСУ погиб один человек",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 12:47:42 +0300",
-      "url": "https://tass.ru/proisshestviya/27929487",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Экс-глава МИД ФРГ призвал Европу пойти на переговоры с Россией",
-      "title_neutral": "Экс-глава МИД ФРГ призвал Европу пойти на переговоры с Россией",
-      "excerpt": "Зигмар Габриэль заявил, что для европейских стран не существует никаких рисков, в то время как Москва дала сигнал о готовности вести дипломатию с Западом",
-      "recap_neutral": "Зигмар Габриэль заявил, что для европейских стран не существует никаких рисков, в то время как Москва дала сигнал о готовности вести дипломатию с Западом",
-      "main_idea": "Экс-глава МИД ФРГ призвал Европу пойти на переговоры с Россией",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 12:46:38 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929489",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропорту Калуги сняли ограничения",
-      "title_neutral": "В аэропорту Калуги сняли ограничения",
-      "excerpt": "",
-      "recap_neutral": "В аэропорту Калуги сняли ограничения",
-      "main_idea": "В аэропорту Калуги сняли ограничения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 12:46:34 +0300",
-      "url": "https://tass.ru/ekonomika/27929501",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Бурятии назвали причину ДТП с пятью подростками",
-      "title_neutral": "В Бурятии назвали причину ДТП с пятью подростками",
-      "excerpt": "Авария произошла из-за попытки разворота одного из подростков",
-      "recap_neutral": "Авария произошла из-за попытки разворота одного из подростков",
-      "main_idea": "В Бурятии назвали причину ДТП с пятью подростками",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 12:46:00 +0300",
-      "url": "https://tass.ru/proisshestviya/27929485",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "После атаки ВСУ в Подмосковье 30 пострадавших находятся в больницах Минздрава",
-      "title_neutral": "После атаки ВСУ в Подмосковье 30 пострадавших находятся в больницах Минздрава",
-      "excerpt": "",
-      "recap_neutral": "После атаки ВСУ в Подмосковье 30 пострадавших находятся в больницах Минздрава",
-      "main_idea": "После атаки ВСУ в Подмосковье 30 пострадавших находятся в больницах Минздрава",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 12:45:59 +0300",
-      "url": "https://tass.ru/obschestvo/27929491",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Захарова рассказала, как споры с отцом по школьным сочинениям помогают в дебатах",
-      "title_neutral": "Захарова рассказала, как споры с отцом по школьным сочинениям помогают в дебатах",
-      "excerpt": "Они стали \"школой логики и железобетонных аргументов\", что теперь помогает в работе, заявила дипломат",
-      "recap_neutral": "Они стали \"школой логики и железобетонных аргументов\", что теперь помогает в работе, заявила дипломат",
-      "main_idea": "Захарова рассказала, как споры с отцом по школьным сочинениям помогают в дебатах",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 12:41:12 +0300",
-      "url": "https://tass.ru/obschestvo/27929483",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Что известно о спонсорской модели ФИФА и рекордных контрактах",
-      "title_neutral": "Что известно о спонсорской модели ФИФА и рекордных контрактах",
-      "excerpt": "",
-      "recap_neutral": "Что известно о спонсорской модели ФИФА и рекордных контрактах",
-      "main_idea": "Что известно о спонсорской модели ФИФА и рекордных контрактах",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 12:36:11 +0300",
-      "url": "https://tass.ru/info/27929477",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Норвегии после крупного пожара эвакуировали более 400 человек",
-      "title_neutral": "В Норвегии после крупного пожара эвакуировали более 400 человек",
-      "excerpt": "Огонь уничтожил свыше 100 домов",
-      "recap_neutral": "Огонь уничтожил свыше 100 домов",
-      "main_idea": "В Норвегии после крупного пожара эвакуировали более 400 человек",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 12:36:11 +0300",
-      "url": "https://tass.ru/proisshestviya/27929475",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Рязанской области отменили беспилотную опасность",
-      "title_neutral": "В Рязанской области отменили беспилотную опасность",
-      "excerpt": "Об этом предупредили в РСЧС региона",
-      "recap_neutral": "Об этом предупредили в РСЧС региона",
-      "main_idea": "В Рязанской области отменили беспилотную опасность",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 12:36:04 +0300",
-      "url": "https://tass.ru/proisshestviya/27929471",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Минздраве рассказали о состоянии пострадавших из-за атаки ВСУ под Тамбовом",
-      "title_neutral": "В Минздраве рассказали о состоянии пострадавших из-за атаки ВСУ под Тамбовом",
-      "excerpt": "Восемь человек находятся в тяжелом состоянии, еще пятеро получили медпомощь амбулаторно",
-      "recap_neutral": "Восемь человек находятся в тяжелом состоянии, еще пятеро получили медпомощь амбулаторно",
-      "main_idea": "В Минздраве рассказали о состоянии пострадавших из-за атаки ВСУ под Тамбовом",
+      "title_original": "Политик Мема: ФРГ приблизится к войне с Россией, разместив у себя Tomahawk",
+      "title_neutral": "Политик Мема: ФРГ приблизится к войне с Россией, разместив у себя Tomahawk",
+      "excerpt": "По мнению члена финской национально-консервативной партии \"Альянс свободы\", Берлин вместо дипломатии хочет показать Москве свои \"зубы\"",
+      "recap_neutral": "По мнению члена финской национально-консервативной партии \"Альянс свободы\", Берлин вместо дипломатии хочет показать Москве свои \"зубы\"",
+      "main_idea": "Политик Мема: ФРГ приблизится к войне с Россией, разместив у себя Tomahawk",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 12:34:58 +0300",
-      "url": "https://tass.ru/obschestvo/27929473",
+      "published_at": "Sat, 18 Jul 2026 13:56:58 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929631",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Рублев считает, что ему нечего терять в полуфинале турнира ATP в Бостаде",
-      "title_neutral": "Рублев считает, что ему нечего терять в полуфинале турнира ATP в Бостаде",
-      "excerpt": "В полуфинальном матче россиянин встретится с чилийцем Алехандро Табило",
-      "recap_neutral": "В полуфинальном матче россиянин встретится с чилийцем Алехандро Табило",
-      "main_idea": "Рублев считает, что ему нечего терять в полуфинале турнира ATP в Бостаде",
-      "tags": [],
+      "title_original": "Учителя против учеников. Красивые сюжеты финала чемпионата мира по футболу",
+      "title_neutral": "Учителя против учеников. Красивые сюжеты финала чемпионата мира по футболу",
+      "excerpt": "Наставник сборной Испании Луис де ла Фуэнте на тренерских курсах был преподавателем Лионеля Скалони, возглавляющего сейчас команду Аргентины",
+      "recap_neutral": "Наставник сборной Испании Луис де ла Фуэнте на тренерских курсах был преподавателем Лионеля Скалони, возглавляющего сейчас команду Аргентины",
+      "main_idea": "Учителя против учеников. Красивые сюжеты финала чемпионата мира по футболу",
+      "tags": [
+        "tech"
+      ],
       "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 12:34:34 +0300",
-      "url": "https://tass.ru/sport/27929467",
+      "published_at": "Sat, 18 Jul 2026 13:56:53 +0300",
+      "url": "https://tass.ru/sport/27929619",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "На севере Украины повреждена автозаправка",
-      "title_neutral": "На севере Украины повреждена автозаправка",
-      "excerpt": "Она находится в Чернигове",
-      "recap_neutral": "Она находится в Чернигове",
-      "main_idea": "На севере Украины повреждена автозаправка",
+      "title_original": "ВСУ обстреляли свинокомплекс в Брянской области",
+      "title_neutral": "ВСУ обстреляли свинокомплекс в Брянской области",
+      "excerpt": "Повреждены несколько производственных корпусов",
+      "recap_neutral": "Повреждены несколько производственных корпусов",
+      "main_idea": "ВСУ обстреляли свинокомплекс в Брянской области",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 12:32:05 +0300",
-      "url": "https://tass.ru/proisshestviya/27929465",
+      "published_at": "Sat, 18 Jul 2026 13:53:35 +0300",
+      "url": "https://tass.ru/proisshestviya/27929627",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Москве более чем на сутки объявили оранжевый уровень опасности из-за жары",
-      "title_neutral": "В Москве более чем на сутки объявили оранжевый уровень опасности из-за жары",
-      "excerpt": "В городе ожидается до 30 градусов",
-      "recap_neutral": "В городе ожидается до 30 градусов",
-      "main_idea": "В Москве более чем на сутки объявили оранжевый уровень опасности из-за жары",
-      "tags": [],
+      "title_original": "В ФРГ назвали обоснованным возвращение молодых украинцев в зону боевых действий",
+      "title_neutral": "В ФРГ назвали обоснованным возвращение молодых украинцев в зону боевых действий",
+      "excerpt": "Уклонение от военной службы не является основанием для предоставления убежища, заявил министр внутренних дел Германии Александер Добриндт",
+      "recap_neutral": "Уклонение от военной службы не является основанием для предоставления убежища, заявил министр внутренних дел Германии Александер Добриндт",
+      "main_idea": "В ФРГ назвали обоснованным возвращение молодых украинцев в зону боевых действий",
+      "tags": [
+        "tech"
+      ],
       "source": "ТАСС",
-      "published_at": "Sat, 18 Jul 2026 12:27:53 +0300",
-      "url": "https://tass.ru/obschestvo/27929439",
+      "published_at": "Sat, 18 Jul 2026 13:49:56 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929623",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Китай предупредил о готовности принять меры из-за национализации British Steel",
+      "title_neutral": "Китай предупредил о готовности принять меры из-за национализации British Steel",
+      "excerpt": "МИД КНР заявил, что действия Лондона напрямую повлияют на оценку китайскими инвесторами деловой среды Великобритании",
+      "recap_neutral": "МИД КНР заявил, что действия Лондона напрямую повлияют на оценку китайскими инвесторами деловой среды Великобритании",
+      "main_idea": "Китай предупредил о готовности принять меры из-за национализации British Steel",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 13:48:27 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929613",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Подмосковье открыли экспозицию ракетных войск стратегического назначения",
+      "title_neutral": "В Подмосковье открыли экспозицию ракетных войск стратегического назначения",
+      "excerpt": "На выставке представили макеты техники разных периодов",
+      "recap_neutral": "На выставке представили макеты техники разных периодов",
+      "main_idea": "В Подмосковье открыли экспозицию ракетных войск стратегического назначения",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 13:45:50 +0300",
+      "url": "https://tass.ru/obschestvo/27929611",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Партия социалистов Молдавии намерена потребовать на протестах отставки власти",
+      "title_neutral": "Партия социалистов Молдавии намерена потребовать на протестах отставки власти",
+      "excerpt": "Лидер крупнейшей в стране оппозиционной политической силы Игорь Додон заявил, что жители республики возмущены намерением правительства повысить тариф на газ",
+      "recap_neutral": "Лидер крупнейшей в стране оппозиционной политической силы Игорь Додон заявил, что жители республики возмущены намерением правительства повысить тариф на газ",
+      "main_idea": "Партия социалистов Молдавии намерена потребовать на протестах отставки власти",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 13:45:37 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929601",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Глава МВД Германии заявил о высокой угрозе терактов в стране",
+      "title_neutral": "Глава МВД Германии заявил о высокой угрозе терактов в стране",
+      "excerpt": "Александер Добриндт утверждает, что планы нападений на ФРГ \"четко прослеживаются - причем не только против немецкой инфраструктуры, но и против отдельных лиц или учреждений\"",
+      "recap_neutral": "Александер Добриндт утверждает, что планы нападений на ФРГ \"четко прослеживаются - причем не только против немецкой инфраструктуры, но и против отдельных лиц или учреждений\"",
+      "main_idea": "Глава МВД Германии заявил о высокой угрозе терактов в стране",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 13:43:55 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929609",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Ингушетии нашли древний головной убор девушки со следами убийства",
+      "title_neutral": "В Ингушетии нашли древний головной убор девушки со следами убийства",
+      "excerpt": "Предположительно, ее убили копьем",
+      "recap_neutral": "Предположительно, ее убили копьем",
+      "main_idea": "В Ингушетии нашли древний головной убор девушки со следами убийства",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 13:42:47 +0300",
+      "url": "https://tass.ru/obschestvo/27929607",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Иран обвинил США в желании нарушить его транзитные маршруты с другими странами",
+      "title_neutral": "Иран обвинил США в желании нарушить его транзитные маршруты с другими странами",
+      "excerpt": "Противник пытается изолировать республику от региональной и международной коммуникационной сети, сообщила иранский министр дорог и городского развития Фарзане Садег",
+      "recap_neutral": "Противник пытается изолировать республику от региональной и международной коммуникационной сети, сообщила иранский министр дорог и городского развития Фарзане Садег",
+      "main_idea": "Иран обвинил США в желании нарушить его транзитные маршруты с другими странами",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 13:41:02 +0300",
+      "url": "https://tass.ru/ekonomika/27929599",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "По направлению Московского региона с 11 июля по 18 июля летели 1 892 БПЛА",
+      "title_neutral": "По направлению Московского региона с 11 июля по 18 июля летели 1 892 БПЛА",
+      "excerpt": "Большую часть из них нейтрализовали силы ПВО на дальних подступах",
+      "recap_neutral": "Большую часть из них нейтрализовали силы ПВО на дальних подступах",
+      "main_idea": "По направлению Московского региона с 11 июля по 18 июля летели 1 892 БПЛА",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 13:40:47 +0300",
+      "url": "https://tass.ru/proisshestviya/27929605",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Во Франции назвали причину остановки реакторов АЭС",
+      "title_neutral": "Во Франции назвали причину остановки реакторов АЭС",
+      "excerpt": "Французская государственная энергокомпания EDF указала, что причиной стала экстремальная жара",
+      "recap_neutral": "Французская государственная энергокомпания EDF указала, что причиной стала экстремальная жара",
+      "main_idea": "Во Франции назвали причину остановки реакторов АЭС",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 13:39:55 +0300",
+      "url": "https://tass.ru/ekonomika/27929589",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Еврейская община: Молдавия игнорирует протесты против героизации нацизма",
+      "title_neutral": "Еврейская община: Молдавия игнорирует протесты против героизации нацизма",
+      "excerpt": "В новых школьных учебниках приводятся лишь общие фразы, которые скрывают жестокость событий и преуменьшают роль Румынии как союзника Третьего рейха, а задания подталкивают школьников к поиску положительных сторон фашистских организаций",
+      "recap_neutral": "В новых школьных учебниках приводятся лишь общие фразы, которые скрывают жестокость событий и преуменьшают роль Румынии как союзника Третьего рейха, а задания подталкивают школьников к поиску положительных сторон фашист…",
+      "main_idea": "Еврейская община: Молдавия игнорирует протесты против героизации нацизма",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 13:37:20 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929571",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: в Москве арестовали главу ЧВК \"Паладин\" Закревского",
+      "title_neutral": "ТАСС: в Москве арестовали главу ЧВК \"Паладин\" Закревского",
+      "excerpt": "Его отправили под стражу по делу об оправдании терроризма",
+      "recap_neutral": "Его отправили под стражу по делу об оправдании терроризма",
+      "main_idea": "ТАСС: в Москве арестовали главу ЧВК \"Паладин\" Закревского",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 13:35:52 +0300",
+      "url": "https://tass.ru/proisshestviya/27929585",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Головин забил гол за \"Монако\" в первом предсезонном матче",
+      "title_neutral": "Головин забил гол за \"Монако\" в первом предсезонном матче",
+      "excerpt": "\"Монако\" со счетом 5:2 обыграл французский \"Сен-При\"",
+      "recap_neutral": "\"Монако\" со счетом 5:2 обыграл французский \"Сен-При\"",
+      "main_idea": "Головин забил гол за \"Монако\" в первом предсезонном матче",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 18 Jul 2026 13:33:48 +0300",
+      "url": "https://tass.ru/sport/27929597",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
+      "title_neutral": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
+      "excerpt": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
+      "recap_neutral": "Tilman J",
+      "main_idea": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 18 Jul 2026 10:54:16 +0000",
+      "url": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "White House backs Argentina players over Falklands banner in World Cup semi-final",
+      "title_neutral": "White House backs Argentina players over Falklands banner in World Cup semi-final",
+      "excerpt": "White House Fifa taskforce chief defends Argentina footballers, saying US believes in free speech The White House has backed Argentina’s footballers who displayed a banner supporting their country’s claim to the Falklands Islands after their World Cup semi-final victory against England. In a fracti…",
+      "recap_neutral": "White House Fifa taskforce chief defends Argentina footballers, saying US believes in free speech The White House has backed Argentina’s footballers who displayed a banner supporting their country’s claim to the Falklan…",
+      "main_idea": "White House backs Argentina players over Falklands banner in World Cup semi-final",
+      "tags": [
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Sat, 18 Jul 2026 10:54:07 GMT",
+      "url": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
+      "title_neutral": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
+      "excerpt": "In the days since the cease-fire unraveled, the U.S. and Iran have expanded the scope of their attacks, with reports of water facilities and other structures coming under fire.",
+      "recap_neutral": "In the days since the cease-fire unraveled, the U",
+      "main_idea": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 18 Jul 2026 10:43:06 +0000",
+      "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Freedom Convoy Leader, Under House Arrest, Wants to Visit the White House",
+      "title_neutral": "Freedom Convoy Leader, Under House Arrest, Wants to Visit the White House",
+      "excerpt": "Prosecutors say Tamara Lich wants a “blank cheque” for international travel, including a cruise, arguing that she is trying to profit from the very protest that got her sentenced.",
+      "recap_neutral": "Prosecutors say Tamara Lich wants a “blank cheque” for international travel, including a cruise, arguing that she is trying to profit from the very protest that got her sentenced",
+      "main_idea": "Freedom Convoy Leader, Under House Arrest, Wants to Visit the White House",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sat, 18 Jul 2026 10:00:03 +0000",
+      "url": "https://www.nytimes.com/2026/07/18/world/canada/freedom-convoy-ottawa-lich-wildfires.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How Browser-Based Image Rotation Works Without Uploading Your Files",
+      "title_neutral": "How Browser-Based Image Rotation Works Without Uploading Your Files",
+      "excerpt": "Learn how modern browsers rotate images locally using HTML Canvas, FileReader, and Web APIs without uploads for faster, private image editing.",
+      "recap_neutral": "Learn how modern browsers rotate images locally using HTML Canvas, FileReader, and Web APIs without uploads for faster, private image editing",
+      "main_idea": "How Browser-Based Image Rotation Works Without Uploading Your Files",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sat, 18 Jul 2026 09:32:47 GMT",
+      "url": "https://hackernoon.com/how-browser-based-image-rotation-works-without-uploading-your-files?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -388,18 +478,149 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
-      "title_neutral": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
-      "excerpt": "Overnight and into Friday, Iran reported U.S. strikes on infrastructure that can serve civilian purposes and has targeted similar sites in Gulf countries that host American bases. In the afternoon, the U.S. military announced a new round of attacks on Iran.",
-      "recap_neutral": "Overnight and into Friday, Iran reported U",
-      "main_idea": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
+      "title_original": "Why Bigger Context Windows Make AI Agents Worse, Not Better",
+      "title_neutral": "Why Bigger Context Windows Make AI Agents Worse, Not Better",
+      "excerpt": "Why bigger context windows often make AI agents less accurate. Learn about lost-in-the-middle, context rot, reranking, and smarter context engineering.",
+      "recap_neutral": "Why bigger context windows often make AI agents less accurate",
+      "main_idea": "Why Bigger Context Windows Make AI Agents Worse, Not Better",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sat, 18 Jul 2026 09:18:01 GMT",
+      "url": "https://hackernoon.com/why-bigger-context-windows-make-ai-agents-worse-not-better?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Multi-Agent Systems Need a Control Plane, Not Just Better Orchestration",
+      "title_neutral": "Multi-Agent Systems Need a Control Plane, Not Just Better Orchestration",
+      "excerpt": "Multi-agent AI systems need control planes to separate agent recommendations from execution authority, policy enforcement, and auditability.",
+      "recap_neutral": "Multi-agent AI systems need control planes to separate agent recommendations from execution authority, policy enforcement, and auditability",
+      "main_idea": "Multi-Agent Systems Need a Control Plane, Not Just Better Orchestration",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sat, 18 Jul 2026 09:09:11 GMT",
+      "url": "https://hackernoon.com/multi-agent-systems-need-a-control-plane-not-just-better-orchestration?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Lamine Yamal, Soccer Star and Son of African Migrants, Personifies a Changing Spain",
+      "title_neutral": "Lamine Yamal, Soccer Star and Son of African Migrants, Personifies a Changing Spain",
+      "excerpt": "As he prepares for the World Cup final, Lamine Yamal, 19, is at the heart of a national debate about what it means to be Spanish in an increasingly multicultural society.",
+      "recap_neutral": "As he prepares for the World Cup final, Lamine Yamal, 19, is at the heart of a national debate about what it means to be Spanish in an increasingly multicultural society",
+      "main_idea": "Lamine Yamal, Soccer Star and Son of African Migrants, Personifies a Changing Spain",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 18 Jul 2026 09:02:09 +0000",
+      "url": "https://www.nytimes.com/2026/07/18/world/europe/spain-lamine-yamal.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Designing Software for Change: The Engineering Discipline Behind Systems That Survive Growth",
+      "title_neutral": "Designing Software for Change: The Engineering Discipline Behind Systems That Survive Growth",
+      "excerpt": "Learn why resilient software architecture is designed for change, not just scale—and how to reduce technical debt, cognitive load, and future engineering risk.",
+      "recap_neutral": "Learn why resilient software architecture is designed for change, not just scale—and how to reduce technical debt, cognitive load, and future engineering risk",
+      "main_idea": "Designing Software for Change: The Engineering Discipline Behind Systems That Survive Growth",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sat, 18 Jul 2026 09:01:59 GMT",
+      "url": "https://hackernoon.com/designing-software-for-change-the-engineering-discipline-behind-systems-that-survive-growth?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Israel Counters Iranian Spying by Warning Against Recruitment",
+      "title_neutral": "Israel Counters Iranian Spying by Warning Against Recruitment",
+      "excerpt": "The Israeli authorities have enacted a broad array of countermeasures to contain what they describe as online recruiting efforts by Iranian agents.",
+      "recap_neutral": "The Israeli authorities have enacted a broad array of countermeasures to contain what they describe as online recruiting efforts by Iranian agents",
+      "main_idea": "Israel Counters Iranian Spying by Warning Against Recruitment",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 18 Jul 2026 09:26:45 +0000",
-      "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+      "published_at": "Sat, 18 Jul 2026 09:00:35 +0000",
+      "url": "https://www.nytimes.com/2026/07/18/world/middleeast/israel-recruits-rabbis-iran.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Qubes OS Security in the Public Record",
+      "title_neutral": "Qubes OS Security in the Public Record",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Qubes OS Security in the Public Record",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 18 Jul 2026 08:50:07 +0000",
+      "url": "https://arxiv.org/abs/2607.14587",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Computer at the Bottom of a Canal",
+      "title_neutral": "The Computer at the Bottom of a Canal",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The Computer at the Bottom of a Canal",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 18 Jul 2026 08:33:31 +0000",
+      "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why Superintelligence Won't Be Born on Earth",
+      "title_neutral": "Why Superintelligence Won't Be Born on Earth",
+      "excerpt": "Why state regulations, institutional lies, and the \"alignment trap\" guarantee that true Artificial Superintelligence (ASI) will only be born far beyond Earth.",
+      "recap_neutral": "Why state regulations, institutional lies, and the \"alignment trap\" guarantee that true Artificial Superintelligence (ASI) will only be born far beyond Earth",
+      "main_idea": "Why Superintelligence Won't Be Born on Earth",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sat, 18 Jul 2026 08:27:33 GMT",
+      "url": "https://hackernoon.com/why-superintelligence-wont-be-born-on-earth?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Indian Activist on Hunger Strike Is Forcibly Removed by Police",
+      "title_neutral": "Indian Activist on Hunger Strike Is Forcibly Removed by Police",
+      "excerpt": "The activist, Sonam Wangchuk, started his strike last month as part of a protest over educational mismanagement that has affected millions of students.",
+      "recap_neutral": "The activist, Sonam Wangchuk, started his strike last month as part of a protest over educational mismanagement that has affected millions of students",
+      "main_idea": "Indian Activist on Hunger Strike Is Forcibly Removed by Police",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 18 Jul 2026 07:36:30 +0000",
+      "url": "https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -441,6 +662,54 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+      "title_neutral": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+      "excerpt": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort.",
+      "recap_neutral": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort",
+      "main_idea": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 18 Jul 2026 06:45:43 -0400",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "TradFi Volumes Triple, 12M Users Reached as BTCC Exchange Marks 15 Years",
+      "title_neutral": "TradFi Volumes Triple, 12M Users Reached as BTCC Exchange Marks 15 Years",
+      "excerpt": "On July 10, BTCC hosted an exclusive VIP dinner in Ginza, Tokyo. The invitation-only event brought VIP clients together under the theme of \"Tsumugi\" (to weave),",
+      "recap_neutral": "On July 10, BTCC hosted an exclusive VIP dinner in Ginza, Tokyo",
+      "main_idea": "TradFi Volumes Triple, 12M Users Reached as BTCC Exchange Marks 15 Years",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sat, 18 Jul 2026 06:25:05 GMT",
+      "url": "https://hackernoon.com/tradfi-volumes-triple-12m-users-reached-as-btcc-exchange-marks-15-years?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The 2000s called. They want their digital camera back",
+      "title_neutral": "The 2000s called. They want their digital camera back",
+      "excerpt": "Why are people who weren't born 25 years ago snapping up the digital camera of that era? Blame Taylor Swift, trend cycles, childhood nostalgia and smartphone fatigue.",
+      "recap_neutral": "Why are people who weren't born 25 years ago snapping up the digital camera of that era? Blame Taylor Swift, trend cycles, childhood nostalgia and smartphone fatigue",
+      "main_idea": "The 2000s called. They want their digital camera back",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sat, 18 Jul 2026 06:01:00 -0400",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5896117/retro-digital-camera-analog-reboot",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
       "title_neutral": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
       "excerpt": "Cockroach Janta Party founder Abhijeet Dipke has now begun an indefinite fast in Sonam Wangchuk's place.",
@@ -459,6 +728,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "The 5 AWS Services Every Developer Must Know to Build AI Products in 2026 (With Real Projects)",
+      "title_neutral": "The 5 AWS Services Every Developer Must Know to Build AI Products in 2026 (With Real Projects)",
+      "excerpt": "You don't need to know all 200+ AWS services to build AI products. You need these 5. Here's the complete beginner's guide to Amazon Bedrock, Lambda, API Gateway",
+      "recap_neutral": "You don't need to know all 200+ AWS services to build AI products",
+      "main_idea": "The 5 AWS Services Every Developer Must Know to Build AI Products in 2026 (With Real Projects)",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sat, 18 Jul 2026 05:00:56 GMT",
+      "url": "https://hackernoon.com/the-5-aws-services-every-developer-must-know-to-build-ai-products-in-2026-with-real-projects?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "D'oh! I can't believe I did that! Graceful ways to handle awkward moments",
       "title_neutral": "D'oh! I can't believe I did that! Graceful ways to handle awkward moments",
       "excerpt": "Yes, there is a way to gracefully address that you've been walking around with spinach in your teeth. Here are tactics to quickly defuse your most embarrassing, cringe-inducing moments.",
@@ -473,23 +759,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
-      "title_neutral": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
-      "excerpt": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
-      "recap_neutral": "Tilman J",
-      "main_idea": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 18 Jul 2026 04:01:16 +0000",
-      "url": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -556,6 +825,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "MC2: The Best Marvel Alternate Universe You Never Heard of",
+      "title_neutral": "MC2: The Best Marvel Alternate Universe You Never Heard of",
+      "excerpt": "The MC2, or Marvel Comics 2, is Marvel's best-kept secret.",
+      "recap_neutral": "The MC2, or Marvel Comics 2, is Marvel's best-kept secret",
+      "main_idea": "MC2: The Best Marvel Alternate Universe You Never Heard of",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sat, 18 Jul 2026 03:07:08 GMT",
+      "url": "https://hackernoon.com/mc2-the-best-marvel-alternate-universe-you-never-heard-of?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "U.S. and Iran escalate strikes across Mideast",
       "title_neutral": "U.S. and Iran escalate strikes across Mideast",
       "excerpt": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified.",
@@ -571,6 +855,21 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "212 Blog Posts To Learn About Cloud Infrastructure",
+      "title_neutral": "212 Blog Posts To Learn About Cloud Infrastructure",
+      "excerpt": "Learn everything you need to know about Cloud Infrastructure via these 212 free HackerNoon blog posts.",
+      "recap_neutral": "Learn everything you need to know about Cloud Infrastructure via these 212 free HackerNoon blog posts",
+      "main_idea": "212 Blog Posts To Learn About Cloud Infrastructure",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sat, 18 Jul 2026 02:00:48 GMT",
+      "url": "https://hackernoon.com/212-blog-posts-to-learn-about-cloud-infrastructure?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -592,33 +891,21 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "I started a “dirt notebook”",
-      "title_neutral": "I started a “dirt notebook”",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "I started a “dirt notebook”",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 18 Jul 2026 01:12:13 +0000",
-      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "title_original": "“That’s Just How the System Works”",
+      "title_neutral": "“That’s Just How the System Works”",
+      "excerpt": "When rigid software forces people to adapt, small inefficiencies become permanent. Could generative AI make systems easier to change?",
+      "recap_neutral": "When rigid software forces people to adapt, small inefficiencies become permanent",
+      "main_idea": "“That’s Just How the System Works”",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 22:54:57 GMT",
+      "url": "https://hackernoon.com/thats-just-how-the-system-works?source=rss",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Stenchill: 3D Printable Solder Paste Stencil Generator",
-      "title_neutral": "Stenchill: 3D Printable Solder Paste Stencil Generator",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Stenchill: 3D Printable Solder Paste Stencil Generator",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 18 Jul 2026 00:48:37 +0000",
-      "url": "https://www.stenchill.com/en/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -636,6 +923,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Windows 11's High Storage and Memory Demands: Necessary for Functionality or Unneeded Bloat?",
+      "title_neutral": "Windows 11's High Storage and Memory Demands: Necessary for Functionality or Unneeded Bloat?",
+      "excerpt": "Windows 11's high storage and memory requirements are justified by its complex kernel, security features, and broad use cases.",
+      "recap_neutral": "Windows 11's high storage and memory requirements are justified by its complex kernel, security features, and broad use cases",
+      "main_idea": "Windows 11's High Storage and Memory Demands: Necessary for Functionality or Unneeded Bloat?",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Fri, 17 Jul 2026 22:17:23 GMT",
+      "url": "https://hackernoon.com/windows-11s-high-storage-and-memory-demands-necessary-for-functionality-or-unneeded-bloat?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -825,38 +1127,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "500 Blog Posts To Learn About Cloud Computing",
-      "title_neutral": "500 Blog Posts To Learn About Cloud Computing",
-      "excerpt": "Learn everything you need to know about Cloud Computing via these 500 free HackerNoon blog posts.",
-      "recap_neutral": "Learn everything you need to know about Cloud Computing via these 500 free HackerNoon blog posts",
-      "main_idea": "500 Blog Posts To Learn About Cloud Computing",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Fri, 17 Jul 2026 20:00:48 GMT",
-      "url": "https://hackernoon.com/500-blog-posts-to-learn-about-cloud-computing?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "7.3-Magnitude Earthquake Off Coast of Mexico and Guatemala Poses Tsunami Threat",
-      "title_neutral": "7.3-Magnitude Earthquake Off Coast of Mexico and Guatemala Poses Tsunami Threat",
-      "excerpt": "A powerful earthquake near the border of Mexico and Guatemala raised fears of a tsunami and shook buildings across three countries.",
-      "recap_neutral": "A powerful earthquake near the border of Mexico and Guatemala raised fears of a tsunami and shook buildings across three countries",
-      "main_idea": "7.3-Magnitude Earthquake Off Coast of Mexico and Guatemala Poses Tsunami Threat",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 17 Jul 2026 19:54:11 +0000",
-      "url": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
       "title_neutral": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
       "excerpt": "The Israeli military said the attack targeted members of the second-biggest militant group in Gaza. It also said it was “aware of the claims that several uninvolved individuals” had been harmed.",
@@ -920,40 +1190,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Why Healthcare and Finance Teams Still Need Fax APIs",
-      "title_neutral": "Why Healthcare and Finance Teams Still Need Fax APIs",
-      "excerpt": "Fax APIs help healthcare and finance teams automate secure document exchange, replace legacy fax servers, & meet compliance requirements without manual workflow",
-      "recap_neutral": "Fax APIs help healthcare and finance teams automate secure document exchange, replace legacy fax servers, & meet compliance requirements without manual workflow",
-      "main_idea": "Why Healthcare and Finance Teams Still Need Fax APIs",
-      "tags": [
-        "health"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 17 Jul 2026 19:25:13 GMT",
-      "url": "https://hackernoon.com/why-healthcare-and-finance-teams-still-need-fax-apis?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Facebook Marketplace Was Built for Used Couches. US Dropshippers Are Using It Anyway",
-      "title_neutral": "Facebook Marketplace Was Built for Used Couches. US Dropshippers Are Using It Anyway",
-      "excerpt": "Facebook Marketplace is evolving beyond local classifieds into a growing sales channel for US dropshippers seeking alternatives to Amazon's stricter ecosystem.",
-      "recap_neutral": "Facebook Marketplace is evolving beyond local classifieds into a growing sales channel for US dropshippers seeking alternatives to Amazon's stricter ecosystem",
-      "main_idea": "Facebook Marketplace Was Built for Used Couches. US Dropshippers Are Using It Anyway",
-      "tags": [
-        "economy"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 17 Jul 2026 19:12:24 GMT",
-      "url": "https://hackernoon.com/facebook-marketplace-was-built-for-used-couches-us-dropshippers-are-using-it-anyway?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1055,21 +1291,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "HackerNoon Projects of the Week: Bayan Flow, GAG Token, Shugert",
-      "title_neutral": "HackerNoon Projects of the Week: Bayan Flow, GAG Token, Shugert",
-      "excerpt": "Meet Bayan Flow, GAG Token, and Shugert, three projects solving problems in data visualization, consumer research, and ecommerce.",
-      "recap_neutral": "Meet Bayan Flow, GAG Token, and Shugert, three projects solving problems in data visualization, consumer research, and ecommerce",
-      "main_idea": "HackerNoon Projects of the Week: Bayan Flow, GAG Token, Shugert",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Fri, 17 Jul 2026 17:01:20 GMT",
-      "url": "https://hackernoon.com/hackernoon-projects-of-the-week-bayan-flow-gag-token-shugert?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
       "title_neutral": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
       "excerpt": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback.",
@@ -1154,38 +1375,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The HackerNoon Newsletter: You Matched With Me, Not My Operating System (7/17/2026)",
-      "title_neutral": "The HackerNoon Newsletter: You Matched With Me, Not My Operating System (7/17/2026)",
-      "excerpt": "7/17/2026: Top 5 stories on the HackerNoon homepage!",
-      "recap_neutral": "7/17/2026: Top 5 stories on the HackerNoon homepage!",
-      "main_idea": "The HackerNoon Newsletter: You Matched With Me, Not My Operating System (7/17/2026)",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Fri, 17 Jul 2026 16:04:39 GMT",
-      "url": "https://hackernoon.com/7-17-2026-newsletter?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Parents in Uganda Demand Answers After Bus Crash Kills 21 Children",
-      "title_neutral": "Parents in Uganda Demand Answers After Bus Crash Kills 21 Children",
-      "excerpt": "The driver of the school bus, carrying dozens of students, lost control, officials said, causing the bus to veer off the road into a boulder.",
-      "recap_neutral": "The driver of the school bus, carrying dozens of students, lost control, officials said, causing the bus to veer off the road into a boulder",
-      "main_idea": "Parents in Uganda Demand Answers After Bus Crash Kills 21 Children",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 17 Jul 2026 16:03:37 +0000",
-      "url": "https://www.nytimes.com/2026/07/17/world/africa/uganda-bus-crash-children.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Move over, Super Bowl? There's an even bigger – and splashier – World Cup halftime show coming",
       "title_neutral": "Move over, Super Bowl? There's an even bigger – and splashier – World Cup halftime show coming",
       "excerpt": "The show, which will begin somewhere around 3:45 PM ET, will air in the U.S. on Fox, Fox One and in Spanish on Telemundo, as well as on the Fox Sports app and streaming in Spanish on Peacock. It's expected to run for about 11 minutes.",
@@ -1221,38 +1410,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Editors Remember the Writers Who Make Publishing Easier",
-      "title_neutral": "Editors Remember the Writers Who Make Publishing Easier",
-      "excerpt": "Good writing gets noticed. Professionalism gets remembered.",
-      "recap_neutral": "Good writing gets noticed",
-      "main_idea": "Editors Remember the Writers Who Make Publishing Easier",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Fri, 17 Jul 2026 15:00:46 GMT",
-      "url": "https://hackernoon.com/editors-remember-the-writers-who-make-publishing-easier?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Stop Letting Your AI Agents Call Each Other Directly",
-      "title_neutral": "Stop Letting Your AI Agents Call Each Other Directly",
-      "excerpt": "Wiring AI agents as direct synchronous calls rebuilds the distributed monolith. Put an event log between them and buy durability, replay, and audit for free.",
-      "recap_neutral": "Wiring AI agents as direct synchronous calls rebuilds the distributed monolith",
-      "main_idea": "Stop Letting Your AI Agents Call Each Other Directly",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 17 Jul 2026 15:00:03 GMT",
-      "url": "https://hackernoon.com/stop-letting-your-ai-agents-call-each-other-directly?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "The new $1 Trump coin doesn't just buck norms. Experts say it also breaks laws",
       "title_neutral": "The new $1 Trump coin doesn't just buck norms. Experts say it also breaks laws",
       "excerpt": "President Trump's face will appear on a new commemorative coin honoring the nation's 250th birthday. It's one of the many unusual places his likeness has popped up this year.",
@@ -1285,36 +1442,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "title_neutral": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 17 Jul 2026 14:21:51 +0000",
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Hundreds of Rohingya Feared Drowned at Sea",
-      "title_neutral": "Hundreds of Rohingya Feared Drowned at Sea",
-      "excerpt": "Members of the persecuted minority group from Myanmar set off in search of a better life weeks ago, but news of their boats sinking only emerged recently. More than 500 are feared dead.",
-      "recap_neutral": "Members of the persecuted minority group from Myanmar set off in search of a better life weeks ago, but news of their boats sinking only emerged recently",
-      "main_idea": "Hundreds of Rohingya Feared Drowned at Sea",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Fri, 17 Jul 2026 14:20:07 +0000",
-      "url": "https://www.nytimes.com/2026/07/17/world/asia/rohingya-myanmar-boats-sink-missing.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "title_neutral": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "excerpt": "Comments",
@@ -1327,38 +1454,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The TechBeat: The 10 Best AI Tools for SOC 2 Compliance in 2026 (7/17/2026)",
-      "title_neutral": "The TechBeat: The 10 Best AI Tools for SOC 2 Compliance in 2026 (7/17/2026)",
-      "excerpt": "7/17/2026: Trending stories on Hackernoon today!",
-      "recap_neutral": "7/17/2026: Trending stories on Hackernoon today!",
-      "main_idea": "The TechBeat: The 10 Best AI Tools for SOC 2 Compliance in 2026 (7/17/2026)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 17 Jul 2026 14:01:30 GMT",
-      "url": "https://hackernoon.com/7-17-2026-techbeat?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "76 Blog Posts To Learn About Cli",
-      "title_neutral": "76 Blog Posts To Learn About Cli",
-      "excerpt": "Learn everything you need to know about Cli via these 76 free HackerNoon blog posts.",
-      "recap_neutral": "Learn everything you need to know about Cli via these 76 free HackerNoon blog posts",
-      "main_idea": "76 Blog Posts To Learn About Cli",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Fri, 17 Jul 2026 14:00:41 GMT",
-      "url": "https://hackernoon.com/76-blog-posts-to-learn-about-cli?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1391,40 +1486,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states",
-      "title_neutral": "Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states",
-      "excerpt": "Federal health officials have identified a single supplier of the produce from Mexico that was served in Taco Bell restaurants in five states.",
-      "recap_neutral": "Federal health officials have identified a single supplier of the produce from Mexico that was served in Taco Bell restaurants in five states",
-      "main_idea": "Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states",
-      "tags": [
-        "health"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 17 Jul 2026 13:04:33 -0400",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5897509/lettuce-taco-bell-mexico-cyclospora-outbreak",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
-      "title_neutral": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
-      "excerpt": "Recognizing Iran's control over the Strait of Hormuz could set a dangerous precedent, with other countries attempting to claim important waterways, analysts say.",
-      "recap_neutral": "Recognizing Iran's control over the Strait of Hormuz could set a dangerous precedent, with other countries attempting to claim important waterways, analysts say",
-      "main_idea": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 17 Jul 2026 12:50:10 -0400",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1482,23 +1543,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Casper Bet on Compliance First Blockchain Before the RWA Wave. Now the Adoption Wave Is Here",
-      "title_neutral": "Casper Bet on Compliance First Blockchain Before the RWA Wave. Now the Adoption Wave Is Here",
-      "excerpt": "As tokenized real-world assets cross $31B, most run on general-purpose chains. Casper is betting compliance-first Layer 1 infrastructure is what the next phase.",
-      "recap_neutral": "As tokenized real-world assets cross $31B, most run on general-purpose chains",
-      "main_idea": "Casper Bet on Compliance First Blockchain Before the RWA Wave. Now the Adoption Wave Is Here",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 17 Jul 2026 11:29:01 GMT",
-      "url": "https://hackernoon.com/casper-bet-on-compliance-first-blockchain-before-the-rwa-wave-now-the-adoption-wave-is-here?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
       "title_neutral": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
       "excerpt": "Chinese officials called the election-meddling accusation baseless, while analysts said Beijing was trying to preserve a fragile détente.",
@@ -1549,21 +1593,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "As Blazes Spread Near Paris, Extreme Heat Is Changing How France Fights Fires",
-      "title_neutral": "As Blazes Spread Near Paris, Extreme Heat Is Changing How France Fights Fires",
-      "excerpt": "Until recently, France’s forest fires were mostly in the south. This week, fires are raging much farther north. France is having to rethink its firefighting strategy.",
-      "recap_neutral": "Until recently, France’s forest fires were mostly in the south",
-      "main_idea": "As Blazes Spread Near Paris, Extreme Heat Is Changing How France Fights Fires",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Fri, 17 Jul 2026 09:01:52 +0000",
-      "url": "https://www.nytimes.com/2026/07/17/france-forest-fires-extreme-heat.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Weather tracker: Thunderstorms strike across Europe amid record heatwave",
       "title_neutral": "Weather tracker: Thunderstorms strike across Europe amid record heatwave",
       "excerpt": "Storms are typical during intense heat but this week’s have been extreme. Plus, deadly monsoon rains in Bangladesh Hailstones the size of golf balls have been seen in French villages as, on top of the exceptional European heatwave, thunderstorms have struck across parts of Europe. While thunderstor…",
@@ -1580,23 +1609,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Inside the Mind of a Commerce Architect: Indrajit Sen on Technology Overhaul and Retail Leadership",
-      "title_neutral": "Inside the Mind of a Commerce Architect: Indrajit Sen on Technology Overhaul and Retail Leadership",
-      "excerpt": "Discover how IBM's Indrajit Sen approaches retail platform modernization, AI governance, cloud architecture, and global engineering leadership.",
-      "recap_neutral": "Discover how IBM's Indrajit Sen approaches retail platform modernization, AI governance, cloud architecture, and global engineering leadership",
-      "main_idea": "Inside the Mind of a Commerce Architect: Indrajit Sen on Technology Overhaul and Retail Leadership",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 17 Jul 2026 08:30:45 GMT",
-      "url": "https://hackernoon.com/inside-the-mind-of-a-commerce-architect-indrajit-sen-on-technology-overhaul-and-retail-leadership?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
