@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T18:55:36.703335+00:00",
+  "last_updated": "2026-07-24T20:17:23.284459+00:00",
   "items": [
     {
       "title_original": "British woman jailed in Hong Kong for blackmail after accusing banker of rape",
@@ -35,6 +35,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Marimo Now Runs in PyCharm",
+      "title_neutral": "Marimo Now Runs in PyCharm",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Marimo Now Runs in PyCharm",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 22 Jul 2026 10:24:40 +0000",
+      "url": "https://marimo.io/blog/pycharm",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -87,6 +102,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Extending Polars with Rust Expression Plugins",
+      "title_neutral": "Extending Polars with Rust Expression Plugins",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Extending Polars with Rust Expression Plugins",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 21 Jul 2026 21:26:32 +0000",
+      "url": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Healthy diet too expensive for one in three people globally, UN report finds",
       "title_neutral": "Healthy diet too expensive for one in three people globally, UN report finds",
       "excerpt": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a healthy diet, a new report has found, prompting calls for urgen…",
@@ -135,23 +165,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Oil prices hit $100 for the first time since May",
-      "title_neutral": "Oil prices hit $100 for the first time since May",
-      "excerpt": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-      "recap_neutral": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate",
-      "main_idea": "Oil prices hit $100 for the first time since May",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 23 Jul 2026 15:31:00 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Two Russian men jailed in Angola for terrorism and spying",
       "title_neutral": "Two Russian men jailed in Angola for terrorism and spying",
       "excerpt": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year Two Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a coup and helping to organise deadly demonstrations in the souther…",
@@ -184,23 +197,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Self-host your mail server",
-      "title_neutral": "Self-host your mail server",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Self-host your mail server",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Thu, 23 Jul 2026 12:49:10 +0000",
-      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -251,249 +247,387 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В нескольких районах Краснодарского края отменили беспилотную опасность",
-      "title_neutral": "В нескольких районах Краснодарского края отменили беспилотную опасность",
-      "excerpt": "Об этом сообщили в МЧС",
-      "recap_neutral": "Об этом сообщили в МЧС",
-      "main_idea": "В нескольких районах Краснодарского края отменили беспилотную опасность",
+      "title_original": "Умер актер из \"Ликвидации\" и \"Следа\" Юрий Лопарев",
+      "title_neutral": "Умер актер из \"Ликвидации\" и \"Следа\" Юрий Лопарев",
+      "excerpt": "Артисту было 73 года",
+      "recap_neutral": "Артисту было 73 года",
+      "main_idea": "Умер актер из \"Ликвидации\" и \"Следа\" Юрий Лопарев",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 24 Jul 2026 23:14:59 +0300",
+      "url": "https://tass.ru/kultura/27950651",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Чернышенко отметил успехи Курской области в образовании и молодежной политике",
+      "title_neutral": "Чернышенко отметил успехи Курской области в образовании и молодежной политике",
+      "excerpt": "Вице-премьер также поблагодарил губернатора региона Александра Хинштейна за эффективную работу в непростых условиях",
+      "recap_neutral": "Вице-премьер также поблагодарил губернатора региона Александра Хинштейна за эффективную работу в непростых условиях",
+      "main_idea": "Чернышенко отметил успехи Курской области в образовании и молодежной политике",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 24 Jul 2026 23:14:35 +0300",
+      "url": "https://tass.ru/obschestvo/27950643",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ассамблея стран МУС отстранила прокурора Хана за нарушение обязанностей",
+      "title_neutral": "Ассамблея стран МУС отстранила прокурора Хана за нарушение обязанностей",
+      "excerpt": "Его обвиняют в сексуальных домогательствах",
+      "recap_neutral": "Его обвиняют в сексуальных домогательствах",
+      "main_idea": "Ассамблея стран МУС отстранила прокурора Хана за нарушение обязанностей",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 24 Jul 2026 21:53:19 +0300",
-      "url": "https://tass.ru/proisshestviya/27950537",
+      "published_at": "Fri, 24 Jul 2026 23:13:09 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27950635",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Вучич считает, что переговоры о выкупе MOL доли РФ в NIS могут пройти успешно",
-      "title_neutral": "Вучич считает, что переговоры о выкупе MOL доли РФ в NIS могут пройти успешно",
-      "excerpt": "Президент Сербии добавил, что обсуждения закончатся в течение месяца",
-      "recap_neutral": "Президент Сербии добавил, что обсуждения закончатся в течение месяца",
-      "main_idea": "Вучич считает, что переговоры о выкупе MOL доли РФ в NIS могут пройти успешно",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 24 Jul 2026 21:52:17 +0300",
-      "url": "https://tass.ru/ekonomika/27950527",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Лондоне при столкновении лодки с мостом пострадали пять полицейских",
-      "title_neutral": "В Лондоне при столкновении лодки с мостом пострадали пять полицейских",
-      "excerpt": "Они врезались в Вестминстерский мост",
-      "recap_neutral": "Они врезались в Вестминстерский мост",
-      "main_idea": "В Лондоне при столкновении лодки с мостом пострадали пять полицейских",
+      "title_original": "Figaro назвала пожар на юго-западе Франции самым разрушительным за 50 лет",
+      "title_neutral": "Figaro назвала пожар на юго-западе Франции самым разрушительным за 50 лет",
+      "excerpt": "",
+      "recap_neutral": "Figaro назвала пожар на юго-западе Франции самым разрушительным за 50 лет",
+      "main_idea": "Figaro назвала пожар на юго-западе Франции самым разрушительным за 50 лет",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 24 Jul 2026 21:49:48 +0300",
-      "url": "https://tass.ru/proisshestviya/27950533",
+      "published_at": "Fri, 24 Jul 2026 23:10:45 +0300",
+      "url": "https://tass.ru/proisshestviya/27950641",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Германии арестовали подозреваемого в нападении на сотрудника банка",
-      "title_neutral": "В Германии арестовали подозреваемого в нападении на сотрудника банка",
-      "excerpt": "20-летний юноша, предположительно, нанес работнику несколько смертельных ножевых ранений",
-      "recap_neutral": "20-летний юноша, предположительно, нанес работнику несколько смертельных ножевых ранений",
-      "main_idea": "В Германии арестовали подозреваемого в нападении на сотрудника банка",
+      "title_original": "В Белгороде из-за атаки БПЛА пострадал мирный житель",
+      "title_neutral": "В Белгороде из-за атаки БПЛА пострадал мирный житель",
+      "excerpt": "Мужчина получил осколочные ранения",
+      "recap_neutral": "Мужчина получил осколочные ранения",
+      "main_idea": "В Белгороде из-за атаки БПЛА пострадал мирный житель",
       "tags": [
-        "economy",
-        "tech"
+        "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 24 Jul 2026 21:49:26 +0300",
-      "url": "https://tass.ru/proisshestviya/27950507",
+      "published_at": "Fri, 24 Jul 2026 23:09:56 +0300",
+      "url": "https://tass.ru/proisshestviya/27950631",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Вучич: США временно отменили пошлины продукцию из Сербии",
-      "title_neutral": "Вучич: США временно отменили пошлины продукцию из Сербии",
-      "excerpt": "Позднее таможенный тариф на сербскую продукцию составит 10-12%, заявил президент республики",
-      "recap_neutral": "Позднее таможенный тариф на сербскую продукцию составит 10-12%, заявил президент республики",
-      "main_idea": "Вучич: США временно отменили пошлины продукцию из Сербии",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 24 Jul 2026 21:47:26 +0300",
-      "url": "https://tass.ru/ekonomika/27950535",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Посол РФ в Анкаре считает, что санкции Запада противоречат международному праву",
-      "title_neutral": "Посол РФ в Анкаре считает, что санкции Запада противоречат международному праву",
-      "excerpt": "Сергей Вершинин добавил, что ограничения США никогда не поспособствуют развитию двусторонней торговли и экономических отношений",
-      "recap_neutral": "Сергей Вершинин добавил, что ограничения США никогда не поспособствуют развитию двусторонней торговли и экономических отношений",
-      "main_idea": "Посол РФ в Анкаре считает, что санкции Запада противоречат международному праву",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 24 Jul 2026 21:46:30 +0300",
-      "url": "https://tass.ru/politika/27950525",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Коллапс цивилизаций бронзового века связали с переменами в орбите Земли",
-      "title_neutral": "Коллапс цивилизаций бронзового века связали с переменами в орбите Земли",
-      "excerpt": "Исследователи Стокгольмского университета выяснили, что эти сдвиги уменьшали количество тепла, которое получает северное полушарие планеты летом",
-      "recap_neutral": "Исследователи Стокгольмского университета выяснили, что эти сдвиги уменьшали количество тепла, которое получает северное полушарие планеты летом",
-      "main_idea": "Коллапс цивилизаций бронзового века связали с переменами в орбите Земли",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 24 Jul 2026 21:43:55 +0300",
-      "url": "https://tass.ru/nauka/27950491",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "NYT: Трамп провел встречу с советниками для обсуждения ударов по Ирану",
-      "title_neutral": "NYT: Трамп провел встречу с советниками для обсуждения ударов по Ирану",
-      "excerpt": "Информации о том, было ли принято на совещании какое-либо решение, не приводится",
-      "recap_neutral": "Информации о том, было ли принято на совещании какое-либо решение, не приводится",
-      "main_idea": "NYT: Трамп провел встречу с советниками для обсуждения ударов по Ирану",
+      "title_original": "Al Yemen: город Ходейда на западе Йемена подвергся серии авиаударов",
+      "title_neutral": "Al Yemen: город Ходейда на западе Йемена подвергся серии авиаударов",
+      "excerpt": "",
+      "recap_neutral": "Al Yemen: город Ходейда на западе Йемена подвергся серии авиаударов",
+      "main_idea": "Al Yemen: город Ходейда на западе Йемена подвергся серии авиаударов",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 24 Jul 2026 21:42:51 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27950531",
+      "published_at": "Fri, 24 Jul 2026 23:09:12 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27950637",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Белгородской области из-за атаки ВСУ пострадал мирный житель",
-      "title_neutral": "В Белгородской области из-за атаки ВСУ пострадал мирный житель",
-      "excerpt": "Мужчина получил осколочные ранения предплечья и ног",
-      "recap_neutral": "Мужчина получил осколочные ранения предплечья и ног",
-      "main_idea": "В Белгородской области из-за атаки ВСУ пострадал мирный житель",
+      "title_original": "В Тамбовской области объявили опасность атаки БПЛА",
+      "title_neutral": "В Тамбовской области объявили опасность атаки БПЛА",
+      "excerpt": "МЧС России призвало граждан сохранять спокойствие",
+      "recap_neutral": "МЧС России призвало граждан сохранять спокойствие",
+      "main_idea": "В Тамбовской области объявили опасность атаки БПЛА",
       "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 24 Jul 2026 23:08:29 +0300",
+      "url": "https://tass.ru/proisshestviya/27950629",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп ушел от ответа на вопрос, считает ли он преступлением удары по Ирану",
+      "title_neutral": "Трамп ушел от ответа на вопрос, считает ли он преступлением удары по Ирану",
+      "excerpt": "Президент США спросил, какое издание представляет автор вопроса и назвал его редакцию \"провальной\"",
+      "recap_neutral": "Президент США спросил, какое издание представляет автор вопроса и назвал его редакцию \"провальной\"",
+      "main_idea": "Трамп ушел от ответа на вопрос, считает ли он преступлением удары по Ирану",
+      "tags": [
+        "politics",
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 24 Jul 2026 21:40:54 +0300",
-      "url": "https://tass.ru/proisshestviya/27950529",
+      "published_at": "Fri, 24 Jul 2026 23:05:41 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27950627",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Ленинградской области фермеров обеспечили топливом для сбора урожая",
-      "title_neutral": "В Ленинградской области фермеров обеспечили топливом для сбора урожая",
-      "excerpt": "Перебоев с поставками нет, сообщил комитет по АПК региона",
-      "recap_neutral": "Перебоев с поставками нет, сообщил комитет по АПК региона",
-      "main_idea": "В Ленинградской области фермеров обеспечили топливом для сбора урожая",
+      "title_original": "В аэропорту Тамбова ввели ограничения",
+      "title_neutral": "В аэропорту Тамбова ввели ограничения",
+      "excerpt": "",
+      "recap_neutral": "В аэропорту Тамбова ввели ограничения",
+      "main_idea": "В аэропорту Тамбова ввели ограничения",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 24 Jul 2026 21:39:49 +0300",
-      "url": "https://tass.ru/obschestvo/27950521",
+      "published_at": "Fri, 24 Jul 2026 23:04:00 +0300",
+      "url": "https://tass.ru/ekonomika/27950625",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Над Тульской областью уничтожили восемь БПЛА",
-      "title_neutral": "Над Тульской областью уничтожили восемь БПЛА",
-      "excerpt": "Пострадавших нет, сообщил губернатор региона Дмитрий Миляев",
-      "recap_neutral": "Пострадавших нет, сообщил губернатор региона Дмитрий Миляев",
-      "main_idea": "Над Тульской областью уничтожили восемь БПЛА",
+      "title_original": "Над Тульской областью уничтожили четыре беспилотника",
+      "title_neutral": "Над Тульской областью уничтожили четыре беспилотника",
+      "excerpt": "Повреждений и пострадавших нет",
+      "recap_neutral": "Повреждений и пострадавших нет",
+      "main_idea": "Над Тульской областью уничтожили четыре беспилотника",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 24 Jul 2026 21:38:01 +0300",
-      "url": "https://tass.ru/proisshestviya/27950475",
+      "published_at": "Fri, 24 Jul 2026 23:03:35 +0300",
+      "url": "https://tass.ru/proisshestviya/27950623",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ВСУ атаковали многоквартирный дом в Каховке Херсонской области",
-      "title_neutral": "ВСУ атаковали многоквартирный дом в Каховке Херсонской области",
-      "excerpt": "Пострадавших нет, сообщил глава Каховского округа Павел Филипчук",
-      "recap_neutral": "Пострадавших нет, сообщил глава Каховского округа Павел Филипчук",
-      "main_idea": "ВСУ атаковали многоквартирный дом в Каховке Херсонской области",
+      "title_original": "В аэропорту Домодедово сняли временные ограничения",
+      "title_neutral": "В аэропорту Домодедово сняли временные ограничения",
+      "excerpt": "Их вводили для обеспечения безопасности полетов",
+      "recap_neutral": "Их вводили для обеспечения безопасности полетов",
+      "main_idea": "В аэропорту Домодедово сняли временные ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 24 Jul 2026 23:00:45 +0300",
+      "url": "https://tass.ru/ekonomika/27950619",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ГД сравнили слова Зеленского о \"мире\" со сказкой о мальчике и волках",
+      "title_neutral": "В ГД сравнили слова Зеленского о \"мире\" со сказкой о мальчике и волках",
+      "excerpt": "Владимир Зеленский ранее заявил о готовности приехать в Овальный кабинет или в Мар-а-Лаго для заключения мирного соглашения с Россией",
+      "recap_neutral": "Владимир Зеленский ранее заявил о готовности приехать в Овальный кабинет или в Мар-а-Лаго для заключения мирного соглашения с Россией",
+      "main_idea": "В ГД сравнили слова Зеленского о \"мире\" со сказкой о мальчике и волках",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 24 Jul 2026 23:00:45 +0300",
+      "url": "https://tass.ru/politika/27950617",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп допустил, что новой эскалации конфликта с Ираном не будет",
+      "title_neutral": "Трамп допустил, что новой эскалации конфликта с Ираном не будет",
+      "excerpt": "",
+      "recap_neutral": "Трамп допустил, что новой эскалации конфликта с Ираном не будет",
+      "main_idea": "Трамп допустил, что новой эскалации конфликта с Ираном не будет",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 24 Jul 2026 23:00:07 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27950615",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Футболист \"Балтики\" Оффор поделился эмоциями от рекордного гола",
+      "title_neutral": "Футболист \"Балтики\" Оффор поделился эмоциями от рекордного гола",
+      "excerpt": "Форвард забил самый быстрый мяч в матчах открытия чемпионата России",
+      "recap_neutral": "Форвард забил самый быстрый мяч в матчах открытия чемпионата России",
+      "main_idea": "Футболист \"Балтики\" Оффор поделился эмоциями от рекордного гола",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 24 Jul 2026 22:57:30 +0300",
+      "url": "https://tass.ru/sport/27950609",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Число погибших при стрельбе на Западном берегу израильских военных достигло двух",
+      "title_neutral": "Число погибших при стрельбе на Западном берегу израильских военных достигло двух",
+      "excerpt": "Израиль квалифицировал инцидент как теракт",
+      "recap_neutral": "Израиль квалифицировал инцидент как теракт",
+      "main_idea": "Число погибших при стрельбе на Западном берегу израильских военных достигло двух",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 24 Jul 2026 22:57:14 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27950607",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
+      "title_neutral": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
+      "excerpt": "The discussions at the White House came days before a planned meeting with Prime Minister Benjamin Netanyahu of Israel. Across the region, Iran and the United States continued to trade attacks.",
+      "recap_neutral": "The discussions at the White House came days before a planned meeting with Prime Minister Benjamin Netanyahu of Israel",
+      "main_idea": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
       "tags": [
         "conflict"
       ],
-      "source": "ТАСС",
-      "published_at": "Fri, 24 Jul 2026 21:35:23 +0300",
-      "url": "https://tass.ru/proisshestviya/27950519",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Fri, 24 Jul 2026 20:13:23 +0000",
+      "url": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Трамп заявил, что США не продают оружие Украине",
-      "title_neutral": "Трамп заявил, что США не продают оружие Украине",
-      "excerpt": "По словам американского лидера, Вашингтон продает его странам НАТО",
-      "recap_neutral": "По словам американского лидера, Вашингтон продает его странам НАТО",
-      "main_idea": "Трамп заявил, что США не продают оружие Украине",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 24 Jul 2026 21:29:46 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27950489",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "title_original": "India’s Student Protesters Win Some Concessions From Government",
+      "title_neutral": "India’s Student Protesters Win Some Concessions From Government",
+      "excerpt": "Representatives of Prime Minister Narendra Modi agreed to compensate families affected by a major exam leak, as protesters keep pressing for India’s education minister to resign.",
+      "recap_neutral": "Representatives of Prime Minister Narendra Modi agreed to compensate families affected by a major exam leak, as protesters keep pressing for India’s education minister to resign",
+      "main_idea": "India’s Student Protesters Win Some Concessions From Government",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 24 Jul 2026 20:10:43 +0000",
+      "url": "https://www.nytimes.com/2026/07/24/world/asia/india-genz-student-movement-cockroach-janta-party.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Зеленский забыл слова на английском во время интервью блогеру из США",
-      "title_neutral": "Зеленский забыл слова на английском во время интервью блогеру из США",
-      "excerpt": "Владимир Зеленский не смог вспомнить слово \"иврит\" и не понял один из вопросов интервьюера",
-      "recap_neutral": "Владимир Зеленский не смог вспомнить слово \"иврит\" и не понял один из вопросов интервьюера",
-      "main_idea": "Зеленский забыл слова на английском во время интервью блогеру из США",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 24 Jul 2026 21:25:38 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27950515",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "title_original": "Rare Pompeii Ceiling Is Restored From Fragments, Depicting Scene From Myth",
+      "title_neutral": "Rare Pompeii Ceiling Is Restored From Fragments, Depicting Scene From Myth",
+      "excerpt": "By collecting about 1,000 fragments and painstakingly assembling the pieces, archaeologists restored a scene depicting the popular love story of Dionysus and Ariadne.",
+      "recap_neutral": "By collecting about 1,000 fragments and painstakingly assembling the pieces, archaeologists restored a scene depicting the popular love story of Dionysus and Ariadne",
+      "main_idea": "Rare Pompeii Ceiling Is Restored From Fragments, Depicting Scene From Myth",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 24 Jul 2026 20:05:01 +0000",
+      "url": "https://www.nytimes.com/2026/07/24/world/europe/rare-pompeii-ceiling-is-restored.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Харьковской области произошел взрыв",
-      "title_neutral": "В Харьковской области произошел взрыв",
-      "excerpt": "В регионе объявили воздушную тревогу",
-      "recap_neutral": "В регионе объявили воздушную тревогу",
-      "main_idea": "В Харьковской области произошел взрыв",
+      "title_original": "ICC top prosecutor removed over sexual misconduct allegations",
+      "title_neutral": "ICC top prosecutor removed over sexual misconduct allegations",
+      "excerpt": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
+      "recap_neutral": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint",
+      "main_idea": "ICC top prosecutor removed over sexual misconduct allegations",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 24 Jul 2026 19:57:04 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
+      "title_neutral": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
+      "excerpt": "After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit finally opened on Friday.",
+      "recap_neutral": "After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit finally opened on Friday",
+      "main_idea": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 24 Jul 2026 19:49:56 +0000",
+      "url": "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Japanese Militant in Tel Aviv Airport Attack Dies in Lebanon at 78",
+      "title_neutral": "Japanese Militant in Tel Aviv Airport Attack Dies in Lebanon at 78",
+      "excerpt": "Kozo Okamoto survived a 1972 suicide mission he undertook with two other members of the Japanese Red Army, a left-wing militant group aligned with the Popular Front for the Liberation of Palestine.",
+      "recap_neutral": "Kozo Okamoto survived a 1972 suicide mission he undertook with two other members of the Japanese Red Army, a left-wing militant group aligned with the Popular Front for the Liberation of Palestine",
+      "main_idea": "Japanese Militant in Tel Aviv Airport Attack Dies in Lebanon at 78",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 24 Jul 2026 19:28:52 +0000",
+      "url": "https://www.nytimes.com/2026/07/24/world/middleeast/japanese-militant-tel-aviv-airport.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Postgres LISTEN/NOTIFY actually scales",
+      "title_neutral": "Postgres LISTEN/NOTIFY actually scales",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Postgres LISTEN/NOTIFY actually scales",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 24 Jul 2026 21:19:02 +0300",
-      "url": "https://tass.ru/proisshestviya/27950513",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Fri, 24 Jul 2026 19:05:53 +0000",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump vows to investigate EU over fining of US tech companies",
+      "title_neutral": "Trump vows to investigate EU over fining of US tech companies",
+      "excerpt": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+      "recap_neutral": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed",
+      "main_idea": "Trump vows to investigate EU over fining of US tech companies",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 24 Jul 2026 18:57:39 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -509,41 +643,6 @@
       "source": "BBC World",
       "published_at": "Fri, 24 Jul 2026 18:51:17 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
-      "title_neutral": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
-      "excerpt": "The discussions at the White House came days before a planned meeting with Prime Minister Benjamin Netanyahu of Israel. Across the region, Iran and the United States continued to trade attacks.",
-      "recap_neutral": "The discussions at the White House came days before a planned meeting with Prime Minister Benjamin Netanyahu of Israel",
-      "main_idea": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 24 Jul 2026 18:45:49 +0000",
-      "url": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trump vows to investigate EU over fining of US tech companies",
-      "title_neutral": "Trump vows to investigate EU over fining of US tech companies",
-      "excerpt": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-      "recap_neutral": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed",
-      "main_idea": "Trump vows to investigate EU over fining of US tech companies",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 24 Jul 2026 18:35:15 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -618,23 +717,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says",
-      "title_neutral": "Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says",
-      "excerpt": "The previous supreme leader, who was killed early in the war, had renounced nuclear weapons. U.S. spy agencies believe his son is more interested in building a bomb.",
-      "recap_neutral": "The previous supreme leader, who was killed early in the war, had renounced nuclear weapons",
-      "main_idea": "Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 24 Jul 2026 18:18:50 +0000",
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "US and Iran trade more strikes in Gulf as fears of escalation mount",
       "title_neutral": "US and Iran trade more strikes in Gulf as fears of escalation mount",
       "excerpt": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
@@ -652,11 +734,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "I got into YC by hacking it",
-      "title_neutral": "I got into YC by hacking it",
+      "title_original": "I got into YC (Startup School) by hacking it",
+      "title_neutral": "I got into YC (Startup School) by hacking it",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "I got into YC by hacking it",
+      "main_idea": "I got into YC (Startup School) by hacking it",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Fri, 24 Jul 2026 18:03:22 +0000",
@@ -664,23 +746,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "India’s Student Protesters Win Some Concessions from Government",
-      "title_neutral": "India’s Student Protesters Win Some Concessions from Government",
-      "excerpt": "Representatives of Prime Minister Narendra Modi agreed to compensate families affected by a major exam leak, as protesters keep pressing for India’s education minister to resign.",
-      "recap_neutral": "Representatives of Prime Minister Narendra Modi agreed to compensate families affected by a major exam leak, as protesters keep pressing for India’s education minister to resign",
-      "main_idea": "India’s Student Protesters Win Some Concessions from Government",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 24 Jul 2026 18:01:44 +0000",
-      "url": "https://www.nytimes.com/2026/07/24/world/asia/india-genz-student-movement-cockroach-janta-party.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -716,39 +781,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
-      "title_neutral": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
-      "excerpt": "After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit finally opened on Friday.",
-      "recap_neutral": "After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit finally opened on Friday",
-      "main_idea": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 24 Jul 2026 17:43:17 +0000",
-      "url": "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "DuckPGQ – A DuckDB community extension for graph workloads",
-      "title_neutral": "DuckPGQ – A DuckDB community extension for graph workloads",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "DuckPGQ – A DuckDB community extension for graph workloads",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 24 Jul 2026 17:00:23 +0000",
-      "url": "https://duckpgq.org/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Claude Opus 5",
       "title_neutral": "Claude Opus 5",
       "excerpt": "Comments",
@@ -764,15 +796,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The rise and fall of language diversity through the Holocene",
-      "title_neutral": "The rise and fall of language diversity through the Holocene",
+      "title_original": "Don't Take the Black Pill [video]",
+      "title_neutral": "Don't Take the Black Pill [video]",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "The rise and fall of language diversity through the Holocene",
+      "main_idea": "Don't Take the Black Pill [video]",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Fri, 24 Jul 2026 16:40:49 +0000",
-      "url": "https://www.science.org/doi/10.1126/science.adx4343",
+      "published_at": "Fri, 24 Jul 2026 16:48:57 +0000",
+      "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -790,21 +822,6 @@
       "source": "Hacker News",
       "published_at": "Fri, 24 Jul 2026 16:33:31 +0000",
       "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Proving a Human Wrote Something",
-      "title_neutral": "Proving a Human Wrote Something",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Proving a Human Wrote Something",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 24 Jul 2026 16:33:26 +0000",
-      "url": "https://gjtorikian.online/posts/proving-a-human-wrote-something/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -862,6 +879,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "How The Illharmonic's mix of hip-hop and classical builds community, one show at a time",
+      "title_neutral": "How The Illharmonic's mix of hip-hop and classical builds community, one show at a time",
+      "excerpt": "The Illharmonic Orchestra's performances blend hip-hop lyricism with classical instrumentation, and feature all-Black musical ensembles. The group's leaders speak with NPR's Juana Summers about how they build community around their high-energy performances and represent musicians and audiences in s…",
+      "recap_neutral": "The Illharmonic Orchestra's performances blend hip-hop lyricism with classical instrumentation, and feature all-Black musical ensembles",
+      "main_idea": "How The Illharmonic's mix of hip-hop and classical builds community, one show at a time",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Fri, 24 Jul 2026 16:00:00 -0400",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5863498/the-illharmonic-orchestra-hip-hop-classical-music",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
       "title_neutral": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
       "excerpt": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana ’s coast has risen to 72, with more bodies recovered as a multinational team struggle to salvage the part…",
@@ -874,21 +906,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The front end framework for correctness: built on Effect, architected like Elm",
-      "title_neutral": "The front end framework for correctness: built on Effect, architected like Elm",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The front end framework for correctness: built on Effect, architected like Elm",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 24 Jul 2026 15:24:00 +0000",
-      "url": "https://foldkit.dev/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -936,24 +953,6 @@
       "source": "NYTimes World",
       "published_at": "Fri, 24 Jul 2026 14:26:01 +0000",
       "url": "https://www.nytimes.com/2026/07/24/world/asia/india-cockroach-party-cjp-protest-memes.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "South Korea A.I. Billionaire Ordered to Pay More Than Half a Billion Dollars in ‘Divorce of the Century’",
-      "title_neutral": "South Korea A.I. Billionaire Ordered to Pay More Than Half a Billion Dollars in ‘Divorce of the Century’",
-      "excerpt": "A South Korean court awarded $644 million to Roh Soh-yeong, who had sought much more from her ex-husband, Chey Tae-won, the head of the conglomerate behind SK Hynix.",
-      "recap_neutral": "A South Korean court awarded $644 million to Roh Soh-yeong, who had sought much more from her ex-husband, Chey Tae-won, the head of the conglomerate behind SK Hynix",
-      "main_idea": "South Korea A.I. Billionaire Ordered to Pay More Than Half a Billion Dollars in ‘Divorce of the Century’",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 24 Jul 2026 14:10:40 +0000",
-      "url": "https://www.nytimes.com/2026/07/24/world/asia/korea-chey-tae-won-sk-hynix-divorce.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -1313,6 +1312,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "It's getting harder to focus every day",
+      "title_neutral": "It's getting harder to focus every day",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "It's getting harder to focus every day",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 24 Jul 2026 08:18:30 +0000",
+      "url": "https://glyphack.com/attention/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Cross-Border Payments on Crypto Infrastructure: The $857 Billion Opportunity",
       "title_neutral": "Cross-Border Payments on Crypto Infrastructure: The $857 Billion Opportunity",
       "excerpt": "Explore how stablecoins and crypto super apps are reshaping the $857B remittance market with faster, cheaper cross-border payments.",
@@ -1498,14 +1512,12 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "U.S. allies hit with new tariffs object to Trump's forced labor claims",
-      "title_neutral": "U.S. allies hit with new tariffs object to Trump's forced labor claims",
+      "title_original": "U.S. allies hit with new tariffs object to Trump's forced labor allegations",
+      "title_neutral": "U.S. allies hit with new tariffs object to Trump's forced labor allegations",
       "excerpt": "Australia and the European Union were among U.S. trade partners who criticized the tariffs.",
       "recap_neutral": "Australia and the European Union were among U",
-      "main_idea": "U.S. allies hit with new tariffs object to Trump's forced labor claims",
-      "tags": [
-        "tech"
-      ],
+      "main_idea": "U.S. allies hit with new tariffs object to Trump's forced labor allegations",
+      "tags": [],
       "source": "NPR",
       "published_at": "Fri, 24 Jul 2026 06:31:08 -0400",
       "url": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction",
@@ -1624,24 +1636,6 @@
       "source": "NPR",
       "published_at": "Fri, 24 Jul 2026 05:00:00 -0400",
       "url": "https://www.npr.org/2026/07/24/nx-s1-5901949/netflix-south-african-series-the-polygamist",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Morning news brief",
-      "title_neutral": "Morning news brief",
-      "excerpt": "U.S.-Iran strikes escalate, affecting global energy markets, Trump imposes double-digit tariffs on dozens of countries, Vigil held in Madison, Wisconsin, for man killed by police.",
-      "recap_neutral": "U",
-      "main_idea": "Morning news brief",
-      "tags": [
-        "economy",
-        "conflict"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 24 Jul 2026 04:45:17 -0400",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
