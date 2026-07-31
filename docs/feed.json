@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T08:42:21.345226+00:00",
+  "last_updated": "2026-07-31T11:26:20.758966+00:00",
   "items": [
     {
       "title_original": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – as it happened",
@@ -16,24 +16,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
-      "title_neutral": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
-      "excerpt": "The continent is experiencing some of its biggest fires and highest temperatures ever. Residents are fleeing, leaders are struggling to respond and “it will get worse,” one climate expert said.",
-      "recap_neutral": "The continent is experiencing some of its biggest fires and highest temperatures ever",
-      "main_idea": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
-      "tags": [
-        "tech",
-        "climate"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Wed, 29 Jul 2026 14:06:53 +0000",
-      "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -83,6 +65,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Simulating TCP loss and congestion in browser using Go/WASM",
+      "title_neutral": "Simulating TCP loss and congestion in browser using Go/WASM",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Simulating TCP loss and congestion in browser using Go/WASM",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 28 Jul 2026 18:38:14 +0000",
+      "url": "https://ccsim.fly.dev",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -153,38 +150,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Why China’s A.I. Models Could Threaten the Communist Party",
-      "title_neutral": "Why China’s A.I. Models Could Threaten the Communist Party",
-      "excerpt": "China’s A.I. rise is creating a new dilemma for Beijing. The open models that win influence abroad may pose risks to the country’s security and geopolitical strategy.",
-      "recap_neutral": "China’s A",
-      "main_idea": "Why China’s A.I. Models Could Threaten the Communist Party",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Thu, 30 Jul 2026 23:31:47 +0000",
-      "url": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The AI Aesthetic",
-      "title_neutral": "The AI Aesthetic",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The AI Aesthetic",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Thu, 30 Jul 2026 23:22:16 +0000",
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "US government map of Africa mislabels every country at global conference",
       "title_neutral": "US government map of Africa mislabels every country at global conference",
       "excerpt": "State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in Brazil A US government map of Africa mislabeled every country during a state department presentation at a ⁠global conference in Brazil ⁠this week, ​causing a stir among attenders who took…",
@@ -215,152 +180,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Gemini 3.6 Flash Tied on Intelligence - and Nearly Doubled Output Speed",
-      "title_neutral": "Gemini 3.6 Flash Tied on Intelligence - and Nearly Doubled Output Speed",
-      "excerpt": "The useful engineering question is therefore not “Did 3.6 Flash win?” It is “Which differences are sufficiently supported to justify a production test?”",
-      "recap_neutral": "The useful engineering question is therefore not “Did 3",
-      "main_idea": "Gemini 3.6 Flash Tied on Intelligence - and Nearly Doubled Output Speed",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 30 Jul 2026 21:47:16 GMT",
-      "url": "https://hackernoon.com/gemini-36-flash-tied-on-intelligence-and-nearly-doubled-output-speed?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Stop Hardcoding to a Single LLM Vendor - You’re Building a $200K Tech Debt Trap",
-      "title_neutral": "Stop Hardcoding to a Single LLM Vendor - You’re Building a $200K Tech Debt Trap",
-      "excerpt": "How single-provider AI dependency creates hidden switching costs and existential business risk—and the multi-provider strategy that eliminates it.",
-      "recap_neutral": "How single-provider AI dependency creates hidden switching costs and existential business risk—and the multi-provider strategy that eliminates it",
-      "main_idea": "Stop Hardcoding to a Single LLM Vendor - You’re Building a $200K Tech Debt Trap",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 30 Jul 2026 21:27:57 GMT",
-      "url": "https://hackernoon.com/stop-hardcoding-to-a-single-llm-vendor-youre-building-a-$200k-tech-debt-trap?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How to Build a Complete File-Sharing Application Using Filestack",
-      "title_neutral": "How to Build a Complete File-Sharing Application Using Filestack",
-      "excerpt": "This guide walks through building a complete file-sharing application using Filestack for uploads, storage, CDN delivery, and image processing.",
-      "recap_neutral": "This guide walks through building a complete file-sharing application using Filestack for uploads, storage, CDN delivery, and image processing",
-      "main_idea": "How to Build a Complete File-Sharing Application Using Filestack",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 30 Jul 2026 21:05:49 GMT",
-      "url": "https://hackernoon.com/how-to-build-a-complete-file-sharing-application-using-filestack?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain",
-      "title_neutral": "Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain",
-      "excerpt": "Greece also worked to contain blazes on Lesbos and in the Peloponnese, where another firefighter died, in the midst of a brutal wildfire season for Europe.",
-      "recap_neutral": "Greece also worked to contain blazes on Lesbos and in the Peloponnese, where another firefighter died, in the midst of a brutal wildfire season for Europe",
-      "main_idea": "Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 30 Jul 2026 20:56:45 +0000",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "69 Blog Posts To Learn About Error Handling",
-      "title_neutral": "69 Blog Posts To Learn About Error Handling",
-      "excerpt": "Learn everything you need to know about Error Handling via these 69 free HackerNoon blog posts.",
-      "recap_neutral": "Learn everything you need to know about Error Handling via these 69 free HackerNoon blog posts",
-      "main_idea": "69 Blog Posts To Learn About Error Handling",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 30 Jul 2026 20:00:02 GMT",
-      "url": "https://hackernoon.com/69-blog-posts-to-learn-about-error-handling?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Machines We Keep Mistaking for Minds",
-      "title_neutral": "The Machines We Keep Mistaking for Minds",
-      "excerpt": "Today’s AI can mimic intelligence, emotion and companionship—but convincing human-like behaviour is not proof of consciousness or sentience.",
-      "recap_neutral": "Today’s AI can mimic intelligence, emotion and companionship—but convincing human-like behaviour is not proof of consciousness or sentience",
-      "main_idea": "The Machines We Keep Mistaking for Minds",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 30 Jul 2026 19:00:03 GMT",
-      "url": "https://hackernoon.com/the-machines-we-keep-mistaking-for-minds?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "G2A.COM’s Autonomous AI Agent Dave Helps Sellers Resolve 14,400 Support Tickets in 63 Days",
-      "title_neutral": "G2A.COM’s Autonomous AI Agent Dave Helps Sellers Resolve 14,400 Support Tickets in 63 Days",
-      "excerpt": "Although sellers ensure the high quality of their offerings, and remain autonomous in all their decisions, large-scale surges in customer support demand may occ",
-      "recap_neutral": "Although sellers ensure the high quality of their offerings, and remain autonomous in all their decisions, large-scale surges in customer support demand may occ",
-      "main_idea": "G2A.COM’s Autonomous AI Agent Dave Helps Sellers Resolve 14,400 Support Tickets in 63 Days",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 30 Jul 2026 18:54:34 GMT",
-      "url": "https://hackernoon.com/g2acoms-autonomous-ai-agent-dave-helps-sellers-resolve-14400-support-tickets-in-63-days?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Saudi Arabia Aims to Deter Red Sea Attacks With New Coalition",
-      "title_neutral": "Saudi Arabia Aims to Deter Red Sea Attacks With New Coalition",
-      "excerpt": "Facing attacks by Yemen’s Houthi militia, Saudi Arabia has invited dozens of countries to assist it in protecting shipping in the Red Sea, diplomats say.",
-      "recap_neutral": "Facing attacks by Yemen’s Houthi militia, Saudi Arabia has invited dozens of countries to assist it in protecting shipping in the Red Sea, diplomats say",
-      "main_idea": "Saudi Arabia Aims to Deter Red Sea Attacks With New Coalition",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 30 Jul 2026 18:53:16 +0000",
-      "url": "https://www.nytimes.com/2026/07/30/world/middleeast/saudi-arabia-red-sea-houthis.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Best Crypto Exchanges 2026: Top 10 Ranked as 3 Exchanges Shut Down",
-      "title_neutral": "Best Crypto Exchanges 2026: Top 10 Ranked as 3 Exchanges Shut Down",
-      "excerpt": "Compare the best crypto exchanges in 2026 by fees, liquidity, listings, reserves, regulation, and access after 3 exchanges shut down.",
-      "recap_neutral": "Compare the best crypto exchanges in 2026 by fees, liquidity, listings, reserves, regulation, and access after 3 exchanges shut down",
-      "main_idea": "Best Crypto Exchanges 2026: Top 10 Ranked as 3 Exchanges Shut Down",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 30 Jul 2026 18:15:17 GMT",
-      "url": "https://hackernoon.com/best-crypto-exchanges-2026-top-10-ranked-as-3-exchanges-shut-down?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -431,23 +250,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Upwind Expands AI Agent Protection With Context Scanning and Runtime Detection",
-      "title_neutral": "Upwind Expands AI Agent Protection With Context Scanning and Runtime Detection",
-      "excerpt": "The security problem posed by AI agents is not really about the models themselves. It is about everything wrapped around them: the skills, the tools, the connections, and the instructions that determine what an agent actually does once it is set loose in a live environment. Upwind Security is tackl…",
-      "recap_neutral": "The security problem posed by AI agents is not really about the models themselves",
-      "main_idea": "Upwind Expands AI Agent Protection With Context Scanning and Runtime Detection",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 30 Jul 2026 16:52:41 GMT",
-      "url": "https://hackernoon.com/upwind-expands-ai-agent-protection-with-context-scanning-and-runtime-detection?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Uefa to boycott World Cups if Fifa plans approved",
       "title_neutral": "Uefa to boycott World Cups if Fifa plans approved",
       "excerpt": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
@@ -462,42 +264,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns",
-      "title_neutral": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns",
-      "excerpt": "The 30-year fixed-rate mortgage reached 6.66% on average Thursday.",
-      "recap_neutral": "The 30-year fixed-rate mortgage reached 6",
-      "main_idea": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns",
-      "tags": [
-        "economy",
-        "conflict"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 30 Jul 2026 16:37:59 -0400",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health",
-      "title_neutral": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health",
-      "excerpt": "The accusations against Dr. Anthony Fauci, once the nation's leading infectious disease expert, have some experts worrying that these events may further erode public health staffing in the U.S.",
-      "recap_neutral": "The accusations against Dr",
-      "main_idea": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health",
-      "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 30 Jul 2026 16:37:48 -0400",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913384/anthony-fauci-fifth-rand-paul-covid-public-health-chilling",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -516,66 +282,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Wildfire in Suffolk, UK, Breaks Out a Few Miles From Nuclear Power Station",
-      "title_neutral": "Wildfire in Suffolk, UK, Breaks Out a Few Miles From Nuclear Power Station",
-      "excerpt": "A large fire engulfed almost 250 acres of land in Suffolk, a scenic area on the coast. It was a few miles from a nuclear power station.",
-      "recap_neutral": "A large fire engulfed almost 250 acres of land in Suffolk, a scenic area on the coast",
-      "main_idea": "Wildfire in Suffolk, UK, Breaks Out a Few Miles From Nuclear Power Station",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Thu, 30 Jul 2026 16:12:16 +0000",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/suffolk-wildfire-uk.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The HackerNoon Newsletter: What Kind of Leader Are You Under Stress? (7/30/2026)",
-      "title_neutral": "The HackerNoon Newsletter: What Kind of Leader Are You Under Stress? (7/30/2026)",
-      "excerpt": "7/30/2026: Top 5 stories on the HackerNoon homepage!",
-      "recap_neutral": "7/30/2026: Top 5 stories on the HackerNoon homepage!",
-      "main_idea": "The HackerNoon Newsletter: What Kind of Leader Are You Under Stress? (7/30/2026)",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 30 Jul 2026 16:05:38 GMT",
-      "url": "https://hackernoon.com/7-30-2026-newsletter?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Building for Shipaton 2026? Share Your Journey on HackerNoon and Compete for an Extra $2,500",
-      "title_neutral": "Building for Shipaton 2026? Share Your Journey on HackerNoon and Compete for an Extra $2,500",
-      "excerpt": "Building for Shipaton 2026? Document your journey on HackerNoon and compete for an extra $2,500 in cash prizes.",
-      "recap_neutral": "Building for Shipaton 2026? Document your journey on HackerNoon and compete for an extra $2,500 in cash prizes",
-      "main_idea": "Building for Shipaton 2026? Share Your Journey on HackerNoon and Compete for an Extra $2,500",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 30 Jul 2026 16:00:06 GMT",
-      "url": "https://hackernoon.com/building-for-shipaton-2026-share-your-journey-on-hackernoon-and-compete-for-an-extra-$2500?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Prompt Engineering Is No More - Strategic Thinking Has Returned",
-      "title_neutral": "Prompt Engineering Is No More - Strategic Thinking Has Returned",
-      "excerpt": "When it came to using Large Language Models (LLMs), it used to be all about prompt engineering.",
-      "recap_neutral": "When it came to using Large Language Models (LLMs), it used to be all about prompt engineering",
-      "main_idea": "Prompt Engineering Is No More - Strategic Thinking Has Returned",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 30 Jul 2026 16:00:03 GMT",
-      "url": "https://hackernoon.com/prompt-engineering-is-no-more-strategic-thinking-has-returned?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
       "title_neutral": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
       "excerpt": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
@@ -590,21 +296,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
-      "title_neutral": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 30 Jul 2026 15:22:46 +0000",
-      "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -658,185 +349,14 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The Hidden Risk of AI Startup Automation",
-      "title_neutral": "The Hidden Risk of AI Startup Automation",
-      "excerpt": "AI lets solo founders automate almost everything—but not leadership. Explore the rise of the Ghost Founder, decisional loneliness, and startup burnout.",
-      "recap_neutral": "AI lets solo founders automate almost everything—but not leadership",
-      "main_idea": "The Hidden Risk of AI Startup Automation",
+      "title_original": "Fifteen elephant deaths in Kenya may be due to cyanide poisoning",
+      "title_neutral": "Fifteen elephant deaths in Kenya may be due to cyanide poisoning",
+      "excerpt": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya were likely caused by the animals ingesting pesticides used on tomato farms, the Kenya Wildlife Service (KWS) has said. E…",
+      "recap_neutral": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya were likely caused by the animals ingesti…",
+      "main_idea": "Fifteen elephant deaths in Kenya may be due to cyanide poisoning",
       "tags": [
         "tech"
       ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 30 Jul 2026 15:00:03 GMT",
-      "url": "https://hackernoon.com/the-hidden-risk-of-ai-startup-automation?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8",
-      "title_neutral": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8",
-      "excerpt": "President Volodymyr Zelensky of Ukraine said five members of a family had been killed in the latest large-scale aerial assault by Moscow.",
-      "recap_neutral": "President Volodymyr Zelensky of Ukraine said five members of a family had been killed in the latest large-scale aerial assault by Moscow",
-      "main_idea": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 30 Jul 2026 14:46:50 +0000",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "GoMining Taps Uphold to Run the Regulated Machinery Behind Its 5 Million-User Bitcoin App",
-      "title_neutral": "GoMining Taps Uphold to Run the Regulated Machinery Behind Its 5 Million-User Bitcoin App",
-      "excerpt": "GoMining integrated Uphold's Platform-as-a-Service to run compliance, custody and 30-venue liquidity behind its 5M-user Bitcoin app, starting with US users.",
-      "recap_neutral": "GoMining integrated Uphold's Platform-as-a-Service to run compliance, custody and 30-venue liquidity behind its 5M-user Bitcoin app, starting with US users",
-      "main_idea": "GoMining Taps Uphold to Run the Regulated Machinery Behind Its 5 Million-User Bitcoin App",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 30 Jul 2026 14:10:22 GMT",
-      "url": "https://hackernoon.com/gomining-taps-uphold-to-run-the-regulated-machinery-behind-its-5-million-user-bitcoin-app?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The TechBeat: Vibe Orchestration Will Get You Killed: I Rebuilt My Coding-Agent Harness on Army Doctrine (7/30/2026)",
-      "title_neutral": "The TechBeat: Vibe Orchestration Will Get You Killed: I Rebuilt My Coding-Agent Harness on Army Doctrine (7/30/2026)",
-      "excerpt": "7/30/2026: Trending stories on Hackernoon today!",
-      "recap_neutral": "7/30/2026: Trending stories on Hackernoon today!",
-      "main_idea": "The TechBeat: Vibe Orchestration Will Get You Killed: I Rebuilt My Coding-Agent Harness on Army Doctrine (7/30/2026)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 30 Jul 2026 14:01:00 GMT",
-      "url": "https://hackernoon.com/7-30-2026-techbeat?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "81 Blog Posts To Learn About Enterprise Software",
-      "title_neutral": "81 Blog Posts To Learn About Enterprise Software",
-      "excerpt": "Learn everything you need to know about Enterprise Software via these 81 free HackerNoon blog posts.",
-      "recap_neutral": "Learn everything you need to know about Enterprise Software via these 81 free HackerNoon blog posts",
-      "main_idea": "81 Blog Posts To Learn About Enterprise Software",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 30 Jul 2026 14:00:03 GMT",
-      "url": "https://hackernoon.com/81-blog-posts-to-learn-about-enterprise-software?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Trump administration wants $10 million more to cover its July Fourth celebrations",
-      "title_neutral": "The Trump administration wants $10 million more to cover its July Fourth celebrations",
-      "excerpt": "Congress allocated $150 million for 250th birthday events. The Trump-backed group that planned the state fair and July 4th fireworks is asking for an additional $10 million in reimbursements.",
-      "recap_neutral": "Congress allocated $150 million for 250th birthday events",
-      "main_idea": "The Trump administration wants $10 million more to cover its July Fourth celebrations",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 30 Jul 2026 13:47:57 -0400",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913172/freedom-250-july-fourth-10-million",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Are you choosing to stay single? We want to hear from you",
-      "title_neutral": "Are you choosing to stay single? We want to hear from you",
-      "excerpt": "Solo living, solo travel, and solo dining are all being embraced as more adults are choosing to remain single. Many Americans aren't interested in dating, and being single is a symbol of autonomy.",
-      "recap_neutral": "Solo living, solo travel, and solo dining are all being embraced as more adults are choosing to remain single",
-      "main_idea": "Are you choosing to stay single? We want to hear from you",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 30 Jul 2026 13:47:44 -0400",
-      "url": "https://www.npr.org/2026/07/30/g-s1-136079/single-adult-solo-choice",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "European soccer leaders to boycott the World Cup in an unprecedented step",
-      "title_neutral": "European soccer leaders to boycott the World Cup in an unprecedented step",
-      "excerpt": "European soccer associations said they would boycott the World Cup unless FIFA reverses a controversial deal to sell minority stakes to the marquee soccer tournament.",
-      "recap_neutral": "European soccer associations said they would boycott the World Cup unless FIFA reverses a controversial deal to sell minority stakes to the marquee soccer tournament",
-      "main_idea": "European soccer leaders to boycott the World Cup in an unprecedented step",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 30 Jul 2026 13:38:38 -0400",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Cuba to Trump: We’re Open for Business",
-      "title_neutral": "Cuba to Trump: We’re Open for Business",
-      "excerpt": "A top Cuban official says the island won’t negotiate its politics, but it is willing to talk investment, including from President Trump.",
-      "recap_neutral": "A top Cuban official says the island won’t negotiate its politics, but it is willing to talk investment, including from President Trump",
-      "main_idea": "Cuba to Trump: We’re Open for Business",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 30 Jul 2026 13:28:24 +0000",
-      "url": "https://www.nytimes.com/2026/07/30/world/americas/cuba-deputy-foreign-minister-interview-trump.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "As Wildfires Plague Europe, Scotland Races to Save a Cherished National Park",
-      "title_neutral": "As Wildfires Plague Europe, Scotland Races to Save a Cherished National Park",
-      "excerpt": "As Europe’s climate warms, even moorlands and forests in the Cairngorms, in the Scottish Highlands, have fallen victim to rapidly spreading flames.",
-      "recap_neutral": "As Europe’s climate warms, even moorlands and forests in the Cairngorms, in the Scottish Highlands, have fallen victim to rapidly spreading flames",
-      "main_idea": "As Wildfires Plague Europe, Scotland Races to Save a Cherished National Park",
-      "tags": [
-        "conflict",
-        "tech",
-        "climate"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 30 Jul 2026 12:49:16 +0000",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/scotland-wildfire-cairngorms-highlands.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
-      "title_neutral": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
-      "excerpt": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya in the past month were likely caused by the animals ingesting pesticides used on nearby tomato farms, the Kenya Wildlife…",
-      "recap_neutral": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya in the past month were likely caused by t…",
-      "main_idea": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
-      "tags": [],
       "source": "The Guardian",
       "published_at": "Thu, 30 Jul 2026 12:46:50 GMT",
       "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
@@ -863,23 +383,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump says he 'may' pull Blanche AG nomination temporarily",
-      "title_neutral": "Trump says he 'may' pull Blanche AG nomination temporarily",
-      "excerpt": "The news comes as two key Republicans are withholding their support over concerns about the Justice Department's deal with President Trump.",
-      "recap_neutral": "The news comes as two key Republicans are withholding their support over concerns about the Justice Department's deal with President Trump",
-      "main_idea": "Trump says he 'may' pull Blanche AG nomination temporarily",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 30 Jul 2026 12:30:58 -0400",
-      "url": "https://www.npr.org/2026/07/30/g-s1-135784/todd-blanche-attorney-general-trump",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
       "title_neutral": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
       "excerpt": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
@@ -895,72 +398,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The economy slowed a bit -- but Americans continued to spend",
-      "title_neutral": "The economy slowed a bit -- but Americans continued to spend",
-      "excerpt": "The U.S. economy grew at an annual rate of 1.5% in the spring, according to the Commerce Department. That's a modest slowdown from the previous quarter — but consumer spending picked up steam.",
-      "recap_neutral": "The U",
-      "main_idea": "The economy slowed a bit -- but Americans continued to spend",
-      "tags": [
-        "economy"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 30 Jul 2026 10:47:23 -0400",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Nicaraguan leader proposes extending presidential term by another year",
-      "title_neutral": "Nicaraguan leader proposes extending presidential term by another year",
-      "excerpt": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
-      "recap_neutral": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer",
-      "main_idea": "Nicaraguan leader proposes extending presidential term by another year",
-      "tags": [
-        "politics"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 30 Jul 2026 10:34:07 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Pope Leo Says He Hopes to Visit U.S. Within ‘Next Couple of Years’",
-      "title_neutral": "Pope Leo Says He Hopes to Visit U.S. Within ‘Next Couple of Years’",
-      "excerpt": "When asked about a possible trip, Leo XIV said that he had been looking at the calendar for the “next couple of years.”",
-      "recap_neutral": "When asked about a possible trip, Leo XIV said that he had been looking at the calendar for the “next couple of years",
-      "main_idea": "Pope Leo Says He Hopes to Visit U.S. Within ‘Next Couple of Years’",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 30 Jul 2026 10:31:38 +0000",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/pope-leo-visit-us-american.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Japan Earthquake Death Toll Rises to 34",
-      "title_neutral": "Japan Earthquake Death Toll Rises to 34",
-      "excerpt": "Rescue crews were working to find people who might still be trapped in a collapsed shopping mall, as the region faced sweltering heat.",
-      "recap_neutral": "Rescue crews were working to find people who might still be trapped in a collapsed shopping mall, as the region faced sweltering heat",
-      "main_idea": "Japan Earthquake Death Toll Rises to 34",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Thu, 30 Jul 2026 08:41:57 +0000",
-      "url": "https://www.nytimes.com/2026/07/30/world/asia/japan-earthquake-kumamoto-death-toll.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Death toll in Japan earthquake rises to 30 as aftershock and heat hamper rescue efforts",
       "title_neutral": "Death toll in Japan earthquake rises to 30 as aftershock and heat hamper rescue efforts",
       "excerpt": "Soldiers and emergency teams search damaged shopping centre, paper mill and homes for survivors Earthquake rocks southern Japanese island of Kyushu – in pictures The death toll from the powerful earthquake that hit Japan on Tuesday has risen to 30, as the search for survivors trapped in a badly dam…",
@@ -973,6 +410,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "IMAX vs. IMAX 70mm: The difference between these two cinema formats",
+      "title_neutral": "IMAX vs. IMAX 70mm: The difference between these two cinema formats",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "IMAX vs. IMAX 70mm: The difference between these two cinema formats",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 25 Jul 2026 15:33:10 +0000",
+      "url": "https://www.engadget.com/2220571/differences-between-imax-70mm/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1023,259 +475,532 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В \"Работе России\" с начала года профориентацию прошли более 620 тыс. человек",
-      "title_neutral": "В \"Работе России\" с начала года профориентацию прошли более 620 тыс. человек",
-      "excerpt": "Показатель практически на 50% больше, чем годом ранее, отметили в пресс-службе Минтруда",
-      "recap_neutral": "Показатель практически на 50% больше, чем годом ранее, отметили в пресс-службе Минтруда",
-      "main_idea": "В \"Работе России\" с начала года профориентацию прошли более 620 тыс. человек",
+      "title_original": "В парке 50-летия Октября в Москве провели реабилитацию пруда",
+      "title_neutral": "В парке 50-летия Октября в Москве провели реабилитацию пруда",
+      "excerpt": "Водоем площадью 0,6 га очистили от ила, отремонтировали береговую полосу и восстановили зону биоплато",
+      "recap_neutral": "Водоем площадью 0,6 га очистили от ила, отремонтировали береговую полосу и восстановили зону биоплато",
+      "main_idea": "В парке 50-летия Октября в Москве провели реабилитацию пруда",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 31 Jul 2026 14:23:51 +0300",
+      "url": "https://tass.ru/obschestvo/27971633",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Кузбассе экс-директора стройфирмы осудили за мошенничество на 11 млн рублей",
+      "title_neutral": "В Кузбассе экс-директора стройфирмы осудили за мошенничество на 11 млн рублей",
+      "excerpt": "Ларису Косилову приговорили к трем годам трем месяцам лишения свободы условно",
+      "recap_neutral": "Ларису Косилову приговорили к трем годам трем месяцам лишения свободы условно",
+      "main_idea": "В Кузбассе экс-директора стройфирмы осудили за мошенничество на 11 млн рублей",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 31 Jul 2026 14:23:33 +0300",
+      "url": "https://tass.ru/proisshestviya/27971519",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Завод Borouge в ОАЭ восстановил работу после падения обломков БПЛА в апреле",
+      "title_neutral": "Завод Borouge в ОАЭ восстановил работу после падения обломков БПЛА в апреле",
+      "excerpt": "При этом в компании заявили, что были отгружены все объемы произведенного товара во втором квартале и дополнительные объемы со складов",
+      "recap_neutral": "При этом в компании заявили, что были отгружены все объемы произведенного товара во втором квартале и дополнительные объемы со складов",
+      "main_idea": "Завод Borouge в ОАЭ восстановил работу после падения обломков БПЛА в апреле",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 31 Jul 2026 11:41:17 +0300",
-      "url": "https://tass.ru/obschestvo/27970941",
+      "published_at": "Fri, 31 Jul 2026 14:23:02 +0300",
+      "url": "https://tass.ru/ekonomika/27971585",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "\"ВсеИнструменты.ру\": продажи товаров для бани в начале лета выросли в 1,2 раза",
-      "title_neutral": "\"ВсеИнструменты.ру\": продажи товаров для бани в начале лета выросли в 1,2 раза",
-      "excerpt": "По данным исследования онлайн-гипермаркета, наибольший рост спроса отметили в Самаре, Санкт-Петербурге, Краснодаре, Омске и Челябинске",
-      "recap_neutral": "По данным исследования онлайн-гипермаркета, наибольший рост спроса отметили в Самаре, Санкт-Петербурге, Краснодаре, Омске и Челябинске",
-      "main_idea": "\"ВсеИнструменты.ру\": продажи товаров для бани в начале лета выросли в 1,2 раза",
+      "title_original": "В Москве строят путепровод между улицами Менжинского и Дудинка",
+      "title_neutral": "В Москве строят путепровод между улицами Менжинского и Дудинка",
+      "excerpt": "Он пройдет над 28 ж/д путями",
+      "recap_neutral": "Он пройдет над 28 ж/д путями",
+      "main_idea": "В Москве строят путепровод между улицами Менжинского и Дудинка",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 31 Jul 2026 11:41:00 +0300",
-      "url": "https://tass.ru/ekonomika/27970945",
+      "published_at": "Fri, 31 Jul 2026 14:21:46 +0300",
+      "url": "https://tass.ru/obschestvo/27971625",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Ростовской области объявили ракетную опасность",
-      "title_neutral": "В Ростовской области объявили ракетную опасность",
-      "excerpt": "Жителей региона призвали пройти в укрытие",
-      "recap_neutral": "Жителей региона призвали пройти в укрытие",
-      "main_idea": "В Ростовской области объявили ракетную опасность",
-      "tags": [],
+      "title_original": "BFMTV: Макрон готов помочь Испании в ситуации с мигрантами в Сеуте",
+      "title_neutral": "BFMTV: Макрон готов помочь Испании в ситуации с мигрантами в Сеуте",
+      "excerpt": "По данным телеканала, президент Франции потребовал от министерства внутренних дел принять все необходимые меры для усиления контроля на границе с Испанией",
+      "recap_neutral": "По данным телеканала, президент Франции потребовал от министерства внутренних дел принять все необходимые меры для усиления контроля на границе с Испанией",
+      "main_idea": "BFMTV: Макрон готов помочь Испании в ситуации с мигрантами в Сеуте",
+      "tags": [
+        "politics",
+        "tech"
+      ],
       "source": "ТАСС",
-      "published_at": "Fri, 31 Jul 2026 11:39:02 +0300",
-      "url": "https://tass.ru/proisshestviya/27970939",
+      "published_at": "Fri, 31 Jul 2026 14:21:43 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27971587",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Колосков: Инфантино может вернуться к идее продажи прав ЧМ под нажимом Трампа",
-      "title_neutral": "Колосков: Инфантино может вернуться к идее продажи прав ЧМ под нажимом Трампа",
-      "excerpt": "Ранее сообщалось, что ФИФА в данном вопросе консультировалась с лицами, близкими к администрации Дональда Трампа",
-      "recap_neutral": "Ранее сообщалось, что ФИФА в данном вопросе консультировалась с лицами, близкими к администрации Дональда Трампа",
-      "main_idea": "Колосков: Инфантино может вернуться к идее продажи прав ЧМ под нажимом Трампа",
+      "title_original": "В Британии отклонили апелляцию на строительство нового посольства КНР",
+      "title_neutral": "В Британии отклонили апелляцию на строительство нового посольства КНР",
+      "excerpt": "Иск подали местными жителями, которые утверждали, что возведение здания может ограничить их право на протест в этом районе",
+      "recap_neutral": "Иск подали местными жителями, которые утверждали, что возведение здания может ограничить их право на протест в этом районе",
+      "main_idea": "В Британии отклонили апелляцию на строительство нового посольства КНР",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 31 Jul 2026 11:38:41 +0300",
-      "url": "https://tass.ru/sport/27970929",
+      "published_at": "Fri, 31 Jul 2026 14:21:10 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27971615",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "The Globe and Mail: работавшую в штабе НАТО подозревают в шпионаже в пользу КНР",
-      "title_neutral": "The Globe and Mail: работавшую в штабе НАТО подозревают в шпионаже в пользу КНР",
-      "excerpt": "Гражданку Канады задержали в Бельгии",
-      "recap_neutral": "Гражданку Канады задержали в Бельгии",
-      "main_idea": "The Globe and Mail: работавшую в штабе НАТО подозревают в шпионаже в пользу КНР",
+      "title_original": "В Саратове произошло новое обрушение в аварийном доме",
+      "title_neutral": "В Саратове произошло новое обрушение в аварийном доме",
+      "excerpt": "Предварительно, никто не пострадал",
+      "recap_neutral": "Предварительно, никто не пострадал",
+      "main_idea": "В Саратове произошло новое обрушение в аварийном доме",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 31 Jul 2026 14:20:01 +0300",
+      "url": "https://tass.ru/proisshestviya/27971613",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трагедия в Таиланде. Что известно об исчезновении двух россиян в Паттайе",
+      "title_neutral": "Трагедия в Таиланде. Что известно об исчезновении двух россиян в Паттайе",
+      "excerpt": "Задержанные полицией страны подозреваемые по делу признались в убийстве 22-летней Дианы Назимовой и 17-летнего Романа Назимова",
+      "recap_neutral": "Задержанные полицией страны подозреваемые по делу признались в убийстве 22-летней Дианы Назимовой и 17-летнего Романа Назимова",
+      "main_idea": "Трагедия в Таиланде. Что известно об исчезновении двух россиян в Паттайе",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 31 Jul 2026 11:38:18 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27970841",
+      "published_at": "Fri, 31 Jul 2026 14:19:58 +0300",
+      "url": "https://tass.ru/proisshestviya/27971525",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Правые Нидерландов призвали к выходу страны из ЕС на фоне событий в Сеуте",
-      "title_neutral": "Правые Нидерландов призвали к выходу страны из ЕС на фоне событий в Сеуте",
-      "excerpt": "Нидерландская миграционная политика нуждается в радикальном пересмотре, отметила правая партия \"Форум за демократию\"",
-      "recap_neutral": "Нидерландская миграционная политика нуждается в радикальном пересмотре, отметила правая партия \"Форум за демократию\"",
-      "main_idea": "Правые Нидерландов призвали к выходу страны из ЕС на фоне событий в Сеуте",
+      "title_original": "Федеральная палата адвокатов договорилась о сотрудничестве с \"Советом матерей\"",
+      "title_neutral": "Федеральная палата адвокатов договорилась о сотрудничестве с \"Советом матерей\"",
+      "excerpt": "Предметом соглашения станет работа по защите прав и законных интересов семей, женщин и детей, отметили в пресс-службе ФПА",
+      "recap_neutral": "Предметом соглашения станет работа по защите прав и законных интересов семей, женщин и детей, отметили в пресс-службе ФПА",
+      "main_idea": "Федеральная палата адвокатов договорилась о сотрудничестве с \"Советом матерей\"",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 31 Jul 2026 11:38:13 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27970933",
+      "published_at": "Fri, 31 Jul 2026 14:18:30 +0300",
+      "url": "https://tass.ru/obschestvo/27971609",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Москве из-за жары объявили оранжевый уровень опасности 1-2 августа",
-      "title_neutral": "В Москве из-за жары объявили оранжевый уровень опасности 1-2 августа",
-      "excerpt": "Максимальная температура воздуха в субботу составит до 30 градусов",
-      "recap_neutral": "Максимальная температура воздуха в субботу составит до 30 градусов",
-      "main_idea": "В Москве из-за жары объявили оранжевый уровень опасности 1-2 августа",
+      "title_original": "В Хмельницком ограничили движение транспорта",
+      "title_neutral": "В Хмельницком ограничили движение транспорта",
+      "excerpt": "В городе произошли мощные взрывы",
+      "recap_neutral": "В городе произошли мощные взрывы",
+      "main_idea": "В Хмельницком ограничили движение транспорта",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 31 Jul 2026 11:38:08 +0300",
-      "url": "https://tass.ru/obschestvo/27970937",
+      "published_at": "Fri, 31 Jul 2026 14:18:30 +0300",
+      "url": "https://tass.ru/proisshestviya/27971583",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Король Испании обсудил с премьером миграционный кризис в Сеуте",
-      "title_neutral": "Король Испании обсудил с премьером миграционный кризис в Сеуте",
-      "excerpt": "Власти Испании решили задействовать военных для помощи в обеспечении безопасности в населенном пункте",
-      "recap_neutral": "Власти Испании решили задействовать военных для помощи в обеспечении безопасности в населенном пункте",
-      "main_idea": "Король Испании обсудил с премьером миграционный кризис в Сеуте",
+      "title_original": "В Кувейте сбили иранские БПЛА",
+      "title_neutral": "В Кувейте сбили иранские БПЛА",
+      "excerpt": "Информация о пострадавших не поступала",
+      "recap_neutral": "Информация о пострадавших не поступала",
+      "main_idea": "В Кувейте сбили иранские БПЛА",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 31 Jul 2026 14:16:47 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27971581",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве на Алтуфьевском шоссе реконструировали газопровод среднего давления",
+      "title_neutral": "В Москве на Алтуфьевском шоссе реконструировали газопровод среднего давления",
+      "excerpt": "Работа была выполнена без прекращения подачи газа благодаря закольцованной системе, которая обеспечила бесперебойное снабжение потребителей",
+      "recap_neutral": "Работа была выполнена без прекращения подачи газа благодаря закольцованной системе, которая обеспечила бесперебойное снабжение потребителей",
+      "main_idea": "В Москве на Алтуфьевском шоссе реконструировали газопровод среднего давления",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 31 Jul 2026 14:15:21 +0300",
+      "url": "https://tass.ru/obschestvo/27971589",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Защита обжалует арест второго обвиняемого по делу об избиении ученого Зезина",
+      "title_neutral": "Защита обжалует арест второго обвиняемого по делу об избиении ученого Зезина",
+      "excerpt": "Адвокат Алексей Стадников заявил, что решение является незаконным и необоснованным",
+      "recap_neutral": "Адвокат Алексей Стадников заявил, что решение является незаконным и необоснованным",
+      "main_idea": "Защита обжалует арест второго обвиняемого по делу об избиении ученого Зезина",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 31 Jul 2026 11:37:45 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27970911",
+      "published_at": "Fri, 31 Jul 2026 14:14:43 +0300",
+      "url": "https://tass.ru/proisshestviya/27971569",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ученые установят 75 фотоловушек на острове в Карском море",
-      "title_neutral": "Ученые установят 75 фотоловушек на острове в Карском море",
-      "excerpt": "До сих пор мониторинг фауны в регионе проводился методами наземного учета, в отдельные годы авиаучета и мечения животных",
-      "recap_neutral": "До сих пор мониторинг фауны в регионе проводился методами наземного учета, в отдельные годы авиаучета и мечения животных",
-      "main_idea": "Ученые установят 75 фотоловушек на острове в Карском море",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 31 Jul 2026 11:36:49 +0300",
-      "url": "https://tass.ru/obschestvo/27969817",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Природный пожар в районе Фетхие в Турции взяли под контроль",
-      "title_neutral": "Природный пожар в районе Фетхие в Турции взяли под контроль",
-      "excerpt": "Пожары в Аланье в провинции Анталья и в районе Гюльнар-Айдынджик в провинции Мерсин в значительной степени контролируются, отметил глава турецкого Минсельхоза Ибрагим Юмаклы",
-      "recap_neutral": "Пожары в Аланье в провинции Анталья и в районе Гюльнар-Айдынджик в провинции Мерсин в значительной степени контролируются, отметил глава турецкого Минсельхоза Ибрагим Юмаклы",
-      "main_idea": "Природный пожар в районе Фетхие в Турции взяли под контроль",
+      "title_original": "В Киеве демонтировали более 20 вывесок на русском языке",
+      "title_neutral": "В Киеве демонтировали более 20 вывесок на русском языке",
+      "excerpt": "В отношении ответственных применили санкции и направили обращения в органы благоустройства, заявила уполномоченный по защите госязыка на Украине Елена Ивановская",
+      "recap_neutral": "В отношении ответственных применили санкции и направили обращения в органы благоустройства, заявила уполномоченный по защите госязыка на Украине Елена Ивановская",
+      "main_idea": "В Киеве демонтировали более 20 вывесок на русском языке",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 31 Jul 2026 11:35:44 +0300",
-      "url": "https://tass.ru/proisshestviya/27970899",
+      "published_at": "Fri, 31 Jul 2026 14:14:02 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27971573",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Калининграде проверит закрытый детский центр после вспышки энтеровируса",
-      "title_neutral": "В Калининграде проверит закрытый детский центр после вспышки энтеровируса",
-      "excerpt": "Заболели трое детей",
-      "recap_neutral": "Заболели трое детей",
-      "main_idea": "В Калининграде проверит закрытый детский центр после вспышки энтеровируса",
+      "title_original": "Фон дер Ляйен потребовала \"молниеносной высылки\" мигрантов из Сеуты",
+      "title_neutral": "Фон дер Ляйен потребовала \"молниеносной высылки\" мигрантов из Сеуты",
+      "excerpt": "Глава ЕК поручила двум еврокомиссарам разобраться с этим",
+      "recap_neutral": "Глава ЕК поручила двум еврокомиссарам разобраться с этим",
+      "main_idea": "Фон дер Ляйен потребовала \"молниеносной высылки\" мигрантов из Сеуты",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 31 Jul 2026 11:34:39 +0300",
-      "url": "https://tass.ru/proisshestviya/27970921",
+      "published_at": "Fri, 31 Jul 2026 14:13:47 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27971595",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Cadena SER: в Сеуту за сутки могли попасть около 49 тыс. мигрантов",
-      "title_neutral": "Cadena SER: в Сеуту за сутки могли попасть около 49 тыс. мигрантов",
-      "excerpt": "По информации радио, около 7 тыс. прибывших могут быть несовершеннолетними",
-      "recap_neutral": "По информации радио, около 7 тыс",
-      "main_idea": "Cadena SER: в Сеуту за сутки могли попасть около 49 тыс. мигрантов",
+      "title_original": "Trump’s Announcement of Gaza Deal Raises Many Unanswered Questions",
+      "title_neutral": "Trump’s Announcement of Gaza Deal Raises Many Unanswered Questions",
+      "excerpt": "Neither Hamas nor the Israeli government has issued an official statement acknowledging the deal, raising concerns about their eagerness to implement its clauses.",
+      "recap_neutral": "Neither Hamas nor the Israeli government has issued an official statement acknowledging the deal, raising concerns about their eagerness to implement its clauses",
+      "main_idea": "Trump’s Announcement of Gaza Deal Raises Many Unanswered Questions",
       "tags": [
+        "politics",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Fri, 31 Jul 2026 11:34:19 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27970833",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Fri, 31 Jul 2026 11:16:55 +0000",
+      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Соцфонд рассказал, сколько оказал россиянам услуг с начала 2026 года",
-      "title_neutral": "Соцфонд рассказал, сколько оказал россиянам услуг с начала 2026 года",
-      "excerpt": "Речь идет о 85 млн электронных услуг",
-      "recap_neutral": "Речь идет о 85 млн электронных услуг",
-      "main_idea": "Соцфонд рассказал, сколько оказал россиянам услуг с начала 2026 года",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 31 Jul 2026 11:34:04 +0300",
-      "url": "https://tass.ru/obschestvo/27970927",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Волгограде приступили к обследованию домов после атаки БПЛА",
-      "title_neutral": "В Волгограде приступили к обследованию домов после атаки БПЛА",
-      "excerpt": "Для жителей открыли ПВР",
-      "recap_neutral": "Для жителей открыли ПВР",
-      "main_idea": "В Волгограде приступили к обследованию домов после атаки БПЛА",
+      "title_original": "Live Updates: Spanish Leader Rushes to Ceuta After Thousands of Migrants Burst Into Territory",
+      "title_neutral": "Live Updates: Spanish Leader Rushes to Ceuta After Thousands of Migrants Burst Into Territory",
+      "excerpt": "Prime Minister Pedro Sánchez arrived in Ceuta, a Spanish exclave in North Africa, amid an escalating crisis for his pro-immigration government.",
+      "recap_neutral": "Prime Minister Pedro Sánchez arrived in Ceuta, a Spanish exclave in North Africa, amid an escalating crisis for his pro-immigration government",
+      "main_idea": "Live Updates: Spanish Leader Rushes to Ceuta After Thousands of Migrants Burst Into Territory",
       "tags": [
-        "conflict"
+        "politics"
       ],
-      "source": "ТАСС",
-      "published_at": "Fri, 31 Jul 2026 11:33:31 +0300",
-      "url": "https://tass.ru/obschestvo/27970913",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Fri, 31 Jul 2026 11:15:12 +0000",
+      "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Заявления Пашиняна и реакция МЭР и РЖД. Ситуация вокруг ж/д концессии",
-      "title_neutral": "Заявления Пашиняна и реакция МЭР и РЖД. Ситуация вокруг ж/д концессии",
-      "excerpt": "Премьер Армении допустил, что Ереван может потребовать от Москвы $2 млрд в год",
-      "recap_neutral": "Премьер Армении допустил, что Ереван может потребовать от Москвы $2 млрд в год",
-      "main_idea": "Заявления Пашиняна и реакция МЭР и РЖД. Ситуация вокруг ж/д концессии",
+      "title_original": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
+      "title_neutral": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
+      "excerpt": "Prime Minister Pedro Sánchez was set to arrive in Ceuta, a Spanish territory in Africa, amid an escalating crisis for his pro-immigration government.",
+      "recap_neutral": "Prime Minister Pedro Sánchez was set to arrive in Ceuta, a Spanish territory in Africa, amid an escalating crisis for his pro-immigration government",
+      "main_idea": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
       "tags": [
+        "politics",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Fri, 31 Jul 2026 11:33:01 +0300",
-      "url": "https://tass.ru/ekonomika/27970853",
-      "lang": "ru",
-      "bias_score": 56,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Fri, 31 Jul 2026 11:14:49 +0000",
+      "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
-      "title_neutral": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
-      "excerpt": "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday.",
-      "recap_neutral": "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday",
-      "main_idea": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+      "title_original": "Iran Says It Targeted U.S. Military in Kuwait With Drones",
+      "title_neutral": "Iran Says It Targeted U.S. Military in Kuwait With Drones",
+      "excerpt": "The Kuwaiti military said that it had detected and destroyed multiple drones in its airspace since dawn. The U.S. military did not immediately report any attacks.",
+      "recap_neutral": "The Kuwaiti military said that it had detected and destroyed multiple drones in its airspace since dawn",
+      "main_idea": "Iran Says It Targeted U.S. Military in Kuwait With Drones",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 31 Jul 2026 11:14:34 +0000",
+      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/iran-us-military-kuwait-drone-attack.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
+      "title_neutral": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
+      "excerpt": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600.",
+      "recap_neutral": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600",
+      "main_idea": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
       "tags": [],
       "source": "BBC World",
-      "published_at": "Fri, 31 Jul 2026 08:29:54 GMT",
+      "published_at": "Fri, 31 Jul 2026 11:14:29 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "I Flew in the Douglas DC-3, a WWII Workhorse of Aviation, Over the Amazon",
+      "title_neutral": "I Flew in the Douglas DC-3, a WWII Workhorse of Aviation, Over the Amazon",
+      "excerpt": "The Douglas DC-3 was mass produced during World War II. Today, one of the few still remaining transports passengers in Colombia’s jungle.",
+      "recap_neutral": "The Douglas DC-3 was mass produced during World War II",
+      "main_idea": "I Flew in the Douglas DC-3, a WWII Workhorse of Aviation, Over the Amazon",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 31 Jul 2026 11:12:53 +0000",
+      "url": "https://www.nytimes.com/2026/07/31/world/americas/plane-douglas-dc3-wwii-colombia.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "At least 24 people die as thousands cross to Spanish enclave of Ceuta from Morocco",
+      "title_neutral": "At least 24 people die as thousands cross to Spanish enclave of Ceuta from Morocco",
+      "excerpt": "Some drowned and others got caught up in crush, official says, as incident prompts criticism by other EU nations Europe live – latest updates At least 24 people have died trying to reach the Spanish enclave of Ceuta after more than 40,000 migrants entered the tiny territory from Morocco in a matter…",
+      "recap_neutral": "Some drowned and others got caught up in crush, official says, as incident prompts criticism by other EU nations Europe live – latest updates At least 24 people have died trying to reach the Spanish enclave of Ceuta aft…",
+      "main_idea": "At least 24 people die as thousands cross to Spanish enclave of Ceuta from Morocco",
+      "tags": [],
+      "source": "The Guardian",
+      "published_at": "Fri, 31 Jul 2026 11:06:51 GMT",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "UK petrol prices rise to highest this year as US attacks Iran – business live",
+      "title_neutral": "UK petrol prices rise to highest this year as US attacks Iran – business live",
+      "excerpt": "Live, rolling coverage as the AA and RAC report prices rising to around £1.60 per litre after Donald Trump ordered renewed bombing in the Middle East The story piquing the interest of the financial press this morning is that of Leopold Aschenbrenner , the AI Wunderkind (he’s German-born) who has be…",
+      "recap_neutral": "Live, rolling coverage as the AA and RAC report prices rising to around £1",
+      "main_idea": "UK petrol prices rise to highest this year as US attacks Iran – business live",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Fri, 31 Jul 2026 11:06:04 GMT",
+      "url": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Selling Burritos Back to Mexico: Chipotle’s Bold Expansion",
+      "title_neutral": "Selling Burritos Back to Mexico: Chipotle’s Bold Expansion",
+      "excerpt": "As the Mexican-inspired American chain makes its debut in Mexico, it faces a major hurdle: convincing Mexicans to buy an Americanized take on their own national cuisine.",
+      "recap_neutral": "As the Mexican-inspired American chain makes its debut in Mexico, it faces a major hurdle: convincing Mexicans to buy an Americanized take on their own national cuisine",
+      "main_idea": "Selling Burritos Back to Mexico: Chipotle’s Bold Expansion",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 31 Jul 2026 11:03:08 +0000",
+      "url": "https://www.nytimes.com/2026/07/31/world/americas/chipotle-restaurant-mexico.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon",
+      "title_neutral": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon",
+      "excerpt": "The geometric earthwork structures, carved into the ground with embankments and ditches, are in some cases more than 2,500 years old, researchers said.",
+      "recap_neutral": "The geometric earthwork structures, carved into the ground with embankments and ditches, are in some cases more than 2,500 years old, researchers said",
+      "main_idea": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 31 Jul 2026 10:44:34 +0000",
+      "url": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "title_neutral": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "excerpt": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+      "recap_neutral": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025",
+      "main_idea": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 31 Jul 2026 10:32:17 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "In Area Hit by Blaze, French Officials Failed to Enforce Wildfire Rules",
+      "title_neutral": "In Area Hit by Blaze, French Officials Failed to Enforce Wildfire Rules",
+      "excerpt": "Under French rules, homeowners must clear vegetation within roughly 50 yards of their houses. In the forests affected by France’s worst fire in decades, that didn’t happen.",
+      "recap_neutral": "Under French rules, homeowners must clear vegetation within roughly 50 yards of their houses",
+      "main_idea": "In Area Hit by Blaze, French Officials Failed to Enforce Wildfire Rules",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 31 Jul 2026 10:25:47 +0000",
+      "url": "https://www.nytimes.com/2026/07/31/france-heat-firebreak-buffer-wildfire.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How AI Powered Developer Tools Are Transforming Software Engineering Productivity",
+      "title_neutral": "How AI Powered Developer Tools Are Transforming Software Engineering Productivity",
+      "excerpt": "Discover how AI-powered developer tools are boosting coding speed, quality, and engineering productivity.",
+      "recap_neutral": "Discover how AI-powered developer tools are boosting coding speed, quality, and engineering productivity",
+      "main_idea": "How AI Powered Developer Tools Are Transforming Software Engineering Productivity",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 31 Jul 2026 09:49:09 GMT",
+      "url": "https://hackernoon.com/how-ai-powered-developer-tools-are-transforming-software-engineering-productivity?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AC Milan and Italy great Baresi dies aged 66",
+      "title_neutral": "AC Milan and Italy great Baresi dies aged 66",
+      "excerpt": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
+      "recap_neutral": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces",
+      "main_idea": "AC Milan and Italy great Baresi dies aged 66",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Fri, 31 Jul 2026 09:44:48 GMT",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Political Turmoil Will Not Derail Killer Robot Program, Ousted Minister Says",
+      "title_neutral": "Political Turmoil Will Not Derail Killer Robot Program, Ousted Minister Says",
+      "excerpt": "The Ukrainian former defense minister Mykhailo Fedorov, an advocate for drone and robot warfare, says the country’s tech-heavy strategy will persist.",
+      "recap_neutral": "The Ukrainian former defense minister Mykhailo Fedorov, an advocate for drone and robot warfare, says the country’s tech-heavy strategy will persist",
+      "main_idea": "Political Turmoil Will Not Derail Killer Robot Program, Ousted Minister Says",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 31 Jul 2026 09:25:39 +0000",
+      "url": "https://www.nytimes.com/2026/07/31/world/europe/federov-ukraine-killer-robots.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "German Authorities Knew of Pride Attacker’s Extremism",
+      "title_neutral": "German Authorities Knew of Pride Attacker’s Extremism",
+      "excerpt": "The assailant, a German citizen, was imprisoned after trying to join the Islamic State but freed weeks before attacking a gay Pride event in Berlin.",
+      "recap_neutral": "The assailant, a German citizen, was imprisoned after trying to join the Islamic State but freed weeks before attacking a gay Pride event in Berlin",
+      "main_idea": "German Authorities Knew of Pride Attacker’s Extremism",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 31 Jul 2026 09:03:16 +0000",
+      "url": "https://www.nytimes.com/2026/07/31/world/europe/germany-pride-attack-extremism.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "At Least 34 Dead From Coal Mine Blast in Pakistan",
+      "title_neutral": "At Least 34 Dead From Coal Mine Blast in Pakistan",
+      "excerpt": "Rescuers were searching for missing bodies from the accident in one of the country’s mining hubs, where methane gas explosions and mine collapses are frequent.",
+      "recap_neutral": "Rescuers were searching for missing bodies from the accident in one of the country’s mining hubs, where methane gas explosions and mine collapses are frequent",
+      "main_idea": "At Least 34 Dead From Coal Mine Blast in Pakistan",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Fri, 31 Jul 2026 09:00:09 +0000",
+      "url": "https://www.nytimes.com/2026/07/31/world/asia/pakistan-coal-mine-explosion.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1347,38 +1072,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "At least 18 die trying to cross to Spanish enclave of Ceuta from Morocco",
-      "title_neutral": "At least 18 die trying to cross to Spanish enclave of Ceuta from Morocco",
-      "excerpt": "Some drowned and others caught up in crush, official says, and thousands sleep on streets or in parks At least 18 people have died trying to reach the Spanish enclave of Ceuta after about 49,000 migrants breached the border with Morocco and poured into the tiny territory. Spain sent ​military and p…",
-      "recap_neutral": "Some drowned and others caught up in crush, official says, and thousands sleep on streets or in parks At least 18 people have died trying to reach the Spanish enclave of Ceuta after about 49,000 migrants breached the bo…",
-      "main_idea": "At least 18 die trying to cross to Spanish enclave of Ceuta from Morocco",
-      "tags": [
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Fri, 31 Jul 2026 07:59:08 GMT",
-      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+      "title_original": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "title_neutral": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 31 Jul 2026 07:59:11 +0000",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
       "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "BP to sell North Sea business; AI companies lead record surge on Korea’s stock market – business live",
-      "title_neutral": "BP to sell North Sea business; AI companies lead record surge on Korea’s stock market – business live",
-      "excerpt": "Live, rolling coverage as British oil company looks for buyer amid political dispute over future drilling licences Another of the top risers on the FTSE 100 this morning is Sainsbury’s . The supermarket chain is up 4% after it said it had agreed the £120m sale of catalogue shopping business Argos t…",
-      "recap_neutral": "Live, rolling coverage as British oil company looks for buyer amid political dispute over future drilling licences Another of the top risers on the FTSE 100 this morning is Sainsbury’s",
-      "main_idea": "BP to sell North Sea business; AI companies lead record surge on Korea’s stock market – business live",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Fri, 31 Jul 2026 07:58:43 GMT",
-      "url": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
+      "bias_score": 40,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1399,18 +1104,87 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "AC Milan and Italy great Baresi dies aged 66",
-      "title_neutral": "AC Milan and Italy great Baresi dies aged 66",
-      "excerpt": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
-      "recap_neutral": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces",
-      "main_idea": "AC Milan and Italy great Baresi dies aged 66",
+      "title_original": "Why the Best Acquisition Strategy Is Forgetting About the Acquisition",
+      "title_neutral": "Why the Best Acquisition Strategy Is Forgetting About the Acquisition",
+      "excerpt": "The best acquisition targets are built for profitability, resilience, strong culture, and long-term growth—not simply for a future exit.",
+      "recap_neutral": "The best acquisition targets are built for profitability, resilience, strong culture, and long-term growth—not simply for a future exit",
+      "main_idea": "Why the Best Acquisition Strategy Is Forgetting About the Acquisition",
       "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 31 Jul 2026 07:27:00 GMT",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+      "source": "HackerNoon",
+      "published_at": "Fri, 31 Jul 2026 07:10:13 GMT",
+      "url": "https://hackernoon.com/why-the-best-acquisition-strategy-is-forgetting-about-the-acquisition?source=rss",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Anatomy of a Silent 502: How Four HAProxy Characters Exposed a K8s Upload Failure",
+      "title_neutral": "Anatomy of a Silent 502: How Four HAProxy Characters Exposed a K8s Upload Failure",
+      "excerpt": "A production file-upload incident returned HAProxy 502 errors while ingress-nginx, APISIX, and application logs stayed empty. H",
+      "recap_neutral": "A production file-upload incident returned HAProxy 502 errors while ingress-nginx, APISIX, and application logs stayed empty",
+      "main_idea": "Anatomy of a Silent 502: How Four HAProxy Characters Exposed a K8s Upload Failure",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 31 Jul 2026 07:07:47 GMT",
+      "url": "https://hackernoon.com/anatomy-of-a-silent-502-how-four-haproxy-characters-exposed-a-k8s-upload-failure?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "I Scored a Perfect 996 on Anthropic's Claude Certified Architect Professional Exam",
+      "title_neutral": "I Scored a Perfect 996 on Anthropic's Claude Certified Architect Professional Exam",
+      "excerpt": "How I scored a perfect 996 (100% in all 7 domains) on Anthropic's Claude Certified Architect Professional exam, and the architect mindset it rewards.",
+      "recap_neutral": "How I scored a perfect 996 (100% in all 7 domains) on Anthropic's Claude Certified Architect Professional exam, and the architect mindset it rewards",
+      "main_idea": "I Scored a Perfect 996 on Anthropic's Claude Certified Architect Professional Exam",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 31 Jul 2026 07:07:22 GMT",
+      "url": "https://hackernoon.com/i-scored-a-perfect-996-on-anthropics-claude-certified-architect-professional-exam?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Everyone Is Talking About Humanoid Robots. Procurement Data Shows What Comes Next.",
+      "title_neutral": "Everyone Is Talking About Humanoid Robots. Procurement Data Shows What Comes Next.",
+      "excerpt": "Humanoid robots are changing industries. See how procurement data reveals early trends in robotics, AI, automation, and future investments.",
+      "recap_neutral": "Humanoid robots are changing industries",
+      "main_idea": "Everyone Is Talking About Humanoid Robots. Procurement Data Shows What Comes Next.",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 31 Jul 2026 07:05:39 GMT",
+      "url": "https://hackernoon.com/everyone-is-talking-about-humanoid-robots-procurement-data-shows-what-comes-next?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to Automate AI Video Generation With an AI Agent (Without Losing the Director's Job)",
+      "title_neutral": "How to Automate AI Video Generation With an AI Agent (Without Losing the Director's Job)",
+      "excerpt": "An AI agent can pick the model, set the parameters, and fetch the clip. It still can't decide which take belongs in your film.",
+      "recap_neutral": "An AI agent can pick the model, set the parameters, and fetch the clip",
+      "main_idea": "How to Automate AI Video Generation With an AI Agent (Without Losing the Director's Job)",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 31 Jul 2026 07:04:34 GMT",
+      "url": "https://hackernoon.com/how-to-automate-ai-video-generation-with-an-ai-agent-without-losing-the-directors-job?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1429,6 +1203,151 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Can a New iOS Developer Ship an App in Two Months?",
+      "title_neutral": "Can a New iOS Developer Ship an App in Two Months?",
+      "excerpt": "I'm a dad with a full-time job and zero mobile dev experience, and I just gave myself 60 days to ship an iOS app, and win a hackathon.",
+      "recap_neutral": "I'm a dad with a full-time job and zero mobile dev experience, and I just gave myself 60 days to ship an iOS app, and win a hackathon",
+      "main_idea": "Can a New iOS Developer Ship an App in Two Months?",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Fri, 31 Jul 2026 06:58:28 GMT",
+      "url": "https://hackernoon.com/can-a-new-ios-developer-ship-an-app-in-two-months?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AI Infrastructure Is Becoming an Energy Business",
+      "title_neutral": "AI Infrastructure Is Becoming an Energy Business",
+      "excerpt": "AI competition is shifting from model size to energy, grid capacity, custom chips and integrated infrastructure built at industrial scale.",
+      "recap_neutral": "AI competition is shifting from model size to energy, grid capacity, custom chips and integrated infrastructure built at industrial scale",
+      "main_idea": "AI Infrastructure Is Becoming an Energy Business",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 31 Jul 2026 06:54:51 GMT",
+      "url": "https://hackernoon.com/ai-infrastructure-is-becoming-an-energy-business?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Inside ARK-ASR-3B’s Whisper and Qwen Architecture",
+      "title_neutral": "Inside ARK-ASR-3B’s Whisper and Qwen Architecture",
+      "excerpt": "Review ARK-ASR-3B’s performance, architecture, use cases, VRAM needs, and OpenAI-compatible vLLM endpoints for speech-to-text applications.",
+      "recap_neutral": "Review ARK-ASR-3B’s performance, architecture, use cases, VRAM needs, and OpenAI-compatible vLLM endpoints for speech-to-text applications",
+      "main_idea": "Inside ARK-ASR-3B’s Whisper and Qwen Architecture",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 31 Jul 2026 06:50:55 GMT",
+      "url": "https://hackernoon.com/inside-ark-asr-3bs-whisper-and-qwen-architecture?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Meeting That Outlived Its Purpose",
+      "title_neutral": "The Meeting That Outlived Its Purpose",
+      "excerpt": "Fourteen of my forty weekly hours belonged to one recurring status meeting with eleven people on the invite.",
+      "recap_neutral": "Fourteen of my forty weekly hours belonged to one recurring status meeting with eleven people on the invite",
+      "main_idea": "The Meeting That Outlived Its Purpose",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Fri, 31 Jul 2026 06:49:11 GMT",
+      "url": "https://hackernoon.com/the-meeting-that-outlived-its-purpose?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Machine-Driven Development: Coding in the Age of AI",
+      "title_neutral": "Machine-Driven Development: Coding in the Age of AI",
+      "excerpt": "Move past unstructured vibe coding. Discover a disciplined, cost-effective Machine Driven Development (MDD) framework combining Opncode, Git, VSCode, Laravel",
+      "recap_neutral": "Move past unstructured vibe coding",
+      "main_idea": "Machine-Driven Development: Coding in the Age of AI",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 31 Jul 2026 06:41:19 GMT",
+      "url": "https://hackernoon.com/machine-driven-development-coding-in-the-age-of-ai?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Lazy Programmer’s Guide to AI-Assisted Development",
+      "title_neutral": "The Lazy Programmer’s Guide to AI-Assisted Development",
+      "excerpt": "AI coding agents can accelerate development, but they may also generate bloated code and technical debt. Learn where they help and fail.",
+      "recap_neutral": "AI coding agents can accelerate development, but they may also generate bloated code and technical debt",
+      "main_idea": "The Lazy Programmer’s Guide to AI-Assisted Development",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 31 Jul 2026 06:39:01 GMT",
+      "url": "https://hackernoon.com/the-lazy-programmers-guide-to-ai-assisted-development?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Understanding Nonisolated Async Code in Swift 6.2",
+      "title_neutral": "Understanding Nonisolated Async Code in Swift 6.2",
+      "excerpt": "Understand Swift 6.2's new concurrency model, including NonisolatedNonsendingByDefault, executor inheritance, and predictable async execution.",
+      "recap_neutral": "Understand Swift 6",
+      "main_idea": "Understanding Nonisolated Async Code in Swift 6.2",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Fri, 31 Jul 2026 06:35:51 GMT",
+      "url": "https://hackernoon.com/understanding-nonisolated-async-code-in-swift-62?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Boring Tech Has Survived a Thousand Tuesdays",
+      "title_neutral": "Boring Tech Has Survived a Thousand Tuesdays",
+      "excerpt": "New technology may shine in demos, but boring tools survive production. Learn how to spend innovation where it delivers real value.",
+      "recap_neutral": "New technology may shine in demos, but boring tools survive production",
+      "main_idea": "Boring Tech Has Survived a Thousand Tuesdays",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 31 Jul 2026 06:34:21 GMT",
+      "url": "https://hackernoon.com/boring-tech-has-survived-a-thousand-tuesdays?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A Developer’s Guide to Sunrise and Sunset Calculations in PHP",
+      "title_neutral": "A Developer’s Guide to Sunrise and Sunset Calculations in PHP",
+      "excerpt": "A tutorial for developers on how to use the PHP Zmanim library, including working code samples to calculate religious observance times based on astronomy.",
+      "recap_neutral": "A tutorial for developers on how to use the PHP Zmanim library, including working code samples to calculate religious observance times based on astronomy",
+      "main_idea": "A Developer’s Guide to Sunrise and Sunset Calculations in PHP",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Fri, 31 Jul 2026 06:32:14 GMT",
+      "url": "https://hackernoon.com/a-developers-guide-to-sunrise-and-sunset-calculations-in-php?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "DeepSeek-V4-Flash Update",
       "title_neutral": "DeepSeek-V4-Flash Update",
       "excerpt": "Comments",
@@ -1441,6 +1360,21 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A Whale Gave Birth. A Drone Was There to Capture the Spectacle.",
+      "title_neutral": "A Whale Gave Birth. A Drone Was There to Capture the Spectacle.",
+      "excerpt": "A wildlife photographer noticed a humpback whale displaying unusual behavior off Australia’s east coast, then something extraordinary happened.",
+      "recap_neutral": "A wildlife photographer noticed a humpback whale displaying unusual behavior off Australia’s east coast, then something extraordinary happened",
+      "main_idea": "A Whale Gave Birth. A Drone Was There to Capture the Spectacle.",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Fri, 31 Jul 2026 05:49:53 +0000",
+      "url": "https://www.nytimes.com/2026/07/31/world/australia/humpback-whale-birth-video-drone.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1474,20 +1408,119 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Show HN: What should the GUI for AI agents look like?",
-      "title_neutral": "Show HN: What should the GUI for AI agents look like?",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: What should the GUI for AI agents look like?",
+      "title_original": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
+      "title_neutral": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
+      "excerpt": "Plus: scandalous Senate drama, Grammys drama and Homeric drama.",
+      "recap_neutral": "Plus: scandalous Senate drama, Grammys drama and Homeric drama",
+      "main_idea": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Fri, 31 Jul 2026 05:01:00 -0400",
+      "url": "https://www.npr.org/2026/07/31/g-s1-136290/epstein-trump-fauci-grammys-bts-news-quiz",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Democrats show divisions on Israel amid competitive midterm elections",
+      "title_neutral": "Democrats show divisions on Israel amid competitive midterm elections",
+      "excerpt": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza.",
+      "recap_neutral": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza",
+      "main_idea": "Democrats show divisions on Israel amid competitive midterm elections",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Fri, 31 Jul 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears",
+      "title_neutral": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears",
+      "excerpt": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don't know where the numbers came from, and some worry what the claims may portend for the midterms.",
+      "recap_neutral": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states",
+      "main_idea": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears",
       "tags": [
         "tech"
       ],
-      "source": "Hacker News",
-      "published_at": "Fri, 31 Jul 2026 05:17:29 +0000",
-      "url": "https://marbleos.com/demo",
+      "source": "NPR",
+      "published_at": "Fri, 31 Jul 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
+      "title_neutral": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
+      "excerpt": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs.",
+      "recap_neutral": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs",
+      "main_idea": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "NPR",
+      "published_at": "Fri, 31 Jul 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "450K borrowers say they were ripped off. Their student loans are being erased",
+      "title_neutral": "450K borrowers say they were ripped off. Their student loans are being erased",
+      "excerpt": "The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years.",
+      "recap_neutral": "The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years",
+      "main_idea": "450K borrowers say they were ripped off. Their student loans are being erased",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Fri, 31 Jul 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Morning news brief",
+      "title_neutral": "Morning news brief",
+      "excerpt": "President Trump says he may pull Todd Blanche's nomination, Trump says a deal has been made to disarm Hamas and withdraw Israeli forces from Gaza, the U.S. economy is growing, but at a slower pace.",
+      "recap_neutral": "President Trump says he may pull Todd Blanche's nomination, Trump says a deal has been made to disarm Hamas and withdraw Israeli forces from Gaza, the U",
+      "main_idea": "Morning news brief",
+      "tags": [
+        "politics",
+        "economy"
+      ],
+      "source": "NPR",
+      "published_at": "Fri, 31 Jul 2026 04:49:30 -0400",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5901900/morning-news-brief",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "'I can do this': Woman with cancer reflects on her life and facing death",
+      "title_neutral": "'I can do this': Woman with cancer reflects on her life and facing death",
+      "excerpt": "For StoryCorps, Karán Founds-Benton talks to her friend about her cancer diagnosis and facing death.",
+      "recap_neutral": "For StoryCorps, Karán Founds-Benton talks to her friend about her cancer diagnosis and facing death",
+      "main_idea": "'I can do this': Woman with cancer reflects on her life and facing death",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Fri, 31 Jul 2026 04:44:53 -0400",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5910511/i-can-do-this-woman-with-cancer-reflects-on-her-life-and-facing-death",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1523,17 +1556,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "U.S.-Saudi Attack on Iraqi Militias Risks Drawing Them into War",
-      "title_neutral": "U.S.-Saudi Attack on Iraqi Militias Risks Drawing Them into War",
-      "excerpt": "Iran-aligned militias in Iraq were under growing pressure to disarm, but the latest strikes may embolden them to get more deeply involved in the war.",
-      "recap_neutral": "Iran-aligned militias in Iraq were under growing pressure to disarm, but the latest strikes may embolden them to get more deeply involved in the war",
-      "main_idea": "U.S.-Saudi Attack on Iraqi Militias Risks Drawing Them into War",
-      "tags": [
-        "conflict"
-      ],
+      "title_original": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
+      "title_neutral": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
+      "excerpt": "Flaming chunks of metal crash into homes, farms and parking lots. Who’s to blame? And who pays for the damage?",
+      "recap_neutral": "Flaming chunks of metal crash into homes, farms and parking lots",
+      "main_idea": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
+      "tags": [],
       "source": "NYTimes World",
-      "published_at": "Fri, 31 Jul 2026 04:18:00 +0000",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/iraqi-militias-iran-war-saudi-arabia-us.html",
+      "published_at": "Fri, 31 Jul 2026 04:01:09 +0000",
+      "url": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -1555,37 +1586,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "At least 18 die after breach of border between Morocco and Spanish exclave of Ceuta",
-      "title_neutral": "At least 18 die after breach of border between Morocco and Spanish exclave of Ceuta",
-      "excerpt": "At least 18 migrants have died trying to reach the Spanish exclave of Ceuta, where Spain deployed its military after thousands of people breached the border with Morocco and poured into the territory.",
-      "recap_neutral": "At least 18 migrants have died trying to reach the Spanish exclave of Ceuta, where Spain deployed its military after thousands of people breached the border with Morocco and poured into the territory",
-      "main_idea": "At least 18 die after breach of border between Morocco and Spanish exclave of Ceuta",
-      "tags": [
-        "tech"
-      ],
+      "title_original": "At least 18 die after breach of border between Morocco and Spanish territory of Ceuta",
+      "title_neutral": "At least 18 die after breach of border between Morocco and Spanish territory of Ceuta",
+      "excerpt": "At least 18 migrants have died trying to reach the Spanish territory of Ceuta after thousands of people breached the frontier with Morocco and poured in. The crisis boiled over Thursday and overnight.",
+      "recap_neutral": "At least 18 migrants have died trying to reach the Spanish territory of Ceuta after thousands of people breached the frontier with Morocco and poured in",
+      "main_idea": "At least 18 die after breach of border between Morocco and Spanish territory of Ceuta",
+      "tags": [],
       "source": "NPR",
       "published_at": "Fri, 31 Jul 2026 02:02:00 -0400",
       "url": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "U.S. Aircraft Carrier Makes Rare Port Call in Vietnam",
-      "title_neutral": "U.S. Aircraft Carrier Makes Rare Port Call in Vietnam",
-      "excerpt": "The seven-day visit, the longest since the two countries restored relations, is a show of mutual cooperation and a U.S. signal to China. But it comes during tensions over tariffs.",
-      "recap_neutral": "The seven-day visit, the longest since the two countries restored relations, is a show of mutual cooperation and a U",
-      "main_idea": "U.S. Aircraft Carrier Makes Rare Port Call in Vietnam",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 31 Jul 2026 01:45:31 +0000",
-      "url": "https://www.nytimes.com/2026/07/30/world/asia/vietnam-aircraft-carrier.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1620,23 +1632,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Saudis Form Military Alliance to Protect Red Sea Shipping",
-      "title_neutral": "Saudis Form Military Alliance to Protect Red Sea Shipping",
-      "excerpt": "As the war between the United States and Iran widened, Saudi Arabia joined with over a dozen other countries, including Egypt and Turkey, to form a new defense coalition to stop attacks on shipping in the Red Sea.",
-      "recap_neutral": "As the war between the United States and Iran widened, Saudi Arabia joined with over a dozen other countries, including Egypt and Turkey, to form a new defense coalition to stop attacks on shipping in the Red Sea",
-      "main_idea": "Saudis Form Military Alliance to Protect Red Sea Shipping",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 31 Jul 2026 00:46:08 +0000",
-      "url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     }
   ]
