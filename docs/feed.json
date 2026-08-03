@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-08-03T09:37:41.616605+00:00",
+  "last_updated": "2026-08-03T12:52:10.201575+00:00",
   "items": [
-    {
-      "title_original": "How do you rewrite C/C++ projects to Rust?",
-      "title_neutral": "How do you rewrite C/C++ projects to Rust?",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "How do you rewrite C/C++ projects to Rust?",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 29 Jul 2026 01:12:09 +0000",
-      "url": "https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
     {
       "title_original": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
       "title_neutral": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
@@ -51,6 +36,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "The Millisecond Conundrum: Balancing Latency, Freshness, and Intelligence at Scale",
+      "title_neutral": "The Millisecond Conundrum: Balancing Latency, Freshness, and Intelligence at Scale",
+      "excerpt": "Discover why modern AI serving systems optimize for system utility using latency budgets, ML inference, tail latency control, & graceful degradation.",
+      "recap_neutral": "Discover why modern AI serving systems optimize for system utility using latency budgets, ML inference, tail latency control, & graceful degradation",
+      "main_idea": "The Millisecond Conundrum: Balancing Latency, Freshness, and Intelligence at Scale",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sun, 02 Aug 2026 22:02:39 GMT",
+      "url": "https://hackernoon.com/the-millisecond-conundrum-balancing-latency-freshness-and-intelligence-at-scale?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
       "title_neutral": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
       "excerpt": "Far-right politicians and activists are flocking to the Spanish territory on the northern coast of Africa, fueling tensions there days after thousands of migrants entered the exclave.",
@@ -83,216 +85,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Dashboard Trust Is a Data Governance Problem, Not a BI Tool Problem",
-      "title_neutral": "Dashboard Trust Is a Data Governance Problem, Not a BI Tool Problem",
-      "excerpt": "Learn why dashboard trust is a data governance issue, not a BI tool problem, and how governance practices create reliable, decision-ready analytics.",
-      "recap_neutral": "Learn why dashboard trust is a data governance issue, not a BI tool problem, and how governance practices create reliable, decision-ready analytics",
-      "main_idea": "Dashboard Trust Is a Data Governance Problem, Not a BI Tool Problem",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sun, 02 Aug 2026 21:26:29 GMT",
-      "url": "https://hackernoon.com/dashboard-trust-is-a-data-governance-problem-not-a-bi-tool-problem?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Beyond Simple Prompts: Engineering Self-Reflection & Actor-Critic Loops in AI Agents",
-      "title_neutral": "Beyond Simple Prompts: Engineering Self-Reflection & Actor-Critic Loops in AI Agents",
-      "excerpt": "Move past fragile one-shot prompting. Discover how to build deterministic runtime checks, autonomous repair loops, and actor-critic agent architectures.",
-      "recap_neutral": "Move past fragile one-shot prompting",
-      "main_idea": "Beyond Simple Prompts: Engineering Self-Reflection & Actor-Critic Loops in AI Agents",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 02 Aug 2026 21:08:34 GMT",
-      "url": "https://hackernoon.com/beyond-simple-prompts-engineering-self-reflection-and-actor-critic-loops-in-ai-agents?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Five Prediction Markets, Five Definitions of Price: The Normalization Problem Nobody Talks About",
-      "title_neutral": "Five Prediction Markets, Five Definitions of Price: The Normalization Problem Nobody Talks About",
-      "excerpt": "Kalshi, Polymarket, and other prediction markets expose similar-looking prices that can represent different quotes, fees, contracts, and timestamps.",
-      "recap_neutral": "Kalshi, Polymarket, and other prediction markets expose similar-looking prices that can represent different quotes, fees, contracts, and timestamps",
-      "main_idea": "Five Prediction Markets, Five Definitions of Price: The Normalization Problem Nobody Talks About",
-      "tags": [
-        "economy"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 02 Aug 2026 21:05:14 GMT",
-      "url": "https://hackernoon.com/five-prediction-markets-five-definitions-of-price-the-normalization-problem-nobody-talks-about?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Finance in AI-Native Companies Is a Control System, Not a Monthly Report",
-      "title_neutral": "Finance in AI-Native Companies Is a Control System, Not a Monthly Report",
-      "excerpt": "AI-native businesses need real-time finance, not monthly reports. Learn how predictive FP&A, telemetry, and AI cost governance are reshaping enterprise finance.",
-      "recap_neutral": "AI-native businesses need real-time finance, not monthly reports",
-      "main_idea": "Finance in AI-Native Companies Is a Control System, Not a Monthly Report",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 02 Aug 2026 21:00:06 GMT",
-      "url": "https://hackernoon.com/finance-in-ai-native-companies-is-a-control-system-not-a-monthly-report?source=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "HRAP Suite Earns a 50.4 Proof of Usefulness Score by Building a Unified Workforce Operating System",
-      "title_neutral": "HRAP Suite Earns a 50.4 Proof of Usefulness Score by Building a Unified Workforce Operating System",
-      "excerpt": "Meet HRAP Suite, a workforce operating system serving seven organizations and 85 employees, with a 50.4 Proof of Usefulness score.",
-      "recap_neutral": "Meet HRAP Suite, a workforce operating system serving seven organizations and 85 employees, with a 50",
-      "main_idea": "HRAP Suite Earns a 50.4 Proof of Usefulness Score by Building a Unified Workforce Operating System",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sun, 02 Aug 2026 20:57:49 GMT",
-      "url": "https://hackernoon.com/hrap-suite-earns-a-504-proof-of-usefulness-score-by-building-a-unified-workforce-operating-system?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Applaa AI Earns a 48.27 Proof of Usefulness Score by Building an Offline Agentic AI Learning Platform",
-      "title_neutral": "Applaa AI Earns a 48.27 Proof of Usefulness Score by Building an Offline Agentic AI Learning Platform",
-      "excerpt": "Meet Applaa AI, an offline agentic learning platform helping students prepare for GCSEs, A-Levels, SATs, and other major exams.",
-      "recap_neutral": "Meet Applaa AI, an offline agentic learning platform helping students prepare for GCSEs, A-Levels, SATs, and other major exams",
-      "main_idea": "Applaa AI Earns a 48.27 Proof of Usefulness Score by Building an Offline Agentic AI Learning Platform",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 02 Aug 2026 20:51:36 GMT",
-      "url": "https://hackernoon.com/applaa-ai-earns-a-4827-proof-of-usefulness-score-by-building-an-offline-agentic-ai-learning-platform?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Balancing Frameworks and Fundamentals: A Strategic Approach to Full-Stack Development and ML",
-      "title_neutral": "Balancing Frameworks and Fundamentals: A Strategic Approach to Full-Stack Development and ML",
-      "excerpt": "Should you master JavaScript before React? Learn why framework-free projects build stronger debugging, architecture, and full-stack skills.",
-      "recap_neutral": "Should you master JavaScript before React? Learn why framework-free projects build stronger debugging, architecture, and full-stack skills",
-      "main_idea": "Balancing Frameworks and Fundamentals: A Strategic Approach to Full-Stack Development and ML",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sun, 02 Aug 2026 20:42:56 GMT",
-      "url": "https://hackernoon.com/balancing-frameworks-and-fundamentals-a-strategic-approach-to-full-stack-development-and-ml?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
-      "title_neutral": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
-      "excerpt": "Labor talks resumed on Sunday between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work.",
-      "recap_neutral": "Labor talks resumed on Sunday between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work",
-      "main_idea": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 02 Aug 2026 20:32:25 +0000",
-      "url": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Privacy Is No Longer a Requirement. It's an Architectural Constraint",
-      "title_neutral": "Privacy Is No Longer a Requirement. It's an Architectural Constraint",
-      "excerpt": "Most engineering teams say privacy comes first, then ship architectures that prove otherwise. Why privacy and accessibility are constraints, not checklists.",
-      "recap_neutral": "Most engineering teams say privacy comes first, then ship architectures that prove otherwise",
-      "main_idea": "Privacy Is No Longer a Requirement. It's an Architectural Constraint",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 02 Aug 2026 20:15:08 GMT",
-      "url": "https://hackernoon.com/privacy-is-no-longer-a-requirement-its-an-architectural-constraint?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trump Agreed to Crypto Ethics Rules, Then Put His Own DOJ in Charge of Enforcing Them",
-      "title_neutral": "Trump Agreed to Crypto Ethics Rules, Then Put His Own DOJ in Charge of Enforcing Them",
-      "excerpt": "The CLARITY Act's ethics deal routes enforcement through a DOJ run by Trump's former lawyer. A ban on issuing crypto that skips holding.",
-      "recap_neutral": "The CLARITY Act's ethics deal routes enforcement through a DOJ run by Trump's former lawyer",
-      "main_idea": "Trump Agreed to Crypto Ethics Rules, Then Put His Own DOJ in Charge of Enforcing Them",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sun, 02 Aug 2026 20:02:38 GMT",
-      "url": "https://hackernoon.com/trump-agreed-to-crypto-ethics-rules-then-put-his-own-doj-in-charge-of-enforcing-them?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "441 Blog Posts To Learn About Frontend",
-      "title_neutral": "441 Blog Posts To Learn About Frontend",
-      "excerpt": "Learn everything you need to know about Frontend via these 441 free HackerNoon blog posts.",
-      "recap_neutral": "Learn everything you need to know about Frontend via these 441 free HackerNoon blog posts",
-      "main_idea": "441 Blog Posts To Learn About Frontend",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Sun, 02 Aug 2026 20:00:06 GMT",
-      "url": "https://hackernoon.com/441-blog-posts-to-learn-about-frontend?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How GMX Liquidity Pools Work",
-      "title_neutral": "How GMX Liquidity Pools Work",
-      "excerpt": "Explore GMX BTC-USDC pool mechanics through on-chain data: fees, trader PnL, BTC exposure, and Non-Fee Component behavior.",
-      "recap_neutral": "Explore GMX BTC-USDC pool mechanics through on-chain data: fees, trader PnL, BTC exposure, and Non-Fee Component behavior",
-      "main_idea": "How GMX Liquidity Pools Work",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 02 Aug 2026 19:57:05 GMT",
-      "url": "https://hackernoon.com/how-gmx-liquidity-pools-work?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
-      "title_neutral": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
-      "excerpt": "A defunct part of a Falcon 9 rocket could slam into the moon at more than 5,000 miles per hour, according to scientists.",
-      "recap_neutral": "A defunct part of a Falcon 9 rocket could slam into the moon at more than 5,000 miles per hour, according to scientists",
-      "main_idea": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Sun, 02 Aug 2026 19:38:05 -0400",
-      "url": "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Pakistan Police Station Bombing Kills at Least 14",
       "title_neutral": "Pakistan Police Station Bombing Kills at Least 14",
       "excerpt": "The authorities said the suicide bombing, which killed at least 14 people in the Swat Valley. The Pakistani Taliban claimed responsibility.",
@@ -307,58 +99,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "You Don’t Need an “AI Stack” as a Product Manager",
-      "title_neutral": "You Don’t Need an “AI Stack” as a Product Manager",
-      "excerpt": "Product managers do not need a perfect stack of specialized AI apps. They need clear judgment, useful context, and a few flexible tools.",
-      "recap_neutral": "Product managers do not need a perfect stack of specialized AI apps",
-      "main_idea": "You Don’t Need an “AI Stack” as a Product Manager",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 02 Aug 2026 17:28:35 GMT",
-      "url": "https://hackernoon.com/you-dont-need-an-ai-stack-as-a-product-manager?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Six Ways AI-Generated EDA Can Mislead You Without Throwing an Error",
-      "title_neutral": "Six Ways AI-Generated EDA Can Mislead You Without Throwing an Error",
-      "excerpt": "AI can generate polished EDA in seconds, but these six silent failure modes can make clean-looking analysis misleading or incomplete.",
-      "recap_neutral": "AI can generate polished EDA in seconds, but these six silent failure modes can make clean-looking analysis misleading or incomplete",
-      "main_idea": "Six Ways AI-Generated EDA Can Mislead You Without Throwing an Error",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 02 Aug 2026 17:18:19 GMT",
-      "url": "https://hackernoon.com/six-ways-ai-generated-eda-can-mislead-you-without-throwing-an-error?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Jira Wants to Become the Control Plane for AI Coding Agents",
-      "title_neutral": "Jira Wants to Become the Control Plane for AI Coding Agents",
-      "excerpt": "Jira is evolving into a control plane for AI coding agents. Here’s what its new orchestration and tracking features could mean for software teams.",
-      "recap_neutral": "Jira is evolving into a control plane for AI coding agents",
-      "main_idea": "Jira Wants to Become the Control Plane for AI Coding Agents",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Sun, 02 Aug 2026 17:04:01 GMT",
-      "url": "https://hackernoon.com/jira-wants-to-become-the-control-plane-for-ai-coding-agents?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -411,21 +151,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Australia’s Indie Music Venues Closing as Costs Rise and Attendance Drops",
-      "title_neutral": "Australia’s Indie Music Venues Closing as Costs Rise and Attendance Drops",
-      "excerpt": "When Mary’s Underground in Sydney closed, it was a familiar tune for a scene hit by high costs and low attendance. Critics worry about a shrinking space for new talent.",
-      "recap_neutral": "When Mary’s Underground in Sydney closed, it was a familiar tune for a scene hit by high costs and low attendance",
-      "main_idea": "Australia’s Indie Music Venues Closing as Costs Rise and Attendance Drops",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sun, 02 Aug 2026 11:25:31 +0000",
-      "url": "https://www.nytimes.com/2026/08/02/world/australia/sydney-australia-marys-underground-music-venues-closing.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
       "title_neutral": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
       "excerpt": "More than a month after the earthquakes, the coastal region of La Guaira — once Venezuela’s main gateway — is completely unrecognizable.",
@@ -469,36 +194,6 @@
       "source": "NYTimes World",
       "published_at": "Sun, 02 Aug 2026 07:30:02 +0000",
       "url": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Karpathy’s Pelican",
-      "title_neutral": "Karpathy’s Pelican",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Karpathy’s Pelican",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 02 Aug 2026 04:05:56 +0000",
-      "url": "https://twitter.com/karpathy/status/2083749667410727319",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How China Keeps Tabs on Foreigners",
-      "title_neutral": "How China Keeps Tabs on Foreigners",
-      "excerpt": "An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data.",
-      "recap_neutral": "An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data",
-      "main_idea": "How China Keeps Tabs on Foreigners",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sun, 02 Aug 2026 04:03:06 +0000",
-      "url": "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -572,254 +267,598 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Italy putting nearly all major cities on highest heat alert",
-      "title_neutral": "Italy putting nearly all major cities on highest heat alert",
-      "excerpt": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
-      "recap_neutral": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be",
-      "main_idea": "Italy putting nearly all major cities on highest heat alert",
+      "title_original": "Роман Ефимов покинул пост председателя правительства Удмуртии",
+      "title_neutral": "Роман Ефимов покинул пост председателя правительства Удмуртии",
+      "excerpt": "Он работал в республике с 2018 года, а с 2024 года занимал пост премьер-министра региона",
+      "recap_neutral": "Он работал в республике с 2018 года, а с 2024 года занимал пост премьер-министра региона",
+      "main_idea": "Роман Ефимов покинул пост председателя правительства Удмуртии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 03 Aug 2026 15:50:45 +0300",
+      "url": "https://tass.ru/obschestvo/27978727",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лидер АдГ призвала добиваться приостановки шенгена из-за кризиса в Сеуте",
+      "title_neutral": "Лидер АдГ призвала добиваться приостановки шенгена из-за кризиса в Сеуте",
+      "excerpt": "Алис Вайдель отметила, что \"на месте царит хаос\" из-за нежелания правительства Испании депортировать мигрантов",
+      "recap_neutral": "Алис Вайдель отметила, что \"на месте царит хаос\" из-за нежелания правительства Испании депортировать мигрантов",
+      "main_idea": "Лидер АдГ призвала добиваться приостановки шенгена из-за кризиса в Сеуте",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 03 Aug 2026 15:49:22 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27978733",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В парках Подмосковья с начала лета свыше 3,3 тыс. человек проверили здоровье",
+      "title_neutral": "В парках Подмосковья с начала лета свыше 3,3 тыс. человек проверили здоровье",
+      "excerpt": "Пройти осмотр могли жители старше 18 лет",
+      "recap_neutral": "Пройти осмотр могли жители старше 18 лет",
+      "main_idea": "В парках Подмосковья с начала лета свыше 3,3 тыс. человек проверили здоровье",
+      "tags": [
+        "health"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 03 Aug 2026 15:47:57 +0300",
+      "url": "https://tass.ru/obschestvo/27978735",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Грузии заявили, что посольство США при администрации Байдена разжигало ненависть",
+      "title_neutral": "В Грузии заявили, что посольство США при администрации Байдена разжигало ненависть",
+      "excerpt": "Эти процессы были скоординированными, указал грузинский премьер-министр Ираклий Кобахидзе",
+      "recap_neutral": "Эти процессы были скоординированными, указал грузинский премьер-министр Ираклий Кобахидзе",
+      "main_idea": "В Грузии заявили, что посольство США при администрации Байдена разжигало ненависть",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 03 Aug 2026 15:46:06 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27978725",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Петербургский газовый форум перенесли на апрель 2027 года",
+      "title_neutral": "Петербургский газовый форум перенесли на апрель 2027 года",
+      "excerpt": "Решение приняли из-за высокой насыщенности месяца другими масштабными мероприятиями смежной направленности",
+      "recap_neutral": "Решение приняли из-за высокой насыщенности месяца другими масштабными мероприятиями смежной направленности",
+      "main_idea": "Петербургский газовый форум перенесли на апрель 2027 года",
       "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 03 Aug 2026 15:45:08 +0300",
+      "url": "https://tass.ru/ekonomika/27978577",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Константинов заявил о горьком похмелье у украинцев от евроинтеграции",
+      "title_neutral": "Константинов заявил о горьком похмелье у украинцев от евроинтеграции",
+      "excerpt": "Идея Евросоюза давно обанкротилась, отметил председатель Госсовета Республики Крым",
+      "recap_neutral": "Идея Евросоюза давно обанкротилась, отметил председатель Госсовета Республики Крым",
+      "main_idea": "Константинов заявил о горьком похмелье у украинцев от евроинтеграции",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 03 Aug 2026 15:43:52 +0300",
+      "url": "https://tass.ru/politika/27978717",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Умер экс-министр экономики Белоруссии Владимир Шимов",
+      "title_neutral": "Умер экс-министр экономики Белоруссии Владимир Шимов",
+      "excerpt": "Ему было 77 лет",
+      "recap_neutral": "Ему было 77 лет",
+      "main_idea": "Умер экс-министр экономики Белоруссии Владимир Шимов",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 03 Aug 2026 15:43:11 +0300",
+      "url": "https://tass.ru/ekonomika/27978719",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В петербургских \"Крестах\" пытались передать заключенным телефоны в кроссовках",
+      "title_neutral": "В петербургских \"Крестах\" пытались передать заключенным телефоны в кроссовках",
+      "excerpt": "Отправителю посылки грозит штраф от 25 до 50 тыс. рублей",
+      "recap_neutral": "Отправителю посылки грозит штраф от 25 до 50 тыс",
+      "main_idea": "В петербургских \"Крестах\" пытались передать заключенным телефоны в кроссовках",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 03 Aug 2026 15:42:44 +0300",
+      "url": "https://tass.ru/proisshestviya/27978659",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Росгвардейцы Москвы изъяли за месяц около 3 тыс. единиц оружия",
+      "title_neutral": "Росгвардейцы Москвы изъяли за месяц около 3 тыс. единиц оружия",
+      "excerpt": "Было проведено около 4,5 тыс. проверок обеспечения сохранности оружия по месту жительства граждан и свыше 400 проверок юридических лиц",
+      "recap_neutral": "Было проведено около 4,5 тыс",
+      "main_idea": "Росгвардейцы Москвы изъяли за месяц около 3 тыс. единиц оружия",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 03 Aug 2026 15:41:16 +0300",
+      "url": "https://tass.ru/obschestvo/27978711",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Белоусов поздравил бойцов \"Севера\" с освобождением Белого Колодезя",
+      "title_neutral": "Белоусов поздравил бойцов \"Севера\" с освобождением Белого Колодезя",
+      "excerpt": "Глава военного ведомства выразил уверенность, что стойкость, упорство и профессионализм российских бойцов обеспечат безопасность страны",
+      "recap_neutral": "Глава военного ведомства выразил уверенность, что стойкость, упорство и профессионализм российских бойцов обеспечат безопасность страны",
+      "main_idea": "Белоусов поздравил бойцов \"Севера\" с освобождением Белого Колодезя",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 03 Aug 2026 15:41:11 +0300",
+      "url": "https://tass.ru/armiya-i-opk/27978705",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Россиянки стали третьими в женской эстафете на ЧЕ по современному пятиборью",
+      "title_neutral": "Россиянки стали третьими в женской эстафете на ЧЕ по современному пятиборью",
+      "excerpt": "Бронзу завоевали Виктория Сазонова и Амина Тагирова",
+      "recap_neutral": "Бронзу завоевали Виктория Сазонова и Амина Тагирова",
+      "main_idea": "Россиянки стали третьими в женской эстафете на ЧЕ по современному пятиборью",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 03 Aug 2026 15:40:54 +0300",
+      "url": "https://tass.ru/sport/27978713",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Мендель заявила о фрагментации энергосистемы Украины",
+      "title_neutral": "Мендель заявила о фрагментации энергосистемы Украины",
+      "excerpt": "По словам бывшего пресс-секретаря Владимира Зеленского, нефтеперерабатывающие заводы разрушены",
+      "recap_neutral": "По словам бывшего пресс-секретаря Владимира Зеленского, нефтеперерабатывающие заводы разрушены",
+      "main_idea": "Мендель заявила о фрагментации энергосистемы Украины",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 03 Aug 2026 15:39:56 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27978699",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ГД внесли законопроект о возможности туристов направлять претензии турагентам",
+      "title_neutral": "В ГД внесли законопроект о возможности туристов направлять претензии турагентам",
+      "excerpt": "Подать претензию можно будет не позднее 20 дней со дня окончания действия заключенного между туристом и турагентом договора",
+      "recap_neutral": "Подать претензию можно будет не позднее 20 дней со дня окончания действия заключенного между туристом и турагентом договора",
+      "main_idea": "В ГД внесли законопроект о возможности туристов направлять претензии турагентам",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 03 Aug 2026 15:39:52 +0300",
+      "url": "https://tass.ru/obschestvo/27978697",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Веснина считает российскую теннисистку Лютову одаренной",
+      "title_neutral": "Веснина считает российскую теннисистку Лютову одаренной",
+      "excerpt": "Ранее 16-летняя спортсменка выиграла первый турнир WTA в карьере",
+      "recap_neutral": "Ранее 16-летняя спортсменка выиграла первый турнир WTA в карьере",
+      "main_idea": "Веснина считает российскую теннисистку Лютову одаренной",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 03 Aug 2026 15:39:50 +0300",
+      "url": "https://tass.ru/sport/27978703",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Число пострадавших при атаке ВСУ на склад во Владимирской области выросло до четырех",
+      "title_neutral": "Число пострадавших при атаке ВСУ на склад во Владимирской области выросло до четырех",
+      "excerpt": "",
+      "recap_neutral": "Число пострадавших при атаке ВСУ на склад во Владимирской области выросло до четырех",
+      "main_idea": "Число пострадавших при атаке ВСУ на склад во Владимирской области выросло до четырех",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 03 Aug 2026 15:38:17 +0300",
+      "url": "https://tass.ru/proisshestviya/27978701",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran denies Trump's claim that new talks will begin on Monday",
+      "title_neutral": "Iran denies Trump's claim that new talks will begin on Monday",
+      "excerpt": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.",
+      "recap_neutral": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access",
+      "main_idea": "Iran denies Trump's claim that new talks will begin on Monday",
+      "tags": [
+        "tech"
+      ],
       "source": "BBC World",
-      "published_at": "Sat, 01 Aug 2026 17:51:46 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 03 Aug 2026 12:44:09 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Заммэра Ликсутов: транспортная сфера и промышленность Москвы сильно взаимосвязаны",
-      "title_neutral": "Заммэра Ликсутов: транспортная сфера и промышленность Москвы сильно взаимосвязаны",
-      "excerpt": "Беспилотные трамваи в столице уже проехали свыше 46 тыс. км с учетом испытаний",
-      "recap_neutral": "Беспилотные трамваи в столице уже проехали свыше 46 тыс",
-      "main_idea": "Заммэра Ликсутов: транспортная сфера и промышленность Москвы сильно взаимосвязаны",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 03 Aug 2026 12:35:25 +0300",
-      "url": "https://tass.ru/obschestvo/27978107",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Энергодаре из-за дистанционного минирования ВСУ за день пострадали шесть человек",
-      "title_neutral": "В Энергодаре из-за дистанционного минирования ВСУ за день пострадали шесть человек",
-      "excerpt": "",
-      "recap_neutral": "В Энергодаре из-за дистанционного минирования ВСУ за день пострадали шесть человек",
-      "main_idea": "В Энергодаре из-за дистанционного минирования ВСУ за день пострадали шесть человек",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 03 Aug 2026 12:35:10 +0300",
-      "url": "https://tass.ru/proisshestviya/27978111",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Около 98% опрошенных россиян положительно оценили качество услуг протезирования",
-      "title_neutral": "Около 98% опрошенных россиян положительно оценили качество услуг протезирования",
-      "excerpt": "По словам замминистра труда и соцзащиты Дмитрия Лигомины, после протезирования проводится анкетирование на портале \"Госуслуг\"",
-      "recap_neutral": "По словам замминистра труда и соцзащиты Дмитрия Лигомины, после протезирования проводится анкетирование на портале \"Госуслуг\"",
-      "main_idea": "Около 98% опрошенных россиян положительно оценили качество услуг протезирования",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 03 Aug 2026 12:35:08 +0300",
-      "url": "https://tass.ru/obschestvo/27978097",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Испании запросили полицейский отчет о наплыве мигрантов в Сеуту",
-      "title_neutral": "В Испании запросили полицейский отчет о наплыве мигрантов в Сеуту",
-      "excerpt": "Национальная судебная коллегия определит, является ли кризис в эксклаве управляемым преступными группировками",
-      "recap_neutral": "Национальная судебная коллегия определит, является ли кризис в эксклаве управляемым преступными группировками",
-      "main_idea": "В Испании запросили полицейский отчет о наплыве мигрантов в Сеуту",
+      "title_original": "2 Killed as Firefighting Helicopters Collide in Greece",
+      "title_neutral": "2 Killed as Firefighting Helicopters Collide in Greece",
+      "excerpt": "The aircraft crashed while battling a wildfire northwest of Athens, as Greece fought more than 200 fires in the past week.",
+      "recap_neutral": "The aircraft crashed while battling a wildfire northwest of Athens, as Greece fought more than 200 fires in the past week",
+      "main_idea": "2 Killed as Firefighting Helicopters Collide in Greece",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Mon, 03 Aug 2026 12:34:25 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27978081",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Mon, 03 Aug 2026 12:39:46 +0000",
+      "url": "https://www.nytimes.com/2026/08/03/world/europe/greece-fire-helicopter-crash-firefighters.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Новосибирске у авиапассажира обнаружили чучело сиамского крокодила",
-      "title_neutral": "В Новосибирске у авиапассажира обнаружили чучело сиамского крокодила",
-      "excerpt": "Туристу грозят штраф и конфискация товара",
-      "recap_neutral": "Туристу грозят штраф и конфискация товара",
-      "main_idea": "В Новосибирске у авиапассажира обнаружили чучело сиамского крокодила",
+      "title_original": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+      "title_neutral": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+      "excerpt": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
+      "recap_neutral": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over",
+      "main_idea": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 03 Aug 2026 12:20:11 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Canada’s WestJet Reaches Deal With Union to End Strike by Flight Attendants",
+      "title_neutral": "Canada’s WestJet Reaches Deal With Union to End Strike by Flight Attendants",
+      "excerpt": "A tentative deal was reached early Monday morning after 4,400 flight attendants walked off the job a day earlier, forcing the cancellation of hundreds of flights.",
+      "recap_neutral": "A tentative deal was reached early Monday morning after 4,400 flight attendants walked off the job a day earlier, forcing the cancellation of hundreds of flights",
+      "main_idea": "Canada’s WestJet Reaches Deal With Union to End Strike by Flight Attendants",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 03 Aug 2026 12:13:25 +0000",
+      "url": "https://www.nytimes.com/2026/08/03/world/canada/westjet-strike-update-flight-attendants-canada.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The AI bubble is popping; we just don't know it yet",
+      "title_neutral": "The AI bubble is popping; we just don't know it yet",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The AI bubble is popping; we just don't know it yet",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Mon, 03 Aug 2026 11:59:10 +0000",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Singapore Bans Band Massive Attack for Displaying Palestinian Flag",
+      "title_neutral": "Singapore Bans Band Massive Attack for Displaying Palestinian Flag",
+      "excerpt": "The British group was punished under a policy of racial harmony that has long been criticized as stifling free speech in the city-state.",
+      "recap_neutral": "The British group was punished under a policy of racial harmony that has long been criticized as stifling free speech in the city-state",
+      "main_idea": "Singapore Bans Band Massive Attack for Displaying Palestinian Flag",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 03 Aug 2026 11:49:24 +0000",
+      "url": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Spain’s Leader Is Seen as Soft on Migrants, but He Acted Fast on Ceuta",
+      "title_neutral": "Spain’s Leader Is Seen as Soft on Migrants, but He Acted Fast on Ceuta",
+      "excerpt": "After thousands poured into the Spanish territory in North Africa, the pro-immigration policies of Prime Minister Pedro Sánchez were blamed. The reality is more complex.",
+      "recap_neutral": "After thousands poured into the Spanish territory in North Africa, the pro-immigration policies of Prime Minister Pedro Sánchez were blamed",
+      "main_idea": "Spain’s Leader Is Seen as Soft on Migrants, but He Acted Fast on Ceuta",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 03 Aug 2026 11:43:19 +0000",
+      "url": "https://www.nytimes.com/2026/08/03/world/europe/spain-ceuta-migrants-sanchez.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Critical CVE issued for hallucinated SQLite vulnerability",
+      "title_neutral": "Critical CVE issued for hallucinated SQLite vulnerability",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Critical CVE issued for hallucinated SQLite vulnerability",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 03 Aug 2026 12:34:07 +0300",
-      "url": "https://tass.ru/obschestvo/27977917",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Mon, 03 Aug 2026 11:28:54 +0000",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Во Всероссийской федерации волейбола назвали целой эпохой жизнь Смирновой",
-      "title_neutral": "Во Всероссийской федерации волейбола назвали целой эпохой жизнь Смирновой",
-      "excerpt": "Участница Великой Отечественной войны и бывшая волейболистка ЦСКА умерла на 103-м году жизни",
-      "recap_neutral": "Участница Великой Отечественной войны и бывшая волейболистка ЦСКА умерла на 103-м году жизни",
-      "main_idea": "Во Всероссийской федерации волейбола назвали целой эпохой жизнь Смирновой",
+      "title_original": "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
+      "title_neutral": "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 03 Aug 2026 11:16:33 +0000",
+      "url": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AirLLM 70B inference with single 4GB GPU",
+      "title_neutral": "AirLLM 70B inference with single 4GB GPU",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "AirLLM 70B inference with single 4GB GPU",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Mon, 03 Aug 2026 11:15:48 +0000",
+      "url": "https://github.com/lyogavin/airllm",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
+      "title_neutral": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
+      "excerpt": "Two Republican senators wanted a written guarantee that Trump would not revive a controversial proposal.",
+      "recap_neutral": "Two Republican senators wanted a written guarantee that Trump would not revive a controversial proposal",
+      "main_idea": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Mon, 03 Aug 2026 11:07:13 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "title_neutral": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Mon, 03 Aug 2026 11:06:15 +0000",
+      "url": "https://github.com/garagehq/nightcrawler/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "title_neutral": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "excerpt": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+      "recap_neutral": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says",
+      "main_idea": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Mon, 03 Aug 2026 10:59:12 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "title_neutral": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "excerpt": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+      "recap_neutral": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official",
+      "main_idea": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "tags": [
+        "politics",
+        "health"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 03 Aug 2026 10:58:48 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+      "title_neutral": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+      "excerpt": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.",
+      "recap_neutral": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend",
+      "main_idea": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 03 Aug 2026 10:41:47 +0000",
+      "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Sudan army drone strike on court session kills 35, rights group says",
+      "title_neutral": "Sudan army drone strike on court session kills 35, rights group says",
+      "excerpt": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
+      "recap_neutral": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village",
+      "main_idea": "Sudan army drone strike on court session kills 35, rights group says",
       "tags": [
         "conflict",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Mon, 03 Aug 2026 12:33:49 +0300",
-      "url": "https://tass.ru/sport/27978105",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Mon, 03 Aug 2026 10:29:24 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В КБР отремонтировали памятник героям Великой Отечественной войны на высоте \"910\"",
-      "title_neutral": "В КБР отремонтировали памятник героям Великой Отечественной войны на высоте \"910\"",
-      "excerpt": "Стоимость проекта составила 4 млн рублей",
-      "recap_neutral": "Стоимость проекта составила 4 млн рублей",
-      "main_idea": "В КБР отремонтировали памятник героям Великой Отечественной войны на высоте \"910\"",
+      "title_original": "Easiest Way to Deploy Open-Source Models to Production in 2026",
+      "title_neutral": "Easiest Way to Deploy Open-Source Models to Production in 2026",
+      "excerpt": "You picked the open-source models. Now comes the hard part: production. Compare DIY inference, managed APIs, and SIE for scaling AI agents.",
+      "recap_neutral": "You picked the open-source models",
+      "main_idea": "Easiest Way to Deploy Open-Source Models to Production in 2026",
       "tags": [
-        "conflict"
+        "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Mon, 03 Aug 2026 12:30:01 +0300",
-      "url": "https://tass.ru/obschestvo/27978085",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "HackerNoon",
+      "published_at": "Mon, 03 Aug 2026 09:48:57 GMT",
+      "url": "https://hackernoon.com/easiest-way-to-deploy-open-source-models-to-production-in-2026?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Рособрнадзор объявил предостережения о недопустимости нарушений 19 вузам",
-      "title_neutral": "Рособрнадзор объявил предостережения о недопустимости нарушений 19 вузам",
-      "excerpt": "",
-      "recap_neutral": "Рособрнадзор объявил предостережения о недопустимости нарушений 19 вузам",
-      "main_idea": "Рособрнадзор объявил предостережения о недопустимости нарушений 19 вузам",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 03 Aug 2026 12:29:36 +0300",
-      "url": "https://tass.ru/obschestvo/27978099",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Белгородской области при атаке БПЛА ВСУ пострадал мужчина",
-      "title_neutral": "В Белгородской области при атаке БПЛА ВСУ пострадал мужчина",
-      "excerpt": "Дрон атаковал автомобиль",
-      "recap_neutral": "Дрон атаковал автомобиль",
-      "main_idea": "В Белгородской области при атаке БПЛА ВСУ пострадал мужчина",
+      "title_original": "Nauru officially changes its name to Naoero",
+      "title_neutral": "Nauru officially changes its name to Naoero",
+      "excerpt": "Pacific nation is latest country to signal a shift away from its colonial past with return to its traditional name The Pacific Island country of Nauru has changed its name to the Republic of Naoero, its president said, matching the spelling and pronunciation in the national language. The country’s…",
+      "recap_neutral": "Pacific nation is latest country to signal a shift away from its colonial past with return to its traditional name The Pacific Island country of Nauru has changed its name to the Republic of Naoero, its president said,…",
+      "main_idea": "Nauru officially changes its name to Naoero",
       "tags": [
-        "conflict"
+        "politics",
+        "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Mon, 03 Aug 2026 12:29:31 +0300",
-      "url": "https://tass.ru/proisshestviya/27978083",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "The Guardian",
+      "published_at": "Mon, 03 Aug 2026 09:45:45 GMT",
+      "url": "https://www.theguardian.com/world/2026/aug/03/nauru-officially-changes-its-name-to-naoero",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
       "confidence": "heuristic"
     },
     {
-      "title_original": "На юго-востоке Москвы водитель сбил мужчину и ребенка на тротуаре",
-      "title_neutral": "На юго-востоке Москвы водитель сбил мужчину и ребенка на тротуаре",
-      "excerpt": "Их доставили в больницу",
-      "recap_neutral": "Их доставили в больницу",
-      "main_idea": "На юго-востоке Москвы водитель сбил мужчину и ребенка на тротуаре",
+      "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "title_neutral": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Prevent cognitive debt by manually retyping LLM-generated code",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 03 Aug 2026 12:28:59 +0300",
-      "url": "https://tass.ru/proisshestviya/27978079",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Mon, 03 Aug 2026 09:32:07 +0000",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ТАСС: ВС РФ разгромили сформированные из офицеров погранотряды у Белого Колодезя",
-      "title_neutral": "ТАСС: ВС РФ разгромили сформированные из офицеров погранотряды у Белого Колодезя",
-      "excerpt": "",
-      "recap_neutral": "ТАСС: ВС РФ разгромили сформированные из офицеров погранотряды у Белого Колодезя",
-      "main_idea": "ТАСС: ВС РФ разгромили сформированные из офицеров погранотряды у Белого Колодезя",
+      "title_original": "What DMARC Protects You From, and What It Does Not",
+      "title_neutral": "What DMARC Protects You From, and What It Does Not",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "What DMARC Protects You From, and What It Does Not",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 03 Aug 2026 12:28:49 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27978073",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Mon, 03 Aug 2026 09:29:46 +0000",
+      "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Сенатор Волошин объяснил, зачем Киев заявил о деле против Лукашенко",
-      "title_neutral": "Сенатор Волошин объяснил, зачем Киев заявил о деле против Лукашенко",
-      "excerpt": "По его мнению, правительство Украины таким образом пытается отвлечь внимание от провалов ВСУ",
-      "recap_neutral": "По его мнению, правительство Украины таким образом пытается отвлечь внимание от провалов ВСУ",
-      "main_idea": "Сенатор Волошин объяснил, зачем Киев заявил о деле против Лукашенко",
+      "title_original": "Human-Centric Methodologies In AI Reliability By Mayank Vadaliya",
+      "title_neutral": "Human-Centric Methodologies In AI Reliability By Mayank Vadaliya",
+      "excerpt": "Mayank Vadaliya explains how incident response, root cause analysis, and traceability improve AI reliability across manufacturing and autonomous systems.",
+      "recap_neutral": "Mayank Vadaliya explains how incident response, root cause analysis, and traceability improve AI reliability across manufacturing and autonomous systems",
+      "main_idea": "Human-Centric Methodologies In AI Reliability By Mayank Vadaliya",
       "tags": [
-        "politics"
+        "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Mon, 03 Aug 2026 12:28:03 +0300",
-      "url": "https://tass.ru/politika/27978065",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Украинская правда\": Умерова могут назначить главой Службы внешней разведки",
-      "title_neutral": "\"Украинская правда\": Умерова могут назначить главой Службы внешней разведки",
-      "excerpt": "Издание LIGA.net сообщало, что секретарь СНБО рассматривается как один из главных кандидатов на должность посла в США",
-      "recap_neutral": "Издание LIGA",
-      "main_idea": "\"Украинская правда\": Умерова могут назначить главой Службы внешней разведки",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 03 Aug 2026 12:26:56 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27978075",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ТАСС: бои за Белый Колодезь вынуждают ВСУ пересмотреть стратегию на Харьковщине",
-      "title_neutral": "ТАСС: бои за Белый Колодезь вынуждают ВСУ пересмотреть стратегию на Харьковщине",
-      "excerpt": "Установление контроля над населенным пунктом позволяет ВС РФ увеличить полосу безопасности в области, отметили в российских силовых структурах",
-      "recap_neutral": "Установление контроля над населенным пунктом позволяет ВС РФ увеличить полосу безопасности в области, отметили в российских силовых структурах",
-      "main_idea": "ТАСС: бои за Белый Колодезь вынуждают ВСУ пересмотреть стратегию на Харьковщине",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 03 Aug 2026 12:26:52 +0300",
-      "url": "https://tass.ru/armiya-i-opk/27978069",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В нескольких районах и городах Кубани отменили беспилотную опасность",
-      "title_neutral": "В нескольких районах и городах Кубани отменили беспилотную опасность",
-      "excerpt": "Об этом сообщили в РСЧС региона",
-      "recap_neutral": "Об этом сообщили в РСЧС региона",
-      "main_idea": "В нескольких районах и городах Кубани отменили беспилотную опасность",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 03 Aug 2026 12:24:18 +0300",
-      "url": "https://tass.ru/proisshestviya/27978033",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "HackerNoon",
+      "published_at": "Mon, 03 Aug 2026 09:15:02 GMT",
+      "url": "https://hackernoon.com/human-centric-methodologies-in-ai-reliability-by-mayank-vadaliya?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -857,18 +896,38 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Meet the Bee Vet, Now Making Hive Calls",
-      "title_neutral": "Meet the Bee Vet, Now Making Hive Calls",
-      "excerpt": "Veterinarians are gingerly embracing the honeybee, a vital pollinator for agriculture but one that’s in increasing danger.",
-      "recap_neutral": "Veterinarians are gingerly embracing the honeybee, a vital pollinator for agriculture but one that’s in increasing danger",
-      "main_idea": "Meet the Bee Vet, Now Making Hive Calls",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Mon, 03 Aug 2026 09:00:16 +0000",
-      "url": "https://www.nytimes.com/2026/08/03/science/honeybees-veterinary-medicine.html",
+      "title_original": "The AI Index Nobody Is Tracking: Why Storm Duncan Thinks It’s the Most Important AI Metric",
+      "title_neutral": "The AI Index Nobody Is Tracking: Why Storm Duncan Thinks It’s the Most Important AI Metric",
+      "excerpt": "Storm Duncan argues the AI Anxiety Index may become the decade's most important AI metric, measuring workforce disruption and society's ability to adapt.",
+      "recap_neutral": "Storm Duncan argues the AI Anxiety Index may become the decade's most important AI metric, measuring workforce disruption and society's ability to adapt",
+      "main_idea": "The AI Index Nobody Is Tracking: Why Storm Duncan Thinks It’s the Most Important AI Metric",
+      "tags": [
+        "tech",
+        "climate"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 03 Aug 2026 09:00:02 GMT",
+      "url": "https://hackernoon.com/the-ai-index-nobody-is-tracking-why-storm-duncan-thinks-its-the-most-important-ai-metric?source=rss",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "title_neutral": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Mon, 03 Aug 2026 08:54:00 +0000",
+      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -886,6 +945,21 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The true power of regular expressions (2012)",
+      "title_neutral": "The true power of regular expressions (2012)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The true power of regular expressions (2012)",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 03 Aug 2026 08:47:23 +0000",
+      "url": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -921,6 +995,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Most CIOs Can't Define \"Agentic Architecture.\" That's Becoming a Problem",
+      "title_neutral": "Most CIOs Can't Define \"Agentic Architecture.\" That's Becoming a Problem",
+      "excerpt": "Google research shows multi-agent AI can reduce performance by up to 70%. Learn why agentic architecture—not agent count—is the key to enterprise AI.",
+      "recap_neutral": "Google research shows multi-agent AI can reduce performance by up to 70%",
+      "main_idea": "Most CIOs Can't Define \"Agentic Architecture.\" That's Becoming a Problem",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 03 Aug 2026 08:30:02 GMT",
+      "url": "https://hackernoon.com/most-cios-cant-define-agentic-architecture-thats-becoming-a-problem?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Bonsai: Janestreet's UI Library",
       "title_neutral": "Bonsai: Janestreet's UI Library",
       "excerpt": "Comments",
@@ -935,38 +1026,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "title_neutral": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "excerpt": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
-      "recap_neutral": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says",
-      "main_idea": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Mon, 03 Aug 2026 08:27:37 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "2 Killed as Firefighting Helicopters Collide in Greece",
-      "title_neutral": "2 Killed as Firefighting Helicopters Collide in Greece",
-      "excerpt": "The aircraft crashed while battling a wildfire northwest of Athens, as Greece fought more than 200 fires in the past week.",
-      "recap_neutral": "The aircraft crashed while battling a wildfire northwest of Athens, as Greece fought more than 200 fires in the past week",
-      "main_idea": "2 Killed as Firefighting Helicopters Collide in Greece",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 03 Aug 2026 08:27:22 +0000",
-      "url": "https://www.nytimes.com/2026/08/03/world/europe/greece-fire-helicopter-crash-firefighters.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -987,6 +1046,38 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust",
+      "title_neutral": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust",
+      "excerpt": "AI shopping agents are reshaping ecommerce security. Learn why agentic commerce demands continuous trust, fraud prevention, and identity verification.",
+      "recap_neutral": "AI shopping agents are reshaping ecommerce security",
+      "main_idea": "AI Shopping Agents Are Flooding Retail. Most Security Systems Still Cannot Tell Which Ones to Trust",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 03 Aug 2026 08:15:02 GMT",
+      "url": "https://hackernoon.com/ai-shopping-agents-are-flooding-retail-most-security-systems-still-cannot-tell-which-ones-to-trust?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "GPTZero Plans to Join Superhuman",
+      "title_neutral": "GPTZero Plans to Join Superhuman",
+      "excerpt": "GPTZero is joining Superhuman to build an authenticity layer that travels with you wherever you read, write, and create.",
+      "recap_neutral": "GPTZero is joining Superhuman to build an authenticity layer that travels with you wherever you read, write, and create",
+      "main_idea": "GPTZero Plans to Join Superhuman",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Mon, 03 Aug 2026 08:14:21 GMT",
+      "url": "https://hackernoon.com/gptzero-plans-to-join-superhuman?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Octane – React's programming model, compiled",
       "title_neutral": "Octane – React's programming model, compiled",
       "excerpt": "Comments",
@@ -1002,21 +1093,21 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump suggests new talks with Iran to begin on Monday",
-      "title_neutral": "Trump suggests new talks with Iran to begin on Monday",
-      "excerpt": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
-      "recap_neutral": "Tehran has not responded to the suggestion that new talks are imminent",
-      "main_idea": "Trump suggests new talks with Iran to begin on Monday",
+      "title_original": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
+      "title_neutral": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
+      "excerpt": "Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal.",
+      "recap_neutral": "Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing",
+      "main_idea": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
       "tags": [
-        "conflict",
-        "tech"
+        "politics",
+        "conflict"
       ],
-      "source": "BBC World",
-      "published_at": "Mon, 03 Aug 2026 08:03:15 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "source": "NPR",
+      "published_at": "Mon, 03 Aug 2026 07:57:06 -0400",
+      "url": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1034,38 +1125,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Shape of Things to Come",
-      "title_neutral": "The Shape of Things to Come",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The Shape of Things to Come",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 03 Aug 2026 07:22:27 +0000",
-      "url": "https://yegge.ai/essays/the-shape-of-things-to-come/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The AI Productivity Gap",
-      "title_neutral": "The AI Productivity Gap",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The AI Productivity Gap",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Mon, 03 Aug 2026 07:07:20 +0000",
-      "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1088,21 +1147,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "title_neutral": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "excerpt": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
-      "recap_neutral": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official",
-      "main_idea": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "title_original": "What would it take to get peptides on the shelf?",
+      "title_neutral": "What would it take to get peptides on the shelf?",
+      "excerpt": "An FDA advisory panel recently voted to green-light some popular peptides. The decision brought enormous attention to the market for these products — and concerns about the unregulated supply.",
+      "recap_neutral": "An FDA advisory panel recently voted to green-light some popular peptides",
+      "main_idea": "What would it take to get peptides on the shelf?",
       "tags": [
-        "politics",
-        "health"
+        "economy"
       ],
-      "source": "BBC World",
-      "published_at": "Mon, 03 Aug 2026 06:53:09 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "source": "NPR",
+      "published_at": "Mon, 03 Aug 2026 07:00:00 -0400",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5913381/health-fda-peptides-product-regulation",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1136,35 +1194,35 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "More German than many Germans",
-      "title_neutral": "More German than many Germans",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "More German than many Germans",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 03 Aug 2026 06:00:14 +0000",
-      "url": "https://mertbulan.com/more-german-than-many-germans/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
-      "title_neutral": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
-      "excerpt": "Tributes are pouring out across Nepal after an avalanche killed some of the country's best mountaineers.",
-      "recap_neutral": "Tributes are pouring out across Nepal after an avalanche killed some of the country's best mountaineers",
-      "main_idea": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
+      "title_original": "For those with criminal records, AI is breaking down barriers to employment",
+      "title_neutral": "For those with criminal records, AI is breaking down barriers to employment",
+      "excerpt": "Tens of millions of Americans have criminal records that can be barriers to employment. An AI-powered app is helping those eligible to expunge their records at a pace not seen before.",
+      "recap_neutral": "Tens of millions of Americans have criminal records that can be barriers to employment",
+      "main_idea": "For those with criminal records, AI is breaking down barriers to employment",
       "tags": [
         "tech"
       ],
-      "source": "BBC World",
-      "published_at": "Mon, 03 Aug 2026 05:31:55 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
+      "source": "NPR",
+      "published_at": "Mon, 03 Aug 2026 05:42:28 -0400",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
+      "title_neutral": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
+      "excerpt": "Kim Aris, son of Aung San Suu Kyi, told NPR that photographs of his mother meeting a foreign official gave him \"a reason to hope\" for the first time since the military coup that ousted her in 2021.",
+      "recap_neutral": "Kim Aris, son of Aung San Suu Kyi, told NPR that photographs of his mother meeting a foreign official gave him \"a reason to hope\" for the first time since the military coup that ousted her in 2021",
+      "main_idea": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Mon, 03 Aug 2026 05:42:04 -0400",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1186,6 +1244,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "For Republicans planning post-Trump future, one race in Washington is worth watching",
+      "title_neutral": "For Republicans planning post-Trump future, one race in Washington is worth watching",
+      "excerpt": "The primary to replace Rep. Dan Newhouse is a rare opportunity for Washington's Republicans to seek federal office. Candidates representing different wings of the party are testing Trump's influence.",
+      "recap_neutral": "The primary to replace Rep",
+      "main_idea": "For Republicans planning post-Trump future, one race in Washington is worth watching",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Mon, 03 Aug 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Over 4 million people are no longer receiving food aid amid sweeping changes to SNAP",
       "title_neutral": "Over 4 million people are no longer receiving food aid amid sweeping changes to SNAP",
       "excerpt": "SNAP, also known as food stamps, has seen a rapid and consistent participation decline since last July. The drop comes as the program faces historic cuts and changes.",
@@ -1203,36 +1276,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The DOJ is increasingly charging ICE protesters with criminal conspiracy",
-      "title_neutral": "The DOJ is increasingly charging ICE protesters with criminal conspiracy",
-      "excerpt": "The Justice Department is using federal conspiracy charges to sweep up ICE protesters. Some legal experts worry the agency is casting too wide a net to prosecute political activists who oppose the Trump administration's deportation agenda.",
-      "recap_neutral": "The Justice Department is using federal conspiracy charges to sweep up ICE protesters",
-      "main_idea": "The DOJ is increasingly charging ICE protesters with criminal conspiracy",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Mon, 03 Aug 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5886263/ice-dhs-immigration-enforcement-conspiracy-arrests",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "For Republicans planning post-Trump future, one race in Washington is worth watching",
-      "title_neutral": "For Republicans planning post-Trump future, one race in Washington is worth watching",
-      "excerpt": "The primary to replace Rep. Dan Newhouse is a rare opportunity for Washington's Republicans to seek federal office. Candidates representing different wings of the party are testing Trump's influence.",
-      "recap_neutral": "The primary to replace Rep",
-      "main_idea": "For Republicans planning post-Trump future, one race in Washington is worth watching",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Mon, 03 Aug 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Bedbugs, bad Wi-Fi: Federal workers say forced summer relocations have been chaos",
       "title_neutral": "Bedbugs, bad Wi-Fi: Federal workers say forced summer relocations have been chaos",
       "excerpt": "Federal agencies are rushing to move hundreds of workers into new buildings. Employees say the moves are significantly disrupting their work.",
@@ -1242,6 +1285,23 @@
       "source": "NPR",
       "published_at": "Mon, 03 Aug 2026 05:00:00 -0400",
       "url": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "She protested ICE raids. Then agents showed up at her door",
+      "title_neutral": "She protested ICE raids. Then agents showed up at her door",
+      "excerpt": "The Justice Department is using federal conspiracy charges to sweep up ICE protesters. Some legal experts worry the agency is casting too wide a net to prosecute political activists.",
+      "recap_neutral": "The Justice Department is using federal conspiracy charges to sweep up ICE protesters",
+      "main_idea": "She protested ICE raids. Then agents showed up at her door",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Mon, 03 Aug 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5886263/ice-dhs-immigration-enforcement-conspiracy-arrests",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1280,21 +1340,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Outside the Moscow restaurant where bomb killed three",
-      "title_neutral": "Outside the Moscow restaurant where bomb killed three",
-      "excerpt": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
-      "recap_neutral": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place",
-      "main_idea": "Outside the Moscow restaurant where bomb killed three",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Mon, 03 Aug 2026 03:53:05 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
       "title_neutral": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
       "excerpt": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
@@ -1309,6 +1354,72 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AI Coding Tip 030 - Turn Repeatable Skill Steps Into Tested Scripts Instead of Prompts",
+      "title_neutral": "AI Coding Tip 030 - Turn Repeatable Skill Steps Into Tested Scripts Instead of Prompts",
+      "excerpt": "Turn repeatable skill steps into tested scripts instead of prompts, so behavior stays deterministic and cheap.",
+      "recap_neutral": "Turn repeatable skill steps into tested scripts instead of prompts, so behavior stays deterministic and cheap",
+      "main_idea": "AI Coding Tip 030 - Turn Repeatable Skill Steps Into Tested Scripts Instead of Prompts",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 03 Aug 2026 03:13:35 GMT",
+      "url": "https://hackernoon.com/ai-coding-tip-030-turn-repeatable-skill-steps-into-tested-scripts-instead-of-prompts?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "5 Open-Source Health Projects to Try for Free —and Support via Kivach",
+      "title_neutral": "5 Open-Source Health Projects to Try for Free —and Support via Kivach",
+      "excerpt": "These health projects are free, open source, and community-driven. See what they offer and how supporters can give back with crypto and Kivach.",
+      "recap_neutral": "These health projects are free, open source, and community-driven",
+      "main_idea": "5 Open-Source Health Projects to Try for Free —and Support via Kivach",
+      "tags": [
+        "health"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 03 Aug 2026 03:13:12 GMT",
+      "url": "https://hackernoon.com/5-open-source-health-projects-to-try-for-free-and-support-via-kivach?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Code Smell 208 - Don't Use Null for Real Places",
+      "title_neutral": "Code Smell 208 - Don't Use Null for Real Places",
+      "excerpt": "Learn why using (0, 0) for missing coordinates creates bugs and how a polymorphic Location type keeps Kotlin models accurate.",
+      "recap_neutral": "Learn why using (0, 0) for missing coordinates creates bugs and how a polymorphic Location type keeps Kotlin models accurate",
+      "main_idea": "Code Smell 208 - Don't Use Null for Real Places",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Mon, 03 Aug 2026 03:11:23 GMT",
+      "url": "https://hackernoon.com/code-smell-208-dont-use-null-for-real-places?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Relying On Cloud AI Is Dangerous But Sovereign Local AI Is An Unstoppable Force",
+      "title_neutral": "Relying On Cloud AI Is Dangerous But Sovereign Local AI Is An Unstoppable Force",
+      "excerpt": "Washington switched off frontier AI for every foreign national in 90 minutes. Why every country and enterprise now needs its own local, sovereign LLM.",
+      "recap_neutral": "Washington switched off frontier AI for every foreign national in 90 minutes",
+      "main_idea": "Relying On Cloud AI Is Dangerous But Sovereign Local AI Is An Unstoppable Force",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Mon, 03 Aug 2026 03:07:38 GMT",
+      "url": "https://hackernoon.com/relying-on-cloud-ai-is-dangerous-but-sovereign-local-ai-is-an-unstoppable-force?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1377,6 +1488,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "74 Blog Posts To Learn About Full Stack Development",
+      "title_neutral": "74 Blog Posts To Learn About Full Stack Development",
+      "excerpt": "Learn everything you need to know about Full Stack Development via these 74 free HackerNoon blog posts.",
+      "recap_neutral": "Learn everything you need to know about Full Stack Development via these 74 free HackerNoon blog posts",
+      "main_idea": "74 Blog Posts To Learn About Full Stack Development",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Mon, 03 Aug 2026 02:00:03 GMT",
+      "url": "https://hackernoon.com/74-blog-posts-to-learn-about-full-stack-development?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Malaysian boy on trial for allegedly murdering girl in school",
       "title_neutral": "Malaysian boy on trial for allegedly murdering girl in school",
       "excerpt": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
@@ -1389,25 +1515,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
-      "title_neutral": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
-      "excerpt": "The U.S. dollar weakened sharply Monday against the Japanese yen after U.S. President Donald Trump and Japan's finance minister confirmed both sides had intervened in markets.",
-      "recap_neutral": "The U",
-      "main_idea": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
-      "tags": [
-        "politics",
-        "economy",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Mon, 03 Aug 2026 01:41:31 -0400",
-      "url": "https://www.npr.org/2026/08/03/g-s1-136866/us-dollar-japanese-yen-market-interventions",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1428,20 +1535,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Todd Blanche rescinds Trump's 'anti-weaponization fund' ahead of nomination hearing",
-      "title_neutral": "Todd Blanche rescinds Trump's 'anti-weaponization fund' ahead of nomination hearing",
-      "excerpt": "Acting Attorney General Todd Blanche issued a formal order late Sunday terminating President Donald Trump's $1.8 billion \"anti-weaponization fund\" to compensate his political allies.",
-      "recap_neutral": "Acting Attorney General Todd Blanche issued a formal order late Sunday terminating President Donald Trump's $1",
-      "main_idea": "Todd Blanche rescinds Trump's 'anti-weaponization fund' ahead of nomination hearing",
+      "title_original": "The Case Against Treating Outcomes as the Only Good Key Results",
+      "title_neutral": "The Case Against Treating Outcomes as the Only Good Key Results",
+      "excerpt": "Should key results measure outcomes or outputs? This essay argues that outcome-only OKRs can hide the work, weaken learning, and reduce shared understanding.",
+      "recap_neutral": "Should key results measure outcomes or outputs? This essay argues that outcome-only OKRs can hide the work, weaken learning, and reduce shared understanding",
+      "main_idea": "The Case Against Treating Outcomes as the Only Good Key Results",
       "tags": [
-        "politics"
+        "tech"
       ],
-      "source": "NPR",
-      "published_at": "Mon, 03 Aug 2026 01:04:19 -0400",
-      "url": "https://www.npr.org/2026/08/03/g-s1-136864/todd-blanche-rescinds-trump-anti-weaponization-fund",
+      "source": "HackerNoon",
+      "published_at": "Mon, 03 Aug 2026 01:15:02 GMT",
+      "url": "https://hackernoon.com/the-case-against-treating-outcomes-as-the-only-good-key-results?source=rss",
       "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1460,20 +1567,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Malaysia cracks down on social media hiking trend after jump in numbers needing rescue",
-      "title_neutral": "Malaysia cracks down on social media hiking trend after jump in numbers needing rescue",
-      "excerpt": "Officials are banning some ‘compressed hikes’ which involve walkers tackling demanding routes in short timeframes Malaysia’s government is tightening hiking rules nationwide after a social media trend left increasing numbers of adventurers needing to be rescued when they became lost or stranded in…",
-      "recap_neutral": "Officials are banning some ‘compressed hikes’ which involve walkers tackling demanding routes in short timeframes Malaysia’s government is tightening hiking rules nationwide after a social media trend left increasing nu…",
-      "main_idea": "Malaysia cracks down on social media hiking trend after jump in numbers needing rescue",
-      "tags": [
-        "politics"
-      ],
-      "source": "The Guardian",
-      "published_at": "Mon, 03 Aug 2026 01:03:29 GMT",
-      "url": "https://www.theguardian.com/world/2026/aug/03/malaysia-hiking-rescue-rules-social-media-bagging-peaks-trend",
+      "title_original": "You Cannot Filter Your Way Out of Prompt Injection",
+      "title_neutral": "You Cannot Filter Your Way Out of Prompt Injection",
+      "excerpt": "Filters don't stop prompt injection; architecture does. A field guide to the lethal trifecta, the rule of two, Dual-LLM and CaMeL, with working code.",
+      "recap_neutral": "Filters don't stop prompt injection; architecture does",
+      "main_idea": "You Cannot Filter Your Way Out of Prompt Injection",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Mon, 03 Aug 2026 01:00:02 GMT",
+      "url": "https://hackernoon.com/you-cannot-filter-your-way-out-of-prompt-injection?source=rss",
       "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1489,53 +1594,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-      "title_neutral": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 03 Aug 2026 00:38:10 +0000",
-      "url": "https://github.com/johnsonjh/cpm386",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: ssh ssh.place",
-      "title_neutral": "Show HN: ssh ssh.place",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: ssh ssh.place",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 03 Aug 2026 00:23:21 +0000",
-      "url": "https://ssh.place",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing",
-      "title_neutral": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing",
-      "excerpt": "An Indonesian ferry carrying 271 people has caught fire in waters off Madura island, killing at least five people and leaving 41 others unaccounted for, authorities said",
-      "recap_neutral": "An Indonesian ferry carrying 271 people has caught fire in waters off Madura island, killing at least five people and leaving 41 others unaccounted for, authorities said",
-      "main_idea": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Mon, 03 Aug 2026 00:06:11 -0400",
-      "url": "https://www.npr.org/2026/08/03/g-s1-136858/blaze-indonesian-passenger-ferry",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1570,36 +1628,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Why we write our own C and C++ inference engines",
-      "title_neutral": "Why we write our own C and C++ inference engines",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Why we write our own C and C++ inference engines",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 31 Jul 2026 16:17:04 +0000",
-      "url": "https://localai.io/blog/why-we-write-our-own-engines/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Autoregressive Language Model on the 6502 Processor",
-      "title_neutral": "Autoregressive Language Model on the 6502 Processor",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Autoregressive Language Model on the 6502 Processor",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 31 Jul 2026 13:08:30 +0000",
-      "url": "https://mattbeton.com/blog/bitnet-6502.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
