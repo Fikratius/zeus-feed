@@ -1,6 +1,414 @@
 {
-  "last_updated": "2026-08-04T23:31:41.118557+00:00",
+  "last_updated": "2026-08-05T02:03:00.186643+00:00",
   "items": [
+    {
+      "title_original": "\"Ведомости\" сообщили о рекордной стоимости просроченных банковских долгов",
+      "title_neutral": "\"Ведомости\" сообщили о рекордной стоимости просроченных банковских долгов",
+      "excerpt": "Управляющий директор ПКБ Павел Михмель заявил, что цена составила 7,8% от суммы основного долга",
+      "recap_neutral": "Управляющий директор ПКБ Павел Михмель заявил, что цена составила 7,8% от суммы основного долга",
+      "main_idea": "\"Ведомости\" сообщили о рекордной стоимости просроченных банковских долгов",
+      "tags": [
+        "economy"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 05 Aug 2026 04:58:12 +0300",
+      "url": "https://tass.ru/ekonomika/27983515",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Якутии действуют пожары на площади свыше 418 тыс. га",
+      "title_neutral": "В Якутии действуют пожары на площади свыше 418 тыс. га",
+      "excerpt": "",
+      "recap_neutral": "В Якутии действуют пожары на площади свыше 418 тыс. га",
+      "main_idea": "В Якутии действуют пожары на площади свыше 418 тыс. га",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 05 Aug 2026 04:57:54 +0300",
+      "url": "https://tass.ru/proisshestviya/27983519",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Верхоянский район Якутии доставили волонтеров для помощи при паводке",
+      "title_neutral": "В Верхоянский район Якутии доставили волонтеров для помощи при паводке",
+      "excerpt": "",
+      "recap_neutral": "В Верхоянский район Якутии доставили волонтеров для помощи при паводке",
+      "main_idea": "В Верхоянский район Якутии доставили волонтеров для помощи при паводке",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 05 Aug 2026 04:57:15 +0300",
+      "url": "https://tass.ru/proisshestviya/27983501",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Хабаровском крае в ДТП с рейсовым автобусом пострадали три человека",
+      "title_neutral": "В Хабаровском крае в ДТП с рейсовым автобусом пострадали три человека",
+      "excerpt": "Транспортное средство вылетело в кювет",
+      "recap_neutral": "Транспортное средство вылетело в кювет",
+      "main_idea": "В Хабаровском крае в ДТП с рейсовым автобусом пострадали три человека",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 05 Aug 2026 04:51:32 +0300",
+      "url": "https://tass.ru/proisshestviya/27983513",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Хабводтрансе рассказали, когда могут приостановить сообщение с Китаем по Амуру",
+      "title_neutral": "В Хабводтрансе рассказали, когда могут приостановить сообщение с Китаем по Амуру",
+      "excerpt": "",
+      "recap_neutral": "В Хабводтрансе рассказали, когда могут приостановить сообщение с Китаем по Амуру",
+      "main_idea": "В Хабводтрансе рассказали, когда могут приостановить сообщение с Китаем по Амуру",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 05 Aug 2026 04:50:01 +0300",
+      "url": "https://tass.ru/obschestvo/27983497",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "WSJ сообщила о расследовании инцидента с вылетом вертолета Трампа",
+      "title_neutral": "WSJ сообщила о расследовании инцидента с вылетом вертолета Трампа",
+      "excerpt": "",
+      "recap_neutral": "WSJ сообщила о расследовании инцидента с вылетом вертолета Трампа",
+      "main_idea": "WSJ сообщила о расследовании инцидента с вылетом вертолета Трампа",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 05 Aug 2026 04:47:11 +0300",
+      "url": "https://tass.ru/proisshestviya/27983505",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Временные ограничения ввели в аэропорту Ижевска",
+      "title_neutral": "Временные ограничения ввели в аэропорту Ижевска",
+      "excerpt": "",
+      "recap_neutral": "Временные ограничения ввели в аэропорту Ижевска",
+      "main_idea": "Временные ограничения ввели в аэропорту Ижевска",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 05 Aug 2026 04:46:37 +0300",
+      "url": "https://tass.ru/ekonomika/27983507",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В МИД РФ заявили о попытках Киева играть на повышение эскалации",
+      "title_neutral": "В МИД РФ заявили о попытках Киева играть на повышение эскалации",
+      "excerpt": "",
+      "recap_neutral": "В МИД РФ заявили о попытках Киева играть на повышение эскалации",
+      "main_idea": "В МИД РФ заявили о попытках Киева играть на повышение эскалации",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 05 Aug 2026 04:45:45 +0300",
+      "url": "https://tass.ru/politika/27983503",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Угрозу атаки БПЛА объявили для Казани и Зеленодольска",
+      "title_neutral": "Угрозу атаки БПЛА объявили для Казани и Зеленодольска",
+      "excerpt": "",
+      "recap_neutral": "Угрозу атаки БПЛА объявили для Казани и Зеленодольска",
+      "main_idea": "Угрозу атаки БПЛА объявили для Казани и Зеленодольска",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 05 Aug 2026 04:42:45 +0300",
+      "url": "https://tass.ru/proisshestviya/27983499",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Для депутатов ГД нового созыва подготовили памятку на 40 страниц",
+      "title_neutral": "Для депутатов ГД нового созыва подготовили памятку на 40 страниц",
+      "excerpt": "Председатель думской комиссии по регламенту и обеспечению деятельности Госдумы Виктор Пинский добавил, что временная рабочая группа подготовит первое заседание палаты",
+      "recap_neutral": "Председатель думской комиссии по регламенту и обеспечению деятельности Госдумы Виктор Пинский добавил, что временная рабочая группа подготовит первое заседание палаты",
+      "main_idea": "Для депутатов ГД нового созыва подготовили памятку на 40 страниц",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 05 Aug 2026 04:37:55 +0300",
+      "url": "https://tass.ru/politika/27983489",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропортах Домодедово, Внуково и Жуковский сняли ограничения",
+      "title_neutral": "В аэропортах Домодедово, Внуково и Жуковский сняли ограничения",
+      "excerpt": "Их вводили для обеспечения безопасности полетов",
+      "recap_neutral": "Их вводили для обеспечения безопасности полетов",
+      "main_idea": "В аэропортах Домодедово, Внуково и Жуковский сняли ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 05 Aug 2026 04:36:43 +0300",
+      "url": "https://tass.ru/ekonomika/27983491",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Известия\" рассказали о снижении популярности IT-направлений в вузах",
+      "title_neutral": "\"Известия\" рассказали о снижении популярности IT-направлений в вузах",
+      "excerpt": "Абитуриенты стали чаще выбирать другие инженерно-технологические направления",
+      "recap_neutral": "Абитуриенты стали чаще выбирать другие инженерно-технологические направления",
+      "main_idea": "\"Известия\" рассказали о снижении популярности IT-направлений в вузах",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 05 Aug 2026 04:35:40 +0300",
+      "url": "https://tass.ru/obschestvo/27983485",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Приморье у организатора незаконной игорной деятельности конфисковали 48 млн рублей",
+      "title_neutral": "В Приморье у организатора незаконной игорной деятельности конфисковали 48 млн рублей",
+      "excerpt": "",
+      "recap_neutral": "В Приморье у организатора незаконной игорной деятельности конфисковали 48 млн рублей",
+      "main_idea": "В Приморье у организатора незаконной игорной деятельности конфисковали 48 млн рублей",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 05 Aug 2026 04:35:39 +0300",
+      "url": "https://tass.ru/proisshestviya/27983487",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На Сахалине увеличился объем выдачи ипотеки",
+      "title_neutral": "На Сахалине увеличился объем выдачи ипотеки",
+      "excerpt": "За год показатель вырос на 25%",
+      "recap_neutral": "За год показатель вырос на 25%",
+      "main_idea": "На Сахалине увеличился объем выдачи ипотеки",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 05 Aug 2026 04:34:22 +0300",
+      "url": "https://tass.ru/ekonomika/27983481",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Хегсет прокомментировал новость об истощении запасов боеприпасов у ВС США",
+      "title_neutral": "Хегсет прокомментировал новость об истощении запасов боеприпасов у ВС США",
+      "excerpt": "Военный министр Соединенных Штатов заявил, что информация не соответствует действительности",
+      "recap_neutral": "Военный министр Соединенных Штатов заявил, что информация не соответствует действительности",
+      "main_idea": "Хегсет прокомментировал новость об истощении запасов боеприпасов у ВС США",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 05 Aug 2026 04:30:39 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27983479",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump Administration Revokes Visa of Brazil’s Ambassador in the U.S.",
+      "title_neutral": "Trump Administration Revokes Visa of Brazil’s Ambassador in the U.S.",
+      "excerpt": "The State Department has canceled the visa of the Brazilian ambassador in Washington, deepening a diplomatic crisis between the two countries.",
+      "recap_neutral": "The State Department has canceled the visa of the Brazilian ambassador in Washington, deepening a diplomatic crisis between the two countries",
+      "main_idea": "Trump Administration Revokes Visa of Brazil’s Ambassador in the U.S.",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Wed, 05 Aug 2026 01:47:42 +0000",
+      "url": "https://www.nytimes.com/2026/08/04/world/americas/brazil-ambassador-us-visa.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud",
+      "title_neutral": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud",
+      "excerpt": "Move is retaliation for Lula’s government refusal to approve Trump’s nominee for ambassador in Brasília Donald Trump’s administration has revoked the visa of Brazil’s ambassador to the US in a sharp escalation of a diplomatic feud with the country’s president, Luiz Inácio Lula da Silva. The US stat…",
+      "recap_neutral": "Move is retaliation for Lula’s government refusal to approve Trump’s nominee for ambassador in Brasília Donald Trump’s administration has revoked the visa of Brazil’s ambassador to the US in a sharp escalation of a dipl…",
+      "main_idea": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud",
+      "tags": [
+        "politics"
+      ],
+      "source": "The Guardian",
+      "published_at": "Wed, 05 Aug 2026 01:41:07 GMT",
+      "url": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Russian ballistic missile strike on Kyiv kills one and injures others",
+      "title_neutral": "Russian ballistic missile strike on Kyiv kills one and injures others",
+      "excerpt": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
+      "recap_neutral": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings",
+      "main_idea": "Russian ballistic missile strike on Kyiv kills one and injures others",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 05 Aug 2026 01:35:29 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "title_neutral": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "excerpt": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+      "recap_neutral": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume",
+      "main_idea": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 05 Aug 2026 01:05:21 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Armed man arrested near Trump's golf course ahead of president's visit",
+      "title_neutral": "Armed man arrested near Trump's golf course ahead of president's visit",
+      "excerpt": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
+      "recap_neutral": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California",
+      "main_idea": "Armed man arrested near Trump's golf course ahead of president's visit",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 05 Aug 2026 00:19:04 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Bugtraq Is Back",
+      "title_neutral": "Bugtraq Is Back",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Bugtraq Is Back",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 05 Aug 2026 00:05:49 +0000",
+      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Eight Myths on Software Engineering and GenAI",
+      "title_neutral": "Eight Myths on Software Engineering and GenAI",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Eight Myths on Software Engineering and GenAI",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Tue, 04 Aug 2026 23:50:52 +0000",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "title_neutral": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 04 Aug 2026 23:31:46 +0000",
+      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "title_neutral": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "tags": [
+        "conflict"
+      ],
+      "source": "Hacker News",
+      "published_at": "Tue, 04 Aug 2026 23:22:37 +0000",
+      "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "FIPS 140-3 is not a security guarantee, and auditors know it",
+      "title_neutral": "FIPS 140-3 is not a security guarantee, and auditors know it",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "FIPS 140-3 is not a security guarantee, and auditors know it",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 04 Aug 2026 23:21:33 +0000",
+      "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
     {
       "title_original": "libexpat now funded by the City of Munich for up to 6 months",
       "title_neutral": "libexpat now funded by the City of Munich for up to 6 months",
@@ -26,6 +434,21 @@
       "source": "Hacker News",
       "published_at": "Tue, 04 Aug 2026 22:24:00 +0000",
       "url": "https://seg6.space/posts/center-div/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Pi's Minimalism Is Its Advantage",
+      "title_neutral": "Pi's Minimalism Is Its Advantage",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Pi's Minimalism Is Its Advantage",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 04 Aug 2026 22:22:12 +0000",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -115,84 +538,35 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Third-party cyber evaluations involving OpenAI models",
-      "title_neutral": "Third-party cyber evaluations involving OpenAI models",
+      "title_original": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "title_neutral": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Third-party cyber evaluations involving OpenAI models",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Tue, 04 Aug 2026 21:14:19 +0000",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-      "title_neutral": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 04 Aug 2026 21:09:39 +0000",
-      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "South Korea Wants to Raise Its Birthrate but Doesn’t Have Enough NICU Doctors",
-      "title_neutral": "South Korea Wants to Raise Its Birthrate but Doesn’t Have Enough NICU Doctors",
-      "excerpt": "South Korea, which has one of the world’s lowest fertility rates, is in the throes of a breakdown in emergency care. It is particularly acute for at-risk newborns.",
-      "recap_neutral": "South Korea, which has one of the world’s lowest fertility rates, is in the throes of a breakdown in emergency care",
-      "main_idea": "South Korea Wants to Raise Its Birthrate but Doesn’t Have Enough NICU Doctors",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 04 Aug 2026 21:00:05 +0000",
-      "url": "https://www.nytimes.com/2026/08/04/world/asia/south-korea-birth-rate-nicu-crisis.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Gwern reties from fulltime writing to launch Guardian Angel Inc",
-      "title_neutral": "Gwern reties from fulltime writing to launch Guardian Angel Inc",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Gwern reties from fulltime writing to launch Guardian Angel Inc",
+      "main_idea": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Tue, 04 Aug 2026 20:48:17 +0000",
-      "url": "https://twitter.com/i/status/2084739205071343837",
+      "url": "https://twitter.com/gwern/status/2084739205071343837",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Oxide Computer raises $445M (SEC Form D)",
-      "title_neutral": "Oxide Computer raises $445M (SEC Form D)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Oxide Computer raises $445M (SEC Form D)",
+      "title_original": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
+      "title_neutral": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
+      "excerpt": "The Los Angeles County Sheriff's Department said Jeanine John Taele, 38, was taking photos and video and had a 16-round magazine with ammunition in his pocket.",
+      "recap_neutral": "The Los Angeles County Sheriff's Department said Jeanine John Taele, 38, was taking photos and video and had a 16-round magazine with ammunition in his pocket",
+      "main_idea": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
       "tags": [
         "tech"
       ],
-      "source": "Hacker News",
-      "published_at": "Tue, 04 Aug 2026 20:13:40 +0000",
-      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+      "source": "NPR",
+      "published_at": "Tue, 04 Aug 2026 20:30:48 -0400",
+      "url": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -359,38 +733,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Arson arrest made over largest of Washington state's wildfires",
-      "title_neutral": "Arson arrest made over largest of Washington state's wildfires",
-      "excerpt": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes.",
-      "recap_neutral": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes",
-      "main_idea": "Arson arrest made over largest of Washington state's wildfires",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Tue, 04 Aug 2026 19:18:45 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "title_neutral": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "excerpt": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-      "recap_neutral": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume",
-      "main_idea": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Tue, 04 Aug 2026 19:00:43 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "title_neutral": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "excerpt": "Comments",
@@ -421,21 +763,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Waymo in Dallas",
-      "title_neutral": "Waymo in Dallas",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Waymo in Dallas",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 04 Aug 2026 18:29:41 +0000",
-      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -884,38 +1211,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
-      "title_neutral": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
-      "excerpt": "It sent rocks and earth crashing on to those praying at an overnight service, the authorities say.",
-      "recap_neutral": "It sent rocks and earth crashing on to those praying at an overnight service, the authorities say",
-      "main_idea": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Tue, 04 Aug 2026 10:04:53 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "title_neutral": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 04 Aug 2026 10:00:55 +0000",
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "White elephant in the room: Colombia swears in costumed anti-corruption activist as senator",
       "title_neutral": "White elephant in the room: Colombia swears in costumed anti-corruption activist as senator",
       "excerpt": "Luis Carlos Rúa revealed himself to be Elefante blanco just three days before election for ‘his own safety’. Now he is tackling graft from senate floor When 102 senators were sworn in for Colombia’s latest parliamentary session, they included 32 women, 69 men – and one cartoon elephant. He had some…",
@@ -995,24 +1290,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "They're a world leader in using drones for healthcare. But drones can't do it all",
-      "title_neutral": "They're a world leader in using drones for healthcare. But drones can't do it all",
-      "excerpt": "Drones carrying medical supplies constantly crisscross the skies of Rwanda. The Trump administration is giving a major grant to the effort — and at the same time cutting aid to the country.",
-      "recap_neutral": "Drones carrying medical supplies constantly crisscross the skies of Rwanda",
-      "main_idea": "They're a world leader in using drones for healthcare. But drones can't do it all",
-      "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "NPR",
-      "published_at": "Tue, 04 Aug 2026 07:05:10 -0400",
-      "url": "https://www.npr.org/2026/08/04/g-s1-136906/drones-healthcare-trump-administration-rwanda",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Three lions die of suspected heatstroke at Tokyo zoo as Japan swelters",
       "title_neutral": "Three lions die of suspected heatstroke at Tokyo zoo as Japan swelters",
       "excerpt": "Most of the zoo’s 16 lions have struggled to cope with high humidity this summer Three lions from a Tokyo zoo have died from suspected heatstroke and others are undergoing treatment, a spokesperson said on Tuesday, as the big cats struggle in Japan’s high levels of humidity. Japan sweltered through…",
@@ -1074,21 +1351,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Video2NAND – Abusing video codecs for great computational power",
-      "title_neutral": "Video2NAND – Abusing video codecs for great computational power",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Video2NAND – Abusing video codecs for great computational power",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 02 Aug 2026 14:29:01 +0000",
-      "url": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1383,23 +1645,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
-      "title_neutral": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
-      "excerpt": "Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide Sign up for the Breaking News US newsletter email New innovations in HIV prevention could dramatically reduce the number of new HIV cases around the globe, but US foreign aid cuts will mean that…",
-      "recap_neutral": "Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide Sign up for the Breaking News US newsletter email New innovations in HIV prevention could dramatically reduce the n…",
-      "main_idea": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
-      "tags": [
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Fri, 31 Jul 2026 16:29:14 GMT",
-      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
       "confidence": "heuristic"
     }
   ]
