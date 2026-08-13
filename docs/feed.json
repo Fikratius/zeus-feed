@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T16:51:51.319153+00:00",
+  "last_updated": "2026-08-13T17:53:47.235528+00:00",
   "items": [
     {
       "title_original": "How art invented humanity",
@@ -11,6 +11,21 @@
       "source": "Hacker News",
       "published_at": "Wed, 12 Aug 2026 22:47:40 +0000",
       "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Indo-European Family Tree",
+      "title_neutral": "The Indo-European Family Tree",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The Indo-European Family Tree",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 12 Aug 2026 22:47:12 +0000",
+      "url": "https://djbinder.com/language-tree/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -238,23 +253,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The mathematical physics of rainbows and glories (2001) [pdf]",
-      "title_neutral": "The mathematical physics of rainbows and glories (2001) [pdf]",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The mathematical physics of rainbows and glories (2001) [pdf]",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Tue, 11 Aug 2026 07:03:49 +0000",
-      "url": "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Colombia quake leaves more than 110 dead – as it happened",
       "title_neutral": "Colombia quake leaves more than 110 dead – as it happened",
       "excerpt": "This blog is now closed – a full report is here People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌ He added that the city had asked authorities in Bogota and Medellin to send disaster teams ‌to support resc…",
@@ -272,250 +270,365 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "BluRadio: в Колумбии число погибших от землетрясения возросло до 273",
-      "title_neutral": "BluRadio: в Колумбии число погибших от землетрясения возросло до 273",
-      "excerpt": "Пострадали более 40 тыс. семей",
-      "recap_neutral": "Пострадали более 40 тыс",
-      "main_idea": "BluRadio: в Колумбии число погибших от землетрясения возросло до 273",
+      "title_original": "Бизнесмену Траберу продлили арест по делу об организации наемного убийства",
+      "title_neutral": "Бизнесмену Траберу продлили арест по делу об организации наемного убийства",
+      "excerpt": "",
+      "recap_neutral": "Бизнесмену Траберу продлили арест по делу об организации наемного убийства",
+      "main_idea": "Бизнесмену Траберу продлили арест по делу об организации наемного убийства",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 13 Aug 2026 19:46:06 +0300",
-      "url": "https://tass.ru/proisshestviya/28010591",
+      "published_at": "Thu, 13 Aug 2026 20:49:34 +0300",
+      "url": "https://tass.ru/proisshestviya/28010701",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ВКС РФ ударили по пунктам временной дислокации бригад ВСУ в Харьковской области",
-      "title_neutral": "ВКС РФ ударили по пунктам временной дислокации бригад ВСУ в Харьковской области",
-      "excerpt": "",
-      "recap_neutral": "ВКС РФ ударили по пунктам временной дислокации бригад ВСУ в Харьковской области",
-      "main_idea": "ВКС РФ ударили по пунктам временной дислокации бригад ВСУ в Харьковской области",
+      "title_original": "Пловец Колесников отметил, что тяжело переносит жару на ЧЕ в Париже",
+      "title_neutral": "Пловец Колесников отметил, что тяжело переносит жару на ЧЕ в Париже",
+      "excerpt": "Турнир в Париже завершится 16 августа",
+      "recap_neutral": "Турнир в Париже завершится 16 августа",
+      "main_idea": "Пловец Колесников отметил, что тяжело переносит жару на ЧЕ в Париже",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 13 Aug 2026 20:48:03 +0300",
+      "url": "https://tass.ru/sport/28010697",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Генпрокурор Армении обжаловала отмену домашнего ареста архиепископа Аджапахяна",
+      "title_neutral": "Генпрокурор Армении обжаловала отмену домашнего ареста архиепископа Аджапахяна",
+      "excerpt": "Анна Вардапетян не согласна с Апелляционным уголовным судом и попросила Кассационный суд отменить решение",
+      "recap_neutral": "Анна Вардапетян не согласна с Апелляционным уголовным судом и попросила Кассационный суд отменить решение",
+      "main_idea": "Генпрокурор Армении обжаловала отмену домашнего ареста архиепископа Аджапахяна",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 13 Aug 2026 20:46:32 +0300",
+      "url": "https://tass.ru/obschestvo/28010677",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Миронов призвал нанести удары по могилам перезахороненных Киевом нацистов",
+      "title_neutral": "Миронов призвал нанести удары по могилам перезахороненных Киевом нацистов",
+      "excerpt": "По словам председателя партии \"Справедливая Россия\", Владимир Зеленский и его пособники воздают почести нацистам, так как проигрывают на поле боя",
+      "recap_neutral": "По словам председателя партии \"Справедливая Россия\", Владимир Зеленский и его пособники воздают почести нацистам, так как проигрывают на поле боя",
+      "main_idea": "Миронов призвал нанести удары по могилам перезахороненных Киевом нацистов",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 13 Aug 2026 19:44:23 +0300",
-      "url": "https://tass.ru/armiya-i-opk/28010589",
+      "published_at": "Thu, 13 Aug 2026 20:45:56 +0300",
+      "url": "https://tass.ru/obschestvo/28010691",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Пловчиха Кёртис второй раз за два дня обновила мировой рекорд на 50 м на спине",
-      "title_neutral": "Пловчиха Кёртис второй раз за два дня обновила мировой рекорд на 50 м на спине",
-      "excerpt": "Она показала результат 26,56 секунды",
-      "recap_neutral": "Она показала результат 26,56 секунды",
-      "main_idea": "Пловчиха Кёртис второй раз за два дня обновила мировой рекорд на 50 м на спине",
-      "tags": [],
+      "title_original": "В Ульяновске нашли тело пропавшего во время шторма при опрокидывании лодки",
+      "title_neutral": "В Ульяновске нашли тело пропавшего во время шторма при опрокидывании лодки",
+      "excerpt": "Женщине-пассажиру удалось выбраться на берег самостоятельно",
+      "recap_neutral": "Женщине-пассажиру удалось выбраться на берег самостоятельно",
+      "main_idea": "В Ульяновске нашли тело пропавшего во время шторма при опрокидывании лодки",
+      "tags": [
+        "tech",
+        "climate"
+      ],
       "source": "ТАСС",
-      "published_at": "Thu, 13 Aug 2026 19:43:09 +0300",
-      "url": "https://tass.ru/sport/28010585",
+      "published_at": "Thu, 13 Aug 2026 20:41:21 +0300",
+      "url": "https://tass.ru/proisshestviya/28010685",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Бразилии заявили о просьбах ЕС о посредничестве в контактах с Россией",
-      "title_neutral": "В Бразилии заявили о просьбах ЕС о посредничестве в контактах с Россией",
-      "excerpt": "",
-      "recap_neutral": "В Бразилии заявили о просьбах ЕС о посредничестве в контактах с Россией",
-      "main_idea": "В Бразилии заявили о просьбах ЕС о посредничестве в контактах с Россией",
+      "title_original": "Херсонская область частично обесточена из-за технологического нарушения",
+      "title_neutral": "Херсонская область частично обесточена из-за технологического нарушения",
+      "excerpt": "Без света остались 14 городских и муниципальных округов",
+      "recap_neutral": "Без света остались 14 городских и муниципальных округов",
+      "main_idea": "Херсонская область частично обесточена из-за технологического нарушения",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 13 Aug 2026 19:43:08 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28010583",
+      "published_at": "Thu, 13 Aug 2026 20:39:56 +0300",
+      "url": "https://tass.ru/proisshestviya/28010667",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ВС РФ ударили по ремонтно-восстановительному поезду и ж/д локомотиву в Одесской области",
-      "title_neutral": "ВС РФ ударили по ремонтно-восстановительному поезду и ж/д локомотиву в Одесской области",
-      "excerpt": "",
-      "recap_neutral": "ВС РФ ударили по ремонтно-восстановительному поезду и ж/д локомотиву в Одесской области",
-      "main_idea": "ВС РФ ударили по ремонтно-восстановительному поезду и ж/д локомотиву в Одесской области",
+      "title_original": "В Чечне открыли автомобильный мост через реку Тенек",
+      "title_neutral": "В Чечне открыли автомобильный мост через реку Тенек",
+      "excerpt": "Ширина проезжей части составляет 6 м",
+      "recap_neutral": "Ширина проезжей части составляет 6 м",
+      "main_idea": "В Чечне открыли автомобильный мост через реку Тенек",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 13 Aug 2026 20:35:49 +0300",
+      "url": "https://tass.ru/obschestvo/28010679",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Skai: на полуострове Кассандра в Греции произошел сильный пожар",
+      "title_neutral": "Skai: на полуострове Кассандра в Греции произошел сильный пожар",
+      "excerpt": "В превентивных целях более 347 человек эвакуировали по морю, отметил телеканал",
+      "recap_neutral": "В превентивных целях более 347 человек эвакуировали по морю, отметил телеканал",
+      "main_idea": "Skai: на полуострове Кассандра в Греции произошел сильный пожар",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 13 Aug 2026 20:33:42 +0300",
+      "url": "https://tass.ru/proisshestviya/28010627",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Минаков признался, что не любит быть \"туристом\" в финальных заплывах",
+      "title_neutral": "Минаков признался, что не любит быть \"туристом\" в финальных заплывах",
+      "excerpt": "На чемпионате Европы по водным видам спорта в Париже Андрей Минаков в финальном заплыве на дистанции 100 метров баттерфляем стал восьмым",
+      "recap_neutral": "На чемпионате Европы по водным видам спорта в Париже Андрей Минаков в финальном заплыве на дистанции 100 метров баттерфляем стал восьмым",
+      "main_idea": "Минаков признался, что не любит быть \"туристом\" в финальных заплывах",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 13 Aug 2026 20:32:49 +0300",
+      "url": "https://tass.ru/sport/28010675",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Колумбия отказалась принять спасателей из Мексики",
+      "title_neutral": "Колумбия отказалась принять спасателей из Мексики",
+      "excerpt": "Президент республики Клаудия Шейнбаум уточнила, что отряд находится в готовности и может вылететь в любой момент",
+      "recap_neutral": "Президент республики Клаудия Шейнбаум уточнила, что отряд находится в готовности и может вылететь в любой момент",
+      "main_idea": "Колумбия отказалась принять спасателей из Мексики",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 13 Aug 2026 20:28:58 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28010661",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Фидан: Турция надеется на присоединение Египта к Мекканскому соглашению",
+      "title_neutral": "Фидан: Турция надеется на присоединение Египта к Мекканскому соглашению",
+      "excerpt": "Глава турецкого МИД подчеркнул, что документ не направлен против третьих стран",
+      "recap_neutral": "Глава турецкого МИД подчеркнул, что документ не направлен против третьих стран",
+      "main_idea": "Фидан: Турция надеется на присоединение Египта к Мекканскому соглашению",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 13 Aug 2026 20:28:46 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28010665",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Над регионами России сбили 193 украинских БПЛА",
+      "title_neutral": "Над регионами России сбили 193 украинских БПЛА",
+      "excerpt": "Аппараты самолетного типа были перехвачены над территориями Белгородской, Брянской, Курской, Орловской, Калужской, Тульской, областей, Московского региона, Краснодарского края",
+      "recap_neutral": "Аппараты самолетного типа были перехвачены над территориями Белгородской, Брянской, Курской, Орловской, Калужской, Тульской, областей, Московского региона, Краснодарского края",
+      "main_idea": "Над регионами России сбили 193 украинских БПЛА",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 13 Aug 2026 20:28:35 +0300",
+      "url": "https://tass.ru/proisshestviya/28010669",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Футболист \"Зенита\" Энрике сосредоточен на игре за петербургский клуб",
+      "title_neutral": "Футболист \"Зенита\" Энрике сосредоточен на игре за петербургский клуб",
+      "excerpt": "Ранее сообщалось, что его переход в бразильский клуб \"Фламенго\" сорвался",
+      "recap_neutral": "Ранее сообщалось, что его переход в бразильский клуб \"Фламенго\" сорвался",
+      "main_idea": "Футболист \"Зенита\" Энрике сосредоточен на игре за петербургский клуб",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 13 Aug 2026 20:27:04 +0300",
+      "url": "https://tass.ru/sport/28010659",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Минсельхоз назвал условие возобновления поставок из Армении в РФ",
+      "title_neutral": "Минсельхоз назвал условие возобновления поставок из Армении в РФ",
+      "excerpt": "Соответствие поставляемых товаров ветеринарным и фитосанитарным нормам ЕАЭС является приоритетом, подчеркнула министр сельского хозяйства Оксана Лут",
+      "recap_neutral": "Соответствие поставляемых товаров ветеринарным и фитосанитарным нормам ЕАЭС является приоритетом, подчеркнула министр сельского хозяйства Оксана Лут",
+      "main_idea": "Минсельхоз назвал условие возобновления поставок из Армении в РФ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 13 Aug 2026 20:27:04 +0300",
+      "url": "https://tass.ru/ekonomika/28010653",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: Япония решила обеспечивать свои интересы путем милитаризации",
+      "title_neutral": "Лавров: Япония решила обеспечивать свои интересы путем милитаризации",
+      "excerpt": "Глава МИД отметил, что экс-премьер Синдзо Абэ понимал, что национальные интересы невозможно обеспечить без взаимодействия с РФ",
+      "recap_neutral": "Глава МИД отметил, что экс-премьер Синдзо Абэ понимал, что национальные интересы невозможно обеспечить без взаимодействия с РФ",
+      "main_idea": "Лавров: Япония решила обеспечивать свои интересы путем милитаризации",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 13 Aug 2026 20:24:27 +0300",
+      "url": "https://tass.ru/politika/28010663",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "‘An English Summer Is Not the Same Anymore’",
+      "title_neutral": "‘An English Summer Is Not the Same Anymore’",
+      "excerpt": "With forecasters issuing a warning for very high temperatures, this summer is on track to be one of the hottest yet.",
+      "recap_neutral": "With forecasters issuing a warning for very high temperatures, this summer is on track to be one of the hottest yet",
+      "main_idea": "‘An English Summer Is Not the Same Anymore’",
       "tags": [
         "conflict"
       ],
-      "source": "ТАСС",
-      "published_at": "Thu, 13 Aug 2026 19:42:57 +0300",
-      "url": "https://tass.ru/armiya-i-opk/28010587",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Thu, 13 Aug 2026 17:52:04 +0000",
+      "url": "https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Лавров: ЕС с гордостью провозгласил свои решения выше международного права",
-      "title_neutral": "Лавров: ЕС с гордостью провозгласил свои решения выше международного права",
-      "excerpt": "",
-      "recap_neutral": "Лавров: ЕС с гордостью провозгласил свои решения выше международного права",
-      "main_idea": "Лавров: ЕС с гордостью провозгласил свои решения выше международного права",
+      "title_original": "Gemini 3.7 Flash",
+      "title_neutral": "Gemini 3.7 Flash",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Gemini 3.7 Flash",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 13 Aug 2026 19:40:03 +0300",
-      "url": "https://tass.ru/politika/28010579",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Thu, 13 Aug 2026 17:23:22 +0000",
+      "url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Лавров назвал опасным решение ЕС объявлять суда под любым флагом \"теневым флотом\"",
-      "title_neutral": "Лавров назвал опасным решение ЕС объявлять суда под любым флагом \"теневым флотом\"",
-      "excerpt": "",
-      "recap_neutral": "Лавров назвал опасным решение ЕС объявлять суда под любым флагом \"теневым флотом\"",
-      "main_idea": "Лавров назвал опасным решение ЕС объявлять суда под любым флагом \"теневым флотом\"",
+      "title_original": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "title_neutral": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "excerpt": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been deployed since November.",
+      "recap_neutral": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been deployed since November",
+      "main_idea": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 13 Aug 2026 17:21:00 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Train Derails Near Town of Lewes in East Sussex, U.K.",
+      "title_neutral": "Train Derails Near Town of Lewes in East Sussex, U.K.",
+      "excerpt": "Emergency services said they were working at the scene of a train derailment near Lewes, in East Sussex, on Thursday.",
+      "recap_neutral": "Emergency services said they were working at the scene of a train derailment near Lewes, in East Sussex, on Thursday",
+      "main_idea": "Train Derails Near Town of Lewes in East Sussex, U.K.",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 13 Aug 2026 17:18:34 +0000",
+      "url": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Tocharian Online",
+      "title_neutral": "Tocharian Online",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Tocharian Online",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 13 Aug 2026 19:38:15 +0300",
-      "url": "https://tass.ru/politika/28010577",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Thu, 13 Aug 2026 17:15:46 +0000",
+      "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Банк России будет наблюдать за практиками мисселинга при продаже криптовалют",
-      "title_neutral": "Банк России будет наблюдать за практиками мисселинга при продаже криптовалют",
-      "excerpt": "",
-      "recap_neutral": "Банк России будет наблюдать за практиками мисселинга при продаже криптовалют",
-      "main_idea": "Банк России будет наблюдать за практиками мисселинга при продаже криптовалют",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 13 Aug 2026 19:36:56 +0300",
-      "url": "https://tass.ru/ekonomika/28010575",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лавров: РФ будет самостоятельно выбирать цели для ответа на разбой западных стран",
-      "title_neutral": "Лавров: РФ будет самостоятельно выбирать цели для ответа на разбой западных стран",
-      "excerpt": "",
-      "recap_neutral": "Лавров: РФ будет самостоятельно выбирать цели для ответа на разбой западных стран",
-      "main_idea": "Лавров: РФ будет самостоятельно выбирать цели для ответа на разбой западных стран",
+      "title_original": "Mistral OCR 4.1",
+      "title_neutral": "Mistral OCR 4.1",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Mistral OCR 4.1",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 13 Aug 2026 19:34:47 +0300",
-      "url": "https://tass.ru/politika/28010571",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Thu, 13 Aug 2026 17:05:12 +0000",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Запорожской области усилили защиту трассы \"Новороссия\" от БПЛА",
-      "title_neutral": "В Запорожской области усилили защиту трассы \"Новороссия\" от БПЛА",
-      "excerpt": "Средства радиоэлектронной борьбы и мобильные огневые группы обеспечивают безопасность на дороге, заверил глава региона Евгений Балицкий",
-      "recap_neutral": "Средства радиоэлектронной борьбы и мобильные огневые группы обеспечивают безопасность на дороге, заверил глава региона Евгений Балицкий",
-      "main_idea": "В Запорожской области усилили защиту трассы \"Новороссия\" от БПЛА",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 13 Aug 2026 19:28:24 +0300",
-      "url": "https://tass.ru/obschestvo/28010565",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Италия репатриировала с января больше мигрантов, чем в предыдущие два года",
-      "title_neutral": "Италия репатриировала с января больше мигрантов, чем в предыдущие два года",
-      "excerpt": "Действие Шенгенского соглашения с Испанией, временно приостановленное из-за миграционного кризиса, будет восстановлено лишь после устранения всех угроз безопасности для европейских границ, заявил министр внутренних дел республики Маттео Пьянтедози",
-      "recap_neutral": "Действие Шенгенского соглашения с Испанией, временно приостановленное из-за миграционного кризиса, будет восстановлено лишь после устранения всех угроз безопасности для европейских границ, заявил министр внутренних дел…",
-      "main_idea": "Италия репатриировала с января больше мигрантов, чем в предыдущие два года",
+      "title_original": "Air India to test all pilots for banned substances",
+      "title_neutral": "Air India to test all pilots for banned substances",
+      "excerpt": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
+      "recap_neutral": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured",
+      "main_idea": "Air India to test all pilots for banned substances",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Thu, 13 Aug 2026 19:26:09 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28010561",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Татарстане водителя осудили за гибель двух человек в ДТП",
-      "title_neutral": "В Татарстане водителя осудили за гибель двух человек в ДТП",
-      "excerpt": "Он получил 3,5 года колонии-поселения",
-      "recap_neutral": "Он получил 3,5 года колонии-поселения",
-      "main_idea": "В Татарстане водителя осудили за гибель двух человек в ДТП",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 13 Aug 2026 19:25:18 +0300",
-      "url": "https://tass.ru/proisshestviya/28010559",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Российские синхронистки выиграли юниорский ЧМ в технической программе дуэтов",
-      "title_neutral": "Российские синхронистки выиграли юниорский ЧМ в технической программе дуэтов",
-      "excerpt": "За свое выступление Анастасия Сидорина и Кристина Чеханова получили 300,1509 балла",
-      "recap_neutral": "За свое выступление Анастасия Сидорина и Кристина Чеханова получили 300,1509 балла",
-      "main_idea": "Российские синхронистки выиграли юниорский ЧМ в технической программе дуэтов",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 13 Aug 2026 19:25:10 +0300",
-      "url": "https://tass.ru/sport/28010563",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Минпромторг обсуждает с компаниями автомобилестроения проекты новых производств",
-      "title_neutral": "Минпромторг обсуждает с компаниями автомобилестроения проекты новых производств",
-      "excerpt": "Отрасли машиностроения РФ нужны таргетированные меры поддержки экспорта продукции, заявил директор департамента международной кооперации и лицензирования в сфере внешней торговли Минпромторга Андрей Миронов",
-      "recap_neutral": "Отрасли машиностроения РФ нужны таргетированные меры поддержки экспорта продукции, заявил директор департамента международной кооперации и лицензирования в сфере внешней торговли Минпромторга Андрей Миронов",
-      "main_idea": "Минпромторг обсуждает с компаниями автомобилестроения проекты новых производств",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 13 Aug 2026 19:23:33 +0300",
-      "url": "https://tass.ru/ekonomika/28010555",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Молдавия проверяет вероятность пребывания экс-замглавы Минюста Польши в Приднестровье",
-      "title_neutral": "Молдавия проверяет вероятность пребывания экс-замглавы Минюста Польши в Приднестровье",
-      "excerpt": "В полиции указали, что Марчин Романовский не въезжал в страну через пограничные пункты пропуска, которые контролируются властями",
-      "recap_neutral": "В полиции указали, что Марчин Романовский не въезжал в страну через пограничные пункты пропуска, которые контролируются властями",
-      "main_idea": "Молдавия проверяет вероятность пребывания экс-замглавы Минюста Польши в Приднестровье",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 13 Aug 2026 19:14:43 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28010541",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Thu, 13 Aug 2026 16:52:15 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -530,40 +643,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 36,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Train Derails in Southern England",
-      "title_neutral": "Train Derails in Southern England",
-      "excerpt": "Emergency services said they were working at the scene of a train derailment near Lewes, in East Sussex, on Thursday.",
-      "recap_neutral": "Emergency services said they were working at the scene of a train derailment near Lewes, in East Sussex, on Thursday",
-      "main_idea": "Train Derails in Southern England",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 13 Aug 2026 16:35:20 +0000",
-      "url": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "title_neutral": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "excerpt": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been at sea since November.",
-      "recap_neutral": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been at sea since November",
-      "main_idea": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 13 Aug 2026 16:30:06 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
       "left_right_index": -5,
       "confidence": "heuristic"
     },
@@ -796,24 +875,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Zambians voting as president bids for second term",
-      "title_neutral": "Zambians voting as president bids for second term",
-      "excerpt": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
-      "recap_neutral": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal",
-      "main_idea": "Zambians voting as president bids for second term",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 13 Aug 2026 14:29:11 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Kubernetes on Oxide: How customer needs shaped our integrations",
       "title_neutral": "Kubernetes on Oxide: How customer needs shaped our integrations",
       "excerpt": "Comments",
@@ -860,23 +921,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "We eliminated 1,400 CVEs in NanoClaw's container images",
-      "title_neutral": "We eliminated 1,400 CVEs in NanoClaw's container images",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "We eliminated 1,400 CVEs in NanoClaw's container images",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Thu, 13 Aug 2026 14:18:34 +0000",
-      "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -942,21 +986,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Time to Move On: Querying Without Nulls and Bags",
-      "title_neutral": "Time to Move On: Querying Without Nulls and Bags",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Time to Move On: Querying Without Nulls and Bags",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 13 Aug 2026 13:54:56 +0000",
-      "url": "https://arxiv.org/abs/2608.10863",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Gloomberb",
       "title_neutral": "Gloomberb",
       "excerpt": "Comments",
@@ -966,6 +995,21 @@
       "source": "Hacker News",
       "published_at": "Thu, 13 Aug 2026 13:52:32 +0000",
       "url": "https://gloom.sh/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ordinary Abundance",
+      "title_neutral": "Ordinary Abundance",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Ordinary Abundance",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 13 Aug 2026 13:39:41 +0000",
+      "url": "https://ordinaryabundance.com/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -1003,6 +1047,23 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Mangione could plead guilty in federal case ahead of NY murder trial",
+      "title_neutral": "Mangione could plead guilty in federal case ahead of NY murder trial",
+      "excerpt": "A surprise hearing Friday in federal court has added to speculation Luigi Mangione could enter a plea, which could derail a state murder trial.",
+      "recap_neutral": "A surprise hearing Friday in federal court has added to speculation Luigi Mangione could enter a plea, which could derail a state murder trial",
+      "main_idea": "Mangione could plead guilty in federal case ahead of NY murder trial",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Thu, 13 Aug 2026 13:29:15 -0400",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1072,23 +1133,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "title_neutral": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "tags": [
-        "economy"
-      ],
-      "source": "Hacker News",
-      "published_at": "Thu, 13 Aug 2026 12:09:50 +0000",
-      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1193,23 +1237,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "‘An English Summer Is Not the Same Anymore’",
-      "title_neutral": "‘An English Summer Is Not the Same Anymore’",
-      "excerpt": "With forecasters issuing a warning for very high temperatures, this summer is on track to be one of the hottest yet.",
-      "recap_neutral": "With forecasters issuing a warning for very high temperatures, this summer is on track to be one of the hottest yet",
-      "main_idea": "‘An English Summer Is Not the Same Anymore’",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 13 Aug 2026 09:32:42 +0000",
-      "url": "https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Who Are the Houthis, Iran-Backed Militia Entering Mideast War?",
       "title_neutral": "Who Are the Houthis, Iran-Backed Militia Entering Mideast War?",
       "excerpt": "Amid relentless war in the Middle East, the Iran-backed militants seem poised to renew their conflict with Yemen’s Saudi-backed government.",
@@ -1277,21 +1304,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-      "title_neutral": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 13 Aug 2026 08:14:30 +0000",
-      "url": "https://www.codewithbullet.com",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1449,23 +1461,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
-      "title_neutral": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
-      "excerpt": "Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind.",
-      "recap_neutral": "Sailors and family members who were evacuated from U",
-      "main_idea": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 13 Aug 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "These swing voters in Nevada say they are not dismissing socialist candidates",
       "title_neutral": "These swing voters in Nevada say they are not dismissing socialist candidates",
       "excerpt": "In online focus groups, 10 of 12 Biden-to-Trump voters said they wouldn't automatically think negatively of a politician who identifies with socialism.",
@@ -1477,6 +1472,23 @@
       "source": "NPR",
       "published_at": "Thu, 13 Aug 2026 05:00:00 -0400",
       "url": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Sailors and their families have lives on hold, uncertain if they'll return to Mideast",
+      "title_neutral": "Sailors and their families have lives on hold, uncertain if they'll return to Mideast",
+      "excerpt": "Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind.",
+      "recap_neutral": "Sailors and family members who were evacuated from U",
+      "main_idea": "Sailors and their families have lives on hold, uncertain if they'll return to Mideast",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Thu, 13 Aug 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1513,23 +1525,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Morning news brief",
-      "title_neutral": "Morning news brief",
-      "excerpt": "Primary results reveal divide among Democratic Party, new inflation report could give the Fed more time to bring inflation under control, rescues teams race to find survivors of Colombia earthquake.",
-      "recap_neutral": "Primary results reveal divide among Democratic Party, new inflation report could give the Fed more time to bring inflation under control, rescues teams race to find survivors of Colombia earthquake",
-      "main_idea": "Morning news brief",
-      "tags": [
-        "economy"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 13 Aug 2026 04:44:44 -0400",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
