@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T11:42:34.042730+00:00",
+  "last_updated": "2026-08-15T12:27:41.270482+00:00",
   "items": [
     {
       "title_original": "Former Mexican governor charged in case of 43 students who vanished in 2014",
@@ -81,6 +81,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "The Color of White Light",
+      "title_neutral": "The Color of White Light",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The Color of White Light",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 11 Aug 2026 16:18:53 +0000",
+      "url": "https://ludens.cl/photo/spectra/spectra.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
       "title_neutral": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
       "excerpt": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak wa…",
@@ -153,21 +168,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Coin-sized device can hack a Boeing 737",
-      "title_neutral": "Coin-sized device can hack a Boeing 737",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Coin-sized device can hack a Boeing 737",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 13 Aug 2026 07:57:40 +0000",
-      "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
       "title_neutral": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
       "excerpt": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continues As Zambians go to the polls on Thursday, the ghost of the current president’s predecessor hangs over the elections. Hakainde Hichilema, 64, is bidding for a second term leading…",
@@ -201,252 +201,301 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Спецборт МЧС доставил из Тывы в Нижний Новгород пострадавших при пожаре детей",
-      "title_neutral": "Спецборт МЧС доставил из Тывы в Нижний Новгород пострадавших при пожаре детей",
-      "excerpt": "Несовершеннолетних доставят в Приволжский исследовательский медицинский университет",
-      "recap_neutral": "Несовершеннолетних доставят в Приволжский исследовательский медицинский университет",
-      "main_idea": "Спецборт МЧС доставил из Тывы в Нижний Новгород пострадавших при пожаре детей",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 15 Aug 2026 14:34:36 +0300",
-      "url": "https://tass.ru/proisshestviya/28015401",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "El PaÍs: полиция Марокко применила силу против мигрантов на границе с Сеутой",
-      "title_neutral": "El PaÍs: полиция Марокко применила силу против мигрантов на границе с Сеутой",
-      "excerpt": "По данным газеты, силовики начинают задерживать нелегалов",
-      "recap_neutral": "По данным газеты, силовики начинают задерживать нелегалов",
-      "main_idea": "El PaÍs: полиция Марокко применила силу против мигрантов на границе с Сеутой",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 15 Aug 2026 14:29:50 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28015397",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ковальчук отметил работу медиков и спасателей после удара ВСУ по Брянску 14 августа",
-      "title_neutral": "Ковальчук отметил работу медиков и спасателей после удара ВСУ по Брянску 14 августа",
-      "excerpt": "Продолжается работа по устранению последствий",
-      "recap_neutral": "Продолжается работа по устранению последствий",
-      "main_idea": "Ковальчук отметил работу медиков и спасателей после удара ВСУ по Брянску 14 августа",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 15 Aug 2026 14:24:18 +0300",
-      "url": "https://tass.ru/obschestvo/28015353",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ВС РФ ударили по месту хранения ударных БПЛА в Черниговской области",
-      "title_neutral": "ВС РФ ударили по месту хранения ударных БПЛА в Черниговской области",
-      "excerpt": "Объективным контролем зафиксировано поражение объекта, сообщили в Минобороны",
-      "recap_neutral": "Объективным контролем зафиксировано поражение объекта, сообщили в Минобороны",
-      "main_idea": "ВС РФ ударили по месту хранения ударных БПЛА в Черниговской области",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 15 Aug 2026 14:23:49 +0300",
-      "url": "https://tass.ru/armiya-i-opk/28015391",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ВС РФ уничтожили пункт заправки военной техники ВСУ в Харьковской области",
-      "title_neutral": "ВС РФ уничтожили пункт заправки военной техники ВСУ в Харьковской области",
-      "excerpt": "Российские войска поразили объект беспилотниками \"Герань\"",
-      "recap_neutral": "Российские войска поразили объект беспилотниками \"Герань\"",
-      "main_idea": "ВС РФ уничтожили пункт заправки военной техники ВСУ в Харьковской области",
+      "title_original": "В Таганроге устранили очаги тления на свалке, вызвавшие задымление на 3 тыс. кв. м",
+      "title_neutral": "В Таганроге устранили очаги тления на свалке, вызвавшие задымление на 3 тыс. кв. м",
+      "excerpt": "В работах участвовали 16 человек и 7 единиц специализированной техники",
+      "recap_neutral": "В работах участвовали 16 человек и 7 единиц специализированной техники",
+      "main_idea": "В Таганроге устранили очаги тления на свалке, вызвавшие задымление на 3 тыс. кв. м",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 15 Aug 2026 14:23:07 +0300",
-      "url": "https://tass.ru/armiya-i-opk/28015389",
+      "published_at": "Sat, 15 Aug 2026 15:19:34 +0300",
+      "url": "https://tass.ru/proisshestviya/28015441",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Врио губернатора Брянской области рассказал о состоянии пострадавших от атаки ВСУ",
-      "title_neutral": "Врио губернатора Брянской области рассказал о состоянии пострадавших от атаки ВСУ",
-      "excerpt": "Они находятся в стабильном состоянии",
-      "recap_neutral": "Они находятся в стабильном состоянии",
-      "main_idea": "Врио губернатора Брянской области рассказал о состоянии пострадавших от атаки ВСУ",
+      "title_original": "В Москве врачам-рентгенологам доступны 70 ИИ-сервисов по 45 клиническим направлениям",
+      "title_neutral": "В Москве врачам-рентгенологам доступны 70 ИИ-сервисов по 45 клиническим направлениям",
+      "excerpt": "Эти сервисы помогают находить признаки различных заболеваний на снимках",
+      "recap_neutral": "Эти сервисы помогают находить признаки различных заболеваний на снимках",
+      "main_idea": "В Москве врачам-рентгенологам доступны 70 ИИ-сервисов по 45 клиническим направлениям",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 15 Aug 2026 15:15:47 +0300",
+      "url": "https://tass.ru/obschestvo/28015449",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Паслер: абитуриенты подали рекордные 157 тыс. заявлений в колледжи Урала",
+      "title_neutral": "Паслер: абитуриенты подали рекордные 157 тыс. заявлений в колледжи Урала",
+      "excerpt": "По словам губернатора региона, наиболее востребованными среди абитуриентов стали Екатеринбургский экономико-технологический колледж, Уральский колледж строительства, архитектуры и предпринимательства, а также Уральский политехнический колледж - Межрегиональный центр компетенций",
+      "recap_neutral": "По словам губернатора региона, наиболее востребованными среди абитуриентов стали Екатеринбургский экономико-технологический колледж, Уральский колледж строительства, архитектуры и предпринимательства, а также Уральский…",
+      "main_idea": "Паслер: абитуриенты подали рекордные 157 тыс. заявлений в колледжи Урала",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 15 Aug 2026 15:13:31 +0300",
+      "url": "https://tass.ru/obschestvo/28015245",
+      "lang": "ru",
+      "bias_score": 56,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Дмитриев: кидающий деньги мигрант - хорошая реклама миграционной политики Британии",
+      "title_neutral": "Дмитриев: кидающий деньги мигрант - хорошая реклама миграционной политики Британии",
+      "excerpt": "В X распространилось видео с мигрантом из Судана, который в отеле разбрасывается деньгами, которые получает от британского правительства",
+      "recap_neutral": "В X распространилось видео с мигрантом из Судана, который в отеле разбрасывается деньгами, которые получает от британского правительства",
+      "main_idea": "Дмитриев: кидающий деньги мигрант - хорошая реклама миграционной политики Британии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 15 Aug 2026 15:08:18 +0300",
+      "url": "https://tass.ru/politika/28015447",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "С неделю в сторону Московского региона летели 1 743 БПЛА",
+      "title_neutral": "С неделю в сторону Московского региона летели 1 743 БПЛА",
+      "excerpt": "За этот период на подлете к Москве сбили 123 БПЛА",
+      "recap_neutral": "За этот период на подлете к Москве сбили 123 БПЛА",
+      "main_idea": "С неделю в сторону Московского региона летели 1 743 БПЛА",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 15 Aug 2026 15:03:12 +0300",
+      "url": "https://tass.ru/proisshestviya/28015443",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Кобяков: интерес к ВЭФ проявляют даже недружественные страны",
+      "title_neutral": "Кобяков: интерес к ВЭФ проявляют даже недружественные страны",
+      "excerpt": "Среди них есть и европейские компании и бизнесмены, хотя им трудно противостоять англосаксам в вопросах санкций против России, сообщил советник президента",
+      "recap_neutral": "Среди них есть и европейские компании и бизнесмены, хотя им трудно противостоять англосаксам в вопросах санкций против России, сообщил советник президента",
+      "main_idea": "Кобяков: интерес к ВЭФ проявляют даже недружественные страны",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 15 Aug 2026 15:02:48 +0300",
+      "url": "https://tass.ru/ekonomika/28015435",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Слуцкий: антироссийское лобби сохраняет влияние в США",
+      "title_neutral": "Слуцкий: антироссийское лобби сохраняет влияние в США",
+      "excerpt": "Председатель комитета Госдумы по международным делам заявил, что американские оборонные гиганты ведут беспрецедентное давление",
+      "recap_neutral": "Председатель комитета Госдумы по международным делам заявил, что американские оборонные гиганты ведут беспрецедентное давление",
+      "main_idea": "Слуцкий: антироссийское лобби сохраняет влияние в США",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 15 Aug 2026 15:00:44 +0300",
+      "url": "https://tass.ru/politika/28015431",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Hespress: более 100 нелегалов арестовали за попытку пробраться в Сеуту",
+      "title_neutral": "Hespress: более 100 нелегалов арестовали за попытку пробраться в Сеуту",
+      "excerpt": "Среди задержанных 109 мигрантов из стран Африки к югу от Сахары и двое граждан Марокко, сообщил портал",
+      "recap_neutral": "Среди задержанных 109 мигрантов из стран Африки к югу от Сахары и двое граждан Марокко, сообщил портал",
+      "main_idea": "Hespress: более 100 нелегалов арестовали за попытку пробраться в Сеуту",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 15 Aug 2026 14:56:49 +0300",
+      "url": "https://tass.ru/proisshestviya/28015433",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На юге Ливана при ударе погибли четыре человека",
+      "title_neutral": "На юге Ливана при ударе погибли четыре человека",
+      "excerpt": "Еще пять получили ранения, сообщило главное управление гражданской обороны страны",
+      "recap_neutral": "Еще пять получили ранения, сообщило главное управление гражданской обороны страны",
+      "main_idea": "На юге Ливана при ударе погибли четыре человека",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 15 Aug 2026 14:54:20 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28015427",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Камаз\" ведет разработку беспилотных автобусов",
+      "title_neutral": "\"Камаз\" ведет разработку беспилотных автобусов",
+      "excerpt": "Их появление на дорогах будет осуществляться поэтапно, сообщили в компании",
+      "recap_neutral": "Их появление на дорогах будет осуществляться поэтапно, сообщили в компании",
+      "main_idea": "\"Камаз\" ведет разработку беспилотных автобусов",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 15 Aug 2026 14:51:17 +0300",
+      "url": "https://tass.ru/ekonomika/28015419",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Полиция назвала спокойной ситуацию у Сеуты и Мелильи",
+      "title_neutral": "Полиция назвала спокойной ситуацию у Сеуты и Мелильи",
+      "excerpt": "Силы безопасности Марокко пресекли несколько попыток незаконного проникновения через границу, сообщил представитель правоохранительных органов",
+      "recap_neutral": "Силы безопасности Марокко пресекли несколько попыток незаконного проникновения через границу, сообщил представитель правоохранительных органов",
+      "main_idea": "Полиция назвала спокойной ситуацию у Сеуты и Мелильи",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 15 Aug 2026 14:47:56 +0300",
+      "url": "https://tass.ru/obschestvo/28015411",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ВС РФ уничтожили газораспределительную станцию в Черниговской области",
+      "title_neutral": "ВС РФ уничтожили газораспределительную станцию в Черниговской области",
+      "excerpt": "Удар был нанесен с помощью \"Гераней\", сообщили в Минобороны России",
+      "recap_neutral": "Удар был нанесен с помощью \"Гераней\", сообщили в Минобороны России",
+      "main_idea": "ВС РФ уничтожили газораспределительную станцию в Черниговской области",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 15 Aug 2026 14:21:51 +0300",
-      "url": "https://tass.ru/proisshestviya/28015375",
+      "published_at": "Sat, 15 Aug 2026 14:46:53 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28015417",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Индонезии произошло землетрясение магнитудой 6,9",
-      "title_neutral": "В Индонезии произошло землетрясение магнитудой 6,9",
-      "excerpt": "Информации о пострадавших и разрушениях не поступало",
-      "recap_neutral": "Информации о пострадавших и разрушениях не поступало",
-      "main_idea": "В Индонезии произошло землетрясение магнитудой 6,9",
-      "tags": [
-        "tech"
-      ],
+      "title_original": "ТАСС: в Омске среди пострадавших при пожаре есть граждане Узбекистана",
+      "title_neutral": "ТАСС: в Омске среди пострадавших при пожаре есть граждане Узбекистана",
+      "excerpt": "Они работали на стройке по договору подряда",
+      "recap_neutral": "Они работали на стройке по договору подряда",
+      "main_idea": "ТАСС: в Омске среди пострадавших при пожаре есть граждане Узбекистана",
+      "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 15 Aug 2026 14:20:03 +0300",
-      "url": "https://tass.ru/proisshestviya/28015377",
+      "published_at": "Sat, 15 Aug 2026 14:46:33 +0300",
+      "url": "https://tass.ru/proisshestviya/28015415",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ВС РФ уничтожили подстанцию 110 кВ в Черниговской области",
-      "title_neutral": "ВС РФ уничтожили подстанцию 110 кВ в Черниговской области",
-      "excerpt": "Российские военные ударили по цели БПЛА \"Герань-4 сикер\", сообщили в Минобороны",
-      "recap_neutral": "Российские военные ударили по цели БПЛА \"Герань-4 сикер\", сообщили в Минобороны",
-      "main_idea": "ВС РФ уничтожили подстанцию 110 кВ в Черниговской области",
+      "title_original": "ВС РФ ударили по месту хранения ударных беспилотников ВСУ в Чернигове",
+      "title_neutral": "ВС РФ ударили по месту хранения ударных беспилотников ВСУ в Чернигове",
+      "excerpt": "Российские войска поразили объект с помощью \"Герани-4 сикер\"",
+      "recap_neutral": "Российские войска поразили объект с помощью \"Герани-4 сикер\"",
+      "main_idea": "ВС РФ ударили по месту хранения ударных беспилотников ВСУ в Чернигове",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 15 Aug 2026 14:19:39 +0300",
-      "url": "https://tass.ru/armiya-i-opk/28015381",
+      "published_at": "Sat, 15 Aug 2026 14:46:29 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28015413",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Хабаровске подростки испортили экран кинотеатра шариками бабл-ти",
-      "title_neutral": "В Хабаровске подростки испортили экран кинотеатра шариками бабл-ти",
-      "excerpt": "Проводится проверка, сообщили в УМВД России по городу",
-      "recap_neutral": "Проводится проверка, сообщили в УМВД России по городу",
-      "main_idea": "В Хабаровске подростки испортили экран кинотеатра шариками бабл-ти",
+      "title_original": "Пассажиры самолета Airbus, экстренно севшего в Красноярске, вылетели в Манчестер",
+      "title_neutral": "Пассажиры самолета Airbus, экстренно севшего в Красноярске, вылетели в Манчестер",
+      "excerpt": "На борту было 230 человек",
+      "recap_neutral": "На борту было 230 человек",
+      "main_idea": "Пассажиры самолета Airbus, экстренно севшего в Красноярске, вылетели в Манчестер",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 15 Aug 2026 14:17:56 +0300",
-      "url": "https://tass.ru/proisshestviya/28015367",
+      "published_at": "Sat, 15 Aug 2026 14:40:25 +0300",
+      "url": "https://tass.ru/obschestvo/28015407",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Посольство РФ выясняет детали спасения пяти россиянок на Филиппинах",
-      "title_neutral": "Посольство РФ выясняет детали спасения пяти россиянок на Филиппинах",
-      "excerpt": "Граждане РФ могли стать жертвами торговцев людьми",
-      "recap_neutral": "Граждане РФ могли стать жертвами торговцев людьми",
-      "main_idea": "Посольство РФ выясняет детали спасения пяти россиянок на Филиппинах",
+      "title_original": "Nine killed in Israeli strikes on southern Lebanon, authorities say",
+      "title_neutral": "Nine killed in Israeli strikes on southern Lebanon, authorities say",
+      "excerpt": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
+      "recap_neutral": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers",
+      "main_idea": "Nine killed in Israeli strikes on southern Lebanon, authorities say",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 12:25:11 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "At Least 38 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
+      "title_neutral": "At Least 38 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
+      "excerpt": "The temblor was one of the strongest the area had experienced in decades, an official said.",
+      "recap_neutral": "The temblor was one of the strongest the area had experienced in decades, an official said",
+      "main_idea": "At Least 38 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 15 Aug 2026 12:07:33 +0000",
+      "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "title_neutral": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "excerpt": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+      "recap_neutral": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia",
+      "main_idea": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 15 Aug 2026 14:17:25 +0300",
-      "url": "https://tass.ru/obschestvo/28015365",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На юго-западе Франции за ночь выгорело почти 1,6 тыс. га леса",
-      "title_neutral": "На юго-западе Франции за ночь выгорело почти 1,6 тыс. га леса",
-      "excerpt": "Из-за распространения огня около 650 человек были эвакуированы, сообщил телеканал CNews",
-      "recap_neutral": "Из-за распространения огня около 650 человек были эвакуированы, сообщил телеканал CNews",
-      "main_idea": "На юго-западе Франции за ночь выгорело почти 1,6 тыс. га леса",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 15 Aug 2026 14:01:43 +0300",
-      "url": "https://tass.ru/proisshestviya/28015357",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Генконсульство РФ в Хошимине поддерживает связь с семьей погибшей в ДТП туристки",
-      "title_neutral": "Генконсульство РФ в Хошимине поддерживает связь с семьей погибшей в ДТП туристки",
-      "excerpt": "В диппредставительстве уточнили, что вопрос о репатриации тела погибшей будет решаться с родственниками",
-      "recap_neutral": "В диппредставительстве уточнили, что вопрос о репатриации тела погибшей будет решаться с родственниками",
-      "main_idea": "Генконсульство РФ в Хошимине поддерживает связь с семьей погибшей в ДТП туристки",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 15 Aug 2026 14:00:41 +0300",
-      "url": "https://tass.ru/proisshestviya/28015359",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Сенатор Мурог рассказал, чем грозит замена ЕГЭ на ГИА",
-      "title_neutral": "Сенатор Мурог рассказал, чем грозит замена ЕГЭ на ГИА",
-      "excerpt": "Это может снизить прозрачность отбора и ослабить единый образовательный стандарт, считает член комитета Совета Федерации по науке, образованию и культуре",
-      "recap_neutral": "Это может снизить прозрачность отбора и ослабить единый образовательный стандарт, считает член комитета Совета Федерации по науке, образованию и культуре",
-      "main_idea": "Сенатор Мурог рассказал, чем грозит замена ЕГЭ на ГИА",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 15 Aug 2026 13:56:25 +0300",
-      "url": "https://tass.ru/obschestvo/28015351",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Эксперт Каспар назвал причину спада ВВП Европы",
-      "title_neutral": "Эксперт Каспар назвал причину спада ВВП Европы",
-      "excerpt": "По мнению немецкого политолога и независимого эксперта по климатической политике, на экономику ЕС влияет снижение производительности труда из-за жары",
-      "recap_neutral": "По мнению немецкого политолога и независимого эксперта по климатической политике, на экономику ЕС влияет снижение производительности труда из-за жары",
-      "main_idea": "Эксперт Каспар назвал причину спада ВВП Европы",
-      "tags": [
-        "economy",
-        "climate"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 15 Aug 2026 13:55:52 +0300",
-      "url": "https://tass.ru/ekonomika/28015349",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Белый дом объяснил позицию США по просьбе Украины о поставках Patriot",
-      "title_neutral": "Белый дом объяснил позицию США по просьбе Украины о поставках Patriot",
-      "excerpt": "Дональд Трамп \"куда более рассудителен\", чем бывший лидер США Джо Байден в вопросах оказания военной поддержки, подчеркнула пресс-секретарь Кэролайн Ливитт",
-      "recap_neutral": "Дональд Трамп \"куда более рассудителен\", чем бывший лидер США Джо Байден в вопросах оказания военной поддержки, подчеркнула пресс-секретарь Кэролайн Ливитт",
-      "main_idea": "Белый дом объяснил позицию США по просьбе Украины о поставках Patriot",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 15 Aug 2026 13:55:28 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28015345",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 11:48:58 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -464,23 +513,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
-      "title_neutral": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
-      "excerpt": "Among those killed in the strike on Ansar included three children and two women, state media reports.",
-      "recap_neutral": "Among those killed in the strike on Ansar included three children and two women, state media reports",
-      "main_idea": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 15 Aug 2026 11:24:24 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -517,6 +549,21 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "title_neutral": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 15 Aug 2026 11:00:02 +0000",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -635,23 +682,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "At Least 38 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
-      "title_neutral": "At Least 38 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
-      "excerpt": "The temblor was one of the strongest the area had experienced in decades, an official said.",
-      "recap_neutral": "The temblor was one of the strongest the area had experienced in decades, an official said",
-      "main_idea": "At Least 38 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 15 Aug 2026 09:17:11 +0000",
-      "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
       "title_neutral": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
       "excerpt": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.",
@@ -685,21 +715,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-      "title_neutral": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-      "excerpt": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
-      "recap_neutral": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia",
-      "main_idea": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 15 Aug 2026 08:52:55 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1294,23 +1309,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "AI by Hand",
-      "title_neutral": "AI by Hand",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "AI by Hand",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Fri, 14 Aug 2026 15:58:59 +0000",
-      "url": "https://www.byhand.ai/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
