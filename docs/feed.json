@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T07:26:19.495615+00:00",
+  "last_updated": "2026-08-16T07:53:29.522907+00:00",
   "items": [
     {
       "title_original": "Former Mexican governor charged in case of 43 students who vanished in 2014",
@@ -31,21 +31,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite",
-      "title_neutral": "Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 12 Aug 2026 08:44:23 +0000",
-      "url": "https://notebook.link/blog/numba-in-the-browser/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -99,11 +84,94 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Коломне семь человек пострадали в ДТП с грузовиком на трассе",
-      "title_neutral": "В Коломне семь человек пострадали в ДТП с грузовиком на трассе",
-      "excerpt": "",
-      "recap_neutral": "В Коломне семь человек пострадали в ДТП с грузовиком на трассе",
-      "main_idea": "В Коломне семь человек пострадали в ДТП с грузовиком на трассе",
+      "title_original": "КСИР: Катар запрещает въезд в эмират экспертам для изучения дела летчиков Ирана",
+      "title_neutral": "КСИР: Катар запрещает въезд в эмират экспертам для изучения дела летчиков Ирана",
+      "excerpt": "Они несколько месяцев ждут разрешения, отметил представитель Корпуса стражей исламской революции",
+      "recap_neutral": "Они несколько месяцев ждут разрешения, отметил представитель Корпуса стражей исламской революции",
+      "main_idea": "КСИР: Катар запрещает въезд в эмират экспертам для изучения дела летчиков Ирана",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 16 Aug 2026 10:49:40 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28016575",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Что известно о \"Миссис Россия\" и других конкурсах красоты в РФ",
+      "title_neutral": "Что известно о \"Миссис Россия\" и других конкурсах красоты в РФ",
+      "excerpt": "Финал XXV всероссийского смотра пройдет 15 августа 2025 года в Москве в Театральном центре \"На Плющихе\"",
+      "recap_neutral": "Финал XXV всероссийского смотра пройдет 15 августа 2025 года в Москве в Театральном центре \"На Плющихе\"",
+      "main_idea": "Что известно о \"Миссис Россия\" и других конкурсах красоты в РФ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 16 Aug 2026 10:45:00 +0300",
+      "url": "https://tass.ru/info/24789089",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Белгородской области за сутки при атаках ВСУ пострадали семь человек",
+      "title_neutral": "В Белгородской области за сутки при атаках ВСУ пострадали семь человек",
+      "excerpt": "Вооруженные силы Украины ударили по региону 128 раз",
+      "recap_neutral": "Вооруженные силы Украины ударили по региону 128 раз",
+      "main_idea": "В Белгородской области за сутки при атаках ВСУ пострадали семь человек",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 16 Aug 2026 10:26:20 +0300",
+      "url": "https://tass.ru/proisshestviya/28016557",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Погибший после пожара в здании в Омске оказался гражданином Таджикистана",
+      "title_neutral": "Погибший после пожара в здании в Омске оказался гражданином Таджикистана",
+      "excerpt": "У него было 90% ожогов тела",
+      "recap_neutral": "У него было 90% ожогов тела",
+      "main_idea": "Погибший после пожара в здании в Омске оказался гражданином Таджикистана",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 16 Aug 2026 10:25:35 +0300",
+      "url": "https://tass.ru/proisshestviya/28016555",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: попытка атаки вражеских БПЛА на Москву стала крупнейшей за два года",
+      "title_neutral": "ТАСС: попытка атаки вражеских БПЛА на Москву стала крупнейшей за два года",
+      "excerpt": "В ночь на 16 августа в сторону столицы летели 600 БПЛА",
+      "recap_neutral": "В ночь на 16 августа в сторону столицы летели 600 БПЛА",
+      "main_idea": "ТАСС: попытка атаки вражеских БПЛА на Москву стала крупнейшей за два года",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 16 Aug 2026 10:24:23 +0300",
+      "url": "https://tass.ru/proisshestviya/28016547",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: в Коломне семь человек пострадали в ДТП с грузовиком на трассе",
+      "title_neutral": "ТАСС: в Коломне семь человек пострадали в ДТП с грузовиком на трассе",
+      "excerpt": "На М-5 столкнулись три легковушки и \"Газель\"",
+      "recap_neutral": "На М-5 столкнулись три легковушки и \"Газель\"",
+      "main_idea": "ТАСС: в Коломне семь человек пострадали в ДТП с грузовиком на трассе",
       "tags": [],
       "source": "ТАСС",
       "published_at": "Sun, 16 Aug 2026 10:20:07 +0300",
@@ -147,11 +215,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Врач Карпенко рассказал, почему детям нет смысла принимать БАДы \"для иммунитета\"",
-      "title_neutral": "Врач Карпенко рассказал, почему детям нет смысла принимать БАДы \"для иммунитета\"",
+      "title_original": "Врач Карпенко рассказал, почему детям не нужно принимать БАДы \"для иммунитета\"",
+      "title_neutral": "Врач Карпенко рассказал, почему детям не нужно принимать БАДы \"для иммунитета\"",
       "excerpt": "Они не имеют доказанной эффективности, заявил доцент кафедры педиатрии медицинского института РУДН",
       "recap_neutral": "Они не имеют доказанной эффективности, заявил доцент кафедры педиатрии медицинского института РУДН",
-      "main_idea": "Врач Карпенко рассказал, почему детям нет смысла принимать БАДы \"для иммунитета\"",
+      "main_idea": "Врач Карпенко рассказал, почему детям не нужно принимать БАДы \"для иммунитета\"",
       "tags": [
         "tech"
       ],
@@ -265,86 +333,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "ЛДПР предложила расширить круг получателей звания \"Ветеран труда\" в регионах",
-      "title_neutral": "ЛДПР предложила расширить круг получателей звания \"Ветеран труда\" в регионах",
-      "excerpt": "В партии призвали распространить меры соцподдержки на педагогов и медработников с длительным стажем работы",
-      "recap_neutral": "В партии призвали распространить меры соцподдержки на педагогов и медработников с длительным стажем работы",
-      "main_idea": "ЛДПР предложила расширить круг получателей звания \"Ветеран труда\" в регионах",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 16 Aug 2026 09:52:04 +0300",
-      "url": "https://tass.ru/obschestvo/28016469",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Испанский истребитель сбил неизвестный БПЛА на востоке Румынии",
-      "title_neutral": "Испанский истребитель сбил неизвестный БПЛА на востоке Румынии",
-      "excerpt": "Фрагменты дрона могли упасть между населенными пунктами Бэлень и Кудалби в ненаселенном районе, сообщило Минобороны",
-      "recap_neutral": "Фрагменты дрона могли упасть между населенными пунктами Бэлень и Кудалби в ненаселенном районе, сообщило Минобороны",
-      "main_idea": "Испанский истребитель сбил неизвестный БПЛА на востоке Румынии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 16 Aug 2026 09:51:20 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28016467",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Эксперт Ульмасов: мигранты из Азии не могут заменить в РФ рабочую силу из СНГ",
-      "title_neutral": "Эксперт Ульмасов: мигранты из Азии не могут заменить в РФ рабочую силу из СНГ",
-      "excerpt": "Речь идет о ближайшей перспективе, отметил профессор кафедры зарубежного регионоведения и внешней политики Российско-таджикского (Славянского) университета",
-      "recap_neutral": "Речь идет о ближайшей перспективе, отметил профессор кафедры зарубежного регионоведения и внешней политики Российско-таджикского (Славянского) университета",
-      "main_idea": "Эксперт Ульмасов: мигранты из Азии не могут заменить в РФ рабочую силу из СНГ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 16 Aug 2026 09:50:21 +0300",
-      "url": "https://tass.ru/ekonomika/28016455",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропорту Геленджика сняли ограничения",
-      "title_neutral": "В аэропорту Геленджика сняли ограничения",
-      "excerpt": "Их вводили для обеспечения безопасности полетов",
-      "recap_neutral": "Их вводили для обеспечения безопасности полетов",
-      "main_idea": "В аэропорту Геленджика сняли ограничения",
+      "title_original": "What happens when an LLM never sees material beyond fifth grade?",
+      "title_neutral": "What happens when an LLM never sees material beyond fifth grade?",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "What happens when an LLM never sees material beyond fifth grade?",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 16 Aug 2026 09:49:48 +0300",
-      "url": "https://tass.ru/obschestvo/28016483",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Подольске после ночной атаки БПЛА без света остаются 110 частных домов",
-      "title_neutral": "В Подольске после ночной атаки БПЛА без света остаются 110 частных домов",
-      "excerpt": "Обломки БПЛА повредили воздушную линию электропередачи",
-      "recap_neutral": "Обломки БПЛА повредили воздушную линию электропередачи",
-      "main_idea": "В Подольске после ночной атаки БПЛА без света остаются 110 частных домов",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 16 Aug 2026 09:49:07 +0300",
-      "url": "https://tass.ru/proisshestviya/28016481",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Sun, 16 Aug 2026 07:37:53 +0000",
+      "url": "https://littlelearner-ll.github.io/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -395,6 +395,24 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Health benefits of Tai Chi",
+      "title_neutral": "Health benefits of Tai Chi",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Health benefits of Tai Chi",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 16 Aug 2026 05:56:14 +0000",
+      "url": "https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1464,24 +1482,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A fortuitous decade as an indie software developer",
-      "title_neutral": "A fortuitous decade as an indie software developer",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "A fortuitous decade as an indie software developer",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Mon, 10 Aug 2026 15:20:25 +0000",
-      "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
