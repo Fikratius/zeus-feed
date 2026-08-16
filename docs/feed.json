@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T15:44:09.622160+00:00",
+  "last_updated": "2026-08-16T16:18:10.554624+00:00",
   "items": [
     {
       "title_original": "Does anyone run Postgres without PgBouncer?",
@@ -11,21 +11,6 @@
       "source": "Hacker News",
       "published_at": "Wed, 12 Aug 2026 20:13:06 +0000",
       "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Superconducting monolayer cuprate with a single CuO2 plane",
-      "title_neutral": "Superconducting monolayer cuprate with a single CuO2 plane",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Superconducting monolayer cuprate with a single CuO2 plane",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 12 Aug 2026 19:07:06 +0000",
-      "url": "https://www.nature.com/articles/s41586-026-10857-1",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -113,21 +98,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund",
-      "title_neutral": "What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 13 Aug 2026 17:02:50 +0000",
-      "url": "https://sniffnet.app/news/github-secure-open-source-fund/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
       "title_neutral": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
       "excerpt": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak wa…",
@@ -163,11 +133,133 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Армия Ирана выплатит вознаграждение за ликвидацию солдат США",
-      "title_neutral": "Армия Ирана выплатит вознаграждение за ликвидацию солдат США",
+      "title_original": "Андреева обыграла украинку Олейникову и вышла в 3-й круг турнира в Цинциннати",
+      "title_neutral": "Андреева обыграла украинку Олейникову и вышла в 3-й круг турнира в Цинциннати",
+      "excerpt": "Россиянка уступила всего один гейм",
+      "recap_neutral": "Россиянка уступила всего один гейм",
+      "main_idea": "Андреева обыграла украинку Олейникову и вышла в 3-й круг турнира в Цинциннати",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 16 Aug 2026 19:12:40 +0300",
+      "url": "https://tass.ru/sport/28017033",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ЛДПР предложили предоставлять россиянам участки по 0,5 га",
+      "title_neutral": "В ЛДПР предложили предоставлять россиянам участки по 0,5 га",
+      "excerpt": "Земля должна выделяться только после инфраструктурной подготовки, уточнил председатель партии Леонид Слуцкий",
+      "recap_neutral": "Земля должна выделяться только после инфраструктурной подготовки, уточнил председатель партии Леонид Слуцкий",
+      "main_idea": "В ЛДПР предложили предоставлять россиянам участки по 0,5 га",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 16 Aug 2026 19:10:46 +0300",
+      "url": "https://tass.ru/nedvizhimost/28017029",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: в Израиле на следующей неделе ждут с визитом Джареда Кушнера",
+      "title_neutral": "ТАСС: в Израиле на следующей неделе ждут с визитом Джареда Кушнера",
+      "excerpt": "Об этом сообщил правительственный источник из Израиля",
+      "recap_neutral": "Об этом сообщил правительственный источник из Израиля",
+      "main_idea": "ТАСС: в Израиле на следующей неделе ждут с визитом Джареда Кушнера",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 16 Aug 2026 18:59:32 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28017023",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Махачкалинское \"Динамо\" вышло на третье место в РПЛ, обыграв \"Крылья Советов\"",
+      "title_neutral": "Махачкалинское \"Динамо\" вышло на третье место в РПЛ, обыграв \"Крылья Советов\"",
+      "excerpt": "Самарцы не знают побед в нынешнем сезоне",
+      "recap_neutral": "Самарцы не знают побед в нынешнем сезоне",
+      "main_idea": "Махачкалинское \"Динамо\" вышло на третье место в РПЛ, обыграв \"Крылья Советов\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 16 Aug 2026 18:58:43 +0300",
+      "url": "https://tass.ru/sport/28017021",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Россиянки выиграли ЧЕ по спортивной гимнастике в командном многоборье",
+      "title_neutral": "Россиянки выиграли ЧЕ по спортивной гимнастике в командном многоборье",
+      "excerpt": "В составе команды выступали Ангелина Мельникова, Анна Калмыкова и Людмила Рощина",
+      "recap_neutral": "В составе команды выступали Ангелина Мельникова, Анна Калмыкова и Людмила Рощина",
+      "main_idea": "Россиянки выиграли ЧЕ по спортивной гимнастике в командном многоборье",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 16 Aug 2026 18:55:33 +0300",
+      "url": "https://tass.ru/sport/28017017",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Педро лучше Мбаппе, \"Динамо\" лучше \"Зенита\". Как москвичи остались ни с чем",
+      "title_neutral": "Педро лучше Мбаппе, \"Динамо\" лучше \"Зенита\". Как москвичи остались ни с чем",
+      "excerpt": "Центральный матч тура в РПЛ завершился одним из самых несправедливых разгромов за последние годы",
+      "recap_neutral": "Центральный матч тура в РПЛ завершился одним из самых несправедливых разгромов за последние годы",
+      "main_idea": "Педро лучше Мбаппе, \"Динамо\" лучше \"Зенита\". Как москвичи остались ни с чем",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 16 Aug 2026 18:54:49 +0300",
+      "url": "https://tass.ru/sport/28017011",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Синхронистки РФ выиграли золото юниорского ЧМ в произвольной программе групп",
+      "title_neutral": "Синхронистки РФ выиграли золото юниорского ЧМ в произвольной программе групп",
+      "excerpt": "За свое выступление россиянки получили 277,6814 балла",
+      "recap_neutral": "За свое выступление россиянки получили 277,6814 балла",
+      "main_idea": "Синхронистки РФ выиграли золото юниорского ЧМ в произвольной программе групп",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 16 Aug 2026 18:53:04 +0300",
+      "url": "https://tass.ru/sport/28017013",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Футболист \"Спартака\" Барко из-за травмы пропустит матч РПЛ с \"Балтикой\"",
+      "title_neutral": "Футболист \"Спартака\" Барко из-за травмы пропустит матч РПЛ с \"Балтикой\"",
+      "excerpt": "Также из-за повреждения в игре не примет участия полузащитник красно-белых Кристофер Мартинс",
+      "recap_neutral": "Также из-за повреждения в игре не примет участия полузащитник красно-белых Кристофер Мартинс",
+      "main_idea": "Футболист \"Спартака\" Барко из-за травмы пропустит матч РПЛ с \"Балтикой\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 16 Aug 2026 18:46:32 +0300",
+      "url": "https://tass.ru/sport/28017005",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Армия Ирана выплатит вознаграждение за ликвидацию или пленение солдат США",
+      "title_neutral": "Армия Ирана выплатит вознаграждение за ликвидацию или пленение солдат США",
       "excerpt": "По данным гостелерадиокомпании республики, командующий Амир Хатами также пообещал двойную награду \"отважным иранским женщинам, совершившим такой поступок\"",
       "recap_neutral": "По данным гостелерадиокомпании республики, командующий Амир Хатами также пообещал двойную награду \"отважным иранским женщинам, совершившим такой поступок\"",
-      "main_idea": "Армия Ирана выплатит вознаграждение за ликвидацию солдат США",
+      "main_idea": "Армия Ирана выплатит вознаграждение за ликвидацию или пленение солдат США",
       "tags": [
         "conflict",
         "tech"
@@ -249,11 +341,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "На Украине заявили, что митрополита УПЦ мобилизовали, несмотря на лишение гражданства",
-      "title_neutral": "На Украине заявили, что митрополита УПЦ мобилизовали, несмотря на лишение гражданства",
-      "excerpt": "Союз православных журналистов назвал абсурдными действия ТЦК в отношении священнослужителя",
-      "recap_neutral": "Союз православных журналистов назвал абсурдными действия ТЦК в отношении священнослужителя",
-      "main_idea": "На Украине заявили, что митрополита УПЦ мобилизовали, несмотря на лишение гражданства",
+      "title_original": "Похищенного ТЦК митрополита мобилизовали, несмотря на лишение гражданства",
+      "title_neutral": "Похищенного ТЦК митрополита мобилизовали, несмотря на лишение гражданства",
+      "excerpt": "Союз православных журналистов сообщил, что указ о лишении гражданства 13 архиереев издан еще в 2022 году",
+      "recap_neutral": "Союз православных журналистов сообщил, что указ о лишении гражданства 13 архиереев издан еще в 2022 году",
+      "main_idea": "Похищенного ТЦК митрополита мобилизовали, несмотря на лишение гражданства",
       "tags": [
         "tech"
       ],
@@ -281,132 +373,21 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Умер писатель и журналист Феликс Медведев",
-      "title_neutral": "Умер писатель и журналист Феликс Медведев",
-      "excerpt": "В семье автора рассказали, что он скончался 14 августа после продолжительной болезни",
-      "recap_neutral": "В семье автора рассказали, что он скончался 14 августа после продолжительной болезни",
-      "main_idea": "Умер писатель и журналист Феликс Медведев",
-      "tags": [
-        "health"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 16 Aug 2026 18:16:37 +0300",
-      "url": "https://tass.ru/kultura/28016989",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Во всех городах Ямала создадут площадки для военно-патриотических игр",
-      "title_neutral": "Во всех городах Ямала создадут площадки для военно-патриотических игр",
-      "excerpt": "По словам губернатора региона Дмитрия Артюхова, это требует относительно небольших средств",
-      "recap_neutral": "По словам губернатора региона Дмитрия Артюхова, это требует относительно небольших средств",
-      "main_idea": "Во всех городах Ямала создадут площадки для военно-патриотических игр",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 16 Aug 2026 18:15:52 +0300",
-      "url": "https://tass.ru/obschestvo/28016985",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Умер народный артист России Леонид Рудой",
-      "title_neutral": "Умер народный артист России Леонид Рудой",
-      "excerpt": "Ему было 80 лет",
-      "recap_neutral": "Ему было 80 лет",
-      "main_idea": "Умер народный артист России Леонид Рудой",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 16 Aug 2026 18:10:14 +0300",
-      "url": "https://tass.ru/kultura/28016981",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ЦАХАЛ заявил об ударах по радикалу ХАМАС и боевику \"Исламского джихада\" в Газе",
-      "title_neutral": "ЦАХАЛ заявил об ударах по радикалу ХАМАС и боевику \"Исламского джихада\" в Газе",
-      "excerpt": "В израильской армии отметили, что \"перед ударами были приняты меры по минимизации ущерба для гражданского населения\"",
-      "recap_neutral": "В израильской армии отметили, что \"перед ударами были приняты меры по минимизации ущерба для гражданского населения\"",
-      "main_idea": "ЦАХАЛ заявил об ударах по радикалу ХАМАС и боевику \"Исламского джихада\" в Газе",
+      "title_original": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "title_neutral": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "excerpt": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+      "recap_neutral": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv",
+      "main_idea": "Russia says at least seven killed in largest Ukrainian attack of 2026",
       "tags": [
         "conflict",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sun, 16 Aug 2026 18:09:53 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28016987",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Педро: первый гол Соболева принес уверенность и спокойствие в матче с \"Динамо\"",
-      "title_neutral": "Педро: первый гол Соболева принес уверенность и спокойствие в матче с \"Динамо\"",
-      "excerpt": "\"Зенит\" одержал победу со счетом 3:0 в матче РПЛ",
-      "recap_neutral": "\"Зенит\" одержал победу со счетом 3:0 в матче РПЛ",
-      "main_idea": "Педро: первый гол Соболева принес уверенность и спокойствие в матче с \"Динамо\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 16 Aug 2026 18:07:07 +0300",
-      "url": "https://tass.ru/sport/28016983",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Первый электрический автомобиль Ferrari был продан на аукционе за $40 млн",
-      "title_neutral": "Первый электрический автомобиль Ferrari был продан на аукционе за $40 млн",
-      "excerpt": "По данным агентства Bloomberg, проданный экземпляр установил рекорд как самый дорогостоящий новый автомобиль, когда-либо проданный на аукционе",
-      "recap_neutral": "По данным агентства Bloomberg, проданный экземпляр установил рекорд как самый дорогостоящий новый автомобиль, когда-либо проданный на аукционе",
-      "main_idea": "Первый электрический автомобиль Ferrari был продан на аукционе за $40 млн",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 16 Aug 2026 18:05:39 +0300",
-      "url": "https://tass.ru/ekonomika/28016979",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Смоленской области определили сильнейших участников этапа марафона \"Земля спорта\"",
-      "title_neutral": "В Смоленской области определили сильнейших участников этапа марафона \"Земля спорта\"",
-      "excerpt": "Программа марафона объединила пять дисциплин, рассчитанных на разные возрастные категории и уровни подготовки",
-      "recap_neutral": "Программа марафона объединила пять дисциплин, рассчитанных на разные возрастные категории и уровни подготовки",
-      "main_idea": "В Смоленской области определили сильнейших участников этапа марафона \"Земля спорта\"",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 16 Aug 2026 18:02:36 +0300",
-      "url": "https://tass.ru/obschestvo/28016945",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Фомин назвал старт сезона для \"Динамо\" не таким удручающим, как при Карпине",
-      "title_neutral": "Фомин назвал старт сезона для \"Динамо\" не таким удручающим, как при Карпине",
-      "excerpt": "После четырех туров \"Динамо\" занимает десятое место в РПЛ с четырьмя очками",
-      "recap_neutral": "После четырех туров \"Динамо\" занимает десятое место в РПЛ с четырьмя очками",
-      "main_idea": "Фомин назвал старт сезона для \"Динамо\" не таким удручающим, как при Карпине",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 16 Aug 2026 17:58:57 +0300",
-      "url": "https://tass.ru/sport/28016977",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Sun, 16 Aug 2026 15:50:12 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -424,6 +405,21 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The weekend is 100 years old",
+      "title_neutral": "The weekend is 100 years old",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The weekend is 100 years old",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 16 Aug 2026 15:30:15 +0000",
+      "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -459,21 +455,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "title_neutral": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "excerpt": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
-      "recap_neutral": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv",
-      "main_idea": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 16 Aug 2026 15:14:01 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "title_original": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "title_neutral": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 16 Aug 2026 15:16:06 +0000",
+      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -491,6 +484,21 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "GPS and the Lost Art of Getting Lost",
+      "title_neutral": "GPS and the Lost Art of Getting Lost",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "GPS and the Lost Art of Getting Lost",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 16 Aug 2026 14:53:14 +0000",
+      "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -702,6 +710,24 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+      "title_neutral": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+      "excerpt": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts.",
+      "recap_neutral": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts",
+      "main_idea": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+      "tags": [
+        "tech",
+        "climate"
+      ],
+      "source": "NPR",
+      "published_at": "Sun, 16 Aug 2026 11:47:58 -0400",
+      "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1085,24 +1111,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Software Engineering fundamentals matter more",
-      "title_neutral": "Software Engineering fundamentals matter more",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Software Engineering fundamentals matter more",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 15 Aug 2026 22:31:09 +0000",
-      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Australian state to launch gun buyback after Bondi Beach attack",
       "title_neutral": "Australian state to launch gun buyback after Bondi Beach attack",
       "excerpt": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
@@ -1380,23 +1388,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
-      "title_neutral": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
-      "excerpt": "Indiana, Illinois and surrounding states are preparing for another stretch of flooding through this weekend.",
-      "recap_neutral": "Indiana, Illinois and surrounding states are preparing for another stretch of flooding through this weekend",
-      "main_idea": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 15 Aug 2026 16:04:13 -0400",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
