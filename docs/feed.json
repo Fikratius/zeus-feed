@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T22:45:03.612094+00:00",
+  "last_updated": "2026-08-16T23:14:29.812415+00:00",
   "items": [
     {
       "title_original": "Former Mexican governor charged in case of 43 students who vanished in 2014",
@@ -86,12 +86,11 @@
     {
       "title_original": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
       "title_neutral": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-      "excerpt": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
-      "recap_neutral": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran",
+      "excerpt": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+      "recap_neutral": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises",
       "main_idea": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
       "tags": [
-        "conflict",
-        "tech"
+        "conflict"
       ],
       "source": "BBC World",
       "published_at": "Sun, 16 Aug 2026 22:41:34 GMT",
@@ -126,21 +125,6 @@
       "source": "Hacker News",
       "published_at": "Sun, 16 Aug 2026 21:53:43 +0000",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Claude Seems Down",
-      "title_neutral": "Claude Seems Down",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Claude Seems Down",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 16 Aug 2026 21:52:59 +0000",
-      "url": "https://news.ycombinator.com/item?id=49324078",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -229,6 +213,23 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "title_neutral": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 16 Aug 2026 20:31:16 +0000",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1258,6 +1259,251 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "С 1 сентября изменятся правила ведения электронной медицинской документации",
+      "title_neutral": "С 1 сентября изменятся правила ведения электронной медицинской документации",
+      "excerpt": "",
+      "recap_neutral": "С 1 сентября изменятся правила ведения электронной медицинской документации",
+      "main_idea": "С 1 сентября изменятся правила ведения электронной медицинской документации",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 02:11:32 +0300",
+      "url": "https://tass.ru/obschestvo/28017299",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Опубликовано видео последствий шторма в Индиане",
+      "title_neutral": "Опубликовано видео последствий шторма в Индиане",
+      "excerpt": "Из-за стихии в штате погибли как минимум семь человек",
+      "recap_neutral": "Из-за стихии в штате погибли как минимум семь человек",
+      "main_idea": "Опубликовано видео последствий шторма в Индиане",
+      "tags": [
+        "tech",
+        "climate"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 02:06:39 +0300",
+      "url": "https://tass.ru/proisshestviya/28017293",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Минпросвещения сообщило, каким классам запрещено обучение во вторую смену",
+      "title_neutral": "Минпросвещения сообщило, каким классам запрещено обучение во вторую смену",
+      "excerpt": "",
+      "recap_neutral": "Минпросвещения сообщило, каким классам запрещено обучение во вторую смену",
+      "main_idea": "Минпросвещения сообщило, каким классам запрещено обучение во вторую смену",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 02:05:31 +0300",
+      "url": "https://tass.ru/obschestvo/28017297",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Bloomberg узнал о тайных перевозках ближневосточными странами нефти через Ормуз",
+      "title_neutral": "Bloomberg узнал о тайных перевозках ближневосточными странами нефти через Ормуз",
+      "excerpt": "Агентство утверждает, что подобные перевозки сопряжены с риском ударов по судам",
+      "recap_neutral": "Агентство утверждает, что подобные перевозки сопряжены с риском ударов по судам",
+      "main_idea": "Bloomberg узнал о тайных перевозках ближневосточными странами нефти через Ормуз",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 02:02:20 +0300",
+      "url": "https://tass.ru/ekonomika/28017295",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Политик Мема назвал Стубба \"вассалом США\" в отношениях с Россией",
+      "title_neutral": "Политик Мема назвал Стубба \"вассалом США\" в отношениях с Россией",
+      "excerpt": "Президент Финляндии неоднократно принимал политические решения, направленные на то, чтобы угодить американским дипломатам, отметил член финской национально-консервативной партии \"Альянс свободы\"",
+      "recap_neutral": "Президент Финляндии неоднократно принимал политические решения, направленные на то, чтобы угодить американским дипломатам, отметил член финской национально-консервативной партии \"Альянс свободы\"",
+      "main_idea": "Политик Мема назвал Стубба \"вассалом США\" в отношениях с Россией",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 01:48:22 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28017287",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Аэропорт Нижнего Новгорода принимает и отправляет рейсы по согласованию",
+      "title_neutral": "Аэропорт Нижнего Новгорода принимает и отправляет рейсы по согласованию",
+      "excerpt": "Возможны корректировки в расписании",
+      "recap_neutral": "Возможны корректировки в расписании",
+      "main_idea": "Аэропорт Нижнего Новгорода принимает и отправляет рейсы по согласованию",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 01:46:01 +0300",
+      "url": "https://tass.ru/ekonomika/28017289",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Народный фронт\" рассказал о рисках мошенничества при трудоустройстве за рубежом",
+      "title_neutral": "\"Народный фронт\" рассказал о рисках мошенничества при трудоустройстве за рубежом",
+      "excerpt": "Эксперт направления \"Народный фронт. Аналитика\" Галактион Кучава сообщил, что злоумышленники могут месяцами сопровождать жертву, выманивая деньги и персональные данные",
+      "recap_neutral": "Эксперт направления \"Народный фронт",
+      "main_idea": "\"Народный фронт\" рассказал о рисках мошенничества при трудоустройстве за рубежом",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 01:45:14 +0300",
+      "url": "https://tass.ru/obschestvo/28017285",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На Камчатке полицейский застрелил браконьера во время задержания",
+      "title_neutral": "На Камчатке полицейский застрелил браконьера во время задержания",
+      "excerpt": "ЧП произошло недалеко от села Соболево",
+      "recap_neutral": "ЧП произошло недалеко от села Соболево",
+      "main_idea": "На Камчатке полицейский застрелил браконьера во время задержания",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 01:35:43 +0300",
+      "url": "https://tass.ru/proisshestviya/28017283",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Волгограда ввели ограничения на прием и выпуск самолетов",
+      "title_neutral": "В аэропорту Волгограда ввели ограничения на прием и выпуск самолетов",
+      "excerpt": "Меры необходимы для обеспечения безопасности полетов",
+      "recap_neutral": "Меры необходимы для обеспечения безопасности полетов",
+      "main_idea": "В аэропорту Волгограда ввели ограничения на прием и выпуск самолетов",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 01:19:07 +0300",
+      "url": "https://tass.ru/ekonomika/28017281",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В ЦАМТО назвали борьбу союзников США с БПЛА Ирана стрельбой из пушек по воробьям",
+      "title_neutral": "В ЦАМТО назвали борьбу союзников США с БПЛА Ирана стрельбой из пушек по воробьям",
+      "excerpt": "Основной вызов для стран Аравийского полуострова заключается в колоссальном разрыве между стоимостью средств нападения и стоимостью перехватчиков, заявили эксперты Центра анализа мировой торговли оружием",
+      "recap_neutral": "Основной вызов для стран Аравийского полуострова заключается в колоссальном разрыве между стоимостью средств нападения и стоимостью перехватчиков, заявили эксперты Центра анализа мировой торговли оружием",
+      "main_idea": "В ЦАМТО назвали борьбу союзников США с БПЛА Ирана стрельбой из пушек по воробьям",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 01:09:28 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28017279",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Бронеавтомобили \"Тигр-М\" поступили в противодиверсионные отряды ТОФ на Камчатке",
+      "title_neutral": "Бронеавтомобили \"Тигр-М\" поступили в противодиверсионные отряды ТОФ на Камчатке",
+      "excerpt": "Они вооружены боевым \"Арбалетом-ДМ\", предназначенным для повышения эффективности применения оружия и сохранения жизни и здоровья военнослужащих",
+      "recap_neutral": "Они вооружены боевым \"Арбалетом-ДМ\", предназначенным для повышения эффективности применения оружия и сохранения жизни и здоровья военнослужащих",
+      "main_idea": "Бронеавтомобили \"Тигр-М\" поступили в противодиверсионные отряды ТОФ на Камчатке",
+      "tags": [
+        "health"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 01:00:21 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28017277",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Миссис Россия 2026\" рассказала о тренде на естественную женскую красоту в РФ",
+      "title_neutral": "\"Миссис Россия 2026\" рассказала о тренде на естественную женскую красоту в РФ",
+      "excerpt": "В прошлом женщины очень вкладывали в себя и потеряли свое истинное лицо, заявила Марина Куклачева",
+      "recap_neutral": "В прошлом женщины очень вкладывали в себя и потеряли свое истинное лицо, заявила Марина Куклачева",
+      "main_idea": "\"Миссис Россия 2026\" рассказала о тренде на естественную женскую красоту в РФ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 00:42:09 +0300",
+      "url": "https://tass.ru/kultura/28017273",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Чемпиона СССР 1990 года по футболу Цвейбу внесли в базу \"Миротворца\"",
+      "title_neutral": "Чемпиона СССР 1990 года по футболу Цвейбу внесли в базу \"Миротворца\"",
+      "excerpt": "Ему вменяется покушение на суверенитет и территориальную целостность Украины, а также поддержка в проведении специальной военной операции",
+      "recap_neutral": "Ему вменяется покушение на суверенитет и территориальную целостность Украины, а также поддержка в проведении специальной военной операции",
+      "main_idea": "Чемпиона СССР 1990 года по футболу Цвейбу внесли в базу \"Миротворца\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 00:39:40 +0300",
+      "url": "https://tass.ru/sport/28017275",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Миссис Москва - 2026\" готова представить Россию на международном конкурсе",
+      "title_neutral": "\"Миссис Москва - 2026\" готова представить Россию на международном конкурсе",
+      "excerpt": "Валентина Вылегжанина также рассказала, что намерена продолжить заниматься благотворительностью и развивать проекты для детей с ограниченными возможностями здоровья",
+      "recap_neutral": "Валентина Вылегжанина также рассказала, что намерена продолжить заниматься благотворительностью и развивать проекты для детей с ограниченными возможностями здоровья",
+      "main_idea": "\"Миссис Москва - 2026\" готова представить Россию на международном конкурсе",
+      "tags": [
+        "health"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 00:35:52 +0300",
+      "url": "https://tass.ru/obschestvo/28017271",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "NYT: в Индиане из-за шторма погибли не менее семи человек",
+      "title_neutral": "NYT: в Индиане из-за шторма погибли не менее семи человек",
+      "excerpt": "Возраст жертв варьируется от 4 до 86 лет",
+      "recap_neutral": "Возраст жертв варьируется от 4 до 86 лет",
+      "main_idea": "NYT: в Индиане из-за шторма погибли не менее семи человек",
+      "tags": [
+        "climate"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 00:25:18 +0300",
+      "url": "https://tass.ru/proisshestviya/28017265",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
