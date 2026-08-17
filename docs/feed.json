@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T10:55:41.088661+00:00",
+  "last_updated": "2026-08-17T11:21:11.480877+00:00",
   "items": [
     {
       "title_original": "Former Mexican governor charged in case of 43 students who vanished in 2014",
@@ -65,15 +65,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "SIMD in the 90s: Programming Intel's Pentium MMX",
-      "title_neutral": "SIMD in the 90s: Programming Intel's Pentium MMX",
+      "title_original": "Production-ready detection and response queries for osquery",
+      "title_neutral": "Production-ready detection and response queries for osquery",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "SIMD in the 90s: Programming Intel's Pentium MMX",
+      "main_idea": "Production-ready detection and response queries for osquery",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Thu, 13 Aug 2026 12:44:05 +0000",
-      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+      "published_at": "Thu, 13 Aug 2026 02:32:01 +0000",
+      "url": "https://github.com/chainguard-dev/osquery-defense-kit",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -429,245 +429,350 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "\"Volga Арену\" в Нижнем Новгороде ввели в эксплуатацию",
-      "title_neutral": "\"Volga Арену\" в Нижнем Новгороде ввели в эксплуатацию",
-      "excerpt": "На ней домашние матчи будет проводить местный хоккейный клуб \"Торпедо\"",
-      "recap_neutral": "На ней домашние матчи будет проводить местный хоккейный клуб \"Торпедо\"",
-      "main_idea": "\"Volga Арену\" в Нижнем Новгороде ввели в эксплуатацию",
+      "title_original": "В Московском регионе 18 и 19 августа пройдут кратковременные дожди",
+      "title_neutral": "В Московском регионе 18 и 19 августа пройдут кратковременные дожди",
+      "excerpt": "Температура воздуха будет до плюс 22-24 градусов местами, возможно усиление южного и юго-западного ветра в порывах до 18 м/с",
+      "recap_neutral": "Температура воздуха будет до плюс 22-24 градусов местами, возможно усиление южного и юго-западного ветра в порывах до 18 м/с",
+      "main_idea": "В Московском регионе 18 и 19 августа пройдут кратковременные дожди",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Mon, 17 Aug 2026 13:52:48 +0300",
-      "url": "https://tass.ru/sport/28018831",
+      "published_at": "Mon, 17 Aug 2026 14:17:16 +0300",
+      "url": "https://tass.ru/obschestvo/28018947",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В военном суде огласили обвинение полковнику ВФУ Андрею Дзянию",
-      "title_neutral": "В военном суде огласили обвинение полковнику ВФУ Андрею Дзянию",
-      "excerpt": "Андрея Дзянию обвиняют в организации теракта и руководстве совершением теракта в Ростовской области",
-      "recap_neutral": "Андрея Дзянию обвиняют в организации теракта и руководстве совершением теракта в Ростовской области",
-      "main_idea": "В военном суде огласили обвинение полковнику ВФУ Андрею Дзянию",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 17 Aug 2026 13:52:27 +0300",
-      "url": "https://tass.ru/proisshestviya/28018797",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ЦБ: сокращение числа отделений банков в городах не влияет на доступность финуслуг",
-      "title_neutral": "ЦБ: сокращение числа отделений банков в городах не влияет на доступность финуслуг",
-      "excerpt": "В Банке России отметили, что сложности могут возникнуть у жителей небольших населенных пунктов, но кредитные организации создают новые форматы обслуживания",
-      "recap_neutral": "В Банке России отметили, что сложности могут возникнуть у жителей небольших населенных пунктов, но кредитные организации создают новые форматы обслуживания",
-      "main_idea": "ЦБ: сокращение числа отделений банков в городах не влияет на доступность финуслуг",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 17 Aug 2026 13:50:03 +0300",
-      "url": "https://tass.ru/ekonomika/28018823",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Бельгии засуха привела к обмелению рек и ограничениям на использование воды",
-      "title_neutral": "В Бельгии засуха привела к обмелению рек и ограничениям на использование воды",
-      "excerpt": "Ограничения включают запрет на полив, наполнение бассейнов и иных резервуаров",
-      "recap_neutral": "Ограничения включают запрет на полив, наполнение бассейнов и иных резервуаров",
-      "main_idea": "В Бельгии засуха привела к обмелению рек и ограничениям на использование воды",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 17 Aug 2026 13:49:46 +0300",
-      "url": "https://tass.ru/obschestvo/28018825",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Краснодаре фиксируют рост спроса на бензин на фоне завершения периода отпусков",
-      "title_neutral": "В Краснодаре фиксируют рост спроса на бензин на фоне завершения периода отпусков",
-      "excerpt": "Все аварийные и экстренные службы топливом обеспечены",
-      "recap_neutral": "Все аварийные и экстренные службы топливом обеспечены",
-      "main_idea": "В Краснодаре фиксируют рост спроса на бензин на фоне завершения периода отпусков",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 17 Aug 2026 13:48:55 +0300",
-      "url": "https://tass.ru/ekonomika/28018801",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Al Arabiya: США и Иран согласились продлить 60-дневное перемирие",
-      "title_neutral": "Al Arabiya: США и Иран согласились продлить 60-дневное перемирие",
+      "title_original": "Новак поручил мониторить макроэкономические показатели",
+      "title_neutral": "Новак поручил мониторить макроэкономические показатели",
       "excerpt": "",
-      "recap_neutral": "Al Arabiya: США и Иран согласились продлить 60-дневное перемирие",
-      "main_idea": "Al Arabiya: США и Иран согласились продлить 60-дневное перемирие",
-      "tags": [],
+      "recap_neutral": "Новак поручил мониторить макроэкономические показатели",
+      "main_idea": "Новак поручил мониторить макроэкономические показатели",
+      "tags": [
+        "economy"
+      ],
       "source": "ТАСС",
-      "published_at": "Mon, 17 Aug 2026 13:47:39 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28018821",
+      "published_at": "Mon, 17 Aug 2026 14:15:29 +0300",
+      "url": "https://tass.ru/ekonomika/28018949",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Президент Ганы примет участие в саммите Россия - Африка",
-      "title_neutral": "Президент Ганы примет участие в саммите Россия - Африка",
+      "title_original": "Глава МИД Ганы заявил, что 62 гражданина республики погибли на СВО",
+      "title_neutral": "Глава МИД Ганы заявил, что 62 гражданина республики погибли на СВО",
       "excerpt": "",
-      "recap_neutral": "Президент Ганы примет участие в саммите Россия - Африка",
-      "main_idea": "Президент Ганы примет участие в саммите Россия - Африка",
+      "recap_neutral": "Глава МИД Ганы заявил, что 62 гражданина республики погибли на СВО",
+      "main_idea": "Глава МИД Ганы заявил, что 62 гражданина республики погибли на СВО",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 14:14:46 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28018945",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Govoritmd: в Молдавии сняли с проката фильм \"Колобок\"",
+      "title_neutral": "Govoritmd: в Молдавии сняли с проката фильм \"Колобок\"",
+      "excerpt": "Прокатчик отказался от показа кинокартины из-за протестов прозападных активистов, сообщил портал",
+      "recap_neutral": "Прокатчик отказался от показа кинокартины из-за протестов прозападных активистов, сообщил портал",
+      "main_idea": "Govoritmd: в Молдавии сняли с проката фильм \"Колобок\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 14:14:33 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28018911",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Ленобласти создадут 55 участков для голосования петербуржцев на выборах в ЗС",
+      "title_neutral": "В Ленобласти создадут 55 участков для голосования петербуржцев на выборах в ЗС",
+      "excerpt": "В Петербурге также организуют 20 избирательных участков по выборам в Законодательное собрание Ленинградской области",
+      "recap_neutral": "В Петербурге также организуют 20 избирательных участков по выборам в Законодательное собрание Ленинградской области",
+      "main_idea": "В Ленобласти создадут 55 участков для голосования петербуржцев на выборах в ЗС",
       "tags": [
         "politics"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 17 Aug 2026 13:47:08 +0300",
-      "url": "https://tass.ru/politika/28018819",
+      "published_at": "Mon, 17 Aug 2026 14:13:41 +0300",
+      "url": "https://tass.ru/obschestvo/28018897",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Смоленской области с начала года прошли диспансеризацию более 650 участников СВО",
-      "title_neutral": "В Смоленской области с начала года прошли диспансеризацию более 650 участников СВО",
-      "excerpt": "По словам губернатора региона Василия Анохина, поддержка защитников Отечества остается одной из главных задач государства, и этот принцип лежит в основе работы областных администраций",
-      "recap_neutral": "По словам губернатора региона Василия Анохина, поддержка защитников Отечества остается одной из главных задач государства, и этот принцип лежит в основе работы областных администраций",
-      "main_idea": "В Смоленской области с начала года прошли диспансеризацию более 650 участников СВО",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 17 Aug 2026 13:46:49 +0300",
-      "url": "https://tass.ru/obschestvo/28018809",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лавров: РФ готова оказывать Африке необходимую поддержку в борьбе с терроризмом",
-      "title_neutral": "Лавров: РФ готова оказывать Африке необходимую поддержку в борьбе с терроризмом",
-      "excerpt": "",
-      "recap_neutral": "Лавров: РФ готова оказывать Африке необходимую поддержку в борьбе с терроризмом",
-      "main_idea": "Лавров: РФ готова оказывать Африке необходимую поддержку в борьбе с терроризмом",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 17 Aug 2026 13:46:40 +0300",
-      "url": "https://tass.ru/politika/28018817",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Курс юаня к рублю достиг максимума с февраля 2025 года",
-      "title_neutral": "Курс юаня к рублю достиг максимума с февраля 2025 года",
-      "excerpt": "Он достиг отметки в 12,689 рубля",
-      "recap_neutral": "Он достиг отметки в 12,689 рубля",
-      "main_idea": "Курс юаня к рублю достиг максимума с февраля 2025 года",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 17 Aug 2026 13:46:37 +0300",
-      "url": "https://tass.ru/ekonomika/28018813",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Зеленский до сих пор не внес в Раду кандидатуру на пост министра обороны",
-      "title_neutral": "Зеленский до сих пор не внес в Раду кандидатуру на пост министра обороны",
-      "excerpt": "С момента отставки с поста главы Минобороны Михаила Федорова на Украине есть лишь исполняющий обязанности министра обороны, которым является Евгений Хмара",
-      "recap_neutral": "С момента отставки с поста главы Минобороны Михаила Федорова на Украине есть лишь исполняющий обязанности министра обороны, которым является Евгений Хмара",
-      "main_idea": "Зеленский до сих пор не внес в Раду кандидатуру на пост министра обороны",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 17 Aug 2026 13:45:17 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28018807",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В ДНР аграриев обеспечили бронежилетами и спецсвязью на случай атак ВСУ",
-      "title_neutral": "В ДНР аграриев обеспечили бронежилетами и спецсвязью на случай атак ВСУ",
-      "excerpt": "Начальник отделения \"Новоазовск\" филиала \"Заря агро\" ГУП ДНР \"Аграрный Донбасс\" Сергей Шведун заявил, что работники с пониманием относятся к нештатным ситуациям",
-      "recap_neutral": "Начальник отделения \"Новоазовск\" филиала \"Заря агро\" ГУП ДНР \"Аграрный Донбасс\" Сергей Шведун заявил, что работники с пониманием относятся к нештатным ситуациям",
-      "main_idea": "В ДНР аграриев обеспечили бронежилетами и спецсвязью на случай атак ВСУ",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 17 Aug 2026 13:44:55 +0300",
-      "url": "https://tass.ru/obschestvo/28018799",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин принимает в Кремле губернатора Ненецкого автономного округа",
-      "title_neutral": "Путин принимает в Кремле губернатора Ненецкого автономного округа",
-      "excerpt": "Это первая встреча Ирины Гехт с главой государства после ее вступления в должность",
-      "recap_neutral": "Это первая встреча Ирины Гехт с главой государства после ее вступления в должность",
-      "main_idea": "Путин принимает в Кремле губернатора Ненецкого автономного округа",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 17 Aug 2026 13:42:35 +0300",
-      "url": "https://tass.ru/politika/28018803",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Уганде нашли ранее неизвестную вариацию малярии, стойкую к действию лекарств",
-      "title_neutral": "В Уганде нашли ранее неизвестную вариацию малярии, стойкую к действию лекарств",
-      "excerpt": "Малярия по-прежнему остается одной из главных угроз для человечества, заявил доцент Брауновского университета Джеффри Бейли",
-      "recap_neutral": "Малярия по-прежнему остается одной из главных угроз для человечества, заявил доцент Брауновского университета Джеффри Бейли",
-      "main_idea": "В Уганде нашли ранее неизвестную вариацию малярии, стойкую к действию лекарств",
+      "title_original": "Дело о хищении средств у участников СВО в Шереметьеве направили в суд",
+      "title_neutral": "Дело о хищении средств у участников СВО в Шереметьеве направили в суд",
+      "excerpt": "Обвинительное заключение утверждено в Генеральной прокуратуре",
+      "recap_neutral": "Обвинительное заключение утверждено в Генеральной прокуратуре",
+      "main_idea": "Дело о хищении средств у участников СВО в Шереметьеве направили в суд",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Mon, 17 Aug 2026 13:41:57 +0300",
-      "url": "https://tass.ru/obschestvo/28018793",
+      "published_at": "Mon, 17 Aug 2026 14:13:37 +0300",
+      "url": "https://tass.ru/proisshestviya/28018937",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Подмосковье мужчина напал с ножом на посетителя офиса УК",
-      "title_neutral": "В Подмосковье мужчина напал с ножом на посетителя офиса УК",
-      "excerpt": "Росгвардейцы незамедлительно вызвали бригаду скорой помощи",
-      "recap_neutral": "Росгвардейцы незамедлительно вызвали бригаду скорой помощи",
-      "main_idea": "В Подмосковье мужчина напал с ножом на посетителя офиса УК",
-      "tags": [],
+      "title_original": "В ФРГ пересмотрят закон об оскорблении политиков из-за насмешек над Мерцем",
+      "title_neutral": "В ФРГ пересмотрят закон об оскорблении политиков из-за насмешек над Мерцем",
+      "excerpt": "Депутат от правоцентристского Христианско-демократического союза Сюзанна Хирль заявила, что изучат как формулировку статьи 188, так и способ ее применения",
+      "recap_neutral": "Депутат от правоцентристского Христианско-демократического союза Сюзанна Хирль заявила, что изучат как формулировку статьи 188, так и способ ее применения",
+      "main_idea": "В ФРГ пересмотрят закон об оскорблении политиков из-за насмешек над Мерцем",
+      "tags": [
+        "tech"
+      ],
       "source": "ТАСС",
-      "published_at": "Mon, 17 Aug 2026 13:40:53 +0300",
-      "url": "https://tass.ru/proisshestviya/28018795",
+      "published_at": "Mon, 17 Aug 2026 14:13:00 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28018899",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: запрос Ганы насчет ее граждан, участвующих в СВО, рассмотрят",
+      "title_neutral": "Лавров: запрос Ганы насчет ее граждан, участвующих в СВО, рассмотрят",
+      "excerpt": "",
+      "recap_neutral": "Лавров: запрос Ганы насчет ее граждан, участвующих в СВО, рассмотрят",
+      "main_idea": "Лавров: запрос Ганы насчет ее граждан, участвующих в СВО, рассмотрят",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 14:12:42 +0300",
+      "url": "https://tass.ru/politika/28018931",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Новой Москве за 14 лет реконструировали и построили 12 очистных сооружений",
+      "title_neutral": "В Новой Москве за 14 лет реконструировали и построили 12 очистных сооружений",
+      "excerpt": "Реализация проектов позволила повысить надежность работы системы водоотведения округов, сообщил заммэра Петр Бирюков",
+      "recap_neutral": "Реализация проектов позволила повысить надежность работы системы водоотведения округов, сообщил заммэра Петр Бирюков",
+      "main_idea": "В Новой Москве за 14 лет реконструировали и построили 12 очистных сооружений",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 14:12:33 +0300",
+      "url": "https://tass.ru/obschestvo/28018927",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Путин указал, что зарплаты в НАО выше, чем в среднем по России",
+      "title_neutral": "Путин указал, что зарплаты в НАО выше, чем в среднем по России",
+      "excerpt": "По словам главы государства, заработная плата в регионе составляет более 140 тыс. рублей",
+      "recap_neutral": "По словам главы государства, заработная плата в регионе составляет более 140 тыс",
+      "main_idea": "Путин указал, что зарплаты в НАО выше, чем в среднем по России",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 14:12:09 +0300",
+      "url": "https://tass.ru/ekonomika/28018921",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Фетисов считает, что дело Валиевой еще не закончено",
+      "title_neutral": "Фетисов считает, что дело Валиевой еще не закончено",
+      "excerpt": "Он отметил, что кто-то должен ответить за то, что произошло",
+      "recap_neutral": "Он отметил, что кто-то должен ответить за то, что произошло",
+      "main_idea": "Фетисов считает, что дело Валиевой еще не закончено",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 14:10:32 +0300",
+      "url": "https://tass.ru/sport/28018917",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров рассказал, какие страны планируют террористические угрозы в Африке",
+      "title_neutral": "Лавров рассказал, какие страны планируют террористические угрозы в Африке",
+      "excerpt": "",
+      "recap_neutral": "Лавров рассказал, какие страны планируют террористические угрозы в Африке",
+      "main_idea": "Лавров рассказал, какие страны планируют террористические угрозы в Африке",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 14:10:10 +0300",
+      "url": "https://tass.ru/politika/28018905",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: украинцев задействуют в атаках в странах Сахеля",
+      "title_neutral": "Лавров: украинцев задействуют в атаках в странах Сахеля",
+      "excerpt": "",
+      "recap_neutral": "Лавров: украинцев задействуют в атаках в странах Сахеля",
+      "main_idea": "Лавров: украинцев задействуют в атаках в странах Сахеля",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 14:09:58 +0300",
+      "url": "https://tass.ru/politika/28018915",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Санкт-Петербурге 10 и 11 октября пройдут концерты Канье Уэста",
+      "title_neutral": "В Санкт-Петербурге 10 и 11 октября пройдут концерты Канье Уэста",
+      "excerpt": "",
+      "recap_neutral": "В Санкт-Петербурге 10 и 11 октября пройдут концерты Канье Уэста",
+      "main_idea": "В Санкт-Петербурге 10 и 11 октября пройдут концерты Канье Уэста",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 14:09:51 +0300",
+      "url": "https://tass.ru/kultura/28018913",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров: Франция вооружает незаконные формирования в Сахаро-Сахельском регионе",
+      "title_neutral": "Лавров: Франция вооружает незаконные формирования в Сахаро-Сахельском регионе",
+      "excerpt": "",
+      "recap_neutral": "Лавров: Франция вооружает незаконные формирования в Сахаро-Сахельском регионе",
+      "main_idea": "Лавров: Франция вооружает незаконные формирования в Сахаро-Сахельском регионе",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 17 Aug 2026 14:09:34 +0300",
+      "url": "https://tass.ru/politika/28018909",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "title_neutral": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "excerpt": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+      "recap_neutral": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan",
+      "main_idea": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 17 Aug 2026 11:16:31 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ukrainian strikes kill six in Russia, acting governor says",
+      "title_neutral": "Ukrainian strikes kill six in Russia, acting governor says",
+      "excerpt": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+      "recap_neutral": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says",
+      "main_idea": "Ukrainian strikes kill six in Russia, acting governor says",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 17 Aug 2026 11:14:39 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How Ukraine’s Satellites Help Drive Its War Drones",
+      "title_neutral": "How Ukraine’s Satellites Help Drive Its War Drones",
+      "excerpt": "Here’s how speedy access to satellite imagery is bolstering Ukraine.",
+      "recap_neutral": "Here’s how speedy access to satellite imagery is bolstering Ukraine",
+      "main_idea": "How Ukraine’s Satellites Help Drive Its War Drones",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 17 Aug 2026 11:12:14 +0000",
+      "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "China Wants Its Data to Power the World’s A.I.",
+      "title_neutral": "China Wants Its Data to Power the World’s A.I.",
+      "excerpt": "China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.",
+      "recap_neutral": "China is exporting more than A",
+      "main_idea": "China Wants Its Data to Power the World’s A.I.",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 17 Aug 2026 11:10:29 +0000",
+      "url": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump’s Overture to North Korea Strains Alliance With the South",
+      "title_neutral": "Trump’s Overture to North Korea Strains Alliance With the South",
+      "excerpt": "President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea. But under Mr. Kim, the North has become increasingly belligerent toward the South.",
+      "recap_neutral": "President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea",
+      "main_idea": "Trump’s Overture to North Korea Strains Alliance With the South",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Mon, 17 Aug 2026 10:57:47 +0000",
+      "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Top Zambian opposition figures arrested days after presidential vote",
+      "title_neutral": "Top Zambian opposition figures arrested days after presidential vote",
+      "excerpt": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
+      "recap_neutral": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life",
+      "main_idea": "Top Zambian opposition figures arrested days after presidential vote",
+      "tags": [
+        "politics"
+      ],
+      "source": "BBC World",
+      "published_at": "Mon, 17 Aug 2026 10:57:09 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -824,60 +929,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump’s Overture to North Korea Strains Alliance With the South",
-      "title_neutral": "Trump’s Overture to North Korea Strains Alliance With the South",
-      "excerpt": "President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea. But under Mr. Kim, the North has become increasingly belligerent toward the South.",
-      "recap_neutral": "President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea",
-      "main_idea": "Trump’s Overture to North Korea Strains Alliance With the South",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 17 Aug 2026 09:05:33 +0000",
-      "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How Ukraine’s Satellites Help Drive Its War Drones",
-      "title_neutral": "How Ukraine’s Satellites Help Drive Its War Drones",
-      "excerpt": "Here’s how speedy access to satellite imagery is bolstering Ukraine.",
-      "recap_neutral": "Here’s how speedy access to satellite imagery is bolstering Ukraine",
-      "main_idea": "How Ukraine’s Satellites Help Drive Its War Drones",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 17 Aug 2026 09:02:10 +0000",
-      "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Top Zambian opposition figures arrested days after presidential vote",
-      "title_neutral": "Top Zambian opposition figures arrested days after presidential vote",
-      "excerpt": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
-      "recap_neutral": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life",
-      "main_idea": "Top Zambian opposition figures arrested days after presidential vote",
-      "tags": [
-        "politics"
-      ],
-      "source": "BBC World",
-      "published_at": "Mon, 17 Aug 2026 09:01:06 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Startup Founder Interview: How Badass Studios Is Reinventing Sports Entertainment",
       "title_neutral": "Startup Founder Interview: How Badass Studios Is Reinventing Sports Entertainment",
       "excerpt": "Badass Studios, featured on HackerNoon, turns live sports into playable digital worlds using real-time data, Unreal Engine, and digital twins.",
@@ -892,24 +943,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ukrainian strikes kill six in Russia, acting governor says",
-      "title_neutral": "Ukrainian strikes kill six in Russia, acting governor says",
-      "excerpt": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
-      "recap_neutral": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says",
-      "main_idea": "Ukrainian strikes kill six in Russia, acting governor says",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Mon, 17 Aug 2026 08:47:19 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -959,23 +992,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "title_neutral": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "excerpt": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
-      "recap_neutral": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday",
-      "main_idea": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "tags": [
-        "politics"
-      ],
-      "source": "BBC World",
-      "published_at": "Mon, 17 Aug 2026 08:43:12 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1059,6 +1075,21 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+      "title_neutral": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 17 Aug 2026 07:51:22 +0000",
+      "url": "https://desktopcolors.com",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1273,15 +1304,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
-      "title_neutral": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
-      "excerpt": "In some wellness circles, tadalafil is promoted as a longevity drug. There is evidence showing a link between it and a lower risk of death in men, but there are no well-controlled trials in humans.",
-      "recap_neutral": "In some wellness circles, tadalafil is promoted as a longevity drug",
-      "main_idea": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+      "title_original": "Elon Musk's Starbase wants to expand in south Texas",
+      "title_neutral": "Elon Musk's Starbase wants to expand in south Texas",
+      "excerpt": "Landowners and activists worry about impact to the environment around SpaceX's complex.",
+      "recap_neutral": "Landowners and activists worry about impact to the environment around SpaceX's complex",
+      "main_idea": "Elon Musk's Starbase wants to expand in south Texas",
       "tags": [],
       "source": "NPR",
       "published_at": "Mon, 17 Aug 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1303,15 +1334,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Elon Musk's Starbase wants to expand in south Texas",
-      "title_neutral": "Elon Musk's Starbase wants to expand in south Texas",
-      "excerpt": "Landowners and activists worry about impact to the environment around SpaceX's complex.",
-      "recap_neutral": "Landowners and activists worry about impact to the environment around SpaceX's complex",
-      "main_idea": "Elon Musk's Starbase wants to expand in south Texas",
+      "title_original": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+      "title_neutral": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+      "excerpt": "In some wellness circles, tadalafil is promoted as a longevity drug. There is evidence showing a link between it and a lower risk of death in men, but there are no well-controlled trials in humans.",
+      "recap_neutral": "In some wellness circles, tadalafil is promoted as a longevity drug",
+      "main_idea": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
       "tags": [],
       "source": "NPR",
       "published_at": "Mon, 17 Aug 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1382,38 +1413,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "China Wants Its Data to Power the World’s A.I.",
-      "title_neutral": "China Wants Its Data to Power the World’s A.I.",
-      "excerpt": "China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.",
-      "recap_neutral": "China is exporting more than A",
-      "main_idea": "China Wants Its Data to Power the World’s A.I.",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 17 Aug 2026 04:01:07 +0000",
-      "url": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "GIMP Development Update",
-      "title_neutral": "GIMP Development Update",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "GIMP Development Update",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 17 Aug 2026 03:08:47 +0000",
-      "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1531,6 +1530,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "The Mysterious Syndrome Destroying Endurance Athletes",
+      "title_neutral": "The Mysterious Syndrome Destroying Endurance Athletes",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The Mysterious Syndrome Destroying Endurance Athletes",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 14 Aug 2026 19:18:34 +0000",
+      "url": "https://www.outsideonline.com/health/training-performance/running-empty/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Canadian plasma clinics pause collections after deaths of two donors",
       "title_neutral": "Canadian plasma clinics pause collections after deaths of two donors",
       "excerpt": "Grifols, which runs private chain of clinics, to temporarily stop taking donations after new government investigation A chain of private plasma donation clinics in Canada has said it is pausing collections after the deaths of two donors and a new government investigation into potential unsafe pract…",
@@ -1564,21 +1578,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Design 3D-printable parts by talking",
-      "title_neutral": "Design 3D-printable parts by talking",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Design 3D-printable parts by talking",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 14 Aug 2026 14:09:32 +0000",
-      "url": "https://nurb.dev/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
