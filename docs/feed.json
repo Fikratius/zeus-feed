@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T06:37:16.880229+00:00",
+  "last_updated": "2026-08-20T07:36:10.411879+00:00",
   "items": [
     {
       "title_original": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
@@ -31,6 +31,21 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Feature Request: Support AGENTS.md",
+      "title_neutral": "Feature Request: Support AGENTS.md",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Feature Request: Support AGENTS.md",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 19 Aug 2026 21:19:50 +0000",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -169,21 +184,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "81-year-old confesses to German cold case murder of US tourist in 1994",
-      "title_neutral": "81-year-old confesses to German cold case murder of US tourist in 1994",
-      "excerpt": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
-      "recap_neutral": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz",
-      "main_idea": "81-year-old confesses to German cold case murder of US tourist in 1994",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Wed, 19 Aug 2026 18:26:21 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -662,21 +662,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Head-on collision between bus and lorry in Brazil kills more than 20",
-      "title_neutral": "Head-on collision between bus and lorry in Brazil kills more than 20",
-      "excerpt": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
-      "recap_neutral": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning",
-      "main_idea": "Head-on collision between bus and lorry in Brazil kills more than 20",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Wed, 19 Aug 2026 12:25:30 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Geolocating a random island using geometry and CUDA programming",
       "title_neutral": "Geolocating a random island using geometry and CUDA programming",
       "excerpt": "Comments",
@@ -689,23 +674,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Why does the U.S. military seem stymied in the war with Iran?",
-      "title_neutral": "Why does the U.S. military seem stymied in the war with Iran?",
-      "excerpt": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly.",
-      "recap_neutral": "Defense analyst Stacie Pettyjohn says while the U",
-      "main_idea": "Why does the U.S. military seem stymied in the war with Iran?",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NPR",
-      "published_at": "Wed, 19 Aug 2026 12:18:35 -0400",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -773,40 +741,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Kyiv’s Dormition Cathedral is Revived After Russian Drone Strike",
-      "title_neutral": "Kyiv’s Dormition Cathedral is Revived After Russian Drone Strike",
-      "excerpt": "Volunteers and priests rallied to clean up Kyiv’s Dormition Cathedral, still smelling of smoke from a massive blaze, for an anniversary celebration.",
-      "recap_neutral": "Volunteers and priests rallied to clean up Kyiv’s Dormition Cathedral, still smelling of smoke from a massive blaze, for an anniversary celebration",
-      "main_idea": "Kyiv’s Dormition Cathedral is Revived After Russian Drone Strike",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Wed, 19 Aug 2026 09:29:36 +0000",
-      "url": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-kyiv-cathedral-russia-drone-strike.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How the Iran War Made Africa’s Richest Man Even Richer",
-      "title_neutral": "How the Iran War Made Africa’s Richest Man Even Richer",
-      "excerpt": "Africans have turned to one of their own for fuel as the world’s supplies run low. But they are not the only ones with the continent’s richest man on speed dial.",
-      "recap_neutral": "Africans have turned to one of their own for fuel as the world’s supplies run low",
-      "main_idea": "How the Iran War Made Africa’s Richest Man Even Richer",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Wed, 19 Aug 2026 09:00:49 +0000",
-      "url": "https://www.nytimes.com/2026/08/19/world/africa/dangote-iran-refinery-oil-nigeria.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -913,25 +847,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "In a Faltering Chinese Economy, Working-Class Stories Strike a Chord",
-      "title_neutral": "In a Faltering Chinese Economy, Working-Class Stories Strike a Chord",
-      "excerpt": "Poems, essays and books written by working-class writers have garnered recognition in recent years — as well as increasing government attention.",
-      "recap_neutral": "Poems, essays and books written by working-class writers have garnered recognition in recent years — as well as increasing government attention",
-      "main_idea": "In a Faltering Chinese Economy, Working-Class Stories Strike a Chord",
-      "tags": [
-        "politics",
-        "economy",
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Wed, 19 Aug 2026 04:00:08 +0000",
-      "url": "https://www.nytimes.com/2026/08/19/world/asia/china-working-class-writers-books.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline",
       "title_neutral": "Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline",
       "excerpt": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’ Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration officials hours before a hike that would have affected $20bn worth o…",
@@ -979,247 +894,342 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "На ЗАЭС предположили, с чем связана потеря внешнего энергоснабжения станции",
-      "title_neutral": "На ЗАЭС предположили, с чем связана потеря внешнего энергоснабжения станции",
-      "excerpt": "",
-      "recap_neutral": "На ЗАЭС предположили, с чем связана потеря внешнего энергоснабжения станции",
-      "main_idea": "На ЗАЭС предположили, с чем связана потеря внешнего энергоснабжения станции",
-      "tags": [
-        "tech"
-      ],
+      "title_original": "В Москве до конца 2026 года полностью заменят остановки городского транспорта",
+      "title_neutral": "В Москве до конца 2026 года полностью заменят остановки городского транспорта",
+      "excerpt": "Всего с 2015 года в столице обновили более 95% остановочных павильонов",
+      "recap_neutral": "Всего с 2015 года в столице обновили более 95% остановочных павильонов",
+      "main_idea": "В Москве до конца 2026 года полностью заменят остановки городского транспорта",
+      "tags": [],
       "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 09:35:49 +0300",
-      "url": "https://tass.ru/obschestvo/28028061",
+      "published_at": "Thu, 20 Aug 2026 10:32:45 +0300",
+      "url": "https://tass.ru/obschestvo/28028241",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Барнауле при падении чаши аттракциона пострадали двое детей",
-      "title_neutral": "В Барнауле при падении чаши аттракциона пострадали двое детей",
-      "excerpt": "Мальчики получили ушибы",
-      "recap_neutral": "Мальчики получили ушибы",
-      "main_idea": "В Барнауле при падении чаши аттракциона пострадали двое детей",
-      "tags": [
-        "tech"
-      ],
+      "title_original": "Пассажирский самолет едва не потерпел крушение при взлете в аэропорту Мюнхена",
+      "title_neutral": "Пассажирский самолет едва не потерпел крушение при взлете в аэропорту Мюнхена",
+      "excerpt": "По данным газеты Süddeutsche Zeitung, боингу не хватило длины взлетно-посадочной полосы, из-за чего он оторвался от земли с задержкой",
+      "recap_neutral": "По данным газеты Süddeutsche Zeitung, боингу не хватило длины взлетно-посадочной полосы, из-за чего он оторвался от земли с задержкой",
+      "main_idea": "Пассажирский самолет едва не потерпел крушение при взлете в аэропорту Мюнхена",
+      "tags": [],
       "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 09:33:28 +0300",
-      "url": "https://tass.ru/proisshestviya/28028047",
+      "published_at": "Thu, 20 Aug 2026 10:32:42 +0300",
+      "url": "https://tass.ru/proisshestviya/28028239",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ФСБ показала видео задержания агента разведки Украины в Запорожской области",
-      "title_neutral": "ФСБ показала видео задержания агента разведки Украины в Запорожской области",
-      "excerpt": "Мужчина передавал данные о российских военных, технике и объектах куратору в Главном управлении разведки украинского Министерства обороны",
-      "recap_neutral": "Мужчина передавал данные о российских военных, технике и объектах куратору в Главном управлении разведки украинского Министерства обороны",
-      "main_idea": "ФСБ показала видео задержания агента разведки Украины в Запорожской области",
+      "title_original": "Депутат Рады Скороход указала на проблемы Украины из-за простоя портов",
+      "title_neutral": "Депутат Рады Скороход указала на проблемы Украины из-за простоя портов",
+      "excerpt": "Парламентарий отметила, что республика не может реализовать 61 миллион тонн зерна",
+      "recap_neutral": "Парламентарий отметила, что республика не может реализовать 61 миллион тонн зерна",
+      "main_idea": "Депутат Рады Скороход указала на проблемы Украины из-за простоя портов",
       "tags": [
-        "tech"
+        "politics"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 09:32:21 +0300",
-      "url": "https://tass.ru/proisshestviya/28027999",
+      "published_at": "Thu, 20 Aug 2026 10:32:30 +0300",
+      "url": "https://tass.ru/ekonomika/28028243",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Politico: политика Трампа убеждает союзников США в Азии быть самостоятельными",
-      "title_neutral": "Politico: политика Трампа убеждает союзников США в Азии быть самостоятельными",
-      "excerpt": "Газета указала на недавнее решение президента Соединенных Штатов сократить масштаб совместных военных учений с Республикой Корея из-за его \"хороших отношений\" с лидером КНДР Ким Чен Ыном",
-      "recap_neutral": "Газета указала на недавнее решение президента Соединенных Штатов сократить масштаб совместных военных учений с Республикой Корея из-за его \"хороших отношений\" с лидером КНДР Ким Чен Ыном",
-      "main_idea": "Politico: политика Трампа убеждает союзников США в Азии быть самостоятельными",
+      "title_original": "В столице стартовал восьмой конкурс грантов \"Москва - добрый город\"",
+      "title_neutral": "В столице стартовал восьмой конкурс грантов \"Москва - добрый город\"",
+      "excerpt": "За годы проведения конкурса финансирование уже получили 738 проектов на сумму 2,8 млрд рублей",
+      "recap_neutral": "За годы проведения конкурса финансирование уже получили 738 проектов на сумму 2,8 млрд рублей",
+      "main_idea": "В столице стартовал восьмой конкурс грантов \"Москва - добрый город\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 10:31:42 +0300",
+      "url": "https://tass.ru/obschestvo/28028237",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ФСБ показала видео с передававшим Киеву данные об объектах погранслужбы",
+      "title_neutral": "ФСБ показала видео с передававшим Киеву данные об объектах погранслужбы",
+      "excerpt": "Эта информация могла быть использована для планирования диверсий и нанесения ВСУ ракетно-артиллерийских ударов",
+      "recap_neutral": "Эта информация могла быть использована для планирования диверсий и нанесения ВСУ ракетно-артиллерийских ударов",
+      "main_idea": "ФСБ показала видео с передававшим Киеву данные об объектах погранслужбы",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 10:31:22 +0300",
+      "url": "https://tass.ru/proisshestviya/28028177",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Львова-Белова: треть детей-сирот в РФ имеют опыт возвращения из замещающей семьи",
+      "title_neutral": "Львова-Белова: треть детей-сирот в РФ имеют опыт возвращения из замещающей семьи",
+      "excerpt": "Уполномоченный при президенте России по правам ребенка назвала системной проблемой тот факт, что практически в каждом регионе растет число возвратов детей из приемных семей назад в учреждения",
+      "recap_neutral": "Уполномоченный при президенте России по правам ребенка назвала системной проблемой тот факт, что практически в каждом регионе растет число возвратов детей из приемных семей назад в учреждения",
+      "main_idea": "Львова-Белова: треть детей-сирот в РФ имеют опыт возвращения из замещающей семьи",
       "tags": [
         "politics",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 09:31:58 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28028045",
+      "published_at": "Thu, 20 Aug 2026 10:30:58 +0300",
+      "url": "https://tass.ru/obschestvo/28028227",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Журова считает, что нет смысла устраивать совместные забеги роботов и людей",
-      "title_neutral": "Журова считает, что нет смысла устраивать совместные забеги роботов и людей",
-      "excerpt": "Ранее робот-легкоатлет превзошел мировой рекорд Усэйна Болта",
-      "recap_neutral": "Ранее робот-легкоатлет превзошел мировой рекорд Усэйна Болта",
-      "main_idea": "Журова считает, что нет смысла устраивать совместные забеги роботов и людей",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 09:31:53 +0300",
-      "url": "https://tass.ru/sport/28028057",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "По всему Крыму возможны отключения света",
-      "title_neutral": "По всему Крыму возможны отключения света",
-      "excerpt": "Ситуация осложнилась на северо-западе и востоке региона",
-      "recap_neutral": "Ситуация осложнилась на северо-западе и востоке региона",
-      "main_idea": "По всему Крыму возможны отключения света",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 09:31:30 +0300",
-      "url": "https://tass.ru/proisshestviya/28028043",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Президент Мьянмы проведет в Минске переговоры с Лукашенко",
-      "title_neutral": "Президент Мьянмы проведет в Минске переговоры с Лукашенко",
-      "excerpt": "Мин Аун Хлайн и белорусский лидер обсудят состояние и перспективы развития двустороннего сотрудничества",
-      "recap_neutral": "Мин Аун Хлайн и белорусский лидер обсудят состояние и перспективы развития двустороннего сотрудничества",
-      "main_idea": "Президент Мьянмы проведет в Минске переговоры с Лукашенко",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 09:28:36 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28028041",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Курской области за сутки сбили 239 беспилотников ВСУ",
-      "title_neutral": "В Курской области за сутки сбили 239 беспилотников ВСУ",
-      "excerpt": "Киев 128 раз обстрелял из артиллерии приграничные районы региона",
-      "recap_neutral": "Киев 128 раз обстрелял из артиллерии приграничные районы региона",
-      "main_idea": "В Курской области за сутки сбили 239 беспилотников ВСУ",
+      "title_original": "Колобков считает, что FIDE должна восстановить российских шахматистов в правах",
+      "title_neutral": "Колобков считает, что FIDE должна восстановить российских шахматистов в правах",
+      "excerpt": "Ранее стало известно, что мужская и женская сборные России не примут участия в 46-й Всемирной шахматной олимпиаде",
+      "recap_neutral": "Ранее стало известно, что мужская и женская сборные России не примут участия в 46-й Всемирной шахматной олимпиаде",
+      "main_idea": "Колобков считает, что FIDE должна восстановить российских шахматистов в правах",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 09:28:09 +0300",
-      "url": "https://tass.ru/proisshestviya/28028039",
+      "published_at": "Thu, 20 Aug 2026 10:29:19 +0300",
+      "url": "https://tass.ru/sport/28028231",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "На Сахалине представят выставку дронов в рамках патриотической акции ТОФ",
-      "title_neutral": "На Сахалине представят выставку дронов в рамках патриотической акции ТОФ",
-      "excerpt": "Во время проведения акции в центре Корсакова будет организована выставка техники и спортивные мероприятия",
-      "recap_neutral": "Во время проведения акции в центре Корсакова будет организована выставка техники и спортивные мероприятия",
-      "main_idea": "На Сахалине представят выставку дронов в рамках патриотической акции ТОФ",
+      "title_original": "В Забайкалье мужчину задержали за незаконную добычу золота",
+      "title_neutral": "В Забайкалье мужчину задержали за незаконную добычу золота",
+      "excerpt": "У него изъяли драгметалл на сумму около 5 млн рублей",
+      "recap_neutral": "У него изъяли драгметалл на сумму около 5 млн рублей",
+      "main_idea": "В Забайкалье мужчину задержали за незаконную добычу золота",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 10:27:36 +0300",
+      "url": "https://tass.ru/proisshestviya/28028053",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Пассажиры в Москве совершили 2,1 млрд поездок на автобусах коммерческих перевозчиков",
+      "title_neutral": "Пассажиры в Москве совершили 2,1 млрд поездок на автобусах коммерческих перевозчиков",
+      "excerpt": "Переход на новую модель позволил сделать городской транспорт еще безопаснее и привлекательнее, отметил заммэра столицы Максим Ликсутов",
+      "recap_neutral": "Переход на новую модель позволил сделать городской транспорт еще безопаснее и привлекательнее, отметил заммэра столицы Максим Ликсутов",
+      "main_idea": "Пассажиры в Москве совершили 2,1 млрд поездок на автобусах коммерческих перевозчиков",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 10:26:38 +0300",
+      "url": "https://tass.ru/obschestvo/28028221",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На дороге в ЕАО сбили тигра",
+      "title_neutral": "На дороге в ЕАО сбили тигра",
+      "excerpt": "На место столкновения прибыли сотрудники Госавтоинспекции и следственно-оперативная группа",
+      "recap_neutral": "На место столкновения прибыли сотрудники Госавтоинспекции и следственно-оперативная группа",
+      "main_idea": "На дороге в ЕАО сбили тигра",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 09:27:22 +0300",
-      "url": "https://tass.ru/obschestvo/28028015",
+      "published_at": "Thu, 20 Aug 2026 10:26:17 +0300",
+      "url": "https://tass.ru/proisshestviya/28028217",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В аэропорту Сочи задерживаются 11 рейсов",
-      "title_neutral": "В аэропорту Сочи задерживаются 11 рейсов",
-      "excerpt": "На прилет задержаны восемь рейсов",
-      "recap_neutral": "На прилет задержаны восемь рейсов",
-      "main_idea": "В аэропорту Сочи задерживаются 11 рейсов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 09:24:57 +0300",
-      "url": "https://tass.ru/ekonomika/28028037",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Российский экипаж на МКС проведет эксперимент по мониторингу морей",
-      "title_neutral": "Российский экипаж на МКС проведет эксперимент по мониторингу морей",
-      "excerpt": "Всего запланировано 42 научных опыта на орбите, рассказали в Роскомосе",
-      "recap_neutral": "Всего запланировано 42 научных опыта на орбите, рассказали в Роскомосе",
-      "main_idea": "Российский экипаж на МКС проведет эксперимент по мониторингу морей",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 09:22:42 +0300",
-      "url": "https://tass.ru/kosmos/28028031",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Хоботки комаров стали микроинструментом для работы с клетками",
-      "title_neutral": "Хоботки комаров стали микроинструментом для работы с клетками",
-      "excerpt": "В лабораториях выращивают комаров для извлечения хоботков и точечного введения клеток в ткани, рассказала ведущий инженер кафедры \"Охрана окружающей среды\" ПНИПУ Мария Комбарова",
-      "recap_neutral": "В лабораториях выращивают комаров для извлечения хоботков и точечного введения клеток в ткани, рассказала ведущий инженер кафедры \"Охрана окружающей среды\" ПНИПУ Мария Комбарова",
-      "main_idea": "Хоботки комаров стали микроинструментом для работы с клетками",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 09:22:41 +0300",
-      "url": "https://tass.ru/nauka/28028005",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Посол КНР рассказал о желании Японии интегрироваться в НАТО",
-      "title_neutral": "Посол КНР рассказал о желании Японии интегрироваться в НАТО",
-      "excerpt": "Токио вносит неопределенность в ситуацию с безопасностью в регионе, отметил Чжан Ханьхуэй",
-      "recap_neutral": "Токио вносит неопределенность в ситуацию с безопасностью в регионе, отметил Чжан Ханьхуэй",
-      "main_idea": "Посол КНР рассказал о желании Японии интегрироваться в НАТО",
+      "title_original": "Медики рассказали о состоянии пострадавших в ДТП с автобусом в Саратове",
+      "title_neutral": "Медики рассказали о состоянии пострадавших в ДТП с автобусом в Саратове",
+      "excerpt": "Состояние одного из них них оценивают как тяжелое",
+      "recap_neutral": "Состояние одного из них них оценивают как тяжелое",
+      "main_idea": "Медики рассказали о состоянии пострадавших в ДТП с автобусом в Саратове",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 09:16:23 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28028019",
+      "published_at": "Thu, 20 Aug 2026 10:26:09 +0300",
+      "url": "https://tass.ru/obschestvo/28028049",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Японии скорый поезд насмерть сбил четырех рабочих",
-      "title_neutral": "В Японии скорый поезд насмерть сбил четырех рабочих",
-      "excerpt": "Движение на участке железной дороги в префектуре Тотиги приостановили из-за происшествия",
-      "recap_neutral": "Движение на участке железной дороги в префектуре Тотиги приостановили из-за происшествия",
-      "main_idea": "В Японии скорый поезд насмерть сбил четырех рабочих",
+      "title_original": "В Киеве объявили воздушную тревогу",
+      "title_neutral": "В Киеве объявили воздушную тревогу",
+      "excerpt": "Сирены также работают в 10 областях Украины",
+      "recap_neutral": "Сирены также работают в 10 областях Украины",
+      "main_idea": "В Киеве объявили воздушную тревогу",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 10:25:05 +0300",
+      "url": "https://tass.ru/proisshestviya/28028219",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Минтранс напомнил о нововведениях в дорожном законодательстве с 1 сентября",
+      "title_neutral": "Минтранс напомнил о нововведениях в дорожном законодательстве с 1 сентября",
+      "excerpt": "В частности, изменятся правила диагностики дорог, квалификационные требования к специалистам и порядок сбора данных владельцами платных трасс",
+      "recap_neutral": "В частности, изменятся правила диагностики дорог, квалификационные требования к специалистам и порядок сбора данных владельцами платных трасс",
+      "main_idea": "Минтранс напомнил о нововведениях в дорожном законодательстве с 1 сентября",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 10:22:22 +0300",
+      "url": "https://tass.ru/obschestvo/28028209",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Бизнесмен Ермолаев не понимает, почему на него покушались спецслужбы Украины",
+      "title_neutral": "Бизнесмен Ермолаев не понимает, почему на него покушались спецслужбы Украины",
+      "excerpt": "Предприниматель не считает, что покушение связано с введенными против него санкциями",
+      "recap_neutral": "Предприниматель не считает, что покушение связано с введенными против него санкциями",
+      "main_idea": "Бизнесмен Ермолаев не понимает, почему на него покушались спецслужбы Украины",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 10:21:42 +0300",
+      "url": "https://tass.ru/proisshestviya/28028197",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Кемеровской области группы охотников патрулируют местность для отлова медведей",
+      "title_neutral": "В Кемеровской области группы охотников патрулируют местность для отлова медведей",
+      "excerpt": "В границах населенных пунктов также работает полиция и Росгвардия",
+      "recap_neutral": "В границах населенных пунктов также работает полиция и Росгвардия",
+      "main_idea": "В Кемеровской области группы охотников патрулируют местность для отлова медведей",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 10:21:01 +0300",
+      "url": "https://tass.ru/obschestvo/28028159",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "title_neutral": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "excerpt": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+      "recap_neutral": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision",
+      "main_idea": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 09:15:51 +0300",
-      "url": "https://tass.ru/proisshestviya/28028017",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Thu, 20 Aug 2026 07:33:11 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "На \"Уральских локомотивах\" завершили переустройство железнодорожных путей",
-      "title_neutral": "На \"Уральских локомотивах\" завершили переустройство железнодорожных путей",
-      "excerpt": "Компания \"Синара-Девелопмент\" проложила 5 км нового полотна",
-      "recap_neutral": "Компания \"Синара-Девелопмент\" проложила 5 км нового полотна",
-      "main_idea": "На \"Уральских локомотивах\" завершили переустройство железнодорожных путей",
+      "title_original": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "title_neutral": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "excerpt": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "recap_neutral": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say",
+      "main_idea": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 20 Aug 2026 07:19:40 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+      "title_neutral": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+      "excerpt": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
+      "recap_neutral": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole",
+      "main_idea": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 20 Aug 2026 07:08:35 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "China Sentences Evergrande Founder to Life in Prison",
+      "title_neutral": "China Sentences Evergrande Founder to Life in Prison",
+      "excerpt": "Hui Ka Yan’s punishment caps the downfall of a property empire whose collapse set off a prolonged crisis in the Chinese economy.",
+      "recap_neutral": "Hui Ka Yan’s punishment caps the downfall of a property empire whose collapse set off a prolonged crisis in the Chinese economy",
+      "main_idea": "China Sentences Evergrande Founder to Life in Prison",
+      "tags": [
+        "economy"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 20 Aug 2026 06:39:52 +0000",
+      "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Harry and Meghan’s Break With Britain and Planned Return: a Timeline",
+      "title_neutral": "Harry and Meghan’s Break With Britain and Planned Return: a Timeline",
+      "excerpt": "The couple will remain non-working royals. It is unclear where they will live.",
+      "recap_neutral": "The couple will remain non-working royals",
+      "main_idea": "Harry and Meghan’s Break With Britain and Planned Return: a Timeline",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 20 Aug 2026 06:27:55 +0000",
+      "url": "https://www.nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Windows brings out the Rorschach test in everyone",
+      "title_neutral": "Windows brings out the Rorschach test in everyone",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Windows brings out the Rorschach test in everyone",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 09:15:46 +0300",
-      "url": "https://tass.ru/novosti-regionov/28028013",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Thu, 20 Aug 2026 06:16:40 +0000",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1238,18 +1248,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "title_neutral": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 20 Aug 2026 05:54:20 +0000",
-      "url": "https://openai.com/index/asana/",
+      "title_original": "Four workers dead after being hit by train in Japan",
+      "title_neutral": "Four workers dead after being hit by train in Japan",
+      "excerpt": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+      "recap_neutral": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say",
+      "main_idea": "Four workers dead after being hit by train in Japan",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 20 Aug 2026 06:02:10 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1270,41 +1282,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-      "title_neutral": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-      "excerpt": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
-      "recap_neutral": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine",
-      "main_idea": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 20 Aug 2026 05:25:23 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "title_neutral": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "excerpt": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-      "recap_neutral": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision",
-      "main_idea": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 20 Aug 2026 05:10:09 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
       "title_neutral": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
       "excerpt": "The Emirates has long been a major trading hub for Iran, and analysts say it has been key to Iranian efforts to evade international sanctions, which Emirati officials deny.",
@@ -1317,23 +1294,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-      "title_neutral": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Thu, 20 Aug 2026 04:42:02 +0000",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1361,7 +1321,7 @@
       "main_idea": "Hating Matcha, Yet Loving Life, Made Him a TikTok Star at 89",
       "tags": [],
       "source": "NYTimes World",
-      "published_at": "Thu, 20 Aug 2026 04:01:08 +0000",
+      "published_at": "Thu, 20 Aug 2026 04:01:09 +0000",
       "url": "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html",
       "lang": "en",
       "bias_score": 55,
@@ -1369,11 +1329,41 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-      "title_neutral": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "title_original": "Bad Plot, Worse Graphics: Chinese Moviegoers Flock to a Low-Budget Hit",
+      "title_neutral": "Bad Plot, Worse Graphics: Chinese Moviegoers Flock to a Low-Budget Hit",
+      "excerpt": "With its pixelated visuals, “The Bull is Coming” is being celebrated for its authenticity in the age of A.I. and is shaping up to be a Gen Z cult classic.",
+      "recap_neutral": "With its pixelated visuals, “The Bull is Coming” is being celebrated for its authenticity in the age of A",
+      "main_idea": "Bad Plot, Worse Graphics: Chinese Moviegoers Flock to a Low-Budget Hit",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Thu, 20 Aug 2026 04:01:05 +0000",
+      "url": "https://www.nytimes.com/2026/08/20/world/asia/niu-lai-chinese-movie-box-office.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Chinese court sentences founder of property developer Evergrande to life in prison",
+      "title_neutral": "Chinese court sentences founder of property developer Evergrande to life in prison",
+      "excerpt": "Chinese property developer Hui Ka Yan has been sentenced to life in prison. The decision marks a milestone in Evergrande's saga after it collapsed with more than $300 billion in liabilities.",
+      "recap_neutral": "Chinese property developer Hui Ka Yan has been sentenced to life in prison",
+      "main_idea": "Chinese court sentences founder of property developer Evergrande to life in prison",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Thu, 20 Aug 2026 03:31:55 -0400",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump vows tougher economic measures on Iran and supporting countries",
+      "title_neutral": "Trump vows tougher economic measures on Iran and supporting countries",
       "excerpt": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
       "recap_neutral": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict",
-      "main_idea": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "main_idea": "Trump vows tougher economic measures on Iran and supporting countries",
       "tags": [
         "conflict"
       ],
