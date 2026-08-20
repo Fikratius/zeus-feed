@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T23:20:18.417446+00:00",
+  "last_updated": "2026-08-20T23:48:45.704899+00:00",
   "items": [
     {
       "title_original": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
@@ -278,21 +278,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Code as an Artifact",
-      "title_neutral": "Code as an Artifact",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Code as an Artifact",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 20 Aug 2026 21:24:57 +0000",
-      "url": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -806,6 +791,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "title_neutral": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 20 Aug 2026 15:26:02 +0000",
+      "url": "https://github.com/zachahn/vomit",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
       "title_neutral": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
       "excerpt": "In some tight midterm races, how farmers frustrated with the war and rising costs vote could make a difference.",
@@ -1206,23 +1206,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-      "title_neutral": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-      "excerpt": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out.",
-      "recap_neutral": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat",
-      "main_idea": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 20 Aug 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "The bond market is signaling trouble ahead. This is why you should pay attention",
       "title_neutral": "The bond market is signaling trouble ahead. This is why you should pay attention",
       "excerpt": "Many people don't pay attention to bond markets, but they should — especially now. This is why they matter and why the drop in bond prices is signaling investor concerns about the U.S. economy.",
@@ -1240,18 +1223,32 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The system meant to protect ICE detainees has collapsed",
-      "title_neutral": "The system meant to protect ICE detainees has collapsed",
-      "excerpt": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes.",
-      "recap_neutral": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes",
-      "main_idea": "The system meant to protect ICE detainees has collapsed",
+      "title_original": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+      "title_neutral": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+      "excerpt": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out.",
+      "recap_neutral": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat",
+      "main_idea": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
       "tags": [
-        "conflict",
         "tech"
       ],
       "source": "NPR",
       "published_at": "Thu, 20 Aug 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Privacy advocates call on Maryland to investigate data brokers",
+      "title_neutral": "Privacy advocates call on Maryland to investigate data brokers",
+      "excerpt": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies.",
+      "recap_neutral": "Maryland has one of the strictest data privacy laws in the country",
+      "main_idea": "Privacy advocates call on Maryland to investigate data brokers",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Thu, 20 Aug 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1391,12 +1388,96 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Аэропорты Казани и Чебоксар приостановили прием и выпуск самолетов",
+      "title_neutral": "Аэропорты Казани и Чебоксар приостановили прием и выпуск самолетов",
+      "excerpt": "",
+      "recap_neutral": "Аэропорты Казани и Чебоксар приостановили прием и выпуск самолетов",
+      "main_idea": "Аэропорты Казани и Чебоксар приостановили прием и выпуск самолетов",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 21 Aug 2026 02:47:25 +0300",
+      "url": "https://tass.ru/ekonomika/28030555",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Минх: оборона и социалка останутся среди приоритетов законотворчества",
+      "title_neutral": "Минх: оборона и социалка останутся среди приоритетов законотворчества",
+      "excerpt": "Полномочный представитель президента Российской Федерации в Государственной думе заявил, что уровень социальной защищенности граждан отслеживается главой государства Владимиром Путиным",
+      "recap_neutral": "Полномочный представитель президента Российской Федерации в Государственной думе заявил, что уровень социальной защищенности граждан отслеживается главой государства Владимиром Путиным",
+      "main_idea": "Минх: оборона и социалка останутся среди приоритетов законотворчества",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 21 Aug 2026 02:45:41 +0300",
+      "url": "https://tass.ru/politika/28030553",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "CNN узнала о начале возвращения авианосца Abraham Lincoln на базу в США",
+      "title_neutral": "CNN узнала о начале возвращения авианосца Abraham Lincoln на базу в США",
+      "excerpt": "",
+      "recap_neutral": "CNN узнала о начале возвращения авианосца Abraham Lincoln на базу в США",
+      "main_idea": "CNN узнала о начале возвращения авианосца Abraham Lincoln на базу в США",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 21 Aug 2026 02:39:00 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28030551",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Минздрав РФ с 1 сентября обновит правила при проведении диспансеризации",
+      "title_neutral": "Минздрав РФ с 1 сентября обновит правила при проведении диспансеризации",
+      "excerpt": "Врачи будут обязаны вносить в карту информацию о липидном профиле пациента",
+      "recap_neutral": "Врачи будут обязаны вносить в карту информацию о липидном профиле пациента",
+      "main_idea": "Минздрав РФ с 1 сентября обновит правила при проведении диспансеризации",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 21 Aug 2026 02:36:27 +0300",
+      "url": "https://tass.ru/obschestvo/28030549",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Невролог Бордовский развеял миф о возможности отоспаться за выходные",
+      "title_neutral": "Невролог Бордовский развеял миф о возможности отоспаться за выходные",
+      "excerpt": "Научные данные не подтверждают, что \"долг\" за накопившийся недосып можно закрыть избытком сна, заявил эксперт президентской платформы \"Россия - страна возможностей\"",
+      "recap_neutral": "Научные данные не подтверждают, что \"долг\" за накопившийся недосып можно закрыть избытком сна, заявил эксперт президентской платформы \"Россия - страна возможностей\"",
+      "main_idea": "Невролог Бордовский развеял миф о возможности отоспаться за выходные",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 21 Aug 2026 02:22:49 +0300",
+      "url": "https://tass.ru/obschestvo/28030545",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Вэнс заявил об отсутствии точных сроков кампании экономического давления на Иран",
       "title_neutral": "Вэнс заявил об отсутствии точных сроков кампании экономического давления на Иран",
-      "excerpt": "",
-      "recap_neutral": "Вэнс заявил об отсутствии точных сроков кампании экономического давления на Иран",
+      "excerpt": "Подобная тактика призвана не допустить появления у Тегерана ядерного оружия, независимо от того, продержится он \"пару месяцев или, быть может, дольше\", отметил вице-президент США",
+      "recap_neutral": "Подобная тактика призвана не допустить появления у Тегерана ядерного оружия, независимо от того, продержится он \"пару месяцев или, быть может, дольше\", отметил вице-президент США",
       "main_idea": "Вэнс заявил об отсутствии точных сроков кампании экономического давления на Иран",
       "tags": [
+        "politics",
         "economy",
         "tech"
       ],
@@ -1428,8 +1509,8 @@
     {
       "title_original": "Контр-адмирал Артемов рассказал, каким должен быть офицер-замполит",
       "title_neutral": "Контр-адмирал Артемов рассказал, каким должен быть офицер-замполит",
-      "excerpt": "",
-      "recap_neutral": "Контр-адмирал Артемов рассказал, каким должен быть офицер-замполит",
+      "excerpt": "Человек на такой должности обязан подавать пример личному составу, а также уметь воодушевить военнослужащих на выполнение сверхзадач, считает заместитель командующего Тихоокеанским флотом по военно-политической работе",
+      "recap_neutral": "Человек на такой должности обязан подавать пример личному составу, а также уметь воодушевить военнослужащих на выполнение сверхзадач, считает заместитель командующего Тихоокеанским флотом по военно-политической работе",
       "main_idea": "Контр-адмирал Артемов рассказал, каким должен быть офицер-замполит",
       "tags": [],
       "source": "ТАСС",
@@ -1550,85 +1631,6 @@
       "source": "ТАСС",
       "published_at": "Fri, 21 Aug 2026 01:35:50 +0300",
       "url": "https://tass.ru/ekonomika/28030523",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В ГД призвали увеличить лимит стоимости подарков учителям до 10 тыс. рублей",
-      "title_neutral": "В ГД призвали увеличить лимит стоимости подарков учителям до 10 тыс. рублей",
-      "excerpt": "Первый зампред комитета Госдумы по защите семьи, вопросам отцовства, материнства и детства, председатель \"Совета матерей\" Татьяна Буцкая заявила, что нынешняя допустимая цена не отражает сегодняшних реалий",
-      "recap_neutral": "Первый зампред комитета Госдумы по защите семьи, вопросам отцовства, материнства и детства, председатель \"Совета матерей\" Татьяна Буцкая заявила, что нынешняя допустимая цена не отражает сегодняшних реалий",
-      "main_idea": "В ГД призвали увеличить лимит стоимости подарков учителям до 10 тыс. рублей",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 01:21:56 +0300",
-      "url": "https://tass.ru/obschestvo/28030513",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропорту Краснодара ввели дополнительные ограничения",
-      "title_neutral": "В аэропорту Краснодара ввели дополнительные ограничения",
-      "excerpt": "Они необходимы для обеспечения безопасности полетов",
-      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
-      "main_idea": "В аэропорту Краснодара ввели дополнительные ограничения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 01:19:01 +0300",
-      "url": "https://tass.ru/ekonomika/28030515",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Трамп распорядился увеличить число космических пусков до 1 тыс. к 2030 году",
-      "title_neutral": "Трамп распорядился увеличить число космических пусков до 1 тыс. к 2030 году",
-      "excerpt": "Президент США также предписал изучить возможности коммерческого использования роботов для высадки на поверхность Марса",
-      "recap_neutral": "Президент США также предписал изучить возможности коммерческого использования роботов для высадки на поверхность Марса",
-      "main_idea": "Трамп распорядился увеличить число космических пусков до 1 тыс. к 2030 году",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 01:15:10 +0300",
-      "url": "https://tass.ru/kosmos/28030511",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Школьников ждет короткая первая учебная неделя",
-      "title_neutral": "Школьников ждет короткая первая учебная неделя",
-      "excerpt": "Для большинства учащихся она будет длиться четыре дня",
-      "recap_neutral": "Для большинства учащихся она будет длиться четыре дня",
-      "main_idea": "Школьников ждет короткая первая учебная неделя",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 01:12:19 +0300",
-      "url": "https://tass.ru/obschestvo/28030509",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В \"Офицерах России\" заявили, что Европа идет на поводу у Украины",
-      "title_neutral": "В \"Офицерах России\" заявили, что Европа идет на поводу у Украины",
-      "excerpt": "Это выражается в том, что Брюссель ввел обязательную процедуру проверки статуса украинцев по военной службе, отметил член экспертного совета организации Руслан Панкратов",
-      "recap_neutral": "Это выражается в том, что Брюссель ввел обязательную процедуру проверки статуса украинцев по военной службе, отметил член экспертного совета организации Руслан Панкратов",
-      "main_idea": "В \"Офицерах России\" заявили, что Европа идет на поводу у Украины",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 01:04:36 +0300",
-      "url": "https://tass.ru/politika/28030505",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
