@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T03:23:03.057923+00:00",
+  "last_updated": "2026-08-20T04:05:49.320997+00:00",
   "items": [
     {
       "title_original": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
@@ -31,6 +31,21 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Feature Request: Support AGENTS.md",
+      "title_neutral": "Feature Request: Support AGENTS.md",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Feature Request: Support AGENTS.md",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 19 Aug 2026 21:19:50 +0000",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1031,6 +1046,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Simulacra and Simulation",
+      "title_neutral": "Simulacra and Simulation",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Simulacra and Simulation",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 12 Aug 2026 14:33:51 +0000",
+      "url": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Erin Patterson, Woman Convicted in Australia’s Mushroom Murder Case, Appeals",
       "title_neutral": "Erin Patterson, Woman Convicted in Australia’s Mushroom Murder Case, Appeals",
       "excerpt": "An Australian woman, Erin Patterson, was found guilty of murdering three of her husband’s relatives and trying to kill a fourth by serving them deadly mushrooms.",
@@ -1061,248 +1091,284 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Петропавловской крепости открывается выставка об истории Новороссии",
-      "title_neutral": "В Петропавловской крепости открывается выставка об истории Новороссии",
-      "excerpt": "Посетители увидят более 100 экспонатов",
-      "recap_neutral": "Посетители увидят более 100 экспонатов",
-      "main_idea": "В Петропавловской крепости открывается выставка об истории Новороссии",
+      "title_original": "В РФ провели первое в истории радиовещание из стратосферы над Северным полюсом",
+      "title_neutral": "В РФ провели первое в истории радиовещание из стратосферы над Северным полюсом",
+      "excerpt": "Проект был реализован совместно с компанией \"Стратонавтика\", Мурманским арктическим университетом, Госкорпорацией \"Росатом\" и радио \"Маяк\", сообщили в хостинг-провайдере RUVDS",
+      "recap_neutral": "Проект был реализован совместно с компанией \"Стратонавтика\", Мурманским арктическим университетом, Госкорпорацией \"Росатом\" и радио \"Маяк\", сообщили в хостинг-провайдере RUVDS",
+      "main_idea": "В РФ провели первое в истории радиовещание из стратосферы над Северным полюсом",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 06:19:32 +0300",
-      "url": "https://tass.ru/kultura/28027577",
+      "published_at": "Thu, 20 Aug 2026 07:02:58 +0300",
+      "url": "https://tass.ru/nauka/28027681",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Количество сделок со вторичным жильем в июле стало максимальным с начала года",
-      "title_neutral": "Количество сделок со вторичным жильем в июле стало максимальным с начала года",
-      "excerpt": "В \"Авито Недвижимости\" связали оживление спроса со снижением ставок по рыночной ипотеке",
-      "recap_neutral": "В \"Авито Недвижимости\" связали оживление спроса со снижением ставок по рыночной ипотеке",
-      "main_idea": "Количество сделок со вторичным жильем в июле стало максимальным с начала года",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 06:18:24 +0300",
-      "url": "https://tass.ru/nedvizhimost/28027605",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Киеве из-за взрывов повреждены промышленный объект и складские помещения",
-      "title_neutral": "В Киеве из-за взрывов повреждены промышленный объект и складские помещения",
-      "excerpt": "Повреждения зафиксировали в Святошинском и Дарницком районах города",
-      "recap_neutral": "Повреждения зафиксировали в Святошинском и Дарницком районах города",
-      "main_idea": "В Киеве из-за взрывов повреждены промышленный объект и складские помещения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 06:18:11 +0300",
-      "url": "https://tass.ru/proisshestviya/28027609",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ЛДПР предложила обучать иностранцев в российских вузах только платно",
-      "title_neutral": "ЛДПР предложила обучать иностранцев в российских вузах только платно",
+      "title_original": "Кобяков отметил важность конгрессно-выставочной работы для экономики региона",
+      "title_neutral": "Кобяков отметил важность конгрессно-выставочной работы для экономики региона",
       "excerpt": "",
-      "recap_neutral": "ЛДПР предложила обучать иностранцев в российских вузах только платно",
-      "main_idea": "ЛДПР предложила обучать иностранцев в российских вузах только платно",
-      "tags": [],
+      "recap_neutral": "Кобяков отметил важность конгрессно-выставочной работы для экономики региона",
+      "main_idea": "Кобяков отметил важность конгрессно-выставочной работы для экономики региона",
+      "tags": [
+        "economy"
+      ],
       "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 06:17:58 +0300",
-      "url": "https://tass.ru/obschestvo/28027611",
+      "published_at": "Thu, 20 Aug 2026 07:02:53 +0300",
+      "url": "https://tass.ru/ekonomika/28027703",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В ДНР ущерб от ударов ВСУ по сельхозтехнике достиг почти 170 млн рублей",
-      "title_neutral": "В ДНР ущерб от ударов ВСУ по сельхозтехнике достиг почти 170 млн рублей",
+      "title_original": "Херсонская область обесточена из-за технологического нарушения",
+      "title_neutral": "Херсонская область обесточена из-за технологического нарушения",
       "excerpt": "",
-      "recap_neutral": "В ДНР ущерб от ударов ВСУ по сельхозтехнике достиг почти 170 млн рублей",
-      "main_idea": "В ДНР ущерб от ударов ВСУ по сельхозтехнике достиг почти 170 млн рублей",
+      "recap_neutral": "Херсонская область обесточена из-за технологического нарушения",
+      "main_idea": "Херсонская область обесточена из-за технологического нарушения",
       "tags": [
-        "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 06:16:16 +0300",
-      "url": "https://tass.ru/obschestvo/28027607",
+      "published_at": "Thu, 20 Aug 2026 07:00:54 +0300",
+      "url": "https://tass.ru/obschestvo/28027673",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В \"Плати по всему миру\" рассказали, где россияне отдыхают дольше всего",
-      "title_neutral": "В \"Плати по всему миру\" рассказали, где россияне отдыхают дольше всего",
-      "excerpt": "В среднем самые длительные поездки граждан России за рубеж за последний год зарегистрированы в Индонезии, Вьетнаме, ЮАР, Таиланде и Бразилии",
-      "recap_neutral": "В среднем самые длительные поездки граждан России за рубеж за последний год зарегистрированы в Индонезии, Вьетнаме, ЮАР, Таиланде и Бразилии",
-      "main_idea": "В \"Плати по всему миру\" рассказали, где россияне отдыхают дольше всего",
+      "title_original": "Посол РФ обвинил Швейцарию в ужесточении политики по выдаче виз россиянам",
+      "title_neutral": "Посол РФ обвинил Швейцарию в ужесточении политики по выдаче виз россиянам",
+      "excerpt": "По словам Сергея Гармонина, получение многократных виз \"стало редкостью и практически невозможно\"",
+      "recap_neutral": "По словам Сергея Гармонина, получение многократных виз \"стало редкостью и практически невозможно\"",
+      "main_idea": "Посол РФ обвинил Швейцарию в ужесточении политики по выдаче виз россиянам",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 06:15:43 +0300",
-      "url": "https://tass.ru/obschestvo/28027603",
+      "published_at": "Thu, 20 Aug 2026 07:00:39 +0300",
+      "url": "https://tass.ru/politika/28027685",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Эксперт Костенко разъяснил, будут ли уроки у школьников 1 сентября",
-      "title_neutral": "Эксперт Костенко разъяснил, будут ли уроки у школьников 1 сентября",
-      "excerpt": "Каждая образовательная организация самостоятельно разрабатывает учебный график, поэтому узнать такую информацию можно непосредственно в своей школе, сообщил руководитель ФГБНУ \"Институт содержания и методов обучения имени В. С. Леднева\"",
-      "recap_neutral": "Каждая образовательная организация самостоятельно разрабатывает учебный график, поэтому узнать такую информацию можно непосредственно в своей школе, сообщил руководитель ФГБНУ \"Институт содержания и методов обучения име…",
-      "main_idea": "Эксперт Костенко разъяснил, будут ли уроки у школьников 1 сентября",
+      "title_original": "В Хабаровском крае в зоне паводка оказались 15 населенных пунктов",
+      "title_neutral": "В Хабаровском крае в зоне паводка оказались 15 населенных пунктов",
+      "excerpt": "",
+      "recap_neutral": "В Хабаровском крае в зоне паводка оказались 15 населенных пунктов",
+      "main_idea": "В Хабаровском крае в зоне паводка оказались 15 населенных пунктов",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 06:12:48 +0300",
-      "url": "https://tass.ru/obschestvo/28027601",
+      "published_at": "Thu, 20 Aug 2026 07:00:38 +0300",
+      "url": "https://tass.ru/proisshestviya/28027677",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "TelecomDaily сообщило, что 82% россиян ощутили проблемы доступа к сайтам РФ",
-      "title_neutral": "TelecomDaily сообщило, что 82% россиян ощутили проблемы доступа к сайтам РФ",
-      "excerpt": "По информации исследования информационно-аналитического агентства, трудности у опрошенных наблюдаются при попытке зайти на страницы через зарубежные браузеры и приложения",
-      "recap_neutral": "По информации исследования информационно-аналитического агентства, трудности у опрошенных наблюдаются при попытке зайти на страницы через зарубежные браузеры и приложения",
-      "main_idea": "TelecomDaily сообщило, что 82% россиян ощутили проблемы доступа к сайтам РФ",
+      "title_original": "В Москве впервые начали ремонтировать вагоны метро типа \"Ока\"",
+      "title_neutral": "В Москве впервые начали ремонтировать вагоны метро типа \"Ока\"",
+      "excerpt": "Работы пройдут на территории вагоноремонтного комплекса \"Братеево\"",
+      "recap_neutral": "Работы пройдут на территории вагоноремонтного комплекса \"Братеево\"",
+      "main_idea": "В Москве впервые начали ремонтировать вагоны метро типа \"Ока\"",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 06:11:37 +0300",
-      "url": "https://tass.ru/ekonomika/28027571",
+      "published_at": "Thu, 20 Aug 2026 07:00:02 +0300",
+      "url": "https://tass.ru/obschestvo/28027679",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Роскачество сертифицировало производителя органического авокадо из Перу",
-      "title_neutral": "Роскачество сертифицировало производителя органического авокадо из Перу",
-      "excerpt": "Республика стала еще одной страной Южной Америки, продукция которой соответствует российским государственным стандартам",
-      "recap_neutral": "Республика стала еще одной страной Южной Америки, продукция которой соответствует российским государственным стандартам",
-      "main_idea": "Роскачество сертифицировало производителя органического авокадо из Перу",
+      "title_original": "Ли Чжэ Мён поддержал Трампа в его стремлении к диалогу с КНДР",
+      "title_neutral": "Ли Чжэ Мён поддержал Трампа в его стремлении к диалогу с КНДР",
+      "excerpt": "Мир без необходимости драться является самой надежной гарантией безопасности, отметил президент Республики Корея",
+      "recap_neutral": "Мир без необходимости драться является самой надежной гарантией безопасности, отметил президент Республики Корея",
+      "main_idea": "Ли Чжэ Мён поддержал Трампа в его стремлении к диалогу с КНДР",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 06:58:49 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28027671",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Обвиняемую в убийстве дочери в Ачинске отправили на психиатрическую экспертизу в Москву",
+      "title_neutral": "Обвиняемую в убийстве дочери в Ачинске отправили на психиатрическую экспертизу в Москву",
+      "excerpt": "",
+      "recap_neutral": "Обвиняемую в убийстве дочери в Ачинске отправили на психиатрическую экспертизу в Москву",
+      "main_idea": "Обвиняемую в убийстве дочери в Ачинске отправили на психиатрическую экспертизу в Москву",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 06:58:45 +0300",
+      "url": "https://tass.ru/proisshestviya/28027667",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ограничения в аэропорту Ижевска сняли",
+      "title_neutral": "Ограничения в аэропорту Ижевска сняли",
+      "excerpt": "",
+      "recap_neutral": "Ограничения в аэропорту Ижевска сняли",
+      "main_idea": "Ограничения в аэропорту Ижевска сняли",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 06:58:27 +0300",
+      "url": "https://tass.ru/ekonomika/28027675",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Над Ростовской областью за ночь сбили 90 БПЛА",
+      "title_neutral": "Над Ростовской областью за ночь сбили 90 БПЛА",
+      "excerpt": "",
+      "recap_neutral": "Над Ростовской областью за ночь сбили 90 БПЛА",
+      "main_idea": "Над Ростовской областью за ночь сбили 90 БПЛА",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 06:51:48 +0300",
+      "url": "https://tass.ru/proisshestviya/28027663",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Taipei Times: первые два F-16V производства США готовы для передачи Тайваню",
+      "title_neutral": "Taipei Times: первые два F-16V производства США готовы для передачи Тайваню",
+      "excerpt": "Истребители с бортовыми номерами 6727 и 6728 должны будут самостоятельно прилететь на Тайвань с промежуточными посадками для технического обслуживания и с дозаправкой в воздухе, сообщила газета",
+      "recap_neutral": "Истребители с бортовыми номерами 6727 и 6728 должны будут самостоятельно прилететь на Тайвань с промежуточными посадками для технического обслуживания и с дозаправкой в воздухе, сообщила газета",
+      "main_idea": "Taipei Times: первые два F-16V производства США готовы для передачи Тайваню",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 06:51:46 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28027661",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Японии скорый поезд сбил четырех рабочих",
+      "title_neutral": "В Японии скорый поезд сбил четырех рабочих",
+      "excerpt": "Пострадавшие вели работы на железнодорожных путях",
+      "recap_neutral": "Пострадавшие вели работы на железнодорожных путях",
+      "main_idea": "В Японии скорый поезд сбил четырех рабочих",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 06:50:50 +0300",
+      "url": "https://tass.ru/proisshestviya/28027665",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Рой. Маркет\" поможет небольшим разработчикам военной продукции выйти на рынок",
+      "title_neutral": "\"Рой. Маркет\" поможет небольшим разработчикам военной продукции выйти на рынок",
+      "excerpt": "Для частного разработчика ценность маркетплейса заключается в том, что ему не нужно становиться большой торговой компанией, чтобы получить доступ к реальному спросу, заявил председатель правления Центра беспилотных систем и технологий Андрей Безруков",
+      "recap_neutral": "Для частного разработчика ценность маркетплейса заключается в том, что ему не нужно становиться большой торговой компанией, чтобы получить доступ к реальному спросу, заявил председатель правления Центра беспилотных сист…",
+      "main_idea": "\"Рой. Маркет\" поможет небольшим разработчикам военной продукции выйти на рынок",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 06:45:29 +0300",
+      "url": "https://tass.ru/ekonomika/28027659",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В группировке \"Север\" сообщили об уничтожении двух укрепленных пунктов ВСУ",
+      "title_neutral": "В группировке \"Север\" сообщили об уничтожении двух укрепленных пунктов ВСУ",
+      "excerpt": "Командир роты БПЛА с позывным Грот отметил, что цели поразили в течение ночи",
+      "recap_neutral": "Командир роты БПЛА с позывным Грот отметил, что цели поразили в течение ночи",
+      "main_idea": "В группировке \"Север\" сообщили об уничтожении двух укрепленных пунктов ВСУ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 06:39:58 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28027639",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Башкирии планируют смягчить мораторий на добычу полезных ископаемых в Зауралье",
+      "title_neutral": "В Башкирии планируют смягчить мораторий на добычу полезных ископаемых в Зауралье",
+      "excerpt": "Власти региона обсуждают вопрос с Роснедрами",
+      "recap_neutral": "Власти региона обсуждают вопрос с Роснедрами",
+      "main_idea": "В Башкирии планируют смягчить мораторий на добычу полезных ископаемых в Зауралье",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 20 Aug 2026 06:39:35 +0300",
+      "url": "https://tass.ru/obschestvo/28027649",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Hating Matcha, Yet Loving Life, Made Him a TikTok Star at 89",
+      "title_neutral": "Hating Matcha, Yet Loving Life, Made Him a TikTok Star at 89",
+      "excerpt": "Werner Kalecinski is a social media sensation among young Germans. How did he go from heartbroken widower to partying on a yacht?",
+      "recap_neutral": "Werner Kalecinski is a social media sensation among young Germans",
+      "main_idea": "Hating Matcha, Yet Loving Life, Made Him a TikTok Star at 89",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Thu, 20 Aug 2026 04:01:08 +0000",
+      "url": "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "title_neutral": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "excerpt": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "recap_neutral": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict",
+      "main_idea": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
       "tags": [
         "conflict"
       ],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 06:09:32 +0300",
-      "url": "https://tass.ru/ekonomika/28027587",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В школах Тувы предложили ввести уроки резьбы по камню",
-      "title_neutral": "В школах Тувы предложили ввести уроки резьбы по камню",
-      "excerpt": "",
-      "recap_neutral": "В школах Тувы предложили ввести уроки резьбы по камню",
-      "main_idea": "В школах Тувы предложили ввести уроки резьбы по камню",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 06:09:02 +0300",
-      "url": "https://tass.ru/obschestvo/28027591",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Хабаровске молодого человека приговорили к 15 годам колонии за госизмену",
-      "title_neutral": "В Хабаровске молодого человека приговорили к 15 годам колонии за госизмену",
-      "excerpt": "",
-      "recap_neutral": "В Хабаровске молодого человека приговорили к 15 годам колонии за госизмену",
-      "main_idea": "В Хабаровске молодого человека приговорили к 15 годам колонии за госизмену",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 06:07:24 +0300",
-      "url": "https://tass.ru/proisshestviya/28027595",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Петербурге стартует международный кинофестиваль LEFF",
-      "title_neutral": "В Петербурге стартует международный кинофестиваль LEFF",
-      "excerpt": "",
-      "recap_neutral": "В Петербурге стартует международный кинофестиваль LEFF",
-      "main_idea": "В Петербурге стартует международный кинофестиваль LEFF",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 06:07:01 +0300",
-      "url": "https://tass.ru/kultura/28027573",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Депутат Поляков заявил, что Хмара на посту должен освоить €70 млрд помощи ЕС",
-      "title_neutral": "Депутат Поляков заявил, что Хмара на посту должен освоить €70 млрд помощи ЕС",
-      "excerpt": "Депутат Народного совета ЛНР считает, что назначение нового министра обороны Украины никак не отразится на ситуации на линии фронта",
-      "recap_neutral": "Депутат Народного совета ЛНР считает, что назначение нового министра обороны Украины никак не отразится на ситуации на линии фронта",
-      "main_idea": "Депутат Поляков заявил, что Хмара на посту должен освоить €70 млрд помощи ЕС",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 06:06:30 +0300",
-      "url": "https://tass.ru/politika/28027581",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "RTL: в Швейцарии нашли тела пропавших в 1992 году альпинистов",
-      "title_neutral": "RTL: в Швейцарии нашли тела пропавших в 1992 году альпинистов",
-      "excerpt": "Почти 34 года назад двое мужчин попытались взойти на вершину Вайсмис, но попали в непогоду и исчезли",
-      "recap_neutral": "Почти 34 года назад двое мужчин попытались взойти на вершину Вайсмис, но попали в непогоду и исчезли",
-      "main_idea": "RTL: в Швейцарии нашли тела пропавших в 1992 году альпинистов",
-      "tags": [
-        "tech",
-        "climate"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 06:06:09 +0300",
-      "url": "https://tass.ru/proisshestviya/28027589",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Китае призвали Японию не играть с огнем в вопросах ядерного оружия",
-      "title_neutral": "В Китае призвали Японию не играть с огнем в вопросах ядерного оружия",
-      "excerpt": "В конце \"японцы вновь окажутся на скамье подсудимых истории\", заявил посол КНР в Москве Чжан Ханьхуэй",
-      "recap_neutral": "В конце \"японцы вновь окажутся на скамье подсудимых истории\", заявил посол КНР в Москве Чжан Ханьхуэй",
-      "main_idea": "В Китае призвали Японию не играть с огнем в вопросах ядерного оружия",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 20 Aug 2026 06:05:26 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28027593",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Thu, 20 Aug 2026 03:22:57 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1325,8 +1391,8 @@
     {
       "title_original": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
       "title_neutral": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-      "excerpt": "Australia's foreign minister summoned the Israeli ambassador over 'insulting' Zomi Frankcom decision.",
-      "recap_neutral": "Australia's foreign minister summoned the Israeli ambassador over 'insulting' Zomi Frankcom decision",
+      "excerpt": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+      "recap_neutral": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision",
       "main_idea": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
       "tags": [
         "tech"
@@ -1394,27 +1460,10 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-      "title_neutral": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-      "excerpt": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-      "recap_neutral": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict",
-      "main_idea": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Thu, 20 Aug 2026 02:16:49 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Giant whales move into Greenland waters as ice disappears",
       "title_neutral": "Giant whales move into Greenland waters as ice disappears",
-      "excerpt": "Melting sea ice from climate change has opened up the region for giant whales to undertake 'feeding frenzies'.",
-      "recap_neutral": "Melting sea ice from climate change has opened up the region for giant whales to undertake 'feeding frenzies'",
+      "excerpt": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
+      "recap_neutral": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\"",
       "main_idea": "Giant whales move into Greenland waters as ice disappears",
       "tags": [
         "climate"
@@ -1425,23 +1474,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Harry and Meghan’s Break with Britain and Planned Return: a Timeline",
-      "title_neutral": "Harry and Meghan’s Break with Britain and Planned Return: a Timeline",
-      "excerpt": "The couple will remain non-working royals. It is unclear where they will live.",
-      "recap_neutral": "The couple will remain non-working royals",
-      "main_idea": "Harry and Meghan’s Break with Britain and Planned Return: a Timeline",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 20 Aug 2026 01:58:03 +0000",
-      "url": "https://www.nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1558,38 +1590,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Why travellers are obsessed with foreign supermarkets",
-      "title_neutral": "Why travellers are obsessed with foreign supermarkets",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Why travellers are obsessed with foreign supermarkets",
-      "tags": [
-        "economy"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sun, 16 Aug 2026 09:25:46 +0000",
-      "url": "https://www.bbc.com/travel/article/20260811-the-supermarket-is-becoming-a-tourist-attraction",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The little-known winstart.bat batch file",
-      "title_neutral": "The little-known winstart.bat batch file",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The little-known winstart.bat batch file",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 15 Aug 2026 20:37:18 +0000",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
