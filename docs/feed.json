@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T17:54:21.441933+00:00",
+  "last_updated": "2026-08-21T18:29:11.035366+00:00",
   "items": [
     {
       "title_original": "Five Americans among seven killed in safari helicopter crash in Kenya",
@@ -65,6 +65,23 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AI boosted homework scores, then exam scores dropped: study",
+      "title_neutral": "AI boosted homework scores, then exam scores dropped: study",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "AI boosted homework scores, then exam scores dropped: study",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Wed, 19 Aug 2026 06:13:31 +0000",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -170,6 +187,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Does whispering to agents in docs help?",
+      "title_neutral": "Does whispering to agents in docs help?",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Does whispering to agents in docs help?",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 17 Aug 2026 14:16:41 +0000",
+      "url": "https://passo.uno/if-you-are-an-agent-read-this/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
       "title_neutral": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
       "excerpt": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at least 2,325 people dead, according to government data, surpas…",
@@ -187,252 +219,312 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Депутат Рады Южанина: бюджет Украины недополучает запланированные поступления",
-      "title_neutral": "Депутат Рады Южанина: бюджет Украины недополучает запланированные поступления",
-      "excerpt": "Парламентарий считает, что ситуация только ухудшится",
-      "recap_neutral": "Парламентарий считает, что ситуация только ухудшится",
-      "main_idea": "Депутат Рады Южанина: бюджет Украины недополучает запланированные поступления",
-      "tags": [
-        "politics"
-      ],
+      "title_original": "Школьные автобусы в Оренбуржье приравняют к транспорту для заправки вне очереди",
+      "title_neutral": "Школьные автобусы в Оренбуржье приравняют к транспорту для заправки вне очереди",
+      "excerpt": "На АЗС региона с 12 августа отпуск топлива физическим лицам осуществляется по принципу \"чет-нечет\"",
+      "recap_neutral": "На АЗС региона с 12 августа отпуск топлива физическим лицам осуществляется по принципу \"чет-нечет\"",
+      "main_idea": "Школьные автобусы в Оренбуржье приравняют к транспорту для заправки вне очереди",
+      "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 20:53:26 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28033571",
+      "published_at": "Fri, 21 Aug 2026 21:26:09 +0300",
+      "url": "https://tass.ru/obschestvo/28033623",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ОП: детский режим в умных колонках не должен быть обязанностью",
-      "title_neutral": "ОП: детский режим в умных колонках не должен быть обязанностью",
-      "excerpt": "Член комиссии палаты по общественному контролю и работе с обращениями граждан Евгений Машаров отметил, что именно детская, подростковая аудитория активно пользуется такими устройствами",
-      "recap_neutral": "Член комиссии палаты по общественному контролю и работе с обращениями граждан Евгений Машаров отметил, что именно детская, подростковая аудитория активно пользуется такими устройствами",
-      "main_idea": "ОП: детский режим в умных колонках не должен быть обязанностью",
+      "title_original": "СБ РФ: кино Запада продвигает гедонизм и нетрадиционные отношения",
+      "title_neutral": "СБ РФ: кино Запада продвигает гедонизм и нетрадиционные отношения",
+      "excerpt": "Референт аппарата Совета безопасности Андрей Поляков отметил, что фильмы выступают элементом \"мягкой силы\"",
+      "recap_neutral": "Референт аппарата Совета безопасности Андрей Поляков отметил, что фильмы выступают элементом \"мягкой силы\"",
+      "main_idea": "СБ РФ: кино Запада продвигает гедонизм и нетрадиционные отношения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 21 Aug 2026 21:24:40 +0300",
+      "url": "https://tass.ru/politika/28033605",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Главный тренер \"Галатасарая\" верит, что Батраков будет очень полезен команде",
+      "title_neutral": "Главный тренер \"Галатасарая\" верит, что Батраков будет очень полезен команде",
+      "excerpt": "Российский полузащитник подписал пятилетний контракт с турецким клубом",
+      "recap_neutral": "Российский полузащитник подписал пятилетний контракт с турецким клубом",
+      "main_idea": "Главный тренер \"Галатасарая\" верит, что Батраков будет очень полезен команде",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 21 Aug 2026 21:22:31 +0300",
+      "url": "https://tass.ru/sport/28033625",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ООН готова рассмотреть возможный запрос Киева о помощи в проведении выборов",
+      "title_neutral": "ООН готова рассмотреть возможный запрос Киева о помощи в проведении выборов",
+      "excerpt": "Официальный представитель генерального секретаря организации Стефан Дюжаррик отметил, что таких обращений не поступало",
+      "recap_neutral": "Официальный представитель генерального секретаря организации Стефан Дюжаррик отметил, что таких обращений не поступало",
+      "main_idea": "ООН готова рассмотреть возможный запрос Киева о помощи в проведении выборов",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 21 Aug 2026 21:21:42 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28033603",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Набравший 300 баллов выпускник из Оренбурга поступил в ИТМО на бюджет",
+      "title_neutral": "Набравший 300 баллов выпускник из Оренбурга поступил в ИТМО на бюджет",
+      "excerpt": "Дмитрий Шаповаленко стал студентом факультета программной инженерии и компьютерной техники",
+      "recap_neutral": "Дмитрий Шаповаленко стал студентом факультета программной инженерии и компьютерной техники",
+      "main_idea": "Набравший 300 баллов выпускник из Оренбурга поступил в ИТМО на бюджет",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 20:51:48 +0300",
-      "url": "https://tass.ru/obschestvo/28033555",
+      "published_at": "Fri, 21 Aug 2026 21:19:44 +0300",
+      "url": "https://tass.ru/obschestvo/28033611",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Премьер Молдавии передумал снимать ограничения на зерно c Украины",
-      "title_neutral": "Премьер Молдавии передумал снимать ограничения на зерно c Украины",
-      "excerpt": "Василе Тофан заявил, что конкретный механизм лицензирования будут обсуждаться на следующем заседании правительства",
-      "recap_neutral": "Василе Тофан заявил, что конкретный механизм лицензирования будут обсуждаться на следующем заседании правительства",
-      "main_idea": "Премьер Молдавии передумал снимать ограничения на зерно c Украины",
+      "title_original": "Молдавия построит укрепления на пограничных КПП с Украиной",
+      "title_neutral": "Молдавия построит укрепления на пограничных КПП с Украиной",
+      "excerpt": "В МВД республики рассказали, что решения принято для защиты от возможных авиаударов",
+      "recap_neutral": "В МВД республики рассказали, что решения принято для защиты от возможных авиаударов",
+      "main_idea": "Молдавия построит укрепления на пограничных КПП с Украиной",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 21 Aug 2026 21:18:01 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28033597",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Саратове оштрафовали кандидата от КПРФ на выборы в Госдуму Бондаренко",
+      "title_neutral": "В Саратове оштрафовали кандидата от КПРФ на выборы в Госдуму Бондаренко",
+      "excerpt": "Николая Бондаренко признали виновным по административному делу о демонстрации экстремистской символики",
+      "recap_neutral": "Николая Бондаренко признали виновным по административному делу о демонстрации экстремистской символики",
+      "main_idea": "В Саратове оштрафовали кандидата от КПРФ на выборы в Госдуму Бондаренко",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 21 Aug 2026 21:16:27 +0300",
+      "url": "https://tass.ru/obschestvo/28033613",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Найдена молекула, заставляющая клетки сжигать лишний жир",
+      "title_neutral": "Найдена молекула, заставляющая клетки сжигать лишний жир",
+      "excerpt": "Биологи из США и Германии выяснили, что одна из коротких органических молекул из класса фуранов блокирует синтез жиров",
+      "recap_neutral": "Биологи из США и Германии выяснили, что одна из коротких органических молекул из класса фуранов блокирует синтез жиров",
+      "main_idea": "Найдена молекула, заставляющая клетки сжигать лишний жир",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 20:49:25 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28033549",
+      "published_at": "Fri, 21 Aug 2026 21:15:56 +0300",
+      "url": "https://tass.ru/nauka/28033593",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Корецкий оценил выполнение плана подготовки Украине к зиме",
-      "title_neutral": "Корецкий оценил выполнение плана подготовки Украине к зиме",
-      "excerpt": "Премьер-министр страны заявил, что \"план устойчивости\" готов только на 47%",
-      "recap_neutral": "Премьер-министр страны заявил, что \"план устойчивости\" готов только на 47%",
-      "main_idea": "Корецкий оценил выполнение плана подготовки Украине к зиме",
+      "title_original": "Малайзийский \"Джохор\" установил мировой рекорд по числу побед подряд в матчах лиги",
+      "title_neutral": "Малайзийский \"Джохор\" установил мировой рекорд по числу побед подряд в матчах лиги",
+      "excerpt": "Команда одержала в национальном первенстве 109-ю победу подряд",
+      "recap_neutral": "Команда одержала в национальном первенстве 109-ю победу подряд",
+      "main_idea": "Малайзийский \"Джохор\" установил мировой рекорд по числу побед подряд в матчах лиги",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 20:47:39 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28033545",
+      "published_at": "Fri, 21 Aug 2026 21:15:09 +0300",
+      "url": "https://tass.ru/sport/28033617",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Энтони Хопкинс выпустил дебютный альбом в жанре классической музыки",
-      "title_neutral": "Энтони Хопкинс выпустил дебютный альбом в жанре классической музыки",
-      "excerpt": "Актер работал над альбомом последние 60 лет",
-      "recap_neutral": "Актер работал над альбомом последние 60 лет",
-      "main_idea": "Энтони Хопкинс выпустил дебютный альбом в жанре классической музыки",
+      "title_original": "Под Тулой на форуме \"Агропродвижение\" наградили победителей конкурса \"Я в Агро\"",
+      "title_neutral": "Под Тулой на форуме \"Агропродвижение\" наградили победителей конкурса \"Я в Агро\"",
+      "excerpt": "Победу одержали Татарстан, Марий Эл, Тульская и Вологодская области",
+      "recap_neutral": "Победу одержали Татарстан, Марий Эл, Тульская и Вологодская области",
+      "main_idea": "Под Тулой на форуме \"Агропродвижение\" наградили победителей конкурса \"Я в Агро\"",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 20:45:45 +0300",
-      "url": "https://tass.ru/kultura/28033539",
+      "published_at": "Fri, 21 Aug 2026 21:11:57 +0300",
+      "url": "https://tass.ru/obschestvo/28033599",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Президенты США и Бразилии выступили за скорейшее урегулирование конфликта на Украине",
-      "title_neutral": "Президенты США и Бразилии выступили за скорейшее урегулирование конфликта на Украине",
-      "excerpt": "Лидеры двух стран подчеркнули необходимость срочного поиска согласованного решения",
-      "recap_neutral": "Лидеры двух стран подчеркнули необходимость срочного поиска согласованного решения",
-      "main_idea": "Президенты США и Бразилии выступили за скорейшее урегулирование конфликта на Украине",
+      "title_original": "Суд взял под стражу директора офиса Зеленского по правовым вопросам",
+      "title_neutral": "Суд взял под стражу директора офиса Зеленского по правовым вопросам",
+      "excerpt": "САП не называет имени, но, как известно, речь идет о Викторе Дубовике",
+      "recap_neutral": "САП не называет имени, но, как известно, речь идет о Викторе Дубовике",
+      "main_idea": "Суд взял под стражу директора офиса Зеленского по правовым вопросам",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 21 Aug 2026 21:08:15 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28033587",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Турции объяснили, почему Израиль считает Анкару угрозой",
+      "title_neutral": "В Турции объяснили, почему Израиль считает Анкару угрозой",
+      "excerpt": "Глава управления коммуникаций турецкого президента Реджепа Тайипа Эрдогана Бурханеттин Дуран отметил, что еврейское государство преследует исключительно внутриполитические цели",
+      "recap_neutral": "Глава управления коммуникаций турецкого президента Реджепа Тайипа Эрдогана Бурханеттин Дуран отметил, что еврейское государство преследует исключительно внутриполитические цели",
+      "main_idea": "В Турции объяснили, почему Израиль считает Анкару угрозой",
       "tags": [
         "politics",
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 20:43:00 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28033457",
+      "published_at": "Fri, 21 Aug 2026 21:04:59 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28033577",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Орле девочка упала с 15-го этажа",
-      "title_neutral": "В Орле девочка упала с 15-го этажа",
-      "excerpt": "Губернатор региона Андрей Клычков выразил соболезнования родным погибшего ребенка",
-      "recap_neutral": "Губернатор региона Андрей Клычков выразил соболезнования родным погибшего ребенка",
-      "main_idea": "В Орле девочка упала с 15-го этажа",
+      "title_original": "В курском приграничье при атаке ВСУ погиб пенсионер",
+      "title_neutral": "В курском приграничье при атаке ВСУ погиб пенсионер",
+      "excerpt": "Еще одна женщина пострадала",
+      "recap_neutral": "Еще одна женщина пострадала",
+      "main_idea": "В курском приграничье при атаке ВСУ погиб пенсионер",
       "tags": [
-        "health"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 20:41:36 +0300",
-      "url": "https://tass.ru/proisshestviya/28033569",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мирошник пожелал Хмаре и Федорову добиться взаимного изгнания из МО Украины",
-      "title_neutral": "Мирошник пожелал Хмаре и Федорову добиться взаимного изгнания из МО Украины",
-      "excerpt": "Посол по особым поручениям МИД РФ по вопросам преступлений киевского режима считает, что для всего мира это было бы огромным подарком",
-      "recap_neutral": "Посол по особым поручениям МИД РФ по вопросам преступлений киевского режима считает, что для всего мира это было бы огромным подарком",
-      "main_idea": "Мирошник пожелал Хмаре и Федорову добиться взаимного изгнания из МО Украины",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 20:40:40 +0300",
-      "url": "https://tass.ru/politika/28033531",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Кабмин Украины прекратил полномочия главы набсовета Sense Bank на фоне скандала",
-      "title_neutral": "Кабмин Украины прекратил полномочия главы набсовета Sense Bank на фоне скандала",
-      "excerpt": "В состав наблюдательного совета банка назначен представитель государства, сообщил премьер-министр страны Сергей Корецкий",
-      "recap_neutral": "В состав наблюдательного совета банка назначен представитель государства, сообщил премьер-министр страны Сергей Корецкий",
-      "main_idea": "Кабмин Украины прекратил полномочия главы набсовета Sense Bank на фоне скандала",
-      "tags": [
-        "economy",
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 20:38:49 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28033565",
-      "lang": "ru",
-      "bias_score": 72,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Кондрашов: фильм \"Аэропорт\" нацелен показать истоки войны, которую РФ не начинала",
-      "title_neutral": "Кондрашов: фильм \"Аэропорт\" нацелен показать истоки войны, которую РФ не начинала",
-      "excerpt": "Картина рассказывает о первом сражении за существование Донбасса, используются кадры фотохроники и свидетельства очевидцев событий",
-      "recap_neutral": "Картина рассказывает о первом сражении за существование Донбасса, используются кадры фотохроники и свидетельства очевидцев событий",
-      "main_idea": "Кондрашов: фильм \"Аэропорт\" нацелен показать истоки войны, которую РФ не начинала",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 20:38:29 +0300",
-      "url": "https://tass.ru/kultura/28033501",
+      "published_at": "Fri, 21 Aug 2026 21:04:28 +0300",
+      "url": "https://tass.ru/proisshestviya/28033601",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Галибаф обсудит вывод Ирака из-под ограничений в Ормузском проливе",
-      "title_neutral": "Галибаф обсудит вывод Ирака из-под ограничений в Ормузском проливе",
-      "excerpt": "Председатель иракского парламента Хейбет аль-Халбуси попросил у Тегерана предоставить Багдаду \"особый статус\" в вопросах, касающихся экспорта нефти через Ормузский пролив",
-      "recap_neutral": "Председатель иракского парламента Хейбет аль-Халбуси попросил у Тегерана предоставить Багдаду \"особый статус\" в вопросах, касающихся экспорта нефти через Ормузский пролив",
-      "main_idea": "Галибаф обсудит вывод Ирака из-под ограничений в Ормузском проливе",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 20:38:11 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28033561",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Хасиков: МИД РФ помогает Калмыкии наращивать партнерство с некоторыми странами",
-      "title_neutral": "Хасиков: МИД РФ помогает Калмыкии наращивать партнерство с некоторыми странами",
-      "excerpt": "Глава республики отметил активную поддержку команды представительства в организации III Международного буддийского форума",
-      "recap_neutral": "Глава республики отметил активную поддержку команды представительства в организации III Международного буддийского форума",
-      "main_idea": "Хасиков: МИД РФ помогает Калмыкии наращивать партнерство с некоторыми странами",
+      "title_original": "WSJ рассказала о помощи ЦРУ в сохранении NeXT",
+      "title_neutral": "WSJ рассказала о помощи ЦРУ в сохранении NeXT",
+      "excerpt": "По данным газеты, управление заинтересовалось компьютерами компании для работы с разведывательными спутниковыми данными и через посредников закупило десятки тысяч рабочих станций",
+      "recap_neutral": "По данным газеты, управление заинтересовалось компьютерами компании для работы с разведывательными спутниковыми данными и через посредников закупило десятки тысяч рабочих станций",
+      "main_idea": "WSJ рассказала о помощи ЦРУ в сохранении NeXT",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 20:35:37 +0300",
-      "url": "https://tass.ru/politika/28033559",
+      "published_at": "Fri, 21 Aug 2026 21:02:58 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28033579",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Крыму продлили сроки подачи заявлений на получение выплаты пострадавшим при ЧС",
-      "title_neutral": "В Крыму продлили сроки подачи заявлений на получение выплаты пострадавшим при ЧС",
-      "excerpt": "Обратиться за назначением можно в течение двух месяцев с момента происшествия",
-      "recap_neutral": "Обратиться за назначением можно в течение двух месяцев с момента происшествия",
-      "main_idea": "В Крыму продлили сроки подачи заявлений на получение выплаты пострадавшим при ЧС",
+      "title_original": "Жители Подмосковья с начала года заказали онлайн около 383 тыс. медсправок",
+      "title_neutral": "Жители Подмосковья с начала года заказали онлайн около 383 тыс. медсправок",
+      "excerpt": "Граждане могут получать медицинские документы в удаленном формате в любое удобное для них время без изменения привычного распорядка дня",
+      "recap_neutral": "Граждане могут получать медицинские документы в удаленном формате в любое удобное для них время без изменения привычного распорядка дня",
+      "main_idea": "Жители Подмосковья с начала года заказали онлайн около 383 тыс. медсправок",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 20:33:12 +0300",
-      "url": "https://tass.ru/obschestvo/28033557",
-      "lang": "ru",
-      "bias_score": 56,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мирошник считает, что Зеленский будет радикализировать свои действия",
-      "title_neutral": "Мирошник считает, что Зеленский будет радикализировать свои действия",
-      "excerpt": "Посол по особым поручениям МИД РФ по вопросам преступлений киевского режима сравнил Владимира Зеленского с \"правовым беспредельщиком\"",
-      "recap_neutral": "Посол по особым поручениям МИД РФ по вопросам преступлений киевского режима сравнил Владимира Зеленского с \"правовым беспредельщиком\"",
-      "main_idea": "Мирошник считает, что Зеленский будет радикализировать свои действия",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 20:32:48 +0300",
-      "url": "https://tass.ru/politika/28033521",
+      "published_at": "Fri, 21 Aug 2026 21:02:45 +0300",
+      "url": "https://tass.ru/obschestvo/28033595",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Мирошник сравнил назначение Хмары с бегами тараканов одного хозяина",
-      "title_neutral": "Мирошник сравнил назначение Хмары с бегами тараканов одного хозяина",
-      "excerpt": "Сложно ожидать каких-то категорических изменений именно для России, заявил посол по особым поручениям МИД РФ по вопросам преступлений киевского режима",
-      "recap_neutral": "Сложно ожидать каких-то категорических изменений именно для России, заявил посол по особым поручениям МИД РФ по вопросам преступлений киевского режима",
-      "main_idea": "Мирошник сравнил назначение Хмары с бегами тараканов одного хозяина",
+      "title_original": "Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million",
+      "title_neutral": "Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million",
+      "excerpt": "Harry and six other high-profile figures lost a privacy lawsuit against Associated Newspapers. They may eventually have to pay more than twice the initial sum, a judge said.",
+      "recap_neutral": "Harry and six other high-profile figures lost a privacy lawsuit against Associated Newspapers",
+      "main_idea": "Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Fri, 21 Aug 2026 20:31:31 +0300",
-      "url": "https://tass.ru/politika/28033517",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Fri, 21 Aug 2026 18:22:00 +0000",
+      "url": "https://www.nytimes.com/2026/08/21/world/europe/prince-harry-daily-mail-publisher-pay.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+      "title_neutral": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+      "excerpt": "A recording of the interview Duane Davis conducted with detectives was played to the jury.",
+      "recap_neutral": "A recording of the interview Duane Davis conducted with detectives was played to the jury",
+      "main_idea": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Fri, 21 Aug 2026 18:09:38 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+      "title_neutral": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+      "excerpt": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
+      "recap_neutral": "This would be Meghan's first significant acting role since her marriage to Prince Harry",
+      "main_idea": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Fri, 21 Aug 2026 18:08:14 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
+      "title_neutral": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
+      "excerpt": "Palestinian and Israeli authorities offered divergent accounts of the incident, which came as settler violence has surged across the Israeli-occupied territory.",
+      "recap_neutral": "Palestinian and Israeli authorities offered divergent accounts of the incident, which came as settler violence has surged across the Israeli-occupied territory",
+      "main_idea": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
+      "tags": [
+        "economy"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 21 Aug 2026 18:01:38 +0000",
+      "url": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -484,21 +576,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Another Better Lower Bound for N=17 Square Packing",
-      "title_neutral": "Another Better Lower Bound for N=17 Square Packing",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Another Better Lower Bound for N=17 Square Packing",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 21 Aug 2026 16:50:15 +0000",
-      "url": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Two teenagers seriously injured after sword attack at Swedish school",
       "title_neutral": "Two teenagers seriously injured after sword attack at Swedish school",
       "excerpt": "Police say one man has been arrested, while several other local schools were locked down.",
@@ -516,11 +593,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A self hosted AI software factory",
-      "title_neutral": "A self hosted AI software factory",
+      "title_original": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+      "title_neutral": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "A self hosted AI software factory",
+      "main_idea": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
       "tags": [
         "conflict",
         "tech"
@@ -561,23 +638,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
-      "title_neutral": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
-      "excerpt": "Palestinian and Israeli authorities offered divergent accounts of the incident, which came as settler violence has surged across the Israeli-occupied territory.",
-      "recap_neutral": "Palestinian and Israeli authorities offered divergent accounts of the incident, which came as settler violence has surged across the Israeli-occupied territory",
-      "main_idea": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
-      "tags": [
-        "economy"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 21 Aug 2026 16:24:10 +0000",
-      "url": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -646,21 +706,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "I Just Want to Search",
-      "title_neutral": "I Just Want to Search",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "I Just Want to Search",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 21 Aug 2026 16:00:54 +0000",
-      "url": "https://www.0xsid.com/blog/just-want-to-search",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "How I Built a Data Pipeline From Scratch Using Python",
       "title_neutral": "How I Built a Data Pipeline From Scratch Using Python",
       "excerpt": "Learn how I built a scalable data pipeline from scratch using Python, covering ingestion, processing, storage, and automation.",
@@ -711,38 +756,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "New York’s office market is home to the most tech workers: CBRE report",
-      "title_neutral": "New York’s office market is home to the most tech workers: CBRE report",
+      "title_original": "How we made a text-to-speech model respond in sub-50 ms",
+      "title_neutral": "How we made a text-to-speech model respond in sub-50 ms",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "New York’s office market is home to the most tech workers: CBRE report",
-      "tags": [
-        "economy",
-        "tech"
-      ],
+      "main_idea": "How we made a text-to-speech model respond in sub-50 ms",
+      "tags": [],
       "source": "Hacker News",
-      "published_at": "Fri, 21 Aug 2026 15:36:16 +0000",
-      "url": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
+      "published_at": "Fri, 21 Aug 2026 15:51:10 +0000",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
       "lang": "en",
-      "bias_score": 40,
+      "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million",
-      "title_neutral": "Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million",
-      "excerpt": "Harry and six other high-profile figures lost a privacy lawsuit against Associated Newspapers. They may eventually have to pay more than twice the initial sum, a judge said.",
-      "recap_neutral": "Harry and six other high-profile figures lost a privacy lawsuit against Associated Newspapers",
-      "main_idea": "Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 21 Aug 2026 15:24:03 +0000",
-      "url": "https://www.nytimes.com/2026/08/21/world/europe/prince-harry-daily-mail-publisher-pay.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -776,6 +801,21 @@
       "lang": "en",
       "bias_score": 54,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "I ran Photoshop on a £0.60 computer chip",
+      "title_neutral": "I ran Photoshop on a £0.60 computer chip",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "I ran Photoshop on a £0.60 computer chip",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 21 Aug 2026 15:17:47 +0000",
+      "url": "https://pointinthecloud.com/2026-08-19-144600.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -957,6 +997,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
+      "title_neutral": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 21 Aug 2026 13:52:53 +0000",
+      "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
       "title_neutral": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
       "excerpt": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
@@ -986,21 +1041,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
-      "title_neutral": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 21 Aug 2026 13:35:17 +0000",
-      "url": "https://arxiv.org/abs/2608.18214",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1236,21 +1276,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
-      "title_neutral": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
-      "excerpt": "The overloaded boat was taking people, including many children, to farms to harvest rice.",
-      "recap_neutral": "The overloaded boat was taking people, including many children, to farms to harvest rice",
-      "main_idea": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 21 Aug 2026 10:48:01 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
       "title_neutral": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
       "excerpt": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
@@ -1296,21 +1321,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Bodies of two hikers missing for decades found after Swiss glacier melts",
-      "title_neutral": "Bodies of two hikers missing for decades found after Swiss glacier melts",
-      "excerpt": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
-      "recap_neutral": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded",
-      "main_idea": "Bodies of two hikers missing for decades found after Swiss glacier melts",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 21 Aug 2026 10:03:17 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1636,21 +1646,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Quantifying the honey bee dance floor",
-      "title_neutral": "Quantifying the honey bee dance floor",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Quantifying the honey bee dance floor",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 14 Aug 2026 02:01:47 +0000",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341456",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     }
   ]
