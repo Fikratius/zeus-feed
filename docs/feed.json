@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T21:16:20.226300+00:00",
+  "last_updated": "2026-08-22T21:44:13.803281+00:00",
   "items": [
     {
       "title_original": "Five Americans among seven killed in safari helicopter crash in Kenya",
@@ -177,6 +177,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "\"Реал\" обыграл \"Эспаньол\" в первом матче после возвращения Моуринью",
+      "title_neutral": "\"Реал\" обыграл \"Эспаньол\" в первом матче после возвращения Моуринью",
+      "excerpt": "Встреча завершилась со счетом 2:1 в пользу мадридцев",
+      "recap_neutral": "Встреча завершилась со счетом 2:1 в пользу мадридцев",
+      "main_idea": "\"Реал\" обыграл \"Эспаньол\" в первом матче после возвращения Моуринью",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 23 Aug 2026 00:27:34 +0300",
+      "url": "https://tass.ru/sport/28036247",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Российские пятиборцы спустя семь лет выступят на ЧМ под флагом своей страны",
       "title_neutral": "Российские пятиборцы спустя семь лет выступят на ЧМ под флагом своей страны",
       "excerpt": "Турнир пройдет в Китае",
@@ -192,14 +207,12 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Рэпер Lil Pump признался, что любит президента Путина",
-      "title_neutral": "Рэпер Lil Pump признался, что любит президента Путина",
-      "excerpt": "Исполнитель назвал Россию \"страной номер один\" среди всех мест, где ему довелось выступить",
-      "recap_neutral": "Исполнитель назвал Россию \"страной номер один\" среди всех мест, где ему довелось выступить",
-      "main_idea": "Рэпер Lil Pump признался, что любит президента Путина",
-      "tags": [
-        "politics"
-      ],
+      "title_original": "Lil Pump признался, что любит Путина",
+      "title_neutral": "Lil Pump признался, что любит Путина",
+      "excerpt": "После концерта исполнитель сказал \"да благословит господь Путина\"",
+      "recap_neutral": "После концерта исполнитель сказал \"да благословит господь Путина\"",
+      "main_idea": "Lil Pump признался, что любит Путина",
+      "tags": [],
       "source": "ТАСС",
       "published_at": "Sun, 23 Aug 2026 00:12:56 +0300",
       "url": "https://tass.ru/kultura/28036241",
@@ -228,8 +241,8 @@
     {
       "title_original": "В Петербурге отменили развод мостов из-за непогоды",
       "title_neutral": "В Петербурге отменили развод мостов из-за непогоды",
-      "excerpt": "",
-      "recap_neutral": "В Петербурге отменили развод мостов из-за непогоды",
+      "excerpt": "Ожидается усиление ветра свыше 12 м/с",
+      "recap_neutral": "Ожидается усиление ветра свыше 12 м/с",
       "main_idea": "В Петербурге отменили развод мостов из-за непогоды",
       "tags": [
         "climate"
@@ -243,11 +256,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Движение ограничат на участках Садового кольца в Москве из-за Большого фестиваля бега",
-      "title_neutral": "Движение ограничат на участках Садового кольца в Москве из-за Большого фестиваля бега",
-      "excerpt": "",
-      "recap_neutral": "Движение ограничат на участках Садового кольца в Москве из-за Большого фестиваля бега",
-      "main_idea": "Движение ограничат на участках Садового кольца в Москве из-за Большого фестиваля бега",
+      "title_original": "В Москве на участках Садового кольца ограничат движение",
+      "title_neutral": "В Москве на участках Садового кольца ограничат движение",
+      "excerpt": "Это связано с проведением Большого фестиваля бега",
+      "recap_neutral": "Это связано с проведением Большого фестиваля бега",
+      "main_idea": "В Москве на участках Садового кольца ограничат движение",
       "tags": [],
       "source": "ТАСС",
       "published_at": "Sun, 23 Aug 2026 00:04:03 +0300",
@@ -258,12 +271,14 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Роспотребнадзор: купленную без примерки школьную форму можно обменять или вернуть",
-      "title_neutral": "Роспотребнадзор: купленную без примерки школьную форму можно обменять или вернуть",
-      "excerpt": "",
-      "recap_neutral": "Роспотребнадзор: купленную без примерки школьную форму можно обменять или вернуть",
-      "main_idea": "Роспотребнадзор: купленную без примерки школьную форму можно обменять или вернуть",
-      "tags": [],
+      "title_original": "Роспотребнадзор напомнил порядок обмена школьной формы",
+      "title_neutral": "Роспотребнадзор напомнил порядок обмена школьной формы",
+      "excerpt": "Не подошедшие вещи можно обменять на необходимые или вернуть деньги, если у продавца нет в наличии нужного для обмена товара",
+      "recap_neutral": "Не подошедшие вещи можно обменять на необходимые или вернуть деньги, если у продавца нет в наличии нужного для обмена товара",
+      "main_idea": "Роспотребнадзор напомнил порядок обмена школьной формы",
+      "tags": [
+        "tech"
+      ],
       "source": "ТАСС",
       "published_at": "Sun, 23 Aug 2026 00:01:48 +0300",
       "url": "https://tass.ru/obschestvo/28036233",
@@ -275,8 +290,8 @@
     {
       "title_original": "Боец Бурка уничтожил трех военных ВСУ в окопном бою",
       "title_neutral": "Боец Бурка уничтожил трех военных ВСУ в окопном бою",
-      "excerpt": "",
-      "recap_neutral": "Боец Бурка уничтожил трех военных ВСУ в окопном бою",
+      "excerpt": "Благодаря действиям рядового группа закрепилась на опорном пункте до подхода подкреплений",
+      "recap_neutral": "Благодаря действиям рядового группа закрепилась на опорном пункте до подхода подкреплений",
       "main_idea": "Боец Бурка уничтожил трех военных ВСУ в окопном бою",
       "tags": [],
       "source": "ТАСС",
@@ -307,8 +322,8 @@
     {
       "title_original": "В Казахстане пройдут выборы в новый однопалатный парламент",
       "title_neutral": "В Казахстане пройдут выборы в новый однопалатный парламент",
-      "excerpt": "",
-      "recap_neutral": "В Казахстане пройдут выборы в новый однопалатный парламент",
+      "excerpt": "В них примут участие 545 кандидатов от семи партий",
+      "recap_neutral": "В них примут участие 545 кандидатов от семи партий",
       "main_idea": "В Казахстане пройдут выборы в новый однопалатный парламент",
       "tags": [
         "politics"
@@ -399,20 +414,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Игдисамов: футболист ЦСКА Кисляк должен себя попробовать в топ-чемпионате",
-      "title_neutral": "Игдисамов: футболист ЦСКА Кисляк должен себя попробовать в топ-чемпионате",
-      "excerpt": "По мнению тренера армейцев, 21-летний полузащитник является одним из лучших игроков чемпионата России",
-      "recap_neutral": "По мнению тренера армейцев, 21-летний полузащитник является одним из лучших игроков чемпионата России",
-      "main_idea": "Игдисамов: футболист ЦСКА Кисляк должен себя попробовать в топ-чемпионате",
+      "title_original": "Trump’s Top Trade Representative Details Offer That Canada Refused",
+      "title_neutral": "Trump’s Top Trade Representative Details Offer That Canada Refused",
+      "excerpt": "In an interview, Jamieson Greer, Trump’s trade representative, laid out details of the trade offer that the United States made to Canada before talks crumbled.",
+      "recap_neutral": "In an interview, Jamieson Greer, Trump’s trade representative, laid out details of the trade offer that the United States made to Canada before talks crumbled",
+      "main_idea": "Trump’s Top Trade Representative Details Offer That Canada Refused",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 22 Aug 2026 23:52:49 +0300",
-      "url": "https://tass.ru/sport/28036209",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sat, 22 Aug 2026 21:12:50 +0000",
+      "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -445,21 +460,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Knowing When to Stop: The Art of Making a Loop Converge",
-      "title_neutral": "Knowing When to Stop: The Art of Making a Loop Converge",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Knowing When to Stop: The Art of Making a Loop Converge",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 22 Aug 2026 20:21:14 +0000",
-      "url": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -496,15 +496,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Fast and Hard Code",
-      "title_neutral": "Fast and Hard Code",
+      "title_original": "English ↔ Claudish Translator",
+      "title_neutral": "English ↔ Claudish Translator",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Fast and Hard Code",
+      "main_idea": "English ↔ Claudish Translator",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Sat, 22 Aug 2026 19:56:38 +0000",
-      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+      "published_at": "Sat, 22 Aug 2026 19:19:15 +0000",
+      "url": "https://programasweights.com/claudish",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -535,21 +535,6 @@
       "source": "Hacker News",
       "published_at": "Sat, 22 Aug 2026 19:04:41 +0000",
       "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: Make your logo extra bright on HDR screens",
-      "title_neutral": "Show HN: Make your logo extra bright on HDR screens",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Make your logo extra bright on HDR screens",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 22 Aug 2026 18:43:03 +0000",
-      "url": "https://www.soverybright.com/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -967,6 +952,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Munder Difflin – Agent harness to run an office of your clones",
+      "title_neutral": "Munder Difflin – Agent harness to run an office of your clones",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Munder Difflin – Agent harness to run an office of your clones",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 22 Aug 2026 09:49:14 +0000",
+      "url": "https://munderdiffl.in/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "5 Image Optimization Mistakes That Can Slow Down Your Website",
       "title_neutral": "5 Image Optimization Mistakes That Can Slow Down Your Website",
       "excerpt": "Stop making visitors download pixels they cannot see. Five practical ways to optimize website images.",
@@ -1039,23 +1039,6 @@
       "source": "NYTimes World",
       "published_at": "Sat, 22 Aug 2026 09:02:01 +0000",
       "url": "https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Yvette Roudy, France’s First Minister for Women’s Rights, Dies at 97",
-      "title_neutral": "Yvette Roudy, France’s First Minister for Women’s Rights, Dies at 97",
-      "excerpt": "Maintaining that access to abortion was as much a matter of economic equality as women’s rights, she successfully championed state reimbursement for abortions.",
-      "recap_neutral": "Maintaining that access to abortion was as much a matter of economic equality as women’s rights, she successfully championed state reimbursement for abortions",
-      "main_idea": "Yvette Roudy, France’s First Minister for Women’s Rights, Dies at 97",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 22 Aug 2026 09:02:01 +0000",
-      "url": "https://www.nytimes.com/2026/08/22/world/europe/yvette-roudy-dead.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -1313,6 +1296,21 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "One night in Uzbekistan: Why was this one data point so influential?",
+      "title_neutral": "One night in Uzbekistan: Why was this one data point so influential?",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "One night in Uzbekistan: Why was this one data point so influential?",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 21 Aug 2026 19:05:50 +0000",
+      "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
