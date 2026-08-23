@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T22:46:11.410816+00:00",
+  "last_updated": "2026-08-23T23:15:41.709834+00:00",
   "items": [
     {
       "title_original": "Five Americans among seven killed in safari helicopter crash in Kenya",
@@ -81,6 +81,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Everything I own, owned",
+      "title_neutral": "Everything I own, owned",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Everything I own, owned",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 23 Aug 2026 22:41:04 +0000",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -365,15 +380,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The Vibe Tax",
-      "title_neutral": "The Vibe Tax",
+      "title_original": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+      "title_neutral": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "The Vibe Tax",
+      "main_idea": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Sun, 23 Aug 2026 18:31:02 +0000",
-      "url": "https://insufferable.dev/posts/vibe-tax/",
+      "published_at": "Sun, 23 Aug 2026 18:55:54 +0000",
+      "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -737,23 +752,6 @@
       "source": "Hacker News",
       "published_at": "Sun, 23 Aug 2026 14:24:21 +0000",
       "url": "https://earendil.com/posts/what-is-a-harness/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "title_neutral": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sun, 23 Aug 2026 14:23:09 +0000",
-      "url": "https://ericpardee.github.io/fire-hd-ownership/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -1313,6 +1311,87 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "ЛДПР предлагает выдавать образовательный кредит еще до зачисления в вуз",
+      "title_neutral": "ЛДПР предлагает выдавать образовательный кредит еще до зачисления в вуз",
+      "excerpt": "Лидер партии Леонид Слуцкий считает, что такой подход поможет молодым людям начать учебу без лишних барьеров",
+      "recap_neutral": "Лидер партии Леонид Слуцкий считает, что такой подход поможет молодым людям начать учебу без лишних барьеров",
+      "main_idea": "ЛДПР предлагает выдавать образовательный кредит еще до зачисления в вуз",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 24 Aug 2026 02:03:28 +0300",
+      "url": "https://tass.ru/obschestvo/28037831",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Боец Устюгов: ВСУ выкапывали выходы в земле, готовясь к бегству из Водянского",
+      "title_neutral": "Боец Устюгов: ВСУ выкапывали выходы в земле, готовясь к бегству из Водянского",
+      "excerpt": "Противник планировал уходить в соседний населенный пункт, рассказал военнослужащий",
+      "recap_neutral": "Противник планировал уходить в соседний населенный пункт, рассказал военнослужащий",
+      "main_idea": "Боец Устюгов: ВСУ выкапывали выходы в земле, готовясь к бегству из Водянского",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 24 Aug 2026 02:00:46 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28037829",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Краснодаре из-за БПЛА произошло возгорание на складских помещениях",
+      "title_neutral": "В Краснодаре из-за БПЛА произошло возгорание на складских помещениях",
+      "excerpt": "",
+      "recap_neutral": "В Краснодаре из-за БПЛА произошло возгорание на складских помещениях",
+      "main_idea": "В Краснодаре из-за БПЛА произошло возгорание на складских помещениях",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 24 Aug 2026 02:00:12 +0300",
+      "url": "https://tass.ru/proisshestviya/28037825",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Краснодаре при падении обломков БПЛА на детский сад погибли двое детей",
+      "title_neutral": "В Краснодаре при падении обломков БПЛА на детский сад погибли двое детей",
+      "excerpt": "Еще семь пострадали, также в больницах находятся двое взрослых",
+      "recap_neutral": "Еще семь пострадали, также в больницах находятся двое взрослых",
+      "main_idea": "В Краснодаре при падении обломков БПЛА на детский сад погибли двое детей",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 24 Aug 2026 01:58:47 +0300",
+      "url": "https://tass.ru/proisshestviya/28037823",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп признал, что высокие цены на бензин в США сохранятся в ближайшем будущем",
+      "title_neutral": "Трамп признал, что высокие цены на бензин в США сохранятся в ближайшем будущем",
+      "excerpt": "Американский президент заявил, что Вашингтон \"в сущности контролирует\" Ормузский пролив",
+      "recap_neutral": "Американский президент заявил, что Вашингтон \"в сущности контролирует\" Ормузский пролив",
+      "main_idea": "Трамп признал, что высокие цены на бензин в США сохранятся в ближайшем будущем",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 24 Aug 2026 01:46:20 +0300",
+      "url": "https://tass.ru/ekonomika/28037821",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Дмитриев отметил, что глобализм становится все более сатанинским",
       "title_neutral": "Дмитриев отметил, что глобализм становится все более сатанинским",
       "excerpt": "Глава РФПИ таким образом прокомментировал публикацию, где говорится о том, что глобалисты используют украинский конфликт для колонизации Украины",
@@ -1365,11 +1444,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Затруднений в проезде к пунктам досмотра на Крымском мосту нет",
-      "title_neutral": "Затруднений в проезде к пунктам досмотра на Крымском мосту нет",
-      "excerpt": "",
-      "recap_neutral": "Затруднений в проезде к пунктам досмотра на Крымском мосту нет",
-      "main_idea": "Затруднений в проезде к пунктам досмотра на Крымском мосту нет",
+      "title_original": "На Крымском мосту нет затруднений в проезде к пунктам досмотра",
+      "title_neutral": "На Крымском мосту нет затруднений в проезде к пунктам досмотра",
+      "excerpt": "Затруднения отсутствуют с обеих сторон",
+      "recap_neutral": "Затруднения отсутствуют с обеих сторон",
+      "main_idea": "На Крымском мосту нет затруднений в проезде к пунктам досмотра",
       "tags": [],
       "source": "ТАСС",
       "published_at": "Mon, 24 Aug 2026 01:38:56 +0300",
@@ -1471,84 +1550,6 @@
       "source": "ТАСС",
       "published_at": "Mon, 24 Aug 2026 01:07:15 +0300",
       "url": "https://tass.ru/nauka/28037797",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропортах Пензы, Саратова и Саранска сняли ограничения",
-      "title_neutral": "В аэропортах Пензы, Саратова и Саранска сняли ограничения",
-      "excerpt": "Их вводили для обеспечения безопасности полетов",
-      "recap_neutral": "Их вводили для обеспечения безопасности полетов",
-      "main_idea": "В аэропортах Пензы, Саратова и Саранска сняли ограничения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 24 Aug 2026 01:06:23 +0300",
-      "url": "https://tass.ru/ekonomika/28037801",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Боец Гурьянов: ВСУ потеряли до взвода солдат при попытке бегства из Водянского",
-      "title_neutral": "Боец Гурьянов: ВСУ потеряли до взвода солдат при попытке бегства из Водянского",
-      "excerpt": "Противник оттягивался мелкими разрозненными группами, отметил замкомандира батальона 5-й отдельной мотострелковой бригады имени первого главы ДНР Александра Захарченко группировки войск \"Центр\"",
-      "recap_neutral": "Противник оттягивался мелкими разрозненными группами, отметил замкомандира батальона 5-й отдельной мотострелковой бригады имени первого главы ДНР Александра Захарченко группировки войск \"Центр\"",
-      "main_idea": "Боец Гурьянов: ВСУ потеряли до взвода солдат при попытке бегства из Водянского",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 24 Aug 2026 01:02:33 +0300",
-      "url": "https://tass.ru/armiya-i-opk/28037795",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "NY Post сообщила о планах Трампа в сентябре посетить гольф-турнир в Ирландии",
-      "title_neutral": "NY Post сообщила о планах Трампа в сентябре посетить гольф-турнир в Ирландии",
-      "excerpt": "По информации газеты, поездка президента США в республику намечена на 12 и 13 сентября",
-      "recap_neutral": "По информации газеты, поездка президента США в республику намечена на 12 и 13 сентября",
-      "main_idea": "NY Post сообщила о планах Трампа в сентябре посетить гольф-турнир в Ирландии",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Mon, 24 Aug 2026 00:58:41 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28037793",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропорту Сочи ввели временные ограничения",
-      "title_neutral": "В аэропорту Сочи ввели временные ограничения",
-      "excerpt": "Они необходимы для обеспечения безопасности полетов",
-      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
-      "main_idea": "В аэропорту Сочи ввели временные ограничения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 24 Aug 2026 00:53:56 +0300",
-      "url": "https://tass.ru/ekonomika/28037787",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Кризис идей. Почему провал \"Зенита\" в матче со \"Спартаком\" не должен удивлять",
-      "title_neutral": "Кризис идей. Почему провал \"Зенита\" в матче со \"Спартаком\" не должен удивлять",
-      "excerpt": "Красно-белые в пятом туре РПЛ одержали победу со счетом 2:0",
-      "recap_neutral": "Красно-белые в пятом туре РПЛ одержали победу со счетом 2:0",
-      "main_idea": "Кризис идей. Почему провал \"Зенита\" в матче со \"Спартаком\" не должен удивлять",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Mon, 24 Aug 2026 00:53:35 +0300",
-      "url": "https://tass.ru/sport/28037781",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
