@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-08-29T13:54:32.694530+00:00",
+  "last_updated": "2026-08-29T17:28:23.180864+00:00",
   "items": [
-    {
-      "title_original": "Europe's last regular standard-gauge steam passenger service",
-      "title_neutral": "Europe's last regular standard-gauge steam passenger service",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Europe's last regular standard-gauge steam passenger service",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 26 Aug 2026 22:32:00 +0000",
-      "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
-      "title_neutral": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 26 Aug 2026 15:22:48 +0000",
-      "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
     {
       "title_original": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
       "title_neutral": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
@@ -46,6 +16,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+      "title_neutral": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 26 Aug 2026 11:33:31 +0000",
+      "url": "https://typebase.io",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -67,6 +52,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "EVE Online moves to Python 3",
+      "title_neutral": "EVE Online moves to Python 3",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "EVE Online moves to Python 3",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 25 Aug 2026 13:04:55 +0000",
+      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
       "title_neutral": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
       "excerpt": "Lawyers claim Eman el-Shazly, from Birmingham, was detained in effort to silence her sister, a critic of Sisi regime The UK Foreign Office has been asked to intervene to secure the release of a British-Egyptian woman who it is claimed has been arrested in Cairo because of her sister’s political act…",
@@ -84,248 +84,280 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Спецназовцы \"Ахмата\" уничтожили позиции ВСУ на харьковском направлении",
-      "title_neutral": "Спецназовцы \"Ахмата\" уничтожили позиции ВСУ на харьковском направлении",
-      "excerpt": "Как заявил глава Чечни Рамзан Кадыров, своевременное выявление и поражение таких укреплений снижает устойчивость обороны противника",
-      "recap_neutral": "Как заявил глава Чечни Рамзан Кадыров, своевременное выявление и поражение таких укреплений снижает устойчивость обороны противника",
-      "main_idea": "Спецназовцы \"Ахмата\" уничтожили позиции ВСУ на харьковском направлении",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 29 Aug 2026 16:50:56 +0300",
-      "url": "https://tass.ru/armiya-i-opk/28056959",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Футболист \"Зенита\" Дивеев пропустит матч с ЦСКА из-за дисквалификации",
-      "title_neutral": "Футболист \"Зенита\" Дивеев пропустит матч с ЦСКА из-за дисквалификации",
-      "excerpt": "Защитник получил красную карточку в игре РПЛ с \"Факелом\"",
-      "recap_neutral": "Защитник получил красную карточку в игре РПЛ с \"Факелом\"",
-      "main_idea": "Футболист \"Зенита\" Дивеев пропустит матч с ЦСКА из-за дисквалификации",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 29 Aug 2026 16:50:48 +0300",
-      "url": "https://tass.ru/sport/28056963",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "РБК-Украина: замглавы офиса Зеленского Палиса отказался от должности посла в США",
-      "title_neutral": "РБК-Украина: замглавы офиса Зеленского Палиса отказался от должности посла в США",
-      "excerpt": "Он сослался на то, что по закону не может одновременно нести и военную, и дипломатическую службу",
-      "recap_neutral": "Он сослался на то, что по закону не может одновременно нести и военную, и дипломатическую службу",
-      "main_idea": "РБК-Украина: замглавы офиса Зеленского Палиса отказался от должности посла в США",
+      "title_original": "Telegraph: РФ заблокировала черноморские порты Украины с помощью ракеты \"Бандероль\"",
+      "title_neutral": "Telegraph: РФ заблокировала черноморские порты Украины с помощью ракеты \"Бандероль\"",
+      "excerpt": "В портах Черноморска и Одессы коммерческое судоходство практически полностью прекратилось, пишет издание",
+      "recap_neutral": "В портах Черноморска и Одессы коммерческое судоходство практически полностью прекратилось, пишет издание",
+      "main_idea": "Telegraph: РФ заблокировала черноморские порты Украины с помощью ракеты \"Бандероль\"",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 29 Aug 2026 16:49:47 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28056961",
+      "published_at": "Sat, 29 Aug 2026 20:26:10 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28057201",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Депутат Боярский: \"Википедия\" пока обходится штрафами за нарушение законов РФ",
-      "title_neutral": "Депутат Боярский: \"Википедия\" пока обходится штрафами за нарушение законов РФ",
+      "title_original": "Дания приостановила выдачу ВНЖ украинцам мобилизационного возраста",
+      "title_neutral": "Дания приостановила выдачу ВНЖ украинцам мобилизационного возраста",
+      "excerpt": "Предложение правительства принято 98 голосами против 11",
+      "recap_neutral": "Предложение правительства принято 98 голосами против 11",
+      "main_idea": "Дания приостановила выдачу ВНЖ украинцам мобилизационного возраста",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 29 Aug 2026 20:23:10 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28057199",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Футболист Батраков впервые вошел в заявку \"Галатасарая\" на матч",
+      "title_neutral": "Футболист Батраков впервые вошел в заявку \"Галатасарая\" на матч",
       "excerpt": "",
-      "recap_neutral": "Депутат Боярский: \"Википедия\" пока обходится штрафами за нарушение законов РФ",
-      "main_idea": "Депутат Боярский: \"Википедия\" пока обходится штрафами за нарушение законов РФ",
+      "recap_neutral": "Футболист Батраков впервые вошел в заявку \"Галатасарая\" на матч",
+      "main_idea": "Футболист Батраков впервые вошел в заявку \"Галатасарая\" на матч",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 29 Aug 2026 16:46:16 +0300",
-      "url": "https://tass.ru/obschestvo/28056957",
+      "published_at": "Sat, 29 Aug 2026 20:20:43 +0300",
+      "url": "https://tass.ru/sport/28057197",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Белгородской области из-за ударов ВСУ пострадали семь человек",
-      "title_neutral": "В Белгородской области из-за ударов ВСУ пострадали семь человек",
-      "excerpt": "Среди них двое подростков и пятеро взрослых",
-      "recap_neutral": "Среди них двое подростков и пятеро взрослых",
-      "main_idea": "В Белгородской области из-за ударов ВСУ пострадали семь человек",
+      "title_original": "Фицо прокомментировал вопрос журналиста FAZ об убийстве русских",
+      "title_neutral": "Фицо прокомментировал вопрос журналиста FAZ об убийстве русских",
+      "excerpt": "Его слова являются результатом формирования атмосферы ненависти к России, заявил премьер-министр Словакии",
+      "recap_neutral": "Его слова являются результатом формирования атмосферы ненависти к России, заявил премьер-министр Словакии",
+      "main_idea": "Фицо прокомментировал вопрос журналиста FAZ об убийстве русских",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 29 Aug 2026 20:20:18 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28057189",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Минтранс не намерен снимать ограничения на движение малых судов по Неве ночью",
+      "title_neutral": "Минтранс не намерен снимать ограничения на движение малых судов по Неве ночью",
+      "excerpt": "Они вступили в силу с 1 марта",
+      "recap_neutral": "Они вступили в силу с 1 марта",
+      "main_idea": "Минтранс не намерен снимать ограничения на движение малых судов по Неве ночью",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 29 Aug 2026 20:18:59 +0300",
+      "url": "https://tass.ru/ekonomika/28057195",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Кабардино-Балкарии в экоакции \"Вода России\" приняли участие больше 200 человек",
+      "title_neutral": "В Кабардино-Балкарии в экоакции \"Вода России\" приняли участие больше 200 человек",
+      "excerpt": "Активисты убрали мусор с территории 4,5 км",
+      "recap_neutral": "Активисты убрали мусор с территории 4,5 км",
+      "main_idea": "В Кабардино-Балкарии в экоакции \"Вода России\" приняли участие больше 200 человек",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 29 Aug 2026 20:15:59 +0300",
+      "url": "https://tass.ru/obschestvo/28057153",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Швейцарии 2 тыс. человек вышли на акцию за нейтралитет и против санкций",
+      "title_neutral": "В Швейцарии 2 тыс. человек вышли на акцию за нейтралитет и против санкций",
+      "excerpt": "По словам протестующих, рестрикции, введенные в том числе против России, не только представляют собой серьезное нарушение международного права, но и по своим последствиям сопоставимы с оружием массового поражения, поскольку страдают от них прежде всего рядовые жители",
+      "recap_neutral": "По словам протестующих, рестрикции, введенные в том числе против России, не только представляют собой серьезное нарушение международного права, но и по своим последствиям сопоставимы с оружием массового поражения, поско…",
+      "main_idea": "В Швейцарии 2 тыс. человек вышли на акцию за нейтралитет и против санкций",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 29 Aug 2026 20:15:09 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28057193",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Итальянская партия раскритиковала назначение Федорова советником главы МО",
+      "title_neutral": "Итальянская партия раскритиковала назначение Федорова советником главы МО",
+      "excerpt": "\"Национальное будущее\" задалось вопросом, чьи интересы отстаивает итальянское правительство",
+      "recap_neutral": "\"Национальное будущее\" задалось вопросом, чьи интересы отстаивает итальянское правительство",
+      "main_idea": "Итальянская партия раскритиковала назначение Федорова советником главы МО",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 29 Aug 2026 20:12:14 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28057191",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Guardian: июль стал рекордным по выходу ИИ-агентов из-под контроля",
+      "title_neutral": "Guardian: июль стал рекордным по выходу ИИ-агентов из-под контроля",
+      "excerpt": "Ученые раскрыли \"тревожный инцидент\", связанный с атакой на платформу машинного обучения Hugging Face, в ходе которой более 700 автономных агентов OpenAI, выйдя из-под контроля, продолжали тайно координировать свои действия в созданном ими закрытом мессенджере, пишет газета",
+      "recap_neutral": "Ученые раскрыли \"тревожный инцидент\", связанный с атакой на платформу машинного обучения Hugging Face, в ходе которой более 700 автономных агентов OpenAI, выйдя из-под контроля, продолжали тайно координировать свои дейс…",
+      "main_idea": "Guardian: июль стал рекордным по выходу ИИ-агентов из-под контроля",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 29 Aug 2026 20:09:56 +0300",
+      "url": "https://tass.ru/obschestvo/28057181",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Сербии протестующие пытались сорвать митинг сторонников Вучича",
+      "title_neutral": "В Сербии протестующие пытались сорвать митинг сторонников Вучича",
+      "excerpt": "Пострадал оператор Радио и телевидения Сербии, сообщил вице-премьер, глава МВД Ивица Дачич",
+      "recap_neutral": "Пострадал оператор Радио и телевидения Сербии, сообщил вице-премьер, глава МВД Ивица Дачич",
+      "main_idea": "В Сербии протестующие пытались сорвать митинг сторонников Вучича",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 29 Aug 2026 20:06:38 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28057171",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Бывший арбитр Федотов оценил пенальти в матче \"Факел\" - \"Зенит\"",
+      "title_neutral": "Бывший арбитр Федотов оценил пенальти в матче \"Факел\" - \"Зенит\"",
+      "excerpt": "По мнению Игоря Федотова, следует поддержать решение главного судьи встречи Антона Фролова",
+      "recap_neutral": "По мнению Игоря Федотова, следует поддержать решение главного судьи встречи Антона Фролова",
+      "main_idea": "Бывший арбитр Федотов оценил пенальти в матче \"Факел\" - \"Зенит\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 29 Aug 2026 20:04:51 +0300",
+      "url": "https://tass.ru/sport/28057185",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Гросси: ЗАЭС грозит отключение электроснабжения примерно через 10 дней",
+      "title_neutral": "Гросси: ЗАЭС грозит отключение электроснабжения примерно через 10 дней",
+      "excerpt": "Предыдущая поставка на топливное хранилище за пределами станции состоялась в марте, а запланированная на май поставка была отложена из-за боевых действий в этом районе",
+      "recap_neutral": "Предыдущая поставка на топливное хранилище за пределами станции состоялась в марте, а запланированная на май поставка была отложена из-за боевых действий в этом районе",
+      "main_idea": "Гросси: ЗАЭС грозит отключение электроснабжения примерно через 10 дней",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 29 Aug 2026 20:04:01 +0300",
+      "url": "https://tass.ru/ekonomika/28057183",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Российский Ил-76 сбросил более 210 тонн воды на очаги пожаров в Сербии",
+      "title_neutral": "Российский Ил-76 сбросил более 210 тонн воды на очаги пожаров в Сербии",
+      "excerpt": "Как сообщили в МЧС, экипаж самолета работал при сложных погодных и ландшафтных условиях",
+      "recap_neutral": "Как сообщили в МЧС, экипаж самолета работал при сложных погодных и ландшафтных условиях",
+      "main_idea": "Российский Ил-76 сбросил более 210 тонн воды на очаги пожаров в Сербии",
+      "tags": [
+        "tech",
+        "climate"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 29 Aug 2026 20:01:40 +0300",
+      "url": "https://tass.ru/proisshestviya/28057175",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Факел\" обратится в ЭСК по итогам матча с \"Зенитом\"",
+      "title_neutral": "\"Факел\" обратится в ЭСК по итогам матча с \"Зенитом\"",
+      "excerpt": "Воронежская команда проиграла со счетом 0:1, пропустив гол с пенальти в концовке встречи",
+      "recap_neutral": "Воронежская команда проиграла со счетом 0:1, пропустив гол с пенальти в концовке встречи",
+      "main_idea": "\"Факел\" обратится в ЭСК по итогам матча с \"Зенитом\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 29 Aug 2026 19:55:52 +0300",
+      "url": "https://tass.ru/sport/28057169",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Белгородской области из-за атаки беспилотников ВСУ пострадали два человека",
+      "title_neutral": "В Белгородской области из-за атаки беспилотников ВСУ пострадали два человека",
+      "excerpt": "В их числе подросток",
+      "recap_neutral": "В их числе подросток",
+      "main_idea": "В Белгородской области из-за атаки беспилотников ВСУ пострадали два человека",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 29 Aug 2026 16:43:23 +0300",
-      "url": "https://tass.ru/proisshestviya/28056953",
+      "published_at": "Sat, 29 Aug 2026 19:55:14 +0300",
+      "url": "https://tass.ru/proisshestviya/28057163",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "TRT Haber: посла Украины вызвали в МИД Турции из-за обстрела турецкого судна",
-      "title_neutral": "TRT Haber: посла Украины вызвали в МИД Турции из-за обстрела турецкого судна",
-      "excerpt": "Телеканал не привел подробностей",
-      "recap_neutral": "Телеканал не привел подробностей",
-      "main_idea": "TRT Haber: посла Украины вызвали в МИД Турции из-за обстрела турецкого судна",
+      "title_original": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "title_neutral": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "excerpt": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+      "recap_neutral": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE)",
+      "main_idea": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 29 Aug 2026 16:43:08 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28056951",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Sat, 29 Aug 2026 17:25:01 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Лукашенко: Белоруссия и РФ не останутся \"голыми\" в сфере микроэлектроники",
-      "title_neutral": "Лукашенко: Белоруссия и РФ не останутся \"голыми\" в сфере микроэлектроники",
-      "excerpt": "Президент республики подчеркнул, что страны поддерживают высокий уровень кооперации в этом секторе",
-      "recap_neutral": "Президент республики подчеркнул, что страны поддерживают высокий уровень кооперации в этом секторе",
-      "main_idea": "Лукашенко: Белоруссия и РФ не останутся \"голыми\" в сфере микроэлектроники",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 29 Aug 2026 16:42:48 +0300",
-      "url": "https://tass.ru/ekonomika/28056949",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Непале спасли 241 туриста",
-      "title_neutral": "В Непале спасли 241 туриста",
-      "excerpt": "Еще 320 до сих пор не вышли на связь, сообщил Совет по туризму",
-      "recap_neutral": "Еще 320 до сих пор не вышли на связь, сообщил Совет по туризму",
-      "main_idea": "В Непале спасли 241 туриста",
+      "title_original": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
+      "title_neutral": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
+      "excerpt": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.",
+      "recap_neutral": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation",
+      "main_idea": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 29 Aug 2026 16:40:12 +0300",
-      "url": "https://tass.ru/proisshestviya/28056947",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Врачи скорой помощи приняли роды у москвички в лифте",
-      "title_neutral": "Врачи скорой помощи приняли роды у москвички в лифте",
-      "excerpt": "Женщину и ребенка доставили в НИИ Скорой помощи имени Склифосовского",
-      "recap_neutral": "Женщину и ребенка доставили в НИИ Скорой помощи имени Склифосовского",
-      "main_idea": "Врачи скорой помощи приняли роды у москвички в лифте",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 29 Aug 2026 16:35:56 +0300",
-      "url": "https://tass.ru/obschestvo/28056945",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Москва направит в Вологодскую область 29 единиц коммунальной техники для уборки",
-      "title_neutral": "Москва направит в Вологодскую область 29 единиц коммунальной техники для уборки",
-      "excerpt": "Ее распределят между муниципалитетами",
-      "recap_neutral": "Ее распределят между муниципалитетами",
-      "main_idea": "Москва направит в Вологодскую область 29 единиц коммунальной техники для уборки",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 29 Aug 2026 16:30:20 +0300",
-      "url": "https://tass.ru/obschestvo/28056941",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Павловском Посаде загорелся склад на территории механического завода",
-      "title_neutral": "В Павловском Посаде загорелся склад на территории механического завода",
-      "excerpt": "Предварительная площадь пожара составляет 1 тыс. кв. м",
-      "recap_neutral": "Предварительная площадь пожара составляет 1 тыс",
-      "main_idea": "В Павловском Посаде загорелся склад на территории механического завода",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 29 Aug 2026 16:24:29 +0300",
-      "url": "https://tass.ru/proisshestviya/28056939",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Пресс-секретарь Лукашенко заявила, что Минск готов чаще принимать Путина",
-      "title_neutral": "Пресс-секретарь Лукашенко заявила, что Минск готов чаще принимать Путина",
-      "excerpt": "Наталья Эйсмонт добавила, что спектр вопросов и мероприятий для президентов России и Белоруссии есть",
-      "recap_neutral": "Наталья Эйсмонт добавила, что спектр вопросов и мероприятий для президентов России и Белоруссии есть",
-      "main_idea": "Пресс-секретарь Лукашенко заявила, что Минск готов чаще принимать Путина",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 29 Aug 2026 16:18:14 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28056937",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Депутат Рады Гончаренко поинтересовался, как Федорова выпустили с Украины",
-      "title_neutral": "Депутат Рады Гончаренко поинтересовался, как Федорова выпустили с Украины",
-      "excerpt": "Политик указал на то, что бывший министр обороны является хранителем гостайны и не мог так быстро пройти процедуру получения разрешения на выезд из страны",
-      "recap_neutral": "Политик указал на то, что бывший министр обороны является хранителем гостайны и не мог так быстро пройти процедуру получения разрешения на выезд из страны",
-      "main_idea": "Депутат Рады Гончаренко поинтересовался, как Федорова выпустили с Украины",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 29 Aug 2026 16:15:43 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28056931",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропорту Геленджика второй раз за день ввели ограничения",
-      "title_neutral": "В аэропорту Геленджика второй раз за день ввели ограничения",
-      "excerpt": "Они необходимы для обеспечения безопасности полетов",
-      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
-      "main_idea": "В аэропорту Геленджика второй раз за день ввели ограничения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 29 Aug 2026 16:15:41 +0300",
-      "url": "https://tass.ru/ekonomika/28056935",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Новосибирской области из-за стрельбы на охоте погиб человек",
-      "title_neutral": "В Новосибирской области из-за стрельбы на охоте погиб человек",
-      "excerpt": "Еще двое получили ранения",
-      "recap_neutral": "Еще двое получили ранения",
-      "main_idea": "В Новосибирской области из-за стрельбы на охоте погиб человек",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 29 Aug 2026 16:14:53 +0300",
-      "url": "https://tass.ru/proisshestviya/28056923",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sat, 29 Aug 2026 17:04:01 +0000",
+      "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -340,11 +372,56 @@
         "tech"
       ],
       "source": "BBC World",
-      "published_at": "Sat, 29 Aug 2026 13:16:43 GMT",
+      "published_at": "Sat, 29 Aug 2026 16:15:56 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Nancy Grace Roman Space Telescope",
+      "title_neutral": "Nancy Grace Roman Space Telescope",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Nancy Grace Roman Space Telescope",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 29 Aug 2026 15:48:02 +0000",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Quantifying Colour",
+      "title_neutral": "Quantifying Colour",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Quantifying Colour",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 29 Aug 2026 15:43:53 +0000",
+      "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
+      "title_neutral": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
+      "excerpt": "A few years ago, some feared the European Union was going out of style. Now Iceland is mulling membership alongside a long list of candidates.",
+      "recap_neutral": "A few years ago, some feared the European Union was going out of style",
+      "main_idea": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sat, 29 Aug 2026 15:32:21 +0000",
+      "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -358,7 +435,7 @@
         "tech"
       ],
       "source": "BBC World",
-      "published_at": "Sat, 29 Aug 2026 12:55:39 GMT",
+      "published_at": "Sat, 29 Aug 2026 15:27:56 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
@@ -366,17 +443,52 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "37 Killed Near Kyiv as Russian Drone Blitz Exposes Air Defense Gap",
-      "title_neutral": "37 Killed Near Kyiv as Russian Drone Blitz Exposes Air Defense Gap",
-      "excerpt": "The strike, on a warehouse near Ukraine’s capital, came after days of attacks that strained air defenses and struck fear in civilians.",
-      "recap_neutral": "The strike, on a warehouse near Ukraine’s capital, came after days of attacks that strained air defenses and struck fear in civilians",
-      "main_idea": "37 Killed Near Kyiv as Russian Drone Blitz Exposes Air Defense Gap",
+      "title_original": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+      "title_neutral": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
       "tags": [
+        "conflict"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sat, 29 Aug 2026 15:26:28 +0000",
+      "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How I Built a Production-Ready AI Agent on PHP, cPanel, and Gemini Flash",
+      "title_neutral": "How I Built a Production-Ready AI Agent on PHP, cPanel, and Gemini Flash",
+      "excerpt": "How I built a production-ready AI agent with PHP, MySQL, Gemini Flash, and cPanel—covering architecture, tools, memory, and deployment.",
+      "recap_neutral": "How I built a production-ready AI agent with PHP, MySQL, Gemini Flash, and cPanel—covering architecture, tools, memory, and deployment",
+      "main_idea": "How I Built a Production-Ready AI Agent on PHP, cPanel, and Gemini Flash",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sat, 29 Aug 2026 15:00:20 GMT",
+      "url": "https://hackernoon.com/how-i-built-a-production-ready-ai-agent-on-php-cpanel-and-gemini-flash?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
+      "title_neutral": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
+      "excerpt": "The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said.",
+      "recap_neutral": "The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said",
+      "main_idea": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
+      "tags": [
+        "politics",
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sat, 29 Aug 2026 12:15:06 +0000",
+      "published_at": "Sat, 29 Aug 2026 14:40:22 +0000",
       "url": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
       "lang": "en",
       "bias_score": 55,
@@ -384,44 +496,95 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iceland votes on whether to restart talks on joining EU",
-      "title_neutral": "Iceland votes on whether to restart talks on joining EU",
+      "title_original": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "title_neutral": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Iceland votes on whether to restart talks on joining EU",
+      "main_idea": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Sat, 29 Aug 2026 11:39:38 +0000",
-      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "published_at": "Sat, 29 Aug 2026 14:20:33 +0000",
+      "url": "https://uecker.codeberg.page/2026-08-29.html",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods",
-      "title_neutral": "‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods",
-      "excerpt": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.",
-      "recap_neutral": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation",
-      "main_idea": "‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sat, 29 Aug 2026 10:12:23 +0000",
-      "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+      "title_original": "Debian votes to allow \"responsible use of generative AI\"",
+      "title_neutral": "Debian votes to allow \"responsible use of generative AI\"",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Debian votes to allow \"responsible use of generative AI\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sat, 29 Aug 2026 14:02:10 +0000",
+      "url": "https://lwn.net/Articles/1091231/",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "They laid down arms. Now ex-guerrillas in Colombia fear fate under new hardline president",
-      "title_neutral": "They laid down arms. Now ex-guerrillas in Colombia fear fate under new hardline president",
-      "excerpt": "‘Total peace’ plan of previous government led only 99 of Colombia’s 30,000 armed combatants to disarm, but new president Abelardo De la Espriella opposes peace agreements In mid-June, 99 guerrilla fighters were flown by helicopter to a small settlement in a rural area of southern Colombia where the…",
-      "recap_neutral": "‘Total peace’ plan of previous government led only 99 of Colombia’s 30,000 armed combatants to disarm, but new president Abelardo De la Espriella opposes peace agreements In mid-June, 99 guerrilla fighters were flown by…",
-      "main_idea": "They laid down arms. Now ex-guerrillas in Colombia fear fate under new hardline president",
+      "title_original": "The TechBeat: I Launched Two Similar Job Boards: Google Indexed One and Rejected the Other (8/29/2026)",
+      "title_neutral": "The TechBeat: I Launched Two Similar Job Boards: Google Indexed One and Rejected the Other (8/29/2026)",
+      "excerpt": "8/29/2026: Trending stories on Hackernoon today!",
+      "recap_neutral": "8/29/2026: Trending stories on Hackernoon today!",
+      "main_idea": "The TechBeat: I Launched Two Similar Job Boards: Google Indexed One and Rejected the Other (8/29/2026)",
       "tags": [
-        "politics",
         "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sat, 29 Aug 2026 14:00:50 GMT",
+      "url": "https://hackernoon.com/8-29-2026-techbeat?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+      "title_neutral": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+      "excerpt": "The deadly strike comes amid 72 hours of near constant drone strikes across Ukraine, severely disrupting daily life.",
+      "recap_neutral": "The deadly strike comes amid 72 hours of near constant drone strikes across Ukraine, severely disrupting daily life",
+      "main_idea": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 29 Aug 2026 11:54:40 -0400",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Photos: See the aftermath of deadly flash floods in Nepal",
+      "title_neutral": "Photos: See the aftermath of deadly flash floods in Nepal",
+      "excerpt": "Nepal officials say the death toll has continues to rise in Wednesday's floods that washed away communities in Nepal and Tibet, which is held by China. About 2,500 people are missing in both areas.",
+      "recap_neutral": "Nepal officials say the death toll has continues to rise in Wednesday's floods that washed away communities in Nepal and Tibet, which is held by China",
+      "main_idea": "Photos: See the aftermath of deadly flash floods in Nepal",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sat, 29 Aug 2026 10:22:19 -0400",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
+      "title_neutral": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
+      "excerpt": "Fighters in legal limbo after accepting ‘total peace’ plan of Petro government just days before hardliner Abelardo De la Espriella took over In mid-June, 99 guerrilla fighters were flown by helicopter to a small settlement in a rural area of southern Colombia where they lined up and, one by one, ha…",
+      "recap_neutral": "Fighters in legal limbo after accepting ‘total peace’ plan of Petro government just days before hardliner Abelardo De la Espriella took over In mid-June, 99 guerrilla fighters were flown by helicopter to a small settlem…",
+      "main_idea": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
+      "tags": [
+        "politics"
       ],
       "source": "The Guardian",
       "published_at": "Sat, 29 Aug 2026 10:00:24 GMT",
@@ -547,21 +710,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
-      "title_neutral": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
-      "excerpt": "A few years ago, some feared the European Union was going out of style. Now Iceland is mulling membership alongside a long list of candidates.",
-      "recap_neutral": "A few years ago, some feared the European Union was going out of style",
-      "main_idea": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sat, 29 Aug 2026 07:09:16 +0000",
-      "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -721,38 +869,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "TurboKV: Insanely fast Rust key-value store",
-      "title_neutral": "TurboKV: Insanely fast Rust key-value store",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "TurboKV: Insanely fast Rust key-value store",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 29 Aug 2026 02:23:37 +0000",
-      "url": "https://github.com/kingroryg/turbokv",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "StemDeck, a free, open-source and local AI stem separator",
-      "title_neutral": "StemDeck, a free, open-source and local AI stem separator",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "StemDeck, a free, open-source and local AI stem separator",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 29 Aug 2026 01:24:13 +0000",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Close race as Iceland votes on whether to restart talks on joining EU",
       "title_neutral": "Close race as Iceland votes on whether to restart talks on joining EU",
       "excerpt": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
@@ -771,23 +887,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "title_neutral": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "excerpt": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
-      "recap_neutral": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past",
-      "main_idea": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 29 Aug 2026 00:46:02 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
       "title_neutral": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
       "excerpt": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
@@ -800,6 +899,21 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "SQLite as a Document Database (2020)",
+      "title_neutral": "SQLite as a Document Database (2020)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "SQLite as a Document Database (2020)",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 24 Aug 2026 23:00:10 +0000",
+      "url": "https://dgl.cx/2020/06/sqlite-json-support",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -827,6 +941,21 @@
       "source": "Hacker News",
       "published_at": "Mon, 24 Aug 2026 14:44:20 +0000",
       "url": "https://galaxium.app",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Tether: iMessage, SMS, etc. on Linux",
+      "title_neutral": "Tether: iMessage, SMS, etc. on Linux",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Tether: iMessage, SMS, etc. on Linux",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 24 Aug 2026 05:09:23 +0000",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -920,21 +1049,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "I accidentally turned LLM memory into program analysis",
-      "title_neutral": "I accidentally turned LLM memory into program analysis",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "I accidentally turned LLM memory into program analysis",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 28 Aug 2026 23:27:45 +0000",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "lang": "en",
-      "bias_score": 40,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1197,21 +1311,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Just the rumour of a bug is enough to find an exploit these days",
-      "title_neutral": "Just the rumour of a bug is enough to find an exploit these days",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Just the rumour of a bug is enough to find an exploit these days",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 28 Aug 2026 15:58:46 +0000",
-      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "At least 93,000 ‘in great need’ after Nepal-Tibet flash floods, says Red Cross",
       "title_neutral": "At least 93,000 ‘in great need’ after Nepal-Tibet flash floods, says Red Cross",
       "excerpt": "Federation says it fears death toll of nearly 600 will continue to rise as rescuers reach cut-off areas Nepal-Tibet flash flood – latest updates Visual guide: how the deadly flooding unfolded Tell us: have you been affected by the flash floods? The Red Cross has said at least 93,000 people may have…",
@@ -1241,24 +1340,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "After 6 months of war, Iran's battered regime remains entrenched",
-      "title_neutral": "After 6 months of war, Iran's battered regime remains entrenched",
-      "excerpt": "Instead of collapsing, the Iranian regime has dug in its heels and taken an even harder line.",
-      "recap_neutral": "Instead of collapsing, the Iranian regime has dug in its heels and taken an even harder line",
-      "main_idea": "After 6 months of war, Iran's battered regime remains entrenched",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 28 Aug 2026 15:35:24 -0400",
-      "url": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1310,6 +1391,21 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Creating the Aetheryte Radio",
+      "title_neutral": "Creating the Aetheryte Radio",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Creating the Aetheryte Radio",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 28 Aug 2026 14:59:15 +0000",
+      "url": "https://haz.ee/posts/aetheryte-radio.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1431,36 +1527,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Slice's Maor Levran on Why Equity Breaks at the Grant and Goes Undetected for Years",
-      "title_neutral": "Slice's Maor Levran on Why Equity Breaks at the Grant and Goes Undetected for Years",
-      "excerpt": "Slice CEO Maor Levran on why cross-border equity breaks at the grant, why nobody finds out for years and what a compliance-first rules engine changes.",
-      "recap_neutral": "Slice CEO Maor Levran on why cross-border equity breaks at the grant, why nobody finds out for years and what a compliance-first rules engine changes",
-      "main_idea": "Slice's Maor Levran on Why Equity Breaks at the Grant and Goes Undetected for Years",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Fri, 28 Aug 2026 13:31:15 GMT",
-      "url": "https://hackernoon.com/slices-maor-levran-on-why-equity-breaks-at-the-grant-and-goes-undetected-for-years?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Htmx 4.0",
-      "title_neutral": "Htmx 4.0",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Htmx 4.0",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 28 Aug 2026 13:28:56 +0000",
-      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "USS Abraham Lincoln to visit port in Thailand after more than 250 days at sea",
       "title_neutral": "USS Abraham Lincoln to visit port in Thailand after more than 250 days at sea",
       "excerpt": "Thai navy says ‘routine’ visit’ will allow personnel to rest and recuperate amid reports of poor conditions onboard The USS Abraham Lincoln aircraft carrier is set to make a temporary stop in Thailand next week as it heads back to the United States, Thai navy officials said, after spending more tha…",
@@ -1475,57 +1541,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "U.S. sanctions against the A/I Collective",
-      "title_neutral": "U.S. sanctions against the A/I Collective",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "U.S. sanctions against the A/I Collective",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Fri, 28 Aug 2026 12:58:53 +0000",
-      "url": "https://www.inventati.org/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Inception-style curved map for turn-by-turn directions",
-      "title_neutral": "Inception-style curved map for turn-by-turn directions",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Inception-style curved map for turn-by-turn directions",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 28 Aug 2026 12:29:05 +0000",
-      "url": "https://www.orbify.eu/demo/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
-      "title_neutral": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
-      "excerpt": "Fed Chair Kevin Warsh reiterated his commitment to fighting inflation in a major speech — raising expectations that rate hikes may be coming, though he did not clearly spell out a path going forward.",
-      "recap_neutral": "Fed Chair Kevin Warsh reiterated his commitment to fighting inflation in a major speech — raising expectations that rate hikes may be coming, though he did not clearly spell out a path going forward",
-      "main_idea": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
-      "tags": [
-        "economy",
-        "conflict",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 28 Aug 2026 12:05:40 -0400",
-      "url": "https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1578,23 +1593,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Your Product May Be Running on Expired Assumptions",
-      "title_neutral": "Your Product May Be Running on Expired Assumptions",
-      "excerpt": "Product rot happens when old assumptions stay embedded in features long after user behavior, markets or competitors have changed.",
-      "recap_neutral": "Product rot happens when old assumptions stay embedded in features long after user behavior, markets or competitors have changed",
-      "main_idea": "Your Product May Be Running on Expired Assumptions",
-      "tags": [
-        "economy"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 28 Aug 2026 10:34:34 GMT",
-      "url": "https://hackernoon.com/your-product-may-be-running-on-expired-assumptions?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
