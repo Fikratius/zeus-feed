@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-09-06T17:12:53.795151+00:00",
+  "last_updated": "2026-09-06T19:22:10.256847+00:00",
   "items": [
-    {
-      "title_original": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
-      "title_neutral": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 02 Sep 2026 20:58:45 +0000",
-      "url": "https://blog.ydb.tech/is-there-i-o-after-death-what-happens-to-io-uring-when-a-process-dies-92c65354873f?postPublishedType=repub",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
     {
       "title_original": "Electronic skin for prosthetics to sense temperature and pressure",
       "title_neutral": "Electronic skin for prosthetics to sense temperature and pressure",
@@ -117,249 +102,392 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Вайдель заявила об историческом результате АдГ на выборах в Саксонии-Анхальт",
-      "title_neutral": "Вайдель заявила об историческом результате АдГ на выборах в Саксонии-Анхальт",
-      "excerpt": "Партия получила мандат на формирование регионального правительства, указала сопредседатель",
-      "recap_neutral": "Партия получила мандат на формирование регионального правительства, указала сопредседатель",
-      "main_idea": "Вайдель заявила об историческом результате АдГ на выборах в Саксонии-Анхальт",
+      "title_original": "Двое погибших и трое пострадавших. Что известно о сходе лавины в горах КБР",
+      "title_neutral": "Двое погибших и трое пострадавших. Что известно о сходе лавины в горах КБР",
+      "excerpt": "Судьба еще 10 человек остается неизвестной",
+      "recap_neutral": "Судьба еще 10 человек остается неизвестной",
+      "main_idea": "Двое погибших и трое пострадавших. Что известно о сходе лавины в горах КБР",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 06 Sep 2026 22:18:48 +0300",
+      "url": "https://tass.ru/proisshestviya/28085399",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Тела погибших в ущелье КБР эвакуируют с наступлением светлого времени суток",
+      "title_neutral": "Тела погибших в ущелье КБР эвакуируют с наступлением светлого времени суток",
+      "excerpt": "Предположительно, их заберут 7 сентября",
+      "recap_neutral": "Предположительно, их заберут 7 сентября",
+      "main_idea": "Тела погибших в ущелье КБР эвакуируют с наступлением светлого времени суток",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 06 Sep 2026 22:18:26 +0300",
+      "url": "https://tass.ru/obschestvo/28085403",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Глава \"Венгерского круга мира\" призвал Мадьяра не рассматривать РФ как угрозу",
+      "title_neutral": "Глава \"Венгерского круга мира\" призвал Мадьяра не рассматривать РФ как угрозу",
+      "excerpt": "Эндре Шимо попросил премьер-министра о личной встрече для обсуждения этого вопроса",
+      "recap_neutral": "Эндре Шимо попросил премьер-министра о личной встрече для обсуждения этого вопроса",
+      "main_idea": "Глава \"Венгерского круга мира\" призвал Мадьяра не рассматривать РФ как угрозу",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 06 Sep 2026 22:18:14 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28085401",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В 39 населенных пунктах Самарской области нарушено водоснабжение",
+      "title_neutral": "В 39 населенных пунктах Самарской области нарушено водоснабжение",
+      "excerpt": "Это произошло из-за повреждения водовода",
+      "recap_neutral": "Это произошло из-за повреждения водовода",
+      "main_idea": "В 39 населенных пунктах Самарской области нарушено водоснабжение",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 06 Sep 2026 22:04:24 +0300",
+      "url": "https://tass.ru/proisshestviya/28085397",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Шварц назвал занозой проигранный финал \"Спартаку\" в Кубке России в 2022 году",
+      "title_neutral": "Шварц назвал занозой проигранный финал \"Спартаку\" в Кубке России в 2022 году",
+      "excerpt": "В воскресенье Сандро Шварц впервые обыграл \"Спартак\" в качестве главного тренера \"Динамо\" в матче РПЛ",
+      "recap_neutral": "В воскресенье Сандро Шварц впервые обыграл \"Спартак\" в качестве главного тренера \"Динамо\" в матче РПЛ",
+      "main_idea": "Шварц назвал занозой проигранный финал \"Спартаку\" в Кубке России в 2022 году",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 06 Sep 2026 21:51:50 +0300",
+      "url": "https://tass.ru/sport/28085391",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Футболист \"Спартака\" Джику рассказал, как видел эпизод с удалением Тюкавина",
+      "title_neutral": "Футболист \"Спартака\" Джику рассказал, как видел эпизод с удалением Тюкавина",
+      "excerpt": "\"Спартак\" проиграл \"Динамо\" со счетом 1:2 в матче чемпионата России",
+      "recap_neutral": "\"Спартак\" проиграл \"Динамо\" со счетом 1:2 в матче чемпионата России",
+      "main_idea": "Футболист \"Спартака\" Джику рассказал, как видел эпизод с удалением Тюкавина",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 06 Sep 2026 21:47:50 +0300",
+      "url": "https://tass.ru/sport/28085385",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Нефтекамске завели дело после гибели троих детей при пожаре",
+      "title_neutral": "В Нефтекамске завели дело после гибели троих детей при пожаре",
+      "excerpt": "Дело возбудили по статье о причинении смерти по неосторожности двум или более лицам",
+      "recap_neutral": "Дело возбудили по статье о причинении смерти по неосторожности двум или более лицам",
+      "main_idea": "В Нефтекамске завели дело после гибели троих детей при пожаре",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 06 Sep 2026 21:45:28 +0300",
+      "url": "https://tass.ru/obschestvo/28085381",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Кирове на территории бывшего вертолетного училища загорелись два здания",
+      "title_neutral": "В Кирове на территории бывшего вертолетного училища загорелись два здания",
+      "excerpt": "Предварительно, никто не пострадал",
+      "recap_neutral": "Предварительно, никто не пострадал",
+      "main_idea": "В Кирове на территории бывшего вертолетного училища загорелись два здания",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 06 Sep 2026 21:43:36 +0300",
+      "url": "https://tass.ru/proisshestviya/28085375",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Сборная России стала второй в командном турнире на юниорском ЧЕ по дзюдо",
+      "title_neutral": "Сборная России стала второй в командном турнире на юниорском ЧЕ по дзюдо",
+      "excerpt": "Турнир проходил в Черногории",
+      "recap_neutral": "Турнир проходил в Черногории",
+      "main_idea": "Сборная России стала второй в командном турнире на юниорском ЧЕ по дзюдо",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 06 Sep 2026 21:38:58 +0300",
+      "url": "https://tass.ru/sport/28085371",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Из ущелья в КБР эвакуировали трех пострадавших при сходе лавины",
+      "title_neutral": "Из ущелья в КБР эвакуировали трех пострадавших при сходе лавины",
+      "excerpt": "Их передали сотрудникам Центра медицины катастроф",
+      "recap_neutral": "Их передали сотрудникам Центра медицины катастроф",
+      "main_idea": "Из ущелья в КБР эвакуировали трех пострадавших при сходе лавины",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 06 Sep 2026 21:38:28 +0300",
+      "url": "https://tass.ru/obschestvo/28085369",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Кушнер не уточнил, усилят ли США санкции из-за отсутствия прогресса по Украине",
+      "title_neutral": "Кушнер не уточнил, усилят ли США санкции из-за отсутствия прогресса по Украине",
+      "excerpt": "Зять президента США уклонился от прямого ответа на вопрос о том, пойдет ли Вашингтон на ужесточение рестрикций против Москвы",
+      "recap_neutral": "Зять президента США уклонился от прямого ответа на вопрос о том, пойдет ли Вашингтон на ужесточение рестрикций против Москвы",
+      "main_idea": "Кушнер не уточнил, усилят ли США санкции из-за отсутствия прогресса по Украине",
       "tags": [
         "politics",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 06 Sep 2026 20:11:55 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28085223",
+      "published_at": "Sun, 06 Sep 2026 21:37:55 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28085351",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Установлено местонахождение пропавшего в Брянске подростка",
-      "title_neutral": "Установлено местонахождение пропавшего в Брянске подростка",
-      "excerpt": "Жизни и здоровью юноши ничего не угрожает",
-      "recap_neutral": "Жизни и здоровью юноши ничего не угрожает",
-      "main_idea": "Установлено местонахождение пропавшего в Брянске подростка",
-      "tags": [
-        "health"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 06 Sep 2026 20:10:15 +0300",
-      "url": "https://tass.ru/obschestvo/28085239",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лидер АдГ считает, что Ульрих Зигмунд станет новым премьером Саксонии-Анхальт",
-      "title_neutral": "Лидер АдГ считает, что Ульрих Зигмунд станет новым премьером Саксонии-Анхальт",
-      "excerpt": "По данным экзитполов, \"Альтернатива для Германии\" уверенно побеждает на выборах в земельный парламент Саксонии-Анхальт, получая 44-44,5% голосов",
-      "recap_neutral": "По данным экзитполов, \"Альтернатива для Германии\" уверенно побеждает на выборах в земельный парламент Саксонии-Анхальт, получая 44-44,5% голосов",
-      "main_idea": "Лидер АдГ считает, что Ульрих Зигмунд станет новым премьером Саксонии-Анхальт",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 06 Sep 2026 20:09:38 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28085241",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Уиткофф надеется, что положил конструктивное начало сближению позиций РФ и Украины",
-      "title_neutral": "Уиткофф надеется, что положил конструктивное начало сближению позиций РФ и Украины",
-      "excerpt": "",
-      "recap_neutral": "Уиткофф надеется, что положил конструктивное начало сближению позиций РФ и Украины",
-      "main_idea": "Уиткофф надеется, что положил конструктивное начало сближению позиций РФ и Украины",
+      "title_original": "К месту схода лавины в КБР направили дополнительную группу спасателей",
+      "title_neutral": "К месту схода лавины в КБР направили дополнительную группу спасателей",
+      "excerpt": "Поиски пропавших альпинистов затрудняет сложный рельеф и лавинная опасность",
+      "recap_neutral": "Поиски пропавших альпинистов затрудняет сложный рельеф и лавинная опасность",
+      "main_idea": "К месту схода лавины в КБР направили дополнительную группу спасателей",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 06 Sep 2026 20:08:54 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28085257",
+      "published_at": "Sun, 06 Sep 2026 21:36:42 +0300",
+      "url": "https://tass.ru/obschestvo/28085367",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Росмолодежи назвали \"Зарницу 2.0\" школой жизни для участников",
-      "title_neutral": "В Росмолодежи назвали \"Зарницу 2.0\" школой жизни для участников",
-      "excerpt": "Замруководителя Федерального агентства по делам молодежи Юрий Лескин также считает, что \"Зарница 2.0\" является ярким примером сотрудничества и взаимодействия всех сторон, заинтересованных в патриотическом воспитании детей и молодежи",
-      "recap_neutral": "Замруководителя Федерального агентства по делам молодежи Юрий Лескин также считает, что \"Зарница 2",
-      "main_idea": "В Росмолодежи назвали \"Зарницу 2.0\" школой жизни для участников",
+      "title_original": "В Саракташском районе Оренбуржья потушили сухую траву",
+      "title_neutral": "В Саракташском районе Оренбуржья потушили сухую траву",
+      "excerpt": "В ликвидации возгорания участвовали 23 человека и 8 единиц техники",
+      "recap_neutral": "В ликвидации возгорания участвовали 23 человека и 8 единиц техники",
+      "main_idea": "В Саракташском районе Оренбуржья потушили сухую траву",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 06 Sep 2026 20:07:17 +0300",
-      "url": "https://tass.ru/obschestvo/28085171",
+      "published_at": "Sun, 06 Sep 2026 21:35:35 +0300",
+      "url": "https://tass.ru/obschestvo/28085365",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Заполярье летальность от болезней достигла исторического минимума",
-      "title_neutral": "В Заполярье летальность от болезней достигла исторического минимума",
-      "excerpt": "Она снизилась на треть за год, сообщили в региональном правительстве",
-      "recap_neutral": "Она снизилась на треть за год, сообщили в региональном правительстве",
-      "main_idea": "В Заполярье летальность от болезней достигла исторического минимума",
-      "tags": [
-        "health"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 06 Sep 2026 20:05:49 +0300",
-      "url": "https://tass.ru/obschestvo/28085235",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Измаиле на юге Украины произошел взрыв",
-      "title_neutral": "В Измаиле на юге Украины произошел взрыв",
-      "excerpt": "В Одесской области действует режим воздушной тревоги",
-      "recap_neutral": "В Одесской области действует режим воздушной тревоги",
-      "main_idea": "В Измаиле на юге Украины произошел взрыв",
+      "title_original": "Умяров считает матч РПЛ с \"Динамо\" худшим для \"Спартака\" в этом сезоне",
+      "title_neutral": "Умяров считает матч РПЛ с \"Динамо\" худшим для \"Спартака\" в этом сезоне",
+      "excerpt": "Красно-белые уступили в матче чемпионата страны со счетом 1:2",
+      "recap_neutral": "Красно-белые уступили в матче чемпионата страны со счетом 1:2",
+      "main_idea": "Умяров считает матч РПЛ с \"Динамо\" худшим для \"Спартака\" в этом сезоне",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 06 Sep 2026 20:05:01 +0300",
-      "url": "https://tass.ru/proisshestviya/28085225",
+      "published_at": "Sun, 06 Sep 2026 21:31:50 +0300",
+      "url": "https://tass.ru/sport/28085361",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Postimees: Дональд Трамп - младший прибыл на самолете в Эстонию",
-      "title_neutral": "Postimees: Дональд Трамп - младший прибыл на самолете в Эстонию",
-      "excerpt": "Цель визита старшего сына президента США неизвестна",
-      "recap_neutral": "Цель визита старшего сына президента США неизвестна",
-      "main_idea": "Postimees: Дональд Трамп - младший прибыл на самолете в Эстонию",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 06 Sep 2026 20:03:55 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28085211",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Уиткофф заявил, что провел конструктивный и содержательный разговор с Путиным по Украине",
-      "title_neutral": "Уиткофф заявил, что провел конструктивный и содержательный разговор с Путиным по Украине",
-      "excerpt": "",
-      "recap_neutral": "Уиткофф заявил, что провел конструктивный и содержательный разговор с Путиным по Украине",
-      "main_idea": "Уиткофф заявил, что провел конструктивный и содержательный разговор с Путиным по Украине",
+      "title_original": "Судьба попавших под лавину в КБР 10 альпинистов остается неизвестной",
+      "title_neutral": "Судьба попавших под лавину в КБР 10 альпинистов остается неизвестной",
+      "excerpt": "Погибли два альпиниста",
+      "recap_neutral": "Погибли два альпиниста",
+      "main_idea": "Судьба попавших под лавину в КБР 10 альпинистов остается неизвестной",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 06 Sep 2026 20:03:03 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28085249",
+      "published_at": "Sun, 06 Sep 2026 21:30:18 +0300",
+      "url": "https://tass.ru/obschestvo/28085359",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Игроки \"Шанхая\" подарили победную шайбу после матча КХЛ Ковальчуку",
-      "title_neutral": "Игроки \"Шанхая\" подарили победную шайбу после матча КХЛ Ковальчуку",
-      "excerpt": "Китайская команда в воскресенье обыграла \"Нефтехимик\" в овертайме",
-      "recap_neutral": "Китайская команда в воскресенье обыграла \"Нефтехимик\" в овертайме",
-      "main_idea": "Игроки \"Шанхая\" подарили победную шайбу после матча КХЛ Ковальчуку",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 06 Sep 2026 20:02:01 +0300",
-      "url": "https://tass.ru/sport/28085247",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Уиткофф заявил, что каждый раз Путин относился с уважением к его делегации",
-      "title_neutral": "Уиткофф заявил, что каждый раз Путин относился с уважением к его делегации",
-      "excerpt": "",
-      "recap_neutral": "Уиткофф заявил, что каждый раз Путин относился с уважением к его делегации",
-      "main_idea": "Уиткофф заявил, что каждый раз Путин относился с уважением к его делегации",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 06 Sep 2026 20:01:08 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28085245",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Шанхай\" победил \"Нефтехимик\" в матче КХЛ, отыгравшись со счета 0:3",
-      "title_neutral": "\"Шанхай\" победил \"Нефтехимик\" в матче КХЛ, отыгравшись со счета 0:3",
-      "excerpt": "Китайская команда одержала победу в овертайме",
-      "recap_neutral": "Китайская команда одержала победу в овертайме",
-      "main_idea": "\"Шанхай\" победил \"Нефтехимик\" в матче КХЛ, отыгравшись со счета 0:3",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 06 Sep 2026 20:00:17 +0300",
-      "url": "https://tass.ru/sport/28085243",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Соболенко в шестой раз подряд вышла в четвертьфинал US Open",
-      "title_neutral": "Соболенко в шестой раз подряд вышла в четвертьфинал US Open",
-      "excerpt": "",
-      "recap_neutral": "Соболенко в шестой раз подряд вышла в четвертьфинал US Open",
-      "main_idea": "Соболенко в шестой раз подряд вышла в четвертьфинал US Open",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 06 Sep 2026 19:59:15 +0300",
-      "url": "https://tass.ru/sport/28085237",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Уиткофф заявил, что США надеются на успех в урегулировании спорных вопросов по Украине",
-      "title_neutral": "Уиткофф заявил, что США надеются на успех в урегулировании спорных вопросов по Украине",
-      "excerpt": "",
-      "recap_neutral": "Уиткофф заявил, что США надеются на успех в урегулировании спорных вопросов по Украине",
-      "main_idea": "Уиткофф заявил, что США надеются на успех в урегулировании спорных вопросов по Украине",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 06 Sep 2026 19:56:10 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28085231",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Уиткофф считает, что сторонам конфликта на Украине нужно пойти на компромиссы",
-      "title_neutral": "Уиткофф считает, что сторонам конфликта на Украине нужно пойти на компромиссы",
-      "excerpt": "Спецпосланник президента США отметил, что Москве и Киеву надо сократить существующие между ними разногласия для достижения мирного урегулирования",
-      "recap_neutral": "Спецпосланник президента США отметил, что Москве и Киеву надо сократить существующие между ними разногласия для достижения мирного урегулирования",
-      "main_idea": "Уиткофф считает, что сторонам конфликта на Украине нужно пойти на компромиссы",
+      "title_original": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show",
+      "title_neutral": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show",
+      "excerpt": "The Alternative for Germany party was projected to finish first in the eastern state of Saxony-Anhalt. But it was not clear whether it would win a majority — which would propel a far-right party into power for the first time since World War II.",
+      "recap_neutral": "The Alternative for Germany party was projected to finish first in the eastern state of Saxony-Anhalt",
+      "main_idea": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show",
       "tags": [
         "politics",
         "conflict"
       ],
-      "source": "ТАСС",
-      "published_at": "Sun, 06 Sep 2026 19:55:37 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28085229",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sun, 06 Sep 2026 19:14:13 +0000",
+      "url": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "German far-right set for big win in eastern state, projections show",
+      "title_neutral": "German far-right set for big win in eastern state, projections show",
+      "excerpt": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
+      "recap_neutral": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18",
+      "main_idea": "German far-right set for big win in eastern state, projections show",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 06 Sep 2026 19:13:51 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Haitians Deported From U.S. Are Left Broke and Stranded",
+      "title_neutral": "Haitians Deported From U.S. Are Left Broke and Stranded",
+      "excerpt": "Hundreds have been deported to Haiti in recent weeks, and some say they have been left with no money, no protection from gangs and no place to go.",
+      "recap_neutral": "Hundreds have been deported to Haiti in recent weeks, and some say they have been left with no money, no protection from gangs and no place to go",
+      "main_idea": "Haitians Deported From U.S. Are Left Broke and Stranded",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 06 Sep 2026 19:07:02 +0000",
+      "url": "https://www.nytimes.com/2026/09/06/world/americas/haiti-deportees.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Finder is so frustrating and has been since day one",
+      "title_neutral": "Finder is so frustrating and has been since day one",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Finder is so frustrating and has been since day one",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 06 Sep 2026 19:06:09 +0000",
+      "url": "https://kepter.app/finder",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "title_neutral": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "excerpt": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "recap_neutral": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv",
+      "main_idea": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 06 Sep 2026 18:33:50 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Following legal advice, the Nitter project will continue",
+      "title_neutral": "Following legal advice, the Nitter project will continue",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Following legal advice, the Nitter project will continue",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 06 Sep 2026 17:51:23 +0000",
+      "url": "https://github.com/zedeus/nitter",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Nitter is unarchived and will continue",
+      "title_neutral": "Nitter is unarchived and will continue",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Nitter is unarchived and will continue",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 06 Sep 2026 17:49:47 +0000",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
+      "title_neutral": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
+      "excerpt": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to confront historical crimes that still disadvantage former Brit…",
+      "recap_neutral": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica over slavery repar…",
+      "main_idea": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
+      "tags": [
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Sun, 06 Sep 2026 17:05:11 GMT",
+      "url": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "title_neutral": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "excerpt": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
+      "recap_neutral": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region",
+      "main_idea": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 06 Sep 2026 17:00:56 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -380,23 +508,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "German far-right set for big win in eastern state - projections",
-      "title_neutral": "German far-right set for big win in eastern state - projections",
-      "excerpt": "Germany's AfD has hailed a \"historic result\" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%.",
-      "recap_neutral": "Germany's AfD has hailed a \"historic result\" and is projected to win 44",
-      "main_idea": "German far-right set for big win in eastern state - projections",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 06 Sep 2026 16:59:25 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Dozens feared trapped in collapsed building in Delhi",
       "title_neutral": "Dozens feared trapped in collapsed building in Delhi",
       "excerpt": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
@@ -409,39 +520,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show",
-      "title_neutral": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show",
-      "excerpt": "The Alternative for Germany party was projected to finish first in the eastern state of Saxony-Anhalt. But it was not clear whether it would win a majority — which would propel a far-right party into power for the first time since World War II.",
-      "recap_neutral": "The Alternative for Germany party was projected to finish first in the eastern state of Saxony-Anhalt",
-      "main_idea": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show",
-      "tags": [
-        "politics",
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 06 Sep 2026 16:54:22 +0000",
-      "url": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Here’s the latest.",
-      "title_neutral": "Here’s the latest.",
-      "excerpt": "",
-      "recap_neutral": "Here’s the latest.",
-      "main_idea": "Here’s the latest.",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sun, 06 Sep 2026 16:41:05 +0000",
-      "url": "https://www.nytimes.com/live/2026/09/06/world/germany-election/polls-are-set-to-close-in-crucial-election",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -573,21 +651,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-      "title_neutral": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-      "excerpt": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion.",
-      "recap_neutral": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion",
-      "main_idea": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sun, 06 Sep 2026 15:32:27 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
       "title_neutral": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
       "excerpt": "Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reserves China will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore up banks and insurers in the face of faltering economic growth. A host of financial institutions said…",
@@ -603,6 +666,23 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Research acceleration: The view inside OpenAI",
+      "title_neutral": "Research acceleration: The view inside OpenAI",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Research acceleration: The view inside OpenAI",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 06 Sep 2026 15:08:44 +0000",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -623,6 +703,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Recreating Minecraft Is Not a Benchmark",
+      "title_neutral": "Recreating Minecraft Is Not a Benchmark",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Recreating Minecraft Is Not a Benchmark",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 06 Sep 2026 14:52:07 +0000",
+      "url": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Volcanic eruption halts flights at Jakarta and seven other Indonesian airports",
       "title_neutral": "Volcanic eruption halts flights at Jakarta and seven other Indonesian airports",
       "excerpt": "Ash cloud from Anak Krakatau affects hundreds of flights and some school and fishing activities Indonesia halted operations at eight airports on Sunday, including from its main international hub, affecting hundreds of flights as a result of an ash cloud from the Anak Krakatau volcano. Saturday’s er…",
@@ -640,21 +735,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
-      "title_neutral": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 06 Sep 2026 14:34:46 +0000",
-      "url": "https://github.com/scastiel/kado",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "A/I shuts down – Stay human",
       "title_neutral": "A/I shuts down – Stay human",
       "excerpt": "Comments",
@@ -664,21 +744,6 @@
       "source": "Hacker News",
       "published_at": "Sun, 06 Sep 2026 14:34:34 +0000",
       "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
-      "title_neutral": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 06 Sep 2026 14:08:59 +0000",
-      "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -699,53 +764,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The many mysteries and lessons of the Bayeux tapestry",
-      "title_neutral": "The many mysteries and lessons of the Bayeux tapestry",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The many mysteries and lessons of the Bayeux tapestry",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 06 Sep 2026 13:38:07 +0000",
-      "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "QBittorrent breaks out of sandbox to commit crimes",
-      "title_neutral": "QBittorrent breaks out of sandbox to commit crimes",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "QBittorrent breaks out of sandbox to commit crimes",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 06 Sep 2026 13:02:41 +0000",
-      "url": "https://beige.party/@intransitivelie/117057396732763183",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
-      "title_neutral": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
-      "excerpt": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to confront historical crimes that still disadvantage former Brit…",
-      "recap_neutral": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica over slavery repar…",
-      "main_idea": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
-      "tags": [
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Sun, 06 Sep 2026 13:00:07 GMT",
-      "url": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
       "confidence": "heuristic"
     },
     {
@@ -1096,23 +1114,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "title_neutral": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "excerpt": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
-      "recap_neutral": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships",
-      "main_idea": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 05 Sep 2026 22:44:07 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
