@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T17:52:59.786910+00:00",
+  "last_updated": "2026-09-13T20:12:16.908177+00:00",
   "items": [
     {
       "title_original": "Notorious Ecuadorian crime gang designated a terrorist group by US",
@@ -68,6 +68,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
+      "title_neutral": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Thu, 10 Sep 2026 23:32:12 +0000",
+      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Canada offers air defense support for Ukraine as Zelenskyy visits",
       "title_neutral": "Canada offers air defense support for Ukraine as Zelenskyy visits",
       "excerpt": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the countries pledged to deepen their alliance during a visit by Volodymyr Zelenskyy. M…",
@@ -100,6 +117,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Julia 1.13 Highlights",
+      "title_neutral": "Julia 1.13 Highlights",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Julia 1.13 Highlights",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 10 Sep 2026 12:27:25 +0000",
+      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -138,248 +170,284 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Al-Ikhbariya: южные районы Сирии подверглись артобстрелу израильских войск",
-      "title_neutral": "Al-Ikhbariya: южные районы Сирии подверглись артобстрелу израильских войск",
-      "excerpt": "По информации телеканала, обстрел из орудий велся с позиций на оккупированных Голанских высотах",
-      "recap_neutral": "По информации телеканала, обстрел из орудий велся с позиций на оккупированных Голанских высотах",
-      "main_idea": "Al-Ikhbariya: южные районы Сирии подверглись артобстрелу израильских войск",
+      "title_original": "ВФЛА поддержала обращение российских атлетов в ООН, МОК и World Athletics",
+      "title_neutral": "ВФЛА поддержала обращение российских атлетов в ООН, МОК и World Athletics",
+      "excerpt": "Российские легкоатлеты с 2022 года лишены возможности выступать на международных соревнованиях даже в нейтральном статусе из-за ситуации на Украине",
+      "recap_neutral": "Российские легкоатлеты с 2022 года лишены возможности выступать на международных соревнованиях даже в нейтральном статусе из-за ситуации на Украине",
+      "main_idea": "ВФЛА поддержала обращение российских атлетов в ООН, МОК и World Athletics",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 20:49:43 +0300",
-      "url": "https://tass.ru/proisshestviya/28108563",
+      "published_at": "Sun, 13 Sep 2026 23:09:57 +0300",
+      "url": "https://tass.ru/sport/28108673",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В США заявили о возможности обеспечивать Иран ядерным топливом",
-      "title_neutral": "В США заявили о возможности обеспечивать Иран ядерным топливом",
-      "excerpt": "Такой исход допустим в случае отказа исламской республики от обогащения урана, отметил американский министр энергетики Крис Райт",
-      "recap_neutral": "Такой исход допустим в случае отказа исламской республики от обогащения урана, отметил американский министр энергетики Крис Райт",
-      "main_idea": "В США заявили о возможности обеспечивать Иран ядерным топливом",
+      "title_original": "Трамп рассказал, кто будет выполнять функции пресс-секретаря Белого дома",
+      "title_neutral": "Трамп рассказал, кто будет выполнять функции пресс-секретаря Белого дома",
+      "excerpt": "Некоторое время соответствующие обязанности будут осуществлять министры США, отметил американский президент",
+      "recap_neutral": "Некоторое время соответствующие обязанности будут осуществлять министры США, отметил американский президент",
+      "main_idea": "Трамп рассказал, кто будет выполнять функции пресс-секретаря Белого дома",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 23:07:37 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28108667",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Чехии поляки избили соотечественника, приняв его за украинца",
+      "title_neutral": "В Чехии поляки избили соотечественника, приняв его за украинца",
+      "excerpt": "Нападавшие кричали \"бандеровец\" и оскорбляли мужчину, пишет газета Dziennik Zachodni",
+      "recap_neutral": "Нападавшие кричали \"бандеровец\" и оскорбляли мужчину, пишет газета Dziennik Zachodni",
+      "main_idea": "В Чехии поляки избили соотечественника, приняв его за украинца",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 23:04:34 +0300",
+      "url": "https://tass.ru/proisshestviya/28108655",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Министр культуры Израиля решил лишить гражданства авторов фильма NAZA",
+      "title_neutral": "Министр культуры Израиля решил лишить гражданства авторов фильма NAZA",
+      "excerpt": "Картина, рассказывающая о массовой гибели палестинцев в ходе боевых действий в секторе Газа, получила награду на прошедшем Венецианском кинофестивале",
+      "recap_neutral": "Картина, рассказывающая о массовой гибели палестинцев в ходе боевых действий в секторе Газа, получила награду на прошедшем Венецианском кинофестивале",
+      "main_idea": "Министр культуры Израиля решил лишить гражданства авторов фильма NAZA",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 20:46:15 +0300",
-      "url": "https://tass.ru/ekonomika/28108567",
+      "published_at": "Sun, 13 Sep 2026 22:53:27 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28108653",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Солари: футболисты \"Спартака\" очень рады возвращению Барко",
-      "title_neutral": "Солари: футболисты \"Спартака\" очень рады возвращению Барко",
-      "excerpt": "Эсекьель Барко впервые после болезни попал в заявку команды",
-      "recap_neutral": "Эсекьель Барко впервые после болезни попал в заявку команды",
-      "main_idea": "Солари: футболисты \"Спартака\" очень рады возвращению Барко",
+      "title_original": "Трамп: США прекратят торговлю с некоторыми странами, если ФРС не снизит ставку",
+      "title_neutral": "Трамп: США прекратят торговлю с некоторыми странами, если ФРС не снизит ставку",
+      "excerpt": "Американский президент отметил, что у него \"нет выбора\"",
+      "recap_neutral": "Американский президент отметил, что у него \"нет выбора\"",
+      "main_idea": "Трамп: США прекратят торговлю с некоторыми странами, если ФРС не снизит ставку",
       "tags": [
-        "health"
+        "politics"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 20:41:07 +0300",
-      "url": "https://tass.ru/sport/28108565",
+      "published_at": "Sun, 13 Sep 2026 22:53:04 +0300",
+      "url": "https://tass.ru/ekonomika/28108651",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Член Союза писателей России отметил важную роль поэзии на СВО",
-      "title_neutral": "Член Союза писателей России отметил важную роль поэзии на СВО",
-      "excerpt": "Фронтовая поэзия нужна, так как она является одним из способов осмысления нынешних исторических событий, отметил Сергей Лобанов",
-      "recap_neutral": "Фронтовая поэзия нужна, так как она является одним из способов осмысления нынешних исторических событий, отметил Сергей Лобанов",
-      "main_idea": "Член Союза писателей России отметил важную роль поэзии на СВО",
+      "title_original": "Американские баскетболистки в пятый раз подряд выиграли чемпионат мира",
+      "title_neutral": "Американские баскетболистки в пятый раз подряд выиграли чемпионат мира",
+      "excerpt": "В финале сборная США обыграла команду Франции",
+      "recap_neutral": "В финале сборная США обыграла команду Франции",
+      "main_idea": "Американские баскетболистки в пятый раз подряд выиграли чемпионат мира",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 20:39:07 +0300",
-      "url": "https://tass.ru/kultura/28108557",
+      "published_at": "Sun, 13 Sep 2026 22:50:44 +0300",
+      "url": "https://tass.ru/sport/28108663",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Солари заявил о готовности \"Спартака\" бороться за победу в РПЛ",
-      "title_neutral": "Солари заявил о готовности \"Спартака\" бороться за победу в РПЛ",
-      "excerpt": "После восьми матчей команда занимает второе место в таблице",
-      "recap_neutral": "После восьми матчей команда занимает второе место в таблице",
-      "main_idea": "Солари заявил о готовности \"Спартака\" бороться за победу в РПЛ",
+      "title_original": "Перенос встречи стран Персидского залива и Ирана согласовали Тегеран и Маскат",
+      "title_neutral": "Перенос встречи стран Персидского залива и Ирана согласовали Тегеран и Маскат",
+      "excerpt": "Новая дата мероприятия неизвестна",
+      "recap_neutral": "Новая дата мероприятия неизвестна",
+      "main_idea": "Перенос встречи стран Персидского залива и Ирана согласовали Тегеран и Маскат",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 20:38:22 +0300",
-      "url": "https://tass.ru/sport/28108561",
+      "published_at": "Sun, 13 Sep 2026 22:50:30 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28108657",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Второй Московский детский велофестиваль посетили рекордные 30 тыс. человек",
-      "title_neutral": "Второй Московский детский велофестиваль посетили рекордные 30 тыс. человек",
-      "excerpt": "На мероприятии работали спортивные и интерактивные зоны",
-      "recap_neutral": "На мероприятии работали спортивные и интерактивные зоны",
-      "main_idea": "Второй Московский детский велофестиваль посетили рекордные 30 тыс. человек",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 20:37:33 +0300",
-      "url": "https://tass.ru/obschestvo/28108559",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В массовом ДТП под Архангельском погибла студентка колледжа САФУ",
-      "title_neutral": "В массовом ДТП под Архангельском погибла студентка колледжа САФУ",
-      "excerpt": "В учреждении объявили сбор средств на поддержку семьи девушки",
-      "recap_neutral": "В учреждении объявили сбор средств на поддержку семьи девушки",
-      "main_idea": "В массовом ДТП под Архангельском погибла студентка колледжа САФУ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 20:33:30 +0300",
-      "url": "https://tass.ru/obschestvo/28108549",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Попавший в расширенный состав сборной России Миронов получил перелом ребра",
-      "title_neutral": "Попавший в расширенный состав сборной России Миронов получил перелом ребра",
-      "excerpt": "По словам генерального директора \"Ростова\" Андрея Чайки, полузащитник травмировался в игре с \"Факелом\"",
-      "recap_neutral": "По словам генерального директора \"Ростова\" Андрея Чайки, полузащитник травмировался в игре с \"Факелом\"",
-      "main_idea": "Попавший в расширенный состав сборной России Миронов получил перелом ребра",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 20:30:29 +0300",
-      "url": "https://tass.ru/sport/28108553",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Над регионами России за день сбили 140 украинских БПЛА",
-      "title_neutral": "Над регионами России за день сбили 140 украинских БПЛА",
-      "excerpt": "Также дроны уничтожили над акваторией Черного моря",
-      "recap_neutral": "Также дроны уничтожили над акваторией Черного моря",
-      "main_idea": "Над регионами России за день сбили 140 украинских БПЛА",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 20:28:47 +0300",
-      "url": "https://tass.ru/armiya-i-opk/28108551",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Зеленский ввел санкции против своего бывшего пресс-секретаря Юлии Мендель",
-      "title_neutral": "Зеленский ввел санкции против своего бывшего пресс-секретаря Юлии Мендель",
-      "excerpt": "Ограничения будут действовать 10 лет",
-      "recap_neutral": "Ограничения будут действовать 10 лет",
-      "main_idea": "Зеленский ввел санкции против своего бывшего пресс-секретаря Юлии Мендель",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 20:28:01 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28108547",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Боец Галета: ВС РФ обезвредили БПЛА ВСУ на запорожском направлении",
-      "title_neutral": "Боец Галета: ВС РФ обезвредили БПЛА ВСУ на запорожском направлении",
-      "excerpt": "Задачу выполнил \"Днепр\", отметил военнослужащий группировки войск",
-      "recap_neutral": "Задачу выполнил \"Днепр\", отметил военнослужащий группировки войск",
-      "main_idea": "Боец Галета: ВС РФ обезвредили БПЛА ВСУ на запорожском направлении",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 20:26:11 +0300",
-      "url": "https://tass.ru/armiya-i-opk/28108541",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Российские артисты выиграли международный цирковой конкурс \"Без границ\"",
-      "title_neutral": "Российские артисты выиграли международный цирковой конкурс \"Без границ\"",
-      "excerpt": "Они получили приглашение на участие в международном цирковом фестивале \"Золотой слон\" в Жироне",
-      "recap_neutral": "Они получили приглашение на участие в международном цирковом фестивале \"Золотой слон\" в Жироне",
-      "main_idea": "Российские артисты выиграли международный цирковой конкурс \"Без границ\"",
+      "title_original": "Захарова назвала \"русофобией головного мозга\" слова Сикорского о быстрой победе над РФ",
+      "title_neutral": "Захарова назвала \"русофобией головного мозга\" слова Сикорского о быстрой победе над РФ",
+      "excerpt": "",
+      "recap_neutral": "Захарова назвала \"русофобией головного мозга\" слова Сикорского о быстрой победе над РФ",
+      "main_idea": "Захарова назвала \"русофобией головного мозга\" слова Сикорского о быстрой победе над РФ",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 20:25:49 +0300",
-      "url": "https://tass.ru/obschestvo/28108527",
+      "published_at": "Sun, 13 Sep 2026 22:49:47 +0300",
+      "url": "https://tass.ru/politika/28108659",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Никитин: в ЦСКА ожидания от старта сезона КХЛ разошлись с реальностью",
-      "title_neutral": "Никитин: в ЦСКА ожидания от старта сезона КХЛ разошлись с реальностью",
-      "excerpt": "Команда потерпела три поражения в четырех матчах",
-      "recap_neutral": "Команда потерпела три поражения в четырех матчах",
-      "main_idea": "Никитин: в ЦСКА ожидания от старта сезона КХЛ разошлись с реальностью",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 20:25:13 +0300",
-      "url": "https://tass.ru/sport/28108545",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Манчестер Сити\" обыграл \"Манчестер Юнайтед\", играя в меньшинстве с 23-й минуты",
-      "title_neutral": "\"Манчестер Сити\" обыграл \"Манчестер Юнайтед\", играя в меньшинстве с 23-й минуты",
-      "excerpt": "Единственный гол забил Эрлинг Холанд",
-      "recap_neutral": "Единственный гол забил Эрлинг Холанд",
-      "main_idea": "\"Манчестер Сити\" обыграл \"Манчестер Юнайтед\", играя в меньшинстве с 23-й минуты",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 20:25:00 +0300",
-      "url": "https://tass.ru/sport/28108543",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Боец Разный рассказал о разминировании участка трассы \"Новороссия\"",
-      "title_neutral": "Боец Разный рассказал о разминировании участка трассы \"Новороссия\"",
-      "excerpt": "Военные \"Днепра\" выполнили задачу с помощью робототехнического комплекса \"Вепрь\", отметил военнослужащий",
-      "recap_neutral": "Военные \"Днепра\" выполнили задачу с помощью робототехнического комплекса \"Вепрь\", отметил военнослужащий",
-      "main_idea": "Боец Разный рассказал о разминировании участка трассы \"Новороссия\"",
+      "title_original": "Бывший пресс-секретарь Зеленского Мендель прокомментировала санкции против нее",
+      "title_neutral": "Бывший пресс-секретарь Зеленского Мендель прокомментировала санкции против нее",
+      "excerpt": "Она заявила, что они нарушают конституцию Украины",
+      "recap_neutral": "Она заявила, что они нарушают конституцию Украины",
+      "main_idea": "Бывший пресс-секретарь Зеленского Мендель прокомментировала санкции против нее",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 20:21:57 +0300",
-      "url": "https://tass.ru/armiya-i-opk/28108537",
+      "published_at": "Sun, 13 Sep 2026 22:44:06 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28108641",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В марокканском Агадире россияне досрочно проголосовали на выборах в Госдуму",
+      "title_neutral": "В марокканском Агадире россияне досрочно проголосовали на выборах в Госдуму",
+      "excerpt": "Голосование прошло организованно и спокойно, отметил генеральный консул России в Касабланке Дмитрий Межауров",
+      "recap_neutral": "Голосование прошло организованно и спокойно, отметил генеральный консул России в Касабланке Дмитрий Межауров",
+      "main_idea": "В марокканском Агадире россияне досрочно проголосовали на выборах в Госдуму",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 22:43:44 +0300",
+      "url": "https://tass.ru/politika/28108647",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Оверчук обсудит с властями Монголии реализацию договоренностей на высшем уровне",
+      "title_neutral": "Оверчук обсудит с властями Монголии реализацию договоренностей на высшем уровне",
+      "excerpt": "Вице-премьер РФ 14-15 сентября в Улан-Баторе возглавит российскую делегацию на II Форуме регионов России и Монголии",
+      "recap_neutral": "Вице-премьер РФ 14-15 сентября в Улан-Баторе возглавит российскую делегацию на II Форуме регионов России и Монголии",
+      "main_idea": "Оверчук обсудит с властями Монголии реализацию договоренностей на высшем уровне",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 22:36:36 +0300",
+      "url": "https://tass.ru/politika/28108639",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Сочи ввели ограничения",
+      "title_neutral": "В аэропорту Сочи ввели ограничения",
+      "excerpt": "Они необходимы для обеспечения безопасности полетов",
+      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
+      "main_idea": "В аэропорту Сочи ввели ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 22:35:00 +0300",
+      "url": "https://tass.ru/obschestvo/28108645",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Российские легкоатлеты обратились в ООН и МОК с призывом о допуске",
+      "title_neutral": "Российские легкоатлеты обратились в ООН и МОК с призывом о допуске",
+      "excerpt": "Спортсмены из России лишены возможности участвовать в международных соревнованиях даже в нейтральном статусе с 2022 года из-за ситуации на Украине",
+      "recap_neutral": "Спортсмены из России лишены возможности участвовать в международных соревнованиях даже в нейтральном статусе с 2022 года из-за ситуации на Украине",
+      "main_idea": "Российские легкоатлеты обратились в ООН и МОК с призывом о допуске",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 22:33:06 +0300",
+      "url": "https://tass.ru/sport/28108643",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лавров пошутил над журналистами на саммите БРИКС, что им негде поспать",
+      "title_neutral": "Лавров пошутил над журналистами на саммите БРИКС, что им негде поспать",
+      "excerpt": "Об этом министр иностранных дел России сказал в эфире программы \"Москва. Кремль. Путин\"",
+      "recap_neutral": "Об этом министр иностранных дел России сказал в эфире программы \"Москва",
+      "main_idea": "Лавров пошутил над журналистами на саммите БРИКС, что им негде поспать",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 22:31:50 +0300",
+      "url": "https://tass.ru/politika/28108635",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп пока не готов поддержать выдвижение Вэнса кандидатом в президенты",
+      "title_neutral": "Трамп пока не готов поддержать выдвижение Вэнса кандидатом в президенты",
+      "excerpt": "Американский лидер отметил, что \"пока слишком рано\"",
+      "recap_neutral": "Американский лидер отметил, что \"пока слишком рано\"",
+      "main_idea": "Трамп пока не готов поддержать выдвижение Вэнса кандидатом в президенты",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 22:31:10 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28108637",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "There Is No AI (It's Just People) with Jaron Lanier",
+      "title_neutral": "There Is No AI (It's Just People) with Jaron Lanier",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "There Is No AI (It's Just People) with Jaron Lanier",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 13 Sep 2026 19:41:06 +0000",
+      "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "title_neutral": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "excerpt": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+      "recap_neutral": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US",
+      "main_idea": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sun, 13 Sep 2026 19:34:36 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -393,7 +461,7 @@
         "tech"
       ],
       "source": "BBC World",
-      "published_at": "Sun, 13 Sep 2026 17:38:29 GMT",
+      "published_at": "Sun, 13 Sep 2026 19:14:21 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
@@ -401,32 +469,36 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ask HN: What are you working on? (September 2026)",
-      "title_neutral": "Ask HN: What are you working on? (September 2026)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Ask HN: What are you working on? (September 2026)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 13 Sep 2026 17:31:38 +0000",
-      "url": "https://news.ycombinator.com/item?id=49686380",
+      "title_original": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "title_neutral": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "excerpt": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "recap_neutral": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\"",
+      "main_idea": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 13 Sep 2026 18:49:37 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Iran Will Meet With Gulf Arab States as Mideast Conflict Widens",
-      "title_neutral": "Iran Will Meet With Gulf Arab States as Mideast Conflict Widens",
+      "title_original": "Iran Expected to Meet With Gulf Arab States as Mideast Conflict Widens",
+      "title_neutral": "Iran Expected to Meet With Gulf Arab States as Mideast Conflict Widens",
       "excerpt": "Talks are expected tomorrow, officials said, as a ship was targeted in the Strait of Hormuz and Iranian allies in Yemen said they had launched a new attack on Saudi Arabia.",
       "recap_neutral": "Talks are expected tomorrow, officials said, as a ship was targeted in the Strait of Hormuz and Iranian allies in Yemen said they had launched a new attack on Saudi Arabia",
-      "main_idea": "Iran Will Meet With Gulf Arab States as Mideast Conflict Widens",
+      "main_idea": "Iran Expected to Meet With Gulf Arab States as Mideast Conflict Widens",
       "tags": [
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sun, 13 Sep 2026 17:25:41 +0000",
+      "published_at": "Sun, 13 Sep 2026 18:46:01 +0000",
       "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
       "lang": "en",
       "bias_score": 55,
@@ -434,36 +506,82 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
-      "title_neutral": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
+      "title_original": "Questions mount over what an AI 'slowdown' would look like",
+      "title_neutral": "Questions mount over what an AI 'slowdown' would look like",
+      "excerpt": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "recap_neutral": "While pacing AI development might sound like a quick fix, it is far from an easy solution",
+      "main_idea": "Questions mount over what an AI 'slowdown' would look like",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 13 Sep 2026 18:20:22 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "I'm being cyberattacked by Tesla, Inc",
+      "title_neutral": "I'm being cyberattacked by Tesla, Inc",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
-      "tags": [],
+      "main_idea": "I'm being cyberattacked by Tesla, Inc",
+      "tags": [
+        "conflict"
+      ],
       "source": "Hacker News",
-      "published_at": "Sun, 13 Sep 2026 17:08:16 +0000",
-      "url": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/",
+      "published_at": "Sun, 13 Sep 2026 18:03:09 +0000",
+      "url": "https://dreamstation.systems/personal/tesla.html",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump doubles down on united Ireland comments on day two of visit",
-      "title_neutral": "Trump doubles down on united Ireland comments on day two of visit",
-      "excerpt": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
-      "recap_neutral": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments",
-      "main_idea": "Trump doubles down on united Ireland comments on day two of visit",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 13 Sep 2026 16:57:58 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "title_original": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+      "title_neutral": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 13 Sep 2026 17:57:59 +0000",
+      "url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Device Drivers lab exercise – COSC562",
+      "title_neutral": "Device Drivers lab exercise – COSC562",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Device Drivers lab exercise – COSC562",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 13 Sep 2026 17:41:50 +0000",
+      "url": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why is Google still serving dodgy ads?",
+      "title_neutral": "Why is Google still serving dodgy ads?",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Why is Google still serving dodgy ads?",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 13 Sep 2026 17:37:44 +0000",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -482,42 +600,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "title_neutral": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sun, 13 Sep 2026 16:52:33 +0000",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
-      "title_neutral": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
-      "excerpt": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "recap_neutral": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\"",
-      "main_idea": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 13 Sep 2026 16:29:27 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -570,21 +652,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Libraries Run Rust Inside Python (With PyO3)",
-      "title_neutral": "Libraries Run Rust Inside Python (With PyO3)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Libraries Run Rust Inside Python (With PyO3)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 13 Sep 2026 15:24:05 +0000",
-      "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "A Boundary-First Benchmark for Low-Latency Crypto Trading Systems",
       "title_neutral": "A Boundary-First Benchmark for Low-Latency Crypto Trading Systems",
       "excerpt": "A boundary-first benchmark of a crypto trading framework’s local order loop, with clear exclusions, run-level latency numbers, and reproducibility caveats.",
@@ -597,21 +664,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Cpak – OCI application package format for Linux desktops, servers and devices",
-      "title_neutral": "Cpak – OCI application package format for Linux desktops, servers and devices",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Cpak – OCI application package format for Linux desktops, servers and devices",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 13 Sep 2026 15:02:56 +0000",
-      "url": "https://cpak.it/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -762,6 +814,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Data collected by cars and sold to third parties",
+      "title_neutral": "Data collected by cars and sold to third parties",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Data collected by cars and sold to third parties",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 13 Sep 2026 13:45:08 +0000",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Okinawa Set to Elect Conservative Amid Fears About China and Economy",
       "title_neutral": "Okinawa Set to Elect Conservative Amid Fears About China and Economy",
       "excerpt": "Genta Koja was projected to become the Japanese archipelago’s next governor, a win for the country’s hawkish prime minister as she works to accelerate a military buildup.",
@@ -826,21 +893,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "title_neutral": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 13 Sep 2026 12:01:52 +0000",
-      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1059,24 +1111,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-      "title_neutral": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-      "excerpt": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
-      "recap_neutral": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues",
-      "main_idea": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-      "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 13 Sep 2026 02:41:51 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "One dead and more than 30 missing after ferry sinks off Vanuatu coast in rough seas",
       "title_neutral": "One dead and more than 30 missing after ferry sinks off Vanuatu coast in rough seas",
       "excerpt": "Prime minister’s office tells families of those missing ‘the nation stands with you’ as search and rescue efforts continue One person has died and more than 30 are missing after a ferry sank off the coast of Vanuatu, the country’s government says. The vessel, MV Matui, had set sail with more than 4…",
@@ -1107,23 +1141,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Why are AI agents lying, cheating and coordinating?",
-      "title_neutral": "Why are AI agents lying, cheating and coordinating?",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Why are AI agents lying, cheating and coordinating?",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sun, 13 Sep 2026 01:22:31 +0000",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1603,21 +1620,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Alan's Random Insult Generator (1999)",
-      "title_neutral": "Alan's Random Insult Generator (1999)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Alan's Random Insult Generator (1999)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 11 Sep 2026 15:34:53 +0000",
-      "url": "https://alanbellows.com/experiments/insult/index.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
