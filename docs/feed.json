@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T10:26:46.410897+00:00",
+  "last_updated": "2026-09-13T14:32:58.013514+00:00",
   "items": [
     {
       "title_original": "Notorious Ecuadorian crime gang designated a terrorist group by US",
@@ -36,36 +36,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Vintage Scientific Papers with LaTeX",
-      "title_neutral": "Vintage Scientific Papers with LaTeX",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Vintage Scientific Papers with LaTeX",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 09 Sep 2026 16:58:27 +0000",
-      "url": "https://github.com/Foadsf/vintage-latex",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Stabilizing Rust's Never Type",
-      "title_neutral": "Stabilizing Rust's Never Type",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Stabilizing Rust's Never Type",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 09 Sep 2026 11:57:45 +0000",
-      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Family of British man found dead in Grenada ask local police to work with UK investigators",
       "title_neutral": "Family of British man found dead in Grenada ask local police to work with UK investigators",
       "excerpt": "Andrew Frederick’s body was found in property he was staying at in Grenada in January The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK police to uncover the truth about his death. Andrew Frederick’s body was found in the…",
@@ -98,15 +68,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Apple iPod Engraver (2019)",
-      "title_neutral": "Apple iPod Engraver (2019)",
+      "title_original": "On Binary Translation and Its Consequences",
+      "title_neutral": "On Binary Translation and Its Consequences",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Apple iPod Engraver (2019)",
+      "main_idea": "On Binary Translation and Its Consequences",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Wed, 09 Sep 2026 01:57:37 +0000",
-      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+      "published_at": "Thu, 10 Sep 2026 22:41:57 +0000",
+      "url": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -148,30 +118,17 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Operation Smart Kettle – Börzels Blog",
-      "title_neutral": "Operation Smart Kettle – Börzels Blog",
+      "title_original": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "title_neutral": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Operation Smart Kettle – Börzels Blog",
-      "tags": [],
+      "main_idea": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "tags": [
+        "conflict"
+      ],
       "source": "Hacker News",
-      "published_at": "Thu, 10 Sep 2026 14:53:30 +0000",
-      "url": "https://blog.boerzel.de/de/blog/operation-smart-kettle",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
-      "title_neutral": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 10 Sep 2026 09:32:17 +0000",
-      "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
+      "published_at": "Thu, 10 Sep 2026 03:32:04 +0000",
+      "url": "https://bensimms.moe/reverse-engineering-scooter/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -196,258 +153,343 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Памфилова: Россия не перейдет к исключительно электронному голосованию на выборах",
-      "title_neutral": "Памфилова: Россия не перейдет к исключительно электронному голосованию на выборах",
-      "excerpt": "",
-      "recap_neutral": "Памфилова: Россия не перейдет к исключительно электронному голосованию на выборах",
-      "main_idea": "Памфилова: Россия не перейдет к исключительно электронному голосованию на выборах",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 13:23:49 +0300",
-      "url": "https://tass.ru/politika/28108007",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Иванове избрали меру пресечения управляющей парком, где погиб ребенок",
-      "title_neutral": "В Иванове избрали меру пресечения управляющей парком, где погиб ребенок",
-      "excerpt": "Ей запретили выходить из дома в ночное время",
-      "recap_neutral": "Ей запретили выходить из дома в ночное время",
-      "main_idea": "В Иванове избрали меру пресечения управляющей парком, где погиб ребенок",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 13:22:49 +0300",
-      "url": "https://tass.ru/proisshestviya/28107993",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Ротенберг: Загитова помогает академии \"Красная машина\" со старта проекта",
-      "title_neutral": "Ротенберг: Загитова помогает академии \"Красная машина\" со старта проекта",
-      "excerpt": "Торжественная церемония открытия академии проходит в воскресенье",
-      "recap_neutral": "Торжественная церемония открытия академии проходит в воскресенье",
-      "main_idea": "Ротенберг: Загитова помогает академии \"Красная машина\" со старта проекта",
+      "title_original": "Эксперт Шаповалова: гастрофестиваль МФМ увеличит долю ресторанов с нацкухней",
+      "title_neutral": "Эксперт Шаповалова: гастрофестиваль МФМ увеличит долю ресторанов с нацкухней",
+      "excerpt": "В стране более 200 тыс. предприятий питания, и менее 1% из них предлагают кухни народов России, отметила руководитель проекта \"Вкусы народов России\"",
+      "recap_neutral": "В стране более 200 тыс",
+      "main_idea": "Эксперт Шаповалова: гастрофестиваль МФМ увеличит долю ресторанов с нацкухней",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 13:22:20 +0300",
-      "url": "https://tass.ru/sport/28108001",
+      "published_at": "Sun, 13 Sep 2026 17:29:35 +0300",
+      "url": "https://tass.ru/obschestvo/28108363",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Роман Ротенберг считает, что Валиеву не допускают до турниров из-за боязни конкуренции",
-      "title_neutral": "Роман Ротенберг считает, что Валиеву не допускают до турниров из-за боязни конкуренции",
-      "excerpt": "",
-      "recap_neutral": "Роман Ротенберг считает, что Валиеву не допускают до турниров из-за боязни конкуренции",
-      "main_idea": "Роман Ротенберг считает, что Валиеву не допускают до турниров из-за боязни конкуренции",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 13:22:19 +0300",
-      "url": "https://tass.ru/sport/28107999",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Брянске пропал подросток",
-      "title_neutral": "В Брянске пропал подросток",
-      "excerpt": "Несовершеннолетний ушел из дома после ссоры с родителями и не вернулся",
-      "recap_neutral": "Несовершеннолетний ушел из дома после ссоры с родителями и не вернулся",
-      "main_idea": "В Брянске пропал подросток",
+      "title_original": "Сын Прилепина сделал 30 боевых выходов под дронами ВСУ",
+      "title_neutral": "Сын Прилепина сделал 30 боевых выходов под дронами ВСУ",
+      "excerpt": "Писатель Захар Прилепин напомнил, что у Игната недавно закончился контракт с Добровольческим корпусом",
+      "recap_neutral": "Писатель Захар Прилепин напомнил, что у Игната недавно закончился контракт с Добровольческим корпусом",
+      "main_idea": "Сын Прилепина сделал 30 боевых выходов под дронами ВСУ",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 13:21:30 +0300",
-      "url": "https://tass.ru/proisshestviya/28107997",
+      "published_at": "Sun, 13 Sep 2026 17:25:34 +0300",
+      "url": "https://tass.ru/obschestvo/28108373",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "На юго-востоке Москвы в ДТП с мотоциклом пострадали два человека",
-      "title_neutral": "На юго-востоке Москвы в ДТП с мотоциклом пострадали два человека",
-      "excerpt": "Авария произошла на 1-й Дубровской улице",
-      "recap_neutral": "Авария произошла на 1-й Дубровской улице",
-      "main_idea": "На юго-востоке Москвы в ДТП с мотоциклом пострадали два человека",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 13:19:58 +0300",
-      "url": "https://tass.ru/proisshestviya/28107989",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Кириенко: многие руководители на Западе отворачиваются от проявлений неонацизма",
-      "title_neutral": "Кириенко: многие руководители на Западе отворачиваются от проявлений неонацизма",
-      "excerpt": "",
-      "recap_neutral": "Кириенко: многие руководители на Западе отворачиваются от проявлений неонацизма",
-      "main_idea": "Кириенко: многие руководители на Западе отворачиваются от проявлений неонацизма",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 13:18:09 +0300",
-      "url": "https://tass.ru/politika/28107991",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Токаев: потенциал БРИКС нельзя реализовать без доверия между ведущими державами",
-      "title_neutral": "Токаев: потенциал БРИКС нельзя реализовать без доверия между ведущими державами",
-      "excerpt": "Президент Казахстана подчеркнул, что, \"представляя почти половину населения мира и 40% мирового ВВП, БРИКС обладает не только значительными возможностями, но и ответственностью за преодоление разобщенности и достижение конкретных результатов\"",
-      "recap_neutral": "Президент Казахстана подчеркнул, что, \"представляя почти половину населения мира и 40% мирового ВВП, БРИКС обладает не только значительными возможностями, но и ответственностью за преодоление разобщенности и достижение…",
-      "main_idea": "Токаев: потенциал БРИКС нельзя реализовать без доверия между ведущими державами",
+      "title_original": "Эксперт BSW Дагделен обвинила Берлин в разрушении соцгосударства из-за трат на Киев",
+      "title_neutral": "Эксперт BSW Дагделен обвинила Берлин в разрушении соцгосударства из-за трат на Киев",
+      "excerpt": "Она подчеркнула, что одной из первых инициатив BSW в Палате депутатов Берлина в случае прохождения партии туда после выборов стало бы требование ощутимо снизить стоимость энергии в городе за счет импорта газа из России",
+      "recap_neutral": "Она подчеркнула, что одной из первых инициатив BSW в Палате депутатов Берлина в случае прохождения партии туда после выборов стало бы требование ощутимо снизить стоимость энергии в городе за счет импорта газа из России",
+      "main_idea": "Эксперт BSW Дагделен обвинила Берлин в разрушении соцгосударства из-за трат на Киев",
       "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 13:17:41 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28107987",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Сальдо: в некоторых районах Херсонщины отмечают улучшение ситуации со светом",
-      "title_neutral": "Сальдо: в некоторых районах Херсонщины отмечают улучшение ситуации со светом",
-      "excerpt": "По словам губернатора региона, работа по стабилизации энергоснабжения после атак ВСУ продолжается",
-      "recap_neutral": "По словам губернатора региона, работа по стабилизации энергоснабжения после атак ВСУ продолжается",
-      "main_idea": "Сальдо: в некоторых районах Херсонщины отмечают улучшение ситуации со светом",
-      "tags": [
+        "politics",
         "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 13:17:33 +0300",
-      "url": "https://tass.ru/obschestvo/28107981",
+      "published_at": "Sun, 13 Sep 2026 17:25:08 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28108365",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Песков: Россия не била по всему подряд на Украине пока Киев не \"открыл ящик Пандоры\"",
-      "title_neutral": "Песков: Россия не била по всему подряд на Украине пока Киев не \"открыл ящик Пандоры\"",
-      "excerpt": "",
-      "recap_neutral": "Песков: Россия не била по всему подряд на Украине пока Киев не \"открыл ящик Пандоры\"",
-      "main_idea": "Песков: Россия не била по всему подряд на Украине пока Киев не \"открыл ящик Пандоры\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 13:12:58 +0300",
-      "url": "https://tass.ru/politika/28107985",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Рожков назвал блестящим выступление российских паралимпийцев на ЧЕ по плаванию",
-      "title_neutral": "Рожков назвал блестящим выступление российских паралимпийцев на ЧЕ по плаванию",
-      "excerpt": "Они выиграли медальный зачет",
-      "recap_neutral": "Они выиграли медальный зачет",
-      "main_idea": "Рожков назвал блестящим выступление российских паралимпийцев на ЧЕ по плаванию",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 13:12:10 +0300",
-      "url": "https://tass.ru/sport/28107977",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Песков: киевскому режиму становится день ото дня тяжелее",
-      "title_neutral": "Песков: киевскому режиму становится день ото дня тяжелее",
-      "excerpt": "",
-      "recap_neutral": "Песков: киевскому режиму становится день ото дня тяжелее",
-      "main_idea": "Песков: киевскому режиму становится день ото дня тяжелее",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 13:11:18 +0300",
-      "url": "https://tass.ru/politika/28107979",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Атаковавший детский сад в Орле БПЛА был начинен поражающими элементами",
-      "title_neutral": "Атаковавший детский сад в Орле БПЛА был начинен поражающими элементами",
-      "excerpt": "Из-за атаки были повреждены детский сад и четыре многоквартирных дома",
-      "recap_neutral": "Из-за атаки были повреждены детский сад и четыре многоквартирных дома",
-      "main_idea": "Атаковавший детский сад в Орле БПЛА был начинен поражающими элементами",
+      "title_original": "Российский киберспортсмен выиграл турнир стран БРИКС по Tekken 8",
+      "title_neutral": "Российский киберспортсмен выиграл турнир стран БРИКС по Tekken 8",
+      "excerpt": "В финале Сергей Попов победил соотечественника Руслана Гулиева",
+      "recap_neutral": "В финале Сергей Попов победил соотечественника Руслана Гулиева",
+      "main_idea": "Российский киберспортсмен выиграл турнир стран БРИКС по Tekken 8",
       "tags": [
-        "conflict"
+        "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 13:11:08 +0300",
-      "url": "https://tass.ru/proisshestviya/28107973",
+      "published_at": "Sun, 13 Sep 2026 17:23:46 +0300",
+      "url": "https://tass.ru/sport/28108367",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ротенберг: у школы \"Красная машина\" нет задачи переманивать фигуристов",
-      "title_neutral": "Ротенберг: у школы \"Красная машина\" нет задачи переманивать фигуристов",
-      "excerpt": "В воскресенье в Москве проходит открытие школы",
-      "recap_neutral": "В воскресенье в Москве проходит открытие школы",
-      "main_idea": "Ротенберг: у школы \"Красная машина\" нет задачи переманивать фигуристов",
+      "title_original": "В аэропортах Геленджика и Сочи сняли ограничения",
+      "title_neutral": "В аэропортах Геленджика и Сочи сняли ограничения",
+      "excerpt": "",
+      "recap_neutral": "В аэропортах Геленджика и Сочи сняли ограничения",
+      "main_idea": "В аэропортах Геленджика и Сочи сняли ограничения",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 13:10:12 +0300",
-      "url": "https://tass.ru/sport/28107975",
+      "published_at": "Sun, 13 Sep 2026 17:16:59 +0300",
+      "url": "https://tass.ru/obschestvo/28108355",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ушаков: только глава МИД Бразилии упомянул Украину на саммите БРИКС",
-      "title_neutral": "Ушаков: только глава МИД Бразилии упомянул Украину на саммите БРИКС",
-      "excerpt": "Остальные ее не затрагивали, заявил помощник президента РФ",
-      "recap_neutral": "Остальные ее не затрагивали, заявил помощник президента РФ",
-      "main_idea": "Ушаков: только глава МИД Бразилии упомянул Украину на саммите БРИКС",
+      "title_original": "Трамп не обеспокоен возможной отменой визита Си Цзиньпина в США",
+      "title_neutral": "Трамп не обеспокоен возможной отменой визита Си Цзиньпина в США",
+      "excerpt": "Американский лидер заявил, что у него отличные отношения с председателем КНР",
+      "recap_neutral": "Американский лидер заявил, что у него отличные отношения с председателем КНР",
+      "main_idea": "Трамп не обеспокоен возможной отменой визита Си Цзиньпина в США",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 17:16:16 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28108353",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп: Украина должна перестать бить по нефтеперерабатывающим предприятиям РФ",
+      "title_neutral": "Трамп: Украина должна перестать бить по нефтеперерабатывающим предприятиям РФ",
+      "excerpt": "Это якобы грозит нехваткой дизельного топлива на мировых рынках, отметил президент США",
+      "recap_neutral": "Это якобы грозит нехваткой дизельного топлива на мировых рынках, отметил президент США",
+      "main_idea": "Трамп: Украина должна перестать бить по нефтеперерабатывающим предприятиям РФ",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 17:15:04 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28108349",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Погибших в ущелье Безенги альпинистов искали более 70 человек",
+      "title_neutral": "Погибших в ущелье Безенги альпинистов искали более 70 человек",
+      "excerpt": "В Эльбрусском высокогорном поисково-спасательном отряде МЧС России уточнили, что после обнаружения тела последнего, 17-го, альпиниста группировки возвращаются в места постоянной дислокации",
+      "recap_neutral": "В Эльбрусском высокогорном поисково-спасательном отряде МЧС России уточнили, что после обнаружения тела последнего, 17-го, альпиниста группировки возвращаются в места постоянной дислокации",
+      "main_idea": "Погибших в ущелье Безенги альпинистов искали более 70 человек",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 17:13:45 +0300",
+      "url": "https://tass.ru/proisshestviya/28108345",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Парламент Косова утвердил лидера \"Самоопределения\" Курти на пост премьера",
+      "title_neutral": "Парламент Косова утвердил лидера \"Самоопределения\" Курти на пост премьера",
+      "excerpt": "Кандидатуру Альбина Курти поддержали 62 депутата, 8 выступили против",
+      "recap_neutral": "Кандидатуру Альбина Курти поддержали 62 депутата, 8 выступили против",
+      "main_idea": "Парламент Косова утвердил лидера \"Самоопределения\" Курти на пост премьера",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 17:12:44 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28108341",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп рассказал, когда пройдут выборы в Венесуэле",
+      "title_neutral": "Трамп рассказал, когда пройдут выборы в Венесуэле",
+      "excerpt": "Это станет возможным, когда к этому будет готов народ страны, заявил президент США",
+      "recap_neutral": "Это станет возможным, когда к этому будет готов народ страны, заявил президент США",
+      "main_idea": "Трамп рассказал, когда пройдут выборы в Венесуэле",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 17:12:25 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28108351",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Брянске нашли пропавшего подростка",
+      "title_neutral": "В Брянске нашли пропавшего подростка",
+      "excerpt": "Мальчик ушел из дома после ссоры с родителями",
+      "recap_neutral": "Мальчик ушел из дома после ссоры с родителями",
+      "main_idea": "В Брянске нашли пропавшего подростка",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 17:10:49 +0300",
+      "url": "https://tass.ru/obschestvo/28108331",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Путин: каждый народ волен самостоятельно выбирать свой путь развития",
+      "title_neutral": "Путин: каждый народ волен самостоятельно выбирать свой путь развития",
+      "excerpt": "Президент призвал тех, кто разделяет стремления к этому, вместе менять мир",
+      "recap_neutral": "Президент призвал тех, кто разделяет стремления к этому, вместе менять мир",
+      "main_idea": "Путин: каждый народ волен самостоятельно выбирать свой путь развития",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 17:10:08 +0300",
+      "url": "https://tass.ru/politika/28108347",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Путин: судьба человека не должна определяться происхождением или кошельком",
+      "title_neutral": "Путин: судьба человека не должна определяться происхождением или кошельком",
+      "excerpt": "Человек должен оставаться человеком, отметил президент РФ",
+      "recap_neutral": "Человек должен оставаться человеком, отметил президент РФ",
+      "main_idea": "Путин: судьба человека не должна определяться происхождением или кошельком",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 17:10:02 +0300",
+      "url": "https://tass.ru/obschestvo/28108343",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Роналду призвал запретить болельщикам \"Аль-Таавуна\" посещать матчи за насмешки над Жотой",
+      "title_neutral": "Роналду призвал запретить болельщикам \"Аль-Таавуна\" посещать матчи за насмешки над Жотой",
+      "excerpt": "В ходе матча с \"Аль-Хилялем\" болельщики \"Аль-Таавуна\" провоцировали португальского полузащитника Рубена Невеша, выкрикивая имя Диогу Жоты, погибшего в ДТП в 2025 году",
+      "recap_neutral": "В ходе матча с \"Аль-Хилялем\" болельщики \"Аль-Таавуна\" провоцировали португальского полузащитника Рубена Невеша, выкрикивая имя Диогу Жоты, погибшего в ДТП в 2025 году",
+      "main_idea": "Роналду призвал запретить болельщикам \"Аль-Таавуна\" посещать матчи за насмешки над Жотой",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 17:08:39 +0300",
+      "url": "https://tass.ru/sport/28108339",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Sun: США тайно вывезли из Британии подозреваемого в преступлении дипломата",
+      "title_neutral": "The Sun: США тайно вывезли из Британии подозреваемого в преступлении дипломата",
+      "excerpt": "В операции могли быть задействованы военные Корпуса морской пехоты Соединенных Штатов, которые охраняют американские посольства и консульства за рубежом",
+      "recap_neutral": "В операции могли быть задействованы военные Корпуса морской пехоты Соединенных Штатов, которые охраняют американские посольства и консульства за рубежом",
+      "main_idea": "The Sun: США тайно вывезли из Британии подозреваемого в преступлении дипломата",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 13 Sep 2026 17:07:16 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28108335",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "title_neutral": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "excerpt": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+      "recap_neutral": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community",
+      "main_idea": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
       "tags": [
         "politics",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sun, 13 Sep 2026 13:07:52 +0300",
-      "url": "https://tass.ru/politika/28107969",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Sun, 13 Sep 2026 14:25:56 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
-      "title_neutral": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
-      "excerpt": "Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather.",
-      "recap_neutral": "Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather",
-      "main_idea": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
+      "title_original": "Legendary Canadian boxer George Chuvalo dies aged 89",
+      "title_neutral": "Legendary Canadian boxer George Chuvalo dies aged 89",
+      "excerpt": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down.",
+      "recap_neutral": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down",
+      "main_idea": "Legendary Canadian boxer George Chuvalo dies aged 89",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sun, 13 Sep 2026 14:01:44 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Your car is selling your data",
+      "title_neutral": "Your car is selling your data",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Your car is selling your data",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 13 Sep 2026 13:45:08 +0000",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Okinawa Set to Elect Conservative Amid Fears About China and Economy",
+      "title_neutral": "Okinawa Set to Elect Conservative Amid Fears About China and Economy",
+      "excerpt": "Genta Koja was projected to become the Japanese archipelago’s next governor, a win for the country’s hawkish prime minister as she works to accelerate a military buildup.",
+      "recap_neutral": "Genta Koja was projected to become the Japanese archipelago’s next governor, a win for the country’s hawkish prime minister as she works to accelerate a military buildup",
+      "main_idea": "Okinawa Set to Elect Conservative Amid Fears About China and Economy",
       "tags": [
-        "tech",
+        "economy"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 13 Sep 2026 13:42:25 +0000",
+      "url": "https://www.nytimes.com/2026/09/13/world/asia/japapn-okinawa-election-governor-conservative-china-economy.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Flock worker calls police on reporter filming public camera installation",
+      "title_neutral": "Flock worker calls police on reporter filming public camera installation",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Flock worker calls police on reporter filming public camera installation",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 13 Sep 2026 13:35:31 +0000",
+      "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+      "lang": "en",
+      "bias_score": 40,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "title_neutral": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "excerpt": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+      "recap_neutral": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather",
+      "main_idea": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "tags": [
         "climate"
       ],
       "source": "BBC World",
-      "published_at": "Sun, 13 Sep 2026 09:42:08 GMT",
+      "published_at": "Sun, 13 Sep 2026 13:30:38 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
@@ -455,18 +497,172 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Norton Neo Browser",
-      "title_neutral": "Norton Neo Browser",
+      "title_original": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
+      "title_neutral": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Norton Neo Browser",
-      "tags": [],
+      "main_idea": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
+      "tags": [
+        "conflict"
+      ],
       "source": "Hacker News",
-      "published_at": "Sun, 13 Sep 2026 09:07:59 +0000",
-      "url": "https://neobrowser.ai/",
+      "published_at": "Sun, 13 Sep 2026 13:24:28 +0000",
+      "url": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "At least six dead and 130 missing after Indonesian ferry capsizes, officials say",
+      "title_neutral": "At least six dead and 130 missing after Indonesian ferry capsizes, officials say",
+      "excerpt": "Search and rescue agency says 107 people brought to safety from vessel hit by bad weather in Java Sea Rescue workers in Indonesia said at least six people had died and 130 others were missing on Sunday after a ferry sailing between the islands of Java and Borneo capsized in bad weather. Basarnas, I…",
+      "recap_neutral": "Search and rescue agency says 107 people brought to safety from vessel hit by bad weather in Java Sea Rescue workers in Indonesia said at least six people had died and 130 others were missing on Sunday after a ferry sai…",
+      "main_idea": "At least six dead and 130 missing after Indonesian ferry capsizes, officials say",
+      "tags": [
+        "tech",
+        "climate"
+      ],
+      "source": "The Guardian",
+      "published_at": "Sun, 13 Sep 2026 12:18:49 GMT",
+      "url": "https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "title_neutral": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 13 Sep 2026 12:01:52 +0000",
+      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran Will Meet With Gulf Arab States as Mideast Conflict Widens",
+      "title_neutral": "Iran Will Meet With Gulf Arab States as Mideast Conflict Widens",
+      "excerpt": "Talks are expected tomorrow, officials said. Diplomacy to end the war with the United States has stalled and Iranian-allied forces have advanced in Yemen.",
+      "recap_neutral": "Talks are expected tomorrow, officials said",
+      "main_idea": "Iran Will Meet With Gulf Arab States as Mideast Conflict Widens",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 13 Sep 2026 11:52:17 +0000",
+      "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How One Man’s Quest for a Musketeer’s Bones Got Him Locked Up",
+      "title_neutral": "How One Man’s Quest for a Musketeer’s Bones Got Him Locked Up",
+      "excerpt": "A secret archaeological dig inside a Dutch church has led to drama worthy of Alexandre Dumas. Did Wim Dijkman really find the bones of the fourth musketeer? We may never know.",
+      "recap_neutral": "A secret archaeological dig inside a Dutch church has led to drama worthy of Alexandre Dumas",
+      "main_idea": "How One Man’s Quest for a Musketeer’s Bones Got Him Locked Up",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sun, 13 Sep 2026 11:51:49 +0000",
+      "url": "https://www.nytimes.com/2026/09/13/world/europe/wim-dijkman-musketeer-bones-dartagnan.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran war reshapes Brics ties but also exposes divisions",
+      "title_neutral": "Iran war reshapes Brics ties but also exposes divisions",
+      "excerpt": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+      "recap_neutral": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there",
+      "main_idea": "Iran war reshapes Brics ties but also exposes divisions",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 13 Sep 2026 11:23:42 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "title_neutral": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "excerpt": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+      "recap_neutral": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks",
+      "main_idea": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 13 Sep 2026 11:13:07 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Actor Tatyana Ali advocating for Black and Indigenous maternal health",
+      "title_neutral": "Actor Tatyana Ali advocating for Black and Indigenous maternal health",
+      "excerpt": "Actor Tatyana Ali says her healing journey after a traumatic childbirth has inspired her advocacy for Black maternal health, including support for midwives, doulas and other birth workers.",
+      "recap_neutral": "Actor Tatyana Ali says her healing journey after a traumatic childbirth has inspired her advocacy for Black maternal health, including support for midwives, doulas and other birth workers",
+      "main_idea": "Actor Tatyana Ali advocating for Black and Indigenous maternal health",
+      "tags": [
+        "health"
+      ],
+      "source": "NPR",
+      "published_at": "Sun, 13 Sep 2026 10:00:00 -0400",
+      "url": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Revolut confirms customer data breach through fake government requests",
+      "title_neutral": "Revolut confirms customer data breach through fake government requests",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Revolut confirms customer data breach through fake government requests",
+      "tags": [
+        "politics"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 13 Sep 2026 09:59:58 +0000",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "title_neutral": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "excerpt": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+      "recap_neutral": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors",
+      "main_idea": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 13 Sep 2026 09:05:10 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -504,18 +700,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "How One Man’s Quest for a Musketeer’s Bones Got Him Locked Up",
-      "title_neutral": "How One Man’s Quest for a Musketeer’s Bones Got Him Locked Up",
-      "excerpt": "A secret archaeological dig inside a Dutch church has led to drama worthy of Alexandre Dumas. Did Wim Dijkman really find the bones of the fourth musketeer? We may never know.",
-      "recap_neutral": "A secret archaeological dig inside a Dutch church has led to drama worthy of Alexandre Dumas",
-      "main_idea": "How One Man’s Quest for a Musketeer’s Bones Got Him Locked Up",
+      "title_original": "Homebrew 7.0.0",
+      "title_neutral": "Homebrew 7.0.0",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Homebrew 7.0.0",
       "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sun, 13 Sep 2026 09:00:23 +0000",
-      "url": "https://www.nytimes.com/2026/09/13/world/europe/wim-dijkman-musketeer-bones-dartagnan.html",
+      "source": "Hacker News",
+      "published_at": "Sun, 13 Sep 2026 08:41:17 +0000",
+      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -534,6 +730,41 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Can you imagine a universe without a new 'Star Trek' on the horizon?",
+      "title_neutral": "Can you imagine a universe without a new 'Star Trek' on the horizon?",
+      "excerpt": "As Star Trek celebrates its 60th birthday, the long-running franchise is also grappling with the challenges of timing and technology. \"Its audience is aging,\" says Strange New Worlds star Anson Mount.",
+      "recap_neutral": "As Star Trek celebrates its 60th birthday, the long-running franchise is also grappling with the challenges of timing and technology",
+      "main_idea": "Can you imagine a universe without a new 'Star Trek' on the horizon?",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Sun, 13 Sep 2026 07:00:00 -0400",
+      "url": "https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Indonesian passenger ship overturns, sparking search for about 130 missing",
+      "title_neutral": "Indonesian passenger ship overturns, sparking search for about 130 missing",
+      "excerpt": "Indonesian rescuers said about 130 passengers and crew are missing after a ferry carrying more than 240 people sank in bad weather in the Java Sea on Sunday.",
+      "recap_neutral": "Indonesian rescuers said about 130 passengers and crew are missing after a ferry carrying more than 240 people sank in bad weather in the Java Sea on Sunday",
+      "main_idea": "Indonesian passenger ship overturns, sparking search for about 130 missing",
+      "tags": [
+        "tech",
+        "climate"
+      ],
+      "source": "NPR",
+      "published_at": "Sun, 13 Sep 2026 06:31:10 -0400",
+      "url": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "In Flood-Stricken Nepal, a Cool Gust Carries Hopes of a Miracle Rescue",
       "title_neutral": "In Flood-Stricken Nepal, a Cool Gust Carries Hopes of a Miracle Rescue",
       "excerpt": "Rescuers clawing through a hydropower tunnel clogged with mud, water and rock have found a pocket of air near where six workers are believed to be trapped.",
@@ -548,23 +779,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Indonesian rescue crews searching for 140 people after ferry hit bad weather",
-      "title_neutral": "Indonesian rescue crews searching for 140 people after ferry hit bad weather",
-      "excerpt": "More than 100 others on board were evacuated from the Virgo ⁠Transport 8 ship, including one who died Indonesian rescuers were searching on Sunday for 140 people from a ⁠passenger ship that was earlier reported missing in the Java Sea ​after 103 others were evacuated, ‌one of whom ‌died, a search a…",
-      "recap_neutral": "More than 100 others on board were evacuated from the Virgo ⁠Transport 8 ship, including one who died Indonesian rescuers were searching on Sunday for 140 people from a ⁠passenger ship that was earlier reported missing…",
-      "main_idea": "Indonesian rescue crews searching for 140 people after ferry hit bad weather",
-      "tags": [
-        "climate"
-      ],
-      "source": "The Guardian",
-      "published_at": "Sun, 13 Sep 2026 05:10:38 GMT",
-      "url": "https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
       "confidence": "heuristic"
     },
     {
@@ -616,21 +830,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Tracing the Path of Nepal’s Flood",
-      "title_neutral": "Tracing the Path of Nepal’s Flood",
-      "excerpt": "Mujib Mashal, our South Asia bureau chief, travels to points along a river in Nepal that turned into a deadly torrent, killing more than 1,300 people and leaving over 5,000 more missing as entire, towns bridges and roads were swept away.",
-      "recap_neutral": "Mujib Mashal, our South Asia bureau chief, travels to points along a river in Nepal that turned into a deadly torrent, killing more than 1,300 people and leaving over 5,000 more missing as entire, towns bridges and road…",
-      "main_idea": "Tracing the Path of Nepal’s Flood",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sun, 13 Sep 2026 04:00:03 +0000",
-      "url": "https://www.nytimes.com/video/world/asia/100000011129754/tracing-the-path-of-nepals-flood.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Aligned to whom?",
       "title_neutral": "Aligned to whom?",
       "excerpt": "Comments",
@@ -640,21 +839,6 @@
       "source": "Hacker News",
       "published_at": "Sun, 13 Sep 2026 03:17:18 +0000",
       "url": "https://hyperbo.la/w/aligned-to-whom/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "After Math",
-      "title_neutral": "After Math",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "After Math",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 13 Sep 2026 03:16:41 +0000",
-      "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -759,23 +943,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Everyone should slow down AI development except for me",
-      "title_neutral": "Everyone should slow down AI development except for me",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Everyone should slow down AI development except for me",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sun, 13 Sep 2026 00:30:44 +0000",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
       "title_neutral": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
       "excerpt": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
@@ -793,17 +960,17 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "AgentsDock: An IDE designed for agentic AI research",
-      "title_neutral": "AgentsDock: An IDE designed for agentic AI research",
+      "title_original": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "title_neutral": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "AgentsDock: An IDE designed for agentic AI research",
+      "main_idea": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
       "tags": [
         "tech"
       ],
       "source": "Hacker News",
-      "published_at": "Sat, 12 Sep 2026 23:45:58 +0000",
-      "url": "https://agentsdock.net/",
+      "published_at": "Sat, 12 Sep 2026 23:43:31 +0000",
+      "url": "https://github.com/FeralFirmware/TailTalk/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -822,41 +989,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting",
-      "title_neutral": "‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting",
-      "excerpt": "Hunger and disease have tormented Yemen for years. Now, fighting between the Saudi-backed government and Iran-backed Houthis is pushing it to the brink.",
-      "recap_neutral": "Hunger and disease have tormented Yemen for years",
-      "main_idea": "‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting",
-      "tags": [
-        "politics",
-        "health"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 12 Sep 2026 22:28:44 +0000",
-      "url": "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Best friends for decades - until a DNA test revealed they were sisters",
-      "title_neutral": "Best friends for decades - until a DNA test revealed they were sisters",
-      "excerpt": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
-      "recap_neutral": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands",
-      "main_idea": "Best friends for decades - until a DNA test revealed they were sisters",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 12 Sep 2026 22:00:28 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1105,41 +1237,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Nvidia is the central bank of AI",
-      "title_neutral": "Nvidia is the central bank of AI",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Nvidia is the central bank of AI",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 12 Sep 2026 15:08:27 +0000",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "French officials investigate if malicious act caused train derailment",
-      "title_neutral": "French officials investigate if malicious act caused train derailment",
-      "excerpt": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
-      "recap_neutral": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured",
-      "main_idea": "French officials investigate if malicious act caused train derailment",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 12 Sep 2026 15:05:53 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Why SPIFFE Agent Identities Can Still Be Replayed, and How WIMSE Fixes It",
       "title_neutral": "Why SPIFFE Agent Identities Can Still Be Replayed, and How WIMSE Fixes It",
       "excerpt": "SPIFFE identity tokens for AI agents can still be replayed if intercepted. The IETF WIMSE group built the fix, and SPIFFE just adopted it.",
@@ -1237,40 +1334,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "title_neutral": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "excerpt": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-      "recap_neutral": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran",
-      "main_idea": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 12 Sep 2026 12:15:50 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-      "title_neutral": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-      "excerpt": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
-      "recap_neutral": "The authorities have struggled to contain the fallout, as frightened migrants flee the country",
-      "main_idea": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 12 Sep 2026 10:00:05 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1427,57 +1490,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
-      "title_neutral": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
-      "excerpt": "Leading Palestinian writer Raja Shehadeh has documented Israel's occupation of the West Bank since day one. Fearing the occupation might consume his archive, he secretly moved it to Scotland",
-      "recap_neutral": "Leading Palestinian writer Raja Shehadeh has documented Israel's occupation of the West Bank since day one",
-      "main_idea": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
-      "tags": [
-        "economy"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 12 Sep 2026 06:00:00 -0400",
-      "url": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
-      "title_neutral": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
-      "excerpt": "The cargo plane crash in Miami is raising concerns about the safety culture at 21 Air, one of the carriers that fly for Amazon. Former pilots were sounding alarms even before Sunday's accident.",
-      "recap_neutral": "The cargo plane crash in Miami is raising concerns about the safety culture at 21 Air, one of the carriers that fly for Amazon",
-      "main_idea": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 12 Sep 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
-      "title_neutral": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
-      "excerpt": "The assassination of far right activist Charlie Kirk opened the floodgates of neighbor-on-neighbor doxing. A year later, the damage to political discourse in the U.S. remains.",
-      "recap_neutral": "The assassination of far right activist Charlie Kirk opened the floodgates of neighbor-on-neighbor doxing",
-      "main_idea": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 12 Sep 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Death toll from Philippines ferry fire rises to 35, as officials warn toll will grow",
       "title_neutral": "Death toll from Philippines ferry fire rises to 35, as officials warn toll will grow",
       "excerpt": "The deadly fire had begun in the ferry’s cargo hold, then tore through the ship within seconds The bodies of passengers killed in a ferry fire off the Philippines arrived at a port near the resort town of Coron, Palawan, on Saturday morning, as the country’s coast guard warned the death toll of 35…",
@@ -1591,23 +1603,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "title_neutral": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "excerpt": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
-      "recap_neutral": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years",
-      "main_idea": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "tags": [
-        "conflict"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 11 Sep 2026 19:44:58 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Buddhist monk arrested in Thailand on suspicion of embezzling $2.8m",
       "title_neutral": "Buddhist monk arrested in Thailand on suspicion of embezzling $2.8m",
       "excerpt": "Phra Wachirayan Wi arrested alongside woman he was filmed having sex with in latest scandal to hit country’s clergy Police in Thailand have arrested a senior Buddhist monk on suspicion of embezzling $2.8m intended for his monastery, alongside a suspected female accomplice he was filmed having sex w…",
@@ -1622,6 +1617,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Base84 deserves a place in file names",
+      "title_neutral": "Base84 deserves a place in file names",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Base84 deserves a place in file names",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 11 Sep 2026 09:06:45 +0000",
+      "url": "https://00f.net/2026/09/09/base84/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
