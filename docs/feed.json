@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T19:24:42.504853+00:00",
+  "last_updated": "2026-09-18T21:46:03.324618+00:00",
   "items": [
     {
       "title_original": "Battle of Chile director Patricio Guzmán dies aged 85",
@@ -49,21 +49,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "New wild cat species discovered - with only one known living member",
-      "title_neutral": "New wild cat species discovered - with only one known living member",
-      "excerpt": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
-      "recap_neutral": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia",
-      "main_idea": "New wild cat species discovered - with only one known living member",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Thu, 17 Sep 2026 23:15:55 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Yemen War Intensifies as Houthi Militia Advances on Marib",
       "title_neutral": "Yemen War Intensifies as Houthi Militia Advances on Marib",
       "excerpt": "Clashes between Iranian-backed Houthi fighters and Saudi-backed government forces have been reported near oil-rich Marib Province.",
@@ -79,6 +64,21 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to Write with an LLM",
+      "title_neutral": "How to Write with an LLM",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "How to Write with an LLM",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 17 Sep 2026 21:48:38 +0000",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -130,15 +130,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Show HN: Ax-check.com – Can agents use your product?",
-      "title_neutral": "Show HN: Ax-check.com – Can agents use your product?",
+      "title_original": "The first new cat species discovered in 100 years",
+      "title_neutral": "The first new cat species discovered in 100 years",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Show HN: Ax-check.com – Can agents use your product?",
+      "main_idea": "The first new cat species discovered in 100 years",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Thu, 17 Sep 2026 18:08:02 +0000",
-      "url": "https://www.ax-check.com/",
+      "published_at": "Thu, 17 Sep 2026 18:31:56 +0000",
+      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -162,267 +162,350 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Canada welcomes EU proposal to become 'associate member'",
-      "title_neutral": "Canada welcomes EU proposal to become 'associate member'",
-      "excerpt": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
-      "recap_neutral": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\"",
-      "main_idea": "Canada welcomes EU proposal to become 'associate member'",
+      "title_original": "В Счетной палате назвали сумму взносов самозанятых для оплаты больничного",
+      "title_neutral": "В Счетной палате назвали сумму взносов самозанятых для оплаты больничного",
+      "excerpt": "Россияне внесли 79,98 млн рублей в I полугодии, сообщила зампред СП Галина Изотова",
+      "recap_neutral": "Россияне внесли 79,98 млн рублей в I полугодии, сообщила зампред СП Галина Изотова",
+      "main_idea": "В Счетной палате назвали сумму взносов самозанятых для оплаты больничного",
       "tags": [
         "tech"
       ],
+      "source": "ТАСС",
+      "published_at": "Sat, 19 Sep 2026 00:38:16 +0300",
+      "url": "https://tass.ru/ekonomika/28127325",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Путин уверен, что ОПК России будет наращивать потенциал",
+      "title_neutral": "Путин уверен, что ОПК России будет наращивать потенциал",
+      "excerpt": "",
+      "recap_neutral": "Путин уверен, что ОПК России будет наращивать потенциал",
+      "main_idea": "Путин уверен, что ОПК России будет наращивать потенциал",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 19 Sep 2026 00:36:43 +0300",
+      "url": "https://tass.ru/obschestvo/28127347",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Пентагон считает, что ИИ и автономные системы станут определять войны будущего",
+      "title_neutral": "Пентагон считает, что ИИ и автономные системы станут определять войны будущего",
+      "excerpt": "",
+      "recap_neutral": "Пентагон считает, что ИИ и автономные системы станут определять войны будущего",
+      "main_idea": "Пентагон считает, что ИИ и автономные системы станут определять войны будущего",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 19 Sep 2026 00:32:11 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28127341",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп заявил, что противники США не имеют права размещать военных в Гренландии",
+      "title_neutral": "Трамп заявил, что противники США не имеют права размещать военных в Гренландии",
+      "excerpt": "",
+      "recap_neutral": "Трамп заявил, что противники США не имеют права размещать военных в Гренландии",
+      "main_idea": "Трамп заявил, что противники США не имеют права размещать военных в Гренландии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 19 Sep 2026 00:31:28 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28127345",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Всемирную продовольственную программу ООН вновь возглавил американец",
+      "title_neutral": "Всемирную продовольственную программу ООН вновь возглавил американец",
+      "excerpt": "",
+      "recap_neutral": "Всемирную продовольственную программу ООН вновь возглавил американец",
+      "main_idea": "Всемирную продовольственную программу ООН вновь возглавил американец",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 19 Sep 2026 00:30:52 +0300",
+      "url": "https://tass.ru/obschestvo/28127343",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Избирательный участок в посольстве России в Чехии готов к голосованию",
+      "title_neutral": "Избирательный участок в посольстве России в Чехии готов к голосованию",
+      "excerpt": "",
+      "recap_neutral": "Избирательный участок в посольстве России в Чехии готов к голосованию",
+      "main_idea": "Избирательный участок в посольстве России в Чехии готов к голосованию",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 19 Sep 2026 00:30:38 +0300",
+      "url": "https://tass.ru/politika/28127337",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп заявил, что США начнут наращивать военное присутствие в Гренландии",
+      "title_neutral": "Трамп заявил, что США начнут наращивать военное присутствие в Гренландии",
+      "excerpt": "",
+      "recap_neutral": "Трамп заявил, что США начнут наращивать военное присутствие в Гренландии",
+      "main_idea": "Трамп заявил, что США начнут наращивать военное присутствие в Гренландии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 19 Sep 2026 00:29:22 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28127339",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп допустил отмену решения о лишении доступа в Белый дом некоторых СМИ",
+      "title_neutral": "Трамп допустил отмену решения о лишении доступа в Белый дом некоторых СМИ",
+      "excerpt": "Для этого CNN, MS NOW и Politico необходимо пересмотреть свою редакционную политику, отметил американский лидер",
+      "recap_neutral": "Для этого CNN, MS NOW и Politico необходимо пересмотреть свою редакционную политику, отметил американский лидер",
+      "main_idea": "Трамп допустил отмену решения о лишении доступа в Белый дом некоторых СМИ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 19 Sep 2026 00:28:16 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28127331",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп заявил, что США и Дания договорились об обеспечении безопасности Гренландии",
+      "title_neutral": "Трамп заявил, что США и Дания договорились об обеспечении безопасности Гренландии",
+      "excerpt": "",
+      "recap_neutral": "Трамп заявил, что США и Дания договорились об обеспечении безопасности Гренландии",
+      "main_idea": "Трамп заявил, что США и Дания договорились об обеспечении безопасности Гренландии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 19 Sep 2026 00:26:48 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28127335",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На федеральной территории Сириус приостановили работу АЗС",
+      "title_neutral": "На федеральной территории Сириус приостановили работу АЗС",
+      "excerpt": "Минэнерго совместно с топливными компаниями приняли такое решение из соображений безопасности",
+      "recap_neutral": "Минэнерго совместно с топливными компаниями приняли такое решение из соображений безопасности",
+      "main_idea": "На федеральной территории Сириус приостановили работу АЗС",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 19 Sep 2026 00:25:07 +0300",
+      "url": "https://tass.ru/ekonomika/28127333",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве в Гостином Дворе стартует юбилейный семейный фестиваль \"Спортлэнд\"",
+      "title_neutral": "В Москве в Гостином Дворе стартует юбилейный семейный фестиваль \"Спортлэнд\"",
+      "excerpt": "Состоятся открытые турниры по лазертагу, настольному теннису, гребле-индор",
+      "recap_neutral": "Состоятся открытые турниры по лазертагу, настольному теннису, гребле-индор",
+      "main_idea": "В Москве в Гостином Дворе стартует юбилейный семейный фестиваль \"Спортлэнд\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 19 Sep 2026 00:21:34 +0300",
+      "url": "https://tass.ru/obschestvo/28127307",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Вступили в силу новые справочники союза автостраховщиков с ценами на запчасти",
+      "title_neutral": "Вступили в силу новые справочники союза автостраховщиков с ценами на запчасти",
+      "excerpt": "Средняя стоимость запасных частей выросла на 8,2%",
+      "recap_neutral": "Средняя стоимость запасных частей выросла на 8,2%",
+      "main_idea": "Вступили в силу новые справочники союза автостраховщиков с ценами на запчасти",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 19 Sep 2026 00:10:25 +0300",
+      "url": "https://tass.ru/ekonomika/28127297",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве определят первых победителей программы \"Миллион призов\"",
+      "title_neutral": "В Москве определят первых победителей программы \"Миллион призов\"",
+      "excerpt": "Победители получат не менее 1 тыс. баллов, а также будут разыграны призы номиналом 3, 5, 10 и 50 тыс. баллов",
+      "recap_neutral": "Победители получат не менее 1 тыс",
+      "main_idea": "В Москве определят первых победителей программы \"Миллион призов\"",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 19 Sep 2026 00:08:16 +0300",
+      "url": "https://tass.ru/obschestvo/28127303",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Без больших ожиданий для России. В Германии пройдут выборы главы IBU",
+      "title_neutral": "Без больших ожиданий для России. В Германии пройдут выборы главы IBU",
+      "excerpt": "Конгресс не включил в повестку вопрос о возвращении российских спортсменов на международные соревнования",
+      "recap_neutral": "Конгресс не включил в повестку вопрос о возвращении российских спортсменов на международные соревнования",
+      "main_idea": "Без больших ожиданий для России. В Германии пройдут выборы главы IBU",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 19 Sep 2026 00:07:05 +0300",
+      "url": "https://tass.ru/sport/28127319",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Захарова сообщила, что встреча Лаврова и Рубио в Нью-Йорке прорабатывается",
+      "title_neutral": "Захарова сообщила, что встреча Лаврова и Рубио в Нью-Йорке прорабатывается",
+      "excerpt": "Официальный представитель МИД РФ подтвердила, что тема Украины остается одной из ключевых на переговорах",
+      "recap_neutral": "Официальный представитель МИД РФ подтвердила, что тема Украины остается одной из ключевых на переговорах",
+      "main_idea": "Захарова сообщила, что встреча Лаврова и Рубио в Нью-Йорке прорабатывается",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 19 Sep 2026 00:05:43 +0300",
+      "url": "https://tass.ru/politika/28127315",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump says he is banning CNN and Politico from White House",
+      "title_neutral": "Trump says he is banning CNN and Politico from White House",
+      "excerpt": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+      "recap_neutral": "The US president has had a tense and fiery relationship with the US media throughout his political career",
+      "main_idea": "Trump says he is banning CNN and Politico from White House",
+      "tags": [
+        "politics"
+      ],
       "source": "BBC World",
-      "published_at": "Thu, 17 Sep 2026 12:27:18 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 18 Sep 2026 21:45:19 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "BFMTV узнал, когда суд во Франции огласит решение по делу Депардье",
-      "title_neutral": "BFMTV узнал, когда суд во Франции огласит решение по делу Депардье",
-      "excerpt": "Это произойдет 26 ноября",
-      "recap_neutral": "Это произойдет 26 ноября",
-      "main_idea": "BFMTV узнал, когда суд во Франции огласит решение по делу Депардье",
+      "title_original": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "title_neutral": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 18 Sep 2026 21:00:32 +0000",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "title_neutral": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "excerpt": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+      "recap_neutral": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility",
+      "main_idea": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 18 Sep 2026 20:17:50 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Korea raises data breach fines to 10% of revenue",
+      "title_neutral": "Korea raises data breach fines to 10% of revenue",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Korea raises data breach fines to 10% of revenue",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Fri, 18 Sep 2026 22:23:59 +0300",
-      "url": "https://tass.ru/obschestvo/28126939",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Fri, 18 Sep 2026 20:02:54 +0000",
+      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Кейн быстрее всех в истории Бундеслиги забил 100 голов",
-      "title_neutral": "Кейн быстрее всех в истории Бундеслиги забил 100 голов",
-      "excerpt": "Для достижения этой отметки нападающему \"Баварии\" потребовалось 98 матчей",
-      "recap_neutral": "Для достижения этой отметки нападающему \"Баварии\" потребовалось 98 матчей",
-      "main_idea": "Кейн быстрее всех в истории Бундеслиги забил 100 голов",
+      "title_original": "Protests Erupt in Nigeria After Police Pack 66 Miners Into One Cell",
+      "title_neutral": "Protests Erupt in Nigeria After Police Pack 66 Miners Into One Cell",
+      "excerpt": "Thirty-seven people died in the authorities’ custody, officials said. Survivors said the cell had barely any ventilation, food, or water and people began “collapsing and dying.”",
+      "recap_neutral": "Thirty-seven people died in the authorities’ custody, officials said",
+      "main_idea": "Protests Erupt in Nigeria After Police Pack 66 Miners Into One Cell",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Fri, 18 Sep 2026 22:22:46 +0300",
-      "url": "https://tass.ru/sport/28127195",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Fri, 18 Sep 2026 19:45:51 +0000",
+      "url": "https://www.nytimes.com/2026/09/18/world/africa/nigeria-miners-dead-police-minna.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В АдГ заявили о намерении запустить \"Северный поток\"",
-      "title_neutral": "В АдГ заявили о намерении запустить \"Северный поток\"",
-      "excerpt": "Сопредседатель \"Альтернативы для Германии\" Тино Хрупалла не видит необходимости в терминалах по приему СПГ",
-      "recap_neutral": "Сопредседатель \"Альтернативы для Германии\" Тино Хрупалла не видит необходимости в терминалах по приему СПГ",
-      "main_idea": "В АдГ заявили о намерении запустить \"Северный поток\"",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 18 Sep 2026 22:22:17 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28127021",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Шохин высоко оценил ульяновский опыт по внедрению регионального инвестстандарта",
-      "title_neutral": "Шохин высоко оценил ульяновский опыт по внедрению регионального инвестстандарта",
-      "excerpt": "По словам президента Российского союза промышленников и предпринимателей, регион является одним из эталонных примеров выстраивания отношений с бизнесом и активной работы по улучшению делового климата",
-      "recap_neutral": "По словам президента Российского союза промышленников и предпринимателей, регион является одним из эталонных примеров выстраивания отношений с бизнесом и активной работы по улучшению делового климата",
-      "main_idea": "Шохин высоко оценил ульяновский опыт по внедрению регионального инвестстандарта",
-      "tags": [
-        "politics",
-        "climate"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 18 Sep 2026 22:21:08 +0300",
-      "url": "https://tass.ru/ekonomika/28126995",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лидер АдГ назвал партию Мерца \"клубом Украины\"",
-      "title_neutral": "Лидер АдГ назвал партию Мерца \"клубом Украины\"",
-      "excerpt": "Сопредседатель \"Альтернативы для Германии\" Тино Хрупалла напомнил, что Германия переводит киевскому режиму миллиарды евро",
-      "recap_neutral": "Сопредседатель \"Альтернативы для Германии\" Тино Хрупалла напомнил, что Германия переводит киевскому режиму миллиарды евро",
-      "main_idea": "Лидер АдГ назвал партию Мерца \"клубом Украины\"",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 18 Sep 2026 22:19:02 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28127109",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Наблюдатель из Мексики заявил, что мир следит за выборами в ЛНР",
-      "title_neutral": "Наблюдатель из Мексики заявил, что мир следит за выборами в ЛНР",
-      "excerpt": "По словам Нидии Эгреми, это подтверждает новый миропорядок",
-      "recap_neutral": "По словам Нидии Эгреми, это подтверждает новый миропорядок",
-      "main_idea": "Наблюдатель из Мексики заявил, что мир следит за выборами в ЛНР",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 18 Sep 2026 22:15:32 +0300",
-      "url": "https://tass.ru/politika/28127191",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Трамп запретил доступ в Белый дом журналистам CNN, MSNOW и Politico",
-      "title_neutral": "Трамп запретил доступ в Белый дом журналистам CNN, MSNOW и Politico",
-      "excerpt": "Это связано с публикацией ложных данных об администрации",
-      "recap_neutral": "Это связано с публикацией ложных данных об администрации",
-      "main_idea": "Трамп запретил доступ в Белый дом журналистам CNN, MSNOW и Politico",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 18 Sep 2026 22:14:09 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28127187",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Пензенской области явка на выборах по итогам первого дня составила 28,07%",
-      "title_neutral": "В Пензенской области явка на выборах по итогам первого дня составила 28,07%",
-      "excerpt": "Всего проголосовало 275 902 избирателя",
-      "recap_neutral": "Всего проголосовало 275 902 избирателя",
-      "main_idea": "В Пензенской области явка на выборах по итогам первого дня составила 28,07%",
+      "title_original": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran",
+      "title_neutral": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran",
+      "excerpt": "President Lee Jae Myung’s comments followed President Trump’s repeated demand for “a little hand” from South Korea, a decades-old American ally.",
+      "recap_neutral": "President Lee Jae Myung’s comments followed President Trump’s repeated demand for “a little hand” from South Korea, a decades-old American ally",
+      "main_idea": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran",
       "tags": [
         "politics"
       ],
-      "source": "ТАСС",
-      "published_at": "Fri, 18 Sep 2026 22:13:41 +0300",
-      "url": "https://tass.ru/politika/28127161",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Ленобласти явка на выборах по итогам первого дня составила почти 30%",
-      "title_neutral": "В Ленобласти явка на выборах по итогам первого дня составила почти 30%",
-      "excerpt": "В регионе проголосовали 425 904 человека",
-      "recap_neutral": "В регионе проголосовали 425 904 человека",
-      "main_idea": "В Ленобласти явка на выборах по итогам первого дня составила почти 30%",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 18 Sep 2026 22:11:49 +0300",
-      "url": "https://tass.ru/politika/28127167",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Москве эвакуировали 14 застрявших на аттракционе",
-      "title_neutral": "В Москве эвакуировали 14 застрявших на аттракционе",
-      "excerpt": "Среди них девять детей",
-      "recap_neutral": "Среди них девять детей",
-      "main_idea": "В Москве эвакуировали 14 застрявших на аттракционе",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 18 Sep 2026 22:08:48 +0300",
-      "url": "https://tass.ru/proisshestviya/28127185",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Локомотив-Кубань\" обыграл ЦСКА в матче Суперкубка Единой лиги ВТБ",
-      "title_neutral": "\"Локомотив-Кубань\" обыграл ЦСКА в матче Суперкубка Единой лиги ВТБ",
-      "excerpt": "Встреча завершилась со счетом 90:82",
-      "recap_neutral": "Встреча завершилась со счетом 90:82",
-      "main_idea": "\"Локомотив-Кубань\" обыграл ЦСКА в матче Суперкубка Единой лиги ВТБ",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 18 Sep 2026 22:03:19 +0300",
-      "url": "https://tass.ru/sport/28127171",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропорту Сочи ввели временные ограничения",
-      "title_neutral": "В аэропорту Сочи ввели временные ограничения",
-      "excerpt": "",
-      "recap_neutral": "В аэропорту Сочи ввели временные ограничения",
-      "main_idea": "В аэропорту Сочи ввели временные ограничения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 18 Sep 2026 21:59:33 +0300",
-      "url": "https://tass.ru/ekonomika/28127159",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Явка на выборах в Госдуму в Петербурге по итогам первого дня составила 27,10%",
-      "title_neutral": "Явка на выборах в Госдуму в Петербурге по итогам первого дня составила 27,10%",
-      "excerpt": "Явка избирателей на выборах депутатов заксобрания города составила 26,93%",
-      "recap_neutral": "Явка избирателей на выборах депутатов заксобрания города составила 26,93%",
-      "main_idea": "Явка на выборах в Госдуму в Петербурге по итогам первого дня составила 27,10%",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 18 Sep 2026 21:58:17 +0300",
-      "url": "https://tass.ru/politika/28127153",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На федеральной платформе ДЭГ проголосовали более 2,8 млн человек",
-      "title_neutral": "На федеральной платформе ДЭГ проголосовали более 2,8 млн человек",
-      "excerpt": "Явка составила 70% от числа зарегистрированных участников по состоянию на 21:45 мск",
-      "recap_neutral": "Явка составила 70% от числа зарегистрированных участников по состоянию на 21:45 мск",
-      "main_idea": "На федеральной платформе ДЭГ проголосовали более 2,8 млн человек",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 18 Sep 2026 21:57:04 +0300",
-      "url": "https://tass.ru/obschestvo/28127131",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ЦСКА обыграл \"Торпедо\" в матче Континентальной хоккейной лиги",
-      "title_neutral": "ЦСКА обыграл \"Торпедо\" в матче Континентальной хоккейной лиги",
-      "excerpt": "Нижегородский клуб потерпел первое поражение на новой арене",
-      "recap_neutral": "Нижегородский клуб потерпел первое поражение на новой арене",
-      "main_idea": "ЦСКА обыграл \"Торпедо\" в матче Континентальной хоккейной лиги",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Fri, 18 Sep 2026 21:56:29 +0300",
-      "url": "https://tass.ru/sport/28127145",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Fri, 18 Sep 2026 19:24:18 +0000",
+      "url": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -433,7 +516,7 @@
       "main_idea": "Eugenia Apostol, Whose Journalism Helped Topple a Dictator, Dies at 100",
       "tags": [],
       "source": "NYTimes World",
-      "published_at": "Fri, 18 Sep 2026 19:13:31 +0000",
+      "published_at": "Fri, 18 Sep 2026 19:13:32 +0000",
       "url": "https://www.nytimes.com/2026/09/18/world/asia/eugenia-apostol-dead.html",
       "lang": "en",
       "bias_score": 55,
@@ -458,6 +541,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "title_neutral": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 18 Sep 2026 19:03:09 +0000",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "The Implications of Linguistic Illegibility for LLM Security",
       "title_neutral": "The Implications of Linguistic Illegibility for LLM Security",
       "excerpt": "Comments",
@@ -473,11 +571,26 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
-      "title_neutral": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
+      "title_original": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+      "title_neutral": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+      "excerpt": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in.",
+      "recap_neutral": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in",
+      "main_idea": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Fri, 18 Sep 2026 18:56:17 GMT",
+      "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "title_neutral": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
+      "main_idea": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Fri, 18 Sep 2026 18:55:35 +0000",
@@ -488,20 +601,33 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Protests Erupt in Nigeria After Police Pack 66 Miners Into One Cell",
-      "title_neutral": "Protests Erupt in Nigeria After Police Pack 66 Miners Into One Cell",
-      "excerpt": "Thirty-seven people died in the authorities’ custody, officials said. Two survivors said the cell had barely any ventilation, food, or water. People began “collapsing and dying,” one said.",
-      "recap_neutral": "Thirty-seven people died in the authorities’ custody, officials said",
-      "main_idea": "Protests Erupt in Nigeria After Police Pack 66 Miners Into One Cell",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 18 Sep 2026 18:41:17 +0000",
-      "url": "https://www.nytimes.com/2026/09/18/world/africa/nigeria-miners-dead-police-minna.html",
+      "title_original": "Saving another 100TB of RAM",
+      "title_neutral": "Saving another 100TB of RAM",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Saving another 100TB of RAM",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 18 Sep 2026 18:51:46 +0000",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Xcode 27.1 Beta Release Notes",
+      "title_neutral": "Xcode 27.1 Beta Release Notes",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Xcode 27.1 Beta Release Notes",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 18 Sep 2026 18:39:31 +0000",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -541,37 +667,22 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "title_neutral": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "excerpt": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-      "recap_neutral": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility",
-      "main_idea": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "title_original": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+      "title_neutral": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+      "excerpt": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+      "recap_neutral": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross",
+      "main_idea": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
       "tags": [
-        "conflict"
+        "economy",
+        "conflict",
+        "tech"
       ],
       "source": "BBC World",
-      "published_at": "Fri, 18 Sep 2026 17:31:30 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 18 Sep 2026 17:57:30 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "US Military had close call after using AI for hallucinated intelligence report",
-      "title_neutral": "US Military had close call after using AI for hallucinated intelligence report",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "US Military had close call after using AI for hallucinated intelligence report",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Fri, 18 Sep 2026 17:28:01 +0000",
-      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "lang": "en",
-      "bias_score": 40,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -590,6 +701,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "North Korean anthem played for South Korea at Asian Games",
+      "title_neutral": "North Korean anthem played for South Korea at Asian Games",
+      "excerpt": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
+      "recap_neutral": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan",
+      "main_idea": "North Korean anthem played for South Korea at Asian Games",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Fri, 18 Sep 2026 17:18:09 GMT",
+      "url": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
       "title_neutral": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
       "excerpt": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
@@ -601,6 +727,40 @@
       "source": "BBC World",
       "published_at": "Fri, 18 Sep 2026 17:15:02 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
+      "title_neutral": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
+      "excerpt": "This year's single-elimination tournament will see 16 competitors face off, compared to 12 in past years. Officials report more cubs in Katmai National Park than they've seen in recent memory.",
+      "recap_neutral": "This year's single-elimination tournament will see 16 competitors face off, compared to 12 in past years",
+      "main_idea": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Fri, 18 Sep 2026 17:13:14 -0400",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+      "title_neutral": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+      "excerpt": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
+      "recap_neutral": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\"",
+      "main_idea": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 18 Sep 2026 17:10:58 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -640,18 +800,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Systemd is a suite of basic building blocks",
-      "title_neutral": "Systemd is a suite of basic building blocks",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Systemd is a suite of basic building blocks",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 18 Sep 2026 16:31:43 +0000",
-      "url": "https://brand.systemd.io/",
+      "title_original": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+      "title_neutral": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+      "excerpt": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.",
+      "recap_neutral": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming",
+      "main_idea": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+      "tags": [
+        "politics"
+      ],
+      "source": "NPR",
+      "published_at": "Fri, 18 Sep 2026 16:15:53 -0400",
+      "url": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -810,6 +972,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Our brain evolved from two primitive nervous systems that merged: Study",
+      "title_neutral": "Our brain evolved from two primitive nervous systems that merged: Study",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Our brain evolved from two primitive nervous systems that merged: Study",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Fri, 18 Sep 2026 15:12:07 +0000",
+      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "German Art Institutions Prepare for a Fight as Far Right Looks to Take Power",
       "title_neutral": "German Art Institutions Prepare for a Fight as Far Right Looks to Take Power",
       "excerpt": "As the Alternative for Germany party seeks to control a state government for the first time, its push for “patriotic” art has drawn comparisons with Nazi policies.",
@@ -824,53 +1003,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "North Korean nuclear test sets off years of earthquakes",
-      "title_neutral": "North Korean nuclear test sets off years of earthquakes",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "North Korean nuclear test sets off years of earthquakes",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 18 Sep 2026 14:45:32 +0000",
-      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Mathematicians Build Long-Awaited Graph Sandwich",
-      "title_neutral": "Mathematicians Build Long-Awaited Graph Sandwich",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Mathematicians Build Long-Awaited Graph Sandwich",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Fri, 18 Sep 2026 14:41:02 +0000",
-      "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "I vibed a proof of Conway's conjecture",
-      "title_neutral": "I vibed a proof of Conway's conjecture",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "I vibed a proof of Conway's conjecture",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 18 Sep 2026 14:36:10 +0000",
-      "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -987,23 +1119,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran",
-      "title_neutral": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran",
-      "excerpt": "President Lee Jae Myung’s comments followed President Trump’s repeated demand for “a little hand” from South Korea, a decades-old American ally.",
-      "recap_neutral": "President Lee Jae Myung’s comments followed President Trump’s repeated demand for “a little hand” from South Korea, a decades-old American ally",
-      "main_idea": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 18 Sep 2026 13:04:33 +0000",
-      "url": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1266,24 +1381,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Japan raises interest rate to new 31-year high to curb rising prices",
-      "title_neutral": "Japan raises interest rate to new 31-year high to curb rising prices",
-      "excerpt": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
-      "recap_neutral": "Central banks around the world have hiked rates as high energy prices are pushing up inflation",
-      "main_idea": "Japan raises interest rate to new 31-year high to curb rising prices",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 18 Sep 2026 07:14:57 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Japan raises interest rates to 31-year high to curb impact of rising prices",
       "title_neutral": "Japan raises interest rates to 31-year high to curb impact of rising prices",
       "excerpt": "Increase from 1% to 1.25% follows US Federal Reserve and European Central Bank tightening monetary policy Business live – latest updates Japan’s central bank has increased interest rates to a fresh 31-year high as it attempts to combat global inflation linked to the war in Iran. The Bank of Japan (…",
@@ -1372,21 +1469,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Inside ZCode: Silently uploading your Git history to the cloud",
-      "title_neutral": "Inside ZCode: Silently uploading your Git history to the cloud",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Inside ZCode: Silently uploading your Git history to the cloud",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 18 Sep 2026 06:11:17 +0000",
-      "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "South Korea will not send military to support US war on Iran, defying Trump pressure",
       "title_neutral": "South Korea will not send military to support US war on Iran, defying Trump pressure",
       "excerpt": "Seoul resolves recent speculation over sending military to strait of Hormuz, saying ‘there won’t be deployment that would involve or enter war’ South Korea’s president, Lee Jae Myung, has said he will ⁠not deploy the military to the ⁠Middle East in a way ​that could draw the country into conflict,…",
@@ -1403,41 +1485,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "True or false: Trump's name is now on the Kennedy Center. The quiz has the answer",
-      "title_neutral": "True or false: Trump's name is now on the Kennedy Center. The quiz has the answer",
-      "excerpt": "The world made it to another Friday without an AI apocalypse, so here's the quiz! See you next week … maybe.",
-      "recap_neutral": "The world made it to another Friday without an AI apocalypse, so here's the quiz! See you next week … maybe",
-      "main_idea": "True or false: Trump's name is now on the Kennedy Center. The quiz has the answer",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 18 Sep 2026 05:01:00 -0400",
-      "url": "https://www.npr.org/2026/09/18/g-s1-143768/celine-dion-trump-kennedy-center-emmys-news-quiz",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Could trees developed with gene-editing technology protect Florida's citrus industry?",
-      "title_neutral": "Could trees developed with gene-editing technology protect Florida's citrus industry?",
-      "excerpt": "A bacterial infection is wiping out Florida's citrus trees. Growers hope a rootstock developed with gene-editing technology could keep the disease at bay.",
-      "recap_neutral": "A bacterial infection is wiping out Florida's citrus trees",
-      "main_idea": "Could trees developed with gene-editing technology protect Florida's citrus industry?",
-      "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 18 Sep 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1559,23 +1606,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-      "title_neutral": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Fri, 18 Sep 2026 02:47:24 +0000",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
       "title_neutral": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
       "excerpt": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.",
@@ -1589,36 +1619,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 52,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
-      "title_neutral": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
-      "excerpt": "Torontonians are excited by the possibility of moving to the EU, even if it is unlikely anytime soon.",
-      "recap_neutral": "Torontonians are excited by the possibility of moving to the EU, even if it is unlikely anytime soon",
-      "main_idea": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 18 Sep 2026 01:23:10 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Zara Larsson criticises White House for using her song in deportation video",
-      "title_neutral": "Zara Larsson criticises White House for using her song in deportation video",
-      "excerpt": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
-      "recap_neutral": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\"",
-      "main_idea": "Zara Larsson criticises White House for using her song in deportation video",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 18 Sep 2026 01:20:33 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
       "left_right_index": -5,
       "confidence": "heuristic"
     },
