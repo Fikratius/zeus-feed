@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-24T02:52:54.005012+00:00",
+  "last_updated": "2026-09-24T08:04:39.469545+00:00",
   "items": [
     {
-      "title_original": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
-      "title_neutral": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+      "title_original": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
+      "title_neutral": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
       "excerpt": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
       "recap_neutral": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\"",
-      "main_idea": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+      "main_idea": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
       "tags": [
         "tech"
       ],
@@ -34,13 +34,14 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump greets Xi Jinping at plane as Chinese leader arrives for state visit",
-      "title_neutral": "Trump greets Xi Jinping at plane as Chinese leader arrives for state visit",
-      "excerpt": "US president to give red-carpet treatment to Chinese counterpart despite tensions over AI development Trump greets Xi – live updates AI, trade, Taiwan and climate: what will and won’t be on agenda at Trump-Xi summit Donald Trump welcomed Xi Jinping on Wednesday evening, taking the unusual step of g…",
-      "recap_neutral": "US president to give red-carpet treatment to Chinese counterpart despite tensions over AI development Trump greets Xi – live updates AI, trade, Taiwan and climate: what will and won’t be on agenda at Trump-Xi summit Don…",
-      "main_idea": "Trump greets Xi Jinping at plane as Chinese leader arrives for state visit",
+      "title_original": "Trump greets Xi Jinping on arrival in rare move as US-China trade truce extended",
+      "title_neutral": "Trump greets Xi Jinping on arrival in rare move as US-China trade truce extended",
+      "excerpt": "President lays out the red carpet, and the US treasury secretary announces a two-month extension of ‘Busan agreement’ pausing trade war hostilities AI, trade, Taiwan and climate: what will and won’t be on agenda at Trump-Xi summit Donald Trump welcomed Xi Jinping on Wednesday evening, taking the un…",
+      "recap_neutral": "President lays out the red carpet, and the US treasury secretary announces a two-month extension of ‘Busan agreement’ pausing trade war hostilities AI, trade, Taiwan and climate: what will and won’t be on agenda at Trum…",
+      "main_idea": "Trump greets Xi Jinping on arrival in rare move as US-China trade truce extended",
       "tags": [
         "politics",
+        "conflict",
         "tech",
         "climate"
       ],
@@ -50,6 +51,24 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii",
+      "title_neutral": "Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii",
+      "excerpt": "Southwestern Mexico braced for heavy rain and mudslides after Polo became a major hurricane. Forecasters warned another system headed for Hawaii could cause catastrophic flooding later in the week.",
+      "recap_neutral": "Southwestern Mexico braced for heavy rain and mudslides after Polo became a major hurricane",
+      "main_idea": "Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Wed, 23 Sep 2026 23:19:45 -0400",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5979140/hurricane-polo-mexico-nolo-hawaii",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -92,21 +111,6 @@
       "source": "Hacker News",
       "published_at": "Wed, 23 Sep 2026 22:16:19 +0000",
       "url": "https://artificialanalysis.ai/models/mercury-2-5",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "We just shipped support for the ugliest part of HTTP: Vary",
-      "title_neutral": "We just shipped support for the ugliest part of HTTP: Vary",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "We just shipped support for the ugliest part of HTTP: Vary",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 23 Sep 2026 22:03:21 +0000",
-      "url": "https://blog.cloudflare.com/vary-support/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -311,39 +315,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "LensVLM: Compressing long context as images, expanding only relevant pages",
-      "title_neutral": "LensVLM: Compressing long context as images, expanding only relevant pages",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "LensVLM: Compressing long context as images, expanding only relevant pages",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 23 Sep 2026 18:36:29 +0000",
-      "url": "https://huggingface.co/apple/LensVLM-9B",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "At the U.N., Japan’s Leader Says It’s Time to End ‘Enemy State’ Label",
-      "title_neutral": "At the U.N., Japan’s Leader Says It’s Time to End ‘Enemy State’ Label",
-      "excerpt": "Prime Minister Sanae Takaichi said the United Nations should scrub the World War II-era designation from its Charter. China and Russia have used the term recently to attack Japan.",
-      "recap_neutral": "Prime Minister Sanae Takaichi said the United Nations should scrub the World War II-era designation from its Charter",
-      "main_idea": "At the U.N., Japan’s Leader Says It’s Time to End ‘Enemy State’ Label",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Wed, 23 Sep 2026 18:29:33 +0000",
-      "url": "https://www.nytimes.com/2026/09/23/world/asia/unga-japan-takaichi-enemy-state.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Fearn Raises $5.5M From Kindred and a16z Speedrun to Launch AI-Native Patent Law Firm",
       "title_neutral": "Fearn Raises $5.5M From Kindred and a16z Speedrun to Launch AI-Native Patent Law Firm",
       "excerpt": "Fearn raises $5.5M from Kindred Ventures and a16z speedrun to draft startup patents in days at a $9,000 flat fee, with a refund if no claims are allowed.",
@@ -410,6 +381,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Making Tailscale Faster",
+      "title_neutral": "Making Tailscale Faster",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Making Tailscale Faster",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Wed, 23 Sep 2026 17:49:07 +0000",
+      "url": "https://tailscale.com/blog/making-tailscale-faster",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Why Germany’s Leader Merz Is Struggling to Sway Voters",
       "title_neutral": "Why Germany’s Leader Merz Is Struggling to Sway Voters",
       "excerpt": "As the far right surges, Chancellor Friedrich Merz’s unpopular economic policies and gruff manner have failed to sway voters turned by rivals’ promises of easy fixes.",
@@ -424,40 +412,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Tigrayan Forces Mobilize Against the Central Government in Ethiopia",
-      "title_neutral": "Tigrayan Forces Mobilize Against the Central Government in Ethiopia",
-      "excerpt": "Tigray People’s Liberation Front seized a key airport in the city of Mekelle, as fears grow of a possible return to a full-scale war.",
-      "recap_neutral": "Tigray People’s Liberation Front seized a key airport in the city of Mekelle, as fears grow of a possible return to a full-scale war",
-      "main_idea": "Tigrayan Forces Mobilize Against the Central Government in Ethiopia",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Wed, 23 Sep 2026 17:31:43 +0000",
-      "url": "https://www.nytimes.com/2026/09/23/world/africa/ethiopia-tigray-airport.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Italian parliament votes for return to nuclear energy",
-      "title_neutral": "Italian parliament votes for return to nuclear energy",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Italian parliament votes for return to nuclear energy",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 23 Sep 2026 17:06:16 +0000",
-      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -478,24 +432,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "title_neutral": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "excerpt": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "recap_neutral": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes",
-      "main_idea": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Wed, 23 Sep 2026 16:53:37 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "India’s Election Panel Faces New Scrutiny Over Voter Roll Revisions",
       "title_neutral": "India’s Election Panel Faces New Scrutiny Over Voter Roll Revisions",
       "excerpt": "An explosive news report says election commission members objected to the measures that excluded millions of people from voting, which critics say favor the government.",
@@ -513,18 +449,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "6-Year-Old Girl in China Sets a Rubik’s Cube Record",
-      "title_neutral": "6-Year-Old Girl in China Sets a Rubik’s Cube Record",
-      "excerpt": "Lian Yunzhi of China solved a Rubik’s Cube five times in an average of 4.27 seconds, setting a women’s world record.",
-      "recap_neutral": "Lian Yunzhi of China solved a Rubik’s Cube five times in an average of 4",
-      "main_idea": "6-Year-Old Girl in China Sets a Rubik’s Cube Record",
+      "title_original": "Why 'What's Opera, Doc?' looks like that",
+      "title_neutral": "Why 'What's Opera, Doc?' looks like that",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Why 'What's Opera, Doc?' looks like that",
       "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Wed, 23 Sep 2026 16:20:49 +0000",
-      "url": "https://www.nytimes.com/2026/09/23/world/asia/rubiks-cube-record-lian-yunzhi.html",
+      "source": "Hacker News",
+      "published_at": "Wed, 23 Sep 2026 15:37:47 +0000",
+      "url": "https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -859,38 +795,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "It's getting harder to afford rent in the U.S., even for middle-income families",
-      "title_neutral": "It's getting harder to afford rent in the U.S., even for middle-income families",
-      "excerpt": "Housing affordability challenges are spreading to higher income brackets, according to new research, which found one in five renters struggled last year to pay for their housing in full and on time.",
-      "recap_neutral": "Housing affordability challenges are spreading to higher income brackets, according to new research, which found one in five renters struggled last year to pay for their housing in full and on time",
-      "main_idea": "It's getting harder to afford rent in the U.S., even for middle-income families",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Wed, 23 Sep 2026 10:09:10 -0400",
-      "url": "https://www.npr.org/2026/09/23/nx-s1-5977022/rent-affordability-middle-income",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Youth Frustration and Migration Shadow Morocco’s Election",
-      "title_neutral": "Youth Frustration and Migration Shadow Morocco’s Election",
-      "excerpt": "Unemployment and poor public services fueled the border crisis at Ceuta and Gen Z protests, but frustrated young people may stay away from the polls.",
-      "recap_neutral": "Unemployment and poor public services fueled the border crisis at Ceuta and Gen Z protests, but frustrated young people may stay away from the polls",
-      "main_idea": "Youth Frustration and Migration Shadow Morocco’s Election",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Wed, 23 Sep 2026 10:08:37 +0000",
-      "url": "https://www.nytimes.com/2026/09/23/world/africa/morocco-election-youth-frustration.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Build Customizable, Reusable Project Templates With Node.js",
       "title_neutral": "Build Customizable, Reusable Project Templates With Node.js",
       "excerpt": "Build an interactive repository scaffolder with Inquirer and replace-in-file, with practical limits around file paths, replacements, and setup.",
@@ -918,21 +822,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious",
-      "title_neutral": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious",
-      "excerpt": "For anyone who grew up staring blankly at museum artwork, this is the fun that was missing: Coco leads interactive and (mostly) factual art history comedy tours.",
-      "recap_neutral": "For anyone who grew up staring blankly at museum artwork, this is the fun that was missing: Coco leads interactive and (mostly) factual art history comedy tours",
-      "main_idea": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Wed, 23 Sep 2026 09:31:47 -0400",
-      "url": "https://www.npr.org/2026/09/23/g-s1-142427/uk-coco-art-history-comedy-tour",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -970,53 +859,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Is Nepal's flood a harbinger of what's to come in the Himalayas?",
-      "title_neutral": "Is Nepal's flood a harbinger of what's to come in the Himalayas?",
-      "excerpt": "Building dams and hydropower plants in the Himalayas holds great promise for providing electricity. In the wake of the Nepal disaster, experts are asking about the risks of such construction.",
-      "recap_neutral": "Building dams and hydropower plants in the Himalayas holds great promise for providing electricity",
-      "main_idea": "Is Nepal's flood a harbinger of what's to come in the Himalayas?",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Wed, 23 Sep 2026 07:48:00 -0400",
-      "url": "https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
-      "title_neutral": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
-      "excerpt": "An NPR poll shows that Democrats have an edge over Republicans going into the midterms, partially due to Trump. And, Immigration and Customs Enforcement is looking into \"mobile detention centers.\"",
-      "recap_neutral": "An NPR poll shows that Democrats have an edge over Republicans going into the midterms, partially due to Trump",
-      "main_idea": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Wed, 23 Sep 2026 07:13:32 -0400",
-      "url": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
-      "title_neutral": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
-      "excerpt": "Deals, threats and oil are all on the table as the president's foreign policy takes center stage.",
-      "recap_neutral": "Deals, threats and oil are all on the table as the president's foreign policy takes center stage",
-      "main_idea": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Wed, 23 Sep 2026 06:48:47 -0400",
-      "url": "https://www.npr.org/2026/09/23/nx-s1-5977753/u-s-ambassador-to-the-u-n-discusses-trumps-address-at-unga",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Reports of violence against women in Gaza surge, UN agency finds",
       "title_neutral": "Reports of violence against women in Gaza surge, UN agency finds",
       "excerpt": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
@@ -1048,23 +890,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Sri Lanka Convicts 15 in Easter 2019 Bomb Attacks",
-      "title_neutral": "Sri Lanka Convicts 15 in Easter 2019 Bomb Attacks",
-      "excerpt": "A court found 15 men guilty of coordinating a series of suicide bombings in hotels and churches, which killed more than 300 people.",
-      "recap_neutral": "A court found 15 men guilty of coordinating a series of suicide bombings in hotels and churches, which killed more than 300 people",
-      "main_idea": "Sri Lanka Convicts 15 in Easter 2019 Bomb Attacks",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 22 Sep 2026 19:14:00 +0000",
-      "url": "https://www.nytimes.com/2026/09/22/world/asia/sri-lanka-convictions-easter-2019-bomb-attacks.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1118,21 +943,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The mystery animal on an ancient god's head",
-      "title_neutral": "The mystery animal on an ancient god's head",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The mystery animal on an ancient god's head",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 22 Sep 2026 12:00:11 +0000",
-      "url": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong",
       "title_neutral": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong",
       "excerpt": "Disappearance of jet components sparks concern some of the program’s technology secrets could have been exposed Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Department of Defence is examining how F-35 fighter jet parts bound…",
@@ -1183,302 +993,288 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Приморье подростки избили 14-летнюю девочку",
-      "title_neutral": "В Приморье подростки избили 14-летнюю девочку",
-      "excerpt": "У ребенка диагностирован закрытый перелом костей носа",
-      "recap_neutral": "У ребенка диагностирован закрытый перелом костей носа",
-      "main_idea": "В Приморье подростки избили 14-летнюю девочку",
+      "title_original": "Making portable my unportable transputer C compiler",
+      "title_neutral": "Making portable my unportable transputer C compiler",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Making portable my unportable transputer C compiler",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 22 Sep 2026 01:07:46 +0000",
+      "url": "https://nanochess.org/transputer_c_compiler.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Туве напомнили о запрете посещения леса после нападения медведя на туриста",
+      "title_neutral": "В Туве напомнили о запрете посещения леса после нападения медведя на туриста",
+      "excerpt": "В регионе также ввели запрет на проведение мероприятий на природе",
+      "recap_neutral": "В регионе также ввели запрет на проведение мероприятий на природе",
+      "main_idea": "В Туве напомнили о запрете посещения леса после нападения медведя на туриста",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Thu, 24 Sep 2026 05:42:42 +0300",
-      "url": "https://tass.ru/proisshestviya/28145083",
+      "published_at": "Thu, 24 Sep 2026 11:03:00 +0300",
+      "url": "https://tass.ru/obschestvo/28145855",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Taipei Times: в Тайване показали новую колесную боевую машину Cheetah",
-      "title_neutral": "Taipei Times: в Тайване показали новую колесную боевую машину Cheetah",
-      "excerpt": "Серийное производство должны начать в 2027 году, сообщила газета",
-      "recap_neutral": "Серийное производство должны начать в 2027 году, сообщила газета",
-      "main_idea": "Taipei Times: в Тайване показали новую колесную боевую машину Cheetah",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 24 Sep 2026 05:37:35 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28145085",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Назван средний размер пенсии на Чукотке",
-      "title_neutral": "Назван средний размер пенсии на Чукотке",
-      "excerpt": "Показатель составил 42 273 рубля",
-      "recap_neutral": "Показатель составил 42 273 рубля",
-      "main_idea": "Назван средний размер пенсии на Чукотке",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 24 Sep 2026 05:37:14 +0300",
-      "url": "https://tass.ru/obschestvo/28145079",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В МВД рассказали, какие реквизиты банковской карты можно сообщать",
-      "title_neutral": "В МВД рассказали, какие реквизиты банковской карты можно сообщать",
-      "excerpt": "Номер банковской карты, расчетного счета и телефона, привязанного к аккаунту, сами по себе не позволят мошенникам украсть накопления",
-      "recap_neutral": "Номер банковской карты, расчетного счета и телефона, привязанного к аккаунту, сами по себе не позволят мошенникам украсть накопления",
-      "main_idea": "В МВД рассказали, какие реквизиты банковской карты можно сообщать",
-      "tags": [
-        "economy"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 24 Sep 2026 05:31:36 +0300",
-      "url": "https://tass.ru/obschestvo/28145075",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В СР предложили снизить вдвое ставку ипотеки для семей с инвалидами",
-      "title_neutral": "В СР предложили снизить вдвое ставку ипотеки для семей с инвалидами",
-      "excerpt": "Ипотечные льготы не должны отменять право граждан на участие в других программах, отметил председатель партии Сергей Миронов",
-      "recap_neutral": "Ипотечные льготы не должны отменять право граждан на участие в других программах, отметил председатель партии Сергей Миронов",
-      "main_idea": "В СР предложили снизить вдвое ставку ипотеки для семей с инвалидами",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 24 Sep 2026 05:23:41 +0300",
-      "url": "https://tass.ru/obschestvo/28145073",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Более 22 тыс. школьников прошли профориентацию по сварке и станкам с ЧПУ",
-      "title_neutral": "Более 22 тыс. школьников прошли профориентацию по сварке и станкам с ЧПУ",
-      "excerpt": "Ученики 6-11-х классов также приняли участие в профессиональных пробах по эксплуатации беспилотников",
-      "recap_neutral": "Ученики 6-11-х классов также приняли участие в профессиональных пробах по эксплуатации беспилотников",
-      "main_idea": "Более 22 тыс. школьников прошли профориентацию по сварке и станкам с ЧПУ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 24 Sep 2026 05:18:19 +0300",
-      "url": "https://tass.ru/obschestvo/28145069",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Эксперт Рыбаков призвал ООН, США, Россию и КНР сотрудничать в сфере ИИ",
-      "title_neutral": "Эксперт Рыбаков призвал ООН, США, Россию и КНР сотрудничать в сфере ИИ",
-      "excerpt": "Программный директор дискуссионного клуба Vostok отметил, что ООН играет центральную роль в глобальном управлении ИИ",
-      "recap_neutral": "Программный директор дискуссионного клуба Vostok отметил, что ООН играет центральную роль в глобальном управлении ИИ",
-      "main_idea": "Эксперт Рыбаков призвал ООН, США, Россию и КНР сотрудничать в сфере ИИ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 24 Sep 2026 05:12:26 +0300",
-      "url": "https://tass.ru/ekonomika/28145041",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Украине с 2022 года за кол-центры приговорили к тюрьме всего двух человек",
-      "title_neutral": "На Украине с 2022 года за кол-центры приговорили к тюрьме всего двух человек",
-      "excerpt": "Украинские суды возбудили 18 уголовных дел за мошенничество, вынесли 27 приговоров",
-      "recap_neutral": "Украинские суды возбудили 18 уголовных дел за мошенничество, вынесли 27 приговоров",
-      "main_idea": "На Украине с 2022 года за кол-центры приговорили к тюрьме всего двух человек",
+      "title_original": "Минфин: изменения налогообложения коснутся не более 6% граждан",
+      "title_neutral": "Минфин: изменения налогообложения коснутся не более 6% граждан",
+      "excerpt": "",
+      "recap_neutral": "Минфин: изменения налогообложения коснутся не более 6% граждан",
+      "main_idea": "Минфин: изменения налогообложения коснутся не более 6% граждан",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Thu, 24 Sep 2026 05:12:02 +0300",
-      "url": "https://tass.ru/obschestvo/28145067",
+      "published_at": "Thu, 24 Sep 2026 11:02:53 +0300",
+      "url": "https://tass.ru/ekonomika/28145959",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Японии около 17 тыс. домохозяйств остались без света после тайфуна",
-      "title_neutral": "В Японии около 17 тыс. домохозяйств остались без света после тайфуна",
-      "excerpt": "В префектуре Тиба по-прежнему нарушено движение по местным железнодорожным линиям, поскольку власти проверяют состояние полотна и оборудования после массовых подтоплений",
-      "recap_neutral": "В префектуре Тиба по-прежнему нарушено движение по местным железнодорожным линиям, поскольку власти проверяют состояние полотна и оборудования после массовых подтоплений",
-      "main_idea": "В Японии около 17 тыс. домохозяйств остались без света после тайфуна",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 24 Sep 2026 05:11:32 +0300",
-      "url": "https://tass.ru/proisshestviya/28145065",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Якутии образовательные организации работают штатно после ЧП на Нерюнгринской ГРЭС",
-      "title_neutral": "В Якутии образовательные организации работают штатно после ЧП на Нерюнгринской ГРЭС",
-      "excerpt": "Электро- и теплоэнергию бесперебойно подают в учебные корпуса, общежития и административные здания",
-      "recap_neutral": "Электро- и теплоэнергию бесперебойно подают в учебные корпуса, общежития и административные здания",
-      "main_idea": "В Якутии образовательные организации работают штатно после ЧП на Нерюнгринской ГРЭС",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 24 Sep 2026 05:11:17 +0300",
-      "url": "https://tass.ru/obschestvo/28145061",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В \"ЛизаАлерт\" рассказали, как подготовиться к ночлегу, если заблудился в лесу",
-      "title_neutral": "В \"ЛизаАлерт\" рассказали, как подготовиться к ночлегу, если заблудился в лесу",
-      "excerpt": "Для этого важно набрать побольше елового лапника и разжечь огонь, сообщил глава отряда Григорий Сергеев",
-      "recap_neutral": "Для этого важно набрать побольше елового лапника и разжечь огонь, сообщил глава отряда Григорий Сергеев",
-      "main_idea": "В \"ЛизаАлерт\" рассказали, как подготовиться к ночлегу, если заблудился в лесу",
+      "title_original": "Минфин: дефицит бюджета РФ в 2027-2029 годах составит около 2% ВВП в год",
+      "title_neutral": "Минфин: дефицит бюджета РФ в 2027-2029 годах составит около 2% ВВП в год",
+      "excerpt": "",
+      "recap_neutral": "Минфин: дефицит бюджета РФ в 2027-2029 годах составит около 2% ВВП в год",
+      "main_idea": "Минфин: дефицит бюджета РФ в 2027-2029 годах составит около 2% ВВП в год",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Thu, 24 Sep 2026 05:10:55 +0300",
-      "url": "https://tass.ru/obschestvo/28145063",
+      "published_at": "Thu, 24 Sep 2026 11:02:43 +0300",
+      "url": "https://tass.ru/ekonomika/28145945",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Хабаровске задержали мужчину за хищение соцвыплат на 1,8 млн рублей",
-      "title_neutral": "В Хабаровске задержали мужчину за хищение соцвыплат на 1,8 млн рублей",
-      "excerpt": "С мая 2024 по сентябрь 2026 года подозреваемый указывал ложные сведения о совместном проживании с детьми, которые находятся за границей",
-      "recap_neutral": "С мая 2024 по сентябрь 2026 года подозреваемый указывал ложные сведения о совместном проживании с детьми, которые находятся за границей",
-      "main_idea": "В Хабаровске задержали мужчину за хищение соцвыплат на 1,8 млн рублей",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 24 Sep 2026 05:09:31 +0300",
-      "url": "https://tass.ru/proisshestviya/28145057",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Киеве отменили воздушную тревогу",
-      "title_neutral": "В Киеве отменили воздушную тревогу",
-      "excerpt": "В красной зоне остаются Житомирская, Киевская, Полтавская, Сумская, Харьковская и Черниговская области",
-      "recap_neutral": "В красной зоне остаются Житомирская, Киевская, Полтавская, Сумская, Харьковская и Черниговская области",
-      "main_idea": "В Киеве отменили воздушную тревогу",
+      "title_original": "Объем финансирования дорожного хозяйства превысит 4,4 трлн рублей",
+      "title_neutral": "Объем финансирования дорожного хозяйства превысит 4,4 трлн рублей",
+      "excerpt": "",
+      "recap_neutral": "Объем финансирования дорожного хозяйства превысит 4,4 трлн рублей",
+      "main_idea": "Объем финансирования дорожного хозяйства превысит 4,4 трлн рублей",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Thu, 24 Sep 2026 05:09:20 +0300",
-      "url": "https://tass.ru/proisshestviya/28145059",
+      "published_at": "Thu, 24 Sep 2026 11:02:36 +0300",
+      "url": "https://tass.ru/ekonomika/28145961",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Названы регионы, где россияне больше всего тратят на ветеринарные услуги",
-      "title_neutral": "Названы регионы, где россияне больше всего тратят на ветеринарные услуги",
-      "excerpt": "Лидируют Москва, Московская область и Санкт-Петербург, говорится в исследовании \"Сбер2B аналитики\"",
-      "recap_neutral": "Лидируют Москва, Московская область и Санкт-Петербург, говорится в исследовании \"Сбер2B аналитики\"",
-      "main_idea": "Названы регионы, где россияне больше всего тратят на ветеринарные услуги",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 24 Sep 2026 05:07:52 +0300",
-      "url": "https://tass.ru/ekonomika/28145051",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В РГР анонсировали запуск приложения \"Мой риелтор\" для борьбы с мошенничеством",
-      "title_neutral": "В РГР анонсировали запуск приложения \"Мой риелтор\" для борьбы с мошенничеством",
-      "excerpt": "Его введут в использование в начале октября, сообщила президент Российской гильдии риелторов Ирина Зырянова",
-      "recap_neutral": "Его введут в использование в начале октября, сообщила президент Российской гильдии риелторов Ирина Зырянова",
-      "main_idea": "В РГР анонсировали запуск приложения \"Мой риелтор\" для борьбы с мошенничеством",
+      "title_original": "Минфин внес в правительство России бюджетный пакет",
+      "title_neutral": "Минфин внес в правительство России бюджетный пакет",
+      "excerpt": "",
+      "recap_neutral": "Минфин внес в правительство России бюджетный пакет",
+      "main_idea": "Минфин внес в правительство России бюджетный пакет",
       "tags": [
         "politics",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 24 Sep 2026 05:05:10 +0300",
-      "url": "https://tass.ru/obschestvo/28145049",
+      "published_at": "Thu, 24 Sep 2026 11:02:22 +0300",
+      "url": "https://tass.ru/ekonomika/28145941",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Australia Says OpenAI ‘Infiltrated’ Public Health Care Portal",
-      "title_neutral": "Australia Says OpenAI ‘Infiltrated’ Public Health Care Portal",
-      "excerpt": "Australia is exploring potential legal action after an artificial intelligence agent accessed nonpublic information on the country’s universal health care system.",
-      "recap_neutral": "Australia is exploring potential legal action after an artificial intelligence agent accessed nonpublic information on the country’s universal health care system",
-      "main_idea": "Australia Says OpenAI ‘Infiltrated’ Public Health Care Portal",
-      "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 24 Sep 2026 02:42:32 +0000",
-      "url": "https://www.nytimes.com/2026/09/23/world/asia/australia-openai-agent-infiltration.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "title_original": "Регионам планируют предоставить отсрочку по возврату бюджетных кредитов",
+      "title_neutral": "Регионам планируют предоставить отсрочку по возврату бюджетных кредитов",
+      "excerpt": "",
+      "recap_neutral": "Регионам планируют предоставить отсрочку по возврату бюджетных кредитов",
+      "main_idea": "Регионам планируют предоставить отсрочку по возврату бюджетных кредитов",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 24 Sep 2026 11:02:10 +0300",
+      "url": "https://tass.ru/ekonomika/28145943",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "U.N. Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine",
-      "title_neutral": "U.N. Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine",
-      "excerpt": "Ukraine’s president said rising fuel prices and deadlier drone technology showed that the fighting have spilled beyond his country’s borders. He called for steps to end to the war before winter.",
-      "recap_neutral": "Ukraine’s president said rising fuel prices and deadlier drone technology showed that the fighting have spilled beyond his country’s borders",
-      "main_idea": "U.N. Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine",
+      "title_original": "Проект бюджета предполагает более 105 млрд рублей на строительство школ",
+      "title_neutral": "Проект бюджета предполагает более 105 млрд рублей на строительство школ",
+      "excerpt": "",
+      "recap_neutral": "Проект бюджета предполагает более 105 млрд рублей на строительство школ",
+      "main_idea": "Проект бюджета предполагает более 105 млрд рублей на строительство школ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 24 Sep 2026 11:02:06 +0300",
+      "url": "https://tass.ru/ekonomika/28145931",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Минфин: \"детский бюджет\" на три года составит 10 трлн рублей",
+      "title_neutral": "Минфин: \"детский бюджет\" на три года составит 10 трлн рублей",
+      "excerpt": "",
+      "recap_neutral": "Минфин: \"детский бюджет\" на три года составит 10 трлн рублей",
+      "main_idea": "Минфин: \"детский бюджет\" на три года составит 10 трлн рублей",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 24 Sep 2026 11:01:16 +0300",
+      "url": "https://tass.ru/ekonomika/28145887",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Минфин: дефицит федерального бюджета в 2027-2029 годах составит порядка 2% ВВП ежегодно",
+      "title_neutral": "Минфин: дефицит федерального бюджета в 2027-2029 годах составит порядка 2% ВВП ежегодно",
+      "excerpt": "",
+      "recap_neutral": "Минфин: дефицит федерального бюджета в 2027-2029 годах составит порядка 2% ВВП ежегодно",
+      "main_idea": "Минфин: дефицит федерального бюджета в 2027-2029 годах составит порядка 2% ВВП ежегодно",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 24 Sep 2026 11:01:02 +0300",
+      "url": "https://tass.ru/ekonomika/28145885",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Цыденов: регулированием численности медведей должны заниматься профессионалы",
+      "title_neutral": "Цыденов: регулированием численности медведей должны заниматься профессионалы",
+      "excerpt": "В Бурятии с начала года специалисты устранили 260 хищников",
+      "recap_neutral": "В Бурятии с начала года специалисты устранили 260 хищников",
+      "main_idea": "Цыденов: регулированием численности медведей должны заниматься профессионалы",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 24 Sep 2026 11:00:54 +0300",
+      "url": "https://tass.ru/obschestvo/28145817",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лион Измайлов выступил против высоких цен на билеты",
+      "title_neutral": "Лион Измайлов выступил против высоких цен на билеты",
+      "excerpt": "Писатель-сатирик назвал делом театров установление \"порядочной\" стоимости билетов",
+      "recap_neutral": "Писатель-сатирик назвал делом театров установление \"порядочной\" стоимости билетов",
+      "main_idea": "Лион Измайлов выступил против высоких цен на билеты",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 24 Sep 2026 11:00:15 +0300",
+      "url": "https://tass.ru/kultura/28145869",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Сихарулидзе: оценивать перспективы Валиевой и Трусовой после возвращения пока рано",
+      "title_neutral": "Сихарулидзе: оценивать перспективы Валиевой и Трусовой после возвращения пока рано",
+      "excerpt": "Фигуристки вернулись в спорт после дисквалификации и рождения сына соответственно",
+      "recap_neutral": "Фигуристки вернулись в спорт после дисквалификации и рождения сына соответственно",
+      "main_idea": "Сихарулидзе: оценивать перспективы Валиевой и Трусовой после возвращения пока рано",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 24 Sep 2026 11:00:10 +0300",
+      "url": "https://tass.ru/sport/28145867",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Дина Хуснутдинова: я сделала правильный выбор, перейдя к Тутберидзе",
+      "title_neutral": "Дина Хуснутдинова: я сделала правильный выбор, перейдя к Тутберидзе",
+      "excerpt": "Фигуристка Дина Хуснутдинова год назад кардинально изменила свою жизнь — переехала из Казани в Москву и начала тренироваться в группе Этери Тутберидзе. В интервью ТАСС спортсменка рассказала о сложностях подготовки к сезону, поддержке тренеров, психологической составляющей и о том, как переход в но…",
+      "recap_neutral": "Фигуристка Дина Хуснутдинова год назад кардинально изменила свою жизнь — переехала из Казани в Москву и начала тренироваться в группе Этери Тутберидзе",
+      "main_idea": "Дина Хуснутдинова: я сделала правильный выбор, перейдя к Тутберидзе",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 24 Sep 2026 11:00:00 +0300",
+      "url": "https://tass.ru/interviews/28142917",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Краснодара задерживаются 10 рейсов",
+      "title_neutral": "В аэропорту Краснодара задерживаются 10 рейсов",
+      "excerpt": "Задержки достигают около пяти часов",
+      "recap_neutral": "Задержки достигают около пяти часов",
+      "main_idea": "В аэропорту Краснодара задерживаются 10 рейсов",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 24 Sep 2026 10:58:43 +0300",
+      "url": "https://tass.ru/obschestvo/28145823",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "МВД Литвы считает закрытие визовых центров в странах Средней Азии бессрочным",
+      "title_neutral": "МВД Литвы считает закрытие визовых центров в странах Средней Азии бессрочным",
+      "excerpt": "Министр внутренних дел Мартинас Кателинас объяснил прекращение работы рекомендациями департамента государственной безопасности",
+      "recap_neutral": "Министр внутренних дел Мартинас Кателинас объяснил прекращение работы рекомендациями департамента государственной безопасности",
+      "main_idea": "МВД Литвы считает закрытие визовых центров в странах Средней Азии бессрочным",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 24 Sep 2026 10:57:48 +0300",
+      "url": "https://tass.ru/obschestvo/28145859",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Tigrayan Forces Mobilize Against the Central Government in Ethiopia",
+      "title_neutral": "Tigrayan Forces Mobilize Against the Central Government in Ethiopia",
+      "excerpt": "Tigray People’s Liberation Front seized a key airport in the city of Mekelle, as fears grow of a possible return to a full-scale war.",
+      "recap_neutral": "Tigray People’s Liberation Front seized a key airport in the city of Mekelle, as fears grow of a possible return to a full-scale war",
+      "main_idea": "Tigrayan Forces Mobilize Against the Central Government in Ethiopia",
       "tags": [
         "politics",
         "conflict",
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Thu, 24 Sep 2026 02:41:28 +0000",
-      "url": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
+      "published_at": "Thu, 24 Sep 2026 07:30:03 +0000",
+      "url": "https://www.nytimes.com/2026/09/23/world/africa/ethiopia-tigray-airport.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "title_neutral": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "excerpt": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
-      "recap_neutral": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June",
-      "main_idea": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "title_original": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "title_neutral": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "excerpt": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "recap_neutral": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June",
+      "main_idea": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "tags": [
         "politics",
         "tech"
       ],
       "source": "BBC World",
-      "published_at": "Thu, 24 Sep 2026 02:23:54 GMT",
+      "published_at": "Thu, 24 Sep 2026 07:10:58 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
@@ -1486,18 +1282,206 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "FLAWED's Flaws and What This Means for Industry Research",
-      "title_neutral": "FLAWED's Flaws and What This Means for Industry Research",
+      "title_original": "Families Urge Trump to Press Xi to Free Americans Detained in China",
+      "title_neutral": "Families Urge Trump to Press Xi to Free Americans Detained in China",
+      "excerpt": "The Americans being held in China are U Min Zin, a scholar who studied Myanmar, and Youlin Chen, a seismologist who researched North Korean nuclear tests.",
+      "recap_neutral": "The Americans being held in China are U Min Zin, a scholar who studied Myanmar, and Youlin Chen, a seismologist who researched North Korean nuclear tests",
+      "main_idea": "Families Urge Trump to Press Xi to Free Americans Detained in China",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 24 Sep 2026 06:47:40 +0000",
+      "url": "https://www.nytimes.com/2026/09/24/world/asia/china-xi-trump-detained-americans.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Australia Investigates OpenAI Hack on Public Health Care Site",
+      "title_neutral": "Australia Investigates OpenAI Hack on Public Health Care Site",
+      "excerpt": "Australia is exploring potential legal action after an artificial intelligence agent accessed nonpublic information on the country’s universal health care system.",
+      "recap_neutral": "Australia is exploring potential legal action after an artificial intelligence agent accessed nonpublic information on the country’s universal health care system",
+      "main_idea": "Australia Investigates OpenAI Hack on Public Health Care Site",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 24 Sep 2026 05:32:47 +0000",
+      "url": "https://www.nytimes.com/2026/09/23/world/asia/australia-investigates-openai-hack-on-public-health-care-site.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "title_neutral": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "FLAWED's Flaws and What This Means for Industry Research",
-      "tags": [],
+      "main_idea": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "tags": [
+        "tech"
+      ],
       "source": "Hacker News",
-      "published_at": "Thu, 24 Sep 2026 01:16:33 +0000",
-      "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
+      "published_at": "Thu, 24 Sep 2026 05:21:10 +0000",
+      "url": "https://transluce.org/agent-activity",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "title_neutral": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "excerpt": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "recap_neutral": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes",
+      "main_idea": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Thu, 24 Sep 2026 04:37:47 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Contrastive Language Models",
+      "title_neutral": "Contrastive Language Models",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Contrastive Language Models",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 24 Sep 2026 04:20:59 +0000",
+      "url": "https://contrastive-lm.notion.site/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Inside France’s Push to Stop Migrant Boats to the U.K.",
+      "title_neutral": "Inside France’s Push to Stop Migrant Boats to the U.K.",
+      "excerpt": "Thousands of migrants cross the sea between France and England each year, though numbers have fallen amid increased policing.",
+      "recap_neutral": "Thousands of migrants cross the sea between France and England each year, though numbers have fallen amid increased policing",
+      "main_idea": "Inside France’s Push to Stop Migrant Boats to the U.K.",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Thu, 24 Sep 2026 04:01:10 +0000",
+      "url": "https://www.nytimes.com/2026/09/24/world/europe/france-britain-migrant-boats-police.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations",
+      "title_neutral": "From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations",
+      "excerpt": "Balendra Shah, 36, comes to the U.N. as a sun-glassed symbol of Gen Z political power. But concerns about his style are growing at home after devastating floods left thousands dead or missing.",
+      "recap_neutral": "Balendra Shah, 36, comes to the U",
+      "main_idea": "From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations",
+      "tags": [
+        "tech",
+        "climate"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 24 Sep 2026 04:01:05 +0000",
+      "url": "https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "​Ukraine Sent Two North Korean P.O.W.s to South Korea, Zelensky Says",
+      "title_neutral": "​Ukraine Sent Two North Korean P.O.W.s to South Korea, Zelensky Says",
+      "excerpt": "President Volodymyr Zelensky of Ukraine said one soldier tried to kill himself when he was captured. “This is how they raise people in the North,” he said.",
+      "recap_neutral": "President Volodymyr Zelensky of Ukraine said one soldier tried to kill himself when he was captured",
+      "main_idea": "​Ukraine Sent Two North Korean P.O.W.s to South Korea, Zelensky Says",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 24 Sep 2026 03:48:40 +0000",
+      "url": "https://www.nytimes.com/2026/09/23/world/asia/ukraine-north-south-korea-pow-zelensky.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump Aides Seek to Jump Start Diplomacy With Iran as Crisis Widens",
+      "title_neutral": "Trump Aides Seek to Jump Start Diplomacy With Iran as Crisis Widens",
+      "excerpt": "Secretary of State Marco Rubio said that U.S. negotiators had restarted conversations about Iran’s nuclear program, but that there were no breakthroughs.",
+      "recap_neutral": "Secretary of State Marco Rubio said that U",
+      "main_idea": "Trump Aides Seek to Jump Start Diplomacy With Iran as Crisis Widens",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Thu, 24 Sep 2026 03:17:09 +0000",
+      "url": "https://www.nytimes.com/2026/09/23/us/politics/trump-aides-iran-talks.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ideas on modernizing the open-source desktop",
+      "title_neutral": "Ideas on modernizing the open-source desktop",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Ideas on modernizing the open-source desktop",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 24 Sep 2026 02:52:09 +0000",
+      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Judge orders Trump administration to restore journalists' access to White House",
+      "title_neutral": "Judge orders Trump administration to restore journalists' access to White House",
+      "excerpt": "A federal judge ordered the Trump administration on Thursday to temporarily restore access to CNN, MS NOW and Politico, after they were banned from covering White House events by President Trump.",
+      "recap_neutral": "A federal judge ordered the Trump administration on Thursday to temporarily restore access to CNN, MS NOW and Politico, after they were banned from covering White House events by President Trump",
+      "main_idea": "Judge orders Trump administration to restore journalists' access to White House",
+      "tags": [
+        "politics"
+      ],
+      "source": "NPR",
+      "published_at": "Thu, 24 Sep 2026 02:21:06 -0400",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Venezuela's acting leader promises elections at the 'right moment'",
+      "title_neutral": "Venezuela's acting leader promises elections at the 'right moment'",
+      "excerpt": "Venezuela's acting president, delivering her first address to the U.N. General Assembly since coming to power, promised elections and said the nation's people will determine the \"right moment.\"",
+      "recap_neutral": "Venezuela's acting president, delivering her first address to the U",
+      "main_idea": "Venezuela's acting leader promises elections at the 'right moment'",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Thu, 24 Sep 2026 01:40:49 -0400",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144837/venezuela-leader-un-general-assembly",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1515,6 +1499,24 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "OpenAI's breach of Australian health department website prompts rebuke",
+      "title_neutral": "OpenAI's breach of Australian health department website prompts rebuke",
+      "excerpt": "Prime Minister Anthony Albanese said he was extremely concerned about OpenAI 's breach of an Australian health department website that the artificial intelligence company took too long to reveal.",
+      "recap_neutral": "Prime Minister Anthony Albanese said he was extremely concerned about OpenAI 's breach of an Australian health department website that the artificial intelligence company took too long to reveal",
+      "main_idea": "OpenAI's breach of Australian health department website prompts rebuke",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "NPR",
+      "published_at": "Thu, 24 Sep 2026 01:14:11 -0400",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1548,20 +1550,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Feds Target AI Critics as \"Foreign Agents\"",
-      "title_neutral": "Feds Target AI Critics as \"Foreign Agents\"",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Feds Target AI Critics as \"Foreign Agents\"",
+      "title_original": "Fears of return to war grow in Ethiopia's Tigray region",
+      "title_neutral": "Fears of return to war grow in Ethiopia's Tigray region",
+      "excerpt": "Fears are growing of a return to war in Ethiopia's Tigray region, just four years after a devastating conflict ended in a fragile peace deal.",
+      "recap_neutral": "Fears are growing of a return to war in Ethiopia's Tigray region, just four years after a devastating conflict ended in a fragile peace deal",
+      "main_idea": "Fears of return to war grow in Ethiopia's Tigray region",
       "tags": [
-        "tech"
+        "conflict"
       ],
-      "source": "Hacker News",
-      "published_at": "Thu, 24 Sep 2026 00:41:31 +0000",
-      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "source": "NPR",
+      "published_at": "Thu, 24 Sep 2026 00:23:38 -0400",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5978861/conflict-ethiopia-tigray",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
