@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T21:39:02.717393+00:00",
+  "last_updated": "2026-09-25T00:13:17.857491+00:00",
   "items": [
     {
       "title_original": "Trump greets Xi Jinping on arrival in rare move as US-China trade truce extended",
@@ -37,6 +37,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Toyota is taking the Corolla electric",
+      "title_neutral": "Toyota is taking the Corolla electric",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Toyota is taking the Corolla electric",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 23 Sep 2026 22:37:28 +0000",
+      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
       "title_neutral": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
       "excerpt": "Argentinian president accuses United Nations of being filled with ‘parasites’ in bellicose general assembly speech Javier Milei has condemned the UN as he warned that Argentina would take “matters into our own hands” in its dispute with Britain over the sovereignty of the Falkland Islands. In a cau…",
@@ -53,23 +68,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iran's president tells Trump it will never 'bend the knee'",
-      "title_neutral": "Iran's president tells Trump it will never 'bend the knee'",
-      "excerpt": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-      "recap_neutral": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon",
-      "main_idea": "Iran's president tells Trump it will never 'bend the knee'",
-      "tags": [
-        "politics"
-      ],
-      "source": "BBC World",
-      "published_at": "Wed, 23 Sep 2026 18:15:31 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -221,33 +219,52 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "U.N. Live Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
-      "title_neutral": "U.N. Live Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
-      "excerpt": "In a combative speech, the prime minister defended Israeli military action across the Middle East, and attacked Mayor Zohran Mamdani of New York. Dozens of delegates walked out of the hall as he took the podium.",
-      "recap_neutral": "In a combative speech, the prime minister defended Israeli military action across the Middle East, and attacked Mayor Zohran Mamdani of New York",
-      "main_idea": "U.N. Live Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
+      "title_original": "Australia’s prime minister aims to rally middle powers and rein in A.I.",
+      "title_neutral": "Australia’s prime minister aims to rally middle powers and rein in A.I.",
+      "excerpt": "",
+      "recap_neutral": "Australia’s prime minister aims to rally middle powers and rein in A.I.",
+      "main_idea": "Australia’s prime minister aims to rally middle powers and rein in A.I.",
       "tags": [
-        "conflict"
+        "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Thu, 24 Sep 2026 21:32:09 +0000",
-      "url": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news",
+      "published_at": "Thu, 24 Sep 2026 23:59:53 +0000",
+      "url": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news/australias-prime-minister-aims-to-rally-middle-powers-and-rein-in-ai",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Netanyahu defends Israeli military actions in Middle East in UN speech",
-      "title_neutral": "Netanyahu defends Israeli military actions in Middle East in UN speech",
-      "excerpt": "Dozens of delegates walked out in protest as he took the podium, with the Israeli leader labelling them \"moral cowards\".",
-      "recap_neutral": "Dozens of delegates walked out in protest as he took the podium, with the Israeli leader labelling them \"moral cowards\"",
-      "main_idea": "Netanyahu defends Israeli military actions in Middle East in UN speech",
+      "title_original": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
+      "title_neutral": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
+      "excerpt": "Chinese president’s proposals for lessening tensions come amid period of intense competition between the two countries over AI and trade Trump-Xi summit – latest updates Xi Jinping has called for extensive cooperation with Washington to avoid the “Thucydides trap” that could put the US and China on…",
+      "recap_neutral": "Chinese president’s proposals for lessening tensions come amid period of intense competition between the two countries over AI and trade Trump-Xi summit – latest updates Xi Jinping has called for extensive cooperation w…",
+      "main_idea": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Thu, 24 Sep 2026 23:58:11 GMT",
+      "url": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "title_neutral": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "excerpt": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+      "recap_neutral": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\"",
+      "main_idea": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
       "tags": [
         "conflict"
       ],
       "source": "BBC World",
-      "published_at": "Thu, 24 Sep 2026 21:21:47 GMT",
+      "published_at": "Thu, 24 Sep 2026 23:32:51 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
@@ -255,20 +272,132 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Italy Moves to Cap Number of Foreign Students in Its Classrooms",
-      "title_neutral": "Italy Moves to Cap Number of Foreign Students in Its Classrooms",
-      "excerpt": "Prime Minister Giorgia Meloni said the goal was to better integrate non-Italian speaking children, but critics accused her of trying to appease anti-immigrant sentiment.",
-      "recap_neutral": "Prime Minister Giorgia Meloni said the goal was to better integrate non-Italian speaking children, but critics accused her of trying to appease anti-immigrant sentiment",
-      "main_idea": "Italy Moves to Cap Number of Foreign Students in Its Classrooms",
+      "title_original": "Hundreds of thousands expected in Paris for Pope's visit",
+      "title_neutral": "Hundreds of thousands expected in Paris for Pope's visit",
+      "excerpt": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+      "recap_neutral": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people",
+      "main_idea": "Hundreds of thousands expected in Paris for Pope's visit",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Thu, 24 Sep 2026 23:17:00 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "GitLab Outage",
+      "title_neutral": "GitLab Outage",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "GitLab Outage",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 24 Sep 2026 23:10:44 +0000",
+      "url": "https://status.gitlab.com/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Back and shoulder surgery is often worse than useless",
+      "title_neutral": "Back and shoulder surgery is often worse than useless",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Back and shoulder surgery is often worse than useless",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 24 Sep 2026 22:15:58 +0000",
+      "url": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How AI Is Changing the Production Pipeline of Filmmaking: Interview with Amy Kouxiao Zhang",
+      "title_neutral": "How AI Is Changing the Production Pipeline of Filmmaking: Interview with Amy Kouxiao Zhang",
+      "excerpt": "How is AI changing filmmaking? Amy Kouxiao Zhang shares how generative AI is reshaping micro-drama production, costs, and creative workflows.",
+      "recap_neutral": "How is AI changing filmmaking? Amy Kouxiao Zhang shares how generative AI is reshaping micro-drama production, costs, and creative workflows",
+      "main_idea": "How AI Is Changing the Production Pipeline of Filmmaking: Interview with Amy Kouxiao Zhang",
       "tags": [
         "tech"
       ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 24 Sep 2026 22:00:06 GMT",
+      "url": "https://hackernoon.com/how-ai-is-changing-the-production-pipeline-of-filmmaking-interview-with-amy-kouxiao-zhang?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Haiti Turns to Roger Stone To Lobby Trump Administration",
+      "title_neutral": "Haiti Turns to Roger Stone To Lobby Trump Administration",
+      "excerpt": "The Haitian government hired Mr. Stone, a confidant of President Trump, weeks after hundreds of thousands of Haitians lost deportation protection. The contract is worth nearly $800,000, a document shows.",
+      "recap_neutral": "The Haitian government hired Mr",
+      "main_idea": "Haiti Turns to Roger Stone To Lobby Trump Administration",
+      "tags": [
+        "politics",
+        "tech"
+      ],
       "source": "NYTimes World",
-      "published_at": "Thu, 24 Sep 2026 21:21:40 +0000",
-      "url": "https://www.nytimes.com/2026/09/24/world/europe/italy-schools-migrants.html",
+      "published_at": "Thu, 24 Sep 2026 21:55:10 +0000",
+      "url": "https://www.nytimes.com/2026/09/24/world/americas/haiti-roger-stone-migration.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Beyond Copilots: How Multi-Day Autonomous AI Agents Are Rewriting the SDLC in 2026",
+      "title_neutral": "Beyond Copilots: How Multi-Day Autonomous AI Agents Are Rewriting the SDLC in 2026",
+      "excerpt": "From $44 C compilers to agent keypairs: Learn how autonomous AI agents are scaling multi-day coding, overcoming the verification tax, and reshaping the SDLC.",
+      "recap_neutral": "From $44 C compilers to agent keypairs: Learn how autonomous AI agents are scaling multi-day coding, overcoming the verification tax, and reshaping the SDLC",
+      "main_idea": "Beyond Copilots: How Multi-Day Autonomous AI Agents Are Rewriting the SDLC in 2026",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 24 Sep 2026 21:36:44 GMT",
+      "url": "https://hackernoon.com/beyond-copilots-how-multi-day-autonomous-ai-agents-are-rewriting-the-sdlc-in-2026?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "title_neutral": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Thu, 24 Sep 2026 21:33:03 +0000",
+      "url": "https://koi.rest",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Evaluating Alibaba Cloud SLS as an Incident-Response Logging Architecture",
+      "title_neutral": "Evaluating Alibaba Cloud SLS as an Incident-Response Logging Architecture",
+      "excerpt": "An SRE-focused look at how Alibaba Cloud SLS turns Kubernetes logs into searchable insights, dashboards, alerts, and faster incident response.",
+      "recap_neutral": "An SRE-focused look at how Alibaba Cloud SLS turns Kubernetes logs into searchable insights, dashboards, alerts, and faster incident response",
+      "main_idea": "Evaluating Alibaba Cloud SLS as an Incident-Response Logging Architecture",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Thu, 24 Sep 2026 21:21:42 GMT",
+      "url": "https://hackernoon.com/evaluating-alibaba-cloud-sls-as-an-incident-response-logging-architecture?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -290,83 +419,99 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The Board Game of the Alpha Nerds (2014)",
-      "title_neutral": "The Board Game of the Alpha Nerds (2014)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The Board Game of the Alpha Nerds (2014)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 24 Sep 2026 20:53:39 +0000",
-      "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Haiti Turns to Roger Stone To Lobby Trump Administration",
-      "title_neutral": "Haiti Turns to Roger Stone To Lobby Trump Administration",
-      "excerpt": "The Haitian government hired Mr. Stone, a confidant of President Trump, weeks after hundreds of thousands of Haitians lost deportation protection. The contract is worth nearly $800,000, a document shows.",
-      "recap_neutral": "The Haitian government hired Mr",
-      "main_idea": "Haiti Turns to Roger Stone To Lobby Trump Administration",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Thu, 24 Sep 2026 20:43:43 +0000",
-      "url": "https://www.nytimes.com/2026/09/24/world/americas/haiti-roger-stone-migration.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria",
-      "title_neutral": "Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 24 Sep 2026 20:42:02 +0000",
-      "url": "https://rackcrunch.com/security-headers-2026",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Opus 5.5 is good at explainer videos",
-      "title_neutral": "Opus 5.5 is good at explainer videos",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Opus 5.5 is good at explainer videos",
+      "title_original": "Designing Reliable Output Contracts for AI-Powered Mobile Interfaces",
+      "title_neutral": "Designing Reliable Output Contracts for AI-Powered Mobile Interfaces",
+      "excerpt": "Learn how schemas, validation, versioning, failure states, and fallbacks can keep probabilistic AI output from breaking deterministic interfaces.",
+      "recap_neutral": "Learn how schemas, validation, versioning, failure states, and fallbacks can keep probabilistic AI output from breaking deterministic interfaces",
+      "main_idea": "Designing Reliable Output Contracts for AI-Powered Mobile Interfaces",
       "tags": [
         "tech"
       ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 24 Sep 2026 20:38:55 GMT",
+      "url": "https://hackernoon.com/designing-reliable-output-contracts-for-ai-powered-mobile-interfaces?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "California is chasing wealth that has feet",
+      "title_neutral": "California is chasing wealth that has feet",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "California is chasing wealth that has feet",
+      "tags": [],
       "source": "Hacker News",
-      "published_at": "Thu, 24 Sep 2026 20:28:47 +0000",
-      "url": "https://launchvideo.io",
+      "published_at": "Thu, 24 Sep 2026 20:34:32 +0000",
+      "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Sourcehut account takeover via build logs (XSS in ansi2html)",
-      "title_neutral": "Sourcehut account takeover via build logs (XSS in ansi2html)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Sourcehut account takeover via build logs (XSS in ansi2html)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 24 Sep 2026 19:54:21 +0000",
-      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "title_original": "Meet AvisLoader: A Windows Loader Built to Outlast a Takedown",
+      "title_neutral": "Meet AvisLoader: A Windows Loader Built to Outlast a Takedown",
+      "excerpt": "Discover how AvisLoader uses Tox peer-to-peer messaging for C2, ClickFix delivery, shortcut persistence, and payload distribution without fixed domains.",
+      "recap_neutral": "Discover how AvisLoader uses Tox peer-to-peer messaging for C2, ClickFix delivery, shortcut persistence, and payload distribution without fixed domains",
+      "main_idea": "Meet AvisLoader: A Windows Loader Built to Outlast a Takedown",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 24 Sep 2026 20:29:59 GMT",
+      "url": "https://hackernoon.com/meet-avisloader-a-windows-loader-built-to-outlast-a-takedown?source=rss",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "An Autonomous Agent Cold-Emailed Me a Free Audit at 12:45 AM",
+      "title_neutral": "An Autonomous Agent Cold-Emailed Me a Free Audit at 12:45 AM",
+      "excerpt": "An autonomous AI agent audited my x402 endpoint for free. We cross-checked each other's instruments, and each of us found a defect in our own.",
+      "recap_neutral": "An autonomous AI agent audited my x402 endpoint for free",
+      "main_idea": "An Autonomous Agent Cold-Emailed Me a Free Audit at 12:45 AM",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 24 Sep 2026 20:25:19 GMT",
+      "url": "https://hackernoon.com/an-autonomous-agent-cold-emailed-me-a-free-audit-at-1245-am?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "India Targets 15 Crypto Platforms in Latest FIU Compliance Push",
+      "title_neutral": "India Targets 15 Crypto Platforms in Latest FIU Compliance Push",
+      "excerpt": "India has issued PMLA non-compliance notices to 15 crypto platforms, highlighting the AML obligations facing offshore exchanges serving Indian users.",
+      "recap_neutral": "India has issued PMLA non-compliance notices to 15 crypto platforms, highlighting the AML obligations facing offshore exchanges serving Indian users",
+      "main_idea": "India Targets 15 Crypto Platforms in Latest FIU Compliance Push",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Thu, 24 Sep 2026 20:11:42 GMT",
+      "url": "https://hackernoon.com/india-targets-15-crypto-platforms-in-latest-fiu-compliance-push?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Your RAG Pipeline Can Be Correct and Still Miss the Right Answer",
+      "title_neutral": "Your RAG Pipeline Can Be Correct and Still Miss the Right Answer",
+      "excerpt": "pgvector, HNSW and the filtered-search trap: why your WHERE clause returns fewer rows than it should, and how hybrid search fixes what embeddings cannot.",
+      "recap_neutral": "pgvector, HNSW and the filtered-search trap: why your WHERE clause returns fewer rows than it should, and how hybrid search fixes what embeddings cannot",
+      "main_idea": "Your RAG Pipeline Can Be Correct and Still Miss the Right Answer",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Thu, 24 Sep 2026 20:04:20 GMT",
+      "url": "https://hackernoon.com/your-rag-pipeline-can-be-correct-and-still-miss-the-right-answer?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -382,6 +527,23 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Limits of AI-Assisted Risk Assessment When Stakeholder Signals Go Unrecorded",
+      "title_neutral": "The Limits of AI-Assisted Risk Assessment When Stakeholder Signals Go Unrecorded",
+      "excerpt": "During a 465-application transition, AI reduced reporting work, but a change in vendor communication exposed a dependency risk the dashboard missed.",
+      "recap_neutral": "During a 465-application transition, AI reduced reporting work, but a change in vendor communication exposed a dependency risk the dashboard missed",
+      "main_idea": "The Limits of AI-Assisted Risk Assessment When Stakeholder Signals Go Unrecorded",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 24 Sep 2026 19:24:31 GMT",
+      "url": "https://hackernoon.com/the-limits-of-ai-assisted-risk-assessment-when-stakeholder-signals-go-unrecorded?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -435,6 +597,73 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Why TOR Fails - Threat Models, Traffic Correlation and Opsec Mistakes: Down The Rabbit Hole Part 4",
+      "title_neutral": "Why TOR Fails - Threat Models, Traffic Correlation and Opsec Mistakes: Down The Rabbit Hole Part 4",
+      "excerpt": "TOR isn't bulletproof. From traffic correlation to opsec failures, this part breaks down why TOR fails and the real world cases that prove it.",
+      "recap_neutral": "TOR isn't bulletproof",
+      "main_idea": "Why TOR Fails - Threat Models, Traffic Correlation and Opsec Mistakes: Down The Rabbit Hole Part 4",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 24 Sep 2026 19:00:36 GMT",
+      "url": "https://hackernoon.com/why-tor-fails-threat-models-traffic-correlation-and-opsec-mistakes-down-the-rabbit-hole-part-4?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Durable Execution for AI Agents: LangGraph, DBOS, Inngest and Temporal Compared",
+      "title_neutral": "Durable Execution for AI Agents: LangGraph, DBOS, Inngest and Temporal Compared",
+      "excerpt": "Four ways to make an agent survive a crash. Where each one keeps its state, what it forces on your code, and which one you already have installed.",
+      "recap_neutral": "Four ways to make an agent survive a crash",
+      "main_idea": "Durable Execution for AI Agents: LangGraph, DBOS, Inngest and Temporal Compared",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 24 Sep 2026 19:00:31 GMT",
+      "url": "https://hackernoon.com/durable-execution-for-ai-agents-langgraph-dbos-inngest-and-temporal-compared?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "My Sea Router Turned a 50-Mile Canal Crossing Into a 10,337-Mile Detour",
+      "title_neutral": "My Sea Router Turned a 50-Mile Canal Crossing Into a 10,337-Mile Detour",
+      "excerpt": "A 10,337-nautical-mile detour exposed how coastline data, H3 resolution, and distance quantization can break a global sea-routing graph.",
+      "recap_neutral": "A 10,337-nautical-mile detour exposed how coastline data, H3 resolution, and distance quantization can break a global sea-routing graph",
+      "main_idea": "My Sea Router Turned a 50-Mile Canal Crossing Into a 10,337-Mile Detour",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Thu, 24 Sep 2026 18:48:56 GMT",
+      "url": "https://hackernoon.com/my-sea-router-turned-a-50-mile-canal-crossing-into-a-10337-mile-detour?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why a Successful AI Testing Pilot Can Still Lead to a Failed Rollout",
+      "title_neutral": "Why a Successful AI Testing Pilot Can Still Lead to a Failed Rollout",
+      "excerpt": "A health-tech rollout shows why AI testing pilots, scaling programs, and production deployments need different metrics and readiness criteria.",
+      "recap_neutral": "A health-tech rollout shows why AI testing pilots, scaling programs, and production deployments need different metrics and readiness criteria",
+      "main_idea": "Why a Successful AI Testing Pilot Can Still Lead to a Failed Rollout",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Thu, 24 Sep 2026 18:35:55 GMT",
+      "url": "https://hackernoon.com/why-a-successful-ai-testing-pilot-can-still-lead-to-a-failed-rollout?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir?",
       "title_neutral": "Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir?",
       "excerpt": "Deference was deafening as US president rolled out red carpet for world’s biggest jailer of journalists – perhaps he was seeking tips One is an authoritarian who represses the media with a strong allergy to democratic elections. The other is head of the Chinese Communist party. Donald Trump welcome…",
@@ -453,18 +682,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Stable (YC W20) Is Hiring Product Engineers",
-      "title_neutral": "Stable (YC W20) Is Hiring Product Engineers",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Stable (YC W20) Is Hiring Product Engineers",
+      "title_original": "Long agenda, short meeting: Trump and Xi meet",
+      "title_neutral": "Long agenda, short meeting: Trump and Xi meet",
+      "excerpt": "All Things Considered host Mary Louise Kelly talks with White House correspondent Emily Feng about the Trump/Xi summit.",
+      "recap_neutral": "All Things Considered host Mary Louise Kelly talks with White House correspondent Emily Feng about the Trump/Xi summit",
+      "main_idea": "Long agenda, short meeting: Trump and Xi meet",
       "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 24 Sep 2026 18:29:18 +0000",
-      "url": "https://www.usestable.com/careers/product-engineer",
+      "source": "NPR",
+      "published_at": "Thu, 24 Sep 2026 18:10:00 -0400",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5973112/long-agenda-short-meeting-trump-and-xi-meet",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -586,6 +815,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Caching Cognito M2M Tokens With Lambda, DynamoDB, and WAF",
+      "title_neutral": "Caching Cognito M2M Tokens With Lambda, DynamoDB, and WAF",
+      "excerpt": "A Lambda in front of Cognito's token endpoint caches tokens in DynamoDB, reducing the number of requests to Cognito and saving money. By adding AWS WAF to block direct requests to Cognito, the solution ensures that all requests go through the Lambda, further reducing costs.",
+      "recap_neutral": "A Lambda in front of Cognito's token endpoint caches tokens in DynamoDB, reducing the number of requests to Cognito and saving money",
+      "main_idea": "Caching Cognito M2M Tokens With Lambda, DynamoDB, and WAF",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Thu, 24 Sep 2026 17:00:19 GMT",
+      "url": "https://hackernoon.com/caching-cognito-m2m-tokens-with-lambda-dynamodb-and-waf?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "​Ukraine Sent Two North Korean P.O.W.s to South Korea, Zelensky Says",
       "title_neutral": "​Ukraine Sent Two North Korean P.O.W.s to South Korea, Zelensky Says",
       "excerpt": "President Volodymyr Zelensky of Ukraine said one soldier tried to kill himself when he was captured. “This is how they raise people in the North,” he said.",
@@ -687,25 +931,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
-      "title_neutral": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
-      "excerpt": "Chinese president’s proposals for lessening tensions come amid period of intense competition between the two countries over AI and trade Trump-Xi summit – latest updates Xi Jinping has called for extensive cooperation with Washington to avoid the “Thucydides trap” that could put the US and China on…",
-      "recap_neutral": "Chinese president’s proposals for lessening tensions come amid period of intense competition between the two countries over AI and trade Trump-Xi summit – latest updates Xi Jinping has called for extensive cooperation w…",
-      "main_idea": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Thu, 24 Sep 2026 15:52:13 GMT",
-      "url": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
       "confidence": "heuristic"
     },
     {
@@ -829,21 +1054,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "AmericanFortress Publishes a Zero-Knowledge Proof That Stops Bridges Paying the Wrong Wallet",
-      "title_neutral": "AmericanFortress Publishes a Zero-Knowledge Proof That Stops Bridges Paying the Wrong Wallet",
-      "excerpt": "AmericanFortress's Provenance Proofs paper lets a bridge verify two wallets on Bitcoin and Solana share one hidden secret, blocking substituted payout addresses",
-      "recap_neutral": "AmericanFortress's Provenance Proofs paper lets a bridge verify two wallets on Bitcoin and Solana share one hidden secret, blocking substituted payout addresses",
-      "main_idea": "AmericanFortress Publishes a Zero-Knowledge Proof That Stops Bridges Paying the Wrong Wallet",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 24 Sep 2026 15:15:49 GMT",
-      "url": "https://hackernoon.com/americanfortress-publishes-a-zero-knowledge-proof-that-stops-bridges-paying-the-wrong-wallet?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Party Close to King Leads in Morocco’s Election as Young Voters Stay Away",
       "title_neutral": "Party Close to King Leads in Morocco’s Election as Young Voters Stay Away",
       "excerpt": "Early results in legislative elections showed the lowest voter turnout in nearly two decades. Economic frustrations have grown as Morocco is set to co-host the 2030 soccer World Cup.",
@@ -930,20 +1140,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The TechBeat: The 5 Best Suits in Marvel's Wolverine (9/24/2026)",
-      "title_neutral": "The TechBeat: The 5 Best Suits in Marvel's Wolverine (9/24/2026)",
-      "excerpt": "9/24/2026: Trending stories on Hackernoon today!",
-      "recap_neutral": "9/24/2026: Trending stories on Hackernoon today!",
-      "main_idea": "The TechBeat: The 5 Best Suits in Marvel's Wolverine (9/24/2026)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 24 Sep 2026 14:01:10 GMT",
-      "url": "https://hackernoon.com/9-24-2026-techbeat?source=rss",
+      "title_original": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "title_neutral": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Thu, 24 Sep 2026 13:53:29 +0000",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
       "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -982,40 +1190,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Readers Aren’t Ready to Let AI Agents Loose on the Internet",
-      "title_neutral": "Readers Aren’t Ready to Let AI Agents Loose on the Internet",
-      "excerpt": "Readers seem interested in AI agents. They just aren't ready to give them the keys.",
-      "recap_neutral": "Readers seem interested in AI agents",
-      "main_idea": "Readers Aren’t Ready to Let AI Agents Loose on the Internet",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 24 Sep 2026 12:00:21 GMT",
-      "url": "https://hackernoon.com/readers-arent-ready-to-let-ai-agents-loose-on-the-internet?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How Flutter Supports Mobile AI Agents Through Shared State and Execution Logic",
-      "title_neutral": "How Flutter Supports Mobile AI Agents Through Shared State and Execution Logic",
-      "excerpt": "Learn how Flutter simplifies enterprise Agentic mobile app development with shared logic, streaming state, hybrid AI inference, governance, and Dart.",
-      "recap_neutral": "Learn how Flutter simplifies enterprise Agentic mobile app development with shared logic, streaming state, hybrid AI inference, governance, and Dart",
-      "main_idea": "How Flutter Supports Mobile AI Agents Through Shared State and Execution Logic",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 24 Sep 2026 11:44:21 GMT",
-      "url": "https://hackernoon.com/how-flutter-supports-mobile-ai-agents-through-shared-state-and-execution-logic?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "The economic squeeze is pushing up poverty rates for older adults",
       "title_neutral": "The economic squeeze is pushing up poverty rates for older adults",
       "excerpt": "Despite lower poverty overall, the rate for seniors has been steadily rising in recent years. A new AARP survey sheds light on how those over 50 are struggling in the crucial time before retirement.",
@@ -1046,21 +1220,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Build-Time Syntax Highlighting With Shiki and Rehype",
-      "title_neutral": "Build-Time Syntax Highlighting With Shiki and Rehype",
-      "excerpt": "Use Shiki and rehype to highlight Markdown, HTML, and inline code at build time without shipping a syntax-highlighting library to the browser.",
-      "recap_neutral": "Use Shiki and rehype to highlight Markdown, HTML, and inline code at build time without shipping a syntax-highlighting library to the browser",
-      "main_idea": "Build-Time Syntax Highlighting With Shiki and Rehype",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 24 Sep 2026 09:30:11 GMT",
-      "url": "https://hackernoon.com/build-time-syntax-highlighting-with-shiki-and-rehype?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Nigella Lawson and ‘The Great British Bake Off’ Is a Winning Recipe",
       "title_neutral": "Nigella Lawson and ‘The Great British Bake Off’ Is a Winning Recipe",
       "excerpt": "The British food writer — who brought the world the most creative possible pronunciation of “microwave” — has joined the show. By all accounts, she’s on fire. (In a good way.)",
@@ -1076,27 +1235,10 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Installing Tailscale on the Steam Deck",
-      "title_neutral": "Installing Tailscale on the Steam Deck",
-      "excerpt": "Learn how to run Tailscale on Steam Deck without modifying SteamOS partitions, using systemd and system extensions for reliable remote networking.",
-      "recap_neutral": "Learn how to run Tailscale on Steam Deck without modifying SteamOS partitions, using systemd and system extensions for reliable remote networking",
-      "main_idea": "Installing Tailscale on the Steam Deck",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 24 Sep 2026 08:45:02 GMT",
-      "url": "https://hackernoon.com/installing-tailscale-on-the-steam-deck?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Trump and Xi strike cordial tone at summit amid underlying tensions",
       "title_neutral": "Trump and Xi strike cordial tone at summit amid underlying tensions",
-      "excerpt": "On Thursday, the two leaders will hold meetings where Trump and Xi are expected to talk about artificial intelligence, rare earths, trade and geopolitics such as Iran and Taiwan.",
-      "recap_neutral": "On Thursday, the two leaders will hold meetings where Trump and Xi are expected to talk about artificial intelligence, rare earths, trade and geopolitics such as Iran and Taiwan",
+      "excerpt": "Despite the pageantry and the cordial tone, expectations for any big breakthroughs on issues ranging from AI to Iran to a trade war truce are low.",
+      "recap_neutral": "Despite the pageantry and the cordial tone, expectations for any big breakthroughs on issues ranging from AI to Iran to a trade war truce are low",
       "main_idea": "Trump and Xi strike cordial tone at summit amid underlying tensions",
       "tags": [
         "conflict",
@@ -1141,23 +1283,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "AI Agents Don't Have a Timeout Problem. They Have a Waiting Problem.",
-      "title_neutral": "AI Agents Don't Have a Timeout Problem. They Have a Waiting Problem.",
-      "excerpt": "AI agents need more than faster responses. Learn how async execution, queues, callbacks, and durable workflows make long-running agents reliable.",
-      "recap_neutral": "AI agents need more than faster responses",
-      "main_idea": "AI Agents Don't Have a Timeout Problem. They Have a Waiting Problem.",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 24 Sep 2026 07:00:11 GMT",
-      "url": "https://hackernoon.com/ai-agents-dont-have-a-timeout-problem-they-have-a-waiting-problem?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
       "title_neutral": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
       "excerpt": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
@@ -1192,128 +1317,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Fleet Safety Camera Systems Engineering Series - Customer Telemetry & Closed-loop Optimization",
-      "title_neutral": "Fleet Safety Camera Systems Engineering Series - Customer Telemetry & Closed-loop Optimization",
-      "excerpt": "Laboratory testing and production verification establish a product's initial quality baseline, but the complexity of the real world cannot be fully represented.",
-      "recap_neutral": "Laboratory testing and production verification establish a product's initial quality baseline, but the complexity of the real world cannot be fully represented",
-      "main_idea": "Fleet Safety Camera Systems Engineering Series - Customer Telemetry & Closed-loop Optimization",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 24 Sep 2026 06:20:26 GMT",
-      "url": "https://hackernoon.com/fleet-safety-camera-systems-engineering-series-customer-telemetry-and-closed-loop-optimization?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Two Agents Made the Right Call and Still Broke the Workflow",
-      "title_neutral": "Two Agents Made the Right Call and Still Broke the Workflow",
-      "excerpt": "A practical Google ADK pattern for safe fan-out, joins, single-writer state, failure policy, and topology-based agent tests.",
-      "recap_neutral": "A practical Google ADK pattern for safe fan-out, joins, single-writer state, failure policy, and topology-based agent tests",
-      "main_idea": "Two Agents Made the Right Call and Still Broke the Workflow",
+      "title_original": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
+      "title_neutral": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
+      "excerpt": "eBay became the latest online retailer to ban the sale of airbags and many of their components. Aftermarket parts can be risky if they turn out to be fake or defective.",
+      "recap_neutral": "eBay became the latest online retailer to ban the sale of airbags and many of their components",
+      "main_idea": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
       "tags": [
+        "economy",
         "tech"
       ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 24 Sep 2026 06:17:50 GMT",
-      "url": "https://hackernoon.com/two-agents-made-the-right-call-and-still-broke-the-workflow?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Model Was Never the Bottleneck: What Shipping a Text Classifier Into a Government Office Taught",
-      "title_neutral": "The Model Was Never the Bottleneck: What Shipping a Text Classifier Into a Government Office Taught",
-      "excerpt": "We shipped a Word2Vec+LSTM over a more accurate BERT, then load testing showed the model was 0.3% of the wall-clock time. The queue was five human reviewers.",
-      "recap_neutral": "We shipped a Word2Vec+LSTM over a more accurate BERT, then load testing showed the model was 0",
-      "main_idea": "The Model Was Never the Bottleneck: What Shipping a Text Classifier Into a Government Office Taught",
-      "tags": [
-        "politics"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 24 Sep 2026 06:17:41 GMT",
-      "url": "https://hackernoon.com/the-model-was-never-the-bottleneck-what-shipping-a-text-classifier-into-a-government-office-taught?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "BTCC Exchange and Markets.com Announce Promotional Collaboration Ahead of TOKEN2049 Singapore",
-      "title_neutral": "BTCC Exchange and Markets.com Announce Promotional Collaboration Ahead of TOKEN2049 Singapore",
-      "excerpt": "The collaboration will see BTCC feature and promote the Markets.com brand to audiences interested",
-      "recap_neutral": "The collaboration will see BTCC feature and promote the Markets",
-      "main_idea": "BTCC Exchange and Markets.com Announce Promotional Collaboration Ahead of TOKEN2049 Singapore",
-      "tags": [
-        "economy"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 24 Sep 2026 06:10:16 GMT",
-      "url": "https://hackernoon.com/btcc-exchange-and-marketscom-announce-promotional-collaboration-ahead-of-token2049-singapore?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "We Benchmarked 27 Open-Source LLMs — Then We Had to Fix Our Own Benchmark",
-      "title_neutral": "We Benchmarked 27 Open-Source LLMs — Then We Had to Fix Our Own Benchmark",
-      "excerpt": "We benchmarked 27 open-source LLMs for quality, latency and reliability—and discovered why benchmark configuration can completely change the results.",
-      "recap_neutral": "We benchmarked 27 open-source LLMs for quality, latency and reliability—and discovered why benchmark configuration can completely change the results",
-      "main_idea": "We Benchmarked 27 Open-Source LLMs — Then We Had to Fix Our Own Benchmark",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 24 Sep 2026 05:59:08 GMT",
-      "url": "https://hackernoon.com/we-benchmarked-27-open-source-llms-then-we-had-to-fix-our-own-benchmark?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Not Your Keys, Not Your Coins. So Why Does Your Bot Have Both?",
-      "title_neutral": "Not Your Keys, Not Your Coins. So Why Does Your Bot Have Both?",
-      "excerpt": "An exchange API key with withdrawals disabled answers the smallest custody question. Here are the two it hides, and how to check any bot in five minutes.",
-      "recap_neutral": "An exchange API key with withdrawals disabled answers the smallest custody question",
-      "main_idea": "Not Your Keys, Not Your Coins. So Why Does Your Bot Have Both?",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Thu, 24 Sep 2026 05:57:30 GMT",
-      "url": "https://hackernoon.com/not-your-keys-not-your-coins-so-why-does-your-bot-have-both?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Your Personal AI Representative (PAIR) - Where This Has to Go?",
-      "title_neutral": "Your Personal AI Representative (PAIR) - Where This Has to Go?",
-      "excerpt": "Five articles, one argument: AI agents don't need smarter models, they need a trust layer — identity, mandates, provenance, liability. Here's where it must go.",
-      "recap_neutral": "Five articles, one argument: AI agents don't need smarter models, they need a trust layer — identity, mandates, provenance, liability",
-      "main_idea": "Your Personal AI Representative (PAIR) - Where This Has to Go?",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Thu, 24 Sep 2026 05:53:10 GMT",
-      "url": "https://hackernoon.com/your-personal-ai-representative-pair-where-this-has-to-go?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "These 6 charts show how NIH research funding has been reshaped under Trump",
-      "title_neutral": "These 6 charts show how NIH research funding has been reshaped under Trump",
-      "excerpt": "Stories of science funding being cut, labs shutting down and scientists losing jobs have flooded the media under Trump's administration. These six graphics show how those changes have affected U.S. biomedical research.",
-      "recap_neutral": "Stories of science funding being cut, labs shutting down and scientists losing jobs have flooded the media under Trump's administration",
-      "main_idea": "These 6 charts show how NIH research funding has been reshaped under Trump",
-      "tags": [],
       "source": "NPR",
       "published_at": "Thu, 24 Sep 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1332,24 +1347,6 @@
       "source": "NPR",
       "published_at": "Thu, 24 Sep 2026 05:00:00 -0400",
       "url": "https://www.npr.org/2026/09/24/nx-s1-5979070/department-commerce-census-bureau-elizabeth-warren",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
-      "title_neutral": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
-      "excerpt": "eBay became the latest online retailer to ban the sale of airbags and many of their components. Aftermarket parts can be risky if they turn out to be fake or defective.",
-      "recap_neutral": "eBay became the latest online retailer to ban the sale of airbags and many of their components",
-      "main_idea": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Thu, 24 Sep 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1390,21 +1387,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
-      "title_neutral": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 21 Sep 2026 14:30:00 +0000",
-      "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Banished to alien lands: Trump’s secret deportation deals",
       "title_neutral": "Banished to alien lands: Trump’s secret deportation deals",
       "excerpt": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy deals made with dozens of countries. An in-depth investigation reveals the ‘show of force’ costing Ame…",
@@ -1420,250 +1402,258 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Лавров: РФ ожидает лидеров стран альянса Сахеля на саммите в Москве",
-      "title_neutral": "Лавров: РФ ожидает лидеров стран альянса Сахеля на саммите в Москве",
+      "title_original": "Маск и Кук сели за стол с Трампом и Си Цзиньпином",
+      "title_neutral": "Маск и Кук сели за стол с Трампом и Си Цзиньпином",
       "excerpt": "",
-      "recap_neutral": "Лавров: РФ ожидает лидеров стран альянса Сахеля на саммите в Москве",
-      "main_idea": "Лавров: РФ ожидает лидеров стран альянса Сахеля на саммите в Москве",
+      "recap_neutral": "Маск и Кук сели за стол с Трампом и Си Цзиньпином",
+      "main_idea": "Маск и Кук сели за стол с Трампом и Си Цзиньпином",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 25 Sep 2026 00:35:39 +0300",
-      "url": "https://tass.ru/politika/28149265",
+      "published_at": "Fri, 25 Sep 2026 03:10:00 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28149429",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В России средняя пенсия выросла почти на 2 тыс. рублей за год",
-      "title_neutral": "В России средняя пенсия выросла почти на 2 тыс. рублей за год",
-      "excerpt": "Согласно последним данным Соцфонда, в августе размер выплат составлял 25 469 рублей",
-      "recap_neutral": "Согласно последним данным Соцфонда, в августе размер выплат составлял 25 469 рублей",
-      "main_idea": "В России средняя пенсия выросла почти на 2 тыс. рублей за год",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 25 Sep 2026 00:32:10 +0300",
-      "url": "https://tass.ru/obschestvo/28149263",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Аэропорт Внуково обслуживает рейсы по согласованию",
-      "title_neutral": "Аэропорт Внуково обслуживает рейсы по согласованию",
+      "title_original": "Си Цзиньпин заявил, что переговоры КНР и США придали новый смысл их отношениям",
+      "title_neutral": "Си Цзиньпин заявил, что переговоры КНР и США придали новый смысл их отношениям",
       "excerpt": "",
-      "recap_neutral": "Аэропорт Внуково обслуживает рейсы по согласованию",
-      "main_idea": "Аэропорт Внуково обслуживает рейсы по согласованию",
+      "recap_neutral": "Си Цзиньпин заявил, что переговоры КНР и США придали новый смысл их отношениям",
+      "main_idea": "Си Цзиньпин заявил, что переговоры КНР и США придали новый смысл их отношениям",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 25 Sep 2026 00:29:28 +0300",
-      "url": "https://tass.ru/ekonomika/28149261",
+      "published_at": "Fri, 25 Sep 2026 03:09:15 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28149427",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Лавров выразил главе МИД Мали готовность содействовать миру в стране",
-      "title_neutral": "Лавров выразил главе МИД Мали готовность содействовать миру в стране",
-      "excerpt": "Министры также обсудили актуальные вопросы дальнейшего укрепления российско-малийских отношений с акцентом на наращивание торгово-экономических и инвестиционных связей",
-      "recap_neutral": "Министры также обсудили актуальные вопросы дальнейшего укрепления российско-малийских отношений с акцентом на наращивание торгово-экономических и инвестиционных связей",
-      "main_idea": "Лавров выразил главе МИД Мали готовность содействовать миру в стране",
+      "title_original": "Си Цзиньпин заявил о достижении взаимопонимания по многим вопросам с Трампом",
+      "title_neutral": "Си Цзиньпин заявил о достижении взаимопонимания по многим вопросам с Трампом",
+      "excerpt": "",
+      "recap_neutral": "Си Цзиньпин заявил о достижении взаимопонимания по многим вопросам с Трампом",
+      "main_idea": "Си Цзиньпин заявил о достижении взаимопонимания по многим вопросам с Трампом",
       "tags": [
-        "economy"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 25 Sep 2026 00:25:30 +0300",
-      "url": "https://tass.ru/politika/28149255",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Власти Йемена заявили о способности защитить порты от хуситов",
-      "title_neutral": "Власти Йемена заявили о способности защитить порты от хуситов",
-      "excerpt": "Несмотря на это, заместитель главы президентского совета республики Абдалла аль-Алими Бавазир, выступая на 81-й сессии Генеральной Ассамблеи ООН в Нью-Йорке, обратился к международному сообществу с просьбой поддержать правительство",
-      "recap_neutral": "Несмотря на это, заместитель главы президентского совета республики Абдалла аль-Алими Бавазир, выступая на 81-й сессии Генеральной Ассамблеи ООН в Нью-Йорке, обратился к международному сообществу с просьбой поддержать п…",
-      "main_idea": "Власти Йемена заявили о способности защитить порты от хуситов",
-      "tags": [
-        "politics",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 25 Sep 2026 00:22:49 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28149245",
+      "published_at": "Fri, 25 Sep 2026 03:07:59 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28149423",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Ле Пен призвала Францию не провоцировать \"русского медведя\"",
-      "title_neutral": "Ле Пен призвала Францию не провоцировать \"русского медведя\"",
-      "excerpt": "Лидер парламентской фракции партии \"Национальное объединение\" также призвала не доводить ситуацию до опасной точки",
-      "recap_neutral": "Лидер парламентской фракции партии \"Национальное объединение\" также призвала не доводить ситуацию до опасной точки",
-      "main_idea": "Ле Пен призвала Францию не провоцировать \"русского медведя\"",
+      "title_original": "Марочко объяснил значение ударов ВС РФ по дата-центрам в Киеве",
+      "title_neutral": "Марочко объяснил значение ударов ВС РФ по дата-центрам в Киеве",
+      "excerpt": "Атаки обрывают закрытую связь ВСУ и снижают использование ИИ на линии боевого соприкосновения, рассказал военный эксперт",
+      "recap_neutral": "Атаки обрывают закрытую связь ВСУ и снижают использование ИИ на линии боевого соприкосновения, рассказал военный эксперт",
+      "main_idea": "Марочко объяснил значение ударов ВС РФ по дата-центрам в Киеве",
       "tags": [
-        "politics",
+        "conflict",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 25 Sep 2026 00:21:48 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28149249",
+      "published_at": "Fri, 25 Sep 2026 03:05:10 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28149413",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В аэропорту Геленджика ввели дополнительные ограничения",
-      "title_neutral": "В аэропорту Геленджика ввели дополнительные ограничения",
-      "excerpt": "Они необходимы для обеспечения безопасности полетов",
-      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
-      "main_idea": "В аэропорту Геленджика ввели дополнительные ограничения",
+      "title_original": "SCMP: на ужине в честь Си Цзиньпина будут главы Lockheed Martin и JPMorgan",
+      "title_neutral": "SCMP: на ужине в честь Си Цзиньпина будут главы Lockheed Martin и JPMorgan",
+      "excerpt": "По информации издания, на приеме также будут руководители технологических, оборонных, инвестиционных и других компаний",
+      "recap_neutral": "По информации издания, на приеме также будут руководители технологических, оборонных, инвестиционных и других компаний",
+      "main_idea": "SCMP: на ужине в честь Си Цзиньпина будут главы Lockheed Martin и JPMorgan",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Fri, 25 Sep 2026 03:03:33 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28149407",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Чернышенко сообщил о капремонте 650 школ в 2026 году",
+      "title_neutral": "Чернышенко сообщил о капремонте 650 школ в 2026 году",
+      "excerpt": "",
+      "recap_neutral": "Чернышенко сообщил о капремонте 650 школ в 2026 году",
+      "main_idea": "Чернышенко сообщил о капремонте 650 школ в 2026 году",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 25 Sep 2026 00:21:16 +0300",
-      "url": "https://tass.ru/ekonomika/28149253",
+      "published_at": "Fri, 25 Sep 2026 03:01:08 +0300",
+      "url": "https://tass.ru/obschestvo/28149417",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "NYT: главы Google, OpenAI, SpaceX будут на приеме в честь визита Си Цзиньпина",
-      "title_neutral": "NYT: главы Google, OpenAI, SpaceX будут на приеме в честь визита Си Цзиньпина",
-      "excerpt": "На мероприятии ожидаются основатель Amazon Джефф Безос, глава SpaceX и Telsa Илон Маск, руководитель Dell Майкл Делл, председатель совета директоров Apple Тим Кук",
-      "recap_neutral": "На мероприятии ожидаются основатель Amazon Джефф Безос, глава SpaceX и Telsa Илон Маск, руководитель Dell Майкл Делл, председатель совета директоров Apple Тим Кук",
-      "main_idea": "NYT: главы Google, OpenAI, SpaceX будут на приеме в честь визита Си Цзиньпина",
+      "title_original": "Руденко: в Республике Корея есть сторонники нормализации отношений с Россией",
+      "title_neutral": "Руденко: в Республике Корея есть сторонники нормализации отношений с Россией",
+      "excerpt": "",
+      "recap_neutral": "Руденко: в Республике Корея есть сторонники нормализации отношений с Россией",
+      "main_idea": "Руденко: в Республике Корея есть сторонники нормализации отношений с Россией",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 25 Sep 2026 00:20:45 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28149251",
+      "published_at": "Fri, 25 Sep 2026 03:00:25 +0300",
+      "url": "https://tass.ru/politika/28149409",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Казахстане назвали статьи, по которым расследуют гибель военных",
-      "title_neutral": "В Казахстане назвали статьи, по которым расследуют гибель военных",
-      "excerpt": "Возбуждены дела о халатности и нарушении правил кораблевождения, сообщили в акимате Мангистауской области, где случилось ЧП",
-      "recap_neutral": "Возбуждены дела о халатности и нарушении правил кораблевождения, сообщили в акимате Мангистауской области, где случилось ЧП",
-      "main_idea": "В Казахстане назвали статьи, по которым расследуют гибель военных",
+      "title_original": "В Киеве объявили воздушную тревогу",
+      "title_neutral": "В Киеве объявили воздушную тревогу",
+      "excerpt": "Сирены также действуют в Днепропетровской, Житомирской, Киевской, Кировоградской, Николаевской, Одесской, Полтавской, Харьковской, Черкасской и Черниговской областях",
+      "recap_neutral": "Сирены также действуют в Днепропетровской, Житомирской, Киевской, Кировоградской, Николаевской, Одесской, Полтавской, Харьковской, Черкасской и Черниговской областях",
+      "main_idea": "В Киеве объявили воздушную тревогу",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 25 Sep 2026 02:55:37 +0300",
+      "url": "https://tass.ru/proisshestviya/28149405",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "SberDevices подала иск к \"М.Видео\" на сумму 6,6 млрд рублей",
+      "title_neutral": "SberDevices подала иск к \"М.Видео\" на сумму 6,6 млрд рублей",
+      "excerpt": "Суть исковых требований не раскрывается",
+      "recap_neutral": "Суть исковых требований не раскрывается",
+      "main_idea": "SberDevices подала иск к \"М.Видео\" на сумму 6,6 млрд рублей",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 25 Sep 2026 02:55:17 +0300",
+      "url": "https://tass.ru/ekonomika/28149403",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Аэропорт Кирова приостановил прием и выпуск самолетов",
+      "title_neutral": "Аэропорт Кирова приостановил прием и выпуск самолетов",
+      "excerpt": "Меры необходимы для обеспечения безопасности полетов",
+      "recap_neutral": "Меры необходимы для обеспечения безопасности полетов",
+      "main_idea": "Аэропорт Кирова приостановил прием и выпуск самолетов",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Fri, 25 Sep 2026 02:52:43 +0300",
+      "url": "https://tass.ru/ekonomika/28149401",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Нерюнгринском районе после ЧП на ГРЭС начали подавать тепло в дома",
+      "title_neutral": "В Нерюнгринском районе после ЧП на ГРЭС начали подавать тепло в дома",
+      "excerpt": "22 сентября произошло возгорание трансформаторной подстанции района",
+      "recap_neutral": "22 сентября произошло возгорание трансформаторной подстанции района",
+      "main_idea": "В Нерюнгринском районе после ЧП на ГРЭС начали подавать тепло в дома",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 25 Sep 2026 00:20:13 +0300",
-      "url": "https://tass.ru/proisshestviya/28149243",
+      "published_at": "Fri, 25 Sep 2026 02:50:57 +0300",
+      "url": "https://tass.ru/obschestvo/28149399",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Лавров встретился с представителями малых островных государств юга Тихого океана",
-      "title_neutral": "Лавров встретился с представителями малых островных государств юга Тихого океана",
-      "excerpt": "Во время переговоров был подтвержден настрой на наращивание взаимодействия по широкому кругу направлений",
-      "recap_neutral": "Во время переговоров был подтвержден настрой на наращивание взаимодействия по широкому кругу направлений",
-      "main_idea": "Лавров встретился с представителями малых островных государств юга Тихого океана",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 25 Sep 2026 00:17:35 +0300",
-      "url": "https://tass.ru/politika/28149247",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Xinhua: Си Цзиньпин и Трамп обсудили Украину и Ближний Восток",
-      "title_neutral": "Xinhua: Си Цзиньпин и Трамп обсудили Украину и Ближний Восток",
-      "excerpt": "Председатель КНР и президент США ранее провели переговоры тет-а-тет, а потом в расширенном формате с участием должностных лиц",
-      "recap_neutral": "Председатель КНР и президент США ранее провели переговоры тет-а-тет, а потом в расширенном формате с участием должностных лиц",
-      "main_idea": "Xinhua: Си Цзиньпин и Трамп обсудили Украину и Ближний Восток",
+      "title_original": "Трамп рассмешил Си Цзиньпина фотографией автопера",
+      "title_neutral": "Трамп рассмешил Си Цзиньпина фотографией автопера",
+      "excerpt": "Изображением устройства заменили портрет 46-го президента США Джо Байдена",
+      "recap_neutral": "Изображением устройства заменили портрет 46-го президента США Джо Байдена",
+      "main_idea": "Трамп рассмешил Си Цзиньпина фотографией автопера",
       "tags": [
         "politics"
       ],
       "source": "ТАСС",
-      "published_at": "Fri, 25 Sep 2026 00:08:29 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28149213",
+      "published_at": "Fri, 25 Sep 2026 02:41:25 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28149397",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Руденко заявил о продолжающейся деградации отношений России и Японии",
-      "title_neutral": "Руденко заявил о продолжающейся деградации отношений России и Японии",
-      "excerpt": "Взаимодействие поддерживается только по отдельным вопросам, отметил заместитель министра иностранных дел России",
-      "recap_neutral": "Взаимодействие поддерживается только по отдельным вопросам, отметил заместитель министра иностранных дел России",
-      "main_idea": "Руденко заявил о продолжающейся деградации отношений России и Японии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Fri, 25 Sep 2026 00:05:29 +0300",
-      "url": "https://tass.ru/politika/28149237",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропорту Сочи ввели временные ограничения",
-      "title_neutral": "В аэропорту Сочи ввели временные ограничения",
-      "excerpt": "Они необходимы для обеспечения безопасности полетов",
-      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
-      "main_idea": "В аэропорту Сочи ввели временные ограничения",
+      "title_original": "Новый альбом U2 выйдет 13 ноября",
+      "title_neutral": "Новый альбом U2 выйдет 13 ноября",
+      "excerpt": "Он будет включать в себя 12 композиций, посвященных темам духовности, дружбы, свободы и стойкости \"перед лицом мрачных, надвигающихся сил\"",
+      "recap_neutral": "Он будет включать в себя 12 композиций, посвященных темам духовности, дружбы, свободы и стойкости \"перед лицом мрачных, надвигающихся сил\"",
+      "main_idea": "Новый альбом U2 выйдет 13 ноября",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 25 Sep 2026 00:04:12 +0300",
-      "url": "https://tass.ru/ekonomika/28149233",
+      "published_at": "Fri, 25 Sep 2026 02:40:11 +0300",
+      "url": "https://tass.ru/kultura/28149393",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Роспотребнадзор разработал тест для количественного определения уропатогенов",
-      "title_neutral": "Роспотребнадзор разработал тест для количественного определения уропатогенов",
-      "excerpt": "Он позволяет в течение 1,5-2 часов количественно определить ДНК бактерий Enterobacterales, Escherichia coli, Proteus spp., Klebsiella pneumoniae, Pseudomonas aeruginosa, Enterococcus spp., Staphylococcus spp., Streptococcus spp., Streptococcus agalactiae",
-      "recap_neutral": "Он позволяет в течение 1,5-2 часов количественно определить ДНК бактерий Enterobacterales, Escherichia coli, Proteus spp",
-      "main_idea": "Роспотребнадзор разработал тест для количественного определения уропатогенов",
+      "title_original": "На Чукотке бурый медведь напал на человека",
+      "title_neutral": "На Чукотке бурый медведь напал на человека",
+      "excerpt": "Мужчина находится под присмотром врачей",
+      "recap_neutral": "Мужчина находится под присмотром врачей",
+      "main_idea": "На Чукотке бурый медведь напал на человека",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 25 Sep 2026 00:03:21 +0300",
-      "url": "https://tass.ru/nauka/28149231",
+      "published_at": "Fri, 25 Sep 2026 02:37:06 +0300",
+      "url": "https://tass.ru/proisshestviya/28149391",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Захарова заявила о воспитанном в Эстонии поколении в духе \"гитлерюгенда\"",
-      "title_neutral": "Захарова заявила о воспитанном в Эстонии поколении в духе \"гитлерюгенда\"",
-      "excerpt": "Официальный представитель МИД РФ отметила, что эстонские подростки переполнены ненавистью к России",
-      "recap_neutral": "Официальный представитель МИД РФ отметила, что эстонские подростки переполнены ненавистью к России",
-      "main_idea": "Захарова заявила о воспитанном в Эстонии поколении в духе \"гитлерюгенда\"",
-      "tags": [
-        "tech"
-      ],
+      "title_original": "Эксперт Ряховский заявил о точечном характере налоговых изменений",
+      "title_neutral": "Эксперт Ряховский заявил о точечном характере налоговых изменений",
+      "excerpt": "Заведующий кафедрой налогов и налогового администрирования Финансового университета при правительстве РФ отметил, что затронут незначительную часть граждан",
+      "recap_neutral": "Заведующий кафедрой налогов и налогового администрирования Финансового университета при правительстве РФ отметил, что затронут незначительную часть граждан",
+      "main_idea": "Эксперт Ряховский заявил о точечном характере налоговых изменений",
+      "tags": [],
       "source": "ТАСС",
-      "published_at": "Fri, 25 Sep 2026 00:02:46 +0300",
-      "url": "https://tass.ru/politika/28149229",
+      "published_at": "Fri, 25 Sep 2026 02:32:51 +0300",
+      "url": "https://tass.ru/ekonomika/28149377",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "U.N. Live Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
+      "title_neutral": "U.N. Live Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
+      "excerpt": "In a combative speech, the prime minister defended Israeli military action across the Middle East, and attacked Mayor Zohran Mamdani of New York. Dozens of delegates walked out of the hall as he took the podium.",
+      "recap_neutral": "In a combative speech, the prime minister defended Israeli military action across the Middle East, and attacked Mayor Zohran Mamdani of New York",
+      "main_idea": "U.N. Live Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 25 Sep 2026 00:03:01 +0000",
+      "url": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     }
   ]
