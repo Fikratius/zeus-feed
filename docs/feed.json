@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-09-26T11:38:21.706589+00:00",
+  "last_updated": "2026-09-26T15:38:04.958552+00:00",
   "items": [
+    {
+      "title_original": "Reflections on 1,000 Days of Math",
+      "title_neutral": "Reflections on 1,000 Days of Math",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Reflections on 1,000 Days of Math",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 23 Sep 2026 14:40:34 +0000",
+      "url": "https://gmays.com/reflections-on-1000-days-of-math/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
     {
       "title_original": "Indian billionaire’s payments firm plots biggest London flotation in years",
       "title_neutral": "Indian billionaire’s payments firm plots biggest London flotation in years",
@@ -51,21 +66,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Murky History of Soviet-Born Tetris",
-      "title_neutral": "The Murky History of Soviet-Born Tetris",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The Murky History of Soviet-Born Tetris",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 24 Sep 2026 23:11:45 +0000",
-      "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -124,15 +124,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
-      "title_neutral": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
+      "title_original": "Modern Object Pascal Introduction for Programmers – Castle Game Engine",
+      "title_neutral": "Modern Object Pascal Introduction for Programmers – Castle Game Engine",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
+      "main_idea": "Modern Object Pascal Introduction for Programmers – Castle Game Engine",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Thu, 24 Sep 2026 12:10:53 +0000",
-      "url": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
+      "published_at": "Thu, 24 Sep 2026 11:33:56 +0000",
+      "url": "https://castle-engine.io/modern_pascal",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -169,245 +169,368 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Азове Ростовской области ввели режим ЧС из-за атаки БПЛА",
-      "title_neutral": "В Азове Ростовской области ввели режим ЧС из-за атаки БПЛА",
-      "excerpt": "Об этом сообщили в администрации города",
-      "recap_neutral": "Об этом сообщили в администрации города",
-      "main_idea": "В Азове Ростовской области ввели режим ЧС из-за атаки БПЛА",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 26 Sep 2026 14:31:02 +0300",
-      "url": "https://tass.ru/proisshestviya/28154519",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Студенты Академии художеств получат бесплатный доступ к экспозициям Русского музея",
-      "title_neutral": "Студенты Академии художеств получат бесплатный доступ к экспозициям Русского музея",
-      "excerpt": "Соглашение подписали генеральный директор Русского музея Алла Манилова и ректор академии Семен Михайловский",
-      "recap_neutral": "Соглашение подписали генеральный директор Русского музея Алла Манилова и ректор академии Семен Михайловский",
-      "main_idea": "Студенты Академии художеств получат бесплатный доступ к экспозициям Русского музея",
+      "title_original": "Пораженный ВС РФ дата-центр в Киеве прекратил работу",
+      "title_neutral": "Пораженный ВС РФ дата-центр в Киеве прекратил работу",
+      "excerpt": "При этом продолжаются работы по локализации последствий, частичному переносу и восстановлению сервисов, отметила компания Cosmonova",
+      "recap_neutral": "При этом продолжаются работы по локализации последствий, частичному переносу и восстановлению сервисов, отметила компания Cosmonova",
+      "main_idea": "Пораженный ВС РФ дата-центр в Киеве прекратил работу",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 26 Sep 2026 14:30:28 +0300",
-      "url": "https://tass.ru/obschestvo/28154513",
+      "published_at": "Sat, 26 Sep 2026 18:34:29 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28154879",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Reuters: в Пакистане при взрыве погибли не менее 11 человек",
-      "title_neutral": "Reuters: в Пакистане при взрыве погибли не менее 11 человек",
-      "excerpt": "По данным агентства, еще 30 получили ранения",
-      "recap_neutral": "По данным агентства, еще 30 получили ранения",
-      "main_idea": "Reuters: в Пакистане при взрыве погибли не менее 11 человек",
-      "tags": [],
+      "title_original": "В Каховском округе при атаке ВСУ погибла женщина",
+      "title_neutral": "В Каховском округе при атаке ВСУ погибла женщина",
+      "excerpt": "Удар произошел рядом с магазином в селе Софиевка",
+      "recap_neutral": "Удар произошел рядом с магазином в селе Софиевка",
+      "main_idea": "В Каховском округе при атаке ВСУ погибла женщина",
+      "tags": [
+        "conflict"
+      ],
       "source": "ТАСС",
-      "published_at": "Sat, 26 Sep 2026 14:30:16 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28154521",
+      "published_at": "Sat, 26 Sep 2026 18:32:40 +0300",
+      "url": "https://tass.ru/proisshestviya/28154873",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Петербурге с 1 октября снимут все антиковидные ограничения",
-      "title_neutral": "В Петербурге с 1 октября снимут все антиковидные ограничения",
-      "excerpt": "Действующие в городе ограничения сводятся к рекомендации применения защитных масок",
-      "recap_neutral": "Действующие в городе ограничения сводятся к рекомендации применения защитных масок",
-      "main_idea": "В Петербурге с 1 октября снимут все антиковидные ограничения",
+      "title_original": "Футболист костромского \"Спартака\" гордится сборной России по боксу после победы на ЧЕ",
+      "title_neutral": "Футболист костромского \"Спартака\" гордится сборной России по боксу после победы на ЧЕ",
+      "excerpt": "Россияне по итогам чемпионата Европы в Софии выиграли общекомандный зачет, завоевав 7 золотых, 5 серебряных и 3 бронзовые медали",
+      "recap_neutral": "Россияне по итогам чемпионата Европы в Софии выиграли общекомандный зачет, завоевав 7 золотых, 5 серебряных и 3 бронзовые медали",
+      "main_idea": "Футболист костромского \"Спартака\" гордится сборной России по боксу после победы на ЧЕ",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 26 Sep 2026 14:28:04 +0300",
-      "url": "https://tass.ru/obschestvo/28154503",
+      "published_at": "Sat, 26 Sep 2026 18:31:45 +0300",
+      "url": "https://tass.ru/sport/28154875",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Москве открылся камерный фестиваль к 120-летию Шостаковича",
-      "title_neutral": "В Москве открылся камерный фестиваль к 120-летию Шостаковича",
-      "excerpt": "В программу вошли пять камерных концертов, посвященных различным сторонам творчества композитора",
-      "recap_neutral": "В программу вошли пять камерных концертов, посвященных различным сторонам творчества композитора",
-      "main_idea": "В Москве открылся камерный фестиваль к 120-летию Шостаковича",
+      "title_original": "Лавров завершил марафон двусторонних встреч \"на полях\" ГА ООН",
+      "title_neutral": "Лавров завершил марафон двусторонних встреч \"на полях\" ГА ООН",
+      "excerpt": "Ожидается, перед вылетом глава МИД РФ проведет традиционную пресс-конференцию для журналистов в штаб-квартире ООН",
+      "recap_neutral": "Ожидается, перед вылетом глава МИД РФ проведет традиционную пресс-конференцию для журналистов в штаб-квартире ООН",
+      "main_idea": "Лавров завершил марафон двусторонних встреч \"на полях\" ГА ООН",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 26 Sep 2026 14:25:58 +0300",
-      "url": "https://tass.ru/kultura/28154497",
+      "published_at": "Sat, 26 Sep 2026 18:25:25 +0300",
+      "url": "https://tass.ru/politika/28154867",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "De Telegraaf: цена бензина в Нидерландах второй день подряд обновляет максимум",
-      "title_neutral": "De Telegraaf: цена бензина в Нидерландах второй день подряд обновляет максимум",
-      "excerpt": "По данным газеты, стоимость топлива достигла €2,729 за литр",
-      "recap_neutral": "По данным газеты, стоимость топлива достигла €2,729 за литр",
-      "main_idea": "De Telegraaf: цена бензина в Нидерландах второй день подряд обновляет максимум",
+      "title_original": "Историк Тодд назвал 2026 год решающим для украинского конфликта",
+      "title_neutral": "Историк Тодд назвал 2026 год решающим для украинского конфликта",
+      "excerpt": "При этом он отметил, что сейчас на фронте наблюдается активизация боевых действий и ситуация обостряется, а конфликт \"грозит стать все более ожесточенным\"",
+      "recap_neutral": "При этом он отметил, что сейчас на фронте наблюдается активизация боевых действий и ситуация обостряется, а конфликт \"грозит стать все более ожесточенным\"",
+      "main_idea": "Историк Тодд назвал 2026 год решающим для украинского конфликта",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 26 Sep 2026 18:24:24 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28154863",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ВС РФ взяли в плен солдата ВСУ при попытке сделать фото с флагом Украины",
+      "title_neutral": "ВС РФ взяли в плен солдата ВСУ при попытке сделать фото с флагом Украины",
+      "excerpt": "Игорь Мухин рассказал, что является гражданином Португалии, но сотрудники ТЦК не сочли это обстоятельство уважительным и мобилизовали его в армию",
+      "recap_neutral": "Игорь Мухин рассказал, что является гражданином Португалии, но сотрудники ТЦК не сочли это обстоятельство уважительным и мобилизовали его в армию",
+      "main_idea": "ВС РФ взяли в плен солдата ВСУ при попытке сделать фото с флагом Украины",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 26 Sep 2026 18:21:45 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28154865",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Тренер Разин извинился за поведение на пресс-конференциях после игр КХЛ",
+      "title_neutral": "Тренер Разин извинился за поведение на пресс-конференциях после игр КХЛ",
+      "excerpt": "Ранее главный тренер \"Металлурга\" на послематчевых пресс-конференциях резко высказывался об игроке своей команды Владимире Ткачеве",
+      "recap_neutral": "Ранее главный тренер \"Металлурга\" на послематчевых пресс-конференциях резко высказывался об игроке своей команды Владимире Ткачеве",
+      "main_idea": "Тренер Разин извинился за поведение на пресс-конференциях после игр КХЛ",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 26 Sep 2026 14:25:21 +0300",
-      "url": "https://tass.ru/ekonomika/28154511",
+      "published_at": "Sat, 26 Sep 2026 18:17:42 +0300",
+      "url": "https://tass.ru/sport/28154859",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Военкор Хейсканен: Стубб подвел себя под трибунал, прося помочь Киеву с ударами по РФ",
-      "title_neutral": "Военкор Хейсканен: Стубб подвел себя под трибунал, прося помочь Киеву с ударами по РФ",
-      "excerpt": "Задача президента Финляндии - всех одурачить, отметил финский военный корреспондент",
-      "recap_neutral": "Задача президента Финляндии - всех одурачить, отметил финский военный корреспондент",
-      "main_idea": "Военкор Хейсканен: Стубб подвел себя под трибунал, прося помочь Киеву с ударами по РФ",
+      "title_original": "Трамп убежден, что Си Цзиньпин понимает позицию США по Тайваню",
+      "title_neutral": "Трамп убежден, что Си Цзиньпин понимает позицию США по Тайваню",
+      "excerpt": "Как заявил американский президент, на переговорах с китайским лидером они не уделяли много времени этому вопросу",
+      "recap_neutral": "Как заявил американский президент, на переговорах с китайским лидером они не уделяли много времени этому вопросу",
+      "main_idea": "Трамп убежден, что Си Цзиньпин понимает позицию США по Тайваню",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 26 Sep 2026 18:12:43 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28154855",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп после переговоров с лидером КНР заявил, что США не будут тормозить развитие ИИ",
+      "title_neutral": "Трамп после переговоров с лидером КНР заявил, что США не будут тормозить развитие ИИ",
+      "excerpt": "По утверждению американского лидера, Си Цзиньпину понравилась идея называть ИИ суперинтеллектом",
+      "recap_neutral": "По утверждению американского лидера, Си Цзиньпину понравилась идея называть ИИ суперинтеллектом",
+      "main_idea": "Трамп после переговоров с лидером КНР заявил, что США не будут тормозить развитие ИИ",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 26 Sep 2026 18:11:19 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28154853",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Театры Петербурга и Мариуполя будут обмениваться гастролями и выставками",
+      "title_neutral": "Театры Петербурга и Мариуполя будут обмениваться гастролями и выставками",
+      "excerpt": "Соглашение о сотрудничестве подписали руководители учреждений Виктор Минков и Александр Чайн",
+      "recap_neutral": "Соглашение о сотрудничестве подписали руководители учреждений Виктор Минков и Александр Чайн",
+      "main_idea": "Театры Петербурга и Мариуполя будут обмениваться гастролями и выставками",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 26 Sep 2026 18:08:54 +0300",
+      "url": "https://tass.ru/kultura/28154849",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Фигуристы Фефелова и Валов назвали Фурнье-Бодри и Сизерона своими кумирами",
+      "title_neutral": "Фигуристы Фефелова и Валов назвали Фурнье-Бодри и Сизерона своими кумирами",
+      "excerpt": "В России любимым дуэтом для них являются Василиса Кагановская и Максим Некрасов",
+      "recap_neutral": "В России любимым дуэтом для них являются Василиса Кагановская и Максим Некрасов",
+      "main_idea": "Фигуристы Фефелова и Валов назвали Фурнье-Бодри и Сизерона своими кумирами",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 26 Sep 2026 18:04:33 +0300",
+      "url": "https://tass.ru/sport/28154851",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В селе Забайкалья медведь напал на мужчину",
+      "title_neutral": "В селе Забайкалья медведь напал на мужчину",
+      "excerpt": "Пострадавший получил травмы",
+      "recap_neutral": "Пострадавший получил травмы",
+      "main_idea": "В селе Забайкалья медведь напал на мужчину",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 26 Sep 2026 18:04:07 +0300",
+      "url": "https://tass.ru/proisshestviya/28154847",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Колобков прокомментировал свое избрание на пост вице-президента FIDE",
+      "title_neutral": "Колобков прокомментировал свое избрание на пост вице-президента FIDE",
+      "excerpt": "Бывший министр спорта РФ считает, что шахматный мир соскучился по России",
+      "recap_neutral": "Бывший министр спорта РФ считает, что шахматный мир соскучился по России",
+      "main_idea": "Колобков прокомментировал свое избрание на пост вице-президента FIDE",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 26 Sep 2026 18:00:07 +0300",
+      "url": "https://tass.ru/sport/28154845",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В BSW выступили за международную следственную комиссию по \"Северным потокам\"",
+      "title_neutral": "В BSW выступили за международную следственную комиссию по \"Северным потокам\"",
+      "excerpt": "Внешнеполитический эксперт партии Севим Дагделен призвала к восстановлению и запуску магистралей",
+      "recap_neutral": "Внешнеполитический эксперт партии Севим Дагделен призвала к восстановлению и запуску магистралей",
+      "main_idea": "В BSW выступили за международную следственную комиссию по \"Северным потокам\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 26 Sep 2026 17:57:48 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28154841",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Встреча Лаврова и Вадефуля на полях ГА ООН продлилась около 20 минут",
+      "title_neutral": "Встреча Лаврова и Вадефуля на полях ГА ООН продлилась около 20 минут",
+      "excerpt": "Встреча началась с рукопожатия министров и затем перешла в закрытый формат",
+      "recap_neutral": "Встреча началась с рукопожатия министров и затем перешла в закрытый формат",
+      "main_idea": "Встреча Лаврова и Вадефуля на полях ГА ООН продлилась около 20 минут",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 26 Sep 2026 17:55:52 +0300",
+      "url": "https://tass.ru/politika/28154843",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+      "title_neutral": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+      "excerpt": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
+      "recap_neutral": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials",
+      "main_idea": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 26 Sep 2026 15:12:25 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Six Dead After Explosion in Athens Tourist District",
+      "title_neutral": "Six Dead After Explosion in Athens Tourist District",
+      "excerpt": "Officials said a gas leak might have caused the blast, which destroyed a building and rattled a part of the Greek capital that draws many visitors.",
+      "recap_neutral": "Officials said a gas leak might have caused the blast, which destroyed a building and rattled a part of the Greek capital that draws many visitors",
+      "main_idea": "Six Dead After Explosion in Athens Tourist District",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 26 Sep 2026 14:58:38 +0000",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Earth is tearing apart beneath the Pacific Northwest",
+      "title_neutral": "Earth is tearing apart beneath the Pacific Northwest",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Earth is tearing apart beneath the Pacific Northwest",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 26 Sep 2026 14:33:11 +0000",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A Tetris-Like Maze Blocks Protests in Pakistan’s Capital",
+      "title_neutral": "A Tetris-Like Maze Blocks Protests in Pakistan’s Capital",
+      "excerpt": "Pakistani authorities have barricaded Islamabad with more than 1,500 shipping containers to stop opposition protesters, choking off access to the capital.",
+      "recap_neutral": "Pakistani authorities have barricaded Islamabad with more than 1,500 shipping containers to stop opposition protesters, choking off access to the capital",
+      "main_idea": "A Tetris-Like Maze Blocks Protests in Pakistan’s Capital",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sat, 26 Sep 2026 14:19:07 +0000",
+      "url": "https://www.nytimes.com/2026/09/26/world/asia/pakistan-protest-islamabad-containers.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
+      "title_neutral": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
+      "excerpt": "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan.",
+      "recap_neutral": "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan",
+      "main_idea": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
       "tags": [
         "politics",
         "conflict",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 26 Sep 2026 14:25:00 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28154507",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "NYTimes World",
+      "published_at": "Sat, 26 Sep 2026 14:11:22 +0000",
+      "url": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
-      "title_original": "\"Петергоф\" и Фонд \"Газпрома\" будут вместе создавать видеопроекты и цифровой контент",
-      "title_neutral": "\"Петергоф\" и Фонд \"Газпрома\" будут вместе создавать видеопроекты и цифровой контент",
-      "excerpt": "Также соглашение сторон предусматривает организацию выставок, конференций и семинаров",
-      "recap_neutral": "Также соглашение сторон предусматривает организацию выставок, конференций и семинаров",
-      "main_idea": "\"Петергоф\" и Фонд \"Газпрома\" будут вместе создавать видеопроекты и цифровой контент",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 26 Sep 2026 14:21:22 +0300",
-      "url": "https://tass.ru/obschestvo/28154495",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Число изучающих русский язык в школах Литвы уменьшилось на 40%",
-      "title_neutral": "Число изучающих русский язык в школах Литвы уменьшилось на 40%",
-      "excerpt": "В 2021-2022 учебном году русский язык как второй иностранный выбрали 110 тыс. школьников, сообщило министерство образования, науки и спорта",
-      "recap_neutral": "В 2021-2022 учебном году русский язык как второй иностранный выбрали 110 тыс",
-      "main_idea": "Число изучающих русский язык в школах Литвы уменьшилось на 40%",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 26 Sep 2026 14:20:01 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28154505",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Экс-министр спорта Матыцин зарегистрирован депутатом ГД от Брянской области",
-      "title_neutral": "Экс-министр спорта Матыцин зарегистрирован депутатом ГД от Брянской области",
-      "excerpt": "Также депутатом Государственной думы от региона зарегистрирован заслуженный врач РФ Николай Щеглов",
-      "recap_neutral": "Также депутатом Государственной думы от региона зарегистрирован заслуженный врач РФ Николай Щеглов",
-      "main_idea": "Экс-министр спорта Матыцин зарегистрирован депутатом ГД от Брянской области",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 26 Sep 2026 14:19:31 +0300",
-      "url": "https://tass.ru/obschestvo/28154491",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Пермском крае при пожаре в доме погибли три человека",
-      "title_neutral": "В Пермском крае при пожаре в доме погибли три человека",
-      "excerpt": "По предварительной информации, причиной возгорания могло стать неосторожное обращение с огнем при курении",
-      "recap_neutral": "По предварительной информации, причиной возгорания могло стать неосторожное обращение с огнем при курении",
-      "main_idea": "В Пермском крае при пожаре в доме погибли три человека",
+      "title_original": "Huge crowds greet Pope in Paris for open-air Mass",
+      "title_neutral": "Huge crowds greet Pope in Paris for open-air Mass",
+      "excerpt": "More than half a million people are expected to attend the event in the heart of the French capital.",
+      "recap_neutral": "More than half a million people are expected to attend the event in the heart of the French capital",
+      "main_idea": "Huge crowds greet Pope in Paris for open-air Mass",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 26 Sep 2026 14:16:57 +0300",
-      "url": "https://tass.ru/proisshestviya/28154487",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Sat, 26 Sep 2026 13:23:59 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
-      "title_original": "На Эльбрусе стартовал самый высокогорный в стране субботник \"Чистая гора\"",
-      "title_neutral": "На Эльбрусе стартовал самый высокогорный в стране субботник \"Чистая гора\"",
-      "excerpt": "В течение двух дней волонтеры в сопровождении гидов очистят от мусора наиболее популярные локации курорта",
-      "recap_neutral": "В течение двух дней волонтеры в сопровождении гидов очистят от мусора наиболее популярные локации курорта",
-      "main_idea": "На Эльбрусе стартовал самый высокогорный в стране субботник \"Чистая гора\"",
+      "title_original": "British national among six dead in building explosion close to Acropolis in Athens",
+      "title_neutral": "British national among six dead in building explosion close to Acropolis in Athens",
+      "excerpt": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+      "recap_neutral": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said",
+      "main_idea": "British national among six dead in building explosion close to Acropolis in Athens",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 26 Sep 2026 14:15:25 +0300",
-      "url": "https://tass.ru/obschestvo/28154483",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Тренер \"Шанхая\" назвал привилегией матч с \"Зенитом\"",
-      "title_neutral": "Тренер \"Шанхая\" назвал привилегией матч с \"Зенитом\"",
-      "excerpt": "Клубы проведут товарищескую встречу 27 сентября в Китае",
-      "recap_neutral": "Клубы проведут товарищескую встречу 27 сентября в Китае",
-      "main_idea": "Тренер \"Шанхая\" назвал привилегией матч с \"Зенитом\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 26 Sep 2026 14:15:17 +0300",
-      "url": "https://tass.ru/sport/28154501",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мексиканский боксер умер через несколько дней после нокаута",
-      "title_neutral": "Мексиканский боксер умер через несколько дней после нокаута",
-      "excerpt": "Артуро Торресу было 26 лет",
-      "recap_neutral": "Артуро Торресу было 26 лет",
-      "main_idea": "Мексиканский боксер умер через несколько дней после нокаута",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 26 Sep 2026 14:14:26 +0300",
-      "url": "https://tass.ru/sport/28154499",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Назарове Красноярского края потушили пожар в торговом центре",
-      "title_neutral": "В Назарове Красноярского края потушили пожар в торговом центре",
-      "excerpt": "Площадь пожара составила 800 кв. м",
-      "recap_neutral": "Площадь пожара составила 800 кв",
-      "main_idea": "В Назарове Красноярского края потушили пожар в торговом центре",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 26 Sep 2026 14:11:37 +0300",
-      "url": "https://tass.ru/proisshestviya/28154479",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Sat, 26 Sep 2026 12:47:25 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -426,11 +549,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Republic of Ireland news conference delayed before controversial Israel game",
-      "title_neutral": "Republic of Ireland news conference delayed before controversial Israel game",
-      "excerpt": "The Republic of Ireland delay the pre-match news conference planned for Sunday's Uefa Nations League game against Israel in Hungary - a fixture campaigners have called on them to boycott.",
-      "recap_neutral": "The Republic of Ireland delay the pre-match news conference planned for Sunday's Uefa Nations League game against Israel in Hungary - a fixture campaigners have called on them to boycott",
-      "main_idea": "Republic of Ireland news conference delayed before controversial Israel game",
+      "title_original": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+      "title_neutral": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+      "excerpt": "The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixture in Hungary - a fixture campaigners have called on them to boycott.",
+      "recap_neutral": "The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixture in Hungary - a fixture campaigners have called on them to boycott",
+      "main_idea": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
       "tags": [
         "tech"
       ],
@@ -440,38 +563,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "At least two dead after explosion destroys building close to Acropolis in Athens",
-      "title_neutral": "At least two dead after explosion destroys building close to Acropolis in Athens",
-      "excerpt": "Local media report the property included a holiday rental, with US tourists and a UK national among the missing.",
-      "recap_neutral": "Local media report the property included a holiday rental, with US tourists and a UK national among the missing",
-      "main_idea": "At least two dead after explosion destroys building close to Acropolis in Athens",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sat, 26 Sep 2026 10:18:51 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "One Month Without AI",
-      "title_neutral": "One Month Without AI",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "One Month Without AI",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 26 Sep 2026 10:08:21 +0000",
-      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -505,23 +596,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "At Least 2 Dead After Explosion in Athens Tourist District",
-      "title_neutral": "At Least 2 Dead After Explosion in Athens Tourist District",
-      "excerpt": "Four people, some of them believed to be tourists, were still missing. Local officials said the cause might have been a gas leak.",
-      "recap_neutral": "Four people, some of them believed to be tourists, were still missing",
-      "main_idea": "At Least 2 Dead After Explosion in Athens Tourist District",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 26 Sep 2026 09:13:05 +0000",
-      "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Heroine or Public Enemy? The Israeli Blocking Much of Netanyahu’s Agenda.",
       "title_neutral": "Heroine or Public Enemy? The Israeli Blocking Much of Netanyahu’s Agenda.",
       "excerpt": "Gali Baharav-Miara, Israel’s first female attorney general, has stopped many of the government’s efforts to remove constraints on its power.",
@@ -552,6 +626,23 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
+      "title_neutral": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
+      "excerpt": "President Donald Trump mused openly before the United Nations about whether he should annihilate Iran. It's a stark contrast to how his predecessors have spoken about wielding US military power.",
+      "recap_neutral": "President Donald Trump mused openly before the United Nations about whether he should annihilate Iran",
+      "main_idea": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
+      "tags": [
+        "politics"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 26 Sep 2026 08:00:00 -0400",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -722,23 +813,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The U.S. has more thalidomide survivors than the government admits",
-      "title_neutral": "The U.S. has more thalidomide survivors than the government admits",
-      "excerpt": "In the 1950s and 1960s, doctors gave the drug thalidomide to pregnant patients without telling them — and without FDA approval. Now those patients' children want recognition.",
-      "recap_neutral": "In the 1950s and 1960s, doctors gave the drug thalidomide to pregnant patients without telling them — and without FDA approval",
-      "main_idea": "The U.S. has more thalidomide survivors than the government admits",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 26 Sep 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
       "title_neutral": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
       "excerpt": "Some states deliver meals to Medicaid patients that address their dietary needs. Evidence shows it aids recovery and saves healthcare costs, but federal budget cuts may lead some states to cancel it.",
@@ -757,6 +831,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "The U.S. has more thalidomide survivors than the government admits",
+      "title_neutral": "The U.S. has more thalidomide survivors than the government admits",
+      "excerpt": "In the 1950s and 1960s, doctors gave the drug thalidomide to pregnant patients without telling them — and without FDA approval. Now those patients' children want recognition.",
+      "recap_neutral": "In the 1950s and 1960s, doctors gave the drug thalidomide to pregnant patients without telling them — and without FDA approval",
+      "main_idea": "The U.S. has more thalidomide survivors than the government admits",
+      "tags": [
+        "politics"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 26 Sep 2026 05:00:00 -0400",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
       "title_neutral": "A single function Jev-like wrapper for LLMs, including vision models",
       "excerpt": "Comments",
@@ -769,42 +860,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A Tetris-Like Maze Blocks Protests in Pakistan’s Capital",
-      "title_neutral": "A Tetris-Like Maze Blocks Protests in Pakistan’s Capital",
-      "excerpt": "Pakistani authorities have barricaded Islamabad with more than 1,500 shipping containers to stop opposition protesters, choking off access to the capital.",
-      "recap_neutral": "Pakistani authorities have barricaded Islamabad with more than 1,500 shipping containers to stop opposition protesters, choking off access to the capital",
-      "main_idea": "A Tetris-Like Maze Blocks Protests in Pakistan’s Capital",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 26 Sep 2026 04:01:11 +0000",
-      "url": "https://www.nytimes.com/2026/09/26/world/asia/a-tetris-like-maze-blocks-protests-in-pakistans-capital.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
-      "title_neutral": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
-      "excerpt": "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan.",
-      "recap_neutral": "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan",
-      "main_idea": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 26 Sep 2026 04:00:08 +0000",
-      "url": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1041,38 +1096,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-      "title_neutral": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-      "excerpt": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-      "recap_neutral": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance",
-      "main_idea": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-      "tags": [
-        "climate"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 25 Sep 2026 22:12:48 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "What even is an OS now?",
-      "title_neutral": "What even is an OS now?",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "What even is an OS now?",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 25 Sep 2026 21:36:56 +0000",
-      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
       "title_neutral": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
       "excerpt": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States.",
@@ -1135,6 +1158,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+      "title_neutral": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 25 Sep 2026 20:53:54 +0000",
+      "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
       "title_neutral": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
       "excerpt": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
@@ -1168,21 +1206,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "What is kratom, the 'gas station heroin' alarming officials in the US?",
-      "title_neutral": "What is kratom, the 'gas station heroin' alarming officials in the US?",
-      "excerpt": "Kratom, found during an investigation into the deaths of two college students, has been sold in the US for around a decade.",
-      "recap_neutral": "Kratom, found during an investigation into the deaths of two college students, has been sold in the US for around a decade",
-      "main_idea": "What is kratom, the 'gas station heroin' alarming officials in the US?",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Fri, 25 Sep 2026 20:06:39 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1222,11 +1245,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-      "title_neutral": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "title_original": "US Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "title_neutral": "US Supreme Court allows Trump to use controversial database to check voter citizenship",
       "excerpt": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
       "recap_neutral": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls",
-      "main_idea": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "main_idea": "US Supreme Court allows Trump to use controversial database to check voter citizenship",
       "tags": [
         "conflict"
       ],
@@ -1425,21 +1448,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-      "title_neutral": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-      "excerpt": "The visit comes at an important time for both men.",
-      "recap_neutral": "The visit comes at an important time for both men",
-      "main_idea": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Fri, 25 Sep 2026 15:11:47 -0400",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
