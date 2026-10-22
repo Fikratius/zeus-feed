@@ -1,51 +1,204 @@
 {
-  "last_updated": "2026-10-21T21:09:44.615932+00:00",
+  "last_updated": "2026-10-22T00:05:08.355245+00:00",
   "items": [
     {
-      "title_original": "\"Реал\" разгромил \"Лейпциг\" в матче Лиги чемпионов",
-      "title_neutral": "\"Реал\" разгромил \"Лейпциг\" в матче Лиги чемпионов",
-      "excerpt": "Встреча завершилась со счетом 4:1",
-      "recap_neutral": "Встреча завершилась со счетом 4:1",
-      "main_idea": "\"Реал\" разгромил \"Лейпциг\" в матче Лиги чемпионов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 21 Oct 2026 23:57:28 +0300",
-      "url": "https://tass.ru/sport/28239661",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Al-Ikhbariya: израильские танки обстреляли поселок в провинции Дераа на юге Сирии",
-      "title_neutral": "Al-Ikhbariya: израильские танки обстреляли поселок в провинции Дераа на юге Сирии",
-      "excerpt": "Сведений о пострадавших среди мирных граждан не поступало",
-      "recap_neutral": "Сведений о пострадавших среди мирных граждан не поступало",
-      "main_idea": "Al-Ikhbariya: израильские танки обстреляли поселок в провинции Дераа на юге Сирии",
+      "title_original": "El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted",
+      "title_neutral": "El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted",
+      "excerpt": "Four members of El Salvador’s military were abducted Sunday in Haiti, and their president wants them back.",
+      "recap_neutral": "Four members of El Salvador’s military were abducted Sunday in Haiti, and their president wants them back",
+      "main_idea": "El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted",
       "tags": [
+        "politics",
+        "conflict",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Wed, 21 Oct 2026 23:57:06 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28239657",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Thélyson Orélien's Quebec Publisher Cuts Ties Over A.I. Accusations",
-      "title_neutral": "Thélyson Orélien's Quebec Publisher Cuts Ties Over A.I. Accusations",
-      "excerpt": "Thélyson Orélien, a celebrated novelist, used artificial intelligence while writing a breakout book, his publisher says.",
-      "recap_neutral": "Thélyson Orélien, a celebrated novelist, used artificial intelligence while writing a breakout book, his publisher says",
-      "main_idea": "Thélyson Orélien's Quebec Publisher Cuts Ties Over A.I. Accusations",
-      "tags": [],
       "source": "NYTimes World",
-      "published_at": "Wed, 21 Oct 2026 20:47:34 +0000",
-      "url": "https://www.nytimes.com/2026/10/21/world/canada/thelyson-orelien-ai-publisher.html",
+      "published_at": "Wed, 21 Oct 2026 23:13:39 +0000",
+      "url": "https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Railway Security Disclosure",
+      "title_neutral": "Railway Security Disclosure",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Railway Security Disclosure",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Wed, 21 Oct 2026 21:58:03 +0000",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why AI Agent Pricing Is Still Unsolved and What It Means for How You Track Costs",
+      "title_neutral": "Why AI Agent Pricing Is Still Unsolved and What It Means for How You Track Costs",
+      "excerpt": "Unlike traditional SaaS, AI agents deliver uncertain value at a cost that keeps shifting, and that combination breaks the pricing logic SaaS was built on.",
+      "recap_neutral": "Unlike traditional SaaS, AI agents deliver uncertain value at a cost that keeps shifting, and that combination breaks the pricing logic SaaS was built on",
+      "main_idea": "Why AI Agent Pricing Is Still Unsolved and What It Means for How You Track Costs",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 21 Oct 2026 21:56:11 GMT",
+      "url": "https://hackernoon.com/why-ai-agent-pricing-is-still-unsolved-and-what-it-means-for-how-you-track-costs?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Meta fined $25bn for 'lies' over user data privacy",
+      "title_neutral": "Meta fined $25bn for 'lies' over user data privacy",
+      "excerpt": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "recap_neutral": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California",
+      "main_idea": "Meta fined $25bn for 'lies' over user data privacy",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 21 Oct 2026 21:49:07 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why a Disgusting Parasite Study Just Exposed Your Broken B2B Content Strategy",
+      "title_neutral": "Why a Disgusting Parasite Study Just Exposed Your Broken B2B Content Strategy",
+      "excerpt": "Why building custom B2B content for every ICP fails. Learn how a landmark parasite study reveals the secret to horizontal scale and content leverage.",
+      "recap_neutral": "Why building custom B2B content for every ICP fails",
+      "main_idea": "Why a Disgusting Parasite Study Just Exposed Your Broken B2B Content Strategy",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 21 Oct 2026 21:46:34 GMT",
+      "url": "https://hackernoon.com/why-a-disgusting-parasite-study-just-exposed-your-broken-b2b-content-strategy?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Stop Building Dumb Friction Into B2B Compliance",
+      "title_neutral": "Stop Building Dumb Friction Into B2B Compliance",
+      "excerpt": "A practitioner’s guide to clearer business verification: reusable evidence, contextual checks, and a governed compliance architecture.",
+      "recap_neutral": "A practitioner’s guide to clearer business verification: reusable evidence, contextual checks, and a governed compliance architecture",
+      "main_idea": "Stop Building Dumb Friction Into B2B Compliance",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Wed, 21 Oct 2026 21:44:37 GMT",
+      "url": "https://hackernoon.com/stop-building-dumb-friction-into-b2b-compliance?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "title_neutral": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "excerpt": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+      "recap_neutral": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war",
+      "main_idea": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 21 Oct 2026 21:27:41 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Don't Hand Claude Your Docker Socket — Build It a Guarded One",
+      "title_neutral": "Don't Hand Claude Your Docker Socket — Build It a Guarded One",
+      "excerpt": "A Python MCP server that gives Claude read-only access to Docker, with a name-resolved restart guard, secret redaction, and a 47-test mocked suite.",
+      "recap_neutral": "A Python MCP server that gives Claude read-only access to Docker, with a name-resolved restart guard, secret redaction, and a 47-test mocked suite",
+      "main_idea": "Don't Hand Claude Your Docker Socket — Build It a Guarded One",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Wed, 21 Oct 2026 21:17:14 GMT",
+      "url": "https://hackernoon.com/dont-hand-claude-your-docker-socket-build-it-a-guarded-one?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Frozen Privilege: Remote Code Execution in Snowflake-Managed PostgreSQL",
+      "title_neutral": "Frozen Privilege: Remote Code Execution in Snowflake-Managed PostgreSQL",
+      "excerpt": "Varonis uncovered an RCE chain in Snowflake-managed PostgreSQL, showing how database privileges and legitimate features could lead to OS-level access.",
+      "recap_neutral": "Varonis uncovered an RCE chain in Snowflake-managed PostgreSQL, showing how database privileges and legitimate features could lead to OS-level access",
+      "main_idea": "Frozen Privilege: Remote Code Execution in Snowflake-Managed PostgreSQL",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 21 Oct 2026 21:10:55 GMT",
+      "url": "https://hackernoon.com/frozen-privilege-remote-code-execution-in-snowflake-managed-postgresql?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How a Single Misconfigured Liveness Probe Brought Down Our Production Cluster (And How We Fixed It)",
+      "title_neutral": "How a Single Misconfigured Liveness Probe Brought Down Our Production Cluster (And How We Fixed It)",
+      "excerpt": "How a Single Misconfigured Liveness Probe Brought Down Our Production Cluster (And How We Fixed It)",
+      "recap_neutral": "How a Single Misconfigured Liveness Probe Brought Down Our Production Cluster (And How We Fixed It)",
+      "main_idea": "How a Single Misconfigured Liveness Probe Brought Down Our Production Cluster (And How We Fixed It)",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Wed, 21 Oct 2026 21:08:11 GMT",
+      "url": "https://hackernoon.com/how-a-single-misconfigured-liveness-probe-brought-down-our-production-cluster-and-how-we-fixed-it?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "An Interview with Ondřej Chrastina: Why Architecture Transparency is the Best Developer Marketing",
+      "title_neutral": "An Interview with Ondřej Chrastina: Why Architecture Transparency is the Best Developer Marketing",
+      "excerpt": "DevRel is not just developer marketing. CKEditor Developer Advocate Ondřej Chrastina on earning developer trust with real projects and enterprise trust.",
+      "recap_neutral": "DevRel is not just developer marketing",
+      "main_idea": "An Interview with Ondřej Chrastina: Why Architecture Transparency is the Best Developer Marketing",
+      "tags": [
+        "economy"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 21 Oct 2026 20:59:14 GMT",
+      "url": "https://hackernoon.com/an-interview-with-ondrej-chrastina-why-architecture-transparency-is-the-best-developer-marketing?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Phantom OOM: How a Silent Session Leak Brought Down Our Microservice Every 48 Hours",
+      "title_neutral": "The Phantom OOM: How a Silent Session Leak Brought Down Our Microservice Every 48 Hours",
+      "excerpt": "If you’ve ever chased a phantom memory leak in a microservice architecture, you know how frustrating it is.",
+      "recap_neutral": "If you’ve ever chased a phantom memory leak in a microservice architecture, you know how frustrating it is",
+      "main_idea": "The Phantom OOM: How a Silent Session Leak Brought Down Our Microservice Every 48 Hours",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Wed, 21 Oct 2026 20:51:24 GMT",
+      "url": "https://hackernoon.com/the-phantom-oom-how-a-silent-session-leak-brought-down-our-microservice-every-48-hours?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -61,6 +214,21 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Agent Security & Identity (Part 1): Who Are You, Who's Your Agent, And What Should They Be Allowed?",
+      "title_neutral": "Agent Security & Identity (Part 1): Who Are You, Who's Your Agent, And What Should They Be Allowed?",
+      "excerpt": "Part 1 of a 2-part series on agent identity and security",
+      "recap_neutral": "Part 1 of a 2-part series on agent identity and security",
+      "main_idea": "Agent Security & Identity (Part 1): Who Are You, Who's Your Agent, And What Should They Be Allowed?",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Wed, 21 Oct 2026 20:24:35 GMT",
+      "url": "https://hackernoon.com/agent-security-and-identity-part-1-who-are-you-whos-your-agent-and-what-should-they-be-allowed?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -81,6 +249,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Agent Memory Is a Search Problem, Not a Storage Problem",
+      "title_neutral": "Agent Memory Is a Search Problem, Not a Storage Problem",
+      "excerpt": "Learn how agentic search with PostgreSQL, MCP, and Claude achieved 0.665 F1 on LoCoMo, challenging the need for complex AI memory preprocessing pipelines.",
+      "recap_neutral": "Learn how agentic search with PostgreSQL, MCP, and Claude achieved 0",
+      "main_idea": "Agent Memory Is a Search Problem, Not a Storage Problem",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 21 Oct 2026 20:17:19 GMT",
+      "url": "https://hackernoon.com/agent-memory-is-a-search-problem-not-a-storage-problem?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Pope does not need further treatment after lung cancer surgery",
       "title_neutral": "Pope does not need further treatment after lung cancer surgery",
       "excerpt": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
@@ -96,10 +281,60 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "800 Requests in a Day: How Early Users Actually Work With AI Trading Agents",
+      "title_neutral": "800 Requests in a Day: How Early Users Actually Work With AI Trading Agents",
+      "excerpt": "Binance Agent OS recorded over 90,000 daily requests within two weeks, highlighting how AI agents are changing crypto market monitoring and trading workflows.",
+      "recap_neutral": "Binance Agent OS recorded over 90,000 daily requests within two weeks, highlighting how AI agents are changing crypto market monitoring and trading workflows",
+      "main_idea": "800 Requests in a Day: How Early Users Actually Work With AI Trading Agents",
+      "tags": [
+        "economy",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 21 Oct 2026 20:06:55 GMT",
+      "url": "https://hackernoon.com/800-requests-in-a-day-how-early-users-actually-work-with-ai-trading-agents?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "500 Blog Posts To Learn About Hackernoon Newsletter",
+      "title_neutral": "500 Blog Posts To Learn About Hackernoon Newsletter",
+      "excerpt": "Learn everything you need to know about Hackernoon Newsletter via these 500 free HackerNoon blog posts.",
+      "recap_neutral": "Learn everything you need to know about Hackernoon Newsletter via these 500 free HackerNoon blog posts",
+      "main_idea": "500 Blog Posts To Learn About Hackernoon Newsletter",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Wed, 21 Oct 2026 20:01:51 GMT",
+      "url": "https://hackernoon.com/500-blog-posts-to-learn-about-hackernoon-newsletter?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to Test a Compiler Against Itself: Thirteen Generators and 7,800 Programs",
+      "title_neutral": "How to Test a Compiler Against Itself: Thirteen Generators and 7,800 Programs",
+      "excerpt": "Comparing two backends only catches disagreement. How Chuks tests against known answers with 13 generators and about 7,800 programs.",
+      "recap_neutral": "Comparing two backends only catches disagreement",
+      "main_idea": "How to Test a Compiler Against Itself: Thirteen Generators and 7,800 Programs",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 21 Oct 2026 20:01:48 GMT",
+      "url": "https://hackernoon.com/how-to-test-a-compiler-against-itself-thirteen-generators-and-7800-programs?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
       "title_neutral": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "excerpt": "Russia's President Putin does not feel under pressure right now to end the war.",
-      "recap_neutral": "Russia's President Putin does not feel under pressure right now to end the war",
+      "excerpt": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+      "recap_neutral": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes",
       "main_idea": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
       "tags": [
         "politics",
@@ -115,35 +350,35 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Meta fined $25bn for 'lies' over user data privacy",
-      "title_neutral": "Meta fined $25bn for 'lies' over user data privacy",
-      "excerpt": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-      "recap_neutral": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California",
-      "main_idea": "Meta fined $25bn for 'lies' over user data privacy",
+      "title_original": "One Rogue pip install Away from a Breach",
+      "title_neutral": "One Rogue pip install Away from a Breach",
+      "excerpt": "Stop Using pip Install Blindly: Securing Your Python Supply Chain in 2026",
+      "recap_neutral": "Stop Using pip Install Blindly: Securing Your Python Supply Chain in 2026",
+      "main_idea": "One Rogue pip install Away from a Breach",
       "tags": [
         "tech"
       ],
-      "source": "BBC World",
-      "published_at": "Wed, 21 Oct 2026 19:54:16 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "source": "HackerNoon",
+      "published_at": "Wed, 21 Oct 2026 19:52:57 GMT",
+      "url": "https://hackernoon.com/one-rogue-pip-install-away-from-a-breach?source=rss",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
-      "title_original": "After automation: Solo founding will be the default",
-      "title_neutral": "After automation: Solo founding will be the default",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "After automation: Solo founding will be the default",
+      "title_original": "Audit Replay: The Forgotten Half of Reproducibility",
+      "title_neutral": "Audit Replay: The Forgotten Half of Reproducibility",
+      "excerpt": "Model replay only regenerates outputs, but audit replay reconstructs specific past decisions with proof of fidelity—and only the latter answers regulators.",
+      "recap_neutral": "Model replay only regenerates outputs, but audit replay reconstructs specific past decisions with proof of fidelity—and only the latter answers regulators",
+      "main_idea": "Audit Replay: The Forgotten Half of Reproducibility",
       "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 21 Oct 2026 19:44:49 +0000",
-      "url": "https://every.to/thesis-statements/julian-weisser",
+      "source": "HackerNoon",
+      "published_at": "Wed, 21 Oct 2026 19:46:20 GMT",
+      "url": "https://hackernoon.com/audit-replay-the-forgotten-half-of-reproducibility?source=rss",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -159,36 +394,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
-      "title_neutral": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 21 Oct 2026 19:26:20 +0000",
-      "url": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Mistral Large 4",
-      "title_neutral": "Mistral Large 4",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Mistral Large 4",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 21 Oct 2026 19:20:55 +0000",
-      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -257,11 +462,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "GitLab Remote Code Execution - Integer Overflow issue",
-      "title_neutral": "GitLab Remote Code Execution - Integer Overflow issue",
+      "title_original": "GitLab Critical Patch Release",
+      "title_neutral": "GitLab Critical Patch Release",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "GitLab Remote Code Execution - Integer Overflow issue",
+      "main_idea": "GitLab Critical Patch Release",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Wed, 21 Oct 2026 19:01:12 +0000",
@@ -322,22 +527,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Russia says it is ready to resume talks with Ukraine and US to end war",
-      "title_neutral": "Russia says it is ready to resume talks with Ukraine and US to end war",
-      "excerpt": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
-      "recap_neutral": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg",
-      "main_idea": "Russia says it is ready to resume talks with Ukraine and US to end war",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Wed, 21 Oct 2026 17:42:34 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "title_original": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "title_neutral": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 21 Oct 2026 17:45:13 +0000",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
       "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -494,21 +695,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-      "title_neutral": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 21 Oct 2026 16:20:37 +0000",
-      "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes",
       "title_neutral": "Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes",
       "excerpt": "Person named ‘K’ from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors say Taiwanese prosecutors have charged five men over a plot to ram a car into a comedian who made fun of the Chinese Communist party and Xi Jinping. Taiwan has repeatedly accused China of transnational r…",
@@ -540,24 +726,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "If AI Isn’t Your Competitive Advantage, Stop Building It",
-      "title_neutral": "If AI Isn’t Your Competitive Advantage, Stop Building It",
-      "excerpt": "Basware CEO Jason Kurtz on when to build AI and when to buy: develop what sets your business apart, and use specialist software for standard work.",
-      "recap_neutral": "Basware CEO Jason Kurtz on when to build AI and when to buy: develop what sets your business apart, and use specialist software for standard work",
-      "main_idea": "If AI Isn’t Your Competitive Advantage, Stop Building It",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 21 Oct 2026 15:51:43 GMT",
-      "url": "https://hackernoon.com/if-ai-isnt-your-competitive-advantage-stop-building-it?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -594,55 +762,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Defending AI Agent Memory Against Persistent Prompt Injection",
-      "title_neutral": "Defending AI Agent Memory Against Persistent Prompt Injection",
-      "excerpt": "Explore how indirect prompt injection can persist in AI agent memory and why secure ingestion, access controls, and tool-call authorization matter.",
-      "recap_neutral": "Explore how indirect prompt injection can persist in AI agent memory and why secure ingestion, access controls, and tool-call authorization matter",
-      "main_idea": "Defending AI Agent Memory Against Persistent Prompt Injection",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 21 Oct 2026 15:29:00 GMT",
-      "url": "https://hackernoon.com/defending-ai-agent-memory-against-persistent-prompt-injection?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How the F*ck Could Foursquare Be Sold for $0?!?!?",
-      "title_neutral": "How the F*ck Could Foursquare Be Sold for $0?!?!?",
-      "excerpt": "Foursquare raised $412M and sold to Infillion for $0 to every shareholder. Here's how debt and liquidation preferences zeroed out preferred and common.",
-      "recap_neutral": "Foursquare raised $412M and sold to Infillion for $0 to every shareholder",
-      "main_idea": "How the F*ck Could Foursquare Be Sold for $0?!?!?",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 21 Oct 2026 15:13:58 GMT",
-      "url": "https://hackernoon.com/how-the-fck-could-foursquare-be-sold-for-$0?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Shipaton Blogging Contest Winners Announced 🎉",
-      "title_neutral": "Shipaton Blogging Contest Winners Announced 🎉",
-      "excerpt": "Meet the 10 finalists and three winners of HackerNoon's $2,500 Shipaton 2026 Writing Contest, celebrating the stories behind new apps.",
-      "recap_neutral": "Meet the 10 finalists and three winners of HackerNoon's $2,500 Shipaton 2026 Writing Contest, celebrating the stories behind new apps",
-      "main_idea": "Shipaton Blogging Contest Winners Announced 🎉",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Wed, 21 Oct 2026 15:00:02 GMT",
-      "url": "https://hackernoon.com/shipaton-blogging-contest-winners-announced?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "China’s Free A.I. Models Are Thrown Into Uncertainty",
       "title_neutral": "China’s Free A.I. Models Are Thrown Into Uncertainty",
       "excerpt": "Draft rules on the export of artificial intelligence technology show how China is trying to balance national security risks with its desire to outpace the United States.",
@@ -657,55 +776,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Why the NFL Put Creators on Commentary in Spain: Inside CayoTV, Part of Nicole Junkermann's Gameday",
-      "title_neutral": "Why the NFL Put Creators on Commentary in Spain: Inside CayoTV, Part of Nicole Junkermann's Gameday",
-      "excerpt": "Discover how CayoTV, part of Nicole Junkermann’s Gameday, is using creator-led commentary to bring a new NFL viewing experience to Spain.",
-      "recap_neutral": "Discover how CayoTV, part of Nicole Junkermann’s Gameday, is using creator-led commentary to bring a new NFL viewing experience to Spain",
-      "main_idea": "Why the NFL Put Creators on Commentary in Spain: Inside CayoTV, Part of Nicole Junkermann's Gameday",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 21 Oct 2026 14:21:50 GMT",
-      "url": "https://hackernoon.com/why-the-nfl-put-creators-on-commentary-in-spain-inside-cayotv-part-of-nicole-junkermanns-gameday?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Industrial Defender Unifies Endpoint Intelligence & Network Monitoring for CIP-015, Adds Risk Signal",
-      "title_neutral": "Industrial Defender Unifies Endpoint Intelligence & Network Monitoring for CIP-015, Adds Risk Signal",
-      "excerpt": "New internal network security monitoring correlates every anomaly with deep asset intelligence; Risk Signal converts findings into verified remediation",
-      "recap_neutral": "New internal network security monitoring correlates every anomaly with deep asset intelligence; Risk Signal converts findings into verified remediation",
-      "main_idea": "Industrial Defender Unifies Endpoint Intelligence & Network Monitoring for CIP-015, Adds Risk Signal",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Wed, 21 Oct 2026 14:10:13 GMT",
-      "url": "https://hackernoon.com/industrial-defender-unifies-endpoint-intelligence-and-network-monitoring-for-cip-015-adds-risk-signal?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "GatesFX Develops Proprietary MT5–TradeLocker Trade Copier to Address a Practical Trading Technology",
-      "title_neutral": "GatesFX Develops Proprietary MT5–TradeLocker Trade Copier to Address a Practical Trading Technology",
-      "excerpt": "GatesFX develops a proprietary MT5–TradeLocker Trade Copier to address cross-platform compatibility and expand flexibility for forex and CFD traders.",
-      "recap_neutral": "GatesFX develops a proprietary MT5–TradeLocker Trade Copier to address cross-platform compatibility and expand flexibility for forex and CFD traders",
-      "main_idea": "GatesFX Develops Proprietary MT5–TradeLocker Trade Copier to Address a Practical Trading Technology",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 21 Oct 2026 14:04:53 GMT",
-      "url": "https://hackernoon.com/gatesfx-develops-proprietary-mt5-tradelocker-trade-copier-to-address-a-practical-trading-technology?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -741,21 +811,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "500 Blog Posts To Learn About Hackernoon Ko",
-      "title_neutral": "500 Blog Posts To Learn About Hackernoon Ko",
-      "excerpt": "Learn everything you need to know about Hackernoon Ko via these 500 free HackerNoon blog posts.",
-      "recap_neutral": "Learn everything you need to know about Hackernoon Ko via these 500 free HackerNoon blog posts",
-      "main_idea": "500 Blog Posts To Learn About Hackernoon Ko",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Wed, 21 Oct 2026 14:02:50 GMT",
-      "url": "https://hackernoon.com/500-blog-posts-to-learn-about-hackernoon-ko?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
       "title_neutral": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
       "excerpt": "Comments",
@@ -768,23 +823,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The TechBeat: The Real Reason AI Companies Are Tapping the Brakes (Hint: It’s Not Safety) (10/21/2026)",
-      "title_neutral": "The TechBeat: The Real Reason AI Companies Are Tapping the Brakes (Hint: It’s Not Safety) (10/21/2026)",
-      "excerpt": "10/21/2026: Trending stories on Hackernoon today!",
-      "recap_neutral": "10/21/2026: Trending stories on Hackernoon today!",
-      "main_idea": "The TechBeat: The Real Reason AI Companies Are Tapping the Brakes (Hint: It’s Not Safety) (10/21/2026)",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 21 Oct 2026 14:01:00 GMT",
-      "url": "https://hackernoon.com/10-21-2026-techbeat?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -855,21 +893,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Content Relevance: Serendipity Is a Systems Problem Part 5",
-      "title_neutral": "Content Relevance: Serendipity Is a Systems Problem Part 5",
-      "excerpt": "Serendipity isn't random. See how exploration budgets, near-tie reranking, and slate design help recommenders surface relevant surprises and new creators.",
-      "recap_neutral": "Serendipity isn't random",
-      "main_idea": "Content Relevance: Serendipity Is a Systems Problem Part 5",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Wed, 21 Oct 2026 12:15:02 GMT",
-      "url": "https://hackernoon.com/content-relevance-serendipity-is-a-systems-problem-part-5?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "How Trump's attacks on voting system integrity might affect upcoming elections",
       "title_neutral": "How Trump's attacks on voting system integrity might affect upcoming elections",
       "excerpt": "Election law expert Rick Hasen explains Trump's interference in the midterms, including threatening local officials with criminal prosecution unless they strike alleged noncitizens from voter rolls.",
@@ -886,24 +909,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Tech Marketer Spotlight: “Understanding Your Audience Still Beats AI,” Says Milica Maksimović",
-      "title_neutral": "Tech Marketer Spotlight: “Understanding Your Audience Still Beats AI,” Says Milica Maksimović",
-      "excerpt": "HackerNoon’s Tech Marketer Interview Series features Milica Maksimović on AI, audience research, and why understanding your audience beats AI.",
-      "recap_neutral": "HackerNoon’s Tech Marketer Interview Series features Milica Maksimović on AI, audience research, and why understanding your audience beats AI",
-      "main_idea": "Tech Marketer Spotlight: “Understanding Your Audience Still Beats AI,” Says Milica Maksimović",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 21 Oct 2026 12:01:38 GMT",
-      "url": "https://hackernoon.com/tech-marketer-spotlight-understanding-your-audience-still-beats-ai-says-milica-maksimovic?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1003,23 +1008,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Governing Persistent Memory and Instruction Authority in Enterprise AI Assistants",
-      "title_neutral": "Governing Persistent Memory and Instruction Authority in Enterprise AI Assistants",
-      "excerpt": "Learn how to manage HubSpot Breeze Assistant memories without confusing personal preferences, project instructions, and approved business policies.",
-      "recap_neutral": "Learn how to manage HubSpot Breeze Assistant memories without confusing personal preferences, project instructions, and approved business policies",
-      "main_idea": "Governing Persistent Memory and Instruction Authority in Enterprise AI Assistants",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 21 Oct 2026 11:00:02 GMT",
-      "url": "https://hackernoon.com/governing-persistent-memory-and-instruction-authority-in-enterprise-ai-assistants?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Australian Politicians Were Already on Edge Before One of Their Own Was Attacked",
       "title_neutral": "Australian Politicians Were Already on Edge Before One of Their Own Was Attacked",
       "excerpt": "Much remains unclear about why a driver ran a car into Helen Haines, a lawmaker. Even so, fellow representatives, especially women, spoke of feeling threatened in a polarized atmosphere.",
@@ -1038,11 +1026,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
-      "title_neutral": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
-      "excerpt": "Democratic congressional candidate Brad Lander along with about 80 American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces.",
-      "recap_neutral": "Democratic congressional candidate Brad Lander along with about 80 American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces",
-      "main_idea": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
+      "title_original": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
+      "title_neutral": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
+      "excerpt": "Democratic congressional candidate Brad Lander along with dozens of American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces.",
+      "recap_neutral": "Democratic congressional candidate Brad Lander along with dozens of American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces",
+      "main_idea": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
       "tags": [
         "economy",
         "tech"
@@ -1086,40 +1074,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Why Would an AI Want to Take Over the World?",
-      "title_neutral": "Why Would an AI Want to Take Over the World?",
-      "excerpt": "Will AI take over the world? A hacker and a philosopher weigh the strongest arguments for and against, and explain why the real risk is drift, not rebellion.",
-      "recap_neutral": "Will AI take over the world? A hacker and a philosopher weigh the strongest arguments for and against, and explain why the real risk is drift, not rebellion",
-      "main_idea": "Why Would an AI Want to Take Over the World?",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 21 Oct 2026 08:33:09 GMT",
-      "url": "https://hackernoon.com/why-would-an-ai-want-to-take-over-the-world?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Engineering Resilience in AI-Integrated Systems: What Happens When Your LLM Dependency Fails?",
-      "title_neutral": "Engineering Resilience in AI-Integrated Systems: What Happens When Your LLM Dependency Fails?",
-      "excerpt": "Learn how to build resilient AI systems when LLM dependencies failures, encounter rate limit, or produce silent errors in production environments.",
-      "recap_neutral": "Learn how to build resilient AI systems when LLM dependencies failures, encounter rate limit, or produce silent errors in production environments",
-      "main_idea": "Engineering Resilience in AI-Integrated Systems: What Happens When Your LLM Dependency Fails?",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 21 Oct 2026 08:32:29 GMT",
-      "url": "https://hackernoon.com/engineering-resilience-in-ai-integrated-systems-what-happens-when-your-llm-dependency-fails?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
       "title_neutral": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
       "excerpt": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland.",
@@ -1135,27 +1089,10 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Generative AI: The Cultural Dominatrix Indefinitely Extending Postmodernism",
-      "title_neutral": "Generative AI: The Cultural Dominatrix Indefinitely Extending Postmodernism",
-      "excerpt": "Is generative AI pushing society into late postmodernism? Explore its impact on creativity, authorship, hyperreality, and cultural production.",
-      "recap_neutral": "Is generative AI pushing society into late postmodernism? Explore its impact on creativity, authorship, hyperreality, and cultural production",
-      "main_idea": "Generative AI: The Cultural Dominatrix Indefinitely Extending Postmodernism",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Wed, 21 Oct 2026 08:23:12 GMT",
-      "url": "https://hackernoon.com/generative-ai-the-cultural-dominatrix-indefinitely-extending-postmodernism?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Trump leans into unprecedented power ahead of midterm elections",
       "title_neutral": "Trump leans into unprecedented power ahead of midterm elections",
-      "excerpt": "Less than two weeks before the election, Trump continues to crash through barriers that he wouldn't dare cross in his first term.",
-      "recap_neutral": "Less than two weeks before the election, Trump continues to crash through barriers that he wouldn't dare cross in his first term",
+      "excerpt": "Less than two weeks before Election Day, President Trump continues to crash through barriers that he wouldn't dare cross in his first term.",
+      "recap_neutral": "Less than two weeks before Election Day, President Trump continues to crash through barriers that he wouldn't dare cross in his first term",
       "main_idea": "Trump leans into unprecedented power ahead of midterm elections",
       "tags": [
         "politics"
@@ -1336,6 +1273,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "No More Icons in Every Menu by Default",
+      "title_neutral": "No More Icons in Every Menu by Default",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "No More Icons in Every Menu by Default",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 20 Oct 2026 04:27:08 +0000",
+      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
       "title_neutral": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
       "excerpt": "Comments",
@@ -1351,202 +1303,233 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Тюменской области в ДТП погибли семь человек",
-      "title_neutral": "В Тюменской области в ДТП погибли семь человек",
-      "excerpt": "Еще двое пострадали",
-      "recap_neutral": "Еще двое пострадали",
-      "main_idea": "В Тюменской области в ДТП погибли семь человек",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 22 Oct 2026 00:07:59 +0300",
-      "url": "https://tass.ru/proisshestviya/28239701",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Руденко назвал условие, при котором РФ готова стать посредником между США и Ираном",
-      "title_neutral": "Руденко назвал условие, при котором РФ готова стать посредником между США и Ираном",
+      "title_original": "Al Arabiya сообщил о смерти человека при ударе по саудовскому аэропорту",
+      "title_neutral": "Al Arabiya сообщил о смерти человека при ударе по саудовскому аэропорту",
       "excerpt": "",
-      "recap_neutral": "Руденко назвал условие, при котором РФ готова стать посредником между США и Ираном",
-      "main_idea": "Руденко назвал условие, при котором РФ готова стать посредником между США и Ираном",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 22 Oct 2026 00:07:54 +0300",
-      "url": "https://tass.ru/politika/28239699",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Бавария\" и \"Арсенал\" сыграли вничью. Кейн забил в 10-м матче ЛЧ подряд",
-      "title_neutral": "\"Бавария\" и \"Арсенал\" сыграли вничью. Кейн забил в 10-м матче ЛЧ подряд",
-      "excerpt": "Встреча завершилась со счетом 2:2",
-      "recap_neutral": "Встреча завершилась со счетом 2:2",
-      "main_idea": "\"Бавария\" и \"Арсенал\" сыграли вничью. Кейн забил в 10-м матче ЛЧ подряд",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 22 Oct 2026 00:07:07 +0300",
-      "url": "https://tass.ru/sport/28239697",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "РФ ведет переговоры с Бахрейном и Кувейтом о безвизовом режиме",
-      "title_neutral": "РФ ведет переговоры с Бахрейном и Кувейтом о безвизовом режиме",
-      "excerpt": "",
-      "recap_neutral": "РФ ведет переговоры с Бахрейном и Кувейтом о безвизовом режиме",
-      "main_idea": "РФ ведет переговоры с Бахрейном и Кувейтом о безвизовом режиме",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 22 Oct 2026 00:05:31 +0300",
-      "url": "https://tass.ru/politika/28239691",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Замминистра Илюшникова: МСП составляет порядка 89% креативных индустрий",
-      "title_neutral": "Замминистра Илюшникова: МСП составляет порядка 89% креативных индустрий",
-      "excerpt": "Заместитель министра экономического развития также отметила важность технологического развития сектора",
-      "recap_neutral": "Заместитель министра экономического развития также отметила важность технологического развития сектора",
-      "main_idea": "Замминистра Илюшникова: МСП составляет порядка 89% креативных индустрий",
+      "recap_neutral": "Al Arabiya сообщил о смерти человека при ударе по саудовскому аэропорту",
+      "main_idea": "Al Arabiya сообщил о смерти человека при ударе по саудовскому аэропорту",
       "tags": [
-        "economy",
-        "tech"
+        "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 22 Oct 2026 00:04:36 +0300",
-      "url": "https://tass.ru/ekonomika/28239663",
+      "published_at": "Thu, 22 Oct 2026 03:02:34 +0300",
+      "url": "https://tass.ru/proisshestviya/28239873",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Стрелок сбил шесть дронов ВСУ и спас раненого товарища",
-      "title_neutral": "Стрелок сбил шесть дронов ВСУ и спас раненого товарища",
+      "title_original": "МИД РФ: арабские страны отмечают углубление связей с Россией",
+      "title_neutral": "МИД РФ: арабские страны отмечают углубление связей с Россией",
       "excerpt": "",
-      "recap_neutral": "Стрелок сбил шесть дронов ВСУ и спас раненого товарища",
-      "main_idea": "Стрелок сбил шесть дронов ВСУ и спас раненого товарища",
+      "recap_neutral": "МИД РФ: арабские страны отмечают углубление связей с Россией",
+      "main_idea": "МИД РФ: арабские страны отмечают углубление связей с Россией",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Thu, 22 Oct 2026 00:02:34 +0300",
-      "url": "https://tass.ru/armiya-i-opk/28239687",
+      "published_at": "Thu, 22 Oct 2026 03:02:13 +0300",
+      "url": "https://tass.ru/politika/28239869",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Арбитражный суд московского округа рассмотрит кассацию Euroclear по иску ЦБ",
-      "title_neutral": "Арбитражный суд московского округа рассмотрит кассацию Euroclear по иску ЦБ",
+      "title_original": "Полковник ВС Франции предложил провести референдум о выходе страны из ЕС и НАТО",
+      "title_neutral": "Полковник ВС Франции предложил провести референдум о выходе страны из ЕС и НАТО",
       "excerpt": "",
-      "recap_neutral": "Арбитражный суд московского округа рассмотрит кассацию Euroclear по иску ЦБ",
-      "main_idea": "Арбитражный суд московского округа рассмотрит кассацию Euroclear по иску ЦБ",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 22 Oct 2026 00:02:31 +0300",
-      "url": "https://tass.ru/ekonomika/28239683",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Белоусов поздравил специалистов финансово-экономической службы ВС РФ с праздником",
-      "title_neutral": "Белоусов поздравил специалистов финансово-экономической службы ВС РФ с праздником",
-      "excerpt": "",
-      "recap_neutral": "Белоусов поздравил специалистов финансово-экономической службы ВС РФ с праздником",
-      "main_idea": "Белоусов поздравил специалистов финансово-экономической службы ВС РФ с праздником",
-      "tags": [
-        "economy"
-      ],
-      "source": "ТАСС",
-      "published_at": "Thu, 22 Oct 2026 00:02:14 +0300",
-      "url": "https://tass.ru/obschestvo/28239675",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Камчатке задержан пластический хирург, обвиняемый в мошенничестве",
-      "title_neutral": "На Камчатке задержан пластический хирург, обвиняемый в мошенничестве",
-      "excerpt": "",
-      "recap_neutral": "На Камчатке задержан пластический хирург, обвиняемый в мошенничестве",
-      "main_idea": "На Камчатке задержан пластический хирург, обвиняемый в мошенничестве",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 22 Oct 2026 00:01:49 +0300",
-      "url": "https://tass.ru/proisshestviya/28239681",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Оптимизацией расходов МО удалось осуществить дозакупку дронов и ПВО",
-      "title_neutral": "Оптимизацией расходов МО удалось осуществить дозакупку дронов и ПВО",
-      "excerpt": "",
-      "recap_neutral": "Оптимизацией расходов МО удалось осуществить дозакупку дронов и ПВО",
-      "main_idea": "Оптимизацией расходов МО удалось осуществить дозакупку дронов и ПВО",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Thu, 22 Oct 2026 00:01:18 +0300",
-      "url": "https://tass.ru/armiya-i-opk/28239679",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ГД обсудит обязательное хранение навигационных данных на территории РФ",
-      "title_neutral": "ГД обсудит обязательное хранение навигационных данных на территории РФ",
-      "excerpt": "",
-      "recap_neutral": "ГД обсудит обязательное хранение навигационных данных на территории РФ",
-      "main_idea": "ГД обсудит обязательное хранение навигационных данных на территории РФ",
+      "recap_neutral": "Полковник ВС Франции предложил провести референдум о выходе страны из ЕС и НАТО",
+      "main_idea": "Полковник ВС Франции предложил провести референдум о выходе страны из ЕС и НАТО",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Thu, 22 Oct 2026 00:01:03 +0300",
-      "url": "https://tass.ru/obschestvo/28239671",
+      "published_at": "Thu, 22 Oct 2026 03:02:01 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28239871",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Военная операция на Украине. Онлайн",
-      "title_neutral": "Военная операция на Украине. Онлайн",
-      "excerpt": "",
-      "recap_neutral": "Военная операция на Украине. Онлайн",
-      "main_idea": "Военная операция на Украине. Онлайн",
+      "title_original": "Биолог Глазков рассказал, когда медведи в Ленобласти начнут залегать в спячку",
+      "title_neutral": "Биолог Глазков рассказал, когда медведи в Ленобласти начнут залегать в спячку",
+      "excerpt": "Это произойдет через две-три недели, отметил член Русского географического общества",
+      "recap_neutral": "Это произойдет через две-три недели, отметил член Русского географического общества",
+      "main_idea": "Биолог Глазков рассказал, когда медведи в Ленобласти начнут залегать в спячку",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Thu, 22 Oct 2026 00:00:45 +0300",
-      "url": "https://tass.ru/armiya-i-opk/28235629",
+      "published_at": "Thu, 22 Oct 2026 03:02:00 +0300",
+      "url": "https://tass.ru/obschestvo/28239865",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Кабмин обсудит законопроект, ужесточающий наказание за езду без прав",
-      "title_neutral": "Кабмин обсудит законопроект, ужесточающий наказание за езду без прав",
+      "title_original": "Марочко: ВС РФ наращивают темпы наступления на Запорожье",
+      "title_neutral": "Марочко: ВС РФ наращивают темпы наступления на Запорожье",
       "excerpt": "",
-      "recap_neutral": "Кабмин обсудит законопроект, ужесточающий наказание за езду без прав",
-      "main_idea": "Кабмин обсудит законопроект, ужесточающий наказание за езду без прав",
+      "recap_neutral": "Марочко: ВС РФ наращивают темпы наступления на Запорожье",
+      "main_idea": "Марочко: ВС РФ наращивают темпы наступления на Запорожье",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Thu, 22 Oct 2026 00:00:42 +0300",
-      "url": "https://tass.ru/obschestvo/28239669",
+      "published_at": "Thu, 22 Oct 2026 03:01:37 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28239863",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Посол РФ рассказал о рисках для обладателей недвижимости в Черногории",
+      "title_neutral": "Посол РФ рассказал о рисках для обладателей недвижимости в Черногории",
+      "excerpt": "",
+      "recap_neutral": "Посол РФ рассказал о рисках для обладателей недвижимости в Черногории",
+      "main_idea": "Посол РФ рассказал о рисках для обладателей недвижимости в Черногории",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 22 Oct 2026 03:01:29 +0300",
+      "url": "https://tass.ru/politika/28239861",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В МВО назвали денежное довольствие основной статьей военных расходов",
+      "title_neutral": "В МВО назвали денежное довольствие основной статьей военных расходов",
+      "excerpt": "",
+      "recap_neutral": "В МВО назвали денежное довольствие основной статьей военных расходов",
+      "main_idea": "В МВО назвали денежное довольствие основной статьей военных расходов",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 22 Oct 2026 03:01:05 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28239859",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На минивэне, сгоревшем в ДТП в Тюменской области, было газобалонное оборудование",
+      "title_neutral": "На минивэне, сгоревшем в ДТП в Тюменской области, было газобалонное оборудование",
+      "excerpt": "",
+      "recap_neutral": "На минивэне, сгоревшем в ДТП в Тюменской области, было газобалонное оборудование",
+      "main_idea": "На минивэне, сгоревшем в ДТП в Тюменской области, было газобалонное оборудование",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 22 Oct 2026 02:59:48 +0300",
+      "url": "https://tass.ru/proisshestviya/28239857",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Эксперт Чебров оценил вероятность разрушительного землетрясения на Камчатке",
+      "title_neutral": "Эксперт Чебров оценил вероятность разрушительного землетрясения на Камчатке",
+      "excerpt": "Директор Камчатского филиала Геофизической службы РАН отметил, что она низкая, но не равна нулю",
+      "recap_neutral": "Директор Камчатского филиала Геофизической службы РАН отметил, что она низкая, но не равна нулю",
+      "main_idea": "Эксперт Чебров оценил вероятность разрушительного землетрясения на Камчатке",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 22 Oct 2026 02:47:02 +0300",
+      "url": "https://tass.ru/nauka/28239843",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Шереметьево ввели ограничения",
+      "title_neutral": "В аэропорту Шереметьево ввели ограничения",
+      "excerpt": "Они необходимы для обеспечения безопасности полетов",
+      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
+      "main_idea": "В аэропорту Шереметьево ввели ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 22 Oct 2026 02:45:10 +0300",
+      "url": "https://tass.ru/ekonomika/28239845",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "WSJ: США могут увеличить группировку ВМС на Ближнем Востоке до 24 кораблей",
+      "title_neutral": "WSJ: США могут увеличить группировку ВМС на Ближнем Востоке до 24 кораблей",
+      "excerpt": "В регионе сейчас находятся две авианосные ударные группы, всего около 20 боевых кораблей, отмечает издание",
+      "recap_neutral": "В регионе сейчас находятся две авианосные ударные группы, всего около 20 боевых кораблей, отмечает издание",
+      "main_idea": "WSJ: США могут увеличить группировку ВМС на Ближнем Востоке до 24 кораблей",
+      "tags": [
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Thu, 22 Oct 2026 02:39:15 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28239835",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: Червоный Яр в Запорожской области был для ВСУ накопителем сил",
+      "title_neutral": "ТАСС: Червоный Яр в Запорожской области был для ВСУ накопителем сил",
+      "excerpt": "Оттуда украинские войска распределяли группы сразу в несколько населенных пунктов, сообщили в российских силовых структурах",
+      "recap_neutral": "Оттуда украинские войска распределяли группы сразу в несколько населенных пунктов, сообщили в российских силовых структурах",
+      "main_idea": "ТАСС: Червоный Яр в Запорожской области был для ВСУ накопителем сил",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 22 Oct 2026 02:32:48 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28239833",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Аэропорт Шереметьево обслуживает рейсы по согласованию",
+      "title_neutral": "Аэропорт Шереметьево обслуживает рейсы по согласованию",
+      "excerpt": "Введены временные ограничения на использование воздушного пространства",
+      "recap_neutral": "Введены временные ограничения на использование воздушного пространства",
+      "main_idea": "Аэропорт Шереметьево обслуживает рейсы по согласованию",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 22 Oct 2026 02:24:02 +0300",
+      "url": "https://tass.ru/ekonomika/28239827",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На российско-грузинской границе скопилась очередь из 173 грузовиков",
+      "title_neutral": "На российско-грузинской границе скопилась очередь из 173 грузовиков",
+      "excerpt": "Еще более 120 грузовиков находятся в зеленой зоне и ждут прохождения пункта пропуска",
+      "recap_neutral": "Еще более 120 грузовиков находятся в зеленой зоне и ждут прохождения пункта пропуска",
+      "main_idea": "На российско-грузинской границе скопилась очередь из 173 грузовиков",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 22 Oct 2026 02:21:00 +0300",
+      "url": "https://tass.ru/ekonomika/28239821",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Силы ПВО сбили 46 летевших на Москву БПЛА",
+      "title_neutral": "Силы ПВО сбили 46 летевших на Москву БПЛА",
+      "excerpt": "Специалисты экстренных служб работают на месте падения обломков",
+      "recap_neutral": "Специалисты экстренных служб работают на месте падения обломков",
+      "main_idea": "Силы ПВО сбили 46 летевших на Москву БПЛА",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Thu, 22 Oct 2026 02:18:43 +0300",
+      "url": "https://tass.ru/proisshestviya/28239819",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
@@ -1567,6 +1550,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Code is clay now",
+      "title_neutral": "Code is clay now",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Code is clay now",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Mon, 19 Oct 2026 15:19:45 +0000",
+      "url": "https://www.albertodenia.com/writing/code-is-clay-now",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
