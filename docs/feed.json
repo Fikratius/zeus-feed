@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T17:12:05.917332+00:00",
+  "last_updated": "2026-11-01T21:18:27.300444+00:00",
   "items": [
     {
       "title_original": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
@@ -17,6 +17,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Tips for more effective fuzz testing with AFL++",
+      "title_neutral": "Tips for more effective fuzz testing with AFL++",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Tips for more effective fuzz testing with AFL++",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 28 Oct 2026 09:46:12 +0000",
+      "url": "https://nullprogram.com/blog/2025/02/05/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -56,264 +71,166 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
-      "title_neutral": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
-      "excerpt": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced while protection for the Amazon is strengthened. In a world where…",
-      "recap_neutral": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right ca…",
-      "main_idea": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "title_original": "В аэропорту Саратова ввели временные ограничения",
+      "title_neutral": "В аэропорту Саратова ввели временные ограничения",
+      "excerpt": "Они необходимы для обеспечения безопасности полетов",
+      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
+      "main_idea": "В аэропорту Саратова ввели временные ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Nov 2026 23:55:00 +0300",
+      "url": "https://tass.ru/ekonomika/28276681",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Пушков заявил, что в Польше идет борьба за будущее Европы",
+      "title_neutral": "Пушков заявил, что в Польше идет борьба за будущее Европы",
+      "excerpt": "Глава комиссии Совета Федерации по информационной политике и взаимодействию со СМИ назвал польское противостояние выражением общеевропейской тенденции",
+      "recap_neutral": "Глава комиссии Совета Федерации по информационной политике и взаимодействию со СМИ назвал польское противостояние выражением общеевропейской тенденции",
+      "main_idea": "Пушков заявил, что в Польше идет борьба за будущее Европы",
       "tags": [
-        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Nov 2026 23:55:00 +0300",
+      "url": "https://tass.ru/politika/28276679",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Под Тверью после крушения самодельного воздушного судна завели дело",
+      "title_neutral": "Под Тверью после крушения самодельного воздушного судна завели дело",
+      "excerpt": "Погиб один человек",
+      "recap_neutral": "Погиб один человек",
+      "main_idea": "Под Тверью после крушения самодельного воздушного судна завели дело",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 01 Nov 2026 23:54:36 +0300",
+      "url": "https://tass.ru/proisshestviya/28276683",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+      "title_neutral": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+      "excerpt": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+      "recap_neutral": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote",
+      "main_idea": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Sun, 01 Nov 2026 21:16:45 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "title_neutral": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "excerpt": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "recap_neutral": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky",
+      "main_idea": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 01 Nov 2026 21:01:58 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A Lesson From Germany",
+      "title_neutral": "A Lesson From Germany",
+      "excerpt": "Trump is betting on economic incentives to stop Putin in Ukraine. Germany’s experience shows why that strategy is risky.",
+      "recap_neutral": "Trump is betting on economic incentives to stop Putin in Ukraine",
+      "main_idea": "A Lesson From Germany",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 01 Nov 2026 20:45:44 +0000",
+      "url": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+      "title_neutral": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+      "excerpt": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.",
+      "recap_neutral": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis",
+      "main_idea": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 01 Nov 2026 20:08:50 +0000",
+      "url": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+      "title_neutral": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+      "excerpt": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials initially insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigua and Barbuda – and…",
+      "recap_neutral": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials initially insisted that discussions of reparations for slavery should not be…",
+      "main_idea": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+      "tags": [
         "tech"
       ],
       "source": "The Guardian",
-      "published_at": "Thu, 29 Oct 2026 17:46:38 GMT",
-      "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
+      "published_at": "Sun, 01 Nov 2026 19:50:39 GMT",
+      "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Минкультуры региона: свердловские театры применяют ИИ в художественной деятельности",
-      "title_neutral": "Минкультуры региона: свердловские театры применяют ИИ в художественной деятельности",
-      "excerpt": "По словам министра культуры области Ильи Маркова, искусственный интеллект используют при написании музыки и разработке сценографических решений",
-      "recap_neutral": "По словам министра культуры области Ильи Маркова, искусственный интеллект используют при написании музыки и разработке сценографических решений",
-      "main_idea": "Минкультуры региона: свердловские театры применяют ИИ в художественной деятельности",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Nov 2026 20:08:07 +0300",
-      "url": "https://tass.ru/kultura/28276499",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Берлине неизвестные нанесли оскорбительные надписи на приемную ХДС",
-      "title_neutral": "В Берлине неизвестные нанесли оскорбительные надписи на приемную ХДС",
-      "excerpt": "Расследование ведет отдел полиции по вопросам госбезопасности",
-      "recap_neutral": "Расследование ведет отдел полиции по вопросам госбезопасности",
-      "main_idea": "В Берлине неизвестные нанесли оскорбительные надписи на приемную ХДС",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Nov 2026 20:03:07 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28276493",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Уфе в ДТП пострадали шесть человек",
-      "title_neutral": "В Уфе в ДТП пострадали шесть человек",
-      "excerpt": "Столкнулись автобус и служебный транспорт предприятия",
-      "recap_neutral": "Столкнулись автобус и служебный транспорт предприятия",
-      "main_idea": "В Уфе в ДТП пострадали шесть человек",
+      "title_original": "Mathematics has changed. Let's act like it",
+      "title_neutral": "Mathematics has changed. Let's act like it",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Mathematics has changed. Let's act like it",
       "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Nov 2026 20:02:00 +0300",
-      "url": "https://tass.ru/proisshestviya/28276503",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "Hacker News",
+      "published_at": "Sun, 01 Nov 2026 18:28:42 +0000",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Мамиашвили: возвращение флага и гимна России изменило настрой борцов",
-      "title_neutral": "Мамиашвили: возвращение флага и гимна России изменило настрой борцов",
-      "excerpt": "Чемпионат мира в Астане стал первым за последние годы, на котором российские борцы выступали с национальным флагом и гимном",
-      "recap_neutral": "Чемпионат мира в Астане стал первым за последние годы, на котором российские борцы выступали с национальным флагом и гимном",
-      "main_idea": "Мамиашвили: возвращение флага и гимна России изменило настрой борцов",
+      "title_original": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "title_neutral": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "excerpt": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "recap_neutral": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival",
+      "main_idea": "Armed police start patrols in Sydney after Bondi Beach attack",
       "tags": [
-        "tech"
+        "conflict"
       ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Nov 2026 20:01:14 +0300",
-      "url": "https://tass.ru/sport/28276505",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Меркель предупредила об угрозе раскола германского общества",
-      "title_neutral": "Меркель предупредила об угрозе раскола германского общества",
-      "excerpt": "Экс-канцлер Германии заявила, что вся власть исходит от народа, \"а народ - это все германские граждане\"",
-      "recap_neutral": "Экс-канцлер Германии заявила, что вся власть исходит от народа, \"а народ - это все германские граждане\"",
-      "main_idea": "Меркель предупредила об угрозе раскола германского общества",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Nov 2026 19:58:54 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28276501",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Два российских клуба вышли в основной этап женского Кубка Европы по водному поло",
-      "title_neutral": "Два российских клуба вышли в основной этап женского Кубка Европы по водному поло",
-      "excerpt": "\"Динамо-Уралочка\" и \"КИНЕФ-Сургутнефтегаз\" одержали по три победы в квалификации",
-      "recap_neutral": "\"Динамо-Уралочка\" и \"КИНЕФ-Сургутнефтегаз\" одержали по три победы в квалификации",
-      "main_idea": "Два российских клуба вышли в основной этап женского Кубка Европы по водному поло",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Nov 2026 19:55:35 +0300",
-      "url": "https://tass.ru/sport/28276497",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мелания Трамп считает, что гуманитарная миссия в Алешках способствует миру",
-      "title_neutral": "Мелания Трамп считает, что гуманитарная миссия в Алешках способствует миру",
-      "excerpt": "Прекращение огня в городе и прилегающих районах Херсонской области обеспечило жителям свободу передвижения, заявила первая леди США",
-      "recap_neutral": "Прекращение огня в городе и прилегающих районах Херсонской области обеспечило жителям свободу передвижения, заявила первая леди США",
-      "main_idea": "Мелания Трамп считает, что гуманитарная миссия в Алешках способствует миру",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Nov 2026 19:47:31 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28276491",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мамиашвили заявил, что отношение судей к российским борцам не изменилось",
-      "title_neutral": "Мамиашвили заявил, что отношение судей к российским борцам не изменилось",
-      "excerpt": "В воскресенье в Астане завершился чемпионат мира",
-      "recap_neutral": "В воскресенье в Астане завершился чемпионат мира",
-      "main_idea": "Мамиашвили заявил, что отношение судей к российским борцам не изменилось",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Nov 2026 19:44:16 +0300",
-      "url": "https://tass.ru/sport/28276495",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Мамиашвили считает, что сборная РФ по борьбе на ЧМ была способна на большее",
-      "title_neutral": "Мамиашвили считает, что сборная РФ по борьбе на ЧМ была способна на большее",
-      "excerpt": "Сборная России завоевала 14 медалей - четыре золотые, три серебряные и семь бронзовых",
-      "recap_neutral": "Сборная России завоевала 14 медалей - четыре золотые, три серебряные и семь бронзовых",
-      "main_idea": "Мамиашвили считает, что сборная РФ по борьбе на ЧМ была способна на большее",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Nov 2026 19:41:48 +0300",
-      "url": "https://tass.ru/sport/28276489",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В ФРГ оппозиция обвинила власти в отсутствии страхового запаса газа на зиму",
-      "title_neutral": "В ФРГ оппозиция обвинила власти в отсутствии страхового запаса газа на зиму",
-      "excerpt": "Любой небольшой сбой цепочки поставок немедленно приведет к росту цен на газ, заявил эксперт по энергетической политике фракции \"Союз-90\"/\"Зеленые\" в Бундестаге Михаэль Кельнер",
-      "recap_neutral": "Любой небольшой сбой цепочки поставок немедленно приведет к росту цен на газ, заявил эксперт по энергетической политике фракции \"Союз-90\"/\"Зеленые\" в Бундестаге Михаэль Кельнер",
-      "main_idea": "В ФРГ оппозиция обвинила власти в отсутствии страхового запаса газа на зиму",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Nov 2026 19:40:56 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28276479",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Fox: в Техасе из-за перестрелок погибли четыре человека",
-      "title_neutral": "Fox: в Техасе из-за перестрелок погибли четыре человека",
-      "excerpt": "По данным телеканала, еще 15 пострадали",
-      "recap_neutral": "По данным телеканала, еще 15 пострадали",
-      "main_idea": "Fox: в Техасе из-за перестрелок погибли четыре человека",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Nov 2026 19:38:54 +0300",
-      "url": "https://tass.ru/proisshestviya/28276481",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Россиянку Фокину проверяют на допинг сразу после победы на юношеской Олимпиаде",
-      "title_neutral": "Россиянку Фокину проверяют на допинг сразу после победы на юношеской Олимпиаде",
-      "excerpt": "Пловчиха победила в заплыве на дистанции 100 метров брассом",
-      "recap_neutral": "Пловчиха победила в заплыве на дистанции 100 метров брассом",
-      "main_idea": "Россиянку Фокину проверяют на допинг сразу после победы на юношеской Олимпиаде",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Nov 2026 19:36:17 +0300",
-      "url": "https://tass.ru/sport/28276483",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Донецке частично обесточены три района",
-      "title_neutral": "В Донецке частично обесточены три района",
-      "excerpt": "Специалисты ведут работы по восстановлению электроснабжения",
-      "recap_neutral": "Специалисты ведут работы по восстановлению электроснабжения",
-      "main_idea": "В Донецке частично обесточены три района",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Nov 2026 19:35:09 +0300",
-      "url": "https://tass.ru/proisshestviya/28276473",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Челябинске завели дело после массовой драки подростков",
-      "title_neutral": "В Челябинске завели дело после массовой драки подростков",
-      "excerpt": "В территориальный отдел полиции доставили 10 участников инцидента",
-      "recap_neutral": "В территориальный отдел полиции доставили 10 участников инцидента",
-      "main_idea": "В Челябинске завели дело после массовой драки подростков",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Nov 2026 19:32:55 +0300",
-      "url": "https://tass.ru/proisshestviya/28276467",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "\"Шанхай\" обыграл \"Салават Юлаев\" в КХЛ, уступая 0:2 перед третьим периодом",
-      "title_neutral": "\"Шанхай\" обыграл \"Салават Юлаев\" в КХЛ, уступая 0:2 перед третьим периодом",
-      "excerpt": "Победный гол был забит за 6 секунд до конца основного времени",
-      "recap_neutral": "Победный гол был забит за 6 секунд до конца основного времени",
-      "main_idea": "\"Шанхай\" обыграл \"Салават Юлаев\" в КХЛ, уступая 0:2 перед третьим периодом",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 01 Nov 2026 19:31:48 +0300",
-      "url": "https://tass.ru/sport/28276477",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Sun, 01 Nov 2026 17:56:47 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -335,6 +252,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "University of Cambridge scientist among those who died in Spanish train crash",
+      "title_neutral": "University of Cambridge scientist among those who died in Spanish train crash",
+      "excerpt": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+      "recap_neutral": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked",
+      "main_idea": "University of Cambridge scientist among those who died in Spanish train crash",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 01 Nov 2026 17:05:18 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "India’s Congress Party Holds Mass Protest in New Delhi",
       "title_neutral": "India’s Congress Party Holds Mass Protest in New Delhi",
       "excerpt": "Tens of thousands gathered in India’s capital in a clamor of banging drums, chants and billowing flags, with participants from across the country.",
@@ -350,26 +284,43 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
-      "title_neutral": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
+      "title_original": "Frontier Airlines Likely Breached",
+      "title_neutral": "Frontier Airlines Likely Breached",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
-      "tags": [],
+      "main_idea": "Frontier Airlines Likely Breached",
+      "tags": [
+        "tech"
+      ],
       "source": "Hacker News",
-      "published_at": "Sun, 01 Nov 2026 16:23:26 +0000",
-      "url": "https://www.ajupress.com/view/20261028171670308",
+      "published_at": "Sun, 01 Nov 2026 16:46:33 +0000",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
-      "title_neutral": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
+      "title_original": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "title_neutral": "Seoul Viosys begins production of rare-earth-free white light emitter",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
+      "main_idea": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 01 Nov 2026 16:23:26 +0000",
+      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "title_neutral": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Sun, 01 Nov 2026 15:58:28 +0000",
@@ -430,23 +381,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Thailand’s Most Famous Snake Catcher",
-      "title_neutral": "Thailand’s Most Famous Snake Catcher",
-      "excerpt": "Pinyo Pukpinyo, Thailand’s most famous snake catcher, has found the critters slithering in nooks and crannies all over Bangkok. He refuses to kill them.",
-      "recap_neutral": "Pinyo Pukpinyo, Thailand’s most famous snake catcher, has found the critters slithering in nooks and crannies all over Bangkok",
-      "main_idea": "Thailand’s Most Famous Snake Catcher",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 01 Nov 2026 15:10:28 +0000",
-      "url": "https://www.nytimes.com/video/world/asia/100000011244032/thailand-snake-catcher-bangkok.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Building an AI Agent Orchestrator for Decentralized GPU Compute",
       "title_neutral": "Building an AI Agent Orchestrator for Decentralized GPU Compute",
       "excerpt": "A concept-stage AI orchestrator for routing workloads across decentralized GPUs with Nosana and planned Arweave execution receipts.",
@@ -498,18 +432,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-      "title_neutral": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "title_original": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+      "title_neutral": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+      "excerpt": "Rep. Haley Stevens was scheduled to attend a unity event today with Abdul El-Sayed, who beat her in the Democratic primary. Instead, she endorsed his Republican opponent, Mike Rogers.",
+      "recap_neutral": "Rep",
+      "main_idea": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
       "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 01 Nov 2026 14:36:13 +0000",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "source": "NPR",
+      "published_at": "Sun, 01 Nov 2026 14:49:15 -0500",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -545,6 +479,24 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+      "title_neutral": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+      "excerpt": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.",
+      "recap_neutral": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm",
+      "main_idea": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "NPR",
+      "published_at": "Sun, 01 Nov 2026 14:00:58 -0500",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Novellas with Groff",
       "title_neutral": "Novellas with Groff",
       "excerpt": "Comments",
@@ -557,6 +509,23 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to think about the midterms — and the political moment the country is in",
+      "title_neutral": "How to think about the midterms — and the political moment the country is in",
+      "excerpt": "Polls show Democrats with an advantage in the midterm election but there are potential limitations and results may take a while to roll in.",
+      "recap_neutral": "Polls show Democrats with an advantage in the midterm election but there are potential limitations and results may take a while to roll in",
+      "main_idea": "How to think about the midterms — and the political moment the country is in",
+      "tags": [
+        "politics"
+      ],
+      "source": "NPR",
+      "published_at": "Sun, 01 Nov 2026 13:27:06 -0500",
+      "url": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -587,6 +556,68 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "title_neutral": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "tags": [
+        "conflict"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 01 Nov 2026 13:02:30 +0000",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+      "title_neutral": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+      "excerpt": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.",
+      "recap_neutral": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U",
+      "main_idea": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sun, 01 Nov 2026 13:00:37 -0500",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The midterms will test the nation's political direction and confidence",
+      "title_neutral": "The midterms will test the nation's political direction and confidence",
+      "excerpt": "At least some portion of the nation is likely to have its political confidence — and perhaps even its sense of security — tested in the days and weeks ahead. That test could also continue for some time to come.",
+      "recap_neutral": "At least some portion of the nation is likely to have its political confidence — and perhaps even its sense of security — tested in the days and weeks ahead",
+      "main_idea": "The midterms will test the nation's political direction and confidence",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sun, 01 Nov 2026 12:57:58 -0500",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
+      "title_neutral": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
+      "excerpt": "Andreas Almgren of Sweden won the men's race of the New York City Marathon in his debut in the event while Sheila Chepkirui of Kenya won the women's race on Sunday for the second time.",
+      "recap_neutral": "Andreas Almgren of Sweden won the men's race of the New York City Marathon in his debut in the event while Sheila Chepkirui of Kenya won the women's race on Sunday for the second time",
+      "main_idea": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sun, 01 Nov 2026 12:33:21 -0500",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -808,23 +839,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Here's how to watch election night as the polls close, hour-by-hour",
-      "title_neutral": "Here's how to watch election night as the polls close, hour-by-hour",
-      "excerpt": "As polls close on election night, here's a look at what to expect each hour and which midterm races are key to deciding control of Congress.",
-      "recap_neutral": "As polls close on election night, here's a look at what to expect each hour and which midterm races are key to deciding control of Congress",
-      "main_idea": "Here's how to watch election night as the polls close, hour-by-hour",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 01 Nov 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "What's it like to run for Congress when the odds are stacked heavily against you?",
       "title_neutral": "What's it like to run for Congress when the odds are stacked heavily against you?",
       "excerpt": "The majority of congressional races this cycle are rated either solid Democrat or solid Republican. They're the opposite of tossups, where candidates from the minority party face near impossible odds.",
@@ -836,74 +850,6 @@
       "source": "NPR",
       "published_at": "Sun, 01 Nov 2026 05:00:00 -0400",
       "url": "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
-      "title_neutral": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
-      "excerpt": "President Trump has maintained a near-daily rally schedule as Election Day draws closer, playing his greatest hits for loyal crowds in red states in what is a sort-of goodbye to campaigning.",
-      "recap_neutral": "President Trump has maintained a near-daily rally schedule as Election Day draws closer, playing his greatest hits for loyal crowds in red states in what is a sort-of goodbye to campaigning",
-      "main_idea": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 01 Nov 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How one family gave a critical boost to gene therapy research",
-      "title_neutral": "How one family gave a critical boost to gene therapy research",
-      "excerpt": "A family affected by Sanfilippo syndrome raised millions of dollars for research. The Food and Drug Administration just approved a gene therapy the support helped make possible.",
-      "recap_neutral": "A family affected by Sanfilippo syndrome raised millions of dollars for research",
-      "main_idea": "How one family gave a critical boost to gene therapy research",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 01 Nov 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Supreme Court hears religious freedom case centered on universal pre-K program",
-      "title_neutral": "Supreme Court hears religious freedom case centered on universal pre-K program",
-      "excerpt": "The Archdiocese of Denver wants to be able to turn away LGBTQ families from Catholic preschools that receive state funding.",
-      "recap_neutral": "The Archdiocese of Denver wants to be able to turn away LGBTQ families from Catholic preschools that receive state funding",
-      "main_idea": "Supreme Court hears religious freedom case centered on universal pre-K program",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Sun, 01 Nov 2026 05:00:00 -0400",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6000367/supreme-court-colorado-catholic-preschool-religious-freedom-lgbtq",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
-      "title_neutral": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
-      "excerpt": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
-      "recap_neutral": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties t…",
-      "main_idea": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 01 Nov 2026 04:20:19 -0400",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -942,21 +888,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "title_neutral": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 01 Nov 2026 02:19:53 +0000",
-      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "184 Blog Posts To Learn About Megafansesports",
       "title_neutral": "184 Blog Posts To Learn About Megafansesports",
       "excerpt": "Learn everything you need to know about Megafansesports via these 184 free HackerNoon blog posts.",
@@ -969,21 +900,6 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "title_neutral": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "excerpt": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "recap_neutral": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary",
-      "main_idea": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Sun, 01 Nov 2026 00:55:06 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1054,21 +970,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "title_neutral": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 31 Oct 2026 22:46:12 +0000",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "An Italian farmer found some unknown seeds in his attic and planted them",
       "title_neutral": "An Italian farmer found some unknown seeds in his attic and planted them",
       "excerpt": "Comments",
@@ -1101,11 +1002,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Bidirectional Charging During Grid Outages",
-      "title_neutral": "Bidirectional Charging During Grid Outages",
+      "title_original": "Bidirectional charging during grid outages",
+      "title_neutral": "Bidirectional charging during grid outages",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Bidirectional Charging During Grid Outages",
+      "main_idea": "Bidirectional charging during grid outages",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Sat, 31 Oct 2026 20:21:55 +0000",
@@ -1146,55 +1047,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "title_neutral": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "excerpt": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-      "recap_neutral": "One evacuated couple says they crossed minefields in Oleshky in search of food",
-      "main_idea": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 31 Oct 2026 19:22:26 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "title_neutral": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 31 Oct 2026 19:16:30 +0000",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Virginia and D.C. sue to block construction of Trump arch",
-      "title_neutral": "Virginia and D.C. sue to block construction of Trump arch",
-      "excerpt": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening.",
-      "recap_neutral": "U",
-      "main_idea": "Virginia and D.C. sue to block construction of Trump arch",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 31 Oct 2026 18:48:51 -0400",
-      "url": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Poland Deploys Riot Police in Standoff Over Country’s Top Court",
       "title_neutral": "Poland Deploys Riot Police in Standoff Over Country’s Top Court",
       "excerpt": "After years of legal wrangling, judges backed by the current government suspended the chief justice, as a feud escalated with the right-wing party that last held power.",
@@ -1206,23 +1058,6 @@
       "source": "NYTimes World",
       "published_at": "Sat, 31 Oct 2026 18:06:13 +0000",
       "url": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
-      "title_neutral": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
-      "excerpt": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.",
-      "recap_neutral": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis",
-      "main_idea": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 31 Oct 2026 17:56:18 +0000",
-      "url": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -1397,21 +1232,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
-      "title_neutral": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 31 Oct 2026 09:49:42 +0000",
-      "url": "https://kevs3d.co.uk/phoria2/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Spain train disaster clouds Sánchez chances of re-election",
       "title_neutral": "Spain train disaster clouds Sánchez chances of re-election",
       "excerpt": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
@@ -1448,41 +1268,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Global nature talks reach deal but money remains an issue",
-      "title_neutral": "Global nature talks reach deal but money remains an issue",
-      "excerpt": "Countries have been trying to get a global agreement to halt nature decline back on track.",
-      "recap_neutral": "Countries have been trying to get a global agreement to halt nature decline back on track",
-      "main_idea": "Global nature talks reach deal but money remains an issue",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 31 Oct 2026 01:27:05 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Police deployed during stand-off over control of top Poland court",
-      "title_neutral": "Police deployed during stand-off over control of top Poland court",
-      "excerpt": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "recap_neutral": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them",
-      "main_idea": "Police deployed during stand-off over control of top Poland court",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sat, 31 Oct 2026 01:11:43 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
       "title_neutral": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
       "excerpt": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a mass atroci…",
@@ -1497,6 +1282,202 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропортах Домодедово и Жуковский ввели ограничения",
+      "title_neutral": "В аэропортах Домодедово и Жуковский ввели ограничения",
+      "excerpt": "Аэропорты не принимают и не отправляют самолеты",
+      "recap_neutral": "Аэропорты не принимают и не отправляют самолеты",
+      "main_idea": "В аэропортах Домодедово и Жуковский ввели ограничения",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Nov 2026 00:10:32 +0300",
+      "url": "https://tass.ru/ekonomika/28276711",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Опубликовано видео момента падения самолета во Флориде",
+      "title_neutral": "Опубликовано видео момента падения самолета во Флориде",
+      "excerpt": "Жертвами ЧП стали несколько человек",
+      "recap_neutral": "Жертвами ЧП стали несколько человек",
+      "main_idea": "Опубликовано видео момента падения самолета во Флориде",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Nov 2026 00:09:39 +0300",
+      "url": "https://tass.ru/proisshestviya/28276691",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Туадера рассказал, кто критикует отношения РФ и ЦАР",
+      "title_neutral": "Туадера рассказал, кто критикует отношения РФ и ЦАР",
+      "excerpt": "",
+      "recap_neutral": "Туадера рассказал, кто критикует отношения РФ и ЦАР",
+      "main_idea": "Туадера рассказал, кто критикует отношения РФ и ЦАР",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Nov 2026 00:07:12 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28276701",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Словении хакер смог получить данные 15 тыс. учетных записей госслужащих",
+      "title_neutral": "В Словении хакер смог получить данные 15 тыс. учетных записей госслужащих",
+      "excerpt": "",
+      "recap_neutral": "В Словении хакер смог получить данные 15 тыс. учетных записей госслужащих",
+      "main_idea": "В Словении хакер смог получить данные 15 тыс. учетных записей госслужащих",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Nov 2026 00:05:20 +0300",
+      "url": "https://tass.ru/obschestvo/28276707",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Лантратова: обязательства в ходе режима тишины в Алешках были соблюдены",
+      "title_neutral": "Лантратова: обязательства в ходе режима тишины в Алешках были соблюдены",
+      "excerpt": "",
+      "recap_neutral": "Лантратова: обязательства в ходе режима тишины в Алешках были соблюдены",
+      "main_idea": "Лантратова: обязательства в ходе режима тишины в Алешках были соблюдены",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Nov 2026 00:04:18 +0300",
+      "url": "https://tass.ru/politika/28276705",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "При крушении бизнес-джета во Флориде погибли девять человек",
+      "title_neutral": "При крушении бизнес-джета во Флориде погибли девять человек",
+      "excerpt": "Выживших нет, сообщил министр транспорта США Шон Даффи",
+      "recap_neutral": "Выживших нет, сообщил министр транспорта США Шон Даффи",
+      "main_idea": "При крушении бизнес-джета во Флориде погибли девять человек",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Nov 2026 00:02:19 +0300",
+      "url": "https://tass.ru/proisshestviya/28276703",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Милорад Додик заявил, что Босния и Герцеговина не будет вступать в НАТО",
+      "title_neutral": "Милорад Додик заявил, что Босния и Герцеговина не будет вступать в НАТО",
+      "excerpt": "Председатель правящей партии \"Союз независимых социал-демократов\" Республики Сербской допустил сотрудничество с альянсом",
+      "recap_neutral": "Председатель правящей партии \"Союз независимых социал-демократов\" Республики Сербской допустил сотрудничество с альянсом",
+      "main_idea": "Милорад Додик заявил, что Босния и Герцеговина не будет вступать в НАТО",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Nov 2026 00:02:05 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28276685",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Боец Белобородов уничтожил двух боевиков ВСУ при захвате вражеских позиций",
+      "title_neutral": "Боец Белобородов уничтожил двух боевиков ВСУ при захвате вражеских позиций",
+      "excerpt": "Действия рядового позволили российским войскам выполнить задачу без потерь среди личного состава, отметили в Минобороны",
+      "recap_neutral": "Действия рядового позволили российским войскам выполнить задачу без потерь среди личного состава, отметили в Минобороны",
+      "main_idea": "Боец Белобородов уничтожил двух боевиков ВСУ при захвате вражеских позиций",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Nov 2026 00:01:58 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28276699",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве пройдет конгресс \"Национальное здравоохранение 2026\"",
+      "title_neutral": "В Москве пройдет конгресс \"Национальное здравоохранение 2026\"",
+      "excerpt": "В мероприятии примут участие представители Минздрава и эксперты медицинского сообщества",
+      "recap_neutral": "В мероприятии примут участие представители Минздрава и эксперты медицинского сообщества",
+      "main_idea": "В Москве пройдет конгресс \"Национальное здравоохранение 2026\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Nov 2026 00:01:42 +0300",
+      "url": "https://tass.ru/obschestvo/28276697",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Андрей Гюров признал поражение на выборах президента Болгарии",
+      "title_neutral": "Андрей Гюров признал поражение на выборах президента Болгарии",
+      "excerpt": "",
+      "recap_neutral": "Андрей Гюров признал поражение на выборах президента Болгарии",
+      "main_idea": "Андрей Гюров признал поражение на выборах президента Болгарии",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Nov 2026 00:01:03 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28276689",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Международная неделя \"Народы России\" пройдет в Москве и по всей стране",
+      "title_neutral": "Международная неделя \"Народы России\" пройдет в Москве и по всей стране",
+      "excerpt": "",
+      "recap_neutral": "Международная неделя \"Народы России\" пройдет в Москве и по всей стране",
+      "main_idea": "Международная неделя \"Народы России\" пройдет в Москве и по всей стране",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Nov 2026 00:00:50 +0300",
+      "url": "https://tass.ru/obschestvo/28276695",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Военная операция на Украине. Онлайн",
+      "title_neutral": "Военная операция на Украине. Онлайн",
+      "excerpt": "Член финской национально-консервативной партии \"Альянс свободы\" Армандо Мема считает, что Евросоюз продолжает препятствовать достижению мирного урегулирования конфликта на Украине",
+      "recap_neutral": "Член финской национально-консервативной партии \"Альянс свободы\" Армандо Мема считает, что Евросоюз продолжает препятствовать достижению мирного урегулирования конфликта на Украине",
+      "main_idea": "Военная операция на Украине. Онлайн",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 02 Nov 2026 00:00:00 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28276229",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
@@ -1633,6 +1614,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Nibnib: Image compression with extreme decompression speed",
+      "title_neutral": "Nibnib: Image compression with extreme decompression speed",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Nibnib: Image compression with extreme decompression speed",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 30 Oct 2026 04:17:06 +0000",
+      "url": "https://github.com/raphlinus/nibnib",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
