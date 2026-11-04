@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T07:11:25.188081+00:00",
+  "last_updated": "2026-11-04T15:38:17.086787+00:00",
   "items": [
     {
       "title_original": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
@@ -38,313 +38,362 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Индекс Nikkei упал на 1,42% после выборов в США",
-      "title_neutral": "Индекс Nikkei упал на 1,42% после выборов в США",
-      "excerpt": "Инвесторы опасаются, что победа Демократической партии может привести к ужесточению регулирования сферы искусственного интеллекта",
-      "recap_neutral": "Инвесторы опасаются, что победа Демократической партии может привести к ужесточению регулирования сферы искусственного интеллекта",
-      "main_idea": "Индекс Nikkei упал на 1,42% после выборов в США",
+      "title_original": "Рынок акций США демонстрирует рост на фоне предварительных итогов выборов",
+      "title_neutral": "Рынок акций США демонстрирует рост на фоне предварительных итогов выборов",
+      "excerpt": "Акции Trump Media демонстрируют снижение на 10,17%",
+      "recap_neutral": "Акции Trump Media демонстрируют снижение на 10,17%",
+      "main_idea": "Рынок акций США демонстрирует рост на фоне предварительных итогов выборов",
+      "tags": [
+        "politics",
+        "economy",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Nov 2026 18:35:00 +0300",
+      "url": "https://tass.ru/ekonomika/28286563",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Сербии заявили, что в новое правительство не войдут \"иностранные марионетки\"",
+      "title_neutral": "В Сербии заявили, что в новое правительство не войдут \"иностранные марионетки\"",
+      "excerpt": "Оно будет \"состоять прежде всего из достойных людей\", сообщили в \"Студенческом списке\"",
+      "recap_neutral": "Оно будет \"состоять прежде всего из достойных людей\", сообщили в \"Студенческом списке\"",
+      "main_idea": "В Сербии заявили, что в новое правительство не войдут \"иностранные марионетки\"",
       "tags": [
         "politics",
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Wed, 04 Nov 2026 10:08:39 +0300",
-      "url": "https://tass.ru/ekonomika/28285137",
+      "published_at": "Wed, 04 Nov 2026 18:31:42 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28286547",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Матвиенко посетила новые медучреждения Бурятии",
-      "title_neutral": "Матвиенко посетила новые медучреждения Бурятии",
-      "excerpt": "Председатель СФ ознакомилась с оборудованием Центра инноваций в травматологии и ортопедии госкорпорации \"Ростех\"",
-      "recap_neutral": "Председатель СФ ознакомилась с оборудованием Центра инноваций в травматологии и ортопедии госкорпорации \"Ростех\"",
-      "main_idea": "Матвиенко посетила новые медучреждения Бурятии",
+      "title_original": "Экс-арбитр CAS допустил, что IIHF крупно оштрафуют за отказ исполнять решение суда",
+      "title_neutral": "Экс-арбитр CAS допустил, что IIHF крупно оштрафуют за отказ исполнять решение суда",
+      "excerpt": "Ранее CAS обязал IIHF допустить российские сборные к международным соревнованиям",
+      "recap_neutral": "Ранее CAS обязал IIHF допустить российские сборные к международным соревнованиям",
+      "main_idea": "Экс-арбитр CAS допустил, что IIHF крупно оштрафуют за отказ исполнять решение суда",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Nov 2026 18:30:10 +0300",
+      "url": "https://tass.ru/sport/28286557",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Жданова: тревожность стран НАТО растет по мере их приближения к рубежам РФ",
+      "title_neutral": "Жданова: тревожность стран НАТО растет по мере их приближения к рубежам РФ",
+      "excerpt": "",
+      "recap_neutral": "Жданова: тревожность стран НАТО растет по мере их приближения к рубежам РФ",
+      "main_idea": "Жданова: тревожность стран НАТО растет по мере их приближения к рубежам РФ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Nov 2026 18:29:51 +0300",
+      "url": "https://tass.ru/politika/28286559",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Страна\" назвала цель новых действий НАБУ против СБУ",
+      "title_neutral": "\"Страна\" назвала цель новых действий НАБУ против СБУ",
+      "excerpt": "Они направлены на ослабление контроля Владимира Зеленского над силовиками и предотвращение возможных ответных действий против антикоррупционных органов, указали в издании",
+      "recap_neutral": "Они направлены на ослабление контроля Владимира Зеленского над силовиками и предотвращение возможных ответных действий против антикоррупционных органов, указали в издании",
+      "main_idea": "\"Страна\" назвала цель новых действий НАБУ против СБУ",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Wed, 04 Nov 2026 10:07:41 +0300",
-      "url": "https://tass.ru/obschestvo/28285139",
+      "published_at": "Wed, 04 Nov 2026 18:29:30 +0300",
+      "url": "https://tass.ru/obschestvo/28286537",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "NBC: демократы получат 255 мест в Палате представителей Конгресса США",
-      "title_neutral": "NBC: демократы получат 255 мест в Палате представителей Конгресса США",
-      "excerpt": "По оценке телеканала, у республиканцев будет 180 мест",
-      "recap_neutral": "По оценке телеканала, у республиканцев будет 180 мест",
-      "main_idea": "NBC: демократы получат 255 мест в Палате представителей Конгресса США",
+      "title_original": "Торги на Нью-Йоркской бирже открылись заметным ростом",
+      "title_neutral": "Торги на Нью-Йоркской бирже открылись заметным ростом",
+      "excerpt": "Это произошло на фоне победы демократов на прошедших промежуточных выборах в Конгресс США",
+      "recap_neutral": "Это произошло на фоне победы демократов на прошедших промежуточных выборах в Конгресс США",
+      "main_idea": "Торги на Нью-Йоркской бирже открылись заметным ростом",
+      "tags": [
+        "politics"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Nov 2026 18:28:38 +0300",
+      "url": "https://tass.ru/ekonomika/28286541",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Донецке без света остались более 7 тыс. абонентов",
+      "title_neutral": "В Донецке без света остались более 7 тыс. абонентов",
+      "excerpt": "Произошло отключение 30 подстанций из-за превышения нагрузки по сети",
+      "recap_neutral": "Произошло отключение 30 подстанций из-за превышения нагрузки по сети",
+      "main_idea": "В Донецке без света остались более 7 тыс. абонентов",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Wed, 04 Nov 2026 10:07:08 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28285177",
+      "published_at": "Wed, 04 Nov 2026 18:27:13 +0300",
+      "url": "https://tass.ru/proisshestviya/28286539",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Бибилова впечатлила эффективность бригады из бывших пленных ВСУ",
-      "title_neutral": "Бибилова впечатлила эффективность бригады из бывших пленных ВСУ",
-      "excerpt": "Бригада занимается и штурмовыми действиями, и беспилотными системами, отметил заместитель командира по военно-политической работе Добровольческого корпуса МО РФ",
-      "recap_neutral": "Бригада занимается и штурмовыми действиями, и беспилотными системами, отметил заместитель командира по военно-политической работе Добровольческого корпуса МО РФ",
-      "main_idea": "Бибилова впечатлила эффективность бригады из бывших пленных ВСУ",
+      "title_original": "МИД РФ: Россия не допустит выделения Западу дополнительных кресел в СБ ООН",
+      "title_neutral": "МИД РФ: Россия не допустит выделения Западу дополнительных кресел в СБ ООН",
+      "excerpt": "Единственный способ привести Совет Безопасности Организации в соответствие с многополярными реалиями - расширить в нем представленность стран мирового большинства, отметил директор Департамента международных организаций МИД РФ Кирилл Логвинов",
+      "recap_neutral": "Единственный способ привести Совет Безопасности Организации в соответствие с многополярными реалиями - расширить в нем представленность стран мирового большинства, отметил директор Департамента международных организаций…",
+      "main_idea": "МИД РФ: Россия не допустит выделения Западу дополнительных кресел в СБ ООН",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Nov 2026 18:25:50 +0300",
+      "url": "https://tass.ru/politika/28286529",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Москве расширят сеть первых в мире беспилотных трамваев",
+      "title_neutral": "В Москве расширят сеть первых в мире беспилотных трамваев",
+      "excerpt": "Их число до конца года увеличится до 15",
+      "recap_neutral": "Их число до конца года увеличится до 15",
+      "main_idea": "В Москве расширят сеть первых в мире беспилотных трамваев",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Wed, 04 Nov 2026 10:06:42 +0300",
-      "url": "https://tass.ru/armiya-i-opk/28285135",
+      "published_at": "Wed, 04 Nov 2026 18:25:47 +0300",
+      "url": "https://tass.ru/obschestvo/28286503",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Эксперт Бедеров спрогнозировал рост географии кибератак на холодильники в ЕС",
-      "title_neutral": "Эксперт Бедеров спрогнозировал рост географии кибератак на холодильники в ЕС",
-      "excerpt": "Основатель компании \"Интернет-розыск\" также отметил, что цели преступников выйдут за пределы ретейла",
-      "recap_neutral": "Основатель компании \"Интернет-розыск\" также отметил, что цели преступников выйдут за пределы ретейла",
-      "main_idea": "Эксперт Бедеров спрогнозировал рост географии кибератак на холодильники в ЕС",
+      "title_original": "Песков: повестка возможной встречи Путина с Трампом и Си Цзиньпином пока согласовывается",
+      "title_neutral": "Песков: повестка возможной встречи Путина с Трампом и Си Цзиньпином пока согласовывается",
+      "excerpt": "",
+      "recap_neutral": "Песков: повестка возможной встречи Путина с Трампом и Си Цзиньпином пока согласовывается",
+      "main_idea": "Песков: повестка возможной встречи Путина с Трампом и Си Цзиньпином пока согласовывается",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Nov 2026 18:25:05 +0300",
+      "url": "https://tass.ru/politika/28286545",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В FIS заявили, что пока не рассматривали вопрос о нейтральном статусе Большунова",
+      "title_neutral": "В FIS заявили, что пока не рассматривали вопрос о нейтральном статусе Большунова",
+      "excerpt": "В среду норвежский телеканал NRK сообщил, что FIS отказала российскому лыжнику в нейтральном статусе",
+      "recap_neutral": "В среду норвежский телеканал NRK сообщил, что FIS отказала российскому лыжнику в нейтральном статусе",
+      "main_idea": "В FIS заявили, что пока не рассматривали вопрос о нейтральном статусе Большунова",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Nov 2026 18:24:54 +0300",
+      "url": "https://tass.ru/sport/28286551",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Белграде суд продлил на 30 дней содержание под стражей владельца банка Alta",
+      "title_neutral": "В Белграде суд продлил на 30 дней содержание под стражей владельца банка Alta",
+      "excerpt": "В суде считают, что в случае освобождения из-под стражи Давор Мацура мог бы скрыться",
+      "recap_neutral": "В суде считают, что в случае освобождения из-под стражи Давор Мацура мог бы скрыться",
+      "main_idea": "В Белграде суд продлил на 30 дней содержание под стражей владельца банка Alta",
+      "tags": [
+        "economy"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Nov 2026 18:24:51 +0300",
+      "url": "https://tass.ru/proisshestviya/28286517",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Во Франции призвали Европу не отвлекаться от своих интересов на выборы в США",
+      "title_neutral": "Во Франции призвали Европу не отвлекаться от своих интересов на выборы в США",
+      "excerpt": "Министр иностранных дел республики Жан-Ноэль Барро также считает, что \"результаты американских выборов продемонстрировали жизнеспособность демократических институтов\" Соединенных Штатов",
+      "recap_neutral": "Министр иностранных дел республики Жан-Ноэль Барро также считает, что \"результаты американских выборов продемонстрировали жизнеспособность демократических институтов\" Соединенных Штатов",
+      "main_idea": "Во Франции призвали Европу не отвлекаться от своих интересов на выборы в США",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Nov 2026 18:24:39 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28286525",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Тюменской области и Югре отменили беспилотную опасность",
+      "title_neutral": "В Тюменской области и Югре отменили беспилотную опасность",
+      "excerpt": "В ХМАО режим действовал пять часов",
+      "recap_neutral": "В ХМАО режим действовал пять часов",
+      "main_idea": "В Тюменской области и Югре отменили беспилотную опасность",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Nov 2026 18:23:46 +0300",
+      "url": "https://tass.ru/obschestvo/28286535",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "CBS: Трамп может возложить вину за поражение республиканцев на Хегсета",
+      "title_neutral": "CBS: Трамп может возложить вину за поражение республиканцев на Хегсета",
+      "excerpt": "Некоторые помощники президента США отмечают, что результаты промежуточных выборов были бы иными, \"если бы не война с Ираном\", отметила корреспондент телеканала Дженнифер Джейкобс",
+      "recap_neutral": "Некоторые помощники президента США отмечают, что результаты промежуточных выборов были бы иными, \"если бы не война с Ираном\", отметила корреспондент телеканала Дженнифер Джейкобс",
+      "main_idea": "CBS: Трамп может возложить вину за поражение республиканцев на Хегсета",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 04 Nov 2026 18:22:56 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28286515",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Secret police files released in Hungary, 47 years after fall of communism",
+      "title_neutral": "Secret police files released in Hungary, 47 years after fall of communism",
+      "excerpt": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
+      "recap_neutral": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish",
+      "main_idea": "Secret police files released in Hungary, 47 years after fall of communism",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Wed, 04 Nov 2026 15:28:18 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Adding Window Functions to a Spreadsheet",
+      "title_neutral": "Adding Window Functions to a Spreadsheet",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Adding Window Functions to a Spreadsheet",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 04 Nov 2026 15:21:12 +0000",
+      "url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How the World Reacted to Trump’s Midterm Defeat: 5 Things to Know",
+      "title_neutral": "How the World Reacted to Trump’s Midterm Defeat: 5 Things to Know",
+      "excerpt": "Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics.",
+      "recap_neutral": "Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics",
+      "main_idea": "How the World Reacted to Trump’s Midterm Defeat: 5 Things to Know",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Wed, 04 Nov 2026 15:21:09 +0000",
+      "url": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
+      "title_neutral": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
+      "excerpt": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
+      "recap_neutral": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys",
+      "main_idea": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 04 Nov 2026 15:18:03 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Debian apt security update (man-in-the-middle)",
+      "title_neutral": "Debian apt security update (man-in-the-middle)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Debian apt security update (man-in-the-middle)",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 04 Nov 2026 15:04:14 +0000",
+      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent",
+      "title_neutral": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 04 Nov 2026 15:01:44 +0000",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+      "title_neutral": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+      "excerpt": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
+      "recap_neutral": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday",
+      "main_idea": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
       "tags": [
         "conflict",
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Nov 2026 10:04:58 +0300",
-      "url": "https://tass.ru/ekonomika/28285133",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Трофимов признался, что с возрастом стал чаще обращаться к классической музыке",
-      "title_neutral": "Трофимов признался, что с возрастом стал чаще обращаться к классической музыке",
-      "excerpt": "Певец отметил, что при этом продолжает следить за современной музыкальной индустрией",
-      "recap_neutral": "Певец отметил, что при этом продолжает следить за современной музыкальной индустрией",
-      "main_idea": "Трофимов признался, что с возрастом стал чаще обращаться к классической музыке",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Nov 2026 10:03:14 +0300",
-      "url": "https://tass.ru/kultura/28285131",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Киевская область 4 ноября проведет без света до 18 часов",
-      "title_neutral": "Киевская область 4 ноября проведет без света до 18 часов",
-      "excerpt": "В среднем электричество в регионе будут отключать на 15 часов",
-      "recap_neutral": "В среднем электричество в регионе будут отключать на 15 часов",
-      "main_idea": "Киевская область 4 ноября проведет без света до 18 часов",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Nov 2026 10:00:56 +0300",
-      "url": "https://tass.ru/proisshestviya/28285129",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Маск пошутил, что \"космические лазеры\" для вмешательства в выборы не сработали",
-      "title_neutral": "Маск пошутил, что \"космические лазеры\" для вмешательства в выборы не сработали",
-      "excerpt": "По последним оценкам агентства Associated Press, демократы получат как минимум 53 места в Сенате Конгресса США",
-      "recap_neutral": "По последним оценкам агентства Associated Press, демократы получат как минимум 53 места в Сенате Конгресса США",
-      "main_idea": "Маск пошутил, что \"космические лазеры\" для вмешательства в выборы не сработали",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Nov 2026 10:00:08 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28285127",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Губернатор Курской области Хинштейн: девиз \"Вместе заодно\" здесь проявляется как нигде",
-      "title_neutral": "Губернатор Курской области Хинштейн: девиз \"Вместе заодно\" здесь проявляется как нигде",
-      "excerpt": "Губернатор Курской области Александр Хинштейн в День народного единства рассказал в интервью ТАСС об увековечивании памяти героев спецоперации, о своем месте силы, а также о том, что в непростой оперативной обстановке область стала примером единения регионов",
-      "recap_neutral": "Губернатор Курской области Александр Хинштейн в День народного единства рассказал в интервью ТАСС об увековечивании памяти героев спецоперации, о своем месте силы, а также о том, что в непростой оперативной обстановке о…",
-      "main_idea": "Губернатор Курской области Хинштейн: девиз \"Вместе заодно\" здесь проявляется как нигде",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Nov 2026 10:00:01 +0300",
-      "url": "https://tass.ru/interviews/28276411",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Киеве объявили воздушную тревогу",
-      "title_neutral": "В Киеве объявили воздушную тревогу",
-      "excerpt": "Режим ввели в шестой раз с начала суток, свидетельствуют данные официального ресурса для оповещения населения",
-      "recap_neutral": "Режим ввели в шестой раз с начала суток, свидетельствуют данные официального ресурса для оповещения населения",
-      "main_idea": "В Киеве объявили воздушную тревогу",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Nov 2026 09:59:57 +0300",
-      "url": "https://tass.ru/proisshestviya/28285125",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В ДНР при ночной атаке БПЛА ВСУ пострадал человек",
-      "title_neutral": "В ДНР при ночной атаке БПЛА ВСУ пострадал человек",
-      "excerpt": "Повреждены остекление и фасады многоквартирных домов",
-      "recap_neutral": "Повреждены остекление и фасады многоквартирных домов",
-      "main_idea": "В ДНР при ночной атаке БПЛА ВСУ пострадал человек",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Nov 2026 09:58:55 +0300",
-      "url": "https://tass.ru/proisshestviya/28285113",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Сенатор Сандерс: победившие на выборах демократы привлекут Трампа к ответу",
-      "title_neutral": "Сенатор Сандерс: победившие на выборах демократы привлекут Трампа к ответу",
-      "excerpt": "Он также призвал новый Конгресс бороться \"за интересы семей трудящихся\"",
-      "recap_neutral": "Он также призвал новый Конгресс бороться \"за интересы семей трудящихся\"",
-      "main_idea": "Сенатор Сандерс: победившие на выборах демократы привлекут Трампа к ответу",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Nov 2026 09:58:33 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28285121",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В ДНР при атаке ВСУ на АЗС погиб водитель автобуса",
-      "title_neutral": "В ДНР при атаке ВСУ на АЗС погиб водитель автобуса",
-      "excerpt": "",
-      "recap_neutral": "В ДНР при атаке ВСУ на АЗС погиб водитель автобуса",
-      "main_idea": "В ДНР при атаке ВСУ на АЗС погиб водитель автобуса",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Nov 2026 09:56:46 +0300",
-      "url": "https://tass.ru/proisshestviya/28285123",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В аэропорту Перми ввели временные ограничения",
-      "title_neutral": "В аэропорту Перми ввели временные ограничения",
-      "excerpt": "Об этом сообщила Росавиация",
-      "recap_neutral": "Об этом сообщила Росавиация",
-      "main_idea": "В аэропорту Перми ввели временные ограничения",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Nov 2026 09:54:53 +0300",
-      "url": "https://tass.ru/ekonomika/28285117",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Собянин поздравил москвичей с Днем народного единства",
-      "title_neutral": "Собянин поздравил москвичей с Днем народного единства",
-      "excerpt": "Мэр столицы пожелал горожанам крепкого здоровья, благополучия и новых достижений на благо России",
-      "recap_neutral": "Мэр столицы пожелал горожанам крепкого здоровья, благополучия и новых достижений на благо России",
-      "main_idea": "Собянин поздравил москвичей с Днем народного единства",
-      "tags": [
-        "tech",
-        "health"
-      ],
-      "source": "ТАСС",
-      "published_at": "Wed, 04 Nov 2026 09:53:02 +0300",
-      "url": "https://tass.ru/obschestvo/28285111",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
-      "title_neutral": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
-      "excerpt": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials.",
-      "recap_neutral": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials",
-      "main_idea": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
-      "tags": [],
       "source": "BBC World",
-      "published_at": "Wed, 04 Nov 2026 06:07:24 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 04 Nov 2026 15:01:10 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-      "title_neutral": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-      "excerpt": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
-      "recap_neutral": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas",
-      "main_idea": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Wed, 04 Nov 2026 05:39:36 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Florida Republicans fend off Democrats as state elects first black governor",
-      "title_neutral": "Florida Republicans fend off Democrats as state elects first black governor",
-      "excerpt": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
-      "recap_neutral": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida",
-      "main_idea": "Florida Republicans fend off Democrats as state elects first black governor",
-      "tags": [
-        "politics"
-      ],
-      "source": "BBC World",
-      "published_at": "Wed, 04 Nov 2026 05:04:46 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "U.K. Supreme Court to Hear Challenge to Ban on Palestine Action: What to Know",
-      "title_neutral": "U.K. Supreme Court to Hear Challenge to Ban on Palestine Action: What to Know",
-      "excerpt": "The government designated the protest group as a terrorist organization last year, prompting criticism. The country’s Supreme Court is set to begin hearing a challenge to the ban on Wednesday.",
-      "recap_neutral": "The government designated the protest group as a terrorist organization last year, prompting criticism",
-      "main_idea": "U.K. Supreme Court to Hear Challenge to Ban on Palestine Action: What to Know",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Wed, 04 Nov 2026 05:01:04 +0000",
-      "url": "https://www.nytimes.com/2026/11/04/world/europe/palestine-action-ban-uk-supreme-court.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -357,7 +406,7 @@
         "politics"
       ],
       "source": "The Guardian",
-      "published_at": "Wed, 04 Nov 2026 04:00:23 GMT",
+      "published_at": "Wed, 04 Nov 2026 14:50:47 GMT",
       "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
       "lang": "en",
       "bias_score": 60,
@@ -365,18 +414,833 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-      "title_neutral": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-      "excerpt": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
-      "recap_neutral": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\"",
-      "main_idea": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+      "title_original": "US voters roundly reject data centers in ballot measures",
+      "title_neutral": "US voters roundly reject data centers in ballot measures",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "US voters roundly reject data centers in ballot measures",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 04 Nov 2026 14:27:02 +0000",
+      "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+      "title_neutral": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+      "excerpt": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+      "recap_neutral": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas",
+      "main_idea": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
       "tags": [],
       "source": "BBC World",
-      "published_at": "Wed, 04 Nov 2026 03:46:10 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 04 Nov 2026 14:17:58 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
       "lang": "en",
-      "bias_score": 36,
+      "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "North Korean fake job interview led to $6.3B Binance heist",
+      "title_neutral": "North Korean fake job interview led to $6.3B Binance heist",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "North Korean fake job interview led to $6.3B Binance heist",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 04 Nov 2026 14:09:55 +0000",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+      "title_neutral": "Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+      "excerpt": "President Isaac Herzog will meet with party leaders over the next two days to decide whether to give Prime Minister Benjamin Netanyahu or rivals the first chance at forming a coalition.",
+      "recap_neutral": "President Isaac Herzog will meet with party leaders over the next two days to decide whether to give Prime Minister Benjamin Netanyahu or rivals the first chance at forming a coalition",
+      "main_idea": "Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Wed, 04 Nov 2026 13:58:52 +0000",
+      "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Mocktastic: A Meshtastic Node on Arduino",
+      "title_neutral": "Mocktastic: A Meshtastic Node on Arduino",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Mocktastic: A Meshtastic Node on Arduino",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 04 Nov 2026 13:51:52 +0000",
+      "url": "https://github.com/Vapmuz/Mocktastic",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "title_neutral": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "excerpt": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+      "recap_neutral": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them",
+      "main_idea": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "tags": [
+        "politics"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 04 Nov 2026 13:33:30 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Nadal set to join Real Madrid board of directors",
+      "title_neutral": "Nadal set to join Real Madrid board of directors",
+      "excerpt": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
+      "recap_neutral": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid",
+      "main_idea": "Nadal set to join Real Madrid board of directors",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Wed, 04 Nov 2026 13:21:01 GMT",
+      "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
+      "title_neutral": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
+      "excerpt": "President Isaac Herzog has tried to avoid controversy and heal rifts in his largely ceremonial role. But his skills as a savvy mediator could be instrumental after an inconclusive election.",
+      "recap_neutral": "President Isaac Herzog has tried to avoid controversy and heal rifts in his largely ceremonial role",
+      "main_idea": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
+      "tags": [
+        "politics"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Wed, 04 Nov 2026 13:18:58 +0000",
+      "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "More Iranians Call for Nuclear Weapons After War With U.S.",
+      "title_neutral": "More Iranians Call for Nuclear Weapons After War With U.S.",
+      "excerpt": "Some Iranian clerics and officials argue the country must rebuild deterrence by dropping its longstanding pledge not to build a nuclear bomb.",
+      "recap_neutral": "Some Iranian clerics and officials argue the country must rebuild deterrence by dropping its longstanding pledge not to build a nuclear bomb",
+      "main_idea": "More Iranians Call for Nuclear Weapons After War With U.S.",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Wed, 04 Nov 2026 13:17:49 +0000",
+      "url": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Sharp objects found in Halloween sweets in three European nations",
+      "title_neutral": "Sharp objects found in Halloween sweets in three European nations",
+      "excerpt": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
+      "recap_neutral": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin",
+      "main_idea": "Sharp objects found in Halloween sweets in three European nations",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 04 Nov 2026 12:34:33 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iran's chief negotiator says Americans voted 'no to war'",
+      "title_neutral": "Iran's chief negotiator says Americans voted 'no to war'",
+      "excerpt": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "recap_neutral": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat",
+      "main_idea": "Iran's chief negotiator says Americans voted 'no to war'",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 04 Nov 2026 12:21:21 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AI is forcing us to pay off 40 years of technical debt",
+      "title_neutral": "AI is forcing us to pay off 40 years of technical debt",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "AI is forcing us to pay off 40 years of technical debt",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Wed, 04 Nov 2026 11:52:17 +0000",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ANC under pressure to reverse South Africa decline",
+      "title_neutral": "ANC under pressure to reverse South Africa decline",
+      "excerpt": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "recap_neutral": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get",
+      "main_idea": "ANC under pressure to reverse South Africa decline",
+      "tags": [
+        "politics"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 04 Nov 2026 11:47:44 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+      "title_neutral": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+      "excerpt": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
+      "recap_neutral": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo",
+      "main_idea": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+      "tags": [
+        "conflict"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 04 Nov 2026 11:46:09 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC",
+      "title_neutral": "Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC",
+      "excerpt": "As South Africans head to the polls on Wednesday, Helen Zille, 75, is betting voters care less about race and more about public services in her bid to become mayor of Johannesburg.",
+      "recap_neutral": "As South Africans head to the polls on Wednesday, Helen Zille, 75, is betting voters care less about race and more about public services in her bid to become mayor of Johannesburg",
+      "main_idea": "Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Wed, 04 Nov 2026 10:23:53 +0000",
+      "url": "https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "title_neutral": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Wed, 04 Nov 2026 10:10:27 +0000",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+      "title_neutral": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+      "excerpt": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
+      "recap_neutral": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history",
+      "main_idea": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Wed, 04 Nov 2026 10:03:19 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Why Doctors in Thailand Fear KFC",
+      "title_neutral": "Why Doctors in Thailand Fear KFC",
+      "excerpt": "In a country where superstitions are as imaginative as they are many, physicians have come to fear a jinx involving Kentucky Fried Chicken.",
+      "recap_neutral": "In a country where superstitions are as imaginative as they are many, physicians have come to fear a jinx involving Kentucky Fried Chicken",
+      "main_idea": "Why Doctors in Thailand Fear KFC",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Wed, 04 Nov 2026 10:01:48 +0000",
+      "url": "https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Under Patagonian Spires: Where Pumas, Sheep Herding and Fine Dining Collide",
+      "title_neutral": "Under Patagonian Spires: Where Pumas, Sheep Herding and Fine Dining Collide",
+      "excerpt": "Estancia Cerro Guido, a Chilean ranch that swapped puma bounties for conservation tours, offers travelers luxury experiences on the edge of the wilderness.",
+      "recap_neutral": "Estancia Cerro Guido, a Chilean ranch that swapped puma bounties for conservation tours, offers travelers luxury experiences on the edge of the wilderness",
+      "main_idea": "Under Patagonian Spires: Where Pumas, Sheep Herding and Fine Dining Collide",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Wed, 04 Nov 2026 10:00:53 +0000",
+      "url": "https://www.nytimes.com/2026/11/04/travel/patagonia-estancia-cerro-guido.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Incident with Pull Requests, Git Operations and Issues",
+      "title_neutral": "Incident with Pull Requests, Git Operations and Issues",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Incident with Pull Requests, Git Operations and Issues",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 04 Nov 2026 10:00:06 +0000",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Your GitHub Actions Cron Job Can Disappear Without Failing",
+      "title_neutral": "Your GitHub Actions Cron Job Can Disappear Without Failing",
+      "excerpt": "Learn how to make GitHub Actions scheduled workflows more reliable with automated QA, Slack reporting, duplicate prevention, and watchdog monitoring.",
+      "recap_neutral": "Learn how to make GitHub Actions scheduled workflows more reliable with automated QA, Slack reporting, duplicate prevention, and watchdog monitoring",
+      "main_idea": "Your GitHub Actions Cron Job Can Disappear Without Failing",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 04 Nov 2026 10:00:02 GMT",
+      "url": "https://hackernoon.com/your-github-actions-cron-job-can-disappear-without-failing?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A One-Line JavaScript Bug Broke My GA4 Tracking for Five Months",
+      "title_neutral": "A One-Line JavaScript Bug Broke My GA4 Tracking for Five Months",
+      "excerpt": "one-line JavaScript bug silently broke GA4 conversion tracking for five months. Learn how to detect missing events, fix gtag.js, and verify your data.",
+      "recap_neutral": "one-line JavaScript bug silently broke GA4 conversion tracking for five months",
+      "main_idea": "A One-Line JavaScript Bug Broke My GA4 Tracking for Five Months",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Wed, 04 Nov 2026 09:15:03 GMT",
+      "url": "https://hackernoon.com/a-one-line-javascript-bug-broke-my-ga4-tracking-for-five-months?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Verification Is Not Knowledge: Science needs more than answers",
+      "title_neutral": "Verification Is Not Knowledge: Science needs more than answers",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Verification Is Not Knowledge: Science needs more than answers",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 04 Nov 2026 09:01:58 +0000",
+      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Kitty 0.50",
+      "title_neutral": "Kitty 0.50",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Kitty 0.50",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 04 Nov 2026 08:57:10 +0000",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Audio8-TTS-Realistic-Air: Edge0's 0.6B Multilingual Text-to-Speech Model Explained",
+      "title_neutral": "Audio8-TTS-Realistic-Air: Edge0's 0.6B Multilingual Text-to-Speech Model Explained",
+      "excerpt": "Learn how Audio8-TTS-Realistic-Air works, including its features, technical specifications, benchmarks, limitations, and voice cloning capabilities.",
+      "recap_neutral": "Learn how Audio8-TTS-Realistic-Air works, including its features, technical specifications, benchmarks, limitations, and voice cloning capabilities",
+      "main_idea": "Audio8-TTS-Realistic-Air: Edge0's 0.6B Multilingual Text-to-Speech Model Explained",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 04 Nov 2026 08:54:59 GMT",
+      "url": "https://hackernoon.com/audio8-tts-realistic-air-edge0s-06b-multilingual-text-to-speech-model-explained?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How I Built an AI-Powered Hacker News Book Recommendation Site in 2.5 Hours",
+      "title_neutral": "How I Built an AI-Powered Hacker News Book Recommendation Site in 2.5 Hours",
+      "excerpt": "Karpathy built HackerTube in about 2 hours with Claude Code. I rebuilt it for books with Cursor. Here's my honest time, cost, and everything that broke.",
+      "recap_neutral": "Karpathy built HackerTube in about 2 hours with Claude Code",
+      "main_idea": "How I Built an AI-Powered Hacker News Book Recommendation Site in 2.5 Hours",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 04 Nov 2026 08:53:43 GMT",
+      "url": "https://hackernoon.com/how-i-built-an-ai-powered-hacker-news-book-recommendation-site-in-25-hours?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Agent Graph Engineering, Part 5: How to Build Safer AI Agents With Structured Errors and Guardrails",
+      "title_neutral": "Agent Graph Engineering, Part 5: How to Build Safer AI Agents With Structured Errors and Guardrails",
+      "excerpt": "Two edges, one idea: constrain the model declaratively rather than by inspecting what it produced.",
+      "recap_neutral": "Two edges, one idea: constrain the model declaratively rather than by inspecting what it produced",
+      "main_idea": "Agent Graph Engineering, Part 5: How to Build Safer AI Agents With Structured Errors and Guardrails",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 04 Nov 2026 08:50:15 GMT",
+      "url": "https://hackernoon.com/agent-graph-engineering-part-5-how-to-build-safer-ai-agents-with-structured-errors-and-guardrails?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "title_neutral": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "tags": [
+        "conflict"
+      ],
+      "source": "Hacker News",
+      "published_at": "Wed, 04 Nov 2026 08:46:29 +0000",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+      "title_neutral": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+      "excerpt": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.",
+      "recap_neutral": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain",
+      "main_idea": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Wed, 04 Nov 2026 08:38:09 -0500",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Prompt Engineering Trick That Could Be Making Your AI Slower",
+      "title_neutral": "The Prompt Engineering Trick That Could Be Making Your AI Slower",
+      "excerpt": "A study of expert persona prompting on cost and speed.",
+      "recap_neutral": "A study of expert persona prompting on cost and speed",
+      "main_idea": "The Prompt Engineering Trick That Could Be Making Your AI Slower",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 04 Nov 2026 08:37:25 GMT",
+      "url": "https://hackernoon.com/the-prompt-engineering-trick-that-could-be-making-your-ai-slower?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "AI-search Results Are Emerging As An Important Influencer and Creator Discovery Tool",
+      "title_neutral": "AI-search Results Are Emerging As An Important Influencer and Creator Discovery Tool",
+      "excerpt": "Creator discovery is no longer just about winning Instagram, TikTok, or Google. Brands and agencies increasingly use AI tools to identify creators.",
+      "recap_neutral": "Creator discovery is no longer just about winning Instagram, TikTok, or Google",
+      "main_idea": "AI-search Results Are Emerging As An Important Influencer and Creator Discovery Tool",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 04 Nov 2026 08:35:16 GMT",
+      "url": "https://hackernoon.com/ai-search-results-are-emerging-as-an-important-influencer-and-creator-discovery-tool?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Understanding Software PLCs: Architecture, Execution, and Security Boundaries",
+      "title_neutral": "Understanding Software PLCs: Architecture, Execution, and Security Boundaries",
+      "excerpt": "Explore software PLC architecture, deployment, control logic, program execution, engineering workflows, and the security boundaries that shape their protection.",
+      "recap_neutral": "Explore software PLC architecture, deployment, control logic, program execution, engineering workflows, and the security boundaries that shape their protection",
+      "main_idea": "Understanding Software PLCs: Architecture, Execution, and Security Boundaries",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 04 Nov 2026 08:32:55 GMT",
+      "url": "https://hackernoon.com/understanding-software-plcs-architecture-execution-and-security-boundaries?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Self-host live updates for Capacitor with Codemagic Patch",
+      "title_neutral": "Self-host live updates for Capacitor with Codemagic Patch",
+      "excerpt": "Self-host live updates for your Capacitor apps with Codemagic Patch. Runs in a Compose stack on a basic machine, and includes a full team dashboard.",
+      "recap_neutral": "Self-host live updates for your Capacitor apps with Codemagic Patch",
+      "main_idea": "Self-host live updates for Capacitor with Codemagic Patch",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Wed, 04 Nov 2026 08:28:52 GMT",
+      "url": "https://hackernoon.com/self-host-live-updates-for-capacitor-with-codemagic-patch?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Death of Google Search: How AI Is Changing the Internet Forever",
+      "title_neutral": "The Death of Google Search: How AI Is Changing the Internet Forever",
+      "excerpt": "Searching the web is giving way to asking an AI that answers at once. This essay weighs what that shift costs the person who stops searching.",
+      "recap_neutral": "Searching the web is giving way to asking an AI that answers at once",
+      "main_idea": "The Death of Google Search: How AI Is Changing the Internet Forever",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 04 Nov 2026 08:27:24 GMT",
+      "url": "https://hackernoon.com/the-death-of-google-search-how-ai-is-changing-the-internet-forever?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "EB1A Experts Open Free EB-2 NIW Track in Ascent Club as New Visa Bulletin Brings Waits for Applicant",
+      "title_neutral": "EB1A Experts Open Free EB-2 NIW Track in Ascent Club as New Visa Bulletin Brings Waits for Applicant",
+      "excerpt": "EB1A Experts launches a free Ascent Club track to help EB-2 NIW applicants navigate visa retrogression, priority dates, and FY 2027 filing strategies.",
+      "recap_neutral": "EB1A Experts launches a free Ascent Club track to help EB-2 NIW applicants navigate visa retrogression, priority dates, and FY 2027 filing strategies",
+      "main_idea": "EB1A Experts Open Free EB-2 NIW Track in Ascent Club as New Visa Bulletin Brings Waits for Applicant",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 04 Nov 2026 08:26:25 GMT",
+      "url": "https://hackernoon.com/eb1a-experts-open-free-eb-2-niw-track-in-ascent-club-as-new-visa-bulletin-brings-waits-for-applicant?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Kalshi's $40 Billion Valuation Signals Growing Investor Confidence in Prediction Markets",
+      "title_neutral": "Kalshi's $40 Billion Valuation Signals Growing Investor Confidence in Prediction Markets",
+      "excerpt": "Kalshi hits a $40 billion valuation as prediction market volume rises 61.5%. We examine user trends, NBA market rules and Europe’s regulatory divide.",
+      "recap_neutral": "Kalshi hits a $40 billion valuation as prediction market volume rises 61",
+      "main_idea": "Kalshi's $40 Billion Valuation Signals Growing Investor Confidence in Prediction Markets",
+      "tags": [
+        "economy"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 04 Nov 2026 08:25:43 GMT",
+      "url": "https://hackernoon.com/kalshis-$40-billion-valuation-signals-growing-investor-confidence-in-prediction-markets?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How to Turn Engineering Productivity Gains Into Measurable Revenue",
+      "title_neutral": "How to Turn Engineering Productivity Gains Into Measurable Revenue",
+      "excerpt": "Boards don't fund platform teams on percentages. Ask for one quarter of roadmap, show it back in three, and pair delivery with product adoption.",
+      "recap_neutral": "Boards don't fund platform teams on percentages",
+      "main_idea": "How to Turn Engineering Productivity Gains Into Measurable Revenue",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Wed, 04 Nov 2026 08:20:03 GMT",
+      "url": "https://hackernoon.com/how-to-turn-engineering-productivity-gains-into-measurable-revenue?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Normalizing a Wide Well and Pipeline Telemetry Table Without Re-Ingesting History",
+      "title_neutral": "Normalizing a Wide Well and Pipeline Telemetry Table Without Re-Ingesting History",
+      "excerpt": "Learn how to migrate a wide TimescaleDB sensor table to a narrow hypertable in place, preserving historical data and keeping dashboards running.",
+      "recap_neutral": "Learn how to migrate a wide TimescaleDB sensor table to a narrow hypertable in place, preserving historical data and keeping dashboards running",
+      "main_idea": "Normalizing a Wide Well and Pipeline Telemetry Table Without Re-Ingesting History",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Wed, 04 Nov 2026 08:13:35 GMT",
+      "url": "https://hackernoon.com/normalizing-a-wide-well-and-pipeline-telemetry-table-without-re-ingesting-history?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "NVIDIA's DeepSeek-V4.1-Flash NVFP4 Model: Everything You Need to Know",
+      "title_neutral": "NVIDIA's DeepSeek-V4.1-Flash NVFP4 Model: Everything You Need to Know",
+      "excerpt": "Discover NVIDIA's quantized DeepSeek-V4.1-Flash NVFP4 model, featuring 552B parameters, multimodal inputs, and a 1M-token context window.",
+      "recap_neutral": "Discover NVIDIA's quantized DeepSeek-V4",
+      "main_idea": "NVIDIA's DeepSeek-V4.1-Flash NVFP4 Model: Everything You Need to Know",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Wed, 04 Nov 2026 08:00:21 GMT",
+      "url": "https://hackernoon.com/nvidias-deepseek-v41-flash-nvfp4-model-everything-you-need-to-know?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "title_neutral": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "excerpt": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+      "recap_neutral": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category",
+      "main_idea": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 04 Nov 2026 07:39:38 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The world is reacting to the Democrats' sweeping midterm elections victory",
+      "title_neutral": "The world is reacting to the Democrats' sweeping midterm elections victory",
+      "excerpt": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win as foreign powers weigh how a flipped Congress will affect international relations.",
+      "recap_neutral": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win as foreign powers weigh how a flipped Congress will affect international relations",
+      "main_idea": "The world is reacting to the Democrats' sweeping midterm elections victory",
+      "tags": [
+        "politics"
+      ],
+      "source": "NPR",
+      "published_at": "Wed, 04 Nov 2026 07:34:35 -0500",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Bomb Threats Disrupt Several Flights Across Europe",
+      "title_neutral": "Bomb Threats Disrupt Several Flights Across Europe",
+      "excerpt": "Officials are investigating threats against at least seven planes. The aircraft landed safely and no explosives were found, the authorities said.",
+      "recap_neutral": "Officials are investigating threats against at least seven planes",
+      "main_idea": "Bomb Threats Disrupt Several Flights Across Europe",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Wed, 04 Nov 2026 07:29:45 +0000",
+      "url": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Democrats seize full control of Congress. And, which candidates made history last night",
+      "title_neutral": "Democrats seize full control of Congress. And, which candidates made history last night",
+      "excerpt": "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states. Here's what happened last night.",
+      "recap_neutral": "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023",
+      "main_idea": "Democrats seize full control of Congress. And, which candidates made history last night",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Wed, 04 Nov 2026 07:18:39 -0500",
+      "url": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Florida Republicans fend off Democrats as state elects first black governor",
+      "title_neutral": "Florida Republicans fend off Democrats as state elects first black governor",
+      "excerpt": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
+      "recap_neutral": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida",
+      "main_idea": "Florida Republicans fend off Democrats as state elects first black governor",
+      "tags": [
+        "politics"
+      ],
+      "source": "BBC World",
+      "published_at": "Wed, 04 Nov 2026 07:12:21 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "6 takeaways from Democrats' big wave on election night",
+      "title_neutral": "6 takeaways from Democrats' big wave on election night",
+      "excerpt": "The magnitude of the Democrats' outcome was always a possibility, but the depth and breadth of their victories were jaw-dropping.",
+      "recap_neutral": "The magnitude of the Democrats' outcome was always a possibility, but the depth and breadth of their victories were jaw-dropping",
+      "main_idea": "6 takeaways from Democrats' big wave on election night",
+      "tags": [
+        "politics"
+      ],
+      "source": "NPR",
+      "published_at": "Wed, 04 Nov 2026 07:02:38 -0500",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6022216/midterms-democrats-trump-republicans-analysis",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Votes are still being counted to see who will represent Mississippi in the Senate",
+      "title_neutral": "Votes are still being counted to see who will represent Mississippi in the Senate",
+      "excerpt": "Votes are still being counted to determine who will represent Mississippi in the U.S. Senate. Democrat Scott Colom was only a handful of votes ahead of Republican Cindy Hyde-Smith early Wednesday.",
+      "recap_neutral": "Votes are still being counted to determine who will represent Mississippi in the U",
+      "main_idea": "Votes are still being counted to see who will represent Mississippi in the Senate",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Wed, 04 Nov 2026 06:57:23 -0500",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6028618/votes-are-still-being-counted-in-mississippi-u-s-senate-race",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
+      "title_neutral": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
+      "excerpt": "Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.",
+      "recap_neutral": "Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come",
+      "main_idea": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Wed, 04 Nov 2026 06:00:00 -0500",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Hakeem Jeffries is poised to become the first Black speaker of the House",
+      "title_neutral": "Hakeem Jeffries is poised to become the first Black speaker of the House",
+      "excerpt": "As speaker, the New York Democrat would be second in the presidential line of succession, after the vice president. He has vowed to focus on affordability and holding the administration accountable.",
+      "recap_neutral": "As speaker, the New York Democrat would be second in the presidential line of succession, after the vice president",
+      "main_idea": "Hakeem Jeffries is poised to become the first Black speaker of the House",
+      "tags": [
+        "politics"
+      ],
+      "source": "NPR",
+      "published_at": "Wed, 04 Nov 2026 05:00:00 -0500",
+      "url": "https://www.npr.org/2026/11/04/g-s1-150030/hakeem-jeffries-speaker-of-the-house-midterms",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "These 10 candidates for governor made history in the 2026 election",
+      "title_neutral": "These 10 candidates for governor made history in the 2026 election",
+      "excerpt": "Voters on Tuesday elected the nation's first Black woman governor and the nation's first Native American woman governor.",
+      "recap_neutral": "Voters on Tuesday elected the nation's first Black woman governor and the nation's first Native American woman governor",
+      "main_idea": "These 10 candidates for governor made history in the 2026 election",
+      "tags": [
+        "politics"
+      ],
+      "source": "NPR",
+      "published_at": "Wed, 04 Nov 2026 05:00:00 -0500",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6028546/governor-candidates-history-election-2026",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "'We have great leverage here': DNC chair Ken Martin on Democrats' midterms sweep",
+      "title_neutral": "'We have great leverage here': DNC chair Ken Martin on Democrats' midterms sweep",
+      "excerpt": "Democrats flipped Senate seats in Republican strongholds and won control of Congress. DNC chair Ken Martin explains why he believes voters gave his party a mandate and what comes next.",
+      "recap_neutral": "Democrats flipped Senate seats in Republican strongholds and won control of Congress",
+      "main_idea": "'We have great leverage here': DNC chair Ken Martin on Democrats' midterms sweep",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Wed, 04 Nov 2026 04:50:37 -0500",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6022528/democrats-midterm-election-results-senate-house-congress",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Nevada Attorney General Aaron Ford beats Republican incumbent for governor",
+      "title_neutral": "Nevada Attorney General Aaron Ford beats Republican incumbent for governor",
+      "excerpt": "Democrat Aaron Ford defeated Republican Gov. Joe Lombardo. He's set to become Nevada's first Black governor.",
+      "recap_neutral": "Democrat Aaron Ford defeated Republican Gov",
+      "main_idea": "Nevada Attorney General Aaron Ford beats Republican incumbent for governor",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Wed, 04 Nov 2026 04:48:40 -0500",
+      "url": "https://www.npr.org/2026/11/04/g-s1-151138/midterms-ford-nevada-governor-lombardo",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -412,215 +1276,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "South Carolina elects Democratic senator for first time in almost three decades",
-      "title_neutral": "South Carolina elects Democratic senator for first time in almost three decades",
-      "excerpt": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-      "recap_neutral": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death",
-      "main_idea": "South Carolina elects Democratic senator for first time in almost three decades",
-      "tags": [
-        "politics"
-      ],
-      "source": "BBC World",
-      "published_at": "Wed, 04 Nov 2026 03:24:34 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-      "title_neutral": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 04 Nov 2026 03:20:13 +0000",
-      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Arrows to arrows, categories to queries (2025)",
-      "title_neutral": "Arrows to arrows, categories to queries (2025)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Arrows to arrows, categories to queries (2025)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 04 Nov 2026 03:11:27 +0000",
-      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Democratic rising star Ossoff projected to hold Georgia seat",
-      "title_neutral": "Democratic rising star Ossoff projected to hold Georgia seat",
-      "excerpt": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
-      "recap_neutral": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring",
-      "main_idea": "Democratic rising star Ossoff projected to hold Georgia seat",
-      "tags": [
-        "politics"
-      ],
-      "source": "BBC World",
-      "published_at": "Wed, 04 Nov 2026 02:38:07 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Killer who escaped Tennessee prison captured after week-long manhunt",
-      "title_neutral": "Killer who escaped Tennessee prison captured after week-long manhunt",
-      "excerpt": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
-      "recap_neutral": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence",
-      "main_idea": "Killer who escaped Tennessee prison captured after week-long manhunt",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Wed, 04 Nov 2026 02:11:40 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "House Democratic Leader Hakeem Jeffries declares \"America is back\"",
-      "title_neutral": "House Democratic Leader Hakeem Jeffries declares \"America is back\"",
-      "excerpt": "Jeffries, who addressed supporters after House control was called for Democrats , argued voters have sent Congress a message to end extremism and \"corruption.\"",
-      "recap_neutral": "Jeffries, who addressed supporters after House control was called for Democrats , argued voters have sent Congress a message to end extremism and \"corruption",
-      "main_idea": "House Democratic Leader Hakeem Jeffries declares \"America is back\"",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Wed, 04 Nov 2026 01:50:28 -0500",
-      "url": "https://www.npr.org/2026/11/04/nx-s1-6028572/hakeem-jeffries-midterms-house",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?",
-      "title_neutral": "A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?",
-      "excerpt": "Arab lawmakers give opponents of Benjamin Netanyahu a clear majority in the Parliament. But many Jewish lawmakers are trying to avoid relying on them.",
-      "recap_neutral": "Arab lawmakers give opponents of Benjamin Netanyahu a clear majority in the Parliament",
-      "main_idea": "A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Wed, 04 Nov 2026 01:48:41 +0000",
-      "url": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Giant canyon on Mars is still tectonically active",
-      "title_neutral": "Giant canyon on Mars is still tectonically active",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Giant canyon on Mars is still tectonically active",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 04 Nov 2026 01:40:42 +0000",
-      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
-      "title_neutral": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
-      "excerpt": "The result is a crucial victory for Democrats in their push to retake the Senate majority, flipping a seat that Collins has held for nearly 30 years.",
-      "recap_neutral": "The result is a crucial victory for Democrats in their push to retake the Senate majority, flipping a seat that Collins has held for nearly 30 years",
-      "main_idea": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Wed, 04 Nov 2026 01:02:31 -0500",
-      "url": "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Here's how some key demographic groups voted in the midterms",
-      "title_neutral": "Here's how some key demographic groups voted in the midterms",
-      "excerpt": "These charts show how various demographic groups voted in the midterm election. The data comes from a poll of tens of thousands of voters, conducted by the firm SSRS for a number of news outlets.",
-      "recap_neutral": "These charts show how various demographic groups voted in the midterm election",
-      "main_idea": "Here's how some key demographic groups voted in the midterms",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Wed, 04 Nov 2026 00:43:42 -0500",
-      "url": "https://www.npr.org/2026/11/04/nx-s1-6028080/voter-polls-midterms-demographics",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "C++26 Disapproved",
-      "title_neutral": "C++26 Disapproved",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "C++26 Disapproved",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 04 Nov 2026 00:33:22 +0000",
-      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Former Arkansas governor says Democrats' gains are 'more significant than ever anticipated'",
-      "title_neutral": "Former Arkansas governor says Democrats' gains are 'more significant than ever anticipated'",
-      "excerpt": "NPR's Scott Detrow speaks with former Arkansas Gov. Asa Hutchinson about Democratic victories in states typically considered Republican strongholds.",
-      "recap_neutral": "NPR's Scott Detrow speaks with former Arkansas Gov",
-      "main_idea": "Former Arkansas governor says Democrats' gains are 'more significant than ever anticipated'",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Wed, 04 Nov 2026 00:14:01 -0500",
-      "url": "https://www.npr.org/2026/11/04/nx-s1-6028116/former-arkansas-governor-says-democrats-gains-are-more-significant-than-ever-anticipated",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "ANC under pressure to reverse South Africa decline",
-      "title_neutral": "ANC under pressure to reverse South Africa decline",
-      "excerpt": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-      "recap_neutral": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get",
-      "main_idea": "ANC under pressure to reverse South Africa decline",
-      "tags": [
-        "politics"
-      ],
-      "source": "BBC World",
-      "published_at": "Wed, 04 Nov 2026 00:03:19 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
       "title_neutral": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
       "excerpt": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
@@ -635,157 +1290,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Democrats win full control of Congress, ushering in a new era of divided government",
-      "title_neutral": "Democrats win full control of Congress, ushering in a new era of divided government",
-      "excerpt": "The victories in the House and Senate return Democrats to full control of Congress for the first time since 2023 and deepens the level of expected friction between them and President Trump.",
-      "recap_neutral": "The victories in the House and Senate return Democrats to full control of Congress for the first time since 2023 and deepens the level of expected friction between them and President Trump",
-      "main_idea": "Democrats win full control of Congress, ushering in a new era of divided government",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Tue, 03 Nov 2026 23:44:55 -0500",
-      "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Democrat Josh Turek wins the Senate seat in Iowa",
-      "title_neutral": "Democrat Josh Turek wins the Senate seat in Iowa",
-      "excerpt": "Democrat Josh Turek has defeated Sen. Ashley Hinson in Iowa, according to a race call by the Associated Press.",
-      "recap_neutral": "Democrat Josh Turek has defeated Sen",
-      "main_idea": "Democrat Josh Turek wins the Senate seat in Iowa",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Tue, 03 Nov 2026 23:37:55 -0500",
-      "url": "https://www.npr.org/2026/11/03/g-s1-148956/iowa-senate-race-josh-turek",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "On a historic night for democratic socialists, Mamdani says midterms show power of working-class voters",
-      "title_neutral": "On a historic night for democratic socialists, Mamdani says midterms show power of working-class voters",
-      "excerpt": "The New York mayor tells NPR's Juana Summers that newly elected democratic socialists need to seize this moment and show voters what politics can deliver.",
-      "recap_neutral": "The New York mayor tells NPR's Juana Summers that newly elected democratic socialists need to seize this moment and show voters what politics can deliver",
-      "main_idea": "On a historic night for democratic socialists, Mamdani says midterms show power of working-class voters",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Tue, 03 Nov 2026 23:37:44 -0500",
-      "url": "https://www.npr.org/2026/11/03/nx-s1-6028105/on-a-historic-night-for-democratic-socialists-mamdani-says-midterms-show-power-of-working-class-voters",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Democrat David Crowley will be Wisconsin's first Black governor",
-      "title_neutral": "Democrat David Crowley will be Wisconsin's first Black governor",
-      "excerpt": "Democrat David Crowley defeated Republican Congressman Tom Tiffany in a campaign that focused on \"lowering costs for working families\" and bringing more jobs to Wisconsin.",
-      "recap_neutral": "Democrat David Crowley defeated Republican Congressman Tom Tiffany in a campaign that focused on \"lowering costs for working families\" and bringing more jobs to Wisconsin",
-      "main_idea": "Democrat David Crowley will be Wisconsin's first Black governor",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Tue, 03 Nov 2026 23:28:24 -0500",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151235/democrat-david-crowley-will-be-wisconsins-first-black-governor",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Adam Hamilton becomes the first Democratic senator from Kansas in nearly a century",
-      "title_neutral": "Adam Hamilton becomes the first Democratic senator from Kansas in nearly a century",
-      "excerpt": "Democrat Adam Hamilton beat Sen. Roger Marshall, a fierce loyalist to President Trump, per a race call by the Associated Press.",
-      "recap_neutral": "Democrat Adam Hamilton beat Sen",
-      "main_idea": "Adam Hamilton becomes the first Democratic senator from Kansas in nearly a century",
-      "tags": [
-        "politics"
-      ],
-      "source": "NPR",
-      "published_at": "Tue, 03 Nov 2026 23:25:28 -0500",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151587/kansas-senate-race-hamilton-marshall",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Missourians reject ballot proposal that would have re-imposed an abortion ban",
-      "title_neutral": "Missourians reject ballot proposal that would have re-imposed an abortion ban",
-      "excerpt": "Missouri voters defeated a measure that would have banned abortion just two years after voters legalized abortion in another vote. Voters in Missouri legalized abortion two years ago but this time the abortion ban was coupled with a ban on transgender treatment for minors. Opponents said it was mis…",
-      "recap_neutral": "Missouri voters defeated a measure that would have banned abortion just two years after voters legalized abortion in another vote",
-      "main_idea": "Missourians reject ballot proposal that would have re-imposed an abortion ban",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Tue, 03 Nov 2026 23:25:05 -0500",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151063/missouri-abortion-ban-transgender",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "AI Agents Pick the Wrong Tool More Often as You Add Tools, and Research Shows Why",
-      "title_neutral": "AI Agents Pick the Wrong Tool More Often as You Add Tools, and Research Shows Why",
-      "excerpt": "More tools make AI agents pick the wrong one. What papers and vendor benchmarks show about tool selection, and how to keep each agent's list short.",
-      "recap_neutral": "More tools make AI agents pick the wrong one",
-      "main_idea": "AI Agents Pick the Wrong Tool More Often as You Add Tools, and Research Shows Why",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Tue, 03 Nov 2026 22:49:35 GMT",
-      "url": "https://hackernoon.com/ai-agents-pick-the-wrong-tool-more-often-as-you-add-tools-and-research-shows-why?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Spanish transport minister resigns days after deadly train crash",
-      "title_neutral": "Spanish transport minister resigns days after deadly train crash",
-      "excerpt": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "recap_neutral": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid",
-      "main_idea": "Spanish transport minister resigns days after deadly train crash",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Tue, 03 Nov 2026 22:45:59 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Your Context Is the New Moat: Here's Why",
-      "title_neutral": "Your Context Is the New Moat: Here's Why",
-      "excerpt": "When anyone can build software, context becomes the moat. How five plain Markdown files turn store software into a consultant that knows your business.",
-      "recap_neutral": "When anyone can build software, context becomes the moat",
-      "main_idea": "Your Context Is the New Moat: Here's Why",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Tue, 03 Nov 2026 22:26:45 GMT",
-      "url": "https://hackernoon.com/your-context-is-the-new-moat-heres-why?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -824,103 +1328,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Four Relationships, One Second Brain: What You Need to Know",
-      "title_neutral": "Four Relationships, One Second Brain: What You Need to Know",
-      "excerpt": "Self-esteem and metacognition shape four ways of relating to a second brain: an extended self, assistant, painful mirror, or self-deception.",
-      "recap_neutral": "Self-esteem and metacognition shape four ways of relating to a second brain: an extended self, assistant, painful mirror, or self-deception",
-      "main_idea": "Four Relationships, One Second Brain: What You Need to Know",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Tue, 03 Nov 2026 22:02:11 GMT",
-      "url": "https://hackernoon.com/four-relationships-one-second-brain-what-you-need-to-know?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "NTSB says crucial plane parts found three miles from Florida crash site",
-      "title_neutral": "NTSB says crucial plane parts found three miles from Florida crash site",
-      "excerpt": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
-      "recap_neutral": "The NTSB said because the parts were found far from the accident site, they fell off before the crash",
-      "main_idea": "NTSB says crucial plane parts found three miles from Florida crash site",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Tue, 03 Nov 2026 21:53:38 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Internals of PostgreSQL",
-      "title_neutral": "The Internals of PostgreSQL",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The Internals of PostgreSQL",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 03 Nov 2026 21:51:06 +0000",
-      "url": "https://www.interdb.jp/pg/index.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Hindsight-Driven Development: An Iterative Approach to Building Software With AI",
-      "title_neutral": "Hindsight-Driven Development: An Iterative Approach to Building Software With AI",
-      "excerpt": "Spec-driven development asks you to guess before you build. With AI coding agents, build first, fix what you see, and leave the spec for last.",
-      "recap_neutral": "Spec-driven development asks you to guess before you build",
-      "main_idea": "Hindsight-Driven Development: An Iterative Approach to Building Software With AI",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Tue, 03 Nov 2026 21:50:59 GMT",
-      "url": "https://hackernoon.com/hindsight-driven-development-an-iterative-approach-to-building-software-with-ai?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Your Startup's Biggest Security Vulnerability Isn't Your Code — It's You",
-      "title_neutral": "Your Startup's Biggest Security Vulnerability Isn't Your Code — It's You",
-      "excerpt": "Hackers don't break in. They log in. Here's the founder's field manual for not handing them the keys.",
-      "recap_neutral": "Hackers don't break in",
-      "main_idea": "Your Startup's Biggest Security Vulnerability Isn't Your Code — It's You",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Tue, 03 Nov 2026 21:44:15 GMT",
-      "url": "https://hackernoon.com/your-startups-biggest-security-vulnerability-isnt-your-code-its-you?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Safari introduces Adaptive Dark Mode in 27.3",
-      "title_neutral": "Safari introduces Adaptive Dark Mode in 27.3",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Safari introduces Adaptive Dark Mode in 27.3",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 03 Nov 2026 21:39:05 +0000",
-      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Why Trump Often Mentioned Iran in the Midterm Campaign",
       "title_neutral": "Why Trump Often Mentioned Iran in the Midterm Campaign",
       "excerpt": "President Trump has repeatedly reminded Americans of a losing campaign issue just as voters head to the polls. Why?",
@@ -936,71 +1343,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "title_neutral": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 03 Nov 2026 21:20:03 +0000",
-      "url": "https://uncracked.city",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How to Use Message Bus DLQs for Advanced Tail-Based Sampling",
-      "title_neutral": "How to Use Message Bus DLQs for Advanced Tail-Based Sampling",
-      "excerpt": "Discover how to eliminate OpenTelemetry memory bottlenecks by replacing point-to-point collector connections with an Event-Driven Architecture (EDA) design.",
-      "recap_neutral": "Discover how to eliminate OpenTelemetry memory bottlenecks by replacing point-to-point collector connections with an Event-Driven Architecture (EDA) design",
-      "main_idea": "How to Use Message Bus DLQs for Advanced Tail-Based Sampling",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Tue, 03 Nov 2026 21:13:20 GMT",
-      "url": "https://hackernoon.com/how-to-use-message-bus-dlqs-for-advanced-tail-based-sampling?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Building AI Products, Part 1: How To Find AI Use Cases Worth Building in the First Place",
-      "title_neutral": "Building AI Products, Part 1: How To Find AI Use Cases Worth Building in the First Place",
-      "excerpt": "Learn how to evaluate AI use cases, calculate business value, choose between AI and traditional software, and decide when human oversight is essential.",
-      "recap_neutral": "Learn how to evaluate AI use cases, calculate business value, choose between AI and traditional software, and decide when human oversight is essential",
-      "main_idea": "Building AI Products, Part 1: How To Find AI Use Cases Worth Building in the First Place",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Tue, 03 Nov 2026 21:03:42 GMT",
-      "url": "https://hackernoon.com/building-ai-products-part-1-how-to-find-ai-use-cases-worth-building-in-the-first-place?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "129 Blog Posts To Learn About Nintendo",
-      "title_neutral": "129 Blog Posts To Learn About Nintendo",
-      "excerpt": "Learn everything you need to know about Nintendo via these 129 free HackerNoon blog posts.",
-      "recap_neutral": "Learn everything you need to know about Nintendo via these 129 free HackerNoon blog posts",
-      "main_idea": "129 Blog Posts To Learn About Nintendo",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Tue, 03 Nov 2026 21:03:05 GMT",
-      "url": "https://hackernoon.com/129-blog-posts-to-learn-about-nintendo?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1037,155 +1379,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Seven flights across Europe targeted by suspected bomb threats",
-      "title_neutral": "Seven flights across Europe targeted by suspected bomb threats",
-      "excerpt": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-      "recap_neutral": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats",
-      "main_idea": "Seven flights across Europe targeted by suspected bomb threats",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Tue, 03 Nov 2026 20:42:47 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "An Architecture for AI Sovereignty Across Models and Compute Providers",
-      "title_neutral": "An Architecture for AI Sovereignty Across Models and Compute Providers",
-      "excerpt": "Explore AI supply-chain risks and a practical architecture for model portability, secure data governance, and measurable vendor independence.",
-      "recap_neutral": "Explore AI supply-chain risks and a practical architecture for model portability, secure data governance, and measurable vendor independence",
-      "main_idea": "An Architecture for AI Sovereignty Across Models and Compute Providers",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Tue, 03 Nov 2026 20:39:10 GMT",
-      "url": "https://hackernoon.com/an-architecture-for-ai-sovereignty-across-models-and-compute-providers?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The CFO Who Learned to Code by Shipping: How I Use Hackathons to Keep Up With AI Tools",
-      "title_neutral": "The CFO Who Learned to Code by Shipping: How I Use Hackathons to Keep Up With AI Tools",
-      "excerpt": "A finance executive turned builder on using AI tools and 35+ hackathons as a forced curriculum to learn the tech stack.",
-      "recap_neutral": "A finance executive turned builder on using AI tools and 35+ hackathons as a forced curriculum to learn the tech stack",
-      "main_idea": "The CFO Who Learned to Code by Shipping: How I Use Hackathons to Keep Up With AI Tools",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Tue, 03 Nov 2026 20:15:00 GMT",
-      "url": "https://hackernoon.com/the-cfo-who-learned-to-code-by-shipping-how-i-use-hackathons-to-keep-up-with-ai-tools?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Why LLMs Struggle With Constraint-Based Scheduling and How Optimization Solvers Help",
-      "title_neutral": "Why LLMs Struggle With Constraint-Based Scheduling and How Optimization Solvers Help",
-      "excerpt": "Why LLMs can understand scheduling rules yet produce invalid schedules, and how deterministic solvers and independent checks make them reliable.",
-      "recap_neutral": "Why LLMs can understand scheduling rules yet produce invalid schedules, and how deterministic solvers and independent checks make them reliable",
-      "main_idea": "Why LLMs Struggle With Constraint-Based Scheduling and How Optimization Solvers Help",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Tue, 03 Nov 2026 20:02:57 GMT",
-      "url": "https://hackernoon.com/why-llms-struggle-with-constraint-based-scheduling-and-how-optimization-solvers-help?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "AI Doom or AI Bubble? What to Actually Expect from AI in the Next Two Years",
-      "title_neutral": "AI Doom or AI Bubble? What to Actually Expect from AI in the Next Two Years",
-      "excerpt": "AI doom or AI bubble? Denis Stebunov explains what to expect from AI in the next two years: steady progress, cybersecurity risks, and changes to work.",
-      "recap_neutral": "AI doom or AI bubble? Denis Stebunov explains what to expect from AI in the next two years: steady progress, cybersecurity risks, and changes to work",
-      "main_idea": "AI Doom or AI Bubble? What to Actually Expect from AI in the Next Two Years",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Tue, 03 Nov 2026 19:46:11 GMT",
-      "url": "https://hackernoon.com/ai-doom-or-ai-bubble-what-to-actually-expect-from-ai-in-the-next-two-years?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Australian Court Hears Challenge to Social Media Ban",
-      "title_neutral": "Australian Court Hears Challenge to Social Media Ban",
-      "excerpt": "Reddit and an Australian digital advocacy group are claiming a law that restricts children younger than 16 from popular platforms infringes on their constitutional rights.",
-      "recap_neutral": "Reddit and an Australian digital advocacy group are claiming a law that restricts children younger than 16 from popular platforms infringes on their constitutional rights",
-      "main_idea": "Australian Court Hears Challenge to Social Media Ban",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 03 Nov 2026 19:18:57 +0000",
-      "url": "https://www.nytimes.com/2026/11/03/world/asia/australia-social-media-ban-high-court.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Try Excelize, Our Open-source Library for Spreadsheet (Excel) Documents",
-      "title_neutral": "Try Excelize, Our Open-source Library for Spreadsheet (Excel) Documents",
-      "excerpt": "Excelize v2.11.1 released! Includes over 30 updates including new features, bug fixes, security, compatibility, and performance improvements.",
-      "recap_neutral": "Excelize v2",
-      "main_idea": "Try Excelize, Our Open-source Library for Spreadsheet (Excel) Documents",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Tue, 03 Nov 2026 19:15:36 GMT",
-      "url": "https://hackernoon.com/try-excelize-our-open-source-library-for-spreadsheet-excel-documents?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Artificial Limitation: The Illusion of Intelligence",
-      "title_neutral": "Artificial Limitation: The Illusion of Intelligence",
-      "excerpt": "Today’s AI can imitate intelligence remarkably well, but it doesn’t learn or reason like humans do. That’s why I call it Artificial Imitation.",
-      "recap_neutral": "Today’s AI can imitate intelligence remarkably well, but it doesn’t learn or reason like humans do",
-      "main_idea": "Artificial Limitation: The Illusion of Intelligence",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Tue, 03 Nov 2026 19:07:59 GMT",
-      "url": "https://hackernoon.com/artificial-limitation-the-illusion-of-intelligence?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Not Every Inventory Item Needs to Be a UObject",
-      "title_neutral": "Not Every Inventory Item Needs to Be a UObject",
-      "excerpt": "A hybrid Unreal Engine inventory design that keeps common item state in entries and creates UObjects only when items need custom behavior or state.",
-      "recap_neutral": "A hybrid Unreal Engine inventory design that keeps common item state in entries and creates UObjects only when items need custom behavior or state",
-      "main_idea": "Not Every Inventory Item Needs to Be a UObject",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Tue, 03 Nov 2026 19:00:35 GMT",
-      "url": "https://hackernoon.com/not-every-inventory-item-needs-to-be-a-uobject?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Poland Beefs Up Security at Border With Russia",
       "title_neutral": "Poland Beefs Up Security at Border With Russia",
       "excerpt": "Prime Minister Donald Tusk said there had been “disturbing movement” in Kaliningrad, a Russian region just north of Poland.",
@@ -1203,38 +1396,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "title_neutral": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 03 Nov 2026 17:40:00 +0000",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "title_neutral": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Tue, 03 Nov 2026 17:22:37 +0000",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Stringman, an $800 open-source room scale gripper robot",
       "title_neutral": "Stringman, an $800 open-source room scale gripper robot",
       "excerpt": "Comments",
@@ -1247,38 +1408,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Bomb Threats Disrupt Several Flights Across Europe",
-      "title_neutral": "Bomb Threats Disrupt Several Flights Across Europe",
-      "excerpt": "Officials are investigating threats against at least seven planes. The aircraft landed safely and no explosives were found, the authorities said.",
-      "recap_neutral": "Officials are investigating threats against at least seven planes",
-      "main_idea": "Bomb Threats Disrupt Several Flights Across Europe",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 03 Nov 2026 16:22:42 +0000",
-      "url": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "title_neutral": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "excerpt": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-      "recap_neutral": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says",
-      "main_idea": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Tue, 03 Nov 2026 16:19:29 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -1315,23 +1444,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Celebrating Day of the Dead, High in Mexico’s Mountains",
-      "title_neutral": "Celebrating Day of the Dead, High in Mexico’s Mountains",
-      "excerpt": "Over the course of 10 days in a remote Mexican town, dances and processions summon souls in the belief that the dead are never truly gone.",
-      "recap_neutral": "Over the course of 10 days in a remote Mexican town, dances and processions summon souls in the belief that the dead are never truly gone",
-      "main_idea": "Celebrating Day of the Dead, High in Mexico’s Mountains",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 03 Nov 2026 10:03:31 +0000",
-      "url": "https://www.nytimes.com/2026/11/03/world/americas/mexico-day-of-the-dead-metlatonoc.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Drones Emerge as the Top Killer of Civilians in Sudan’s War",
       "title_neutral": "Drones Emerge as the Top Killer of Civilians in Sudan’s War",
       "excerpt": "The weapons have become the No. 1 killer of civilians this year, according to the United Nations, devastating a population already overwhelmed by famine and drought.",
@@ -1346,21 +1458,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-      "title_neutral": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 03 Nov 2026 01:18:09 +0000",
-      "url": "https://hackertv.org",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1434,24 +1531,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
-      "title_neutral": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
-      "excerpt": "The strike in the Zaporizhzhia region came a day after a brief humanitarian truce ended in neighboring Kherson.",
-      "recap_neutral": "The strike in the Zaporizhzhia region came a day after a brief humanitarian truce ended in neighboring Kherson",
-      "main_idea": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 02 Nov 2026 20:50:14 +0000",
-      "url": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
       "title_neutral": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
       "excerpt": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body It could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red blood cells, and trac…",
@@ -1467,41 +1546,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Russia Senses Opportunity in Polish Political Turmoil",
-      "title_neutral": "Russia Senses Opportunity in Polish Political Turmoil",
-      "excerpt": "After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.",
-      "recap_neutral": "After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine",
-      "main_idea": "Russia Senses Opportunity in Polish Political Turmoil",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 02 Nov 2026 19:05:52 +0000",
-      "url": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Why Orban and Vucic Broke With Trump on Election Denial",
-      "title_neutral": "Why Orban and Vucic Broke With Trump on Election Denial",
-      "excerpt": "Rejecting President Trump’s election denial playbook, nationalist leaders in Serbia and Hungary opted for an orderly retreat.",
-      "recap_neutral": "Rejecting President Trump’s election denial playbook, nationalist leaders in Serbia and Hungary opted for an orderly retreat",
-      "main_idea": "Why Orban and Vucic Broke With Trump on Election Denial",
-      "tags": [
-        "politics"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 02 Nov 2026 16:48:13 +0000",
-      "url": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Jailbreaking my car's navigation system just so I can change the time",
       "title_neutral": "Jailbreaking my car's navigation system just so I can change the time",
       "excerpt": "Comments",
@@ -1513,38 +1557,6 @@
       "source": "Hacker News",
       "published_at": "Mon, 02 Nov 2026 16:29:19 +0000",
       "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "title_neutral": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Mon, 02 Nov 2026 14:02:42 +0000",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-      "title_neutral": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Mon, 02 Nov 2026 04:31:20 +0000",
-      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
