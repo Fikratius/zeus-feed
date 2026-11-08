@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-08T18:37:20.695209+00:00",
+  "last_updated": "2026-11-08T22:37:49.383224+00:00",
   "items": [
+    {
+      "title_original": "Edward Hopper's Iconic Painting, \"Nighthawks",
+      "title_neutral": "Edward Hopper's Iconic Painting, \"Nighthawks",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Edward Hopper's Iconic Painting, \"Nighthawks",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Wed, 04 Nov 2026 23:23:08 +0000",
+      "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
     {
       "title_original": "British healthcare worker with Ebola evacuated from DR Congo to UK",
       "title_neutral": "British healthcare worker with Ebola evacuated from DR Congo to UK",
@@ -19,30 +37,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Clj.rs – a Clojure dialect implemented in Rust",
-      "title_neutral": "Clj.rs – a Clojure dialect implemented in Rust",
+      "title_original": "Declarative Dragging",
+      "title_neutral": "Declarative Dragging",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Clj.rs – a Clojure dialect implemented in Rust",
+      "main_idea": "Declarative Dragging",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Wed, 04 Nov 2026 15:23:16 +0000",
-      "url": "https://clj.rs/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Porting Android 16 to my blind mother's keypad phone",
-      "title_neutral": "Porting Android 16 to my blind mother's keypad phone",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Porting Android 16 to my blind mother's keypad phone",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Wed, 04 Nov 2026 15:18:59 +0000",
-      "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+      "published_at": "Wed, 04 Nov 2026 17:05:07 +0000",
+      "url": "https://declarative-dragging.github.io/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -64,272 +67,211 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
-      "title_neutral": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
-      "excerpt": "Philippine official says there are ‘signs that point to Thomas Markle Jr’s involvement in crime’, but he’s not yet being treated as a suspect The Duchess of Sussex’s estranged half-brother, Thomas Markle Jr, has been named as a “person of interest” in the Philippine authorities’ inquiry into child…",
-      "recap_neutral": "Philippine official says there are ‘signs that point to Thomas Markle Jr’s involvement in crime’, but he’s not yet being treated as a suspect The Duchess of Sussex’s estranged half-brother, Thomas Markle Jr, has been na…",
-      "main_idea": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
-      "tags": [],
-      "source": "The Guardian",
-      "published_at": "Thu, 05 Nov 2026 17:37:27 GMT",
-      "url": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "На Ставрополье в ДТП пострадали четыре человека",
-      "title_neutral": "На Ставрополье в ДТП пострадали четыре человека",
-      "excerpt": "За рулем одного из автомобилей находился 70-летний мужчина",
-      "recap_neutral": "За рулем одного из автомобилей находился 70-летний мужчина",
-      "main_idea": "На Ставрополье в ДТП пострадали четыре человека",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Nov 2026 21:20:59 +0300",
-      "url": "https://tass.ru/proisshestviya/28296607",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Посол РФ заявил, что Армении придется выбрать между ЕС и ЕАЭС",
-      "title_neutral": "Посол РФ заявил, что Армении придется выбрать между ЕС и ЕАЭС",
-      "excerpt": "Сергей Копыркин уверен, что в интересах Еревана сделать выбор в пользу Евразийского экономического союза",
-      "recap_neutral": "Сергей Копыркин уверен, что в интересах Еревана сделать выбор в пользу Евразийского экономического союза",
-      "main_idea": "Посол РФ заявил, что Армении придется выбрать между ЕС и ЕАЭС",
-      "tags": [
-        "politics",
-        "economy",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Nov 2026 21:19:24 +0300",
-      "url": "https://tass.ru/politika/28296609",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Хоккеист \"Бостона\" Задоров подрался после стартового вбрасывания матча НХЛ",
-      "title_neutral": "Хоккеист \"Бостона\" Задоров подрался после стартового вбрасывания матча НХЛ",
-      "excerpt": "Российский защитник и нападающий \"Флориды\" Брэди Ткачук получили по пять минут штрафа",
-      "recap_neutral": "Российский защитник и нападающий \"Флориды\" Брэди Ткачук получили по пять минут штрафа",
-      "main_idea": "Хоккеист \"Бостона\" Задоров подрался после стартового вбрасывания матча НХЛ",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Nov 2026 21:18:49 +0300",
-      "url": "https://tass.ru/sport/28296611",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Лидер демократов не хочет сотрудничать с новым главой аппарата Белого дома",
-      "title_neutral": "Лидер демократов не хочет сотрудничать с новым главой аппарата Белого дома",
-      "excerpt": "Хаким Джеффрис назвал \"безответственным решением\" назначение Стивена Миллера на эту должность",
-      "recap_neutral": "Хаким Джеффрис назвал \"безответственным решением\" назначение Стивена Миллера на эту должность",
-      "main_idea": "Лидер демократов не хочет сотрудничать с новым главой аппарата Белого дома",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Nov 2026 21:16:37 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28296605",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Псковской области число школьников на профпробах выросло в 1,5 раза",
-      "title_neutral": "В Псковской области число школьников на профпробах выросло в 1,5 раза",
-      "excerpt": "В качестве площадок были определены 10 ведущих учреждений среднего профессионального образования",
-      "recap_neutral": "В качестве площадок были определены 10 ведущих учреждений среднего профессионального образования",
-      "main_idea": "В Псковской области число школьников на профпробах выросло в 1,5 раза",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Nov 2026 21:16:16 +0300",
-      "url": "https://tass.ru/obschestvo/28296553",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Посол РФ отметил необходимость поиска \"нового баланса\" в отношениях с Арменией",
-      "title_neutral": "Посол РФ отметил необходимость поиска \"нового баланса\" в отношениях с Арменией",
-      "excerpt": "Важно, чтобы с обеих сторон сохранялась политическая воля к сохранению связей, считает Сергей Копыркин",
-      "recap_neutral": "Важно, чтобы с обеих сторон сохранялась политическая воля к сохранению связей, считает Сергей Копыркин",
-      "main_idea": "Посол РФ отметил необходимость поиска \"нового баланса\" в отношениях с Арменией",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Nov 2026 21:15:25 +0300",
-      "url": "https://tass.ru/politika/28296603",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "RMF FM: совершивший теракт в Кракове мужчина состоял в стрелковом клубе",
-      "title_neutral": "RMF FM: совершивший теракт в Кракове мужчина состоял в стрелковом клубе",
-      "excerpt": "По словам представителей администрации клуба, подозреваемый не проходил у них обучение стрельбе",
-      "recap_neutral": "По словам представителей администрации клуба, подозреваемый не проходил у них обучение стрельбе",
-      "main_idea": "RMF FM: совершивший теракт в Кракове мужчина состоял в стрелковом клубе",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Nov 2026 21:11:12 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28296601",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Сумах произошли взрывы",
-      "title_neutral": "В Сумах произошли взрывы",
-      "excerpt": "В регионе объявлена воздушная тревога",
-      "recap_neutral": "В регионе объявлена воздушная тревога",
-      "main_idea": "В Сумах произошли взрывы",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Nov 2026 21:06:22 +0300",
-      "url": "https://tass.ru/proisshestviya/28296599",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Черкассах произошел взрыв",
-      "title_neutral": "В Черкассах произошел взрыв",
-      "excerpt": "В Черкасской области действует воздушная тревога",
-      "recap_neutral": "В Черкасской области действует воздушная тревога",
-      "main_idea": "В Черкассах произошел взрыв",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Nov 2026 21:05:26 +0300",
-      "url": "https://tass.ru/proisshestviya/28296597",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "RTE: в Дублине при наезде авто на группу подростков пострадали восемь человек",
-      "title_neutral": "RTE: в Дублине при наезде авто на группу подростков пострадали восемь человек",
-      "excerpt": "По неповрежденной информации, водитель могла почувствовать себя плохо во время движения",
-      "recap_neutral": "По неповрежденной информации, водитель могла почувствовать себя плохо во время движения",
-      "main_idea": "RTE: в Дублине при наезде авто на группу подростков пострадали восемь человек",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Nov 2026 21:03:48 +0300",
-      "url": "https://tass.ru/proisshestviya/28296593",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Тхэквондистка Тхамокова стала серебряным призером юношеской Олимпиады",
-      "title_neutral": "Тхэквондистка Тхамокова стала серебряным призером юношеской Олимпиады",
-      "excerpt": "На счету россиян теперь шесть золотых и пять серебряных медалей",
-      "recap_neutral": "На счету россиян теперь шесть золотых и пять серебряных медалей",
-      "main_idea": "Тхэквондистка Тхамокова стала серебряным призером юношеской Олимпиады",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Nov 2026 21:02:43 +0300",
-      "url": "https://tass.ru/sport/28296595",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Трамп считает, что Иран сохранил 10% мощностей по производству ракет",
-      "title_neutral": "Трамп считает, что Иран сохранил 10% мощностей по производству ракет",
-      "excerpt": "Производственные мощности республики по созданию БПЛА составляют около 15%, считает американский лидер",
-      "recap_neutral": "Производственные мощности республики по созданию БПЛА составляют около 15%, считает американский лидер",
-      "main_idea": "Трамп считает, что Иран сохранил 10% мощностей по производству ракет",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Nov 2026 21:00:50 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28296591",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Трамп определил цели в Иране на случай возобновления боев",
-      "title_neutral": "Трамп определил цели в Иране на случай возобновления боев",
-      "excerpt": "США готовы к новым ударам, но не хотят этого, подчеркнул американский лидер",
-      "recap_neutral": "США готовы к новым ударам, но не хотят этого, подчеркнул американский лидер",
-      "main_idea": "Трамп определил цели в Иране на случай возобновления боев",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Nov 2026 20:55:12 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28296589",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Трамп считает маловероятным возвращение к масштабным боям с Ираном",
-      "title_neutral": "Трамп считает маловероятным возвращение к масштабным боям с Ираном",
-      "excerpt": "Американский лидер заявил, что это решение будет зависеть от того, подпишут ли страны соглашение",
-      "recap_neutral": "Американский лидер заявил, что это решение будет зависеть от того, подпишут ли страны соглашение",
-      "main_idea": "Трамп считает маловероятным возвращение к масштабным боям с Ираном",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Nov 2026 20:52:58 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28296587",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Футболист \"Монако\" Головин получил травму в матче чемпионата Франции",
-      "title_neutral": "Футболист \"Монако\" Головин получил травму в матче чемпионата Франции",
-      "excerpt": "Полузащитник ранее был вызван на товарищеские матчи с командами Узбекистана и Венесуэлы",
-      "recap_neutral": "Полузащитник ранее был вызван на товарищеские матчи с командами Узбекистана и Венесуэлы",
-      "main_idea": "Футболист \"Монако\" Головин получил травму в матче чемпионата Франции",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 08 Nov 2026 20:49:38 +0300",
-      "url": "https://tass.ru/sport/28296585",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "More Than 3,000 Tarantulas Found in Smugglers’ Socks at Peru Airport",
-      "title_neutral": "More Than 3,000 Tarantulas Found in Smugglers’ Socks at Peru Airport",
-      "excerpt": "The National Forest and Wildlife Service of Peru said three people had tried to smuggle the tarantulas, which included a threatened species, into Germany.",
-      "recap_neutral": "The National Forest and Wildlife Service of Peru said three people had tried to smuggle the tarantulas, which included a threatened species, into Germany",
-      "main_idea": "More Than 3,000 Tarantulas Found in Smugglers’ Socks at Peru Airport",
+      "title_original": "Trains Collide Near Cairo, Killing 4",
+      "title_neutral": "Trains Collide Near Cairo, Killing 4",
+      "excerpt": "The crash between two passenger trains was the latest in a history of deadly rail accidents in Egypt, despite billions spent modernizing the network.",
+      "recap_neutral": "The crash between two passenger trains was the latest in a history of deadly rail accidents in Egypt, despite billions spent modernizing the network",
+      "main_idea": "Trains Collide Near Cairo, Killing 4",
       "tags": [
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Sun, 08 Nov 2026 18:33:15 +0000",
-      "url": "https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html",
+      "published_at": "Sun, 08 Nov 2026 21:59:09 +0000",
+      "url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+      "title_neutral": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+      "excerpt": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition.",
+      "recap_neutral": "Mr",
+      "main_idea": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sun, 08 Nov 2026 21:48:21 +0000",
+      "url": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+      "title_neutral": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+      "excerpt": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price.",
+      "recap_neutral": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price",
+      "main_idea": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+      "tags": [
+        "politics",
+        "conflict"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Sun, 08 Nov 2026 21:45:25 +0000",
+      "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
+      "title_neutral": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
+      "excerpt": "Officials say that a 24-year-old killed his family and then six people during a rampage in Krakow. Now they are trying to determine the motive.",
+      "recap_neutral": "Officials say that a 24-year-old killed his family and then six people during a rampage in Krakow",
+      "main_idea": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Sun, 08 Nov 2026 21:43:22 +0000",
+      "url": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ask HN: What are you working on? (November 2026)",
+      "title_neutral": "Ask HN: What are you working on? (November 2026)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Ask HN: What are you working on? (November 2026)",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 08 Nov 2026 21:20:20 +0000",
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+      "title_neutral": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+      "excerpt": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”. The Rep…",
+      "recap_neutral": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and…",
+      "main_idea": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+      "tags": [
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Sun, 08 Nov 2026 21:00:58 GMT",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+      "lang": "en",
+      "bias_score": 54,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "title_neutral": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 08 Nov 2026 20:26:43 +0000",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "title_neutral": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "excerpt": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "recap_neutral": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza",
+      "main_idea": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sun, 08 Nov 2026 19:58:02 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Web Is More Than Enough, by Paul Ford",
+      "title_neutral": "The Web Is More Than Enough, by Paul Ford",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "The Web Is More Than Enough, by Paul Ford",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 08 Nov 2026 19:48:32 +0000",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How I Fight AI Brain Fry",
+      "title_neutral": "How I Fight AI Brain Fry",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "How I Fight AI Brain Fry",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 08 Nov 2026 19:37:42 +0000",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "title_neutral": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Sun, 08 Nov 2026 19:20:32 +0000",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "title_neutral": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 08 Nov 2026 19:08:51 +0000",
+      "url": "https://duxlabs.dev/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Playing with the STM32MP2",
+      "title_neutral": "Playing with the STM32MP2",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Playing with the STM32MP2",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sun, 08 Nov 2026 19:04:07 +0000",
+      "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -367,11 +309,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-      "title_neutral": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "title_original": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "title_neutral": "Goldman Sachs is pulling Claude Code from its bankers and traders",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "main_idea": "Goldman Sachs is pulling Claude Code from its bankers and traders",
       "tags": [
         "economy"
       ],
@@ -402,38 +344,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
-      "title_neutral": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
-      "excerpt": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition.",
-      "recap_neutral": "Mr",
-      "main_idea": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Sun, 08 Nov 2026 17:46:14 +0000",
-      "url": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "title_neutral": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "excerpt": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-      "recap_neutral": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza",
-      "main_idea": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Sun, 08 Nov 2026 17:35:13 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
       "title_neutral": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
       "excerpt": "Gadi Eisenkot, the leading rival of Prime Minister Benjamin Netanyahu, now has a chance to form Israel’s governing coalition. Here are three routes he could try.",
@@ -449,23 +359,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trains Collide Near Cairo, Killing 4",
-      "title_neutral": "Trains Collide Near Cairo, Killing 4",
-      "excerpt": "The crash between two passenger trains was the latest in a long history of deadly rail accidents in Egypt, despite billions of dollars spent modernizing the network.",
-      "recap_neutral": "The crash between two passenger trains was the latest in a long history of deadly rail accidents in Egypt, despite billions of dollars spent modernizing the network",
-      "main_idea": "Trains Collide Near Cairo, Killing 4",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sun, 08 Nov 2026 17:17:25 +0000",
-      "url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "A Little Snitch for Windows",
       "title_neutral": "A Little Snitch for Windows",
       "excerpt": "Comments",
@@ -475,21 +368,6 @@
       "source": "Hacker News",
       "published_at": "Sun, 08 Nov 2026 17:16:07 +0000",
       "url": "https://packethound.app/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A field guide to CAPTCHA types and how they break",
-      "title_neutral": "A field guide to CAPTCHA types and how they break",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "A field guide to CAPTCHA types and how they break",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 08 Nov 2026 17:09:55 +0000",
-      "url": "https://github.com/vsmutok/FuckCaptcha",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -689,6 +567,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+      "title_neutral": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+      "excerpt": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
+      "recap_neutral": "France says European officials will attend this week's U",
+      "main_idea": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Sun, 08 Nov 2026 14:25:30 -0500",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "When Did a Token Stop Being a Coin? Meet Deduplication 🔍",
       "title_neutral": "When Did a Token Stop Being a Coin? Meet Deduplication 🔍",
       "excerpt": "Discover how technology is changing language with Deduplication.tech. Explore 719 duplicated terms across 14 fields, ranked using live Wikipedia pageviews.",
@@ -770,21 +665,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How to prove equations using diagrams, part 1",
-      "title_neutral": "How to prove equations using diagrams, part 1",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "How to prove equations using diagrams, part 1",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 08 Nov 2026 12:51:38 +0000",
-      "url": "https://www.epatters.org/post/e-graphs-1/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -871,21 +751,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "JIT bitmap text rendering for microcontrollers",
-      "title_neutral": "JIT bitmap text rendering for microcontrollers",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "JIT bitmap text rendering for microcontrollers",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 08 Nov 2026 10:42:15 +0000",
-      "url": "https://linebender.org/blog/jit-bitmap-text/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Writing as a thinking tool",
       "title_neutral": "Writing as a thinking tool",
       "excerpt": "Comments",
@@ -946,6 +811,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "SS United States, a historic ship will be sunk to create an artificial reef",
+      "title_neutral": "SS United States, a historic ship will be sunk to create an artificial reef",
+      "excerpt": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
+      "recap_neutral": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage",
+      "main_idea": "SS United States, a historic ship will be sunk to create an artificial reef",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sun, 08 Nov 2026 08:34:34 -0500",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1015,23 +895,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
-      "title_neutral": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
-      "excerpt": "El Niño rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth.",
-      "recap_neutral": "El Niño rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth",
-      "main_idea": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sun, 08 Nov 2026 06:00:00 -0500",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "One air ambulance service rethinks what it takes to practice medicine in the sky",
       "title_neutral": "One air ambulance service rethinks what it takes to practice medicine in the sky",
       "excerpt": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
@@ -1044,6 +907,23 @@
       "source": "NPR",
       "published_at": "Sun, 08 Nov 2026 06:00:00 -0500",
       "url": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
+      "title_neutral": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
+      "excerpt": "El Niño rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth.",
+      "recap_neutral": "El Niño rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth",
+      "main_idea": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
+      "tags": [
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Sun, 08 Nov 2026 06:00:00 -0500",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1138,21 +1018,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Goodbye Claude, hello Pi",
-      "title_neutral": "Goodbye Claude, hello Pi",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Goodbye Claude, hello Pi",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 08 Nov 2026 03:11:48 +0000",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
       "title_neutral": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
       "excerpt": "Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minority The deportation of two more Uyghurs to China from Thailand would put their lives in grave danger, activists have said, with one of the men saying…",
@@ -1224,23 +1089,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "title_neutral": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Sat, 07 Nov 2026 20:45:32 +0000",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Prosecutors Charge Paraguay’s Former President With Corruption",
       "title_neutral": "Prosecutors Charge Paraguay’s Former President With Corruption",
       "excerpt": "Santiago Peña was impeached, removed from office, placed under house arrest and charged with using his office to enrich himself after a bank with close ties to his administration went under.",
@@ -1256,23 +1104,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
-      "title_neutral": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
-      "excerpt": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop.",
-      "recap_neutral": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000",
-      "main_idea": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 07 Nov 2026 19:19:52 -0500",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1330,36 +1161,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "What I run on my $10 USD OpenStick homelab",
-      "title_neutral": "What I run on my $10 USD OpenStick homelab",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "What I run on my $10 USD OpenStick homelab",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 07 Nov 2026 18:12:12 +0000",
-      "url": "https://blog.bosscher.ch/posts/openstick/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The surprising and often forgotten history of economic populism in Texas",
-      "title_neutral": "The surprising and often forgotten history of economic populism in Texas",
-      "excerpt": "NPR's Rob Schmitz speaks with Austin-based political commentator David Griscom. He authored a book titled The Myth of Red Texas which tells the story of economic populism in Texas.",
-      "recap_neutral": "NPR's Rob Schmitz speaks with Austin-based political commentator David Griscom",
-      "main_idea": "The surprising and often forgotten history of economic populism in Texas",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Sat, 07 Nov 2026 17:12:07 -0500",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Italian foreign minister says hackers leaked his personal data",
       "title_neutral": "Italian foreign minister says hackers leaked his personal data",
       "excerpt": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
@@ -1374,24 +1175,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
-      "title_neutral": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
-      "excerpt": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price.",
-      "recap_neutral": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price",
-      "main_idea": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
-      "tags": [
-        "politics",
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Sat, 07 Nov 2026 16:39:31 +0000",
-      "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1513,6 +1296,243 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Аэропорт Внуково обслуживает рейсы по согласованию",
+      "title_neutral": "Аэропорт Внуково обслуживает рейсы по согласованию",
+      "excerpt": "",
+      "recap_neutral": "Аэропорт Внуково обслуживает рейсы по согласованию",
+      "main_idea": "Аэропорт Внуково обслуживает рейсы по согласованию",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Nov 2026 01:35:04 +0300",
+      "url": "https://tass.ru/ekonomika/28296759",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Эпидемиолог Шахмарданов рассказал, как туристам защититься от лихорадки Зика",
+      "title_neutral": "Эпидемиолог Шахмарданов рассказал, как туристам защититься от лихорадки Зика",
+      "excerpt": "",
+      "recap_neutral": "Эпидемиолог Шахмарданов рассказал, как туристам защититься от лихорадки Зика",
+      "main_idea": "Эпидемиолог Шахмарданов рассказал, как туристам защититься от лихорадки Зика",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Nov 2026 01:33:43 +0300",
+      "url": "https://tass.ru/obschestvo/28296757",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Режим временного ограничения электроснабжения в Севастополе снят",
+      "title_neutral": "Режим временного ограничения электроснабжения в Севастополе снят",
+      "excerpt": "",
+      "recap_neutral": "Режим временного ограничения электроснабжения в Севастополе снят",
+      "main_idea": "Режим временного ограничения электроснабжения в Севастополе снят",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Nov 2026 01:25:37 +0300",
+      "url": "https://tass.ru/obschestvo/28296751",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Рубио заявил, что США и Иран не близки к прорыву в урегулировании",
+      "title_neutral": "Рубио заявил, что США и Иран не близки к прорыву в урегулировании",
+      "excerpt": "",
+      "recap_neutral": "Рубио заявил, что США и Иран не близки к прорыву в урегулировании",
+      "main_idea": "Рубио заявил, что США и Иран не близки к прорыву в урегулировании",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Nov 2026 01:24:56 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28296755",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Рубио заявил, что США предпочитают урегулировать ситуацию с Ираном дипломатически",
+      "title_neutral": "Рубио заявил, что США предпочитают урегулировать ситуацию с Ираном дипломатически",
+      "excerpt": "",
+      "recap_neutral": "Рубио заявил, что США предпочитают урегулировать ситуацию с Ираном дипломатически",
+      "main_idea": "Рубио заявил, что США предпочитают урегулировать ситуацию с Ираном дипломатически",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Nov 2026 01:21:13 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28296753",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Рубио назвал неприемлемыми требования Ирана по урегулированию",
+      "title_neutral": "Рубио назвал неприемлемыми требования Ирана по урегулированию",
+      "excerpt": "",
+      "recap_neutral": "Рубио назвал неприемлемыми требования Ирана по урегулированию",
+      "main_idea": "Рубио назвал неприемлемыми требования Ирана по урегулированию",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Nov 2026 01:18:39 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28296749",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Рубио назвал одну из ключевых тем на переговорах в Абу-Даби",
+      "title_neutral": "Рубио назвал одну из ключевых тем на переговорах в Абу-Даби",
+      "excerpt": "Ей станут гарантии безопасности, сообщил американский госсекретарь",
+      "recap_neutral": "Ей станут гарантии безопасности, сообщил американский госсекретарь",
+      "main_idea": "Рубио назвал одну из ключевых тем на переговорах в Абу-Даби",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Nov 2026 01:16:36 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28296747",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Рубио надеется на прогресс в урегулировании на переговорах в Абу-Даби",
+      "title_neutral": "Рубио надеется на прогресс в урегулировании на переговорах в Абу-Даби",
+      "excerpt": "",
+      "recap_neutral": "Рубио надеется на прогресс в урегулировании на переговорах в Абу-Даби",
+      "main_idea": "Рубио надеется на прогресс в урегулировании на переговорах в Абу-Даби",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Nov 2026 01:14:39 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28296745",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Стало известно, когда будет последняя короткая рабочая неделя в 2026 году",
+      "title_neutral": "Стало известно, когда будет последняя короткая рабочая неделя в 2026 году",
+      "excerpt": "Она продлится с 28 по 30 декабря",
+      "recap_neutral": "Она продлится с 28 по 30 декабря",
+      "main_idea": "Стало известно, когда будет последняя короткая рабочая неделя в 2026 году",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Nov 2026 01:12:36 +0300",
+      "url": "https://tass.ru/obschestvo/28296743",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В Кривом Роге начались проблемы с электричеством",
+      "title_neutral": "В Кривом Роге начались проблемы с электричеством",
+      "excerpt": "Во многих районах города полностью отсутствует свет, сообщило агентство УНИАН",
+      "recap_neutral": "Во многих районах города полностью отсутствует свет, сообщило агентство УНИАН",
+      "main_idea": "В Кривом Роге начались проблемы с электричеством",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Nov 2026 01:08:30 +0300",
+      "url": "https://tass.ru/proisshestviya/28296741",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "\"Барселона\" обыграла \"Атлетико\" и вернулась в единоличные лидеры чемпионата Испании",
+      "title_neutral": "\"Барселона\" обыграла \"Атлетико\" и вернулась в единоличные лидеры чемпионата Испании",
+      "excerpt": "Встреча в Мадриде завершилась со счетом 2:1 в пользу гостей",
+      "recap_neutral": "Встреча в Мадриде завершилась со счетом 2:1 в пользу гостей",
+      "main_idea": "\"Барселона\" обыграла \"Атлетико\" и вернулась в единоличные лидеры чемпионата Испании",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Nov 2026 00:56:58 +0300",
+      "url": "https://tass.ru/sport/28296739",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "На Камчатке с 2027 года введут новую меру поддержки для семей с детьми с ОВЗ",
+      "title_neutral": "На Камчатке с 2027 года введут новую меру поддержки для семей с детьми с ОВЗ",
+      "excerpt": "Для них начнет действовать освобождение от уплаты налога на один автомобиль",
+      "recap_neutral": "Для них начнет действовать освобождение от уплаты налога на один автомобиль",
+      "main_idea": "На Камчатке с 2027 года введут новую меру поддержки для семей с детьми с ОВЗ",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Nov 2026 00:55:10 +0300",
+      "url": "https://tass.ru/obschestvo/28296737",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Подполье заявило о коллапсе в инфраструктуре Киева из-за блэкаута",
+      "title_neutral": "Подполье заявило о коллапсе в инфраструктуре Киева из-за блэкаута",
+      "excerpt": "Во многих районах города нет света, воды и тепла",
+      "recap_neutral": "Во многих районах города нет света, воды и тепла",
+      "main_idea": "Подполье заявило о коллапсе в инфраструктуре Киева из-за блэкаута",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Nov 2026 00:50:59 +0300",
+      "url": "https://tass.ru/ekonomika/28296735",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп признал, что его политика депортации мигрантов была слишком жесткой",
+      "title_neutral": "Трамп признал, что его политика депортации мигрантов была слишком жесткой",
+      "excerpt": "По данным Института миграционной политики, за первые 18 месяцев второго срока американского лидера из Соединенных Штатов депортировали около 980 тыс. человек",
+      "recap_neutral": "По данным Института миграционной политики, за первые 18 месяцев второго срока американского лидера из Соединенных Штатов депортировали около 980 тыс",
+      "main_idea": "Трамп признал, что его политика депортации мигрантов была слишком жесткой",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Nov 2026 00:48:13 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28296733",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Командир Змей сообщил об использовании ВСУ дронов-камикадзе для аудиоразведки",
+      "title_neutral": "Командир Змей сообщил об использовании ВСУ дронов-камикадзе для аудиоразведки",
+      "excerpt": "Украинские боевики оставляют рабочие БПЛА на земле с включенным микрофоном, отметил военнослужащий",
+      "recap_neutral": "Украинские боевики оставляют рабочие БПЛА на земле с включенным микрофоном, отметил военнослужащий",
+      "main_idea": "Командир Змей сообщил об использовании ВСУ дронов-камикадзе для аудиоразведки",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Mon, 09 Nov 2026 00:45:13 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28296731",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
       "title_neutral": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
       "excerpt": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms triggered a rout in US tech stocks a day earlier. A sell-off on Wall Street on Thu…",
@@ -1614,21 +1634,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Reconstruction of Torn Documents",
-      "title_neutral": "The Reconstruction of Torn Documents",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The Reconstruction of Torn Documents",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 06 Nov 2026 09:05:18 +0000",
-      "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
