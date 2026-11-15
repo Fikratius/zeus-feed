@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T22:50:56.289659+00:00",
+  "last_updated": "2026-11-15T02:20:43.583481+00:00",
   "items": [
     {
       "title_original": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
@@ -33,6 +33,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Oxford Molecular Motors",
+      "title_neutral": "Oxford Molecular Motors",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Oxford Molecular Motors",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 11 Nov 2026 17:06:08 +0000",
+      "url": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -169,21 +184,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Possible Futures",
-      "title_neutral": "Possible Futures",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Possible Futures",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Thu, 12 Nov 2026 08:21:51 +0000",
-      "url": "https://borretti.me/article/possible-futures",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
       "title_neutral": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
       "excerpt": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang Good morning. Espionage is supposed to be a secretive business, and spies are su…",
@@ -201,261 +201,242 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Эксперт Шарова допустила расширение ГОСТа на русскую кухню",
-      "title_neutral": "Эксперт Шарова допустила расширение ГОСТа на русскую кухню",
-      "excerpt": "Сейчас стандарт включает 133 блюда",
-      "recap_neutral": "Сейчас стандарт включает 133 блюда",
-      "main_idea": "Эксперт Шарова допустила расширение ГОСТа на русскую кухню",
+      "title_original": "Юрист Свечникова рассказала, как завещают аккаунты в соцсетях",
+      "title_neutral": "Юрист Свечникова рассказала, как завещают аккаунты в соцсетях",
+      "excerpt": "Профиль в социальной сети, электронная почта или облачное хранилище могут включать личную переписку, поэтому доступ к ним требует учета охраны частной жизни, отметила эксперт",
+      "recap_neutral": "Профиль в социальной сети, электронная почта или облачное хранилище могут включать личную переписку, поэтому доступ к ним требует учета охраны частной жизни, отметила эксперт",
+      "main_idea": "Юрист Свечникова рассказала, как завещают аккаунты в соцсетях",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 15 Nov 2026 01:47:17 +0300",
-      "url": "https://tass.ru/ekonomika/28318489",
+      "published_at": "Sun, 15 Nov 2026 05:17:45 +0300",
+      "url": "https://tass.ru/obschestvo/28318619",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Курсы биткойна и Ethereum упали более чем на 6% и 8% соответственно",
-      "title_neutral": "Курсы биткойна и Ethereum упали более чем на 6% и 8% соответственно",
+      "title_original": "Эксперт Седых напомнила об опасности абдоминального ожирения",
+      "title_neutral": "Эксперт Седых напомнила об опасности абдоминального ожирения",
+      "excerpt": "Избыточное отложение висцерального жира в области живота приводит к увеличению риска развития сердечно-сосудистых заболеваний, сахарного диабета, опухолей, неалкогольной жировой болезни печени и апноэ сна, сообщила доктор медицинских наук",
+      "recap_neutral": "Избыточное отложение висцерального жира в области живота приводит к увеличению риска развития сердечно-сосудистых заболеваний, сахарного диабета, опухолей, неалкогольной жировой болезни печени и апноэ сна, сообщила докт…",
+      "main_idea": "Эксперт Седых напомнила об опасности абдоминального ожирения",
+      "tags": [
+        "health"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 15 Nov 2026 05:14:04 +0300",
+      "url": "https://tass.ru/obschestvo/28318613",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Роспотребнадзор перечислил симптомы пневмонии",
+      "title_neutral": "Роспотребнадзор перечислил симптомы пневмонии",
+      "excerpt": "Ими стали кашель, мокрота и отдышка",
+      "recap_neutral": "Ими стали кашель, мокрота и отдышка",
+      "main_idea": "Роспотребнадзор перечислил симптомы пневмонии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 15 Nov 2026 05:13:25 +0300",
+      "url": "https://tass.ru/obschestvo/28318617",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В МВД рассказали, как мошенники используют ИИ для обмана россиян",
+      "title_neutral": "В МВД рассказали, как мошенники используют ИИ для обмана россиян",
+      "excerpt": "Технологии искусственного интеллекта позволяют злоумышленникам подменять голос и видеоизображение, чтобы создавать дипфейки для дистанционных краж",
+      "recap_neutral": "Технологии искусственного интеллекта позволяют злоумышленникам подменять голос и видеоизображение, чтобы создавать дипфейки для дистанционных краж",
+      "main_idea": "В МВД рассказали, как мошенники используют ИИ для обмана россиян",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 15 Nov 2026 05:11:35 +0300",
+      "url": "https://tass.ru/obschestvo/28318609",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Эксперт Зубарев рассказал об угрозах взломов умных чайников и утюгов",
+      "title_neutral": "Эксперт Зубарев рассказал об угрозах взломов умных чайников и утюгов",
+      "excerpt": "Хакеры могут использовать доступ к домашней технике, чтобы устраивать пожары, считает директор Аналитического центра УЦСБ",
+      "recap_neutral": "Хакеры могут использовать доступ к домашней технике, чтобы устраивать пожары, считает директор Аналитического центра УЦСБ",
+      "main_idea": "Эксперт Зубарев рассказал об угрозах взломов умных чайников и утюгов",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 15 Nov 2026 05:10:40 +0300",
+      "url": "https://tass.ru/obschestvo/28318597",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Бойцы \"Севера\" для адаптации стреляют на тренировках боевыми патронами",
+      "title_neutral": "Бойцы \"Севера\" для адаптации стреляют на тренировках боевыми патронами",
       "excerpt": "",
-      "recap_neutral": "Курсы биткойна и Ethereum упали более чем на 6% и 8% соответственно",
-      "main_idea": "Курсы биткойна и Ethereum упали более чем на 6% и 8% соответственно",
+      "recap_neutral": "Бойцы \"Севера\" для адаптации стреляют на тренировках боевыми патронами",
+      "main_idea": "Бойцы \"Севера\" для адаптации стреляют на тренировках боевыми патронами",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sun, 15 Nov 2026 05:04:01 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28318603",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В семи аэропортах ввели ограничения",
+      "title_neutral": "В семи аэропортах ввели ограничения",
+      "excerpt": "Они необходимы для обеспечения безопасности полетов",
+      "recap_neutral": "Они необходимы для обеспечения безопасности полетов",
+      "main_idea": "В семи аэропортах ввели ограничения",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 15 Nov 2026 01:38:41 +0300",
-      "url": "https://tass.ru/ekonomika/28318487",
+      "published_at": "Sun, 15 Nov 2026 05:02:02 +0300",
+      "url": "https://tass.ru/ekonomika/28318599",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Эксперт Тарасов: школы успеют адаптироваться к единым учебникам по русскому",
-      "title_neutral": "Эксперт Тарасов: школы успеют адаптироваться к единым учебникам по русскому",
-      "excerpt": "У образовательных учреждений до 1 сентября 2027 года будет время на методическую адаптацию и повышение квалификации педагогов, сообщил ректор РГПУ им. А. И. Герцена",
-      "recap_neutral": "У образовательных учреждений до 1 сентября 2027 года будет время на методическую адаптацию и повышение квалификации педагогов, сообщил ректор РГПУ им",
-      "main_idea": "Эксперт Тарасов: школы успеют адаптироваться к единым учебникам по русскому",
+      "title_original": "Эксперт Козинец считает, что демпартия победила на выборах в США из-за зумеров",
+      "title_neutral": "Эксперт Козинец считает, что демпартия победила на выборах в США из-за зумеров",
+      "excerpt": "",
+      "recap_neutral": "Эксперт Козинец считает, что демпартия победила на выборах в США из-за зумеров",
+      "main_idea": "Эксперт Козинец считает, что демпартия победила на выборах в США из-за зумеров",
       "tags": [
-        "tech"
+        "politics"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 15 Nov 2026 01:36:37 +0300",
-      "url": "https://tass.ru/obschestvo/28318483",
+      "published_at": "Sun, 15 Nov 2026 05:02:00 +0300",
+      "url": "https://tass.ru/politika/28318591",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ЦТАК: делегация КНДР прибыла в Москву с официальным визитом",
-      "title_neutral": "ЦТАК: делегация КНДР прибыла в Москву с официальным визитом",
-      "excerpt": "Делегацию встретили член бюро высшего совета партии \"Единая Россия\" Андрей Климов, посол КНДР в Москве Син Хон Чхоль и сотрудники корейского диппредставительства",
-      "recap_neutral": "Делегацию встретили член бюро высшего совета партии \"Единая Россия\" Андрей Климов, посол КНДР в Москве Син Хон Чхоль и сотрудники корейского диппредставительства",
-      "main_idea": "ЦТАК: делегация КНДР прибыла в Москву с официальным визитом",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Nov 2026 01:33:45 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28318485",
-      "lang": "ru",
-      "bias_score": 56,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Новый индекс для оценки риска инфаркта вошел в проект госгарантий на 2027 год",
-      "title_neutral": "Новый индекс для оценки риска инфаркта вошел в проект госгарантий на 2027 год",
-      "excerpt": "Коронарный кальциевый индекс будут определять по компьютерной томографии",
-      "recap_neutral": "Коронарный кальциевый индекс будут определять по компьютерной томографии",
-      "main_idea": "Новый индекс для оценки риска инфаркта вошел в проект госгарантий на 2027 год",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Nov 2026 01:21:42 +0300",
-      "url": "https://tass.ru/obschestvo/28318481",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Москве за пять лет средняя пенсия по старости выросла почти на 11 тыс. рублей",
-      "title_neutral": "В Москве за пять лет средняя пенсия по старости выросла почти на 11 тыс. рублей",
-      "excerpt": "В октябре 2026 года показатель составил 28 918 рублей",
-      "recap_neutral": "В октябре 2026 года показатель составил 28 918 рублей",
-      "main_idea": "В Москве за пять лет средняя пенсия по старости выросла почти на 11 тыс. рублей",
+      "title_original": "Главком ВМФ Моисеев отметил отвагу и мужество моряков-каспийцев на СВО",
+      "title_neutral": "Главком ВМФ Моисеев отметил отвагу и мужество моряков-каспийцев на СВО",
+      "excerpt": "Адмирал флота отметил, что профессионализм каспийцев, их преданность воинскому долгу служат гарантом стабильности в Каспийском регионе",
+      "recap_neutral": "Адмирал флота отметил, что профессионализм каспийцев, их преданность воинскому долгу служат гарантом стабильности в Каспийском регионе",
+      "main_idea": "Главком ВМФ Моисеев отметил отвагу и мужество моряков-каспийцев на СВО",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 15 Nov 2026 01:13:11 +0300",
-      "url": "https://tass.ru/obschestvo/28318477",
+      "published_at": "Sun, 15 Nov 2026 05:01:47 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28318593",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Соболенко заявила, что не хотела оскорбить болельщиков Свитолиной",
-      "title_neutral": "Соболенко заявила, что не хотела оскорбить болельщиков Свитолиной",
-      "excerpt": "Белоруска нецензурно высказалась в адрес болельщиков соперницы, которые на протяжении встречи допускали выкрики с трибун",
-      "recap_neutral": "Белоруска нецензурно высказалась в адрес болельщиков соперницы, которые на протяжении встречи допускали выкрики с трибун",
-      "main_idea": "Соболенко заявила, что не хотела оскорбить болельщиков Свитолиной",
+      "title_original": "Расчеты гаубиц Д-30 уничтожили сеть опорных пунктов ВСУ в Запорожской области",
+      "title_neutral": "Расчеты гаубиц Д-30 уничтожили сеть опорных пунктов ВСУ в Запорожской области",
+      "excerpt": "Бойцы группировки войск \"Восток\" также разрушили несколько оборонительных сооружений противника, что позволило ослабить его передовые позиции и ограничить возможности по удержанию занимаемых рубежей",
+      "recap_neutral": "Бойцы группировки войск \"Восток\" также разрушили несколько оборонительных сооружений противника, что позволило ослабить его передовые позиции и ограничить возможности по удержанию занимаемых рубежей",
+      "main_idea": "Расчеты гаубиц Д-30 уничтожили сеть опорных пунктов ВСУ в Запорожской области",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sun, 15 Nov 2026 01:09:42 +0300",
-      "url": "https://tass.ru/sport/28318475",
+      "published_at": "Sun, 15 Nov 2026 05:01:37 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28318581",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Песней \"Нас не догонят\" встретили сборную России с юношеской Олимпиады",
-      "title_neutral": "Песней \"Нас не догонят\" встретили сборную России с юношеской Олимпиады",
-      "excerpt": "Спортсмены заняли на соревнованиях третье место",
-      "recap_neutral": "Спортсмены заняли на соревнованиях третье место",
-      "main_idea": "Песней \"Нас не догонят\" встретили сборную России с юношеской Олимпиады",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Nov 2026 01:05:36 +0300",
-      "url": "https://tass.ru/sport/28318473",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Марочко: ВС РФ на неделе зачищали местность сразу на двух участках у Гоптовки",
-      "title_neutral": "Марочко: ВС РФ на неделе зачищали местность сразу на двух участках у Гоптовки",
-      "excerpt": "Российские бойцы также занимались закреплением на новых рубежах и позициях, отметил военный эксперт",
-      "recap_neutral": "Российские бойцы также занимались закреплением на новых рубежах и позициях, отметил военный эксперт",
-      "main_idea": "Марочко: ВС РФ на неделе зачищали местность сразу на двух участках у Гоптовки",
+      "title_original": "Группировка \"Север\" уничтожила 640 беспилотников ВСУ за сутки",
+      "title_neutral": "Группировка \"Север\" уничтожила 640 беспилотников ВСУ за сутки",
+      "excerpt": "Противник также потерял 22 пункта управления БПЛА",
+      "recap_neutral": "Противник также потерял 22 пункта управления БПЛА",
+      "main_idea": "Группировка \"Север\" уничтожила 640 беспилотников ВСУ за сутки",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 15 Nov 2026 01:00:43 +0300",
-      "url": "https://tass.ru/armiya-i-opk/28318471",
+      "published_at": "Sun, 15 Nov 2026 05:01:23 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28318583",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Андреева после Итогового турнира WTA впервые станет второй ракеткой мира",
-      "title_neutral": "Андреева после Итогового турнира WTA впервые станет второй ракеткой мира",
-      "excerpt": "Статус первой ракетки мира сохранит Елена Рыбакина из Казахстана",
-      "recap_neutral": "Статус первой ракетки мира сохранит Елена Рыбакина из Казахстана",
-      "main_idea": "Андреева после Итогового турнира WTA впервые станет второй ракеткой мира",
+      "title_original": "Эксперт Киселев сообщил о больших проблемах с логистикой у ВСУ",
+      "title_neutral": "Эксперт Киселев сообщил о больших проблемах с логистикой у ВСУ",
+      "excerpt": "На донецком, луганском и харьковском направлениях российская армия сосредоточила большое число операторов БПЛА, добавил военный эксперт",
+      "recap_neutral": "На донецком, луганском и харьковском направлениях российская армия сосредоточила большое число операторов БПЛА, добавил военный эксперт",
+      "main_idea": "Эксперт Киселев сообщил о больших проблемах с логистикой у ВСУ",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 15 Nov 2026 01:00:19 +0300",
-      "url": "https://tass.ru/sport/28318467",
+      "published_at": "Sun, 15 Nov 2026 05:01:16 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28318585",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "К югу от Ормузского пролива два танкера подорвались на минах и загорелись",
-      "title_neutral": "К югу от Ормузского пролива два танкера подорвались на минах и загорелись",
-      "excerpt": "Суда пытались пройти по несанкционированному маршруту с отключенными системами навигации, сообщил Корпус стражей исламской революции",
-      "recap_neutral": "Суда пытались пройти по несанкционированному маршруту с отключенными системами навигации, сообщил Корпус стражей исламской революции",
-      "main_idea": "К югу от Ормузского пролива два танкера подорвались на минах и загорелись",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Nov 2026 00:59:52 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28318469",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Сборные Австрии и Швеции вышли в элитный дивизион футбольной Лиги наций",
-      "title_neutral": "Сборные Австрии и Швеции вышли в элитный дивизион футбольной Лиги наций",
-      "excerpt": "Шведы в очередном туре турнира обыграли боснийцев, а австрийцы оказались сильнее ирландцев",
-      "recap_neutral": "Шведы в очередном туре турнира обыграли боснийцев, а австрийцы оказались сильнее ирландцев",
-      "main_idea": "Сборные Австрии и Швеции вышли в элитный дивизион футбольной Лиги наций",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Nov 2026 00:58:27 +0300",
-      "url": "https://tass.ru/sport/28318465",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Российская теннисистка вышла в финал Итогового турнира WTA впервые за 14 лет",
-      "title_neutral": "Российская теннисистка вышла в финал Итогового турнира WTA впервые за 14 лет",
-      "excerpt": "В решающий матч соревнований пробилась Мирра Андреева",
-      "recap_neutral": "В решающий матч соревнований пробилась Мирра Андреева",
-      "main_idea": "Российская теннисистка вышла в финал Итогового турнира WTA впервые за 14 лет",
+      "title_original": "Расчеты FPV-дронов уничтожили квадроциклы ВСУ в Харьковской области",
+      "title_neutral": "Расчеты FPV-дронов уничтожили квадроциклы ВСУ в Харьковской области",
+      "excerpt": "",
+      "recap_neutral": "Расчеты FPV-дронов уничтожили квадроциклы ВСУ в Харьковской области",
+      "main_idea": "Расчеты FPV-дронов уничтожили квадроциклы ВСУ в Харьковской области",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sun, 15 Nov 2026 00:52:51 +0300",
-      "url": "https://tass.ru/sport/28318463",
+      "published_at": "Sun, 15 Nov 2026 05:01:11 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28318577",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В РФ намерены внести в УК статью о нарушении норм эксплуатации беспилотных машин",
-      "title_neutral": "В РФ намерены внести в УК статью о нарушении норм эксплуатации беспилотных машин",
-      "excerpt": "Законопроект определяет ответственность владельца, производителя автомобиля, разработчика системы вождения и других участников, пояснил Минтранс",
-      "recap_neutral": "Законопроект определяет ответственность владельца, производителя автомобиля, разработчика системы вождения и других участников, пояснил Минтранс",
-      "main_idea": "В РФ намерены внести в УК статью о нарушении норм эксплуатации беспилотных машин",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Nov 2026 00:51:27 +0300",
-      "url": "https://tass.ru/obschestvo/28318461",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Португальцы разгромно проиграли в первом матче после ухода Роналду из сборной",
-      "title_neutral": "Португальцы разгромно проиграли в первом матче после ухода Роналду из сборной",
-      "excerpt": "Сборная Португалии уступила датчанам со счетом 1:4",
-      "recap_neutral": "Сборная Португалии уступила датчанам со счетом 1:4",
-      "main_idea": "Португальцы разгромно проиграли в первом матче после ухода Роналду из сборной",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sun, 15 Nov 2026 00:47:32 +0300",
-      "url": "https://tass.ru/sport/28318459",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Reverse engineering a vintage diode-transistor logic chip",
-      "title_neutral": "Reverse engineering a vintage diode-transistor logic chip",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Reverse engineering a vintage diode-transistor logic chip",
+      "title_original": "Группировка \"Юг\" уничтожила 109 БПЛА и поразила 9 складов ВСУ за сутки",
+      "title_neutral": "Группировка \"Юг\" уничтожила 109 БПЛА и поразила 9 складов ВСУ за сутки",
+      "excerpt": "Противник также потерял до 130 военнослужащих",
+      "recap_neutral": "Противник также потерял до 130 военнослужащих",
+      "main_idea": "Группировка \"Юг\" уничтожила 109 БПЛА и поразила 9 складов ВСУ за сутки",
       "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sun, 08 Nov 2026 19:03:48 +0000",
-      "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "source": "ТАСС",
+      "published_at": "Sun, 15 Nov 2026 05:01:01 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28318587",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Группы прикрытия уничтожили более 50 дронов ВСУ самолетного типа в Запорожье",
+      "title_neutral": "Группы прикрытия уничтожили более 50 дронов ВСУ самолетного типа в Запорожье",
+      "excerpt": "",
+      "recap_neutral": "Группы прикрытия уничтожили более 50 дронов ВСУ самолетного типа в Запорожье",
+      "main_idea": "Группы прикрытия уничтожили более 50 дронов ВСУ самолетного типа в Запорожье",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sun, 15 Nov 2026 05:01:00 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28318579",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
@@ -510,15 +491,30 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Mullvad VPN – Privacy is for the people",
-      "title_neutral": "Mullvad VPN – Privacy is for the people",
+      "title_original": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "title_neutral": "Nvidia deliberately kept GPU prices high through circular financing deals",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Mullvad VPN – Privacy is for the people",
+      "main_idea": "Nvidia deliberately kept GPU prices high through circular financing deals",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Sat, 14 Nov 2026 22:13:06 +0000",
-      "url": "https://mullvad.net/en",
+      "published_at": "Sat, 14 Nov 2026 22:26:30 +0000",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "title_neutral": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 14 Nov 2026 22:22:49 +0000",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -540,18 +536,33 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "SpaceX Catches the Starship to end Flight 15",
-      "title_neutral": "SpaceX Catches the Starship to end Flight 15",
+      "title_original": "SpaceX catches the Starship to end Flight 15",
+      "title_neutral": "SpaceX catches the Starship to end Flight 15",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "SpaceX Catches the Starship to end Flight 15",
+      "main_idea": "SpaceX catches the Starship to end Flight 15",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Sat, 14 Nov 2026 21:22:24 +0000",
-      "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "113 Blog Posts To Learn About Tutorial For Beginners",
+      "title_neutral": "113 Blog Posts To Learn About Tutorial For Beginners",
+      "excerpt": "Learn everything you need to know about Tutorial For Beginners via these 113 free HackerNoon blog posts.",
+      "recap_neutral": "Learn everything you need to know about Tutorial For Beginners via these 113 free HackerNoon blog posts",
+      "main_idea": "113 Blog Posts To Learn About Tutorial For Beginners",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Sat, 14 Nov 2026 21:00:39 GMT",
+      "url": "https://hackernoon.com/113-blog-posts-to-learn-about-tutorial-for-beginners?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -569,6 +580,21 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "FAA ground stop disrupts college football",
+      "title_neutral": "FAA ground stop disrupts college football",
+      "excerpt": "Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, including cheap beers.",
+      "recap_neutral": "Some college football games were delayed a few hours on Saturday or postponed to Sunday",
+      "main_idea": "FAA ground stop disrupts college football",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Sat, 14 Nov 2026 20:13:59 -0500",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -622,6 +648,23 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+      "title_neutral": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+      "excerpt": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year run.",
+      "recap_neutral": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St",
+      "main_idea": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+      "tags": [
+        "conflict"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 14 Nov 2026 19:03:52 -0500",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Philippines’ Carmelle wins first Eurovision contest in Asia",
       "title_neutral": "Philippines’ Carmelle wins first Eurovision contest in Asia",
       "excerpt": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra , to victory in Bangkok on Saturday night, at the first regional edition of the contest to…",
@@ -637,18 +680,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-      "title_neutral": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "title_original": "Why Your NumPy Array Changed After Preprocessing (Views vs Copies in ML)",
+      "title_neutral": "Why Your NumPy Array Changed After Preprocessing (Views vs Copies in ML)",
+      "excerpt": "Discover why NumPy arrays change during ML preprocessing. Learn how views, copies, slicing, and in-place operations affect memory and how to prevent unexpected",
+      "recap_neutral": "Discover why NumPy arrays change during ML preprocessing",
+      "main_idea": "Why Your NumPy Array Changed After Preprocessing (Views vs Copies in ML)",
       "tags": [],
-      "source": "Hacker News",
-      "published_at": "Sat, 14 Nov 2026 18:56:47 +0000",
-      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+      "source": "HackerNoon",
+      "published_at": "Sat, 14 Nov 2026 19:00:02 GMT",
+      "url": "https://hackernoon.com/why-your-numpy-array-changed-after-preprocessing-views-vs-copies-in-ml?source=rss",
       "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -716,11 +759,46 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "A Family Tree of Software Job Titles",
-      "title_neutral": "A Family Tree of Software Job Titles",
+      "title_original": "My Local AI Agent Needed a Bigger Brain, So I Gave It a Decentralized GPU",
+      "title_neutral": "My Local AI Agent Needed a Bigger Brain, So I Gave It a Decentralized GPU",
+      "excerpt": "Running everything locally has a ceiling, and I kept hitting it. Here's how I fixed it.",
+      "recap_neutral": "Running everything locally has a ceiling, and I kept hitting it",
+      "main_idea": "My Local AI Agent Needed a Bigger Brain, So I Gave It a Decentralized GPU",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Sat, 14 Nov 2026 18:00:02 GMT",
+      "url": "https://hackernoon.com/my-local-ai-agent-needed-a-bigger-brain-so-i-gave-it-a-decentralized-gpu?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+      "title_neutral": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+      "excerpt": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop.",
+      "recap_neutral": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop",
+      "main_idea": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Sat, 14 Nov 2026 17:48:38 -0500",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A family tree of software job titles",
+      "title_neutral": "A family tree of software job titles",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "A Family Tree of Software Job Titles",
+      "main_idea": "A family tree of software job titles",
       "tags": [
         "conflict",
         "tech"
@@ -1126,23 +1204,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Perspective: A new kind of White House press secretary",
-      "title_neutral": "Perspective: A new kind of White House press secretary",
-      "excerpt": "With the White House press secretary job still left unfilled, maybe an AI assistant might be the answer?",
-      "recap_neutral": "With the White House press secretary job still left unfilled, maybe an AI assistant might be the answer?",
-      "main_idea": "Perspective: A new kind of White House press secretary",
-      "tags": [
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 14 Nov 2026 08:00:00 -0500",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Shadow AI in the Workplace: Data Security Risks and Governance Strategies",
       "title_neutral": "Shadow AI in the Workplace: Data Security Risks and Governance Strategies",
       "excerpt": "Workplace AI bans may not stop Shadow AI. Explore the risks to confidential data and practical ways companies can govern employee AI use.",
@@ -1209,39 +1270,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-      "title_neutral": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-      "excerpt": "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests.",
-      "recap_neutral": "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests",
-      "main_idea": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Sat, 14 Nov 2026 05:00:00 -0500",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
-      "title_neutral": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
-      "excerpt": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions.",
-      "recap_neutral": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts",
-      "main_idea": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Sat, 14 Nov 2026 05:00:00 -0500",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -1374,23 +1402,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "RevOps Is Quietly Becoming an Engineering Job",
-      "title_neutral": "RevOps Is Quietly Becoming an Engineering Job",
-      "excerpt": "Malek Damiri, a head of revenue operations, on why RevOps now means schedulers, staging, tested numbers, and AI agents, and what to learn next.",
-      "recap_neutral": "Malek Damiri, a head of revenue operations, on why RevOps now means schedulers, staging, tested numbers, and AI agents, and what to learn next",
-      "main_idea": "RevOps Is Quietly Becoming an Engineering Job",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 13 Nov 2026 22:51:10 GMT",
-      "url": "https://hackernoon.com/revops-is-quietly-becoming-an-engineering-job?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Europe Agrees on a Team to Represent It in Talks With Russia",
       "title_neutral": "Europe Agrees on a Team to Represent It in Talks With Russia",
       "excerpt": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team.",
@@ -1406,38 +1417,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "I Put a 42-Desk Design Studio Inside My Coding Agent",
-      "title_neutral": "I Put a 42-Desk Design Studio Inside My Coding Agent",
-      "excerpt": "Desk Studio runs a design job like a studio inside your coding agent: roughs, a pick, polish, pixel proof, sign-off. One real job, 8.9, $1.34.",
-      "recap_neutral": "Desk Studio runs a design job like a studio inside your coding agent: roughs, a pick, polish, pixel proof, sign-off",
-      "main_idea": "I Put a 42-Desk Design Studio Inside My Coding Agent",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Fri, 13 Nov 2026 22:23:59 GMT",
-      "url": "https://hackernoon.com/i-put-a-42-desk-design-studio-inside-my-coding-agent?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "CI Failure Triage Needs Evidence Before It Needs a Classifier",
-      "title_neutral": "CI Failure Triage Needs Evidence Before It Needs a Classifier",
-      "excerpt": "Sort CI failures into product defects, environment noise, agent errors and test defects, and capture the evidence before a model like Jev triages them.",
-      "recap_neutral": "Sort CI failures into product defects, environment noise, agent errors and test defects, and capture the evidence before a model like Jev triages them",
-      "main_idea": "CI Failure Triage Needs Evidence Before It Needs a Classifier",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 13 Nov 2026 22:05:11 GMT",
-      "url": "https://hackernoon.com/ci-failure-triage-needs-evidence-before-it-needs-a-classifier?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1521,6 +1500,21 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "500 Lines or Less A 3D Modeller",
+      "title_neutral": "500 Lines or Less A 3D Modeller",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "500 Lines or Less A 3D Modeller",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 13 Nov 2026 13:47:42 +0000",
+      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
