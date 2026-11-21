@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T22:56:08.356223+00:00",
+  "last_updated": "2026-11-21T03:44:28.526079+00:00",
   "items": [
     {
       "title_original": "Florida pastor found guilty over 2021 assassination of Haitian president",
@@ -87,6 +87,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "title_neutral": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 17 Nov 2026 16:58:30 +0000",
+      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -191,245 +206,379 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Киеве произошел взрыв",
-      "title_neutral": "В Киеве произошел взрыв",
-      "excerpt": "В городе действует воздушная тревога",
-      "recap_neutral": "В городе действует воздушная тревога",
-      "main_idea": "В Киеве произошел взрыв",
+      "title_original": "Риттер назвал глупостью отправку спецназа Польши к границе с РФ из-за фонариков",
+      "title_neutral": "Риттер назвал глупостью отправку спецназа Польши к границе с РФ из-за фонариков",
+      "excerpt": "Экс-аналитик разведки Корпуса морской пехоты США считает, что это решение могло привести к военным последствиям",
+      "recap_neutral": "Экс-аналитик разведки Корпуса морской пехоты США считает, что это решение могло привести к военным последствиям",
+      "main_idea": "Риттер назвал глупостью отправку спецназа Польши к границе с РФ из-за фонариков",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 21 Nov 2026 01:49:50 +0300",
-      "url": "https://tass.ru/proisshestviya/28341507",
+      "published_at": "Sat, 21 Nov 2026 06:35:44 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28341725",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Россияне лидируют в общем зачете ЧМ по самбо среди ветеранов на Кипре",
-      "title_neutral": "Россияне лидируют в общем зачете ЧМ по самбо среди ветеранов на Кипре",
-      "excerpt": "Они завоевали в первый день соревнований 10 золотых, 6 серебряных и 7 бронзовых медалей",
-      "recap_neutral": "Они завоевали в первый день соревнований 10 золотых, 6 серебряных и 7 бронзовых медалей",
-      "main_idea": "Россияне лидируют в общем зачете ЧМ по самбо среди ветеранов на Кипре",
+      "title_original": "В Якутии рассчитывают, что голубой алмаз \"Алросы\" останется в России",
+      "title_neutral": "В Якутии рассчитывают, что голубой алмаз \"Алросы\" останется в России",
+      "excerpt": "",
+      "recap_neutral": "В Якутии рассчитывают, что голубой алмаз \"Алросы\" останется в России",
+      "main_idea": "В Якутии рассчитывают, что голубой алмаз \"Алросы\" останется в России",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Nov 2026 06:35:38 +0300",
+      "url": "https://tass.ru/obschestvo/28341733",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Силовики РФ сообщили об уничтожении складов продовольствия ГПСУ у Харькова",
+      "title_neutral": "Силовики РФ сообщили об уничтожении складов продовольствия ГПСУ у Харькова",
+      "excerpt": "В российских силовых структурах отметили, что позиции боевиков уже неделю не получают питание",
+      "recap_neutral": "В российских силовых структурах отметили, что позиции боевиков уже неделю не получают питание",
+      "main_idea": "Силовики РФ сообщили об уничтожении складов продовольствия ГПСУ у Харькова",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Nov 2026 06:32:58 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28341727",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Синоптик Паршина рассказала, когда зима придет в Москву",
+      "title_neutral": "Синоптик Паршина рассказала, когда зима придет в Москву",
+      "excerpt": "",
+      "recap_neutral": "Синоптик Паршина рассказала, когда зима придет в Москву",
+      "main_idea": "Синоптик Паршина рассказала, когда зима придет в Москву",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 21 Nov 2026 01:24:17 +0300",
-      "url": "https://tass.ru/sport/28341503",
+      "published_at": "Sat, 21 Nov 2026 06:32:26 +0300",
+      "url": "https://tass.ru/obschestvo/28341723",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ТАСС узнал, как за год выросла средняя зарплата в России",
-      "title_neutral": "ТАСС узнал, как за год выросла средняя зарплата в России",
-      "excerpt": "Она увеличилась более чем на 10 тыс. рублей",
-      "recap_neutral": "Она увеличилась более чем на 10 тыс",
-      "main_idea": "ТАСС узнал, как за год выросла средняя зарплата в России",
+      "title_original": "ВС РФ уничтожили более 10 тяжелых дронов ВСУ на харьковском направлении",
+      "title_neutral": "ВС РФ уничтожили более 10 тяжелых дронов ВСУ на харьковском направлении",
+      "excerpt": "",
+      "recap_neutral": "ВС РФ уничтожили более 10 тяжелых дронов ВСУ на харьковском направлении",
+      "main_idea": "ВС РФ уничтожили более 10 тяжелых дронов ВСУ на харьковском направлении",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 21 Nov 2026 01:11:07 +0300",
-      "url": "https://tass.ru/obschestvo/28341501",
+      "published_at": "Sat, 21 Nov 2026 06:32:04 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28341731",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Жаира Болсонару вновь госпитализировали",
-      "title_neutral": "Жаира Болсонару вновь госпитализировали",
-      "excerpt": "Бывший президент Бразилии жалуется на острую боль и вздутие живота",
-      "recap_neutral": "Бывший президент Бразилии жалуется на острую боль и вздутие живота",
-      "main_idea": "Жаира Болсонару вновь госпитализировали",
-      "tags": [
-        "politics",
-        "tech"
-      ],
+      "title_original": "ТАСС: ВСУ перебросили к Чернигову подразделения бригады охраны и обслуживания",
+      "title_neutral": "ТАСС: ВСУ перебросили к Чернигову подразделения бригады охраны и обслуживания",
+      "excerpt": "",
+      "recap_neutral": "ТАСС: ВСУ перебросили к Чернигову подразделения бригады охраны и обслуживания",
+      "main_idea": "ТАСС: ВСУ перебросили к Чернигову подразделения бригады охраны и обслуживания",
+      "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 21 Nov 2026 01:10:10 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28341499",
+      "published_at": "Sat, 21 Nov 2026 06:31:26 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28341729",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Политолог из США Вароли объяснил желание стать гражданином России",
-      "title_neutral": "Политолог из США Вароли объяснил желание стать гражданином России",
-      "excerpt": "По его словам, в Соединенных Штатах он не чувствует себя в безопасности, поскольку выступал в поддержку народа Донбасса, а также осуждал украинские военные преступления и терроризм",
-      "recap_neutral": "По его словам, в Соединенных Штатах он не чувствует себя в безопасности, поскольку выступал в поддержку народа Донбасса, а также осуждал украинские военные преступления и терроризм",
-      "main_idea": "Политолог из США Вароли объяснил желание стать гражданином России",
+      "title_original": "Генконсул РФ заявил об обсуждении с Турцией безопасности туристических услуг",
+      "title_neutral": "Генконсул РФ заявил об обсуждении с Турцией безопасности туристических услуг",
+      "excerpt": "Сергей Ветрик отметил, что попросил турецких коллег, в частности, уделить внимание таким видам развлечений, как парапланеризм, парасейлинг, сафари, а также катание на квадроциклах",
+      "recap_neutral": "Сергей Ветрик отметил, что попросил турецких коллег, в частности, уделить внимание таким видам развлечений, как парапланеризм, парасейлинг, сафари, а также катание на квадроциклах",
+      "main_idea": "Генконсул РФ заявил об обсуждении с Турцией безопасности туристических услуг",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 21 Nov 2026 01:03:45 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28341497",
+      "published_at": "Sat, 21 Nov 2026 06:23:27 +0300",
+      "url": "https://tass.ru/obschestvo/28341717",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Марочко объяснил, зачем ВСУ ударили по дому в Юбилейном ночью",
-      "title_neutral": "Марочко объяснил, зачем ВСУ ударили по дому в Юбилейном ночью",
-      "excerpt": "Противник рассчитывал, что при ночной атаке будет больше жертв, считает военный эксперт",
-      "recap_neutral": "Противник рассчитывал, что при ночной атаке будет больше жертв, считает военный эксперт",
-      "main_idea": "Марочко объяснил, зачем ВСУ ударили по дому в Юбилейном ночью",
+      "title_original": "В ГД рассказали, как добиться назначения пособия на ребенка после отказа",
+      "title_neutral": "В ГД рассказали, как добиться назначения пособия на ребенка после отказа",
+      "excerpt": "Сначала нужно получить решение Фонда социального и пенсионного страхования и проверить причину отказа, что затем обратиться в фонд с требованием пересмотреть решение, назначить или возобновить пособие, исправить его размер и перечислить причитающуюся сумму, сообщил депутат Никита Чаплин",
+      "recap_neutral": "Сначала нужно получить решение Фонда социального и пенсионного страхования и проверить причину отказа, что затем обратиться в фонд с требованием пересмотреть решение, назначить или возобновить пособие, исправить его раз…",
+      "main_idea": "В ГД рассказали, как добиться назначения пособия на ребенка после отказа",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Nov 2026 06:22:02 +0300",
+      "url": "https://tass.ru/obschestvo/28341719",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "ТАСС: потребление газа на Украине с 1991 года упало почти вчетверо",
+      "title_neutral": "ТАСС: потребление газа на Украине с 1991 года упало почти вчетверо",
+      "excerpt": "Это связано с остановкой работы крупных предприятий, а также развалом экономики страны",
+      "recap_neutral": "Это связано с остановкой работы крупных предприятий, а также развалом экономики страны",
+      "main_idea": "ТАСС: потребление газа на Украине с 1991 года упало почти вчетверо",
+      "tags": [
+        "economy"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Nov 2026 06:21:01 +0300",
+      "url": "https://tass.ru/ekonomika/28341715",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Иран заявил о поражении БПЛА США над Ормузским проливом",
+      "title_neutral": "Иран заявил о поражении БПЛА США над Ормузским проливом",
+      "excerpt": "Корпус стражей исламской революции уточнил, что это был дрон MQ-9",
+      "recap_neutral": "Корпус стражей исламской революции уточнил, что это был дрон MQ-9",
+      "main_idea": "Иран заявил о поражении БПЛА США над Ормузским проливом",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Sat, 21 Nov 2026 06:17:57 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28341711",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Экс-депутат Таубер: Санду и ее партия используют Молдавию для наживы",
+      "title_neutral": "Экс-депутат Таубер: Санду и ее партия используют Молдавию для наживы",
+      "excerpt": "Находящиеся у власти в республике люди не разбираются в государственном строительстве, в хозяйственных и прочих вопросах, также отметила исполнительный секретарь блока оппозиционных партий \"Победа\"",
+      "recap_neutral": "Находящиеся у власти в республике люди не разбираются в государственном строительстве, в хозяйственных и прочих вопросах, также отметила исполнительный секретарь блока оппозиционных партий \"Победа\"",
+      "main_idea": "Экс-депутат Таубер: Санду и ее партия используют Молдавию для наживы",
       "tags": [
         "conflict"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 21 Nov 2026 01:01:15 +0300",
-      "url": "https://tass.ru/armiya-i-opk/28341495",
+      "published_at": "Sat, 21 Nov 2026 06:17:21 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28341705",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "На оснащение медкабинетов в школах и детсадах ДНР направили более 220 млн рублей",
-      "title_neutral": "На оснащение медкабинетов в школах и детсадах ДНР направили более 220 млн рублей",
-      "excerpt": "Финансирование проводится по региональной госпрограмме \"Развитие образования\"",
-      "recap_neutral": "Финансирование проводится по региональной госпрограмме \"Развитие образования\"",
-      "main_idea": "На оснащение медкабинетов в школах и детсадах ДНР направили более 220 млн рублей",
-      "tags": [],
+      "title_original": "Эксперт Артемьев рассказал, как можно решить проблему кадрового дефицита",
+      "title_neutral": "Эксперт Артемьев рассказал, как можно решить проблему кадрового дефицита",
+      "excerpt": "Предприятиям нужны конкурентные условия, а вузам - практико-ориентированные программы, считает исполняющий обязанности ректора Тверского государственного технического университета",
+      "recap_neutral": "Предприятиям нужны конкурентные условия, а вузам - практико-ориентированные программы, считает исполняющий обязанности ректора Тверского государственного технического университета",
+      "main_idea": "Эксперт Артемьев рассказал, как можно решить проблему кадрового дефицита",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
       "source": "ТАСС",
-      "published_at": "Sat, 21 Nov 2026 00:52:55 +0300",
-      "url": "https://tass.ru/obschestvo/28341493",
+      "published_at": "Sat, 21 Nov 2026 06:17:15 +0300",
+      "url": "https://tass.ru/obschestvo/28341679",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Variety: Disney хочет снять Калкина в новой части франшизы \"Один дома\"",
-      "title_neutral": "Variety: Disney хочет снять Калкина в новой части франшизы \"Один дома\"",
-      "excerpt": "По информации журнала, работа над проектом находится на ранней стадии",
-      "recap_neutral": "По информации журнала, работа над проектом находится на ранней стадии",
-      "main_idea": "Variety: Disney хочет снять Калкина в новой части франшизы \"Один дома\"",
+      "title_original": "Генконсул РФ в Анталье: алкоголь в крови может стать причиной отказа в страховке",
+      "title_neutral": "Генконсул РФ в Анталье: алкоголь в крови может стать причиной отказа в страховке",
+      "excerpt": "Сергей Ветрик напомнил, что \"медицина в Турции работает на коммерческой основе\", а при серьезных заболеваниях лечение может стоить очень дорого",
+      "recap_neutral": "Сергей Ветрик напомнил, что \"медицина в Турции работает на коммерческой основе\", а при серьезных заболеваниях лечение может стоить очень дорого",
+      "main_idea": "Генконсул РФ в Анталье: алкоголь в крови может стать причиной отказа в страховке",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 21 Nov 2026 00:50:35 +0300",
-      "url": "https://tass.ru/kultura/28341489",
+      "published_at": "Sat, 21 Nov 2026 06:16:59 +0300",
+      "url": "https://tass.ru/obschestvo/28341709",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Котировки Nasdaq снизились до минимума за полгода",
-      "title_neutral": "Котировки Nasdaq снизились до минимума за полгода",
-      "excerpt": "Ситуация обусловлена скандалом вокруг экс-гендиректора Nvidia Дженсена Хуанга и масштабными сбоями в сетях федеральных ведомств и крупных компаний",
-      "recap_neutral": "Ситуация обусловлена скандалом вокруг экс-гендиректора Nvidia Дженсена Хуанга и масштабными сбоями в сетях федеральных ведомств и крупных компаний",
-      "main_idea": "Котировки Nasdaq снизились до минимума за полгода",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Nov 2026 00:48:37 +0300",
-      "url": "https://tass.ru/ekonomika/28341491",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Азербайджане задержали двух примкнувших к ИГ человек",
-      "title_neutral": "В Азербайджане задержали двух примкнувших к ИГ человек",
-      "excerpt": "Юнус Абдурахманов причастен к подготовке к терактам, а Абдулла Гасанбеков планировал \"участвовать в боевых действиях против правительственных сил иностранного государства\", сообщили в Службе государственной безопасности республики",
-      "recap_neutral": "Юнус Абдурахманов причастен к подготовке к терактам, а Абдулла Гасанбеков планировал \"участвовать в боевых действиях против правительственных сил иностранного государства\", сообщили в Службе государственной безопасности…",
-      "main_idea": "В Азербайджане задержали двух примкнувших к ИГ человек",
-      "tags": [
-        "conflict"
-      ],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Nov 2026 00:43:27 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28341485",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Прозоров: на Украине выросло поколение силовиков без \"моральных стопоров\"",
-      "title_neutral": "Прозоров: на Украине выросло поколение силовиков без \"моральных стопоров\"",
-      "excerpt": "Экс-сотрудник СБУ заявил, что такие люди \"способны на все\"",
-      "recap_neutral": "Экс-сотрудник СБУ заявил, что такие люди \"способны на все\"",
-      "main_idea": "Прозоров: на Украине выросло поколение силовиков без \"моральных стопоров\"",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Nov 2026 00:36:46 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28341471",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Минтранс назвал сроки изменения программы субсидирования авиаперевозок",
-      "title_neutral": "Минтранс назвал сроки изменения программы субсидирования авиаперевозок",
-      "excerpt": "Это может произойти ориентировочно в третьем квартале 2027 года, сообщил глава ведомства Дмитрий Ядров",
-      "recap_neutral": "Это может произойти ориентировочно в третьем квартале 2027 года, сообщил глава ведомства Дмитрий Ядров",
-      "main_idea": "Минтранс назвал сроки изменения программы субсидирования авиаперевозок",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Nov 2026 00:34:24 +0300",
-      "url": "https://tass.ru/ekonomika/28341477",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Захарова прокомментировала допущение Молдавией высылки посла России",
-      "title_neutral": "Захарова прокомментировала допущение Молдавией высылки посла России",
-      "excerpt": "Официальный представитель МИД отметила, что власти республики могут \"поэкспериментировать\", если им надоело присутствие своих дипломатов в РФ",
-      "recap_neutral": "Официальный представитель МИД отметила, что власти республики могут \"поэкспериментировать\", если им надоело присутствие своих дипломатов в РФ",
-      "main_idea": "Захарова прокомментировала допущение Молдавией высылки посла России",
+      "title_original": "Миронов предложил сделать продленку в школах полностью бесплатной",
+      "title_neutral": "Миронов предложил сделать продленку в школах полностью бесплатной",
+      "excerpt": "Председатель партии \"Справедливая Россия\" также считает, что она должна стать полноценной частью школьного учебного дня с выполнением домашнего задания",
+      "recap_neutral": "Председатель партии \"Справедливая Россия\" также считает, что она должна стать полноценной частью школьного учебного дня с выполнением домашнего задания",
+      "main_idea": "Миронов предложил сделать продленку в школах полностью бесплатной",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Sat, 21 Nov 2026 00:31:16 +0300",
-      "url": "https://tass.ru/politika/28341473",
+      "published_at": "Sat, 21 Nov 2026 06:16:51 +0300",
+      "url": "https://tass.ru/obschestvo/28341703",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "\"Бавария\" сыграла вничью с \"Кёльном\" в первом матче после возвращения Компани",
-      "title_neutral": "\"Бавария\" сыграла вничью с \"Кёльном\" в первом матче после возвращения Компани",
-      "excerpt": "Встреча завершилась со счетом 1:1",
-      "recap_neutral": "Встреча завершилась со счетом 1:1",
-      "main_idea": "\"Бавария\" сыграла вничью с \"Кёльном\" в первом матче после возвращения Компани",
+      "title_original": "В МВД сообщили, чего не стоит делать через общественный Wi-Fi",
+      "title_neutral": "В МВД сообщили, чего не стоит делать через общественный Wi-Fi",
+      "excerpt": "Не рекомендуется вводить персональные и платежные данные на различных сайтах, то же касается логинов и паролей, предупредили в ведомстве",
+      "recap_neutral": "Не рекомендуется вводить персональные и платежные данные на различных сайтах, то же касается логинов и паролей, предупредили в ведомстве",
+      "main_idea": "В МВД сообщили, чего не стоит делать через общественный Wi-Fi",
       "tags": [],
       "source": "ТАСС",
-      "published_at": "Sat, 21 Nov 2026 00:30:08 +0300",
-      "url": "https://tass.ru/sport/28341469",
+      "published_at": "Sat, 21 Nov 2026 06:16:15 +0300",
+      "url": "https://tass.ru/obschestvo/28341707",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "ДНР предложила инвесторам обустроить 12 многофункциональных зон у ключевых трасс",
-      "title_neutral": "ДНР предложила инвесторам обустроить 12 многофункциональных зон у ключевых трасс",
-      "excerpt": "Проект предусматривает развитие современной придорожной инфраструктуры, которая обеспечит автомобилистам комплекс услуг в пути, сообщили в Корпорации развития Донбасса",
-      "recap_neutral": "Проект предусматривает развитие современной придорожной инфраструктуры, которая обеспечит автомобилистам комплекс услуг в пути, сообщили в Корпорации развития Донбасса",
-      "main_idea": "ДНР предложила инвесторам обустроить 12 многофункциональных зон у ключевых трасс",
+      "title_original": "Clojure will affect the way you think about programming (2017)",
+      "title_neutral": "Clojure will affect the way you think about programming (2017)",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Clojure will affect the way you think about programming (2017)",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Sat, 21 Nov 2026 02:40:39 +0000",
+      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "title_neutral": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "excerpt": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "recap_neutral": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow",
+      "main_idea": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Sat, 21 Nov 2026 02:09:46 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "title_neutral": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "excerpt": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+      "recap_neutral": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates",
+      "main_idea": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
       "tags": [
         "tech"
       ],
-      "source": "ТАСС",
-      "published_at": "Sat, 21 Nov 2026 00:29:56 +0300",
-      "url": "https://tass.ru/ekonomika/28341467",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
+      "source": "BBC World",
+      "published_at": "Sat, 21 Nov 2026 00:01:39 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Re: Riemann",
+      "title_neutral": "Re: Riemann",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Re: Riemann",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 20 Nov 2026 23:42:44 +0000",
+      "url": "https://borretti.me/article/re-riemann",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "White Police Officers Are Convicted of Beating a Black Man in France",
+      "title_neutral": "White Police Officers Are Convicted of Beating a Black Man in France",
+      "excerpt": "The three officers were filmed beating Michel Zecler, a music producer, inside his Paris studio in 2020, setting off a national backlash.",
+      "recap_neutral": "The three officers were filmed beating Michel Zecler, a music producer, inside his Paris studio in 2020, setting off a national backlash",
+      "main_idea": "White Police Officers Are Convicted of Beating a Black Man in France",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Fri, 20 Nov 2026 23:21:51 +0000",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Sir Brian May adds new dimension to Hera asteroid",
+      "title_neutral": "Sir Brian May adds new dimension to Hera asteroid",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Sir Brian May adds new dimension to Hera asteroid",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Fri, 20 Nov 2026 23:19:44 +0000",
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "title_neutral": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "excerpt": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "recap_neutral": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time",
+      "main_idea": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Fri, 20 Nov 2026 23:08:57 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The War Is Ravaging Ukraine’s Wildlife, Too",
+      "title_neutral": "The War Is Ravaging Ukraine’s Wildlife, Too",
+      "excerpt": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
+      "recap_neutral": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire",
+      "main_idea": "The War Is Ravaging Ukraine’s Wildlife, Too",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Fri, 20 Nov 2026 23:05:46 +0000",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -466,6 +615,40 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "NINLIVE: The Nine Inch Nails live archive",
+      "title_neutral": "NINLIVE: The Nine Inch Nails live archive",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "NINLIVE: The Nine Inch Nails live archive",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Fri, 20 Nov 2026 22:30:47 +0000",
+      "url": "https://ninlive.com/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The Anchor Effect: Why Destination Footfall Doesn't Equal Retail Demand",
+      "title_neutral": "The Anchor Effect: Why Destination Footfall Doesn't Equal Retail Demand",
+      "excerpt": "Battersea Power Station hit 50M visits, yet vacancy ranges from 6% to 38% by zone. Why destination footfall is not shopfront demand, and how to measure it.",
+      "recap_neutral": "Battersea Power Station hit 50M visits, yet vacancy ranges from 6% to 38% by zone",
+      "main_idea": "The Anchor Effect: Why Destination Footfall Doesn't Equal Retail Demand",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Fri, 20 Nov 2026 22:26:25 GMT",
+      "url": "https://hackernoon.com/the-anchor-effect-why-destination-footfall-doesnt-equal-retail-demand?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
       "title_neutral": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
       "excerpt": "Danish officials say Russian intelligence services recruited members of a violent gang to try to assassinate a Ukrainian rapper at a concert outside Copenhagen.",
@@ -483,20 +666,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Chinese-Born Neuroscientist Is Detained by ICE While Traveling From Conference",
-      "title_neutral": "Chinese-Born Neuroscientist Is Detained by ICE While Traveling From Conference",
-      "excerpt": "Eva Yi Xie was detained on her way back to New Jersey from a neuroscience conference in Washington this week, the latest in a string of researcher arrests.",
-      "recap_neutral": "Eva Yi Xie was detained on her way back to New Jersey from a neuroscience conference in Washington this week, the latest in a string of researcher arrests",
-      "main_idea": "Chinese-Born Neuroscientist Is Detained by ICE While Traveling From Conference",
-      "tags": [
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 20 Nov 2026 22:06:57 +0000",
-      "url": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
+      "title_original": "We Killed Our Staging Environment and Moved QA to Production Canaries",
+      "title_neutral": "We Killed Our Staging Environment and Moved QA to Production Canaries",
+      "excerpt": "Our shared staging cluster cost $2,740/month and missed real production bugs. Here is how we killed staging and moved QA to Argo Rollouts canaries.",
+      "recap_neutral": "Our shared staging cluster cost $2,740/month and missed real production bugs",
+      "main_idea": "We Killed Our Staging Environment and Moved QA to Production Canaries",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Fri, 20 Nov 2026 22:05:54 GMT",
+      "url": "https://hackernoon.com/we-killed-our-staging-environment-and-moved-qa-to-production-canaries?source=rss",
       "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -517,11 +698,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
-      "title_neutral": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+      "title_original": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+      "title_neutral": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
       "excerpt": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he…",
       "recap_neutral": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that bu…",
-      "main_idea": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+      "main_idea": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
       "tags": [
         "politics",
         "tech"
@@ -532,21 +713,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A few hours ago Google DeepMind created a math horizon repo",
-      "title_neutral": "A few hours ago Google DeepMind created a math horizon repo",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "A few hours ago Google DeepMind created a math horizon repo",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 20 Nov 2026 21:42:21 +0000",
-      "url": "https://github.com/google-deepmind/math-horizon",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -565,6 +731,21 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "177 Blog Posts To Learn About Bitcoin Mining",
+      "title_neutral": "177 Blog Posts To Learn About Bitcoin Mining",
+      "excerpt": "Learn everything you need to know about Bitcoin Mining via these 177 free HackerNoon blog posts.",
+      "recap_neutral": "Learn everything you need to know about Bitcoin Mining via these 177 free HackerNoon blog posts",
+      "main_idea": "177 Blog Posts To Learn About Bitcoin Mining",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Fri, 20 Nov 2026 21:00:55 GMT",
+      "url": "https://hackernoon.com/177-blog-posts-to-learn-about-bitcoin-mining?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -636,11 +817,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "And Yet, It Moves",
-      "title_neutral": "And Yet, It Moves",
+      "title_original": "And yet, it moves",
+      "title_neutral": "And yet, it moves",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "And Yet, It Moves",
+      "main_idea": "And yet, it moves",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Fri, 20 Nov 2026 20:07:55 +0000",
@@ -666,21 +847,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-      "title_neutral": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 20 Nov 2026 20:03:07 +0000",
-      "url": "https://scottaaronson.blog/?p=10344",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Gérard Depardieu and French author investigated over sexual allegations",
       "title_neutral": "Gérard Depardieu and French author investigated over sexual allegations",
       "excerpt": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
@@ -698,21 +864,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Winedroid – run Android apps without Android (WASM demo)",
-      "title_neutral": "Winedroid – run Android apps without Android (WASM demo)",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Winedroid – run Android apps without Android (WASM demo)",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 20 Nov 2026 19:30:16 +0000",
-      "url": "https://winedroid.soham.sh/demo/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
       "title_neutral": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
       "excerpt": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
@@ -722,23 +873,6 @@
       "source": "BBC World",
       "published_at": "Fri, 20 Nov 2026 19:27:49 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "White House removes cyber-security chief after series of tech outages",
-      "title_neutral": "White House removes cyber-security chief after series of tech outages",
-      "excerpt": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
-      "recap_neutral": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports",
-      "main_idea": "White House removes cyber-security chief after series of tech outages",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 20 Nov 2026 19:03:56 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
@@ -769,21 +903,6 @@
       "source": "Hacker News",
       "published_at": "Fri, 20 Nov 2026 18:17:51 +0000",
       "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Vibecoding an inference chip",
-      "title_neutral": "Vibecoding an inference chip",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Vibecoding an inference chip",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Fri, 20 Nov 2026 18:15:16 +0000",
-      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -835,24 +954,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "title_neutral": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "excerpt": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "recap_neutral": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow",
-      "main_idea": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 20 Nov 2026 16:54:29 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -923,6 +1024,21 @@
       "confidence": "heuristic"
     },
     {
+      "title_original": "MLK's handwritten draft of iconic speech on display for the first time",
+      "title_neutral": "MLK's handwritten draft of iconic speech on display for the first time",
+      "excerpt": "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page.",
+      "recap_neutral": "The only known handwritten draft of The Reverend Martin Luther King Jr",
+      "main_idea": "MLK's handwritten draft of iconic speech on display for the first time",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Fri, 20 Nov 2026 16:38:05 -0500",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
       "title_original": "Language Models Can Rewrite Their Own Weights",
       "title_neutral": "Language Models Can Rewrite Their Own Weights",
       "excerpt": "Comments",
@@ -949,24 +1065,6 @@
       "source": "NYTimes World",
       "published_at": "Fri, 20 Nov 2026 16:18:21 +0000",
       "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The War Is Ravaging Ukraine’s Wildlife, Too",
-      "title_neutral": "The War Is Ravaging Ukraine’s Wildlife, Too",
-      "excerpt": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
-      "recap_neutral": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire",
-      "main_idea": "The War Is Ravaging Ukraine’s Wildlife, Too",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Fri, 20 Nov 2026 16:05:55 +0000",
-      "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -1409,23 +1507,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "How I Traced a Missing Vercel AI SDK Duration Histogram",
-      "title_neutral": "How I Traced a Missing Vercel AI SDK Duration Histogram",
-      "excerpt": "I ran 25 mock calls per version to see how the Vercel AI SDK records generation, streaming and failures in its OpenTelemetry inference histogram.",
-      "recap_neutral": "I ran 25 mock calls per version to see how the Vercel AI SDK records generation, streaming and failures in its OpenTelemetry inference histogram",
-      "main_idea": "How I Traced a Missing Vercel AI SDK Duration Histogram",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 20 Nov 2026 10:15:02 GMT",
-      "url": "https://hackernoon.com/how-i-traced-a-missing-vercel-ai-sdk-duration-histogram?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Trump touts meeting with Xi and Putin but offers little results",
       "title_neutral": "Trump touts meeting with Xi and Putin but offers little results",
       "excerpt": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
@@ -1441,50 +1522,20 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "If you can't explain something in simple terms, you don't understand it (2017)",
-      "title_neutral": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "title_original": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "title_neutral": "Restricting AI agents in mobile operating systems platforms from capturing data",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "main_idea": "Restricting AI agents in mobile operating systems platforms from capturing data",
       "tags": [
         "tech"
       ],
-      "source": "Hacker News",
-      "published_at": "Fri, 20 Nov 2026 09:43:19 +0000",
-      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Signal Is Serious About Protecting Your Privacy",
-      "title_neutral": "Signal Is Serious About Protecting Your Privacy",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Signal Is Serious About Protecting Your Privacy",
-      "tags": [],
       "source": "Hacker News",
       "published_at": "Fri, 20 Nov 2026 09:42:16 +0000",
       "url": "https://signal.org/blog/protecting-your-privacy/",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Running an Embedding Model Next to My Notes on an iPhone",
-      "title_neutral": "Running an Embedding Model Next to My Notes on an iPhone",
-      "excerpt": "How I built private, on-device semantic search for a notes app using a 350M-parameter embedding model, SQLite, ExecuTorch, and llama.cpp.",
-      "recap_neutral": "How I built private, on-device semantic search for a notes app using a 350M-parameter embedding model, SQLite, ExecuTorch, and llama",
-      "main_idea": "Running an Embedding Model Next to My Notes on an iPhone",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Fri, 20 Nov 2026 09:30:03 GMT",
-      "url": "https://hackernoon.com/running-an-embedding-model-next-to-my-notes-on-an-iphone?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -1554,23 +1605,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "5 Banking Compliance Risks Every Independent Contractor Needs to Understand",
-      "title_neutral": "5 Banking Compliance Risks Every Independent Contractor Needs to Understand",
-      "excerpt": "Why do freelancers and remote workers face banking reviews? Explore AML monitoring, common account risk triggers, and practical compliance preparation.",
-      "recap_neutral": "Why do freelancers and remote workers face banking reviews? Explore AML monitoring, common account risk triggers, and practical compliance preparation",
-      "main_idea": "5 Banking Compliance Risks Every Independent Contractor Needs to Understand",
-      "tags": [
-        "economy"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Fri, 20 Nov 2026 08:00:02 GMT",
-      "url": "https://hackernoon.com/5-banking-compliance-risks-every-independent-contractor-needs-to-understand?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
       "title_neutral": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
       "excerpt": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
@@ -1582,24 +1616,6 @@
       "source": "NPR",
       "published_at": "Fri, 20 Nov 2026 07:24:40 -0500",
       "url": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-      "title_neutral": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-      "excerpt": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
-      "recap_neutral": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power",
-      "main_idea": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Fri, 20 Nov 2026 07:04:57 -0500",
-      "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1635,23 +1651,6 @@
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-      "title_neutral": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-      "excerpt": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
-      "recap_neutral": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers",
-      "main_idea": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Fri, 20 Nov 2026 00:08:22 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     }
   ]
