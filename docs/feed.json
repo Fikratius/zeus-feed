@@ -1,301 +1,689 @@
 {
-  "last_updated": "2026-11-24T18:02:45.944868+00:00",
+  "last_updated": "2026-11-25T02:41:02.860085+00:00",
   "items": [
     {
-      "title_original": "Путин поручил проработать вопрос урегулирования долгов авиакомпаний ДФО по лизингу",
-      "title_neutral": "Путин поручил проработать вопрос урегулирования долгов авиакомпаний ДФО по лизингу",
-      "excerpt": "Поручение опубликовано на сайте Кремля",
-      "recap_neutral": "Поручение опубликовано на сайте Кремля",
-      "main_idea": "Путин поручил проработать вопрос урегулирования долгов авиакомпаний ДФО по лизингу",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Tue, 24 Nov 2026 20:57:17 +0300",
-      "url": "https://tass.ru/ekonomika/28351039",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин поручил урегулировать применение льготных налоговых режимов для инвестпроектов",
-      "title_neutral": "Путин поручил урегулировать применение льготных налоговых режимов для инвестпроектов",
-      "excerpt": "Глава государства поручил устранить правовую неопределенность при одновременном применении нескольких преференциальных налоговых режимов",
-      "recap_neutral": "Глава государства поручил устранить правовую неопределенность при одновременном применении нескольких преференциальных налоговых режимов",
-      "main_idea": "Путин поручил урегулировать применение льготных налоговых режимов для инвестпроектов",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Tue, 24 Nov 2026 20:57:09 +0300",
-      "url": "https://tass.ru/ekonomika/28351027",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Одессе произошел взрыв",
-      "title_neutral": "В Одессе произошел взрыв",
-      "excerpt": "В городе была объявлена воздушная тревога",
-      "recap_neutral": "В городе была объявлена воздушная тревога",
-      "main_idea": "В Одессе произошел взрыв",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Tue, 24 Nov 2026 20:55:47 +0300",
-      "url": "https://tass.ru/proisshestviya/28351041",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Туве ищут двух подростков из школы-интерната",
-      "title_neutral": "В Туве ищут двух подростков из школы-интерната",
-      "excerpt": "Оба мальчика одеты в серые спортивные брюки, темные сапоги и черные шапки",
-      "recap_neutral": "Оба мальчика одеты в серые спортивные брюки, темные сапоги и черные шапки",
-      "main_idea": "В Туве ищут двух подростков из школы-интерната",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Tue, 24 Nov 2026 20:55:35 +0300",
-      "url": "https://tass.ru/proisshestviya/28351033",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Минфин направит не менее 7,2% инвестиционных расходов госпрограмм в ДФО",
-      "title_neutral": "Минфин направит не менее 7,2% инвестиционных расходов госпрограмм в ДФО",
-      "excerpt": "Срок исполнения поручения назначили на 15 декабря",
-      "recap_neutral": "Срок исполнения поручения назначили на 15 декабря",
-      "main_idea": "Минфин направит не менее 7,2% инвестиционных расходов госпрограмм в ДФО",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Tue, 24 Nov 2026 20:53:54 +0300",
-      "url": "https://tass.ru/ekonomika/28351007",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Синдаров и Гукеш сыграли вничью в первой партии матча за мировую шахматную корону",
-      "title_neutral": "Синдаров и Гукеш сыграли вничью в первой партии матча за мировую шахматную корону",
-      "excerpt": "Встреча проходит в Швейцарии",
-      "recap_neutral": "Встреча проходит в Швейцарии",
-      "main_idea": "Синдаров и Гукеш сыграли вничью в первой партии матча за мировую шахматную корону",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Tue, 24 Nov 2026 20:53:33 +0300",
-      "url": "https://tass.ru/sport/28351029",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Комплекс \"Барсова Гора\" в Сургутском районе занял второе место на международной премии",
-      "title_neutral": "Комплекс \"Барсова Гора\" в Сургутском районе занял второе место на международной премии",
-      "excerpt": "Музейный комплекс площадью 1,6 тыс. кв. м включает выставочные залы, лабораторию, фондохранилища, мастерскую и архив",
-      "recap_neutral": "Музейный комплекс площадью 1,6 тыс",
-      "main_idea": "Комплекс \"Барсова Гора\" в Сургутском районе занял второе место на международной премии",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Tue, 24 Nov 2026 20:53:32 +0300",
-      "url": "https://tass.ru/obschestvo/28351015",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин поручил сформировать дополнительные источники финансирования для ДФО и АЗРФ",
-      "title_neutral": "Путин поручил сформировать дополнительные источники финансирования для ДФО и АЗРФ",
-      "excerpt": "Доклад об исполнении поручения необходимо представить до 1 февраля 2027 года",
-      "recap_neutral": "Доклад об исполнении поручения необходимо представить до 1 февраля 2027 года",
-      "main_idea": "Путин поручил сформировать дополнительные источники финансирования для ДФО и АЗРФ",
-      "tags": [
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Tue, 24 Nov 2026 20:52:43 +0300",
-      "url": "https://tass.ru/ekonomika/28351021",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "В Колумбии преступники удерживают в заложниках 25 человек в супермаркете",
-      "title_neutral": "В Колумбии преступники удерживают в заложниках 25 человек в супермаркете",
-      "excerpt": "По словам президента страны Абелардо де ла Эсприэлья, пять женщин уже были освобождены",
-      "recap_neutral": "По словам президента страны Абелардо де ла Эсприэлья, пять женщин уже были освобождены",
-      "main_idea": "В Колумбии преступники удерживают в заложниках 25 человек в супермаркете",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "ТАСС",
-      "published_at": "Tue, 24 Nov 2026 20:52:01 +0300",
-      "url": "https://tass.ru/proisshestviya/28351017",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин поручил обеспечить в РФ развитие магистральной квантовой сети",
-      "title_neutral": "Путин поручил обеспечить в РФ развитие магистральной квантовой сети",
-      "excerpt": "Доклад по этому вопросу должен быть представлен до 1 декабря 2027 года",
-      "recap_neutral": "Доклад по этому вопросу должен быть представлен до 1 декабря 2027 года",
-      "main_idea": "Путин поручил обеспечить в РФ развитие магистральной квантовой сети",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Tue, 24 Nov 2026 20:51:55 +0300",
-      "url": "https://tass.ru/ekonomika/28351019",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Власти Мурманской области работают в обычном режиме после задержания Чибиса",
-      "title_neutral": "Власти Мурманской области работают в обычном режиме после задержания Чибиса",
-      "excerpt": "Руководители министерств и ведомств находятся на рабочих местах",
-      "recap_neutral": "Руководители министерств и ведомств находятся на рабочих местах",
-      "main_idea": "Власти Мурманской области работают в обычном режиме после задержания Чибиса",
-      "tags": [],
-      "source": "ТАСС",
-      "published_at": "Tue, 24 Nov 2026 20:47:42 +0300",
-      "url": "https://tass.ru/obschestvo/28350983",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Депутат Рады Нагорняк: водоснабжение украинских городов находится под угрозой",
-      "title_neutral": "Депутат Рады Нагорняк: водоснабжение украинских городов находится под угрозой",
-      "excerpt": "Парламентарий заявил, что большинство городов имеют запасы топлива для генераторов на 6-8-12 часов",
-      "recap_neutral": "Парламентарий заявил, что большинство городов имеют запасы топлива для генераторов на 6-8-12 часов",
-      "main_idea": "Депутат Рады Нагорняк: водоснабжение украинских городов находится под угрозой",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Tue, 24 Nov 2026 20:47:01 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28350989",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Минюст США не исключает проведения расследования против гендиректора Nvidia",
-      "title_neutral": "Минюст США не исключает проведения расследования против гендиректора Nvidia",
-      "excerpt": "Главу ведомства Тодда Бланша попросили прокомментировать слова президента США Дональда Трампа, который ранее заявил, что Дженсен Хуанг \"был оправдан\" Минюстом",
-      "recap_neutral": "Главу ведомства Тодда Бланша попросили прокомментировать слова президента США Дональда Трампа, который ранее заявил, что Дженсен Хуанг \"был оправдан\" Минюстом",
-      "main_idea": "Минюст США не исключает проведения расследования против гендиректора Nvidia",
-      "tags": [
-        "politics"
-      ],
-      "source": "ТАСС",
-      "published_at": "Tue, 24 Nov 2026 20:46:28 +0300",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28351001",
-      "lang": "ru",
-      "bias_score": 62,
-      "left_right_index": 12,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Путин поручил рассмотреть субсидии на поддержание летной годности авиатехники",
-      "title_neutral": "Путин поручил рассмотреть субсидии на поддержание летной годности авиатехники",
+      "title_original": "В Якутии женщину осудили за мошенничество с детскими пособиями",
+      "title_neutral": "В Якутии женщину осудили за мошенничество с детскими пособиями",
       "excerpt": "",
-      "recap_neutral": "Путин поручил рассмотреть субсидии на поддержание летной годности авиатехники",
-      "main_idea": "Путин поручил рассмотреть субсидии на поддержание летной годности авиатехники",
+      "recap_neutral": "В Якутии женщину осудили за мошенничество с детскими пособиями",
+      "main_idea": "В Якутии женщину осудили за мошенничество с детскими пособиями",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Tue, 24 Nov 2026 20:45:54 +0300",
-      "url": "https://tass.ru/ekonomika/28350999",
+      "published_at": "Wed, 25 Nov 2026 05:38:16 +0300",
+      "url": "https://tass.ru/proisshestviya/28351631",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "В Херсонской области наблюдаются сильные перепады напряжения",
-      "title_neutral": "В Херсонской области наблюдаются сильные перепады напряжения",
-      "excerpt": "Потребителей попросили, по возможности, сократить использование электроэнергии в вечернее время, а также отключить электроприборы, чувствительные к перепадам напряжения",
-      "recap_neutral": "Потребителей попросили, по возможности, сократить использование электроэнергии в вечернее время, а также отключить электроприборы, чувствительные к перепадам напряжения",
-      "main_idea": "В Херсонской области наблюдаются сильные перепады напряжения",
+      "title_original": "В группировке \"Север\" заявили об уничтожении станции РЭБ и боевиков ВСУ",
+      "title_neutral": "В группировке \"Север\" заявили об уничтожении станции РЭБ и боевиков ВСУ",
+      "excerpt": "Командир расчета с позывным Бит отметил, что цели поразили дронами на оптоволокне",
+      "recap_neutral": "Командир расчета с позывным Бит отметил, что цели поразили дронами на оптоволокне",
+      "main_idea": "В группировке \"Север\" заявили об уничтожении станции РЭБ и боевиков ВСУ",
       "tags": [
         "tech"
       ],
       "source": "ТАСС",
-      "published_at": "Tue, 24 Nov 2026 20:44:40 +0300",
-      "url": "https://tass.ru/proisshestviya/28350949",
+      "published_at": "Wed, 25 Nov 2026 05:37:23 +0300",
+      "url": "https://tass.ru/armiya-i-opk/28351629",
       "lang": "ru",
       "bias_score": 62,
       "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
-      "title_neutral": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
-      "excerpt": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
-      "recap_neutral": "Presidents before him have bailed out companies in times of national crisis",
-      "main_idea": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+      "title_original": "В Китае заявили, что саммит КНР, РФ и США в Шэньчжэне предрекает мир Тайваню",
+      "title_neutral": "В Китае заявили, что саммит КНР, РФ и США в Шэньчжэне предрекает мир Тайваню",
+      "excerpt": "",
+      "recap_neutral": "В Китае заявили, что саммит КНР, РФ и США в Шэньчжэне предрекает мир Тайваню",
+      "main_idea": "В Китае заявили, что саммит КНР, РФ и США в Шэньчжэне предрекает мир Тайваню",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 25 Nov 2026 05:35:18 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28351627",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Врач Тутельян объяснил, чем опасна покупка лишних антибиотиков",
+      "title_neutral": "Врач Тутельян объяснил, чем опасна покупка лишних антибиотиков",
+      "excerpt": "Пришедшие в негодность препараты выкидывают в мусор, что способствует формированию устойчивости микроорганизмов к противомикробным препаратам, рассказал академик РАН",
+      "recap_neutral": "Пришедшие в негодность препараты выкидывают в мусор, что способствует формированию устойчивости микроорганизмов к противомикробным препаратам, рассказал академик РАН",
+      "main_idea": "Врач Тутельян объяснил, чем опасна покупка лишних антибиотиков",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 25 Nov 2026 05:34:11 +0300",
+      "url": "https://tass.ru/obschestvo/28351625",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Трамп выступил в защиту министра, раскритикованного коллегами в администрации",
+      "title_neutral": "Трамп выступил в защиту министра, раскритикованного коллегами в администрации",
+      "excerpt": "Американский президент назвал министра внутренней безопасности США Маркуэйна Маллина \"хорошим человеком\"",
+      "recap_neutral": "Американский президент назвал министра внутренней безопасности США Маркуэйна Маллина \"хорошим человеком\"",
+      "main_idea": "Трамп выступил в защиту министра, раскритикованного коллегами в администрации",
       "tags": [
         "politics",
-        "conflict",
         "tech"
       ],
-      "source": "NYTimes World",
-      "published_at": "Tue, 24 Nov 2026 18:00:33 +0000",
-      "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
+      "source": "ТАСС",
+      "published_at": "Wed, 25 Nov 2026 05:31:54 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28351623",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-      "title_neutral": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+      "title_original": "Работодатель сможет проверять квалификацию участника СВО без диплома",
+      "title_neutral": "Работодатель сможет проверять квалификацию участника СВО без диплома",
+      "excerpt": "",
+      "recap_neutral": "Работодатель сможет проверять квалификацию участника СВО без диплома",
+      "main_idea": "Работодатель сможет проверять квалификацию участника СВО без диплома",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 25 Nov 2026 05:31:12 +0300",
+      "url": "https://tass.ru/obschestvo/28351619",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В МВД рассказали, как мошенники вовлекают людей в преступления",
+      "title_neutral": "В МВД рассказали, как мошенники вовлекают людей в преступления",
+      "excerpt": "По данным ведомства, аферисты нередко призывают держать беседу с ними в секрете, а также обещают \"законный\" и \"легкий\" заработок",
+      "recap_neutral": "По данным ведомства, аферисты нередко призывают держать беседу с ними в секрете, а также обещают \"законный\" и \"легкий\" заработок",
+      "main_idea": "В МВД рассказали, как мошенники вовлекают людей в преступления",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 25 Nov 2026 05:23:56 +0300",
+      "url": "https://tass.ru/obschestvo/28351621",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Детский писатель Усачев рассказал о новой сказке и продолжении \"Умной собачки Сони\"",
+      "title_neutral": "Детский писатель Усачев рассказал о новой сказке и продолжении \"Умной собачки Сони\"",
+      "excerpt": "Он также написал продолжение своей сказочной повести \"Малуся и Рогопед\"",
+      "recap_neutral": "Он также написал продолжение своей сказочной повести \"Малуся и Рогопед\"",
+      "main_idea": "Детский писатель Усачев рассказал о новой сказке и продолжении \"Умной собачки Сони\"",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 25 Nov 2026 05:21:04 +0300",
+      "url": "https://tass.ru/kultura/28351607",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Названа доля водителей в РФ, верящих в появление беспилотных такси через 10 лет",
+      "title_neutral": "Названа доля водителей в РФ, верящих в появление беспилотных такси через 10 лет",
+      "excerpt": "",
+      "recap_neutral": "Названа доля водителей в РФ, верящих в появление беспилотных такси через 10 лет",
+      "main_idea": "Названа доля водителей в РФ, верящих в появление беспилотных такси через 10 лет",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 25 Nov 2026 05:20:12 +0300",
+      "url": "https://tass.ru/obschestvo/28351603",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Semafor: кронпринц Саудовской Аравии намерен принять участие в саммите G20",
+      "title_neutral": "Semafor: кронпринц Саудовской Аравии намерен принять участие в саммите G20",
+      "excerpt": "Мухаммед бен Сальман Аль Сауд не участвовал в саммитах объединения в 2024 и 2025 годах, пишет портал",
+      "recap_neutral": "Мухаммед бен Сальман Аль Сауд не участвовал в саммитах объединения в 2024 и 2025 годах, пишет портал",
+      "main_idea": "Semafor: кронпринц Саудовской Аравии намерен принять участие в саммите G20",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 25 Nov 2026 05:18:48 +0300",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28351613",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Онищенко рассказал, как сдержать распространение гриппа в России",
+      "title_neutral": "Онищенко рассказал, как сдержать распространение гриппа в России",
+      "excerpt": "Этому поспособствуют новогодние каникулы, во время которых контакты между школьниками сократятся, сообщил заместитель президента Российской академии образования",
+      "recap_neutral": "Этому поспособствуют новогодние каникулы, во время которых контакты между школьниками сократятся, сообщил заместитель президента Российской академии образования",
+      "main_idea": "Онищенко рассказал, как сдержать распространение гриппа в России",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 25 Nov 2026 05:18:13 +0300",
+      "url": "https://tass.ru/obschestvo/28351601",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В аэропорту Новосибирска задержали прилет 22 рейсов",
+      "title_neutral": "В аэропорту Новосибирска задержали прилет 22 рейсов",
+      "excerpt": "Вылеты в Иркутск и Астану отменили",
+      "recap_neutral": "Вылеты в Иркутск и Астану отменили",
+      "main_idea": "В аэропорту Новосибирска задержали прилет 22 рейсов",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 25 Nov 2026 05:13:21 +0300",
+      "url": "https://tass.ru/ekonomika/28351609",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Поезд из Пекина в Иркутск отправился в первый за шесть лет рейс",
+      "title_neutral": "Поезд из Пекина в Иркутск отправился в первый за шесть лет рейс",
+      "excerpt": "Он будет ходить раз в неделю",
+      "recap_neutral": "Он будет ходить раз в неделю",
+      "main_idea": "Поезд из Пекина в Иркутск отправился в первый за шесть лет рейс",
+      "tags": [],
+      "source": "ТАСС",
+      "published_at": "Wed, 25 Nov 2026 05:11:41 +0300",
+      "url": "https://tass.ru/ekonomika/28351605",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "В финал технологической олимпиады \"Юниоры\" вышли более 5 тыс. школьников",
+      "title_neutral": "В финал технологической олимпиады \"Юниоры\" вышли более 5 тыс. школьников",
+      "excerpt": "Заключительный этап состязаний пройдет с 7 по 17 декабря",
+      "recap_neutral": "Заключительный этап состязаний пройдет с 7 по 17 декабря",
+      "main_idea": "В финал технологической олимпиады \"Юниоры\" вышли более 5 тыс. школьников",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 25 Nov 2026 05:11:20 +0300",
+      "url": "https://tass.ru/obschestvo/28351599",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Отцу Меган Маркл предъявили обвинения в хранении детской порнографии",
+      "title_neutral": "Отцу Меган Маркл предъявили обвинения в хранении детской порнографии",
+      "excerpt": "",
+      "recap_neutral": "Отцу Меган Маркл предъявили обвинения в хранении детской порнографии",
+      "main_idea": "Отцу Меган Маркл предъявили обвинения в хранении детской порнографии",
+      "tags": [
+        "tech"
+      ],
+      "source": "ТАСС",
+      "published_at": "Wed, 25 Nov 2026 05:07:36 +0300",
+      "url": "https://tass.ru/proisshestviya/28351595",
+      "lang": "ru",
+      "bias_score": 62,
+      "left_right_index": 12,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "China investigates politburo star in Xi Jinping’s latest purge",
+      "title_neutral": "China investigates politburo star in Xi Jinping’s latest purge",
+      "excerpt": "Chen Jining, regarded as a contender for higher office, becomes the fourth member of China’s elite politburo to be investigated since 2025 China has launched an investigation into Shanghai’s Communist party chief Chen Jining, a member of the country’s elite politburo, the state-run Xinhua news agen…",
+      "recap_neutral": "Chen Jining, regarded as a contender for higher office, becomes the fourth member of China’s elite politburo to be investigated since 2025 China has launched an investigation into Shanghai’s Communist party chief Chen J…",
+      "main_idea": "China investigates politburo star in Xi Jinping’s latest purge",
+      "tags": [
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Wed, 25 Nov 2026 01:31:46 GMT",
+      "url": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "title_neutral": "Matrix Multiplication is Θ(n^2.25) [pdf]",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+      "main_idea": "Matrix Multiplication is Θ(n^2.25) [pdf]",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Tue, 24 Nov 2026 17:10:45 +0000",
-      "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+      "published_at": "Wed, 25 Nov 2026 01:19:26 +0000",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-      "title_neutral": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-      "excerpt": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
-      "recap_neutral": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading",
-      "main_idea": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+      "title_original": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "title_neutral": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "excerpt": "The verdict follows a months-long trial in New York.",
+      "recap_neutral": "The verdict follows a months-long trial in New York",
+      "main_idea": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "tags": [],
+      "source": "BBC World",
+      "published_at": "Wed, 25 Nov 2026 01:11:57 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "title_neutral": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 25 Nov 2026 00:54:49 +0000",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Trump Administration Pauses Joint Operations With Ecuador",
+      "title_neutral": "Trump Administration Pauses Joint Operations With Ecuador",
+      "excerpt": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
+      "recap_neutral": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader",
+      "main_idea": "Trump Administration Pauses Joint Operations With Ecuador",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Wed, 25 Nov 2026 00:42:52 +0000",
+      "url": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
+      "title_neutral": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
+      "excerpt": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
+      "recap_neutral": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources",
+      "main_idea": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
       "tags": [
-        "economy",
         "tech"
       ],
+      "source": "NYTimes World",
+      "published_at": "Wed, 25 Nov 2026 00:38:34 +0000",
+      "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Here in the World: Letters of Albert Camus, 1944–1959",
+      "title_neutral": "Here in the World: Letters of Albert Camus, 1944–1959",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Here in the World: Letters of Albert Camus, 1944–1959",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Wed, 25 Nov 2026 00:36:43 +0000",
+      "url": "https://literaryreview.co.uk/here-in-the-world",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
+      "title_neutral": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
+      "excerpt": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García is leaving the United States of his own volition, his lawyers confirmed on Tuesday. Ábrego is leaving the US for Spain on Tuesday evening. Continue r…",
+      "recap_neutral": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García is leaving the United States of his own volition, his lawyers confirm…",
+      "main_idea": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
+      "tags": [
+        "tech"
+      ],
+      "source": "The Guardian",
+      "published_at": "Tue, 24 Nov 2026 23:50:31 GMT",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Pope Francis Diary Excerpts Published in New Book",
+      "title_neutral": "Pope Francis Diary Excerpts Published in New Book",
+      "excerpt": "Over decades, before and after he became leader of the Roman Catholic Church, Francis recorded occasional entries about his fears and doubts.",
+      "recap_neutral": "Over decades, before and after he became leader of the Roman Catholic Church, Francis recorded occasional entries about his fears and doubts",
+      "main_idea": "Pope Francis Diary Excerpts Published in New Book",
+      "tags": [],
+      "source": "NYTimes World",
+      "published_at": "Tue, 24 Nov 2026 22:03:38 +0000",
+      "url": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Heart attack and stroke risk detectable decades in advance",
+      "title_neutral": "Heart attack and stroke risk detectable decades in advance",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Heart attack and stroke risk detectable decades in advance",
+      "tags": [
+        "conflict"
+      ],
+      "source": "Hacker News",
+      "published_at": "Tue, 24 Nov 2026 21:51:21 +0000",
+      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "US attorney general dodges questions about Nvidia investigation",
+      "title_neutral": "US attorney general dodges questions about Nvidia investigation",
+      "excerpt": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "recap_neutral": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement",
+      "main_idea": "US attorney general dodges questions about Nvidia investigation",
+      "tags": [
+        "politics"
+      ],
       "source": "BBC World",
-      "published_at": "Tue, 24 Nov 2026 17:04:20 GMT",
+      "published_at": "Tue, 24 Nov 2026 21:19:42 GMT",
       "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Armed men hold hostages at supermarket in top Colombian tourist destination",
+      "title_neutral": "Armed men hold hostages at supermarket in top Colombian tourist destination",
+      "excerpt": "Police say at least 20 held in supermarket and Cartagena incident stems from botched robbery by ‘common criminals’ Armed and masked men are holding at least 20 people hostage in a supermarket in Cartagena, one of Colombia’s most popular tourist cities. About 30 people were initially seized by the g…",
+      "recap_neutral": "Police say at least 20 held in supermarket and Cartagena incident stems from botched robbery by ‘common criminals’ Armed and masked men are holding at least 20 people hostage in a supermarket in Cartagena, one of Colomb…",
+      "main_idea": "Armed men hold hostages at supermarket in top Colombian tourist destination",
+      "tags": [
+        "economy"
+      ],
+      "source": "The Guardian",
+      "published_at": "Tue, 24 Nov 2026 21:06:37 GMT",
+      "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "title_neutral": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 24 Nov 2026 21:02:22 +0000",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "182 Blog Posts To Learn About Btc",
+      "title_neutral": "182 Blog Posts To Learn About Btc",
+      "excerpt": "Learn everything you need to know about Btc via these 182 free HackerNoon blog posts.",
+      "recap_neutral": "Learn everything you need to know about Btc via these 182 free HackerNoon blog posts",
+      "main_idea": "182 Blog Posts To Learn About Btc",
+      "tags": [],
+      "source": "HackerNoon",
+      "published_at": "Tue, 24 Nov 2026 21:01:06 GMT",
+      "url": "https://hackernoon.com/182-blog-posts-to-learn-about-btc?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "title_neutral": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 24 Nov 2026 20:44:15 +0000",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Ternary Bonsai 2.5 27B",
+      "title_neutral": "Ternary Bonsai 2.5 27B",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Ternary Bonsai 2.5 27B",
+      "tags": [
+        "tech"
+      ],
+      "source": "Hacker News",
+      "published_at": "Tue, 24 Nov 2026 20:08:03 +0000",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "title_neutral": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "tags": [],
+      "source": "Hacker News",
+      "published_at": "Tue, 24 Nov 2026 19:40:43 +0000",
+      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+      "lang": "en",
+      "bias_score": 46,
+      "left_right_index": -4,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "title_neutral": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "excerpt": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "recap_neutral": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane",
+      "main_idea": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Tue, 24 Nov 2026 19:27:23 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+      "title_neutral": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+      "excerpt": "The people were wounded in the strike on a building in Riyadh, the Saudi authorities said. The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.",
+      "recap_neutral": "The people were wounded in the strike on a building in Riyadh, the Saudi authorities said",
+      "main_idea": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+      "tags": [
+        "conflict",
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Tue, 24 Nov 2026 19:18:15 +0000",
+      "url": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Your Lead Score May Be Learning Who Sales Already Chose to Call",
+      "title_neutral": "Your Lead Score May Be Learning Who Sales Already Chose to Call",
+      "excerpt": "Audit labels, sales attention, time leakage, and evaluation before trusting an AI lead score to decide who deserves the next conversation.",
+      "recap_neutral": "Audit labels, sales attention, time leakage, and evaluation before trusting an AI lead score to decide who deserves the next conversation",
+      "main_idea": "Your Lead Score May Be Learning Who Sales Already Chose to Call",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Tue, 24 Nov 2026 19:15:03 GMT",
+      "url": "https://hackernoon.com/your-lead-score-may-be-learning-who-sales-already-chose-to-call?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "title_neutral": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "excerpt": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "recap_neutral": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support",
+      "main_idea": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "tags": [
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Tue, 24 Nov 2026 19:10:31 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
+      "title_neutral": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
+      "excerpt": "WHO chief says life expectancy has fallen from 78.8 years in 2020 to 74.4 in 2025, figures that predate US fuel blockade Life expectancy has fallen for the first time in Cuba since 1950 as the island reels from a severe economic crisis, the head of the World Health Organization (WHO) said on Tuesda…",
+      "recap_neutral": "WHO chief says life expectancy has fallen from 78",
+      "main_idea": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
+      "tags": [
+        "tech",
+        "health"
+      ],
+      "source": "The Guardian",
+      "published_at": "Tue, 24 Nov 2026 19:07:26 GMT",
+      "url": "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline",
+      "lang": "en",
+      "bias_score": 60,
+      "left_right_index": -28,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Tesla's Optimus Ties Optimus Prime 50-50: The 40 Most Contested Terms in Tech",
+      "title_neutral": "Tesla's Optimus Ties Optimus Prime 50-50: The 40 Most Contested Terms in Tech",
+      "excerpt": "40 contested tech words with two meanings, ranked by Wikipedia pageviews. See which meaning owns each word.",
+      "recap_neutral": "40 contested tech words with two meanings, ranked by Wikipedia pageviews",
+      "main_idea": "Tesla's Optimus Ties Optimus Prime 50-50: The 40 Most Contested Terms in Tech",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Tue, 24 Nov 2026 18:46:28 GMT",
+      "url": "https://hackernoon.com/teslas-optimus-ties-optimus-prime-50-50-the-40-most-contested-terms-in-tech?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A Lion on the Loose Near Istanbul? Not So Fast.",
+      "title_neutral": "A Lion on the Loose Near Istanbul? Not So Fast.",
+      "excerpt": "Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.",
+      "recap_neutral": "Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline",
+      "main_idea": "A Lion on the Loose Near Istanbul? Not So Fast.",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Tue, 24 Nov 2026 18:25:38 +0000",
+      "url": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "title_neutral": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "excerpt": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "recap_neutral": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged",
+      "main_idea": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "tags": [
+        "politics",
+        "tech"
+      ],
+      "source": "BBC World",
+      "published_at": "Tue, 24 Nov 2026 18:07:46 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "lang": "en",
+      "bias_score": 42,
+      "left_right_index": -5,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The AI Investment Race Has More Than One Winning Strategy",
+      "title_neutral": "The AI Investment Race Has More Than One Winning Strategy",
+      "excerpt": "Explore four AI investment scenarios and learn when to build, buy, or partner, with lessons from Apple, Deere, and Alphabet.",
+      "recap_neutral": "Explore four AI investment scenarios and learn when to build, buy, or partner, with lessons from Apple, Deere, and Alphabet",
+      "main_idea": "The AI Investment Race Has More Than One Winning Strategy",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Tue, 24 Nov 2026 17:30:06 GMT",
+      "url": "https://hackernoon.com/the-ai-investment-race-has-more-than-one-winning-strategy?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "A 167-Year-Old Mathematical Mystery, Two Claimed Proofs, and the Role of AI",
+      "title_neutral": "A 167-Year-Old Mathematical Mystery, Two Claimed Proofs, and the Role of AI",
+      "excerpt": "Anthropic's Levent Alpöge used Claude to compile a Lean proof of the 167-year-old Riemann hypothesis—just as a Stanford postdoc dropped a human-only proof.",
+      "recap_neutral": "Anthropic's Levent Alpöge used Claude to compile a Lean proof of the 167-year-old Riemann hypothesis—just as a Stanford postdoc dropped a human-only proof",
+      "main_idea": "A 167-Year-Old Mathematical Mystery, Two Claimed Proofs, and the Role of AI",
+      "tags": [
+        "tech"
+      ],
+      "source": "HackerNoon",
+      "published_at": "Tue, 24 Nov 2026 17:14:59 GMT",
+      "url": "https://hackernoon.com/a-167-year-old-mathematical-mystery-two-claimed-proofs-and-the-role-of-ai?source=rss",
+      "lang": "en",
+      "bias_score": 48,
+      "left_right_index": -2,
       "confidence": "heuristic"
     },
     {
@@ -313,23 +701,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "title_neutral": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Tue, 24 Nov 2026 17:00:55 +0000",
-      "url": "https://jobs.ashbyhq.com/weave-os",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -351,31 +722,12 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "title_neutral": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "excerpt": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "recap_neutral": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged",
-      "main_idea": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Tue, 24 Nov 2026 16:37:04 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Cyberattack campaign compromising Check Point servers across 22 organizations",
-      "title_neutral": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+      "title_original": "Active intrusion campaign against Check Point security management servers",
+      "title_neutral": "Active intrusion campaign against Check Point security management servers",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+      "main_idea": "Active intrusion campaign against Check Point security management servers",
       "tags": [
-        "conflict",
         "tech"
       ],
       "source": "Hacker News",
@@ -384,23 +736,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "title_neutral": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "excerpt": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "recap_neutral": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane",
-      "main_idea": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "tags": [
-        "tech"
-      ],
-      "source": "BBC World",
-      "published_at": "Tue, 24 Nov 2026 16:31:26 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
       "confidence": "heuristic"
     },
     {
@@ -428,7 +763,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Tue, 24 Nov 2026 16:27:03 +0000",
+      "published_at": "Tue, 24 Nov 2026 16:27:04 +0000",
       "url": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
       "lang": "en",
       "bias_score": 55,
@@ -445,21 +780,6 @@
       "source": "Hacker News",
       "published_at": "Tue, 24 Nov 2026 16:23:02 +0000",
       "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "How to Make a Lovable City",
-      "title_neutral": "How to Make a Lovable City",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "How to Make a Lovable City",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 24 Nov 2026 16:19:55 +0000",
-      "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -495,6 +815,40 @@
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "title_neutral": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "excerpt": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
+      "recap_neutral": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples",
+      "main_idea": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "tags": [],
+      "source": "NPR",
+      "published_at": "Tue, 24 Nov 2026 16:09:29 -0500",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+      "title_neutral": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+      "excerpt": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
+      "recap_neutral": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U",
+      "main_idea": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+      "tags": [
+        "politics",
+        "conflict",
+        "tech"
+      ],
+      "source": "NPR",
+      "published_at": "Tue, 24 Nov 2026 16:04:50 -0500",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+      "lang": "en",
+      "bias_score": 52,
+      "left_right_index": -6,
       "confidence": "heuristic"
     },
     {
@@ -542,21 +896,6 @@
       "lang": "en",
       "bias_score": 60,
       "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The KL Divergence Is Never Negative, Except in PyTorch",
-      "title_neutral": "The KL Divergence Is Never Negative, Except in PyTorch",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "The KL Divergence Is Never Negative, Except in PyTorch",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 24 Nov 2026 15:50:22 +0000",
-      "url": "https://arxiv.org/abs/2611.30835",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -609,23 +948,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "A training engine for your local model, using your idle compute",
-      "title_neutral": "A training engine for your local model, using your idle compute",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "A training engine for your local model, using your idle compute",
-      "tags": [
-        "tech"
-      ],
-      "source": "Hacker News",
-      "published_at": "Tue, 24 Nov 2026 15:03:40 +0000",
-      "url": "https://github.com/sous-labs/songe",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -695,21 +1017,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Splitting USB-C: USB 3 and USB 2 on One Port",
-      "title_neutral": "Splitting USB-C: USB 3 and USB 2 on One Port",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Splitting USB-C: USB 3 and USB 2 on One Port",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 24 Nov 2026 14:54:10 +0000",
-      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
       "title_neutral": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
       "excerpt": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
@@ -719,8 +1026,25 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Tue, 24 Nov 2026 14:42:30 +0000",
+      "published_at": "Tue, 24 Nov 2026 14:42:31 +0000",
       "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+      "lang": "en",
+      "bias_score": 55,
+      "left_right_index": -18,
+      "confidence": "heuristic"
+    },
+    {
+      "title_original": "Murder Charge Reinstated for French Police Officer in Teen’s Shooting",
+      "title_neutral": "Murder Charge Reinstated for French Police Officer in Teen’s Shooting",
+      "excerpt": "The killing of Nahel Merzouk, 17, sparked nationwide unrest. The case against the officer accused of involvement has undergone repeated twists and turns.",
+      "recap_neutral": "The killing of Nahel Merzouk, 17, sparked nationwide unrest",
+      "main_idea": "Murder Charge Reinstated for French Police Officer in Teen’s Shooting",
+      "tags": [
+        "tech"
+      ],
+      "source": "NYTimes World",
+      "published_at": "Tue, 24 Nov 2026 14:13:17 +0000",
+      "url": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
       "lang": "en",
       "bias_score": 55,
       "left_right_index": -18,
@@ -738,23 +1062,6 @@
       "source": "HackerNoon",
       "published_at": "Tue, 24 Nov 2026 14:05:45 GMT",
       "url": "https://hackernoon.com/bravas-ghost-feeds-finds-nearly-1200-organizations-exposed-to-log-injection?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The Hidden Engineering Work Behind a Paid Media Experiment",
-      "title_neutral": "The Hidden Engineering Work Behind a Paid Media Experiment",
-      "excerpt": "Learn how to design a paid media experiment with a clear hypothesis, reliable test and control groups, consistent outcome definitions and a decision rule set be",
-      "recap_neutral": "Learn how to design a paid media experiment with a clear hypothesis, reliable test and control groups, consistent outcome definitions and a decision rule set be",
-      "main_idea": "The Hidden Engineering Work Behind a Paid Media Experiment",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Tue, 24 Nov 2026 14:04:28 GMT",
-      "url": "https://hackernoon.com/the-hidden-engineering-work-behind-a-paid-media-experiment?source=rss",
       "lang": "en",
       "bias_score": 48,
       "left_right_index": -2,
@@ -810,73 +1117,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Building a Sales Forecast That’s Useful Beyond the Model Score",
-      "title_neutral": "Building a Sales Forecast That’s Useful Beyond the Model Score",
-      "excerpt": "Learn how to build a retail sales forecast in Python by aggregating monthly data, creating time-based features, evaluating models chronologically and comparing",
-      "recap_neutral": "Learn how to build a retail sales forecast in Python by aggregating monthly data, creating time-based features, evaluating models chronologically and comparing",
-      "main_idea": "Building a Sales Forecast That’s Useful Beyond the Model Score",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Tue, 24 Nov 2026 13:38:41 GMT",
-      "url": "https://hackernoon.com/building-a-sales-forecast-thats-useful-beyond-the-model-score?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Customer Churn Prediction Is More Than Picking a Model",
-      "title_neutral": "Customer Churn Prediction Is More Than Picking a Model",
-      "excerpt": "A practical guide to building a customer churn model in Python, from defining churn and preparing data to evaluating predictions with suitable metrics.",
-      "recap_neutral": "A practical guide to building a customer churn model in Python, from defining churn and preparing data to evaluating predictions with suitable metrics",
-      "main_idea": "Customer Churn Prediction Is More Than Picking a Model",
-      "tags": [],
-      "source": "HackerNoon",
-      "published_at": "Tue, 24 Nov 2026 13:33:52 GMT",
-      "url": "https://hackernoon.com/customer-churn-prediction-is-more-than-picking-a-model?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Verra Raises $5M From Kearny Jackson to Bring AI Agents to the $1.1T Consulting Industry",
-      "title_neutral": "Verra Raises $5M From Kearny Jackson to Bring AI Agents to the $1.1T Consulting Industry",
-      "excerpt": "Verra raises a $5M seed led by Kearny Jackson to turn decades of consulting work into sourced first drafts, cutting 80-hour starts to as little as 10,",
-      "recap_neutral": "Verra raises a $5M seed led by Kearny Jackson to turn decades of consulting work into sourced first drafts, cutting 80-hour starts to as little as 10,",
-      "main_idea": "Verra Raises $5M From Kearny Jackson to Bring AI Agents to the $1.1T Consulting Industry",
-      "tags": [
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Tue, 24 Nov 2026 13:25:15 GMT",
-      "url": "https://hackernoon.com/verra-raises-$5m-from-kearny-jackson-to-bring-ai-agents-to-the-$11t-consulting-industry?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "AI Programming Tutor: How to Use AI to Learn Programming Faster",
-      "title_neutral": "AI Programming Tutor: How to Use AI to Learn Programming Faster",
-      "excerpt": "Discover why AI should support, not replace, programming knowledge. Explore code generation, algorithms, testing, security, and software engineering skills.",
-      "recap_neutral": "Discover why AI should support, not replace, programming knowledge",
-      "main_idea": "AI Programming Tutor: How to Use AI to Learn Programming Faster",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "HackerNoon",
-      "published_at": "Tue, 24 Nov 2026 13:23:32 GMT",
-      "url": "https://hackernoon.com/ai-programming-tutor-how-to-use-ai-to-learn-programming-faster?source=rss",
-      "lang": "en",
-      "bias_score": 48,
-      "left_right_index": -2,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for",
       "title_neutral": "Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for",
       "excerpt": "As the death toll rose to 26, one rescue worker said that more victims might be found near a stairwell in the building. The police opened a criminal investigation.",
@@ -908,21 +1148,6 @@
       "lang": "en",
       "bias_score": 42,
       "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "LLM agents work for their parent companies, not for you",
-      "title_neutral": "LLM agents work for their parent companies, not for you",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "LLM agents work for their parent companies, not for you",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 24 Nov 2026 12:40:15 +0000",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
@@ -1009,21 +1234,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Worshipping at the altar of Brendan Gregg",
-      "title_neutral": "Worshipping at the altar of Brendan Gregg",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "Worshipping at the altar of Brendan Gregg",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 24 Nov 2026 10:50:14 +0000",
-      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
       "title_neutral": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
       "excerpt": "Sanae Takaichi welcomed the court’s president and vowed to accelerate financial support despite an effort by the Trump administration to cripple the global body.",
@@ -1034,7 +1244,7 @@
         "tech"
       ],
       "source": "NYTimes World",
-      "published_at": "Tue, 24 Nov 2026 10:35:29 +0000",
+      "published_at": "Tue, 24 Nov 2026 10:35:30 +0000",
       "url": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
       "lang": "en",
       "bias_score": 55,
@@ -1057,15 +1267,15 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Quad9 pulled their DNS service from France",
-      "title_neutral": "Quad9 pulled their DNS service from France",
+      "title_original": "Gödel Enigma",
+      "title_neutral": "Gödel Enigma",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Quad9 pulled their DNS service from France",
+      "main_idea": "Gödel Enigma",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Tue, 24 Nov 2026 08:33:14 +0000",
-      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+      "published_at": "Tue, 24 Nov 2026 08:16:02 +0000",
+      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
@@ -1104,21 +1314,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "2035 came early",
-      "title_neutral": "2035 came early",
-      "excerpt": "Comments",
-      "recap_neutral": "Comments",
-      "main_idea": "2035 came early",
-      "tags": [],
-      "source": "Hacker News",
-      "published_at": "Tue, 24 Nov 2026 06:30:33 +0000",
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "lang": "en",
-      "bias_score": 46,
-      "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "What should it cost to insure a home in wildfire country?",
       "title_neutral": "What should it cost to insure a home in wildfire country?",
       "excerpt": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?",
@@ -1131,36 +1326,6 @@
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
-      "title_neutral": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
-      "excerpt": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
-      "recap_neutral": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date",
-      "main_idea": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Tue, 24 Nov 2026 06:23:01 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Pope Francis Diary Excerpts Published in New Book",
-      "title_neutral": "Pope Francis Diary Excerpts Published in New Book",
-      "excerpt": "Over decades, before and after he became leader of the Roman Catholic Church, Francis recorded occasional entries about his fears and doubts.",
-      "recap_neutral": "Over decades, before and after he became leader of the Roman Catholic Church, Francis recorded occasional entries about his fears and doubts",
-      "main_idea": "Pope Francis Diary Excerpts Published in New Book",
-      "tags": [],
-      "source": "NYTimes World",
-      "published_at": "Tue, 24 Nov 2026 06:00:06 +0000",
-      "url": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1239,39 +1404,6 @@
       "source": "NPR",
       "published_at": "Tue, 24 Nov 2026 05:00:00 -0500",
       "url": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Meet Colombia's fuzzy 'water guardians'",
-      "title_neutral": "Meet Colombia's fuzzy 'water guardians'",
-      "excerpt": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.",
-      "recap_neutral": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time",
-      "main_idea": "Meet Colombia's fuzzy 'water guardians'",
-      "tags": [],
-      "source": "NPR",
-      "published_at": "Tue, 24 Nov 2026 05:00:00 -0500",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
-      "lang": "en",
-      "bias_score": 52,
-      "left_right_index": -6,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
-      "title_neutral": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
-      "excerpt": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
-      "recap_neutral": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them",
-      "main_idea": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
-      "tags": [
-        "politics",
-        "tech"
-      ],
-      "source": "NPR",
-      "published_at": "Tue, 24 Nov 2026 05:00:00 -0500",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
       "lang": "en",
       "bias_score": 52,
       "left_right_index": -6,
@@ -1363,11 +1495,11 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Mechanical Pencil: Spray Bottle",
-      "title_neutral": "Mechanical Pencil: Spray Bottle",
+      "title_original": "The Spray Bottle",
+      "title_neutral": "The Spray Bottle",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Mechanical Pencil: Spray Bottle",
+      "main_idea": "The Spray Bottle",
       "tags": [],
       "source": "Hacker News",
       "published_at": "Sun, 22 Nov 2026 11:16:30 +0000",
@@ -1375,41 +1507,6 @@
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
-      "title_neutral": "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
-      "excerpt": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people • Slave-trade wealth was embedded in Britain’s financial system, research finds British businesses run by long-serving directors of the Bank of England profit…",
-      "recap_neutral": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people • Slave-trade wealth was embedded in Britain’s financial system, research find…",
-      "main_idea": "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
-      "tags": [
-        "economy",
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Sun, 22 Nov 2026 08:00:22 GMT",
-      "url": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-      "title_neutral": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-      "excerpt": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Ch…",
-      "recap_neutral": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexi…",
-      "main_idea": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-      "tags": [
-        "tech"
-      ],
-      "source": "The Guardian",
-      "published_at": "Sat, 21 Nov 2026 17:46:55 GMT",
-      "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
       "confidence": "heuristic"
     },
     {
@@ -1445,74 +1542,6 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
-      "title_neutral": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
-      "excerpt": "Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.",
-      "recap_neutral": "Hacked government data underscores the immense human cost of President Vladimir V",
-      "main_idea": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
-      "tags": [
-        "politics",
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 23 Nov 2026 19:19:23 +0000",
-      "url": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
-      "lang": "en",
-      "bias_score": 49,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
-      "title_neutral": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
-      "excerpt": "The Israeli prime minister, Benjamin Netanyahu, calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests.",
-      "recap_neutral": "The Israeli prime minister, Benjamin Netanyahu, calls renewing strikes a matter of national security",
-      "main_idea": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 23 Nov 2026 18:54:42 +0000",
-      "url": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict",
-      "title_neutral": "Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict",
-      "excerpt": "At least three people were injured. The United Nations has reported a 445 percent increase in drone bombings in the country.",
-      "recap_neutral": "At least three people were injured",
-      "main_idea": "Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict",
-      "tags": [
-        "conflict"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 23 Nov 2026 18:05:31 +0000",
-      "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Iranian authorities flog singer who performed without hijab, lawyers say",
-      "title_neutral": "Iranian authorities flog singer who performed without hijab, lawyers say",
-      "excerpt": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
-      "recap_neutral": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom",
-      "main_idea": "Iranian authorities flog singer who performed without hijab, lawyers say",
-      "tags": [],
-      "source": "BBC World",
-      "published_at": "Mon, 23 Nov 2026 18:04:20 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-      "lang": "en",
-      "bias_score": 42,
-      "left_right_index": -5,
-      "confidence": "heuristic"
-    },
-    {
       "title_original": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
       "title_neutral": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
       "excerpt": "Island’s labour minister, Colin Jordan, says agreement acknowledges links between Speightstown and UK city are rooted in slave trade A town in Barbados known as “Little Bristol” has signed a “twinning’” agreement with the UK city, marking a new chapter in a centuries-long relationship rooted in the…",
@@ -1528,53 +1557,18 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Lucy Powell to visit China to promote UK education weeks after MI5 warning",
-      "title_neutral": "Lucy Powell to visit China to promote UK education weeks after MI5 warning",
-      "excerpt": "Delegation of 50 to accompany minister, with trip criticised after universities were warned about Chinese interference The education secretary, Lucy Powell, is travelling to Beijing this week to promote UK education, weeks after MI5 issued a rare public warning to universities about Chinese interfe…",
-      "recap_neutral": "Delegation of 50 to accompany minister, with trip criticised after universities were warned about Chinese interference The education secretary, Lucy Powell, is travelling to Beijing this week to promote UK education, we…",
-      "main_idea": "Lucy Powell to visit China to promote UK education weeks after MI5 warning",
-      "tags": [
-        "conflict"
-      ],
-      "source": "The Guardian",
-      "published_at": "Mon, 23 Nov 2026 16:42:09 GMT",
-      "url": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
-      "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "Gnomon: Git for Postgres Data",
-      "title_neutral": "Gnomon: Git for Postgres Data",
+      "title_original": "An Italian folding bicycle design that fits into a suitcase",
+      "title_neutral": "An Italian folding bicycle design that fits into a suitcase",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "Gnomon: Git for Postgres Data",
+      "main_idea": "An Italian folding bicycle design that fits into a suitcase",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Mon, 23 Nov 2026 14:03:38 +0000",
-      "url": "https://gnomon.bitsinfra.com/",
+      "published_at": "Mon, 23 Nov 2026 12:40:08 +0000",
+      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
-      "confidence": "heuristic"
-    },
-    {
-      "title_original": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
-      "title_neutral": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
-      "excerpt": "When the military refused to let them sign up, a band of aging men found their own way to wage war against Russia.",
-      "recap_neutral": "When the military refused to let them sign up, a band of aging men found their own way to wage war against Russia",
-      "main_idea": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
-      "tags": [
-        "conflict",
-        "tech"
-      ],
-      "source": "NYTimes World",
-      "published_at": "Mon, 23 Nov 2026 13:53:33 +0000",
-      "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html",
-      "lang": "en",
-      "bias_score": 55,
-      "left_right_index": -18,
       "confidence": "heuristic"
     },
     {
@@ -1596,30 +1590,30 @@
       "confidence": "heuristic"
     },
     {
-      "title_original": "Trump administration deported US citizen to Mexico, DoJ admits in court",
-      "title_neutral": "Trump administration deported US citizen to Mexico, DoJ admits in court",
-      "excerpt": "Brian Morales García of Texas seeks damages after he was wrongly identified as undocumented in case White House wants dropped The Trump administration recently admitted in federal court that it deported a US citizen to Mexico after American authorities incorrectly concluded he was an undocumented i…",
-      "recap_neutral": "Brian Morales García of Texas seeks damages after he was wrongly identified as undocumented in case White House wants dropped The Trump administration recently admitted in federal court that it deported a US citizen to…",
-      "main_idea": "Trump administration deported US citizen to Mexico, DoJ admits in court",
+      "title_original": "Calculate how many mesh radio nodes your city needs",
+      "title_neutral": "Calculate how many mesh radio nodes your city needs",
+      "excerpt": "Comments",
+      "recap_neutral": "Comments",
+      "main_idea": "Calculate how many mesh radio nodes your city needs",
       "tags": [],
-      "source": "The Guardian",
-      "published_at": "Mon, 23 Nov 2026 11:00:56 GMT",
-      "url": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
+      "source": "Hacker News",
+      "published_at": "Mon, 23 Nov 2026 09:46:57 +0000",
+      "url": "https://meshcoveragecalculator.lalala.ing/",
       "lang": "en",
-      "bias_score": 60,
-      "left_right_index": -28,
+      "bias_score": 46,
+      "left_right_index": -4,
       "confidence": "heuristic"
     },
     {
-      "title_original": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
-      "title_neutral": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
+      "title_original": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
+      "title_neutral": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
       "excerpt": "Comments",
       "recap_neutral": "Comments",
-      "main_idea": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
+      "main_idea": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
       "tags": [],
       "source": "Hacker News",
-      "published_at": "Mon, 23 Nov 2026 06:54:08 +0000",
-      "url": "https://dl.acm.org/doi/10.1145/3828523.3857112",
+      "published_at": "Mon, 23 Nov 2026 02:10:39 +0000",
+      "url": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
       "lang": "en",
       "bias_score": 46,
       "left_right_index": -4,
